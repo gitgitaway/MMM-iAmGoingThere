@@ -1,0 +1,251 @@
+{
+  "ts": 1777491734844,
+  "fingerprint": "{\"flights\":[{\"travelerName\":\"John Smith\",\"flightNumber\":\"BA005\",\"departureDate\":\"2026-04-29\",\"from\":\"LHR\",\"to\":\"HND\"},{\"travelerName\":\"John Smith\",\"flightNumber\":\"BA006\",\"departureDate\":\"2026-05-06\",\"from\":\"HND\",\"to\":\"LHR\"}],\"travelers\":[],\"overideDate\":false}",
+  "data": {
+    "legs": [
+      {
+        "id": "leg_0",
+        "travelerName": "John Smith",
+        "flightNumber": "BA005",
+        "departureDate": "2026-04-29",
+        "departureTime": "",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "Tokyo Haneda",
+          "iata": "HND",
+          "lat": 35.5494,
+          "lon": 139.7798,
+          "country": "Japan"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_1",
+        "travelerName": "John Smith",
+        "flightNumber": "BA006",
+        "departureDate": "2026-05-06",
+        "departureTime": "",
+        "from": {
+          "name": "Tokyo Haneda",
+          "iata": "HND",
+          "lat": 35.5494,
+          "lon": 139.7798,
+          "country": "Japan"
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      }
+    ],
+    "cityInfo": {
+      "Tokyo Haneda": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "iata": "HND",
+        "lat": "35.5494",
+        "lon": "139.7798",
+        "stadium": "",
+        "attractionsFile": "tokyo.json",
+        "attractions": {
+          "city": "Tokyo",
+          "country": "Japan",
+          "airportPostcode": "144-0041",
+          "airportDistanceKm": 20,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Senso-ji Temple",
+              "description": "Tokyo's oldest temple in Asakusa with the iconic Kaminarimon Thunder Gate"
+            },
+            {
+              "rank": 2,
+              "name": "Shibuya Crossing",
+              "description": "World's busiest pedestrian crossing with up to 3,000 people crossing at once"
+            },
+            {
+              "rank": 3,
+              "name": "Tokyo Skytree",
+              "description": "World's tallest broadcasting tower at 634m with observation decks at 350m and 450m"
+            },
+            {
+              "rank": 4,
+              "name": "Meiji Shrine",
+              "description": "Serene forested Shinto shrine in the heart of Harajuku dedicated to Emperor Meiji"
+            },
+            {
+              "rank": 5,
+              "name": "Shinjuku Gyoen",
+              "description": "Former imperial garden combining Japanese, French and English garden styles"
+            },
+            {
+              "rank": 6,
+              "name": "TeamLab Borderless",
+              "description": "Immersive digital art museum where the artworks move through the entire building"
+            },
+            {
+              "rank": 7,
+              "name": "Akihabara Electric Town",
+              "description": "Tokyo's tech and anime district with multi-storey electronics and manga shops"
+            },
+            {
+              "rank": 8,
+              "name": "Tsukiji Outer Market",
+              "description": "Fish market atmosphere with the world's finest sushi for breakfast"
+            },
+            {
+              "rank": 9,
+              "name": "Imperial Palace East Gardens",
+              "description": "Former inner citadel of Edo Castle with traditional Japanese landscape garden"
+            },
+            {
+              "rank": 10,
+              "name": "Harajuku & Takeshita Street",
+              "description": "Youth fashion capital and birthplace of Lolita and kawaii street style"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T19:30",
+          "interval": 900,
+          "temperature": 13.6,
+          "windspeed": 11.2,
+          "winddirection": 50,
+          "is_day": 0,
+          "weathercode": 2
+        }
+      },
+      "London Heathrow": {
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": "51.47",
+        "lon": "-0.4543",
+        "stadium": "",
+        "attractionsFile": "london.json",
+        "attractions": {
+          "city": "London",
+          "country": "United Kingdom",
+          "airportPostcode": "TW6 1EW",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Tower of London",
+              "description": "Historic castle and former royal palace on the north bank of the Thames"
+            },
+            {
+              "rank": 2,
+              "name": "Buckingham Palace",
+              "description": "Official London residence and administrative headquarters of the British monarch"
+            },
+            {
+              "rank": 3,
+              "name": "British Museum",
+              "description": "World-class collection of human history, art and culture spanning two million years"
+            },
+            {
+              "rank": 4,
+              "name": "Tower Bridge",
+              "description": "Iconic Victorian bascule bridge and London landmark opening over the River Thames"
+            },
+            {
+              "rank": 5,
+              "name": "Westminster Abbey",
+              "description": "Gothic abbey church and site of British royal coronations since 1066"
+            },
+            {
+              "rank": 6,
+              "name": "National Gallery",
+              "description": "Art museum on Trafalgar Square housing over 2,300 paintings from 1250 to 1900"
+            },
+            {
+              "rank": 7,
+              "name": "Hyde Park",
+              "description": "350-acre royal park in central London famous for the Serpentine and Speaker's Corner"
+            },
+            {
+              "rank": 8,
+              "name": "St Paul's Cathedral",
+              "description": "Sir Christopher Wren's Baroque masterpiece with its iconic dome dominating the City skyline"
+            },
+            {
+              "rank": 9,
+              "name": "Tate Modern",
+              "description": "Leading modern art gallery in a converted Bankside power station"
+            },
+            {
+              "rank": 10,
+              "name": "Trafalgar Square",
+              "description": "Public plaza centred on Nelson's Column, heart of the capital's civic life"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T19:30",
+          "interval": 900,
+          "temperature": 14.3,
+          "windspeed": 22.3,
+          "winddirection": 76,
+          "is_day": 0,
+          "weathercode": 0
+        }
+      }
+    },
+    "visitedCountryIsos": []
+  }
+}
