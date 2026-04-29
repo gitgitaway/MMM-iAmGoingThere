@@ -1,0 +1,58 @@
+{
+  "city": "Victoria",
+  "country": "Seychelles",
+  "airportPostcode": "100",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vallee de Mai Nature Reserve",
+      "description": "UNESCO World Heritage prehistoric forest on Praslin with the coco de mer palm"
+    },
+    {
+      "rank": 2,
+      "name": "Anse Source d'Argent, La Digue",
+      "description": "World's most photographed beach with granite boulders and crystal water"
+    },
+    {
+      "rank": 3,
+      "name": "Aldabra Atoll",
+      "description": "UNESCO World Heritage world's second largest coral atoll with giant Aldabra tortoises"
+    },
+    {
+      "rank": 4,
+      "name": "Victoria Sir Selwyn Selwyn-Clarke Market",
+      "description": "Local market with coco de mer, vanilla, cinnamon, fresh fish and fresh coconut"
+    },
+    {
+      "rank": 5,
+      "name": "Mahe Beaches - Beau Vallon",
+      "description": "Mahe's main beach with watersports, snorkelling and a Saturday night market"
+    },
+    {
+      "rank": 6,
+      "name": "Natural History Museum",
+      "description": "Giant Aldabra tortoise skeleton and the natural history of the Seychelles islands"
+    },
+    {
+      "rank": 7,
+      "name": "Morne Seychellois National Park",
+      "description": "Hiking through cinnamon and takamaka forest on the highest peak in the Seychelles"
+    },
+    {
+      "rank": 8,
+      "name": "Island Hopping (Praslin, La Digue)",
+      "description": "Ferry to Praslin for the Vallee de Mai, then bicycle around car-free La Digue"
+    },
+    {
+      "rank": 9,
+      "name": "Hindu Temple (Sri Navasakthi Vinayagar)",
+      "description": "Colourful South Indian Hindu temple in the heart of Victoria"
+    },
+    {
+      "rank": 10,
+      "name": "Creole Festival (October)",
+      "description": "Festival Kreol celebrating Seychellois Creole music, food and cultural traditions"
+    }
+  ]
+}

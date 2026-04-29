@@ -1,0 +1,58 @@
+{
+  "city": "Venice",
+  "country": "Italy",
+  "airportPostcode": "30030",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "St Mark's Basilica",
+      "description": "Byzantine masterpiece with golden mosaics and the famous bronze horses above the portal"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Canal Gondola Ride",
+      "description": "Iconic waterway lined with Renaissance palaces, best experienced by gondola or vaporetto"
+    },
+    {
+      "rank": 3,
+      "name": "Doge's Palace",
+      "description": "Gothic seat of Venetian power with the Bridge of Sighs and prisons beyond"
+    },
+    {
+      "rank": 4,
+      "name": "Rialto Bridge & Market",
+      "description": "Iconic 16th-century stone bridge and the oldest market in Venice"
+    },
+    {
+      "rank": 5,
+      "name": "Murano Island",
+      "description": "Island famous for centuries of glass-blowing tradition with working demonstrations"
+    },
+    {
+      "rank": 6,
+      "name": "Piazza San Marco",
+      "description": "Napoleon's drawing room, the only piazza in Venice with the basilica and campanile"
+    },
+    {
+      "rank": 7,
+      "name": "Peggy Guggenheim Collection",
+      "description": "World-class modern art collection in the Palazzo Venier dei Leoni on the Grand Canal"
+    },
+    {
+      "rank": 8,
+      "name": "Burano Island",
+      "description": "Colourful fishing island famous for lace-making and multicoloured houses"
+    },
+    {
+      "rank": 9,
+      "name": "Gallerie dell'Accademia",
+      "description": "Venice's greatest art museum tracing the history of Venetian painting"
+    },
+    {
+      "rank": 10,
+      "name": "Frari Church (Santa Maria Gloriosa)",
+      "description": "Gothic masterpiece housing Titian's Assumption and the Pesaro altarpiece"
+    }
+  ]
+}

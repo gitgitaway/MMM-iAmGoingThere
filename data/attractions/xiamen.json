@@ -1,0 +1,58 @@
+{
+  "city": "Xiamen",
+  "country": "China",
+  "airportPostcode": "361009",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gulangyu Island",
+      "description": "UNESCO World Heritage car-free island with European and Chinese architecture and piano culture"
+    },
+    {
+      "rank": 2,
+      "name": "Nanputuo Temple",
+      "description": "Tang dynasty Buddhist temple on the mountain with a vegetarian restaurant"
+    },
+    {
+      "rank": 3,
+      "name": "Piano Museum on Gulangyu",
+      "description": "Collection of 100 pianos from around the world in a colonial villa"
+    },
+    {
+      "rank": 4,
+      "name": "Zhongshan Road Pedestrian Street",
+      "description": "Colonial-era covered arcade shopping street - China's finest 1920s commercial architecture"
+    },
+    {
+      "rank": 5,
+      "name": "Xiamen University Campus",
+      "description": "One of China's most beautiful campuses with a colonial-influenced architecture"
+    },
+    {
+      "rank": 6,
+      "name": "Wanshi Botanical Garden",
+      "description": "Hilltop botanical garden with bamboo forest, exotic plants and lake views"
+    },
+    {
+      "rank": 7,
+      "name": "Jimei School Village (Turtle Garden)",
+      "description": "Educational complex founded by overseas Chinese with a fascinating museum"
+    },
+    {
+      "rank": 8,
+      "name": "Quanzhou Day Trip",
+      "description": "UNESCO World Heritage Silk Road port with a mosque built by Arab merchants in 1009"
+    },
+    {
+      "rank": 9,
+      "name": "Hulishan Fortress (Fort)",
+      "description": "1891 coastal fortress with the world's largest surviving coastal cannon"
+    },
+    {
+      "rank": 10,
+      "name": "Shacha Noodles",
+      "description": "Xiamen's unique noodle dish with satay-style seafood broth - local breakfast staple"
+    }
+  ]
+}

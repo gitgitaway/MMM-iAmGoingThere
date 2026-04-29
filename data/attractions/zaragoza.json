@@ -1,0 +1,58 @@
+{
+  "city": "Zaragoza",
+  "country": "Spain",
+  "airportPostcode": "50197",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Basilica del Pilar",
+      "description": "Magnificent baroque basilica on the Ebro river, one of Spain's most visited pilgrimage sites"
+    },
+    {
+      "rank": 2,
+      "name": "Aljaferia Palace",
+      "description": "Stunning 11th-century Moorish palace, the finest outside Andalusia"
+    },
+    {
+      "rank": 3,
+      "name": "La Seo Cathedral",
+      "description": "Gothic-Mudejar cathedral with extraordinary tapestry museum"
+    },
+    {
+      "rank": 4,
+      "name": "El Tubo",
+      "description": "Labyrinth of narrow streets in the old town, heart of Zaragoza's tapas culture"
+    },
+    {
+      "rank": 5,
+      "name": "Goya Museum",
+      "description": "Museum dedicated to Francisco de Goya, born nearby in Fuendetodos"
+    },
+    {
+      "rank": 6,
+      "name": "Roman Ruins of Caesar Augusta",
+      "description": "Network of underground museums revealing the Roman city beneath Zaragoza"
+    },
+    {
+      "rank": 7,
+      "name": "Parque Grande Jose Antonio Labordeta",
+      "description": "Vast city park with rose garden, fountains and sports facilities"
+    },
+    {
+      "rank": 8,
+      "name": "Mercado Central",
+      "description": "Modernist covered market with local Aragonese produce"
+    },
+    {
+      "rank": 9,
+      "name": "Stone Bridge (Puente de Piedra)",
+      "description": "Historic seven-arch stone bridge over the Ebro dating to the 15th century"
+    },
+    {
+      "rank": 10,
+      "name": "Pablo Serrano Museum",
+      "description": "Collection of Aragonese sculptor Pablo Serrano with rotating exhibitions"
+    }
+  ]
+}

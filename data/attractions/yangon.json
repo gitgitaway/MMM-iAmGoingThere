@@ -1,0 +1,58 @@
+{
+  "city": "Yangon",
+  "country": "Myanmar",
+  "airportPostcode": "11021",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Shwedagon Pagoda",
+      "description": "Possibly the world's most beautiful Buddhist stupa at 98m gold-covered and encrusted with diamonds"
+    },
+    {
+      "rank": 2,
+      "name": "Bogyoke Aung San Market (Scott Market)",
+      "description": "1926 colonial market with jade, lacquerware, traditional fabrics and Burmese gems"
+    },
+    {
+      "rank": 3,
+      "name": "Sule Pagoda",
+      "description": "2,000-year-old octagonal pagoda at the centre of the British colonial grid plan"
+    },
+    {
+      "rank": 4,
+      "name": "Colonial Architecture Walk",
+      "description": "British colonial buildings from the 1890s-1920s along Pansodan and Strand streets"
+    },
+    {
+      "rank": 5,
+      "name": "Chaukhtatgyi Buddha Temple",
+      "description": "Reclining Buddha 66m long with beautifully painted eyes and an elaborate fishtail"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of Myanmar",
+      "description": "Regalia of the last Burmese kings including the Lion Throne and royal ceremonial attire"
+    },
+    {
+      "rank": 7,
+      "name": "Strand Hotel",
+      "description": "1901 colonial landmark hotel on the riverfront - have tea or a Pegu Club cocktail"
+    },
+    {
+      "rank": 8,
+      "name": "Yangon Circular Train",
+      "description": "3-hour loop on the 1950s commuter train through Yangon's suburbs and countryside"
+    },
+    {
+      "rank": 9,
+      "name": "Inya Lake",
+      "description": "Boat trip on the lake with the hillside Kaba Aye Pagoda and World Peace Pagoda"
+    },
+    {
+      "rank": 10,
+      "name": "Bago Day Trip",
+      "description": "Ancient Mon capital 80km away with the world's largest reclining Buddha"
+    }
+  ]
+}

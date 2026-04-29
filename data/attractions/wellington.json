@@ -1,0 +1,58 @@
+{
+  "city": "Wellington",
+  "country": "New Zealand",
+  "airportPostcode": "6022",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Te Papa Museum",
+      "description": "New Zealand's national museum with extraordinary Maori collection and earthquake simulator"
+    },
+    {
+      "rank": 2,
+      "name": "Wellington Cable Car",
+      "description": "Iconic red cable car from Lambton Quay to the Botanic Garden and observatory"
+    },
+    {
+      "rank": 3,
+      "name": "Weta Workshop",
+      "description": "Film props and special effects workshop behind Lord of the Rings, King Kong and Avatar"
+    },
+    {
+      "rank": 4,
+      "name": "Wellington Waterfront",
+      "description": "7km harbour walk with Frank Kitts Park, Frank the tin man sculpture and water taxis"
+    },
+    {
+      "rank": 5,
+      "name": "Mount Victoria Lookout",
+      "description": "Panoramic views of the harbour and beyond from the summit of Mount Victoria"
+    },
+    {
+      "rank": 6,
+      "name": "Cuban Quarter (Cuba Street)",
+      "description": "Wellington's arts and culture hub with independent shops, cafes and street art"
+    },
+    {
+      "rank": 7,
+      "name": "Zealandia Ecosanctuary",
+      "description": "Urban eco-sanctuary with tuatara, kaka and rare birds in a valley 2km from the CBD"
+    },
+    {
+      "rank": 8,
+      "name": "Martinborough Wine Village",
+      "description": "Day trip to charming wine village with Pinot Noir vineyards on the Wairarapa plains"
+    },
+    {
+      "rank": 9,
+      "name": "New Zealand Parliament (Beehive)",
+      "description": "Tours of the distinctive 1977 circular Executive Wing and historic Parliament Buildings"
+    },
+    {
+      "rank": 10,
+      "name": "Wellington Zoo",
+      "description": "New Zealand's oldest zoo with nocturnal kiwi house and tuatara enclosure"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "Zurich",
+  "country": "Switzerland",
+  "airportPostcode": "8058",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Town (Altstadt)",
+      "description": "Medieval old town on both banks of the Limmat with winding lanes and guild houses"
+    },
+    {
+      "rank": 2,
+      "name": "Lake Zurich",
+      "description": "Beautiful lake with boat trips, swimming spots and mountain backdrop"
+    },
+    {
+      "rank": 3,
+      "name": "Kunsthaus Zurich",
+      "description": "Switzerland's largest art museum with Giacometti, Munch and exceptional Impressionist works"
+    },
+    {
+      "rank": 4,
+      "name": "Bahnhofstrasse",
+      "description": "One of the world's most exclusive shopping streets running from the main station to the lake"
+    },
+    {
+      "rank": 5,
+      "name": "Grossmunster",
+      "description": "Romanesque-style Protestant church with stained glass by Augusto Giacometti"
+    },
+    {
+      "rank": 6,
+      "name": "Fraumunster",
+      "description": "Former abbey church with five stunning stained-glass windows by Marc Chagall"
+    },
+    {
+      "rank": 7,
+      "name": "Swiss National Museum",
+      "description": "Comprehensive collection of Swiss cultural history in a fairy-tale castle"
+    },
+    {
+      "rank": 8,
+      "name": "Zurich Zoo",
+      "description": "Highly rated zoo with Masoala Rainforest hall and Lewa Savanna African exhibit"
+    },
+    {
+      "rank": 9,
+      "name": "Lindenhugel Hill",
+      "description": "Hillside park with a landmark fountain and great views over the Limmat valley"
+    },
+    {
+      "rank": 10,
+      "name": "Rietberg Museum",
+      "description": "Outstanding collection of non-European art including African, Asian and ancient American"
+    }
+  ]
+}

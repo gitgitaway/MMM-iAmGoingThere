@@ -1,0 +1,58 @@
+{
+  "city": "Wroclaw",
+  "country": "Poland",
+  "airportPostcode": "54-530",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Market Square (Rynek)",
+      "description": "One of Central Europe's most beautiful Gothic town squares with the Old Town Hall"
+    },
+    {
+      "rank": 2,
+      "name": "Centennial Hall",
+      "description": "UNESCO World Heritage early 20th-century reinforced concrete masterpiece by Max Berg"
+    },
+    {
+      "rank": 3,
+      "name": "Wroclaw Cathedral",
+      "description": "Gothic cathedral on Cathedral Island with twin towers and lift to panoramic views"
+    },
+    {
+      "rank": 4,
+      "name": "Panorama of the Battle of Raclawice",
+      "description": "Immersive 1794 battle panorama, the only rotunda painting still in its original rotunda"
+    },
+    {
+      "rank": 5,
+      "name": "Wroclaw Dwarfs Trail",
+      "description": "Over 350 tiny bronze gnomes hidden across the city in a charming scavenger hunt"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum Wroclaw",
+      "description": "Outstanding art collection with the spectacular Panorama of Raclawice"
+    },
+    {
+      "rank": 7,
+      "name": "Afrykarium",
+      "description": "World's only oceanarium dedicated exclusively to African aquatic ecosystems"
+    },
+    {
+      "rank": 8,
+      "name": "Sand Island (Ostrow Tumski)",
+      "description": "Cathedral Island, the oldest part of Wroclaw with medieval churches and gas lamps"
+    },
+    {
+      "rank": 9,
+      "name": "Botanical Garden",
+      "description": "Beautiful 19th-century botanical garden with over 7,000 species"
+    },
+    {
+      "rank": 10,
+      "name": "Old Town Hall",
+      "description": "Gothic masterpiece considered the most beautiful Gothic building in Silesia"
+    }
+  ]
+}

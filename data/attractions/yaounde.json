@@ -1,0 +1,58 @@
+{
+  "city": "Yaounde",
+  "country": "Cameroon",
+  "airportPostcode": "BP 3380",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Cameroon",
+      "description": "Former presidential palace with extraordinary Bamileke, Fulani and Fang tribal art"
+    },
+    {
+      "rank": 2,
+      "name": "Mvog-Betsi Zoo & Botanical Garden",
+      "description": "Gorillas, chimpanzees and an impressive array of Cameroonian wildlife"
+    },
+    {
+      "rank": 3,
+      "name": "Bamileke Royal Palace (Bafoussam)",
+      "description": "Traditional Bamileke chiefly compound 4 hours west - extraordinary carved architecture"
+    },
+    {
+      "rank": 4,
+      "name": "Cathedral Notre-Dame des Victoires",
+      "description": "French colonial cathedral on the Hill of Victory overlooking Yaounde"
+    },
+    {
+      "rank": 5,
+      "name": "Artisanat Centre",
+      "description": "Craft market with Cameroonian masks, brass figures and woven cloth"
+    },
+    {
+      "rank": 6,
+      "name": "African Union Museum",
+      "description": "History of Pan-Africanism and the Organisation of African Unity"
+    },
+    {
+      "rank": 7,
+      "name": "Mefou National Park (Ape Action Africa)",
+      "description": "Sanctuary for rescued chimps, gorillas and drills in a forest reserve"
+    },
+    {
+      "rank": 8,
+      "name": "Reunification Monument",
+      "description": "Monument marking the unification of French and British Cameroon in 1961"
+    },
+    {
+      "rank": 9,
+      "name": "Marche Central & Mvog-Mbi Market",
+      "description": "Yaounde's two main markets with the diversity of Cameroon on display"
+    },
+    {
+      "rank": 10,
+      "name": "Okok na Nkola (Bitter Leaf with Crayfish)",
+      "description": "Yaounde specialty - bitter leaf and pumpkin seeds cooked with dried crayfish"
+    }
+  ]
+}

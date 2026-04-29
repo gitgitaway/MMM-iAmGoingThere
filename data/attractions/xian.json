@@ -1,0 +1,58 @@
+{
+  "city": "Xi'an",
+  "country": "China",
+  "airportPostcode": "712038",
+  "airportDistanceKm": 49,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Terracotta Army",
+      "description": "UNESCO World Heritage 8,000 life-sized clay soldiers guarding the tomb of Emperor Qin Shi Huang"
+    },
+    {
+      "rank": 2,
+      "name": "City Wall (Ming City Walls)",
+      "description": "Best-preserved ancient city wall in China - cycle or walk the 14km circuit"
+    },
+    {
+      "rank": 3,
+      "name": "Muslim Quarter (Huimin Jie)",
+      "description": "Ancient Hui Muslim street with lamb skewers, pomegranate juice and the Great Mosque"
+    },
+    {
+      "rank": 4,
+      "name": "Great Mosque of Xi'an",
+      "description": "14th-century mosque in the Muslim Quarter built in traditional Chinese architectural style"
+    },
+    {
+      "rank": 5,
+      "name": "Big Wild Goose Pagoda",
+      "description": "Tang-dynasty 7th-century pagoda where monk Xuanzang translated Buddhist sutras from India"
+    },
+    {
+      "rank": 6,
+      "name": "Shaanxi History Museum",
+      "description": "China's finest provincial museum with 370,000 artefacts spanning 1.15 million years"
+    },
+    {
+      "rank": 7,
+      "name": "Bell Tower & Drum Tower",
+      "description": "Ming-dynasty towers at the heart of the city, drummed to mark dusk"
+    },
+    {
+      "rank": 8,
+      "name": "Huaqing Palace & Hot Springs",
+      "description": "Tang imperial resort where Empress Yang Guifei bathed - scene of an ancient love story"
+    },
+    {
+      "rank": 9,
+      "name": "Silk Road starting point",
+      "description": "Xi'an was the eastern terminus of the ancient Silk Road - marked by the Silk Road monument"
+    },
+    {
+      "rank": 10,
+      "name": "Famen Temple",
+      "description": "Temple housing finger bone relics of the Buddha, 120km from Xi'an"
+    }
+  ]
+}

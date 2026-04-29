@@ -1,0 +1,58 @@
+{
+  "city": "Vienna",
+  "country": "Austria",
+  "airportPostcode": "1300",
+  "airportDistanceKm": 19,
+  "things": [
+    {
+      "rank": 1,
+      "name": "St Stephen's Cathedral",
+      "description": "Gothic masterpiece and heart of Vienna with the iconic mosaic tile roof"
+    },
+    {
+      "rank": 2,
+      "name": "Schonbrunn Palace & Gardens",
+      "description": "Habsburg summer palace with 1,441 rooms, formal gardens and the Gloriette"
+    },
+    {
+      "rank": 3,
+      "name": "Vienna State Opera",
+      "description": "One of the world's leading opera houses with lavish tours and standing-room tickets"
+    },
+    {
+      "rank": 4,
+      "name": "Belvedere Palace",
+      "description": "Baroque palace complex housing Klimt's The Kiss and Austrian art from the Middle Ages"
+    },
+    {
+      "rank": 5,
+      "name": "Hofburg Palace",
+      "description": "Former imperial residence of the Habsburg dynasty with Sisi Museum and Spanish Riding School"
+    },
+    {
+      "rank": 6,
+      "name": "Kunsthistorisches Museum",
+      "description": "Art History Museum with one of the world's finest collections of Old Masters"
+    },
+    {
+      "rank": 7,
+      "name": "Prater & Riesenrad",
+      "description": "Historic amusement park with the 1897 giant Ferris wheel offering city panoramas"
+    },
+    {
+      "rank": 8,
+      "name": "Naschmarkt",
+      "description": "Vienna's most popular open-air market with over 120 stalls of produce and restaurants"
+    },
+    {
+      "rank": 9,
+      "name": "Ringstrasse",
+      "description": "Emperor Franz Joseph's magnificent 19th-century boulevard lined with monumental buildings"
+    },
+    {
+      "rank": 10,
+      "name": "Vienna Coffee Houses",
+      "description": "UNESCO-listed Viennese coffeehouse culture at historic Café Central, Landtmann or Schwarzenberg"
+    }
+  ]
+}

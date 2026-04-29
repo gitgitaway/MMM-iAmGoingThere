@@ -1,0 +1,58 @@
+{
+  "city": "Vientiane",
+  "country": "Laos",
+  "airportPostcode": "0100",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Pha That Luang",
+      "description": "Laos's national symbol - a 45m gold-covered stupa said to contain a relic of the Buddha"
+    },
+    {
+      "rank": 2,
+      "name": "Patuxai (Victory Gate)",
+      "description": "Laotian Arc de Triomphe built with US-donated concrete, with city views from the top"
+    },
+    {
+      "rank": 3,
+      "name": "Buddha Park (Xieng Khuan)",
+      "description": "Surreal park 25km from the city with 200 Buddhist and Hindu sculptures"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Si Saket",
+      "description": "Vientiane's oldest surviving temple with 6,840 miniature Buddha images in the cloister walls"
+    },
+    {
+      "rank": 5,
+      "name": "Haw Pha Kaew",
+      "description": "Former royal temple housing the Emerald Buddha before it was taken to Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Mekong Riverside at Sunset",
+      "description": "Sunset drinks on the Mekong River bank with views across to Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Morning Market (Talat Sao)",
+      "description": "Multi-storey market with Laotian textiles, silver jewellery and electronics"
+    },
+    {
+      "rank": 8,
+      "name": "Vang Vieng Day Trip",
+      "description": "Kayaking, tubing and caving in the dramatic karst landscape 150km north"
+    },
+    {
+      "rank": 9,
+      "name": "Cope Visitor Centre",
+      "description": "Moving exhibition on unexploded ordnance remaining from the Secret War in Laos"
+    },
+    {
+      "rank": 10,
+      "name": "Lao National Museum",
+      "description": "Laotian history from prehistoric times through French colonialism and the Pathet Lao revolution"
+    }
+  ]
+}

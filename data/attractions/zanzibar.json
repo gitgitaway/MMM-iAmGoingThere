@@ -1,0 +1,58 @@
+{
+  "city": "Zanzibar",
+  "country": "Tanzania",
+  "airportPostcode": "71115",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Stone Town",
+      "description": "UNESCO World Heritage Swahili trading city with carved Arab doors, mosques and the slave market"
+    },
+    {
+      "rank": 2,
+      "name": "Nungwi Beach",
+      "description": "Powder-white sand and turquoise water at Zanzibar's most beautiful north coast beach"
+    },
+    {
+      "rank": 3,
+      "name": "Prison Island (Changuu)",
+      "description": "Giant Aldabra tortoises and clear water snorkelling on the former slave-holding island"
+    },
+    {
+      "rank": 4,
+      "name": "Spice Tour",
+      "description": "Half-day tour of clove, vanilla, cardamom, cinnamon and black pepper farms"
+    },
+    {
+      "rank": 5,
+      "name": "Jozani Forest (Red Colobus Monkeys)",
+      "description": "Only remaining forest on Zanzibar with the unique endangered Kirk's red colobus monkey"
+    },
+    {
+      "rank": 6,
+      "name": "Dhow Sunset Cruise",
+      "description": "Sailing on a traditional wooden dhow at sunset with dolphins frequent"
+    },
+    {
+      "rank": 7,
+      "name": "Freddie Mercury's Birthplace",
+      "description": "Birthplace of Queen frontman Freddie Mercury in the old Stone Town"
+    },
+    {
+      "rank": 8,
+      "name": "Forodhani Gardens Night Market",
+      "description": "Seafront evening market with Zanzibar pizza, fresh lobster and sugar cane juice"
+    },
+    {
+      "rank": 9,
+      "name": "Pemba Island Diving",
+      "description": "World-class wall diving on Zanzibar's pristine sister island with strong currents"
+    },
+    {
+      "rank": 10,
+      "name": "Zanzibari Biryani",
+      "description": "Spiced Zanzibar biryani with Indian Ocean seafood - the island's signature dish"
+    }
+  ]
+}

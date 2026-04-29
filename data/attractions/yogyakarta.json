@@ -1,0 +1,58 @@
+{
+  "city": "Yogyakarta",
+  "country": "Indonesia",
+  "airportPostcode": "55184",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Borobudur Temple",
+      "description": "UNESCO World Heritage world's largest Buddhist temple - a 9th-century mandala of stone"
+    },
+    {
+      "rank": 2,
+      "name": "Prambanan Temple Complex",
+      "description": "UNESCO World Heritage 9th-century Hindu temple compound with towering Shiva shrines"
+    },
+    {
+      "rank": 3,
+      "name": "Sunrise at Borobudur from Punthuk Setumbu",
+      "description": "Magical sunrise view of Borobudur rising through morning mist above the jungle"
+    },
+    {
+      "rank": 4,
+      "name": "Kraton (Sultan's Palace)",
+      "description": "16th-century Javanese royal palace with classical gamelan performances"
+    },
+    {
+      "rank": 5,
+      "name": "Mount Merapi Sunrise Jeep Tour",
+      "description": "Pre-dawn 4WD up the flanks of the world's most active volcano"
+    },
+    {
+      "rank": 6,
+      "name": "Malioboro Street",
+      "description": "Yogya's main street - batik fabrics, silver jewellery, leather wayang puppets"
+    },
+    {
+      "rank": 7,
+      "name": "Wayang Kulit Shadow Puppet Show",
+      "description": "All-night Javanese shadow puppet performance at the Kraton"
+    },
+    {
+      "rank": 8,
+      "name": "Batik Workshop",
+      "description": "Yogyakarta is the home of Javanese batik - learn the wax-resist technique"
+    },
+    {
+      "rank": 9,
+      "name": "Ratu Boko Palace Ruins",
+      "description": "Hilltop royal compound with sunset views over the temple-dotted plain"
+    },
+    {
+      "rank": 10,
+      "name": "Gudeg",
+      "description": "Yogya's signature dish - young jackfruit slow-cooked in coconut milk for 24 hours"
+    }
+  ]
+}

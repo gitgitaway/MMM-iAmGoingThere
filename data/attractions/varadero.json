@@ -1,0 +1,58 @@
+{
+  "city": "Varadero",
+  "country": "Cuba",
+  "airportPostcode": "42200",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Varadero Beach",
+      "description": "Cuba's finest beach - 20km of Caribbean white sand and warm turquoise water"
+    },
+    {
+      "rank": 2,
+      "name": "Josone Park",
+      "description": "Former sugar baron's gardens with lagoons, restaurants and leisure activities"
+    },
+    {
+      "rank": 3,
+      "name": "Ambrosio Cave",
+      "description": "Cave with 72 pre-Columbian cave paintings - oldest in Cuba"
+    },
+    {
+      "rank": 4,
+      "name": "Varadero Golf Club",
+      "description": "Cuba's only 18-hole golf course with ocean views"
+    },
+    {
+      "rank": 5,
+      "name": "Cayo Blanco Catamaran Day Trip",
+      "description": "Snorkelling on a pristine reef with lobster lunch on a deserted cay"
+    },
+    {
+      "rank": 6,
+      "name": "Havana Day Trip",
+      "description": "Colonial Havana is just 2.5 hours west - classic cars, rum and salsa"
+    },
+    {
+      "rank": 7,
+      "name": "Saturno Cave (Cueva Saturno)",
+      "description": "Dive or snorkel in a freshwater cave pool just outside Varadero"
+    },
+    {
+      "rank": 8,
+      "name": "Mansion Xanadu",
+      "description": "1930s mansion of the Du Pont de Nemours family - now a luxury hotel and golf clubhouse"
+    },
+    {
+      "rank": 9,
+      "name": "El Moro Restaurant",
+      "description": "Fresh lobster and seafood in a thatched beach hut"
+    },
+    {
+      "rank": 10,
+      "name": "Cuba Libre (Rum & Coke)",
+      "description": "Havana Club rum and Coca-Cola - invented by US soldiers during the 1898 occupation"
+    }
+  ]
+}

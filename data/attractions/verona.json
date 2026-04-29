@@ -1,0 +1,58 @@
+{
+  "city": "Verona",
+  "country": "Italy",
+  "airportPostcode": "37066",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Verona Arena",
+      "description": "Perfectly preserved Roman amphitheatre hosting world-class summer opera performances"
+    },
+    {
+      "rank": 2,
+      "name": "Juliet's House (Casa di Giulietta)",
+      "description": "Medieval courtyard with balcony and bronze statue beloved by Romeo and Juliet fans"
+    },
+    {
+      "rank": 3,
+      "name": "Piazza delle Erbe",
+      "description": "Colourful daily market in the former Roman forum with magnificent Baroque fountain"
+    },
+    {
+      "rank": 4,
+      "name": "Castelvecchio",
+      "description": "Scaligeri castle converted to an outstanding art museum by Carlo Scarpa"
+    },
+    {
+      "rank": 5,
+      "name": "Basilica di San Zeno",
+      "description": "Finest Romanesque church in Northern Italy with Mantegna's remarkable altarpiece"
+    },
+    {
+      "rank": 6,
+      "name": "Roman Theatre",
+      "description": "1st-century BC theatre on the hill across the Adige with Archaeological Museum"
+    },
+    {
+      "rank": 7,
+      "name": "Ponte Scaligero",
+      "description": "Striking 14th-century crenellated bridge with three arches over the Adige"
+    },
+    {
+      "rank": 8,
+      "name": "Torre dei Lamberti",
+      "description": "12th-century tower offering the best panoramic views over the city"
+    },
+    {
+      "rank": 9,
+      "name": "Giardino Giusti",
+      "description": "Renaissance garden with cypress trees, labyrinth and views from the belvedere"
+    },
+    {
+      "rank": 10,
+      "name": "Duomo di Verona",
+      "description": "Cathedral with a Romanesque porch and Titian's Assumption of the Virgin"
+    }
+  ]
+}

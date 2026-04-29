@@ -1,0 +1,58 @@
+{
+  "city": "Zhengzhou",
+  "country": "China",
+  "airportPostcode": "451162",
+  "airportDistanceKm": 31,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Shaolin Temple (Dengfeng)",
+      "description": "UNESCO World Heritage birthplace of Zen Buddhism and Shaolin Kung Fu"
+    },
+    {
+      "rank": 2,
+      "name": "Henan Museum",
+      "description": "China's finest provincial archaeology museum with Shang dynasty bronzes from Anyang"
+    },
+    {
+      "rank": 3,
+      "name": "Yellow River Scenic Area",
+      "description": "The Mother River of China with the Great Yu statue and Yellow River panorama"
+    },
+    {
+      "rank": 4,
+      "name": "Longmen Grottoes (Luoyang)",
+      "description": "UNESCO World Heritage Buddhist rock carvings - the Giant Buddha is 17m tall"
+    },
+    {
+      "rank": 5,
+      "name": "Song Mountain (Songshan)",
+      "description": "UNESCO World Heritage sacred mountain with the Songyue Pagoda - oldest in China"
+    },
+    {
+      "rank": 6,
+      "name": "Yinxu Shang Dynasty Ruins (Anyang)",
+      "description": "UNESCO World Heritage ancient capital of the Shang Dynasty with oracle bones"
+    },
+    {
+      "rank": 7,
+      "name": "Erqi Square & February 7th Memorial Tower",
+      "description": "Twin pagoda tower commemorating the 1923 railway strike martyrs"
+    },
+    {
+      "rank": 8,
+      "name": "Gongyi Stone Caves",
+      "description": "Northern Wei Buddhist caves with some of China's finest 5th-6th century sculpture"
+    },
+    {
+      "rank": 9,
+      "name": "Xinzheng Huangdi故里 (Yellow Emperor Birthplace)",
+      "description": "Birthplace of the mythical ancestor of the Chinese people"
+    },
+    {
+      "rank": 10,
+      "name": "Hu La Tang (Pepper Soup)",
+      "description": "Zhengzhou's famous breakfast - peppery lamb soup eaten with the local Shao Bing flatbread"
+    }
+  ]
+}

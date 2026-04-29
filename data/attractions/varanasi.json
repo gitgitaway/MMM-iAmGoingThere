@@ -1,0 +1,58 @@
+{
+  "city": "Varanasi",
+  "country": "India",
+  "airportPostcode": "221002",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ganga Aarti Ceremony (Dashashwamedh Ghat)",
+      "description": "Nightly fire ceremony on the banks of the Ganges - the most spiritually powerful ritual in Hinduism"
+    },
+    {
+      "rank": 2,
+      "name": "Dawn Boat Ride on the Ganges",
+      "description": "Rowing past the 87 ghats at sunrise as priests pray and bodies are cremated"
+    },
+    {
+      "rank": 3,
+      "name": "Manikarnika Ghat (Burning Ghat)",
+      "description": "Varanasi's main cremation ghat burning 24 hours a day - Hindus believe dying here grants moksha"
+    },
+    {
+      "rank": 4,
+      "name": "Kashi Vishwanath Temple",
+      "description": "Hinduism's most sacred temple dedicated to Lord Shiva with gold-plated spires"
+    },
+    {
+      "rank": 5,
+      "name": "Old City & Labyrinthine Lanes",
+      "description": "Getting lost in the ancient cow-filled alleyways between the ghats and the temples"
+    },
+    {
+      "rank": 6,
+      "name": "Sarnath",
+      "description": "10km away - the deer park where the Buddha gave his first sermon after enlightenment"
+    },
+    {
+      "rank": 7,
+      "name": "Durga Temple (Monkey Temple)",
+      "description": "18th-century temple to Durga with resident rhesus monkeys"
+    },
+    {
+      "rank": 8,
+      "name": "Silk Weaving Workshops",
+      "description": "Varanasi's famous brocade silk sarees woven on handlooms in family workshops"
+    },
+    {
+      "rank": 9,
+      "name": "Bharat Mata Temple",
+      "description": "Unique temple with a marble relief map of undivided India instead of a deity"
+    },
+    {
+      "rank": 10,
+      "name": "Lassi at Blue Lassi Shop",
+      "description": "Legendary yogurt drink shop serving since 1925 with 20 flavours including bhang lassi"
+    }
+  ]
+}

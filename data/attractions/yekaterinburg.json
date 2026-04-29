@@ -1,0 +1,58 @@
+{
+  "city": "Yekaterinburg",
+  "country": "Russia",
+  "airportPostcode": "620025",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Church on the Blood",
+      "description": "Cathedral built on the site where the Romanov royal family was executed in 1918"
+    },
+    {
+      "rank": 2,
+      "name": "Ganina Yama Monastery",
+      "description": "Forest monastery 15km from the city at the mine where the Romanovs' bodies were thrown"
+    },
+    {
+      "rank": 3,
+      "name": "Yekaterinburg Museum of Fine Arts",
+      "description": "Impressive collection of Russian and European art plus the famous Kasli iron pavilion"
+    },
+    {
+      "rank": 4,
+      "name": "Europe-Asia Border Obelisk",
+      "description": "Monument on the Ural mountain divide marking the boundary between Europe and Asia"
+    },
+    {
+      "rank": 5,
+      "name": "Boris Yeltsin Presidential Centre",
+      "description": "Interactive museum dedicated to Russia's first president and the transition to democracy"
+    },
+    {
+      "rank": 6,
+      "name": "Historical Museum of the Urals",
+      "description": "Comprehensive regional history museum in a 1900 building on Malyshev Street"
+    },
+    {
+      "rank": 7,
+      "name": "Lenin Avenue & City Pond",
+      "description": "Historic iron-founder's pond at the heart of the city where it was founded in 1723"
+    },
+    {
+      "rank": 8,
+      "name": "Shartash Lake",
+      "description": "Recreational lake on the city outskirts with a pebble beach, forest walks and bird watching"
+    },
+    {
+      "rank": 9,
+      "name": "Ural Gems Museum",
+      "description": "Collection of precious and semi-precious stones mined from the Ural Mountains"
+    },
+    {
+      "rank": 10,
+      "name": "Nevyansk Leaning Tower",
+      "description": "Day trip to a mysterious 1725 leaning tower built by the Demidov industrial dynasty"
+    }
+  ]
+}

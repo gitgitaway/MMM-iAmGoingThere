@@ -1,0 +1,58 @@
+{
+  "city": "Yerevan",
+  "country": "Armenia",
+  "airportPostcode": "0082",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cascade Complex",
+      "description": "Giant stairway of fountains and gardens leading to the Cafesjian Museum with international sculpture"
+    },
+    {
+      "rank": 2,
+      "name": "Republic Square",
+      "description": "Pink tuff-stone government buildings surrounding Armenia's central square with dancing fountains"
+    },
+    {
+      "rank": 3,
+      "name": "Tsitsernakaberd Armenian Genocide Memorial",
+      "description": "Solemn memorial to the 1.5 million Armenians killed in the 1915 genocide"
+    },
+    {
+      "rank": 4,
+      "name": "Geghard Monastery",
+      "description": "UNESCO World Heritage medieval monastery carved partly into a cliff in a dramatic gorge"
+    },
+    {
+      "rank": 5,
+      "name": "Garni Temple",
+      "description": "1st-century Hellenistic pagan temple - the only surviving Greco-Roman colonnade in the former USSR"
+    },
+    {
+      "rank": 6,
+      "name": "Khor Virap Monastery",
+      "description": "Monastery at the foot of Mount Ararat with the dungeon where Gregory the Illuminator was imprisoned"
+    },
+    {
+      "rank": 7,
+      "name": "Vernissage Market",
+      "description": "Weekend outdoor market with hand-painted carpets, chess sets, Soviet memorabilia and folk art"
+    },
+    {
+      "rank": 8,
+      "name": "Yerevan Brandy Company (Ararat)",
+      "description": "Tour and tasting of Armenia's world-famous Ararat brandy, Churchill's favourite"
+    },
+    {
+      "rank": 9,
+      "name": "History Museum of Armenia",
+      "description": "6,000 years of Armenian history with a famous collection of Bronze Age and Urartian artefacts"
+    },
+    {
+      "rank": 10,
+      "name": "Noravank Monastery Canyon",
+      "description": "Red-cliffed canyon with the 13th-century double-storey church of Surb Astvatsatsin"
+    }
+  ]
+}

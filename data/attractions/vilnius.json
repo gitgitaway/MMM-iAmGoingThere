@@ -1,0 +1,58 @@
+{
+  "city": "Vilnius",
+  "country": "Lithuania",
+  "airportPostcode": "LT-02189",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vilnius Old Town",
+      "description": "UNESCO World Heritage Baroque old town, the largest in Eastern Europe"
+    },
+    {
+      "rank": 2,
+      "name": "Gediminas Castle Tower",
+      "description": "14th-century hilltop tower with panoramic views over the city and museum of city history"
+    },
+    {
+      "rank": 3,
+      "name": "Cathedral Square",
+      "description": "Neo-classical Cathedral and its separate bell tower at the heart of historic Vilnius"
+    },
+    {
+      "rank": 4,
+      "name": "Uzupis Republic",
+      "description": "Bohemian artists' district that declared itself an independent republic in 1997"
+    },
+    {
+      "rank": 5,
+      "name": "Gates of Dawn (Ausros Vartai)",
+      "description": "Only surviving gate of the medieval city walls with a miraculous icon of the Virgin Mary"
+    },
+    {
+      "rank": 6,
+      "name": "Vilnius University",
+      "description": "One of Europe's oldest universities with 13 courtyards and remarkable library frescoes"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of Occupations & Resistance",
+      "description": "Sobering museum in the former KGB headquarters with preserved interrogation cells"
+    },
+    {
+      "rank": 8,
+      "name": "Church of St Anne",
+      "description": "Exquisite Flamboyant Gothic brick church that Napoleon wanted to take back to Paris"
+    },
+    {
+      "rank": 9,
+      "name": "Trakai Castle",
+      "description": "Remarkable island castle in a lake 28km from Vilnius, once capital of the Grand Duchy"
+    },
+    {
+      "rank": 10,
+      "name": "Bernardine Garden",
+      "description": "Historic park below the castle hill with sculptures and summer concerts"
+    }
+  ]
+}

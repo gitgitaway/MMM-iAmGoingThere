@@ -1,0 +1,58 @@
+{
+  "city": "Valletta",
+  "country": "Malta",
+  "airportPostcode": "BKR 9010",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "St John's Co-Cathedral",
+      "description": "Baroque masterpiece housing Caravaggio's largest painting, The Beheading of Saint John"
+    },
+    {
+      "rank": 2,
+      "name": "Upper Barrakka Gardens",
+      "description": "Clifftop garden with cannon salute at noon and panoramic views of the Grand Harbour"
+    },
+    {
+      "rank": 3,
+      "name": "Grand Harbour",
+      "description": "One of the world's finest natural harbours, scene of the Great Siege of 1565"
+    },
+    {
+      "rank": 4,
+      "name": "Mdina - The Silent City",
+      "description": "Medieval walled hilltop city, former capital of Malta with cathedral and noble palaces"
+    },
+    {
+      "rank": 5,
+      "name": "Blue Grotto",
+      "description": "Sea caves near Zurrieq illuminated by vivid blue phosphorescence, accessible by boat"
+    },
+    {
+      "rank": 6,
+      "name": "Three Cities (Vittoriosa, Senglea, Cospicua)",
+      "description": "Historic fortified cities across the Grand Harbour from Valletta"
+    },
+    {
+      "rank": 7,
+      "name": "Hagar Qim & Mnajdra Temples",
+      "description": "UNESCO World Heritage megalithic temples older than Stonehenge and the Pyramids"
+    },
+    {
+      "rank": 8,
+      "name": "Republic Street",
+      "description": "Valletta's main pedestrian street lined with Baroque buildings, cafes and shops"
+    },
+    {
+      "rank": 9,
+      "name": "National Museum of Archaeology",
+      "description": "Neolithic figurines including the famous Sleeping Lady from the Hal Saflieni Hypogeum"
+    },
+    {
+      "rank": 10,
+      "name": "Gozo Island",
+      "description": "Ferry to the sister island with the Azure Window ruins, salt pans and Ggantija temples"
+    }
+  ]
+}

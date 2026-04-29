@@ -1,0 +1,58 @@
+{
+  "city": "Victoria Falls",
+  "country": "Zimbabwe",
+  "airportPostcode": "0363",
+  "airportDistanceKm": 19,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Victoria Falls Viewpoints",
+      "description": "UNESCO World Heritage world's largest waterfall - 16 viewpoints along the 1.7km Zimbabwe side"
+    },
+    {
+      "rank": 2,
+      "name": "Devil's Pool (Dry Season Swim)",
+      "description": "Swim in a natural pool at the very lip of the falls with a 100m drop below you"
+    },
+    {
+      "rank": 3,
+      "name": "White Water Rafting (Grade 5)",
+      "description": "Some of the world's best white water rafting through Batoka Gorge"
+    },
+    {
+      "rank": 4,
+      "name": "Bungee Jumping from Victoria Falls Bridge",
+      "description": "111m bungee jump from the bridge between Zimbabwe and Zambia"
+    },
+    {
+      "rank": 5,
+      "name": "Sunset Cruise on the Zambezi",
+      "description": "Hippos and crocodiles as the sun sets upstream from the falls"
+    },
+    {
+      "rank": 6,
+      "name": "Victoria Falls Walking Safari",
+      "description": "Walking safari through Zambezi National Park with white rhino and elephant"
+    },
+    {
+      "rank": 7,
+      "name": "Microlight Flight over the Falls",
+      "description": "Ultralight aircraft flight over the waterfall and wildlife from above"
+    },
+    {
+      "rank": 8,
+      "name": "Elephant Interaction at Elephant Camp",
+      "description": "Walk with and feed trained African elephants in the bush"
+    },
+    {
+      "rank": 9,
+      "name": "Victoria Falls Hotel Afternoon Tea",
+      "description": "Tea on the terrace of the 1904 colonial hotel with Falls spray on the horizon"
+    },
+    {
+      "rank": 10,
+      "name": "Victoria Falls Market",
+      "description": "Mbira thumb pianos, Shona stone carvings and hand-painted fabrics"
+    }
+  ]
+}

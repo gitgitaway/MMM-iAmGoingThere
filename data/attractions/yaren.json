@@ -1,0 +1,58 @@
+{
+  "city": "Yaren",
+  "country": "Nauru",
+  "airportPostcode": "674",
+  "airportDistanceKm": 1,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Command Ridge",
+      "description": "Highest point on the island with a WWII Japanese command post and radio station"
+    },
+    {
+      "rank": 2,
+      "name": "Phosphate Pinnacles (Topside)",
+      "description": "Vast moonscape of jagged white coral limestone pillars left by phosphate mining"
+    },
+    {
+      "rank": 3,
+      "name": "Anibare Bay",
+      "description": "Beautiful lagoon bay on the eastern side of the island - Nauru's best beach"
+    },
+    {
+      "rank": 4,
+      "name": "Menen Hotel Area",
+      "description": "Main hotel area with the lagoon and swimming access"
+    },
+    {
+      "rank": 5,
+      "name": "Nauru Parliament House",
+      "description": "Government of the world's smallest republic"
+    },
+    {
+      "rank": 6,
+      "name": "Buada Lagoon",
+      "description": "Inland freshwater lagoon surrounded by trees - fishing and scenic walks"
+    },
+    {
+      "rank": 7,
+      "name": "Japanese WWII Guns (Boe Village)",
+      "description": "Coastal defense guns left by the Japanese occupiers"
+    },
+    {
+      "rank": 8,
+      "name": "Nauru Central Hospital Historical Area",
+      "description": "Colonial-era buildings from the German, Australian and Japanese occupation periods"
+    },
+    {
+      "rank": 9,
+      "name": "Fishing for Milkfish",
+      "description": "Traditional Nauruan pond aquaculture of milkfish - a cultural practice for centuries"
+    },
+    {
+      "rank": 10,
+      "name": "Nauru Rehabilitation (First Land)",
+      "description": "Unusual opportunity to see ecosystem restoration on the heavily mined interior"
+    }
+  ]
+}

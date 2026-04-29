@@ -1,0 +1,58 @@
+{
+  "city": "Weeze",
+  "country": "Germany",
+  "airportPostcode": "47652",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Xanten Archaeological Park",
+      "description": "Reconstructed Roman city of Colonia Ulpia Traiana with amphitheatre and temples"
+    },
+    {
+      "rank": 2,
+      "name": "Wunderland Kalkar",
+      "description": "Unique amusement park built inside an unfinished nuclear power station"
+    },
+    {
+      "rank": 3,
+      "name": "Kevelaer Pilgrimage Town",
+      "description": "Important Marian pilgrimage site with Kapellenplatz and the Candle Chapel"
+    },
+    {
+      "rank": 4,
+      "name": "Goch Old Town",
+      "description": "Charming small town with medieval towers, Steintor gateway and the Grosse Kirche"
+    },
+    {
+      "rank": 5,
+      "name": "Rhine Meadows",
+      "description": "Scenic Lower Rhine landscape with cycle paths, nature reserves and dyke walks"
+    },
+    {
+      "rank": 6,
+      "name": "Geldern Market Square",
+      "description": "Attractive town with Linner Tor gate and the baroque St Mary's church"
+    },
+    {
+      "rank": 7,
+      "name": "Museum Goch",
+      "description": "Regional art and history museum in a former Franciscan monastery"
+    },
+    {
+      "rank": 8,
+      "name": "Niers River Nature Reserve",
+      "description": "Tranquil riverside cycling and walking through Lower Rhine countryside"
+    },
+    {
+      "rank": 9,
+      "name": "Asperden Forest",
+      "description": "Peaceful woodland with marked trails and the medieval monastery ruins"
+    },
+    {
+      "rank": 10,
+      "name": "Kervenheim Mill",
+      "description": "Historic smock windmill in the picturesque lower Rhine landscape"
+    }
+  ]
+}

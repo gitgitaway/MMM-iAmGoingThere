@@ -1,0 +1,58 @@
+{
+  "city": "Windhoek",
+  "country": "Namibia",
+  "airportPostcode": "10005",
+  "airportDistanceKm": 42,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sossusvlei Red Sand Dunes",
+      "description": "World's highest sand dunes in the Namib Desert with Dead Vlei salt pan and dead trees"
+    },
+    {
+      "rank": 2,
+      "name": "Etosha National Park Safari",
+      "description": "Floodlit waterholes attract lions, elephants and rhinos at night"
+    },
+    {
+      "rank": 3,
+      "name": "Fish River Canyon",
+      "description": "World's second largest canyon after the Grand Canyon - 160km long and 550m deep"
+    },
+    {
+      "rank": 4,
+      "name": "Christuskirche (Christ Church)",
+      "description": "1907 German Lutheran church - Windhoek's most iconic building"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Namibia",
+      "description": "Namibian natural history and the Alte Feste (Old Fort) colonial history"
+    },
+    {
+      "rank": 6,
+      "name": "Katutura Township Tour",
+      "description": "Tour of the apartheid-era township with its vibrant street food and cuca shops"
+    },
+    {
+      "rank": 7,
+      "name": "Namibian Craft Centre",
+      "description": "Namibia's finest crafts - San bushman jewelry, weaving, Himba dolls"
+    },
+    {
+      "rank": 8,
+      "name": "Swakopmund & Skeleton Coast",
+      "description": "German colonial seaside town with quad biking on desert dunes meeting the cold Atlantic"
+    },
+    {
+      "rank": 9,
+      "name": "Namibia Cheetah Conservation Fund",
+      "description": "World's leading cheetah research facility with up-close encounters"
+    },
+    {
+      "rank": 10,
+      "name": "Oryx Steak & Kapana Street Grills",
+      "description": "Namibian oryx or kudu steak and kapana grilled meat at Katutura market"
+    }
+  ]
+}

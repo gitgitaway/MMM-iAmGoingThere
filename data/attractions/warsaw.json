@@ -1,0 +1,58 @@
+{
+  "city": "Warsaw",
+  "country": "Poland",
+  "airportPostcode": "00-906",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Warsaw Old Town",
+      "description": "UNESCO World Heritage meticulously reconstructed medieval old town destroyed in WWII"
+    },
+    {
+      "rank": 2,
+      "name": "Warsaw Rising Museum",
+      "description": "Powerful tribute to the 1944 Warsaw Uprising against Nazi occupation"
+    },
+    {
+      "rank": 3,
+      "name": "Royal Castle",
+      "description": "Reconstructed royal residence housing Poland's finest art and the Polish Crown Jewels"
+    },
+    {
+      "rank": 4,
+      "name": "POLIN Museum of Polish Jews",
+      "description": "Award-winning museum telling 1,000 years of Jewish life in Poland"
+    },
+    {
+      "rank": 5,
+      "name": "Wilanow Palace",
+      "description": "Polish Versailles - Baroque royal palace with formal gardens in the city's south"
+    },
+    {
+      "rank": 6,
+      "name": "Lazienki Park & Palace",
+      "description": "Romantic 18th-century park with Palace on the Isle and Chopin concerts on summer Sundays"
+    },
+    {
+      "rank": 7,
+      "name": "Palace of Culture & Science",
+      "description": "Stalinist skyscraper gift from the Soviet Union, now Warsaw's iconic observation point"
+    },
+    {
+      "rank": 8,
+      "name": "Chopin Museum",
+      "description": "Interactive museum in a Baroque palace dedicated to Warsaw's most famous son"
+    },
+    {
+      "rank": 9,
+      "name": "National Museum Warsaw",
+      "description": "Largest art museum in Poland with ancient, medieval and contemporary Polish art"
+    },
+    {
+      "rank": 10,
+      "name": "Krakowskie Przedmiescie",
+      "description": "Royal Road of Baroque and neoclassical palaces linking the old town to Wilanow"
+    }
+  ]
+}

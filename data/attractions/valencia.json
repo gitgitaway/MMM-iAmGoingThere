@@ -1,0 +1,58 @@
+{
+  "city": "Valencia",
+  "country": "Spain",
+  "airportPostcode": "46940",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "City of Arts and Sciences",
+      "description": "Santiago Calatrava's futuristic complex with opera house, science museum and oceanarium"
+    },
+    {
+      "rank": 2,
+      "name": "Valencia Cathedral",
+      "description": "Gothic cathedral claiming to house the Holy Grail in the Capilla del Santo Caliz"
+    },
+    {
+      "rank": 3,
+      "name": "La Lonja de la Seda",
+      "description": "UNESCO World Heritage late-Gothic silk exchange, a masterpiece of civil architecture"
+    },
+    {
+      "rank": 4,
+      "name": "Central Market",
+      "description": "Europe's largest fresh produce market under a modernist tile and ironwork dome"
+    },
+    {
+      "rank": 5,
+      "name": "Turia Gardens",
+      "description": "9km linear park in the former river bed with sports facilities and children's attractions"
+    },
+    {
+      "rank": 6,
+      "name": "Malvarrosa Beach",
+      "description": "Fine sandy beach with promenade restaurants specialising in authentic Valencian paella"
+    },
+    {
+      "rank": 7,
+      "name": "Barrio del Carmen",
+      "description": "Historic bohemian quarter with Roman walls, medieval towers and vibrant nightlife"
+    },
+    {
+      "rank": 8,
+      "name": "Bioparc Valencia",
+      "description": "Innovative zoo recreating African ecosystems with immersive animal encounters"
+    },
+    {
+      "rank": 9,
+      "name": "Albufera Natural Park",
+      "description": "Lagoon and rice paddies where Valencian paella was invented, just 10km from the city"
+    },
+    {
+      "rank": 10,
+      "name": "IVAM",
+      "description": "Institut Valencia d'Art Modern, the region's leading contemporary art museum"
+    }
+  ]
+}
