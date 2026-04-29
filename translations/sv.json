@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Vi är på väg till",
+  "COUNTDOWN_DAYS":      "Dagar till avresa",
+  "COUNTDOWN_DAY":       "Dag till avresa",
+  "COUNTDOWN_TODAY":     "God resa! Avresesdag!",
+  "COUNTDOWN_INFLIGHT":  "För tillfället i luften",
+  "COUNTDOWN_COMPLETE":  "Resan är avslutad — Välkommen hem!",
+  "TOP10_TITLE":         "Topp 10 saker att göra i",
+  "TOP_THINGS_TITLE":    "Saker att göra i",
+  "NO_ATTRACTIONS":      "Inga attraktionsdata tillgängliga för den här staden.",
+  "LOADING":             "Laddar flygdata…",
+  "TBL_NAME":            "Namn",
+  "TBL_FLIGHT":          "Flygnummer",
+  "TBL_DATE":            "Datum",
+  "TBL_DEP":             "Avgångsflygplats",
+  "TBL_ARR":             "Ankomstflygplats",
+  "TBL_STATUS":          "Status",
+  "TABLE_TITLE":         "Status för kommande flyg",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Attraktion",
+  "ATT_COL_DESC":        "Beskrivning",
+  "NO_FLIGHTS":          "Inga flyg konfigurerade"
+}

@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Suntem pe drum spre",
+  "COUNTDOWN_DAYS":      "Zile până la plecare",
+  "COUNTDOWN_DAY":       "Zi până la plecare",
+  "COUNTDOWN_TODAY":     "Călătorie plăcută! Ziua plecării!",
+  "COUNTDOWN_INFLIGHT":  "În prezent în zbor",
+  "COUNTDOWN_COMPLETE":  "Călătoria s-a încheiat — Bine ați venit acasă!",
+  "TOP10_TITLE":         "Top 10 lucruri de făcut în",
+  "TOP_THINGS_TITLE":    "Lucruri de făcut în",
+  "NO_ATTRACTIONS":      "Nu există date despre atracții disponibile pentru acest oraș.",
+  "LOADING":             "Se încarcă datele zborului…",
+  "TBL_NAME":            "Nume",
+  "TBL_FLIGHT":          "Număr zbor",
+  "TBL_DATE":            "Data",
+  "TBL_DEP":             "Aeroport de plecare",
+  "TBL_ARR":             "Aeroport de sosire",
+  "TBL_STATUS":          "Stare",
+  "TABLE_TITLE":         "Starea zborurilor viitoare",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Atracție",
+  "ATT_COL_DESC":        "Descriere",
+  "NO_FLIGHTS":          "Nu există zboruri configurate"
+}

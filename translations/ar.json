@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "نحن في طريقنا إلى",
+  "COUNTDOWN_DAYS":      "أيام حتى المغادرة",
+  "COUNTDOWN_DAY":       "يوم حتى المغادرة",
+  "COUNTDOWN_TODAY":     "رحلة سعيدة! يوم المغادرة!",
+  "COUNTDOWN_INFLIGHT":  "في الجو حالياً",
+  "COUNTDOWN_COMPLETE":  "اكتملت الرحلة — مرحباً بك في المنزل!",
+  "TOP10_TITLE":         "أفضل 10 أشياء للقيام بها في",
+  "TOP_THINGS_TITLE":    "أشياء للقيام بها في",
+  "NO_ATTRACTIONS":      "لا تتوفر بيانات المعالم السياحية لهذه المدينة.",
+  "LOADING":             "جار تحميل بيانات الرحلة…",
+  "TBL_NAME":            "الاسم",
+  "TBL_FLIGHT":          "رقم الرحلة",
+  "TBL_DATE":            "التاريخ",
+  "TBL_DEP":             "مطار المغادرة",
+  "TBL_ARR":             "مطار الوصول",
+  "TBL_STATUS":          "الحالة",
+  "TABLE_TITLE":         "حالة الرحلات القادمة",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "المعلم",
+  "ATT_COL_DESC":        "الوصف",
+  "NO_FLIGHTS":          "لا توجد رحلات مُعدَّة"
+}

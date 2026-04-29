@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Nous sommes en route vers",
+  "COUNTDOWN_DAYS":      "Jours avant le départ",
+  "COUNTDOWN_DAY":       "Jour avant le départ",
+  "COUNTDOWN_TODAY":     "Bon voyage ! Jour du départ !",
+  "COUNTDOWN_INFLIGHT":  "Actuellement en vol",
+  "COUNTDOWN_COMPLETE":  "Voyage terminé — Bienvenue à la maison !",
+  "TOP10_TITLE":         "Top 10 à faire à",
+  "TOP_THINGS_TITLE":    "Choses à faire à",
+  "NO_ATTRACTIONS":      "Aucune donnée d'attractions disponible pour cette ville.",
+  "LOADING":             "Chargement des données de vol…",
+  "TBL_NAME":            "Nom",
+  "TBL_FLIGHT":          "N° de vol",
+  "TBL_DATE":            "Date",
+  "TBL_DEP":             "Aéroport de départ",
+  "TBL_ARR":             "Aéroport d'arrivée",
+  "TBL_STATUS":          "Statut",
+  "TABLE_TITLE":         "Statut des vols à venir",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Attraction",
+  "ATT_COL_DESC":        "Description",
+  "NO_FLIGHTS":          "Aucun vol configuré"
+}

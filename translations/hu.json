@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Úton vagyunk",
+  "COUNTDOWN_DAYS":      "Nap az indulásig",
+  "COUNTDOWN_DAY":       "Nap az indulásig",
+  "COUNTDOWN_TODAY":     "Jó utat! Az indulás napja!",
+  "COUNTDOWN_INFLIGHT":  "Jelenleg a levegőben",
+  "COUNTDOWN_COMPLETE":  "Az utazás véget ért — Üdvözöljük otthon!",
+  "TOP10_TITLE":         "Top 10 tennivaló itt:",
+  "TOP_THINGS_TITLE":    "Tennivalók itt:",
+  "NO_ATTRACTIONS":      "Ehhez a városhoz nem állnak rendelkezésre látványossági adatok.",
+  "LOADING":             "Repülési adatok betöltése…",
+  "TBL_NAME":            "Név",
+  "TBL_FLIGHT":          "Járatszám",
+  "TBL_DATE":            "Dátum",
+  "TBL_DEP":             "Indulási repülőtér",
+  "TBL_ARR":             "Érkezési repülőtér",
+  "TBL_STATUS":          "Állapot",
+  "TABLE_TITLE":         "Közelgő járatok állapota",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Látványosság",
+  "ATT_COL_DESC":        "Leírás",
+  "NO_FLIGHTS":          "Nincsenek konfigurált járatok"
+}

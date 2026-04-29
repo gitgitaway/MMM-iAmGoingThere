@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Putujemo prema",
+  "COUNTDOWN_DAYS":      "Dana do polaska",
+  "COUNTDOWN_DAY":       "Dan do polaska",
+  "COUNTDOWN_TODAY":     "Sretan put! Dan polaska!",
+  "COUNTDOWN_INFLIGHT":  "Trenutno u zraku",
+  "COUNTDOWN_COMPLETE":  "Putovanje završeno — Dobrodošli kući!",
+  "TOP10_TITLE":         "Top 10 stvari za napraviti u",
+  "TOP_THINGS_TITLE":    "Stvari za napraviti u",
+  "NO_ATTRACTIONS":      "Nema dostupnih podataka o atrakcijama za ovaj grad.",
+  "LOADING":             "Učitavanje podataka o letu…",
+  "TBL_NAME":            "Ime",
+  "TBL_FLIGHT":          "Broj leta",
+  "TBL_DATE":            "Datum",
+  "TBL_DEP":             "Polazna zračna luka",
+  "TBL_ARR":             "Odredišna zračna luka",
+  "TBL_STATUS":          "Status",
+  "TABLE_TITLE":         "Status nadolazećih letova",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Atrakcija",
+  "ATT_COL_DESC":        "Opis",
+  "NO_FLIGHTS":          "Nisu konfigurirani letovi"
+}

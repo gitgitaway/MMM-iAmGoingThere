@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Biz yo'lga chiqdik",
+  "COUNTDOWN_DAYS":      "Jo'nashga qolgan kunlar",
+  "COUNTDOWN_DAY":       "Jo'nashga qolgan 1 kun",
+  "COUNTDOWN_TODAY":     "Yaxshi safar! Jo'nash kuni!",
+  "COUNTDOWN_INFLIGHT":  "Hozir uchuvoqda",
+  "COUNTDOWN_COMPLETE":  "Safar yakunlandi — Uyga xush kelibsiz!",
+  "TOP10_TITLE":         "da ko'rish kerak bo'lgan eng yaxshi 10 joy",
+  "TOP_THINGS_TITLE":    "da qilish kerak bo'lgan ishlar",
+  "NO_ATTRACTIONS":      "Bu shahar uchun diqqatga sazovor joylar ma'lumoti mavjud emas.",
+  "LOADING":             "Parvoz ma'lumotlari yuklanmoqda…",
+  "TBL_NAME":            "Ism",
+  "TBL_FLIGHT":          "Reys raqami",
+  "TBL_DATE":            "Sana",
+  "TBL_DEP":             "Jo'nash aeroporti",
+  "TBL_ARR":             "Yetib kelish aeroporti",
+  "TBL_STATUS":          "Holat",
+  "TABLE_TITLE":         "Kelayotgan reyslar holati",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Diqqatga sazovor joy",
+  "ATT_COL_DESC":        "Tavsif",
+  "NO_FLIGHTS":          "Reyslar sozlanmagan"
+}

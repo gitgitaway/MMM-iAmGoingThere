@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Yola çıktık",
+  "COUNTDOWN_DAYS":      "Kalkışa kalan gün",
+  "COUNTDOWN_DAY":       "Kalkışa kalan 1 gün",
+  "COUNTDOWN_TODAY":     "İyi yolculuklar! Kalkış günü!",
+  "COUNTDOWN_INFLIGHT":  "Şu anda uçuşta",
+  "COUNTDOWN_COMPLETE":  "Yolculuk tamamlandı — Eve hoş geldiniz!",
+  "TOP10_TITLE":         "de Yapılacaklar Listesi - Top 10",
+  "TOP_THINGS_TITLE":    "de Yapılacak Şeyler",
+  "NO_ATTRACTIONS":      "Bu şehir için turistik yer verisi mevcut değil.",
+  "LOADING":             "Uçuş verileri yükleniyor…",
+  "TBL_NAME":            "Ad",
+  "TBL_FLIGHT":          "Uçuş No",
+  "TBL_DATE":            "Tarih",
+  "TBL_DEP":             "Kalkış Havalimanı",
+  "TBL_ARR":             "Varış Havalimanı",
+  "TBL_STATUS":          "Durum",
+  "TABLE_TITLE":         "Yaklaşan Uçuşların Durumu",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Turistik Yer",
+  "ATT_COL_DESC":        "Açıklama",
+  "NO_FLIGHTS":          "Yapılandırılmış uçuş yok"
+}

@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "ما در راه هستیم به",
+  "COUNTDOWN_DAYS":      "روز تا عزیمت",
+  "COUNTDOWN_DAY":       "روز تا عزیمت",
+  "COUNTDOWN_TODAY":     "سفر خوش! روز عزیمت!",
+  "COUNTDOWN_INFLIGHT":  "در حال پرواز",
+  "COUNTDOWN_COMPLETE":  "سفر تمام شد — خوش آمدید!",
+  "TOP10_TITLE":         "۱۰ چیز برتر برای انجام در",
+  "TOP_THINGS_TITLE":    "چیزهای برتر برای انجام در",
+  "NO_ATTRACTIONS":      "داده‌های جاذبه برای این شهر موجود نیست.",
+  "LOADING":             "در حال بارگذاری اطلاعات پرواز…",
+  "TBL_NAME":            "نام",
+  "TBL_FLIGHT":          "شماره پرواز",
+  "TBL_DATE":            "تاریخ",
+  "TBL_DEP":             "فرودگاه مبدأ",
+  "TBL_ARR":             "فرودگاه مقصد",
+  "TBL_STATUS":          "وضعیت",
+  "TABLE_TITLE":         "وضعیت پروازهای آینده",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "جاذبه",
+  "ATT_COL_DESC":        "توضیحات",
+  "NO_FLIGHTS":          "هیچ پروازی پیکربندی نشده است"
+}

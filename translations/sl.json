@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Na poti smo v",
+  "COUNTDOWN_DAYS":      "Dni do odhoda",
+  "COUNTDOWN_DAY":       "Dan do odhoda",
+  "COUNTDOWN_TODAY":     "Srečno pot! Dan odhoda!",
+  "COUNTDOWN_INFLIGHT":  "Trenutno v zraku",
+  "COUNTDOWN_COMPLETE":  "Potovanje končano — Dobrodošli domov!",
+  "TOP10_TITLE":         "Top 10 stvari za početi v",
+  "TOP_THINGS_TITLE":    "Stvari za početi v",
+  "NO_ATTRACTIONS":      "Za to mesto ni na voljo podatkov o znamenitostih.",
+  "LOADING":             "Nalaganje podatkov o letu…",
+  "TBL_NAME":            "Ime",
+  "TBL_FLIGHT":          "Številka leta",
+  "TBL_DATE":            "Datum",
+  "TBL_DEP":             "Letališče odhoda",
+  "TBL_ARR":             "Letališče prihoda",
+  "TBL_STATUS":          "Status",
+  "TABLE_TITLE":         "Status prihajajočih letov",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Znamenitost",
+  "ATT_COL_DESC":        "Opis",
+  "NO_FLIGHTS":          "Nobeni leti niso konfigurirani"
+}

@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Jsme na cestě do",
+  "COUNTDOWN_DAYS":      "Dní do odjezdu",
+  "COUNTDOWN_DAY":       "Den do odjezdu",
+  "COUNTDOWN_TODAY":     "Šťastnou cestu! Den odjezdu!",
+  "COUNTDOWN_INFLIGHT":  "Právě ve vzduchu",
+  "COUNTDOWN_COMPLETE":  "Cesta dokončena — Vítejte doma!",
+  "TOP10_TITLE":         "Top 10 věcí k dělání v",
+  "TOP_THINGS_TITLE":    "Věci k dělání v",
+  "NO_ATTRACTIONS":      "Pro toto město nejsou dostupná žádná data o atrakcích.",
+  "LOADING":             "Načítání dat o letu…",
+  "TBL_NAME":            "Jméno",
+  "TBL_FLIGHT":          "Číslo letu",
+  "TBL_DATE":            "Datum",
+  "TBL_DEP":             "Letiště odletu",
+  "TBL_ARR":             "Letiště příletu",
+  "TBL_STATUS":          "Stav",
+  "TABLE_TITLE":         "Stav nadcházejících letů",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Atrakce",
+  "ATT_COL_DESC":        "Popis",
+  "NO_FLIGHTS":          "Žádné lety nejsou nakonfigurovány"
+}

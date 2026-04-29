@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Vi er på vei til",
+  "COUNTDOWN_DAYS":      "Dager til avreise",
+  "COUNTDOWN_DAY":       "Dag til avreise",
+  "COUNTDOWN_TODAY":     "God reise! Avreisedag!",
+  "COUNTDOWN_INFLIGHT":  "For øyeblikket i luften",
+  "COUNTDOWN_COMPLETE":  "Reisen er fullført — Velkommen hjem!",
+  "TOP10_TITLE":         "Topp 10 ting å gjøre i",
+  "TOP_THINGS_TITLE":    "Ting å gjøre i",
+  "NO_ATTRACTIONS":      "Ingen attraksjonsdata tilgjengelig for denne byen.",
+  "LOADING":             "Laster flydata…",
+  "TBL_NAME":            "Navn",
+  "TBL_FLIGHT":          "Flynummer",
+  "TBL_DATE":            "Dato",
+  "TBL_DEP":             "Avgangslufthavn",
+  "TBL_ARR":             "Ankomstlufthavn",
+  "TBL_STATUS":          "Status",
+  "TABLE_TITLE":         "Status for kommende fly",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Attraksjon",
+  "ATT_COL_DESC":        "Beskrivelse",
+  "NO_FLIGHTS":          "Ingen fly konfigurert"
+}

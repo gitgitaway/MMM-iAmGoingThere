@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Rydym ar ein ffordd i",
+  "COUNTDOWN_DAYS":      "Diwrnod tan ymadael",
+  "COUNTDOWN_DAY":       "Diwrnod tan ymadael",
+  "COUNTDOWN_TODAY":     "Taith dda! Diwrnod ymadael!",
+  "COUNTDOWN_INFLIGHT":  "Yn hedfan ar hyn o bryd",
+  "COUNTDOWN_COMPLETE":  "Taith wedi'i chwblhau — Croeso adref!",
+  "TOP10_TITLE":         "Top 10 peth i'w wneud yn",
+  "TOP_THINGS_TITLE":    "Pethau i'w gwneud yn",
+  "NO_ATTRACTIONS":      "Nid oes data atyniadau ar gael ar gyfer y ddinas hon.",
+  "LOADING":             "Llwytho data hedfan…",
+  "TBL_NAME":            "Enw",
+  "TBL_FLIGHT":          "Rhif Hediad",
+  "TBL_DATE":            "Dyddiad",
+  "TBL_DEP":             "Maes Awyr Ymadael",
+  "TBL_ARR":             "Maes Awyr Cyrraedd",
+  "TBL_STATUS":          "Statws",
+  "TABLE_TITLE":         "Statws Hedfanau Sydd i Ddod",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Atyniad",
+  "ATT_COL_DESC":        "Disgrifiad",
+  "NO_FLIGHTS":          "Dim hedfanau wedi'u ffurfweddu"
+}

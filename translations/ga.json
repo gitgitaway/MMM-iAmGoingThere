@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Táimid ar ár mbealach go",
+  "COUNTDOWN_DAYS":      "Lá go dtí imeacht",
+  "COUNTDOWN_DAY":       "Lá go dtí imeacht",
+  "COUNTDOWN_TODAY":     "Slán abhaile! Lá imeachta!",
+  "COUNTDOWN_INFLIGHT":  "Ar an eitleán faoi láthair",
+  "COUNTDOWN_COMPLETE":  "Turas críochnaithe — Fáilte ar ais abhaile!",
+  "TOP10_TITLE":         "Na 10 rud is fearr le déanamh i",
+  "TOP_THINGS_TITLE":    "Rudaí le déanamh i",
+  "NO_ATTRACTIONS":      "Níl sonraí tarraingtí ar fáil don chathair seo.",
+  "LOADING":             "Sonraí eitilte á lódáil…",
+  "TBL_NAME":            "Ainm",
+  "TBL_FLIGHT":          "Uimh. eitilte",
+  "TBL_DATE":            "Dáta",
+  "TBL_DEP":             "Aerfort imeachta",
+  "TBL_ARR":             "Aerfort teacht",
+  "TBL_STATUS":          "Stádas",
+  "TABLE_TITLE":         "Stádas na n-eitiltí atá le teacht",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Áit Suime",
+  "ATT_COL_DESC":        "Cur síos",
+  "NO_FLIGHTS":          "Níl aon eitiltí cumraithe"
+}

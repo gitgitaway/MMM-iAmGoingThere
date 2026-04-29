@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Tha sinn a' dol gu",
+  "COUNTDOWN_DAYS":      "Làithean gu falbh",
+  "COUNTDOWN_DAY":       "Latha gu falbh",
+  "COUNTDOWN_TODAY":     "Deagh thuras! Latha falbh!",
+  "COUNTDOWN_INFLIGHT":  "A' siubhal an-dràsta",
+  "COUNTDOWN_COMPLETE":  "Turas seachad — Fàilte dhachaigh!",
+  "TOP10_TITLE":         "Na 10 rudan as fheàrr ann an",
+  "TOP_THINGS_TITLE":    "Rudan ri dhèanamh ann an",
+  "NO_ATTRACTIONS":      "Chan eil dàta ionad-tarraingeachd ri fhaighinn airson a' bhaile seo.",
+  "LOADING":             "A' luchdadh dàta itealaich…",
+  "TBL_NAME":            "Ainm",
+  "TBL_FLIGHT":          "Àir. itealaich",
+  "TBL_DATE":            "Ceann-là",
+  "TBL_DEP":             "Port-adhair falbh",
+  "TBL_ARR":             "Port-adhair ruigsinn",
+  "TBL_STATUS":          "Staid",
+  "TABLE_TITLE":         "Staid itealaichean ri teachd",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Ionad-tarraingeachd",
+  "ATT_COL_DESC":        "Tuairisgeul",
+  "NO_FLIGHTS":          "Chan eil itealaichean air an rèiteachadh"
+}

@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Olemme matkalla kohteeseen",
+  "COUNTDOWN_DAYS":      "Päivää lähtöön",
+  "COUNTDOWN_DAY":       "Päivä lähtöön",
+  "COUNTDOWN_TODAY":     "Hyvää matkaa! Lähtöpäivä!",
+  "COUNTDOWN_INFLIGHT":  "Parhaillaan ilmassa",
+  "COUNTDOWN_COMPLETE":  "Matka päättynyt — Tervetuloa kotiin!",
+  "TOP10_TITLE":         "Top 10 nähtävää paikassa",
+  "TOP_THINGS_TITLE":    "Nähtävää paikassa",
+  "LOADING":             "Ladataan lentodata…",
+  "NO_ATTRACTIONS":      "Ei nähtävyystietoja tälle kaupungille.",
+  "TBL_NAME":            "Nimi",
+  "TBL_FLIGHT":          "Lentonumero",
+  "TBL_DATE":            "Päivämäärä",
+  "TBL_DEP":             "Lähtölentokenttä",
+  "TBL_ARR":             "Saapumislentokenttä",
+  "TBL_STATUS":          "Tila",
+  "TABLE_TITLE":         "Tulevien lentojen tila",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Nähtävyys",
+  "ATT_COL_DESC":        "Kuvaus",
+  "NO_FLIGHTS":          "Ei lentoja määritetty"
+}

@@ -1,0 +1,23 @@
+{
+  "TITLE_PREFIX":        "Kei te haere mātou ki",
+  "COUNTDOWN_DAYS":      "Ngā rā ki te wehe",
+  "COUNTDOWN_DAY":       "Rā ki te wehe",
+  "COUNTDOWN_TODAY":     "Haere ora! Ko te rā wehe!",
+  "COUNTDOWN_INFLIGHT":  "E rere ana ināianei",
+  "COUNTDOWN_COMPLETE":  "Kua oti te haere — Nau mai ki te kāinga!",
+  "TOP10_TITLE":         "Ngā mahi 10 rongonui i",
+  "TOP_THINGS_TITLE":    "Ngā mahi i",
+  "NO_ATTRACTIONS":      "Kāore he raraunga maunga-hōhonu mō tēnei tāone.",
+  "LOADING":             "E utaina ana ngā raraunga rererangi…",
+  "TBL_NAME":            "Ingoa",
+  "TBL_FLIGHT":          "Tau Rerenga",
+  "TBL_DATE":            "Rā",
+  "TBL_DEP":             "Tauranga Rererangi Wehe",
+  "TBL_ARR":             "Tauranga Rererangi Tae",
+  "TBL_STATUS":          "Tūnga",
+  "TABLE_TITLE":         "Tūnga o ngā Rerenga Kei Mua",
+  "ATT_COL_NUM":         "#",
+  "ATT_COL_NAME":        "Wāhi Rongonui",
+  "ATT_COL_DESC":        "Whakaahua",
+  "NO_FLIGHTS":          "Kāore he rerenga i tautuhia"
+}
