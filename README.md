@@ -77,10 +77,11 @@ See [CHANGELOG.md](./CHANGELOG.md) for complete details of all changes.
 ## 🚀 Quick Start
 
 ### Installation
+```js
 1. `cd ~/MagicMirror/modules/`
 2. `git clone https://github.com/gitgitaway/MMM-MyTeams-iAmGoingThere.git`
 3. `cd MMM-MyTeams-iAmGoingThere && npm install`
-
+```
 ### Basic Configuration (Scenario 1) 
 ```js
 {
