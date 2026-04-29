@@ -1,0 +1,58 @@
+{
+  "city": "Tallinn",
+  "country": "Estonia",
+  "airportPostcode": "11101",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tallinn Old Town",
+      "description": "UNESCO World Heritage medieval Hanseatic old town, one of the best-preserved in Europe"
+    },
+    {
+      "rank": 2,
+      "name": "Toompea Castle & Alexander Nevsky Cathedral",
+      "description": "Parliament hill with an onion-domed Russian Orthodox cathedral and city views"
+    },
+    {
+      "rank": 3,
+      "name": "Town Hall Square (Raekoja plats)",
+      "description": "Gothic town hall and medieval square surrounded by merchant houses and cafes"
+    },
+    {
+      "rank": 4,
+      "name": "Kumu Art Museum",
+      "description": "Estonia's largest museum of Estonian and world art in a striking contemporary building"
+    },
+    {
+      "rank": 5,
+      "name": "Kadriorg Palace & Park",
+      "description": "Baroque palace built by Peter the Great with a Russian-influenced formal garden"
+    },
+    {
+      "rank": 6,
+      "name": "Seaplane Harbour Museum",
+      "description": "Outstanding maritime museum in a restored seaplane hangar with a Soviet submarine"
+    },
+    {
+      "rank": 7,
+      "name": "Great Guild Hall",
+      "description": "15th-century merchant hall housing the Estonian History Museum"
+    },
+    {
+      "rank": 8,
+      "name": "Tallinn Song Festival Grounds",
+      "description": "Massive outdoor amphitheatre for the UNESCO Estonian Song Festival tradition"
+    },
+    {
+      "rank": 9,
+      "name": "Pirita Convent Ruins",
+      "description": "Haunting 15th-century ruins of the largest convent in medieval Livonia"
+    },
+    {
+      "rank": 10,
+      "name": "Lennusadam Seaplane Harbour",
+      "description": "World's largest and best-preserved triploid concrete seaplane hangars"
+    }
+  ]
+}

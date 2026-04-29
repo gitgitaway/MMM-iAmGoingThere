@@ -1,0 +1,58 @@
+{
+  "city": "Suva",
+  "country": "Fiji",
+  "airportPostcode": "00000",
+  "airportDistanceKm": 23,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fiji Museum",
+      "description": "South Pacific's finest museum with the cannibal fork of Reverend Baker and traditional artifacts"
+    },
+    {
+      "rank": 2,
+      "name": "Suva Municipal Market",
+      "description": "Bustling market with tropical produce, kava, spices and Fijian handicrafts"
+    },
+    {
+      "rank": 3,
+      "name": "Thurston Gardens",
+      "description": "Botanical gardens in the centre of Suva established in the 1880s with tropical plants"
+    },
+    {
+      "rank": 4,
+      "name": "Suva Harbour & Foreshore",
+      "description": "Waterfront promenade with views of the harbour and the cruise ship terminal"
+    },
+    {
+      "rank": 5,
+      "name": "Colo-i-Suva Forest Park",
+      "description": "Tropical rainforest reserve with waterfalls and swimming holes just 11km from Suva"
+    },
+    {
+      "rank": 6,
+      "name": "Government Buildings",
+      "description": "Grand colonial parliament complex built in 1939 in neoclassical style"
+    },
+    {
+      "rank": 7,
+      "name": "Holy Trinity Cathedral",
+      "description": "Anglican cathedral with a mosaic Christ window and a traditional Fijian feel"
+    },
+    {
+      "rank": 8,
+      "name": "Levuka Historic Town",
+      "description": "Fiji's original capital and the South Pacific's first colonial town, a UNESCO Heritage Site"
+    },
+    {
+      "rank": 9,
+      "name": "Pacific Harbour Arts Village",
+      "description": "World-class shark dive and traditional Fijian cultural village west of Suva"
+    },
+    {
+      "rank": 10,
+      "name": "Natadola Beach",
+      "description": "Fiji's finest white-sand beach on the Coral Coast, 60km from Suva"
+    }
+  ]
+}

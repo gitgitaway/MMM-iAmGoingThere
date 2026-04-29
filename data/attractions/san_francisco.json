@@ -1,0 +1,78 @@
+{
+  "city": "San Francisco",
+  "country": "USA",
+  "airportPostcode": "94128",
+  "airportDistanceKm": 21,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Golden Gate Bridge",
+      "postcode": "94129",
+      "distanceKmFromAirport": 21,
+      "description": "Iconic 1937 suspension bridge with spectacular walk or cycle access"
+    },
+    {
+      "rank": 2,
+      "name": "Alcatraz Island",
+      "postcode": "94133",
+      "distanceKmFromAirport": 23,
+      "description": "Fascinating historic federal penitentiary tour in the bay"
+    },
+    {
+      "rank": 3,
+      "name": "Fisherman's Wharf",
+      "postcode": "94133",
+      "distanceKmFromAirport": 23,
+      "description": "Vibrant waterfront district with fresh seafood and sea lions"
+    },
+    {
+      "rank": 4,
+      "name": "Golden Gate Park",
+      "postcode": "94117",
+      "distanceKmFromAirport": 17,
+      "description": "1,017-acre park with museums, gardens, and bison paddock"
+    },
+    {
+      "rank": 5,
+      "name": "Cable Car Ride",
+      "postcode": "94108",
+      "distanceKmFromAirport": 22,
+      "description": "Historic 1873 street railway — a moving National Historic Landmark"
+    },
+    {
+      "rank": 6,
+      "name": "Muir Woods National Monument",
+      "postcode": "94941",
+      "distanceKmFromAirport": 35,
+      "description": "Ancient coastal redwood forest just north of the city"
+    },
+    {
+      "rank": 7,
+      "name": "Lombard Street",
+      "postcode": "94133",
+      "distanceKmFromAirport": 23,
+      "description": "World's most crooked street with stunning city views"
+    },
+    {
+      "rank": 8,
+      "name": "Chinatown",
+      "postcode": "94108",
+      "distanceKmFromAirport": 22,
+      "description": "Oldest and most densely populated Chinatown in North America"
+    },
+    {
+      "rank": 9,
+      "name": "Exploratorium",
+      "postcode": "94111",
+      "distanceKmFromAirport": 23,
+      "description": "Pioneer science and perception museum on the Embarcadero"
+    },
+    {
+      "rank": 10,
+      "name": "Napa Valley Day Trip",
+      "postcode": "94559",
+      "distanceKmFromAirport": 90,
+      "description": "World-renowned wine country just 90 minutes from the city"
+    }
+  ]
+}

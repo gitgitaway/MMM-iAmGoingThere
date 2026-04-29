@@ -1,0 +1,58 @@
+{
+  "city": "Treviso",
+  "country": "Italy",
+  "airportPostcode": "31100",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Piazza dei Signori",
+      "description": "Elegant medieval square with the Palazzo dei Trecento loggia and Torre Civica"
+    },
+    {
+      "rank": 2,
+      "name": "Cathedral of San Pietro",
+      "description": "Romanesque-Renaissance cathedral with Titian's Annunciation and remarkable crypt"
+    },
+    {
+      "rank": 3,
+      "name": "Calmaggiore",
+      "description": "Charming porticoed shopping street connecting the cathedral to Piazza dei Signori"
+    },
+    {
+      "rank": 4,
+      "name": "Medieval Walls & Canals",
+      "description": "Picturesque 16th-century walls and canals with watermill giving Treviso its character"
+    },
+    {
+      "rank": 5,
+      "name": "Fishmarket Island (Pescheria)",
+      "description": "Historic fish market island in the middle of the Cagnano canal"
+    },
+    {
+      "rank": 6,
+      "name": "Museo di Santa Caterina",
+      "description": "14th-century monastery complex with Tomaso da Modena's remarkable fresco cycle"
+    },
+    {
+      "rank": 7,
+      "name": "Museo Bailo",
+      "description": "Civic art museum with works by Arturo Martini and local 19th-century painters"
+    },
+    {
+      "rank": 8,
+      "name": "Prosecco Road",
+      "description": "UNESCO-listed wine route through the hills of Conegliano-Valdobbiadene nearby"
+    },
+    {
+      "rank": 9,
+      "name": "Buranelli Canal",
+      "description": "Most photographed canal in Treviso with colourful reflected facades"
+    },
+    {
+      "rank": 10,
+      "name": "Treviso Craft Beer Scene",
+      "description": "Capital of Italian craft beer with dozens of artisan breweries in and around the city"
+    }
+  ]
+}

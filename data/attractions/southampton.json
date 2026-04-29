@@ -1,0 +1,58 @@
+{
+  "city": "Southampton",
+  "country": "United Kingdom",
+  "airportPostcode": "SO18 2NL",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "SeaCity Museum",
+      "description": "Award-winning museum telling the stories of Southampton and its maritime heritage including the Titanic"
+    },
+    {
+      "rank": 2,
+      "name": "Titanic Memorials",
+      "description": "Moving memorials throughout the city to the engineers, musicians and crew who perished"
+    },
+    {
+      "rank": 3,
+      "name": "Medieval Walls",
+      "description": "Best-preserved medieval city walls in England stretching over a mile"
+    },
+    {
+      "rank": 4,
+      "name": "Tudor House and Garden",
+      "description": "Beautifully restored Tudor merchant's house with medieval garden"
+    },
+    {
+      "rank": 5,
+      "name": "Solent Sky Museum",
+      "description": "Aviation museum celebrating the Supermarine Spitfire, designed and built in Southampton"
+    },
+    {
+      "rank": 6,
+      "name": "New Forest National Park",
+      "description": "Ancient forest with free-roaming ponies just 15 minutes from the city centre"
+    },
+    {
+      "rank": 7,
+      "name": "Ocean Village Marina",
+      "description": "Lively waterfront development with restaurants, cinema and boat tours"
+    },
+    {
+      "rank": 8,
+      "name": "Mayflower Park",
+      "description": "Waterfront park where the Pilgrim Fathers set sail for America in 1620"
+    },
+    {
+      "rank": 9,
+      "name": "Southampton City Art Gallery",
+      "description": "Impressive collection of British art from the 19th century to the present"
+    },
+    {
+      "rank": 10,
+      "name": "Paultons Park",
+      "description": "Peppa Pig World and family theme park in the New Forest"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "Stavanger",
+  "country": "Norway",
+  "airportPostcode": "4055",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Preikestolen (Pulpit Rock)",
+      "description": "Dramatic 604m cliff edge with vertiginous views over Lysefjord, one of Norway's iconic hikes"
+    },
+    {
+      "rank": 2,
+      "name": "Old Stavanger (Gamle Stavanger)",
+      "description": "Europe's best-preserved wooden house district with 173 whitewashed 18th-century homes"
+    },
+    {
+      "rank": 3,
+      "name": "Norwegian Petroleum Museum",
+      "description": "Fascinating insight into Norway's offshore oil industry on the Stavanger waterfront"
+    },
+    {
+      "rank": 4,
+      "name": "Stavanger Cathedral",
+      "description": "Norway's oldest cathedral, a Romanesque masterpiece dating to around 1125"
+    },
+    {
+      "rank": 5,
+      "name": "Lysefjord Cruise",
+      "description": "Boat tour of the stunning Lyse fjord with views up to Preikestolen and Kjeragbolten"
+    },
+    {
+      "rank": 6,
+      "name": "Stavanger Museum",
+      "description": "Natural history and cultural history museum covering the region from prehistory"
+    },
+    {
+      "rank": 7,
+      "name": "Ledaal Manor",
+      "description": "18th-century manor house, royal residence and the setting for Alexander Kielland's novels"
+    },
+    {
+      "rank": 8,
+      "name": "Swords in Rock Memorial",
+      "description": "Three giant swords commemorating the 872 Battle of Hafrsfjord planted on the shore"
+    },
+    {
+      "rank": 9,
+      "name": "Utstein Monastery",
+      "description": "Norway's best-preserved medieval monastery on an island in the Rennesoy archipelago"
+    },
+    {
+      "rank": 10,
+      "name": "Kjeragbolten Day Hike",
+      "description": "Epic hike to the legendary boulder wedged in a crevice 984m above the Lysefjord"
+    }
+  ]
+}

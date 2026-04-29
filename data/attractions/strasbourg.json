@@ -1,0 +1,58 @@
+{
+  "city": "Strasbourg",
+  "country": "France",
+  "airportPostcode": "67960",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Strasbourg Cathedral",
+      "description": "Sandstone Gothic masterpiece with an astronomical clock and platform views over the city"
+    },
+    {
+      "rank": 2,
+      "name": "Petite France",
+      "description": "Enchanting medieval quarter with half-timbered houses reflected in the Ill canals"
+    },
+    {
+      "rank": 3,
+      "name": "Palais Rohan",
+      "description": "Grand 18th-century bishop's palace housing three exceptional museums"
+    },
+    {
+      "rank": 4,
+      "name": "Barrage Vauban",
+      "description": "Huge defensive dam with roof terrace offering superb views of the old town"
+    },
+    {
+      "rank": 5,
+      "name": "European Parliament",
+      "description": "Official seat of the European Parliament with free guided tours when in session"
+    },
+    {
+      "rank": 6,
+      "name": "Musee d'Art Moderne et Contemporain",
+      "description": "Outstanding modern art collection in a glass-and-steel building on the banks of the Ill"
+    },
+    {
+      "rank": 7,
+      "name": "Neustadt",
+      "description": "UNESCO-listed German Imperial district with magnificent Belle Epoque architecture"
+    },
+    {
+      "rank": 8,
+      "name": "Musee Alsacien",
+      "description": "Delightful museum of Alsatian folk art and traditions in interconnected historic houses"
+    },
+    {
+      "rank": 9,
+      "name": "Christmas Market",
+      "description": "One of Europe's oldest Christmas markets, held annually since 1570 around the cathedral"
+    },
+    {
+      "rank": 10,
+      "name": "Parc de l'Orangerie",
+      "description": "Elegant park with storks, pony rides and a boating lake near the European institutions"
+    }
+  ]
+}

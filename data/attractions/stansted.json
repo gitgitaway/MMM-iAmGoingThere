@@ -1,0 +1,58 @@
+{
+  "city": "Stansted",
+  "country": "United Kingdom",
+  "airportPostcode": "CM24 1RW",
+  "airportDistanceKm": 60,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Audley End House & Gardens",
+      "description": "Spectacular Jacobean mansion with capability Brown parkland near Saffron Walden"
+    },
+    {
+      "rank": 2,
+      "name": "IWM Duxford",
+      "description": "Europe's premier aviation museum with Spitfires, Concorde and D-Day exhibits"
+    },
+    {
+      "rank": 3,
+      "name": "Mountfitchet Castle",
+      "description": "Unique reconstructed Norman motte-and-bailey castle and village in Stansted"
+    },
+    {
+      "rank": 4,
+      "name": "Saffron Walden",
+      "description": "Charming market town with a medieval centre, museum and England's largest turf maze"
+    },
+    {
+      "rank": 5,
+      "name": "Hatfield Forest",
+      "description": "National Trust ancient forest and rare surviving example of a royal hunting forest"
+    },
+    {
+      "rank": 6,
+      "name": "Bishop's Stortford Museum",
+      "description": "Local history of the market town that was birthplace of Cecil Rhodes"
+    },
+    {
+      "rank": 7,
+      "name": "Thaxted",
+      "description": "Picturesque Essex village with a stunning cathedral-like church and working windmill"
+    },
+    {
+      "rank": 8,
+      "name": "Finchingfield",
+      "description": "One of England's most photographed villages with green, windmill and duck pond"
+    },
+    {
+      "rank": 9,
+      "name": "Hedingham Castle",
+      "description": "Best-preserved Norman keep in England set in 12 acres of grounds"
+    },
+    {
+      "rank": 10,
+      "name": "Uttlesford District Museum",
+      "description": "Local history collection in a converted Victorian house"
+    }
+  ]
+}

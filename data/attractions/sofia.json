@@ -1,0 +1,58 @@
+{
+  "city": "Sofia",
+  "country": "Bulgaria",
+  "airportPostcode": "1540",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Alexander Nevsky Cathedral",
+      "description": "One of the largest Eastern Orthodox cathedrals in the world with golden domes"
+    },
+    {
+      "rank": 2,
+      "name": "Vitosha Mountain",
+      "description": "National park on the city's doorstep with hiking, skiing and stunning summit views"
+    },
+    {
+      "rank": 3,
+      "name": "Boyana Church",
+      "description": "UNESCO World Heritage 13th-century church with exceptional medieval frescoes"
+    },
+    {
+      "rank": 4,
+      "name": "Rotunda of St George",
+      "description": "Sofia's oldest building, a 4th-century Roman rotunda with medieval frescoes"
+    },
+    {
+      "rank": 5,
+      "name": "National Palace of Culture",
+      "description": "Brutalist 1981 concert complex with panoramic city views from the exterior"
+    },
+    {
+      "rank": 6,
+      "name": "Ivan Vazov National Theatre",
+      "description": "Splendid neoclassical theatre, the oldest and most prestigious in Bulgaria"
+    },
+    {
+      "rank": 7,
+      "name": "National History Museum",
+      "description": "Bulgaria's largest museum with Thracian gold treasures and medieval jewellery"
+    },
+    {
+      "rank": 8,
+      "name": "Sofia Synagogue",
+      "description": "One of the largest synagogues in Europe with a 2,000 kg chandelier"
+    },
+    {
+      "rank": 9,
+      "name": "Archaeological Museum",
+      "description": "Outstanding collection of Thracian and Roman artefacts in a converted mosque"
+    },
+    {
+      "rank": 10,
+      "name": "Central Sofia Market Hall",
+      "description": "Art Nouveau covered market with local produce and traditional Bulgarian food"
+    }
+  ]
+}

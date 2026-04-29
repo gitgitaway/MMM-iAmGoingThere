@@ -1,0 +1,58 @@
+{
+  "city": "Tangier",
+  "country": "Morocco",
+  "airportPostcode": "90000",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kasbah Museum (Dar al Makhzen)",
+      "description": "Former sultan's palace with Moorish architecture and Moroccan antiquities"
+    },
+    {
+      "rank": 2,
+      "name": "Cap Spartel & Hercules Cave",
+      "description": "Tip of Africa where Atlantic meets Mediterranean - cave shaped like Africa's outline"
+    },
+    {
+      "rank": 3,
+      "name": "Grand Socco & Petit Socco",
+      "description": "The grand and little market squares at the heart of the medina"
+    },
+    {
+      "rank": 4,
+      "name": "Medina Walking Tour",
+      "description": "Labyrinthine medina where the Beat generation writers - Bowles, Kerouac, Burroughs - lived"
+    },
+    {
+      "rank": 5,
+      "name": "American Legation Museum",
+      "description": "US National Historic Landmark - first American public building outside the US"
+    },
+    {
+      "rank": 6,
+      "name": "Cafe Hafa (1921)",
+      "description": "Iconic clifftop cafe with mint tea and ocean views - where the Rolling Stones smoked kif"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of Contemporary Art of Tangier",
+      "description": "Tangier's vibrant contemporary Moroccan art scene"
+    },
+    {
+      "rank": 8,
+      "name": "Ferry to Spain (Algeciras/Tarifa)",
+      "description": "Cross the Strait of Gibraltar in 35 minutes - amazing views of two continents"
+    },
+    {
+      "rank": 9,
+      "name": "Chefchaouen Day Trip",
+      "description": "Blue-painted mountain town 3 hours south - Morocco's most photogenic city"
+    },
+    {
+      "rank": 10,
+      "name": "Tagine at Dar Nour",
+      "description": "Roof terrace tagine overlooking the bay"
+    }
+  ]
+}

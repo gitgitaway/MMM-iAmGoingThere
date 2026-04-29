@@ -1,0 +1,58 @@
+{
+  "city": "Tarawa",
+  "country": "Kiribati",
+  "airportPostcode": "686",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Battle of Tarawa WWII Sites",
+      "description": "1943 battle where 1,000 US Marines died in 76 hours - tanks and bunkers remain"
+    },
+    {
+      "rank": 2,
+      "name": "Betio WWII Museum",
+      "description": "Japanese and American WWII artefacts from the bloodiest battle per hour in the Pacific"
+    },
+    {
+      "rank": 3,
+      "name": "Ambo Island Causeway Drive",
+      "description": "Drive the causeways connecting the islets of South Tarawa with ocean on both sides"
+    },
+    {
+      "rank": 4,
+      "name": "Traditional Maneaba Meeting House",
+      "description": "Oval thatch open-sided meeting hall - centre of I-Kiribati social and political life"
+    },
+    {
+      "rank": 5,
+      "name": "Lagoon Fishing",
+      "description": "Fish the pristine lagoon with local fishermen for yellowfin tuna and wahoo"
+    },
+    {
+      "rank": 6,
+      "name": "Te Umanibong Museum",
+      "description": "I-Kiribati traditional culture, navigation and the WWII history of the Gilbert Islands"
+    },
+    {
+      "rank": 7,
+      "name": "Bairiki National Stadium",
+      "description": "Watch I-Kiribati football or attend a national independence celebration"
+    },
+    {
+      "rank": 8,
+      "name": "Buota Village Traditional Fishing",
+      "description": "Watch the remarkable traditional Kiribati fish-drive techniques in the lagoon"
+    },
+    {
+      "rank": 9,
+      "name": "Nanikai Beach",
+      "description": "Quiet white sand beach on the lagoon side - peaceful and unspoilt"
+    },
+    {
+      "rank": 10,
+      "name": "Toddy (Palm Wine) Tapping",
+      "description": "Watch toddy collectors climb coconut palms at dawn to collect fresh palm sap"
+    }
+  ]
+}

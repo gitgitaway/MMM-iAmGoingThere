@@ -1,0 +1,58 @@
+{
+  "city": "Seville",
+  "country": "Spain",
+  "airportPostcode": "41020",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Real Alcazar",
+      "description": "UNESCO-listed Royal Palace complex of stunning Mudéjar architecture and gardens"
+    },
+    {
+      "rank": 2,
+      "name": "Seville Cathedral & Giralda",
+      "description": "World's largest Gothic cathedral with La Giralda tower and Columbus's tomb"
+    },
+    {
+      "rank": 3,
+      "name": "Barrio Santa Cruz",
+      "description": "Enchanting former Jewish quarter of whitewashed houses and orange blossom lanes"
+    },
+    {
+      "rank": 4,
+      "name": "Plaza de Espana",
+      "description": "Spectacular 1929 semicircular palace complex with canal, bridges and tile mosaics"
+    },
+    {
+      "rank": 5,
+      "name": "Metropol Parasol",
+      "description": "World's largest wooden structure with rooftop walkway over the Encarnacion square"
+    },
+    {
+      "rank": 6,
+      "name": "Torre del Oro",
+      "description": "13th-century golden tower on the Guadalquivir with a maritime museum inside"
+    },
+    {
+      "rank": 7,
+      "name": "Flamenco Shows",
+      "description": "Authentic flamenco performances in traditional tablaos in the city that invented the art"
+    },
+    {
+      "rank": 8,
+      "name": "Maria Luisa Park",
+      "description": "Romantic 19th-century park with fountains, peacocks and the Archaeological Museum"
+    },
+    {
+      "rank": 9,
+      "name": "Triana District",
+      "description": "Traditional potters' and flamenco neighbourhood across the river with tapas bars"
+    },
+    {
+      "rank": 10,
+      "name": "Italica Roman Ruins",
+      "description": "Birthplace of emperors Trajan and Hadrian with a stunning amphitheatre 9km away"
+    }
+  ]
+}

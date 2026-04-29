@@ -1,0 +1,58 @@
+{
+  "city": "Toulouse",
+  "country": "France",
+  "airportPostcode": "31700",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cite de l'Espace",
+      "description": "Space theme park with life-size Ariane 5 rocket replica and real Mir space station module"
+    },
+    {
+      "rank": 2,
+      "name": "Basilique Saint-Sernin",
+      "description": "Largest Romanesque church in Europe and UNESCO pilgrimage site on the Camino de Santiago"
+    },
+    {
+      "rank": 3,
+      "name": "Capitole de Toulouse",
+      "description": "Stunning city hall with magnificent Hall des Illustres and the city's main square"
+    },
+    {
+      "rank": 4,
+      "name": "Les Jacobins",
+      "description": "Gothic Dominican church with a famous palm tree column and Toulouse-Lautrec's tomb"
+    },
+    {
+      "rank": 5,
+      "name": "Musee des Augustins",
+      "description": "Fine arts museum in a former Augustinian convent with superb Romanesque sculpture"
+    },
+    {
+      "rank": 6,
+      "name": "Canal du Midi",
+      "description": "UNESCO World Heritage 17th-century canal lined with plane trees passing through the city"
+    },
+    {
+      "rank": 7,
+      "name": "Aeroscopia",
+      "description": "Aerospace museum with Concorde and original Airbus aircraft, gateway to Airbus factory tour"
+    },
+    {
+      "rank": 8,
+      "name": "Prairie des Filtres",
+      "description": "Riverside park along the Garonne with views of the Pont Neuf and city skyline"
+    },
+    {
+      "rank": 9,
+      "name": "Musee Saint-Raymond",
+      "description": "Archaeology museum with outstanding Roman sculpture in a 16th-century building"
+    },
+    {
+      "rank": 10,
+      "name": "Victor Hugo Market",
+      "description": "Covered market with Toulouse specialities including cassoulet and violet-based products"
+    }
+  ]
+}

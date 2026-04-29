@@ -1,0 +1,58 @@
+{
+  "city": "Trondheim",
+  "country": "Norway",
+  "airportPostcode": "7492",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nidaros Cathedral",
+      "description": "Scandinavia's largest medieval building and traditional coronation church of Norwegian kings"
+    },
+    {
+      "rank": 2,
+      "name": "Nidelva Riverside",
+      "description": "Colourful wooden warehouses on stilts along the river, the city's most photogenic scene"
+    },
+    {
+      "rank": 3,
+      "name": "Archbishop's Palace Museum",
+      "description": "Norway's oldest secular building, home to the original medieval sculptures from the cathedral"
+    },
+    {
+      "rank": 4,
+      "name": "Rockheim",
+      "description": "National museum for popular music charting Norwegian rock from the 1950s to today"
+    },
+    {
+      "rank": 5,
+      "name": "Stiftsgarden",
+      "description": "Scandinavia's largest wooden palace and official royal residence in Trondheim"
+    },
+    {
+      "rank": 6,
+      "name": "Munkholmen Island",
+      "description": "Island fortress and former Benedictine monastery in the fjord, accessible by boat in summer"
+    },
+    {
+      "rank": 7,
+      "name": "Kristiansten Fortress",
+      "description": "17th-century hilltop fortress with cannon-lined ramparts and city views"
+    },
+    {
+      "rank": 8,
+      "name": "Trondheim Art Museum",
+      "description": "Norway's oldest art museum outside Oslo with Norwegian and international paintings"
+    },
+    {
+      "rank": 9,
+      "name": "NTNU University Museum",
+      "description": "Natural history collections with a remarkable Greenlandic section and Viking artefacts"
+    },
+    {
+      "rank": 10,
+      "name": "Ravnkloa Fish Market",
+      "description": "Lively harbour fish market and gateway to ferry trips around the Trondheim fjord"
+    }
+  ]
+}

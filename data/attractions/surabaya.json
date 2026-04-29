@@ -1,0 +1,58 @@
+{
+  "city": "Surabaya",
+  "country": "Indonesia",
+  "airportPostcode": "60461",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mount Bromo Sunrise",
+      "description": "Pre-dawn jeep ride to the sea of sand and smoking crater - Java's most iconic view"
+    },
+    {
+      "rank": 2,
+      "name": "Arab Quarter (Ampel District)",
+      "description": "Historic Islamic trading quarter with the tomb of Sunan Ampel - Java's Wali Songo"
+    },
+    {
+      "rank": 3,
+      "name": "House of Sampoerna Tobacco Museum",
+      "description": "Dutch Art Nouveau building with the history of Sampoerna kretek clove cigarettes"
+    },
+    {
+      "rank": 4,
+      "name": "Chinatown (Kembang Jepun)",
+      "description": "Chinese New Year celebrations and traditional shops in Surabaya's flower street"
+    },
+    {
+      "rank": 5,
+      "name": "Submarine Monument (KRI Pasopati 410)",
+      "description": "Cold War-era Indonesian submarine moored as a museum"
+    },
+    {
+      "rank": 6,
+      "name": "Heroes Monument (Tugu Pahlawan)",
+      "description": "100m independence monument commemorating the Battle of Surabaya on 10 November 1945"
+    },
+    {
+      "rank": 7,
+      "name": "Ijen Crater Blue Fire",
+      "description": "Night hike to the world's largest acid lake and eerie blue sulphuric flames"
+    },
+    {
+      "rank": 8,
+      "name": "Tunjungan Plaza Mall",
+      "description": "Surabaya's iconic connected mall complex"
+    },
+    {
+      "rank": 9,
+      "name": "Kalimas Old Harbour",
+      "description": "Traditional wooden Phinisi schooners from Sulawesi moored at the old harbour"
+    },
+    {
+      "rank": 10,
+      "name": "Rawon (Black Beef Soup)",
+      "description": "Surabaya's black keluak-nut beef soup - one of Indonesia's greatest dishes"
+    }
+  ]
+}

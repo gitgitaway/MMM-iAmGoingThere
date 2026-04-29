@@ -1,0 +1,58 @@
+{
+  "city": "Sao Tome",
+  "country": "Sao Tome and Principe",
+  "airportPostcode": "999115",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sao Sebastiao Museum (National Museum)",
+      "description": "Portuguese colonial fort and museum with the history of the cacao island"
+    },
+    {
+      "rank": 2,
+      "name": "Roça Bombaim Cacao Plantation",
+      "description": "Atmospheric 19th-century cacao roça (plantation) with original architecture intact"
+    },
+    {
+      "rank": 3,
+      "name": "Praia Lagoa Azul (Blue Lagoon Beach)",
+      "description": "The island's most photographed beach - perfect curved bay with calm turquoise water"
+    },
+    {
+      "rank": 4,
+      "name": "Obo National Park",
+      "description": "Pristine rainforest covering the volcanic interior with rare endemic birds and primates"
+    },
+    {
+      "rank": 5,
+      "name": "Pico Cão Grande",
+      "description": "Dramatic 663m volcanic needle rising from the jungle - the symbol of São Tomé"
+    },
+    {
+      "rank": 6,
+      "name": "Banana Beach (Praia Banana)",
+      "description": "Quintessential tropical beach used in countless travel advertisements"
+    },
+    {
+      "rank": 7,
+      "name": "Roça Monte Cafe",
+      "description": "Colonial coffee roça at 850m with forest trails and historical coffee machinery"
+    },
+    {
+      "rank": 8,
+      "name": "Principe Island Day Trip",
+      "description": "UNESCO Biosphere Reserve - one of Africa's most pristine islands"
+    },
+    {
+      "rank": 9,
+      "name": "Cidade de São Tomé Old Quarter",
+      "description": "Portuguese colonial streets with brightly coloured facades"
+    },
+    {
+      "rank": 10,
+      "name": "Calulu (Fish & Vegetable Stew)",
+      "description": "National dish - dried fish, palm oil, okra and taro leaves slow-cooked together"
+    }
+  ]
+}

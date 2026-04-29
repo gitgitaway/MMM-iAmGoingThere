@@ -1,0 +1,58 @@
+{
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "airportPostcode": "17020",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gandantegchinlen Monastery",
+      "description": "Mongolia's most important Buddhist monastery with a 26.5m gold-plated Janraisig statue"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Mongolia",
+      "description": "Mongolian history from the Stone Age through the Mongol Empire to Soviet era"
+    },
+    {
+      "rank": 3,
+      "name": "Sukhbaatar Square",
+      "description": "Central square with the Parliament Building, Genghis Khan statue and independence monument"
+    },
+    {
+      "rank": 4,
+      "name": "Bogd Khan Palace Museum",
+      "description": "Winter palace of the last Bogd Khan with extraordinary Buddhist art collection"
+    },
+    {
+      "rank": 5,
+      "name": "Terelj National Park",
+      "description": "60km from UB - dramatic granite landscapes, ger camps and Genghis Khan Equestrian Statue"
+    },
+    {
+      "rank": 6,
+      "name": "Genghis Khan Equestrian Statue",
+      "description": "World's largest equestrian statue - 40m stainless steel on the vast Mongolian steppe"
+    },
+    {
+      "rank": 7,
+      "name": "Choijin Lama Temple Museum",
+      "description": "Early 20th-century Buddhist temple complex with terrifying Tantric deity masks and art"
+    },
+    {
+      "rank": 8,
+      "name": "Naadam Festival",
+      "description": "Mongolia's greatest festival with the Three Manly Games: wrestling, archery and horse racing"
+    },
+    {
+      "rank": 9,
+      "name": "Black Market (Narantuul Bazaar)",
+      "description": "Enormous outdoor market selling everything from deel robes to motorbike parts"
+    },
+    {
+      "rank": 10,
+      "name": "Natural History Museum",
+      "description": "Dinosaur fossils from the Gobi Desert including Velociraptor and Protoceratops specimens"
+    }
+  ]
+}

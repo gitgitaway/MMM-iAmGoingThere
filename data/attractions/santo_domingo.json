@@ -1,0 +1,58 @@
+{
+  "city": "Santo Domingo",
+  "country": "Dominican Republic",
+  "airportPostcode": "11501",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Colonial City (Ciudad Colonial)",
+      "description": "UNESCO World Heritage first European city in the Americas with cobblestone streets"
+    },
+    {
+      "rank": 2,
+      "name": "Alcazar de Colon",
+      "description": "16th-century palace of Diego Columbus, Christopher Columbus's son"
+    },
+    {
+      "rank": 3,
+      "name": "Cathedral of Santa Maria la Menor",
+      "description": "Oldest cathedral in the Americas, completed in 1541, housing Columbus's remains"
+    },
+    {
+      "rank": 4,
+      "name": "Faro a Colon (Columbus Lighthouse)",
+      "description": "Cross-shaped lighthouse mausoleum housing Columbus's remains with a laser cross"
+    },
+    {
+      "rank": 5,
+      "name": "Fortaleza Ozama",
+      "description": "Oldest European fortress in the Americas, built in 1502"
+    },
+    {
+      "rank": 6,
+      "name": "Museo de las Casas Reales",
+      "description": "16th-century Royal Court building with colonial artefacts and sunken treasure"
+    },
+    {
+      "rank": 7,
+      "name": "Zona Colonial Night Walk",
+      "description": "Evening stroll through the floodlit colonial quarter with music and street food"
+    },
+    {
+      "rank": 8,
+      "name": "Samana Peninsula Day Trip",
+      "description": "Whale watching January-March in Samana Bay - thousands of humpback whales"
+    },
+    {
+      "rank": 9,
+      "name": "Punta Cana Day Trip",
+      "description": "Caribbean's finest beaches 3 hours east - white sand, coconut palms, turquoise water"
+    },
+    {
+      "rank": 10,
+      "name": "Mercado Modelo",
+      "description": "Sprawling craft market with Haitian art, Dominican cigars, rum and voodoo dolls"
+    }
+  ]
+}

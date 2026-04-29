@@ -1,0 +1,18 @@
+{
+  "city": "Shiraz",
+  "country": "Iran",
+  "airportPostcode": "71368",
+  "airportDistanceKm": 11,
+  "things": [
+    { "rank": 1, "name": "Persepolis", "description": "UNESCO World Heritage ceremonial capital of Achaemenid Persia with vast columned halls" },
+    { "rank": 2, "name": "Nasir al-Mulk Mosque (Pink Mosque)", "description": "19th-century mosque where stained-glass windows create a kaleidoscopic prayer hall at dawn" },
+    { "rank": 3, "name": "Tomb of Hafez", "description": "Garden mausoleum of Persia's greatest lyric poet, where Shirazis gather to recite his verse" },
+    { "rank": 4, "name": "Naqsh-e Rostam", "description": "Achaemenid royal necropolis with cross-shaped tombs of Darius and Xerxes carved into cliffs" },
+    { "rank": 5, "name": "Eram Garden", "description": "UNESCO World Heritage Persian garden with a 19th-century royal pavilion and cypress trees" },
+    { "rank": 6, "name": "Shah Cheragh Shrine", "description": "Spectacular mirror-mosaic mausoleum, one of Iran's most important Shia pilgrimage sites" },
+    { "rank": 7, "name": "Vakil Bazaar", "description": "18th-century Zand bazaar with vaulted brick ceilings, carpet dealers and spice merchants" },
+    { "rank": 8, "name": "Tomb of Saadi", "description": "Garden mausoleum of Saadi Shirazi, author of the Gulistan and one of Iran's greatest poets" },
+    { "rank": 9, "name": "Vakil Mosque", "description": "Zand-dynasty mosque with 48 spiral-fluted columns carved from single pieces of marble" },
+    { "rank": 10, "name": "Pasargadae", "description": "UNESCO World Heritage tomb of Cyrus the Great - founder of the Achaemenid Persian Empire" }
+  ]
+}

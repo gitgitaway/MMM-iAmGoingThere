@@ -1,0 +1,58 @@
+{
+  "city": "Tashkent",
+  "country": "Uzbekistan",
+  "airportPostcode": "100000",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Khast Imam Complex (Hazrati Imam)",
+      "description": "Central Asia's most important Islamic complex with the world's oldest Quran"
+    },
+    {
+      "rank": 2,
+      "name": "Chorsu Bazaar",
+      "description": "Ancient domed market at the heart of the old town - one of Central Asia's great bazaars"
+    },
+    {
+      "rank": 3,
+      "name": "Independence Square (Mustaqillik Maydoni)",
+      "description": "Soviet-era Friendship of Nations Square transformed into Uzbekistan's independence monument"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of Applied Arts",
+      "description": "19th-century diplomat's house with exceptional collection of Uzbek crafts and decorative arts"
+    },
+    {
+      "rank": 5,
+      "name": "Amir Timur Museum",
+      "description": "Blue-domed museum dedicated to Tamerlane with exhibits on the Timurid Empire"
+    },
+    {
+      "rank": 6,
+      "name": "Tashkent Metro",
+      "description": "Soviet-era metro with ornate stations decorated with marble, chandeliers and mosaics"
+    },
+    {
+      "rank": 7,
+      "name": "Old City (Eski Shahar)",
+      "description": "Historic quarter with narrow streets, mosques and the Juma (Friday) Mosque"
+    },
+    {
+      "rank": 8,
+      "name": "Samarkand Day Trip",
+      "description": "High-speed train to Samarkand - the ancient Silk Road city with Timur's monuments"
+    },
+    {
+      "rank": 9,
+      "name": "Alisher Navoi Opera Theatre",
+      "description": "Stunning 1947 opera house blending Uzbek architectural styles with Soviet classicism"
+    },
+    {
+      "rank": 10,
+      "name": "Tashkentland Amusement Park",
+      "description": "Popular family entertainment park in the heart of the city"
+    }
+  ]
+}

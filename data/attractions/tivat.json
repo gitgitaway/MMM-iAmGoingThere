@@ -1,0 +1,58 @@
+{
+  "city": "Tivat",
+  "country": "Montenegro",
+  "airportPostcode": "85320",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Porto Montenegro",
+      "description": "Ultra-luxury superyacht marina and resort in the Bay of Kotor"
+    },
+    {
+      "rank": 2,
+      "name": "Bay of Kotor (Boka Kotorska)",
+      "description": "Europe's southernmost fjord-like bay surrounded by dramatic mountains and medieval towns"
+    },
+    {
+      "rank": 3,
+      "name": "Kotor Old Town",
+      "description": "UNESCO World Heritage medieval walled city just 10 minutes from Tivat airport"
+    },
+    {
+      "rank": 4,
+      "name": "Our Lady of the Rocks",
+      "description": "Artificial island church in the Bay of Kotor built on a submerged reef"
+    },
+    {
+      "rank": 5,
+      "name": "Lustica Peninsula",
+      "description": "Wild unspoilt peninsula with olive groves, hidden coves and the developing Rose village"
+    },
+    {
+      "rank": 6,
+      "name": "Buket Fortress",
+      "description": "Venetian-era fort above Tivat with views across the bay"
+    },
+    {
+      "rank": 7,
+      "name": "Perast",
+      "description": "Baroque lakeside village with 17 churches and 12 palaces in just one street"
+    },
+    {
+      "rank": 8,
+      "name": "St George Island",
+      "description": "Cypress-covered island in the Bay of Kotor visible from Perast"
+    },
+    {
+      "rank": 9,
+      "name": "Tivat Promenade & Beaches",
+      "description": "Seafront promenade and sandy beaches in the sheltered bay"
+    },
+    {
+      "rank": 10,
+      "name": "Kalimanj Cemetery",
+      "description": "Historic cemetery with Venetian-era tombstones and sea views"
+    }
+  ]
+}

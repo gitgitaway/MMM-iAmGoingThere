@@ -1,0 +1,58 @@
+{
+  "city": "Samarkand",
+  "country": "Uzbekistan",
+  "airportPostcode": "140100",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Registan Square",
+      "description": "UNESCO World Heritage three-sided square of monumental madrassas - the heart of ancient Samarkand"
+    },
+    {
+      "rank": 2,
+      "name": "Gur-e-Amir (Tamerlane's Mausoleum)",
+      "description": "15th-century tomb of Tamerlane with a ribbed azure dome and jade sarcophagus"
+    },
+    {
+      "rank": 3,
+      "name": "Bibi-Khanym Mosque",
+      "description": "Tamerlane's colossal mosque - once the largest in the Islamic world, now majestically ruined"
+    },
+    {
+      "rank": 4,
+      "name": "Shah-i-Zinda Necropolis",
+      "description": "Avenue of 14 mausoleums with the most dazzling tiled facades in the Islamic world"
+    },
+    {
+      "rank": 5,
+      "name": "Ulugbek Observatory",
+      "description": "15th-century astronomical observatory of astronomer-king Ulugbek with remarkable accuracy"
+    },
+    {
+      "rank": 6,
+      "name": "Afrasiab Museum",
+      "description": "Museum on the ancient hill-city of Maracanda with 7th-century frescoes"
+    },
+    {
+      "rank": 7,
+      "name": "Samarkand Bazaar",
+      "description": "Silk Road market with the finest Uzbek silk suzanis, ikat robes and dried fruits"
+    },
+    {
+      "rank": 8,
+      "name": "Hazrat-Hizr Mosque",
+      "description": "19th-century blue-tiled mosque with a terrace overlooking Samarkand and the Registan"
+    },
+    {
+      "rank": 9,
+      "name": "Samarkand Wine Tasting",
+      "description": "Soviet-era winery producing wine since 1868, still making Uzbekistan's best wines"
+    },
+    {
+      "rank": 10,
+      "name": "Paper Mill (Samarkand Paper)",
+      "description": "Demonstration of 2,000-year-old Samarkand paper-making techniques using mulberry bark"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "Stuttgart",
+  "country": "Germany",
+  "airportPostcode": "70629",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mercedes-Benz Museum",
+      "description": "Nine floors of automotive history in a stunning double-helix building"
+    },
+    {
+      "rank": 2,
+      "name": "Porsche Museum",
+      "description": "Sleek white museum showcasing the full history of the iconic sports car brand"
+    },
+    {
+      "rank": 3,
+      "name": "Staatsgalerie Stuttgart",
+      "description": "Outstanding art museum with James Stirling's postmodern extension and Dix masterpieces"
+    },
+    {
+      "rank": 4,
+      "name": "Wilhelma Zoo & Botanical Garden",
+      "description": "Germany's only combined zoological and botanical garden in Moorish Revival buildings"
+    },
+    {
+      "rank": 5,
+      "name": "Schlossplatz",
+      "description": "Central square with the New Palace, the Jubilee Column and surrounding green space"
+    },
+    {
+      "rank": 6,
+      "name": "Stuttgart Weissenhof Estate",
+      "description": "UNESCO World Heritage Modernist housing exhibition of 1927 by Mies van der Rohe and others"
+    },
+    {
+      "rank": 7,
+      "name": "Fernsehturm Stuttgart",
+      "description": "World's first television tower in concrete, built 1956, with observation deck"
+    },
+    {
+      "rank": 8,
+      "name": "Altes Schloss",
+      "description": "Renaissance palace in the city centre housing the Wurttembergisches Landesmuseum"
+    },
+    {
+      "rank": 9,
+      "name": "Stuttgart Vineyards",
+      "description": "Terraced vineyard hillsides within the city limits producing excellent Trollinger wine"
+    },
+    {
+      "rank": 10,
+      "name": "Stuttgarter Weindorf",
+      "description": "Famous annual wine festival with hundreds of Wurttemberg wines in the pedestrian zone"
+    }
+  ]
+}

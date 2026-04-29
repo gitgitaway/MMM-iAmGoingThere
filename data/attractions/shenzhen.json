@@ -1,0 +1,58 @@
+{
+  "city": "Shenzhen",
+  "country": "China",
+  "airportPostcode": "518128",
+  "airportDistanceKm": 32,
+  "things": [
+    {
+      "rank": 1,
+      "name": "OCT Loft Creative Culture Park",
+      "description": "Former factory complex transformed into Shenzhen's coolest art and design district"
+    },
+    {
+      "rank": 2,
+      "name": "Window of the World Theme Park",
+      "description": "130 scale-model world landmarks including the Eiffel Tower and the Taj Mahal"
+    },
+    {
+      "rank": 3,
+      "name": "Dafen Oil Painting Village",
+      "description": "Village of 8,000 artists producing high-quality reproductions and original contemporary art"
+    },
+    {
+      "rank": 4,
+      "name": "Huaqiangbei Electronics Market",
+      "description": "World's largest electronics market spanning multiple buildings with every component imaginable"
+    },
+    {
+      "rank": 5,
+      "name": "Splendid China Folk Village",
+      "description": "Miniature replicas of China's famous sites alongside cultural performances"
+    },
+    {
+      "rank": 6,
+      "name": "Shenzhen Bay Park",
+      "description": "13km coastal park with a cycling track, wetlands and views across to Hong Kong"
+    },
+    {
+      "rank": 7,
+      "name": "Lianhua Mountain Park",
+      "description": "Hilltop park with Deng Xiaoping statue and panoramic views over modern Shenzhen"
+    },
+    {
+      "rank": 8,
+      "name": "Happy Valley Theme Park",
+      "description": "Thrill rides and roller coasters in China's most popular amusement park chain"
+    },
+    {
+      "rank": 9,
+      "name": "Dapeng Fortress",
+      "description": "Ming-dynasty coastal fortress town with well-preserved streets and ancestral halls"
+    },
+    {
+      "rank": 10,
+      "name": "Shenzhen Museum of Contemporary Art",
+      "description": "World-class contemporary art space in the new Futian cultural district"
+    }
+  ]
+}

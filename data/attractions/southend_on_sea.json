@@ -1,0 +1,58 @@
+{
+  "city": "Southend-on-Sea",
+  "country": "United Kingdom",
+  "airportPostcode": "SS2 6YF",
+  "airportDistanceKm": 61,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Southend Pier",
+      "description": "World's longest pleasure pier at 1.33 miles with its own railway into the Thames Estuary"
+    },
+    {
+      "rank": 2,
+      "name": "Adventure Island",
+      "description": "Thrilling amusement park on the seafront with rides for all ages"
+    },
+    {
+      "rank": 3,
+      "name": "Beecroft Art Gallery",
+      "description": "Outstanding collection of Victorian and 20th-century British art"
+    },
+    {
+      "rank": 4,
+      "name": "Prittlewell Priory",
+      "description": "12th-century Cluniac priory set in Priory Park with museum"
+    },
+    {
+      "rank": 5,
+      "name": "Southend Central Museum",
+      "description": "Natural history and archaeology collections including the Southend Planetarium"
+    },
+    {
+      "rank": 6,
+      "name": "Sealife Adventure",
+      "description": "Aquarium with sharks, rays and tropical fish in the heart of the town"
+    },
+    {
+      "rank": 7,
+      "name": "Cliff Lift",
+      "description": "Funicular railway offering views over the seafront since 1912"
+    },
+    {
+      "rank": 8,
+      "name": "Leigh-on-Sea Old Town",
+      "description": "Picturesque fishing village with traditional cockle sheds and art galleries"
+    },
+    {
+      "rank": 9,
+      "name": "Two Tree Island",
+      "description": "Nature reserve and bird sanctuary in the Thames Estuary"
+    },
+    {
+      "rank": 10,
+      "name": "Palace Hotel Visitor Attraction",
+      "description": "Victorian hotel complex with heritage displays and sea views"
+    }
+  ]
+}

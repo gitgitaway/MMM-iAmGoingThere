@@ -1,0 +1,58 @@
+{
+  "city": "Sal",
+  "country": "Cape Verde",
+  "airportPostcode": "7600",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Santa Maria Beach",
+      "description": "Stunning turquoise bay with white sand - Cape Verde's most popular resort beach"
+    },
+    {
+      "rank": 2,
+      "name": "Windsurfing & Kitesurfing",
+      "description": "Sal's constant trade winds make it one of the world's best wind sports destinations"
+    },
+    {
+      "rank": 3,
+      "name": "Pedra de Lume Salt Lake",
+      "description": "Crater lake of pink salt - float like the Dead Sea and have a natural salt scrub"
+    },
+    {
+      "rank": 4,
+      "name": "Shark Bay Snorkelling",
+      "description": "Reef snorkelling with nurse sharks, rays and sea turtles"
+    },
+    {
+      "rank": 5,
+      "name": "Espargos Market",
+      "description": "Sal's main town market with Cape Verdean music, grogue rum and local crafts"
+    },
+    {
+      "rank": 6,
+      "name": "Murdeira Bay",
+      "description": "Dramatic bay with sea caves, cliffs and excellent diving on the north coast"
+    },
+    {
+      "rank": 7,
+      "name": "Baby Hatchery (Sea Turtle Project)",
+      "description": "Visit the loggerhead sea turtle hatchery - Sal has the second largest nesting site in Africa"
+    },
+    {
+      "rank": 8,
+      "name": "Fogo Volcano Day Trip",
+      "description": "Fly to Fogo island to hike the active 2,829m volcano"
+    },
+    {
+      "rank": 9,
+      "name": "Santiago Island (Cidade Velha)",
+      "description": "UNESCO World Heritage first European city in the tropics"
+    },
+    {
+      "rank": 10,
+      "name": "Cachupa Stew",
+      "description": "Cape Verde's national dish - slow-cooked corn, beans and whatever meat is available"
+    }
+  ]
+}

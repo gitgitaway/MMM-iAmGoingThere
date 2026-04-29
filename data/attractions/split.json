@@ -1,0 +1,58 @@
+{
+  "city": "Split",
+  "country": "Croatia",
+  "airportPostcode": "21212",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Diocletian's Palace",
+      "description": "UNESCO World Heritage 4th-century Roman emperor's retirement palace, still a living city"
+    },
+    {
+      "rank": 2,
+      "name": "Cathedral of Saint Domnius",
+      "description": "World's oldest Catholic cathedral, converted from Diocletian's mausoleum"
+    },
+    {
+      "rank": 3,
+      "name": "Marjan Hill",
+      "description": "Forested peninsula park above the city with viewpoints and secluded beaches"
+    },
+    {
+      "rank": 4,
+      "name": "Mestrovic Gallery",
+      "description": "Sculptor Ivan Mestrovic's villa museum with one of Croatia's finest art collections"
+    },
+    {
+      "rank": 5,
+      "name": "Riva Promenade",
+      "description": "Bustling waterfront promenade, the social heart of Split with palm trees and cafes"
+    },
+    {
+      "rank": 6,
+      "name": "Klis Fortress",
+      "description": "Dramatic hilltop fortress above Split, Game of Thrones filming location"
+    },
+    {
+      "rank": 7,
+      "name": "Golden Gate",
+      "description": "Best-preserved Roman gate of Diocletian's Palace with the Grgur Ninski statue"
+    },
+    {
+      "rank": 8,
+      "name": "Krka National Park",
+      "description": "Stunning series of waterfalls and lakes accessible by boat from Sibenik"
+    },
+    {
+      "rank": 9,
+      "name": "Hvar Island Day Trip",
+      "description": "Glamorous Adriatic island with lavender fields, crystal water and vibrant nightlife"
+    },
+    {
+      "rank": 10,
+      "name": "Brac Island & Zlatni Rat",
+      "description": "Day trip to the famous horn-shaped pebble beach that shifts with the current"
+    }
+  ]
+}

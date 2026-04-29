@@ -1,0 +1,58 @@
+{
+  "city": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "airportPostcode": "71210",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bascarsija Bazaar",
+      "description": "Ottoman bazaar at the heart of Sarajevo with coppersmith workshops and the famous Sebilj fountain"
+    },
+    {
+      "rank": 2,
+      "name": "Latin Bridge",
+      "description": "Ottoman bridge where Archduke Franz Ferdinand was assassinated, triggering World War I"
+    },
+    {
+      "rank": 3,
+      "name": "Gazi Husrev-beg Mosque",
+      "description": "Most important Ottoman-era mosque in the Balkans, built in 1531"
+    },
+    {
+      "rank": 4,
+      "name": "Sarajevo War Tunnel Museum",
+      "description": "Tunnel used to supply besieged Sarajevo during the 1992-95 siege"
+    },
+    {
+      "rank": 5,
+      "name": "Old Town (Stari Grad)",
+      "description": "Where East meets West - Catholic, Orthodox, Muslim and Jewish buildings within metres"
+    },
+    {
+      "rank": 6,
+      "name": "City Hall (Vijecnica)",
+      "description": "Magnificent pseudo-Moorish building destroyed in the siege and gloriously restored"
+    },
+    {
+      "rank": 7,
+      "name": "Yellow Fortress (Zuta Tabija)",
+      "description": "Ottoman fortress ruins with the best panoramic views over Sarajevo"
+    },
+    {
+      "rank": 8,
+      "name": "National Museum of Bosnia",
+      "description": "Country's oldest and largest museum with the priceless 14th-century Sarajevo Haggadah"
+    },
+    {
+      "rank": 9,
+      "name": "Sacred Heart Cathedral",
+      "description": "Neo-Gothic Catholic cathedral with the finest ecclesiastical interior in Sarajevo"
+    },
+    {
+      "rank": 10,
+      "name": "Avaz Twist Tower",
+      "description": "Striking 176m glass-and-steel skyscraper with an observation deck over the city"
+    }
+  ]
+}

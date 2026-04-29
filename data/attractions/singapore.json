@@ -1,0 +1,58 @@
+{
+  "city": "Singapore",
+  "country": "Singapore",
+  "airportPostcode": "819642",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gardens by the Bay",
+      "description": "Futuristic park with the Supertree Grove, Cloud Forest and Flower Dome biospheres"
+    },
+    {
+      "rank": 2,
+      "name": "Marina Bay Sands",
+      "description": "Iconic three-tower resort with an infinity pool and SkyPark observation deck"
+    },
+    {
+      "rank": 3,
+      "name": "Sentosa Island",
+      "description": "Resort island with Universal Studios, S.E.A. Aquarium and cable car rides"
+    },
+    {
+      "rank": 4,
+      "name": "Chinatown",
+      "description": "Vibrant heritage district with temples, hawker centres and traditional medicine shops"
+    },
+    {
+      "rank": 5,
+      "name": "Little India",
+      "description": "Colourful neighbourhood with Hindu temples, flower garlands and curry houses"
+    },
+    {
+      "rank": 6,
+      "name": "Singapore Botanic Gardens",
+      "description": "UNESCO World Heritage tropical garden with the National Orchid Garden"
+    },
+    {
+      "rank": 7,
+      "name": "Hawker Centre Culture",
+      "description": "UNESCO-listed street food culture at legendary centres like Maxwell and Lau Pa Sat"
+    },
+    {
+      "rank": 8,
+      "name": "National Museum of Singapore",
+      "description": "Singapore's oldest museum in a grand colonial building with living galleries"
+    },
+    {
+      "rank": 9,
+      "name": "Singapore Zoo & Night Safari",
+      "description": "Award-winning open-concept zoo and the world's first nocturnal wildlife park"
+    },
+    {
+      "rank": 10,
+      "name": "Orchard Road",
+      "description": "Singapore's premier shopping street with hundreds of malls and luxury brands"
+    }
+  ]
+}

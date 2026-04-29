@@ -1,0 +1,58 @@
+{
+  "city": "San Jose",
+  "country": "Costa Rica",
+  "airportPostcode": "40401",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Arenal Volcano & Hot Springs",
+      "description": "Perfect cone volcano with lava flows and jungle hot springs 3 hours from San Jose"
+    },
+    {
+      "rank": 2,
+      "name": "Monteverde Cloud Forest",
+      "description": "Quetzals, jaguars and hanging bridges through the cloud forest canopy"
+    },
+    {
+      "rank": 3,
+      "name": "Manuel Antonio National Park",
+      "description": "Jungle trails to white-sand Pacific beaches with white-faced capuchin monkeys"
+    },
+    {
+      "rank": 4,
+      "name": "National Theatre (Teatro Nacional)",
+      "description": "1897 neoclassical theatre - the finest building in Central America"
+    },
+    {
+      "rank": 5,
+      "name": "Mercado Central San Jose",
+      "description": "Chaotic covered market with Costa Rican food stalls, coffee, spices and crafts"
+    },
+    {
+      "rank": 6,
+      "name": "Tortuguero National Park",
+      "description": "Venice of Costa Rica - canal boat to the nesting beach of the green sea turtle"
+    },
+    {
+      "rank": 7,
+      "name": "Gold Museum (Museo del Oro)",
+      "description": "Pre-Columbian gold artefacts of Costa Rica's indigenous people"
+    },
+    {
+      "rank": 8,
+      "name": "Poas Volcano National Park",
+      "description": "Drive-up active volcano with one of the world's largest volcanic craters"
+    },
+    {
+      "rank": 9,
+      "name": "Sloth Sanctuary",
+      "description": "Rescue sanctuary for three-toed and two-toed sloths on the Caribbean coast"
+    },
+    {
+      "rank": 10,
+      "name": "Cafe Britt Coffee Tour",
+      "description": "Costa Rica's most famous coffee with a theatrical tour of the growing and roasting"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "Toronto",
+  "country": "Canada",
+  "airportPostcode": "L5P 1B2",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "CN Tower",
+      "description": "Iconic 553m tower with glass floor, EdgeWalk and 360 Restaurant"
+    },
+    {
+      "rank": 2,
+      "name": "Royal Ontario Museum",
+      "description": "World cultures and natural history across 40 galleries"
+    },
+    {
+      "rank": 3,
+      "name": "Ripley's Aquarium of Canada",
+      "description": "Stunning underwater tunnel and massive ray and shark exhibits"
+    },
+    {
+      "rank": 4,
+      "name": "Distillery District",
+      "description": "Preserved Victorian industrial architecture turned arts village"
+    },
+    {
+      "rank": 5,
+      "name": "Kensington Market",
+      "description": "Eclectic bohemian neighbourhood with global street food"
+    },
+    {
+      "rank": 6,
+      "name": "Toronto Islands",
+      "description": "Car-free island parks with city skyline views and beaches"
+    },
+    {
+      "rank": 7,
+      "name": "Art Gallery of Ontario (AGO)",
+      "description": "Frank Gehry-designed gallery with Canadian and international art"
+    },
+    {
+      "rank": 8,
+      "name": "St. Lawrence Market",
+      "description": "Historic public market open since 1803, voted world's best"
+    },
+    {
+      "rank": 9,
+      "name": "Casa Loma",
+      "description": "Stunning Gothic Revival castle and gardens above the city"
+    },
+    {
+      "rank": 10,
+      "name": "Scarborough Bluffs",
+      "description": "Dramatic white glacial clay cliffs rising 90m above Lake Ontario"
+    }
+  ]
+}

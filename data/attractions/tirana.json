@@ -1,0 +1,58 @@
+{
+  "city": "Tirana",
+  "country": "Albania",
+  "airportPostcode": "1001",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Skanderbeg Square",
+      "description": "Central plaza honouring the Albanian national hero with an equestrian statue"
+    },
+    {
+      "rank": 2,
+      "name": "National History Museum",
+      "description": "Albania's largest museum with a remarkable mosaic facade and Albanian history"
+    },
+    {
+      "rank": 3,
+      "name": "Bunk'Art 2",
+      "description": "Cold War nuclear bunker under the Interior Ministry converted to a dark history museum"
+    },
+    {
+      "rank": 4,
+      "name": "Et'hem Bey Mosque",
+      "description": "Early 19th-century mosque with remarkable frescoes of trees and waterfalls"
+    },
+    {
+      "rank": 5,
+      "name": "Pazari i Ri (New Bazaar)",
+      "description": "Revitalised Ottoman market with colourful produce stalls and craft workshops"
+    },
+    {
+      "rank": 6,
+      "name": "Pyramid of Tirana",
+      "description": "Hoxha-era communist mausoleum now a youth cultural centre and concert venue"
+    },
+    {
+      "rank": 7,
+      "name": "Dajti Mountain & Cable Car",
+      "description": "Dajti Ekspres cable car to a forested mountain park above the city"
+    },
+    {
+      "rank": 8,
+      "name": "National Art Gallery",
+      "description": "Socialist Realist art and 20th-century Albanian paintings in a neoclassical building"
+    },
+    {
+      "rank": 9,
+      "name": "Artificial Lake Park (Parku i Liqenit)",
+      "description": "Large park and lake on the edge of the city, popular for evening walks"
+    },
+    {
+      "rank": 10,
+      "name": "Bunk'Art 1",
+      "description": "Enormous 5-storey communist nuclear bunker converted to an art and history space"
+    }
+  ]
+}

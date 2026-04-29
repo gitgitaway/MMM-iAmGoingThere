@@ -1,0 +1,58 @@
+{
+  "city": "Seoul",
+  "country": "South Korea",
+  "airportPostcode": "22382",
+  "airportDistanceKm": 52,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gyeongbokgung Palace",
+      "description": "The grandest of Seoul's five Joseon palaces with the changing of the guard ceremony"
+    },
+    {
+      "rank": 2,
+      "name": "Bukchon Hanok Village",
+      "description": "600-year-old district of traditional Korean hanok wooden houses"
+    },
+    {
+      "rank": 3,
+      "name": "N Seoul Tower (Namsan Tower)",
+      "description": "Hilltop tower with panoramic Seoul views accessible by cable car with love locks"
+    },
+    {
+      "rank": 4,
+      "name": "Insadong & Bukchon Cultural District",
+      "description": "Tea houses, galleries, street food and traditional crafts in Seoul's cultural heart"
+    },
+    {
+      "rank": 5,
+      "name": "Myeongdong Shopping District",
+      "description": "Seoul's most popular shopping street with K-beauty, street food and fashion"
+    },
+    {
+      "rank": 6,
+      "name": "DMZ (Demilitarized Zone) Tour",
+      "description": "Tour to the Korean border - Joint Security Area, Third Tunnel and Dora Observatory"
+    },
+    {
+      "rank": 7,
+      "name": "Dongdaemun Design Plaza (DDP)",
+      "description": "Zaha Hadid's futuristic design landmark with exhibitions and a night market"
+    },
+    {
+      "rank": 8,
+      "name": "Lotte World Tower Sky100",
+      "description": "Observation deck on the 100th floor of Korea's tallest building with glass floor"
+    },
+    {
+      "rank": 9,
+      "name": "Noryangjin Fish Market",
+      "description": "24-hour wholesale seafood market where you buy fish and have it prepared upstairs"
+    },
+    {
+      "rank": 10,
+      "name": "Korean Jjimjilbang (Sauna)",
+      "description": "Korean public bathhouse culture with themed hot rooms, cold pools and snack bars"
+    }
+  ]
+}

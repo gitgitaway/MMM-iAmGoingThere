@@ -1,0 +1,58 @@
+{
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "airportPostcode": "7015001",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tel Aviv Beaches",
+      "description": "16km of sandy Mediterranean beaches with vibrant beach culture and watersports"
+    },
+    {
+      "rank": 2,
+      "name": "Old Jaffa (Yafo)",
+      "description": "Ancient port city with winding alleyways, art galleries and the famous Jaffa flea market"
+    },
+    {
+      "rank": 3,
+      "name": "Carmel Market (Shuk HaCarmel)",
+      "description": "Tel Aviv's most colourful market with street food, spices and Israeli produce"
+    },
+    {
+      "rank": 4,
+      "name": "White City Bauhaus Architecture",
+      "description": "UNESCO World Heritage largest concentration of Bauhaus buildings in the world"
+    },
+    {
+      "rank": 5,
+      "name": "Neve Tzedek",
+      "description": "Tel Aviv's first neighbourhood, now a bohemian district of boutiques and art galleries"
+    },
+    {
+      "rank": 6,
+      "name": "Tel Aviv Museum of Art",
+      "description": "Leading museum with Israeli and international art including Impressionism and Abstract"
+    },
+    {
+      "rank": 7,
+      "name": "Rothschild Boulevard",
+      "description": "Tree-lined boulevard with Bauhaus architecture, cafes and the Declaration of Independence site"
+    },
+    {
+      "rank": 8,
+      "name": "Sarona Market",
+      "description": "Upmarket food and lifestyle market in a restored German Templar colony"
+    },
+    {
+      "rank": 9,
+      "name": "Independence Hall",
+      "description": "Where David Ben-Gurion declared the State of Israel in 1948"
+    },
+    {
+      "rank": 10,
+      "name": "Florentin",
+      "description": "Gritty street art neighbourhood with the city's most creative bars and galleries"
+    }
+  ]
+}

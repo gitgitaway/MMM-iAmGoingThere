@@ -1,0 +1,58 @@
+{
+  "city": "Sochi",
+  "country": "Russia",
+  "airportPostcode": "354200",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Krasnaya Polyana Ski Resort",
+      "description": "World-class mountain ski resort built for the 2014 Winter Olympics in the Caucasus Mountains"
+    },
+    {
+      "rank": 2,
+      "name": "Sochi Autodrom (F1 Circuit)",
+      "description": "Russian Grand Prix circuit built for Sochi 2014 Olympics in the Olympic Park"
+    },
+    {
+      "rank": 3,
+      "name": "Olympic Park",
+      "description": "2014 Winter Olympics venue with the Fisht Stadium, ice arenas and the Olympic flame cauldron"
+    },
+    {
+      "rank": 4,
+      "name": "Sochi Arboretum",
+      "description": "150-year-old botanical garden on the Black Sea coast with exotic subtropical plants"
+    },
+    {
+      "rank": 5,
+      "name": "Agura Waterfalls & Eagle Rocks",
+      "description": "Series of waterfalls in the Agura canyon with the dramatic Eagle Rocks viewpoint"
+    },
+    {
+      "rank": 6,
+      "name": "Vorontsov Caves",
+      "description": "8km cave system - the longest cave-river system in Russia with stalactites and underground lakes"
+    },
+    {
+      "rank": 7,
+      "name": "Riviera Park",
+      "description": "Historic 19th-century seaside park with the Sochi State Philharmonia and rose garden"
+    },
+    {
+      "rank": 8,
+      "name": "Mount Akhun Tower",
+      "description": "Stone tower on Akhun Mountain with panoramic views of the Caucasus and Black Sea"
+    },
+    {
+      "rank": 9,
+      "name": "Matsesta Sulfur Springs",
+      "description": "Natural sulfur baths used therapeutically since the 19th century - Stalin's favourite"
+    },
+    {
+      "rank": 10,
+      "name": "Rosa Khutor Alpine Resort",
+      "description": "Picturesque alpine village below the Olympic downhill slopes with gondola rides year-round"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "Sanya",
+  "country": "China",
+  "airportPostcode": "572000",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Yalong Bay National Resort District",
+      "description": "China's finest beach - 7km of white sand with five-star hotels"
+    },
+    {
+      "rank": 2,
+      "name": "Tianya Haijiao (End of the Earth)",
+      "description": "Legendary granite rock formations on the sea - traditional rendezvous of lovers"
+    },
+    {
+      "rank": 3,
+      "name": "Nanshan Buddhist Culture Park",
+      "description": "108m Guanyin statue standing in the sea - one of the world's tallest Buddha statues"
+    },
+    {
+      "rank": 4,
+      "name": "Monkey Island (Nanguang)",
+      "description": "Island sanctuary for thousands of free-roaming macaque monkeys"
+    },
+    {
+      "rank": 5,
+      "name": "Dadonghai Beach",
+      "description": "Sanya's most accessible beach with beach bars and Chinese family tourism culture"
+    },
+    {
+      "rank": 6,
+      "name": "Wuzhizhou Island Diving",
+      "description": "Crystal water, coral reefs and abundant marine life 40 minutes by boat"
+    },
+    {
+      "rank": 7,
+      "name": "Li and Miao Cultural Village",
+      "description": "Traditional villages of Hainan's indigenous Li and Miao ethnic minorities"
+    },
+    {
+      "rank": 8,
+      "name": "Mission Hills Golf Resort",
+      "description": "World's largest golf facility with 12 championship courses"
+    },
+    {
+      "rank": 9,
+      "name": "Sanya Bay Night Market",
+      "description": "Evening seafood market with fresh fish, lobster and tropical fruits"
+    },
+    {
+      "rank": 10,
+      "name": "Wenchang Chicken",
+      "description": "Hainan's most famous dish - free-range chicken with coconut rice and dipping sauces"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "city": "Seattle",
+  "country": "USA",
+  "airportPostcode": "98158",
+  "airportDistanceKm": 21,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Space Needle",
+      "postcode": "98109",
+      "distanceKmFromAirport": 18,
+      "description": "Iconic 1962 World's Fair landmark with revolving restaurant"
+    },
+    {
+      "rank": 2,
+      "name": "Pike Place Market",
+      "postcode": "98101",
+      "distanceKmFromAirport": 19,
+      "description": "Historic 1907 public market overlooking Elliott Bay"
+    },
+    {
+      "rank": 3,
+      "name": "Chihuly Garden and Glass",
+      "postcode": "98109",
+      "distanceKmFromAirport": 18,
+      "description": "Breathtaking glass art installations by Dale Chihuly"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of Pop Culture (MoPOP)",
+      "postcode": "98109",
+      "distanceKmFromAirport": 18,
+      "description": "Interactive music and pop culture museum in a Frank Gehry building"
+    },
+    {
+      "rank": 5,
+      "name": "Kerry Park Viewpoint",
+      "postcode": "98119",
+      "distanceKmFromAirport": 18,
+      "description": "Best viewpoint for the iconic Seattle skyline with Mount Rainier"
+    },
+    {
+      "rank": 6,
+      "name": "Seattle Waterfront",
+      "postcode": "98101",
+      "distanceKmFromAirport": 19,
+      "description": "Revitalized urban waterfront with the Seattle Aquarium"
+    },
+    {
+      "rank": 7,
+      "name": "Olympic Sculpture Park",
+      "postcode": "98121",
+      "distanceKmFromAirport": 19,
+      "description": "Free 8.5-acre outdoor sculpture park on the waterfront"
+    },
+    {
+      "rank": 8,
+      "name": "Discovery Park",
+      "postcode": "98199",
+      "distanceKmFromAirport": 20,
+      "description": "534-acre park — Seattle's largest — with lighthouse and beach"
+    },
+    {
+      "rank": 9,
+      "name": "Boeing Factory Tour",
+      "postcode": "98270",
+      "distanceKmFromAirport": 42,
+      "description": "World's largest building by volume with 747 and 787 assembly"
+    },
+    {
+      "rank": 10,
+      "name": "Ballard Locks",
+      "postcode": "98107",
+      "distanceKmFromAirport": 19,
+      "description": "Watch salmon, boats and sea lions pass through the Hiram M. Chittenden Locks"
+    }
+  ]
+}

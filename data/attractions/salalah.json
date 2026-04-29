@@ -1,0 +1,58 @@
+{
+  "city": "Salalah",
+  "country": "Oman",
+  "airportPostcode": "211",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Khareef (Monsoon Season)",
+      "description": "June-September when Salalah transforms into lush green valleys and waterfalls - unique in Arabia"
+    },
+    {
+      "rank": 2,
+      "name": "Job's Tomb (Nabi Ayoub)",
+      "description": "Pilgrimage site to the supposed tomb of the Prophet Job on a hilltop overlooking Salalah"
+    },
+    {
+      "rank": 3,
+      "name": "Wadi Darbat Waterfalls",
+      "description": "Spectacular waterfalls flowing during the Khareef season into a lake with hippos"
+    },
+    {
+      "rank": 4,
+      "name": "Al-Baleed Archaeological Site",
+      "description": "UNESCO World Heritage ruins of the ancient frankincense trade port of Zafar"
+    },
+    {
+      "rank": 5,
+      "name": "Land of Frankincense Museum",
+      "description": "UNESCO-listed museum on the ancient frankincense trade that connected Salalah to the world"
+    },
+    {
+      "rank": 6,
+      "name": "Taqah & Mirbat Castles",
+      "description": "Traditional Omani forts in coastal fishing villages east of Salalah"
+    },
+    {
+      "rank": 7,
+      "name": "Mughsail Beach & Blowholes",
+      "description": "White-sand beach with natural rock blowholes shooting sea water metres into the air"
+    },
+    {
+      "rank": 8,
+      "name": "Ayn Athum Spring",
+      "description": "Freshwater spring in the Dhofar Mountains feeding a lush wadi gorge"
+    },
+    {
+      "rank": 9,
+      "name": "Salalah Friday Cattle Market",
+      "description": "Colourful traditional market where Dhofari cattle and camels are traded"
+    },
+    {
+      "rank": 10,
+      "name": "Samhan Mountain Drive",
+      "description": "Dramatic mountain road through frankincense-rich hills with views to Yemen and the sea"
+    }
+  ]
+}

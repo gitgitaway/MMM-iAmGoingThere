@@ -1,0 +1,58 @@
+{
+  "city": "Turku",
+  "country": "Finland",
+  "airportPostcode": "20360",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Turku Castle",
+      "description": "Finland's largest and oldest medieval castle dating to the 1280s at the mouth of the Aura river"
+    },
+    {
+      "rank": 2,
+      "name": "Turku Cathedral",
+      "description": "Medieval Lutheran cathedral, the mother church of Finland, dating to the 13th century"
+    },
+    {
+      "rank": 3,
+      "name": "Aboa Vetus & Ars Nova",
+      "description": "Unique museum where medieval ruins below meet modern art above"
+    },
+    {
+      "rank": 4,
+      "name": "Turku Art Museum",
+      "description": "Finland's oldest dedicated art museum with a landmark granite building on Puolalanmaki"
+    },
+    {
+      "rank": 5,
+      "name": "Forum Marinum",
+      "description": "Maritime museum on the Aura river with historic vessels including a full-rigged ship"
+    },
+    {
+      "rank": 6,
+      "name": "Luostarinmaki Handicrafts Museum",
+      "description": "Best-preserved 18th-century town block in Scandinavia with working craft workshops"
+    },
+    {
+      "rank": 7,
+      "name": "Turku Market Square",
+      "description": "Lively outdoor market with Finnish produce and the neoclassical market hall"
+    },
+    {
+      "rank": 8,
+      "name": "Archipelago National Park",
+      "description": "World's largest archipelago with 50,000 islands accessible by ferry from Turku"
+    },
+    {
+      "rank": 9,
+      "name": "Old Great Square (Vanha Suurtori)",
+      "description": "Restored medieval heart of Turku with the Brinkkala mansion and Pharmacy Museum"
+    },
+    {
+      "rank": 10,
+      "name": "Ruissalo Island",
+      "description": "Green island villa district with oak forests, botanical garden and sandy beaches"
+    }
+  ]
+}

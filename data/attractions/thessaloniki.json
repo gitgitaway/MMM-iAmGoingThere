@@ -1,0 +1,58 @@
+{
+  "city": "Thessaloniki",
+  "country": "Greece",
+  "airportPostcode": "570 08",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "White Tower",
+      "description": "Iconic 15th-century Ottoman tower and symbol of Thessaloniki on the seafront promenade"
+    },
+    {
+      "rank": 2,
+      "name": "Archaeological Museum",
+      "description": "Outstanding collection of Macedonian gold including the treasures of Philip II of Macedon"
+    },
+    {
+      "rank": 3,
+      "name": "Ano Poli (Upper Town)",
+      "description": "Byzantine walled upper town with timber-framed houses and the Eptapyrgio fortress"
+    },
+    {
+      "rank": 4,
+      "name": "Rotunda",
+      "description": "Magnificent 4th-century Roman mausoleum converted to a church with extraordinary mosaics"
+    },
+    {
+      "rank": 5,
+      "name": "Byzantine Museum",
+      "description": "Exceptional collection of Byzantine icons, relics and ecclesiastical treasures"
+    },
+    {
+      "rank": 6,
+      "name": "Aristotelous Square",
+      "description": "Grand colonnaded seafront square and the social heart of the city"
+    },
+    {
+      "rank": 7,
+      "name": "Roman Forum (Ancient Agora)",
+      "description": "Excavated Roman forum with the remains of baths and an odeon in the city centre"
+    },
+    {
+      "rank": 8,
+      "name": "Modiano & Kapani Markets",
+      "description": "Historic covered markets brimming with spices, olives, fish and Thessaloniki's food culture"
+    },
+    {
+      "rank": 9,
+      "name": "Thessaloniki Waterfront",
+      "description": "Elegant 3km seafront promenade with sculptures, cafes and sunset views"
+    },
+    {
+      "rank": 10,
+      "name": "Ladadika",
+      "description": "Former Jewish commercial district now a lively neighbourhood of tavernas and music venues"
+    }
+  ]
+}

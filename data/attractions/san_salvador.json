@@ -1,0 +1,58 @@
+{
+  "city": "San Salvador",
+  "country": "El Salvador",
+  "airportPostcode": "01106",
+  "airportDistanceKm": 44,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Santa Ana Volcano Hike",
+      "description": "Hike El Salvador's highest volcano (2,381m) with a volcanic crater lake"
+    },
+    {
+      "rank": 2,
+      "name": "Parque Nacional Cerro Verde",
+      "description": "Trio of volcanoes - Santa Ana, Izalco and Cerro Verde in cloud forest"
+    },
+    {
+      "rank": 3,
+      "name": "Museo Nacional de Antropologia David J Guzman",
+      "description": "El Salvador's finest pre-Columbian artefacts including the colossal Tazumal Maya site"
+    },
+    {
+      "rank": 4,
+      "name": "Metropolitan Cathedral",
+      "description": "Unfinished cathedral and the tomb of Archbishop Oscar Romero - martyr and saint"
+    },
+    {
+      "rank": 5,
+      "name": "Mercado Ex-Cuartel",
+      "description": "San Salvador's largest artisanal market with pupusas, handicrafts and hammocks"
+    },
+    {
+      "rank": 6,
+      "name": "Zona Rosa Restaurant District",
+      "description": "San Salvador's upscale dining quarter with the best Salvadoran cuisine"
+    },
+    {
+      "rank": 7,
+      "name": "Joya de Ceren",
+      "description": "UNESCO World Heritage Maya village buried by a volcanic eruption - the Pompeii of the Americas"
+    },
+    {
+      "rank": 8,
+      "name": "Pacific Surf Beaches (El Tunco)",
+      "description": "World-class black sand surf beach 40km from the capital"
+    },
+    {
+      "rank": 9,
+      "name": "El Imposible National Park",
+      "description": "El Salvador's largest national park with cloud forest and rare wildlife"
+    },
+    {
+      "rank": 10,
+      "name": "Pupusa with Curtido",
+      "description": "El Salvador's national dish - stuffed masa corn cake with loroco flower and cheese"
+    }
+  ]
+}

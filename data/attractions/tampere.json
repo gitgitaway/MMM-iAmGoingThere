@@ -1,0 +1,58 @@
+{
+  "city": "Tampere",
+  "country": "Finland",
+  "airportPostcode": "33680",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tampere Cathedral",
+      "description": "National Romantic masterpiece with Hugo Simberg's frescoes including The Wounded Angel"
+    },
+    {
+      "rank": 2,
+      "name": "Vapriikki Museum Centre",
+      "description": "Excellent museum complex in a historic factory with natural history, ice hockey and more"
+    },
+    {
+      "rank": 3,
+      "name": "Tampere Hall",
+      "description": "One of Northern Europe's largest and most acclaimed concert and conference venues"
+    },
+    {
+      "rank": 4,
+      "name": "Nasinneula Observation Tower",
+      "description": "Finland's tallest building at 168m with a revolving restaurant and panoramic views"
+    },
+    {
+      "rank": 5,
+      "name": "Sarkanniemi Amusement Park",
+      "description": "Major theme park with dolphinarium, aquarium and Finland's highest observation tower"
+    },
+    {
+      "rank": 6,
+      "name": "Pyynikki Ridge & Observation Tower",
+      "description": "Esker ridge between two lakes with Finland's oldest open-air theatre and renowned doughnuts"
+    },
+    {
+      "rank": 7,
+      "name": "Moomin Museum",
+      "description": "World's only Moomin museum with original illustrations by Tove Jansson"
+    },
+    {
+      "rank": 8,
+      "name": "Lenin Museum",
+      "description": "Only Lenin museum in the world outside Russia in the building where Lenin met Stalin"
+    },
+    {
+      "rank": 9,
+      "name": "Finlayson Factory Area",
+      "description": "Historic cotton mill complex reinvented as shops, restaurants and cinema"
+    },
+    {
+      "rank": 10,
+      "name": "Laukontori Harbour",
+      "description": "Beautiful lakeside square with summer market, outdoor dining and passenger boats"
+    }
+  ]
+}

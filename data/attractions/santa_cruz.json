@@ -1,0 +1,58 @@
+{
+  "city": "Santa Cruz",
+  "country": "Bolivia",
+  "airportPostcode": "910000",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Jesuit Missions Circuit (Chiquitos)",
+      "description": "UNESCO World Heritage six Jesuit reduction churches in the lowland jungle"
+    },
+    {
+      "rank": 2,
+      "name": "Amboro National Park",
+      "description": "Cloud forest meeting Amazon - extraordinary biodiversity including spectacled bears"
+    },
+    {
+      "rank": 3,
+      "name": "Samaipata Ruins (El Fuerte)",
+      "description": "UNESCO World Heritage pre-Inca ceremonial site carved into a massive rock"
+    },
+    {
+      "rank": 4,
+      "name": "La Vertiente Natural Park",
+      "description": "Natural springs and thermal pools in the hills above Santa Cruz"
+    },
+    {
+      "rank": 5,
+      "name": "Plaza 24 de Septiembre",
+      "description": "Cathedral and colonial buildings on the main square of Bolivia's largest city"
+    },
+    {
+      "rank": 6,
+      "name": "Los Espejillos Natural Reserve",
+      "description": "Waterfalls and natural pools in a crystal-clear river 90km from the city"
+    },
+    {
+      "rank": 7,
+      "name": "Parque Lomas de Arena",
+      "description": "Sand dunes and lagoons in a natural park just 20km from the city"
+    },
+    {
+      "rank": 8,
+      "name": "Biocentro Guembe",
+      "description": "Butterfly park, orchid collection and pool complex in tropical gardens"
+    },
+    {
+      "rank": 9,
+      "name": "Camba Cultural Celebrations",
+      "description": "Carnival in February with the Cambas - eastern Bolivia's distinctive culture"
+    },
+    {
+      "rank": 10,
+      "name": "Majadito Boliviano",
+      "description": "Santa Cruz's signature fried rice dish with dried beef and fried egg"
+    }
+  ]
+}

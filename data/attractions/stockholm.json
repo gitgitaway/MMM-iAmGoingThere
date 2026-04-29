@@ -1,0 +1,58 @@
+{
+  "city": "Stockholm",
+  "country": "Sweden",
+  "airportPostcode": "190 90",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vasa Museum",
+      "description": "Extraordinary 17th-century warship preserved almost intact, the world's most visited museum ship"
+    },
+    {
+      "rank": 2,
+      "name": "Gamla Stan (Old Town)",
+      "description": "Medieval island city with cobbled streets, the Royal Palace and Nobel Prize Museum"
+    },
+    {
+      "rank": 3,
+      "name": "ABBA Museum",
+      "description": "Interactive museum celebrating ABBA with costumes, instruments and recording studios"
+    },
+    {
+      "rank": 4,
+      "name": "Djurgarden Island",
+      "description": "Green museum island with Skansen, Vasa, ABBA and Tivoli Grona Lund"
+    },
+    {
+      "rank": 5,
+      "name": "Skansen Open Air Museum",
+      "description": "World's first open-air museum with 150 historic buildings and Sweden's oldest zoo"
+    },
+    {
+      "rank": 6,
+      "name": "Royal Palace (Kungliga Slottet)",
+      "description": "One of Europe's largest palaces still in official use with treasury and royal apartments"
+    },
+    {
+      "rank": 7,
+      "name": "Fotografiska",
+      "description": "World-leading photography museum with rotating major exhibitions and rooftop views"
+    },
+    {
+      "rank": 8,
+      "name": "Moderna Museet",
+      "description": "Outstanding collection of 20th and 21st century art on Skeppsholmen island"
+    },
+    {
+      "rank": 9,
+      "name": "Drottningholm Palace",
+      "description": "UNESCO World Heritage royal palace on Lake Malaren with a preserved 18th-century theatre"
+    },
+    {
+      "rank": 10,
+      "name": "Stockholm Archipelago",
+      "description": "30,000 islands within easy reach by ferry for a classic Swedish summer experience"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "St John's",
+  "country": "Antigua and Barbuda",
+  "airportPostcode": "AG0001",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "English Harbour & Nelson's Dockyard",
+      "description": "UNESCO World Heritage Georgian-era Royal Navy base where Nelson commanded - now a yacht haven"
+    },
+    {
+      "rank": 2,
+      "name": "Shirley Heights Lookout & Party",
+      "description": "Panoramic fortification with a legendary Sunday barbecue and steel band party"
+    },
+    {
+      "rank": 3,
+      "name": "Dickenson Bay Beach",
+      "description": "Long white sand beach with calm water - one of Antigua's 365 beaches"
+    },
+    {
+      "rank": 4,
+      "name": "Betty's Hope Plantation",
+      "description": "17th-century sugar plantation with a restored working windmill"
+    },
+    {
+      "rank": 5,
+      "name": "Stingray City Antigua",
+      "description": "Snorkel with friendly southern stingrays in a shallow sandbar lagoon"
+    },
+    {
+      "rank": 6,
+      "name": "Museum of Antigua and Barbuda",
+      "description": "Arawak and Carib heritage, and the story of Antigua's 200 years of sugar slavery"
+    },
+    {
+      "rank": 7,
+      "name": "Barbuda Day Trip",
+      "description": "Pink sand beach on the lagoon of the sister island - one of the Caribbean's best"
+    },
+    {
+      "rank": 8,
+      "name": "St John's Cathedral",
+      "description": "Baroque twin-towered cathedral dominating the skyline of the old capital"
+    },
+    {
+      "rank": 9,
+      "name": "Darkwood Beach",
+      "description": "Secluded beach on the southwest coast - tranquil and undeveloped"
+    },
+    {
+      "rank": 10,
+      "name": "Pepperpot (National Dish)",
+      "description": "Slow-cooked stew of pork, okra and greens seasoned with cassareep - Antigua's national dish"
+    }
+  ]
+}

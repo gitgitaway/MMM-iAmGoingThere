@@ -1,0 +1,58 @@
+{
+  "city": "Tegucigalpa",
+  "country": "Honduras",
+  "airportPostcode": "11101",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Copan Ruins",
+      "description": "UNESCO World Heritage Maya city with the world's finest carved stelae and hieroglyphic staircase"
+    },
+    {
+      "rank": 2,
+      "name": "Valle de Angeles Craft Village",
+      "description": "Colonial silver-mining town 22km away with the best Honduran handicrafts"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of Honduras",
+      "description": "Pre-Columbian artefacts from Copan and the Maya Lenca culture of Honduras"
+    },
+    {
+      "rank": 4,
+      "name": "La Tigra Cloud Forest",
+      "description": "Quetzal-rich cloud forest national park 22km from the capital"
+    },
+    {
+      "rank": 5,
+      "name": "Parque La Leona",
+      "description": "Hilltop park with the best panoramic views over Tegucigalpa"
+    },
+    {
+      "rank": 6,
+      "name": "Virgen de Suyapa Basilica",
+      "description": "Honduras's most important Catholic pilgrimage church with a tiny miraculous statue"
+    },
+    {
+      "rank": 7,
+      "name": "Central Park & Cathedral",
+      "description": "Colonial heart of the city with the 18th-century baroque cathedral"
+    },
+    {
+      "rank": 8,
+      "name": "Bay Islands Diving (Roatan)",
+      "description": "World-class diving on Belize Barrier Reef system 1-hour flight to Roatan"
+    },
+    {
+      "rank": 9,
+      "name": "Mercado San Isidro",
+      "description": "Honduras's largest traditional market with Lenca pottery, hammocks and street food"
+    },
+    {
+      "rank": 10,
+      "name": "Baleada",
+      "description": "Honduras's national street food - flour tortilla with refried beans, cream and cheese"
+    }
+  ]
+}

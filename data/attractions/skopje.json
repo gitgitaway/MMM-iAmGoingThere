@@ -1,0 +1,58 @@
+{
+  "city": "Skopje",
+  "country": "North Macedonia",
+  "airportPostcode": "1043",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Bazaar (Carsija)",
+      "description": "One of the Balkans' largest and oldest bazaars with mosques, hans and artisan workshops"
+    },
+    {
+      "rank": 2,
+      "name": "Skopje Fortress (Kale)",
+      "description": "Byzantine and Ottoman fortress above the city with panoramic views"
+    },
+    {
+      "rank": 3,
+      "name": "Stone Bridge (Kamen Most)",
+      "description": "Iconic 15th-century Ottoman bridge connecting the old and new city"
+    },
+    {
+      "rank": 4,
+      "name": "Macedonia Square",
+      "description": "Grand central square with an enormous equestrian statue of Alexander the Great"
+    },
+    {
+      "rank": 5,
+      "name": "Matka Canyon",
+      "description": "Spectacular lake-gorge just 15km from the city, a paradise for kayaking and cave exploration"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of North Macedonia",
+      "description": "Archaeological and historical treasures from the Neolithic to Ottoman eras"
+    },
+    {
+      "rank": 7,
+      "name": "Painted Mosque (Sarena Dzamija)",
+      "description": "Beautifully painted 15th-century mosque in Tetovo with floral frescoes"
+    },
+    {
+      "rank": 8,
+      "name": "Millennium Cross",
+      "description": "66-metre illuminated cross on Mount Vodno overlooking Skopje"
+    },
+    {
+      "rank": 9,
+      "name": "Mother Teresa Memorial House",
+      "description": "Memorial to Agnes Gonxhe Bojaxhiu, born in Skopje in 1910"
+    },
+    {
+      "rank": 10,
+      "name": "Sveti Naum Monastery",
+      "description": "Beautiful lakeside monastery on the shores of Lake Ohrid"
+    }
+  ]
+}

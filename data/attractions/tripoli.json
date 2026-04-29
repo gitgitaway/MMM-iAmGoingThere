@@ -1,0 +1,58 @@
+{
+  "city": "Tripoli",
+  "country": "Libya",
+  "airportPostcode": "21301",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Leptis Magna",
+      "description": "UNESCO World Heritage finest Roman ruins in the world - Septimius Severus's birthplace"
+    },
+    {
+      "rank": 2,
+      "name": "Sabrata Roman Theatre",
+      "description": "UNESCO World Heritage 1st-century Roman theatre overlooking the Mediterranean"
+    },
+    {
+      "rank": 3,
+      "name": "Medina of Tripoli (Old City)",
+      "description": "Ottoman old town with the Red Castle, Marcus Aurelius arch and covered souqs"
+    },
+    {
+      "rank": 4,
+      "name": "Saraya (Red Castle) Museum",
+      "description": "Tripolitanian history from Phoenician times in a vast Ottoman-era fortress"
+    },
+    {
+      "rank": 5,
+      "name": "Marcus Aurelius Arch",
+      "description": "163 AD Roman triumphal arch in the heart of the old medina"
+    },
+    {
+      "rank": 6,
+      "name": "Gurgi Mosque",
+      "description": "Early 19th-century mosque with Moroccan-Italian craftsmanship"
+    },
+    {
+      "rank": 7,
+      "name": "Ghadames Old Town (Oasis City)",
+      "description": "UNESCO World Heritage desert oasis town with labyrinthine whitewashed architecture"
+    },
+    {
+      "rank": 8,
+      "name": "Wadi el-Hitan (Valley of Whales) Day Trip",
+      "description": "UNESCO World Heritage desert with prehistoric whale fossils"
+    },
+    {
+      "rank": 9,
+      "name": "Green Square (Martyrs' Square)",
+      "description": "Central plaza on the Mediterranean waterfront - heart of Tripoli"
+    },
+    {
+      "rank": 10,
+      "name": "Bazin (Semolina Bread)",
+      "description": "Libya's national dish - hard semolina bread served with lamb and vegetable ragout"
+    }
+  ]
+}

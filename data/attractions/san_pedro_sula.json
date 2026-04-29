@@ -1,0 +1,58 @@
+{
+  "city": "San Pedro Sula",
+  "country": "Honduras",
+  "airportPostcode": "21101",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Copan Ruins Day Trip",
+      "description": "UNESCO World Heritage Maya city with exquisite carved stelae 3 hours west"
+    },
+    {
+      "rank": 2,
+      "name": "Parque Central & Cathedral",
+      "description": "Colonial park and 16th-century cathedral at the heart of the commercial capital"
+    },
+    {
+      "rank": 3,
+      "name": "Museo de Antropologia e Historia",
+      "description": "Pre-Columbian artefacts from Maya to colonial Honduras in a restored mansion"
+    },
+    {
+      "rank": 4,
+      "name": "Cusuco National Park",
+      "description": "Cloud forest 20km from the city with resplendent quetzals and rare wildlife"
+    },
+    {
+      "rank": 5,
+      "name": "Lake Yojoa Day Trip",
+      "description": "Honduras's only natural lake with birds, waterfalls and D&D Brewery"
+    },
+    {
+      "rank": 6,
+      "name": "Cascadas Los Chorros",
+      "description": "Series of waterfalls in the mountains near San Pedro Sula"
+    },
+    {
+      "rank": 7,
+      "name": "Circuito Artesanal del Valle de Sula",
+      "description": "Craft route through Lenca villages with pottery, leather and basketweaving"
+    },
+    {
+      "rank": 8,
+      "name": "City Mall",
+      "description": "Honduras's largest shopping mall"
+    },
+    {
+      "rank": 9,
+      "name": "Roatan Island Diving",
+      "description": "Caribbean island 1-hour flight with world-class barrier reef diving"
+    },
+    {
+      "rank": 10,
+      "name": "Baleada Super",
+      "description": "Honduras's street food king - flour tortilla loaded with beans, cream, cheese and egg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "Shanghai",
+  "country": "China",
+  "airportPostcode": "201202",
+  "airportDistanceKm": 34,
+  "things": [
+    {
+      "rank": 1,
+      "name": "The Bund",
+      "description": "Shanghai's iconic waterfront promenade lined with Art Deco colonial buildings facing Pudong"
+    },
+    {
+      "rank": 2,
+      "name": "Yu Garden (Yuyuan Garden)",
+      "description": "16th-century classical Ming garden with rockeries, pavilions and the famous zigzag bridge"
+    },
+    {
+      "rank": 3,
+      "name": "Shanghai Tower Observation Deck",
+      "description": "Views from China's tallest building at 632m with the world's fastest elevator"
+    },
+    {
+      "rank": 4,
+      "name": "French Concession",
+      "description": "Tree-lined streets with Art Deco mansions, boutiques, jazz bars and excellent restaurants"
+    },
+    {
+      "rank": 5,
+      "name": "Shanghai Museum",
+      "description": "World-class collection of Chinese bronzes, ceramics, jade and ancient painting"
+    },
+    {
+      "rank": 6,
+      "name": "Zhujiajiao Water Town",
+      "description": "Ming-dynasty canal town with stone bridges, gondola rides and traditional food"
+    },
+    {
+      "rank": 7,
+      "name": "Tianzifang Alleyway Market",
+      "description": "Shikumen stone-gate houses converted into boutiques, cafes and art galleries"
+    },
+    {
+      "rank": 8,
+      "name": "Shanghai Disneyland",
+      "description": "Walt Disney's most technologically advanced theme park with unique Chinese cultural elements"
+    },
+    {
+      "rank": 9,
+      "name": "Jade Buddha Temple",
+      "description": "Active monastery with two white jade Buddhas brought from Burma in 1882"
+    },
+    {
+      "rank": 10,
+      "name": "Shanghai World Financial Center Sky Walk",
+      "description": "The bottle-opener skyscraper with a glass floor observation deck at 474m"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "city": "St Petersburg",
+  "country": "Russia",
+  "airportPostcode": "196140",
+  "airportDistanceKm": 23,
+  "things": [
+    {
+      "rank": 1,
+      "name": "The Hermitage Museum",
+      "description": "One of the world's greatest art museums in the Winter Palace with 3 million works across 1,000 rooms"
+    },
+    {
+      "rank": 2,
+      "name": "Peterhof Palace & Grand Cascade",
+      "description": "The 'Russian Versailles' with 150 fountains and golden statues in gardens on the Gulf of Finland"
+    },
+    {
+      "rank": 3,
+      "name": "Church of the Saviour on Spilled Blood",
+      "description": "Stunning 1883 Russian Revival church built on the spot where Tsar Alexander II was assassinated"
+    },
+    {
+      "rank": 4,
+      "name": "White Nights",
+      "description": "St Petersburg's magical midsummer phenomenon when the sun barely sets and bridges open at night"
+    },
+    {
+      "rank": 5,
+      "name": "Peter and Paul Fortress",
+      "description": "1703 fortress housing the Cathedral where Russian tsars from Peter the Great are buried"
+    },
+    {
+      "rank": 6,
+      "name": "Mariinsky Theatre",
+      "description": "Russia's most celebrated opera and ballet theatre - home of Nureyev, Pavlova and Baryshnikov"
+    },
+    {
+      "rank": 7,
+      "name": "Catherine Palace & Amber Room",
+      "description": "Baroque palace at Tsarskoe Selo with the world-famous Amber Room and formal gardens"
+    },
+    {
+      "rank": 8,
+      "name": "Nevsky Prospekt",
+      "description": "St Petersburg's grand main avenue with the Kazan Cathedral, Grand Hotel Europe and Palkin restaurant"
+    },
+    {
+      "rank": 9,
+      "name": "Russian Museum",
+      "description": "World's largest collection of Russian art in the Mikhailovsky Palace"
+    },
+    {
+      "rank": 10,
+      "name": "Vasilyevsky Island",
+      "description": "Historic island district with the Rostral Columns, Exchange and the charming 18th Line cafes"
+    }
+  ]
+}

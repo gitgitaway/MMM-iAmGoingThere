@@ -1,0 +1,58 @@
+{
+  "city": "Sana'a",
+  "country": "Yemen",
+  "airportPostcode": "11110",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old City of Sana'a (UNESCO)",
+      "description": "UNESCO World Heritage one of the oldest inhabited cities in the world - extraordinary multi-storey tower houses"
+    },
+    {
+      "rank": 2,
+      "name": "Great Mosque of Sana'a",
+      "description": "Founded 627 AD - one of the earliest mosques in the world, predating the Prophet Muhammad's death"
+    },
+    {
+      "rank": 3,
+      "name": "Bab al-Yemen Gate",
+      "description": "Ancient city gate - the main entrance to the old walled city"
+    },
+    {
+      "rank": 4,
+      "name": "Al-Saleh Mosque",
+      "description": "Massive modern mosque with a capacity for 44,000 worshippers - the largest in Yemen"
+    },
+    {
+      "rank": 5,
+      "name": "Souq al-Milh (Salt Market)",
+      "description": "Ancient covered market where each lane sells a different product - spices, silver, raisins"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of Yemen",
+      "description": "Pre-Islamic South Arabian civilisations - the Sabaean, Minaean and Himyarite kingdoms"
+    },
+    {
+      "rank": 7,
+      "name": "Dar al-Hajar (Rock Palace)",
+      "description": "Imam's summer palace perched on top of a volcanic rock pinnacle - the symbol of Yemen"
+    },
+    {
+      "rank": 8,
+      "name": "Wadi Dhar Valley",
+      "description": "Fertile valley of qat plantations with traditional tower houses clinging to cliff faces"
+    },
+    {
+      "rank": 9,
+      "name": "Socotra Island",
+      "description": "UNESCO World Heritage island with 300+ endemic species including the extraordinary Dragon Blood Tree"
+    },
+    {
+      "rank": 10,
+      "name": "Saltah (National Stew)",
+      "description": "Yemen's national dish - a bubbling stew of fenugreek froth, lamb, eggs and vegetables"
+    }
+  ]
+}

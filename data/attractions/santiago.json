@@ -1,0 +1,58 @@
+{
+  "city": "Santiago",
+  "country": "Chile",
+  "airportPostcode": "9020000",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Valle Nevado Ski Resort",
+      "description": "World-class skiing in the Andes just 60km from Santiago with the Andes as backdrop"
+    },
+    {
+      "rank": 2,
+      "name": "Cerro San Cristobal Hill",
+      "description": "Cable car to the 880m hilltop with the Virgen de la Inmaculada Concepcion statue"
+    },
+    {
+      "rank": 3,
+      "name": "Plaza de Armas & Historic Centre",
+      "description": "Colonial heart with the Metropolitan Cathedral, National History Museum and postal palace"
+    },
+    {
+      "rank": 4,
+      "name": "La Chascona (Pablo Neruda House)",
+      "description": "One of the poet's three eccentric houses - now a museum of his extraordinary life"
+    },
+    {
+      "rank": 5,
+      "name": "Cerro Santa Lucia",
+      "description": "Beautifully landscaped hilltop park in the heart of the city with panoramic views"
+    },
+    {
+      "rank": 6,
+      "name": "Bellavista & Lastarria Neighbourhoods",
+      "description": "Santiago's bohemian nightlife, street art, restaurants and craft beer scene"
+    },
+    {
+      "rank": 7,
+      "name": "Wine Tour: Casablanca or Maipo Valley",
+      "description": "World-class Carmenere and Sauvignon Blanc wine tasting in vineyards near Santiago"
+    },
+    {
+      "rank": 8,
+      "name": "Valparaiso Day Trip",
+      "description": "UNESCO World Heritage hillside port city with rainbow houses and street art"
+    },
+    {
+      "rank": 9,
+      "name": "Chilean Food Market (Mercado Central)",
+      "description": "1872 iron-frame market selling the freshest Pacific seafood including razor clams"
+    },
+    {
+      "rank": 10,
+      "name": "Museum of Pre-Columbian Art",
+      "description": "Chile's finest collection of Andean and Amazonian pre-Columbian artefacts"
+    }
+  ]
+}
