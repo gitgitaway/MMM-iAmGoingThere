@@ -5,7 +5,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [2.0.0] - 2026-04-29
+## [2.0.0] - 2026-04-29 ( Inital Release )
 
 ### Added
 - **Graticule Grid** — Configurable latitude/longitude grid (`showGraticule`) with customizable step, color, width, and opacity.
@@ -22,7 +22,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [1.9.0] - 2026-04-06
+## [1.9.0] dev - 2026-04-06
 
 ### Added
 - **Scenario 6: Football Away Days** — New CSV-driven scenario (`data/footballAwayTrips.csv`) specifically for tracking European football away fixtures.
@@ -43,7 +43,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [1.8.0] - 2026-04-05
+## [1.8.0] dev - 2026-04-05
 
 ### Added
 - **Interactive UI Controls** — Added on-screen pan and zoom controls for manual map navigation.
@@ -60,7 +60,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [1.7.0] - 2026-04-01
+## [1.7.0] dev - 2026-04-01
 
 ### Added
 
