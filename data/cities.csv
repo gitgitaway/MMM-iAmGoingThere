@@ -1,0 +1,431 @@
+city,country,iata,lat,lon,stadium,attractionsFile
+New York,USA,JFK/EWR,40.6413,-73.7781,MetLife Stadium,new_york.json
+Los Angeles,USA,LAX,33.9416,-118.4085,SoFi Stadium,los_angeles.json
+Dallas,USA,DFW,32.8998,-97.0403,AT&T Stadium,dallas.json
+San Francisco,USA,SFO,37.6213,-122.379,Levi's Stadium,san_francisco.json
+Seattle,USA,SEA,47.4502,-122.3088,Lumen Field,seattle.json
+Boston,USA,BOS,42.3656,-71.0096,Gillette Stadium,boston.json
+Miami,USA,MIA,25.7959,-80.287,Hard Rock Stadium,miami.json
+Atlanta,USA,ATL,33.6407,-84.4277,Mercedes-Benz Stadium,atlanta.json
+Kansas City,USA,MCI,39.2976,-94.7139,Arrowhead Stadium,kansas_city.json
+Houston,USA,IAH,29.9902,-95.3368,NRG Stadium,houston.json
+Toronto,Canada,YYZ,43.6777,-79.6248,BMO Field,toronto.json
+Vancouver,Canada,YVR,49.1967,-123.1815,BC Place,vancouver.json
+Mexico City,Mexico,MEX,19.4363,-99.0721,Estadio Azteca,mexico_city.json
+Guadalajara,Mexico,GDL,20.5218,-103.3111,Estadio Akron,guadalajara.json
+Monterrey,Mexico,MTY,25.7785,-100.1066,Estadio BBVA,monterrey.json
+London,United Kingdom,LHR,51.47,-0.4543,,london.json
+Gatwick,United Kingdom,LGW,51.1537,-0.1821,,gatwick.json
+Stansted,United Kingdom,STN,51.886,0.2375,,stansted.json
+Luton,United Kingdom,LTN,51.8745,-0.3658,,luton.json
+Southend-on-Sea,United Kingdom,SEN,51.572,0.6947,,southend_on_sea.json
+Manchester,United Kingdom,MAN,53.3635,-2.2743,,manchester.json
+Birmingham,United Kingdom,BHX,52.4539,-1.7476,,birmingham.json
+Glasgow,United Kingdom,GLA,55.8642,-4.433,,glasgow.json
+Edinburgh,United Kingdom,EDI,55.95,-3.3724,,edinburgh.json
+Liverpool,United Kingdom,LPL,53.3874,-2.8408,,liverpool.json
+Leeds,United Kingdom,LBA,53.8675,-1.6604,,leeds.json
+Newcastle,United Kingdom,NCL,55.0375,-1.6919,,newcastle.json
+Bristol,United Kingdom,BRS,51.3857,-2.7185,,bristol.json
+Southampton,United Kingdom,SOU,50.9502,-1.3572,,southampton.json
+Belfast,United Kingdom,BFS,54.6575,-6.2159,,belfast.json
+Nottingham,United Kingdom,EMA,52.8236,-1.3281,,nottingham.json
+Ayrshire,United Kingdom,PIK,55.5086,-4.5869,,ayrshire.json
+Aberdeen,United Kingdom,ABZ,57.2019,-2.1979,,aberdeen.json
+Dublin,Ireland,DUB,53.4264,-6.2499,,dublin.json
+Cork,Ireland,ORK,51.8413,-8.4931,,cork.json
+Limerick,Ireland,SNN,52.7022,-8.9244,,limerick.json
+Paris,France,CDG,49.0097,2.5479,,paris.json
+Beauvais,France,BVA,49.4544,2.5829,,beauvais.json
+Lyon,France,LYS,45.7261,5.0914,,lyon.json
+Marseille,France,MRS,43.4394,5.2147,,marseille.json
+Nice,France,NCE,43.6584,7.2158,,nice.json
+Toulouse,France,TLS,43.6294,1.3633,,toulouse.json
+Nantes,France,NTE,47.1585,-1.604,,nantes.json
+Bordeaux,France,BOD,44.8283,-0.6155,,bordeaux.json
+Strasbourg,France,SXB,48.5384,7.6279,,strasbourg.json
+Montpellier,France,MPL,43.5761,3.9629,,montpellier.json
+Grenoble,France,GNB,45.3589,5.3342,,grenoble.json
+Biarritz,France,BIQ,43.4534,-1.5298,,biarritz.json
+Amsterdam,Netherlands,AMS,52.3086,4.7639,,amsterdam.json
+Rotterdam,Netherlands,RTM,51.9562,4.4432,,rotterdam.json
+Eindhoven,Netherlands,EIN,51.4504,5.3754,,eindhoven.json
+Groningen,Netherlands,GRQ,53.1196,6.5797,,groningen.json
+Frankfurt,Germany,FRA,50.0379,8.5622,,frankfurt.json
+Munich,Germany,MUC,48.3538,11.7861,,munich.json
+Berlin,Germany,BER,52.3667,13.5019,,berlin.json
+Hamburg,Germany,HAM,53.6304,9.9914,,hamburg.json
+Dusseldorf,Germany,DUS,51.2895,6.7671,,dusseldorf.json
+Cologne,Germany,CGN,50.8659,6.8744,,cologne.json
+Stuttgart,Germany,STR,48.6891,9.221,,stuttgart.json
+Hanover,Germany,HAJ,52.4614,9.69,,hanover.json
+Nuremberg,Germany,NUE,49.4992,11.0748,,nuremberg.json
+Dortmund,Germany,DTM,51.5136,7.6161,,dortmund.json
+Weeze,Germany,NRN,51.4025,6.0819,,weeze.json
+Memmingen,Germany,MEM,47.9855,10.2289,,memmingen.json
+Friedrichshafen,Germany,FKB,47.6686,9.5145,,friedrichshafen.json
+Leipzig,Germany,LEJ,51.4186,12.2217,,leipzig.json
+Dresden,Germany,DRS,51.131,13.787,,dresden.json
+Madrid,Spain,MAD,40.4719,-3.6309,,madrid.json
+Barcelona,Spain,BCN,41.2974,2.0833,,barcelona.json
+Malaga,Spain,AGP,36.6749,-3.7584,,malaga.json
+Valencia,Spain,VLC,39.4897,-0.4814,,valencia.json
+Bilbao,Spain,BIO,43.3006,-2.9106,,bilbao.json
+Seville,Spain,SVQ,37.418,-5.8896,,seville.json
+Alicante,Spain,ALC,38.2822,-0.5544,,alicante.json
+Palma,Spain,PMI,39.5517,2.7397,,palma.json
+Ibiza,Spain,IBZ,38.8728,1.373,,ibiza.json
+Zaragoza,Spain,ZAZ,41.6663,-1.042,,zaragoza.json
+Reus,Spain,REU,41.1524,1.1704,,reus.json
+Rome,Italy,FCO,41.8002,12.2388,,rome.json
+Milan,Italy,MXP,45.6306,8.7281,,milan.json
+Venice,Italy,VCE,45.505,12.3519,,venice.json
+Bergamo,Italy,BGY,45.673,9.7007,,bergamo.json
+Florence,Italy,FLR,43.8093,11.205,,florence.json
+Naples,Italy,NAP,40.8861,14.291,,naples.json
+Palermo,Italy,PMO,38.1759,13.0913,,palermo.json
+Catania,Italy,CTA,37.4667,15.0694,,catania.json
+Pisa,Italy,PSA,43.6839,10.3927,,pisa.json
+Bologna,Italy,BLQ,44.5347,11.2889,,bologna.json
+Treviso,Italy,TSF,45.6481,12.1964,,treviso.json
+Verona,Italy,VRN,45.3955,10.8886,,verona.json
+Genoa,Italy,GOA,44.4128,8.834,,genoa.json
+Vienna,Austria,VIE,48.1202,16.5833,,vienna.json
+Brussels,Belgium,BRU,50.9013,4.4844,,brussels.json
+Charleroi,Belgium,CRL,50.4517,4.4541,,charleroi.json
+Zurich,Switzerland,ZRH,47.4582,8.5495,,zurich.json
+Geneva,Switzerland,GVA,46.2381,6.1093,,geneva.json
+Basel,Switzerland,BSL,47.5956,7.5296,,basel.json
+Prague,Czech Republic,PRG,50.0008,14.2678,,prague.json
+Brno,Czech Republic,BRQ,49.15,16.6885,,brno.json
+Budapest,Hungary,BUD,47.4367,19.2458,,budapest.json
+Warsaw,Poland,WAW,52.1656,21.0214,,warsaw.json
+Krakow,Poland,KRK,50.0794,19.7794,,krakow.json
+Wroclaw,Poland,WRO,51.1011,16.8855,,wroclaw.json
+Gdansk,Poland,GDN,54.3755,18.4467,,gdansk.json
+Katowice,Poland,KTW,50.2747,19.08,,katowice.json
+Bratislava,Slovakia,BTS,48.1694,17.2072,,bratislava.json
+Bucharest,Romania,OTP,44.5715,26.084,,bucharest.json
+Sofia,Bulgaria,SOF,42.6977,23.4117,,sofia.json
+Burgas,Bulgaria,BOJ,42.5047,27.5144,,burgas.json
+Lisbon,Portugal,LIS,38.7813,-9.1359,,lisbon.json
+Porto,Portugal,OPO,41.2409,-8.6716,,porto.json
+Faro,Portugal,FAO,37.0144,-7.9743,,faro.json
+Athens,Greece,ATH,37.9364,23.9445,,athens.json
+Thessaloniki,Greece,SKG,40.5191,22.9708,,thessaloniki.json
+Copenhagen,Denmark,CPH,55.6181,12.6561,,copenhagen.json
+Billund,Denmark,BLL,55.7403,9.1519,,billund.json
+Aalborg,Denmark,AAL,57.0922,9.8521,,aalborg.json
+Aarhus,Denmark,AAR,56.299,10.619,,aarhus.json
+Stockholm,Sweden,ARN,59.6519,17.9289,,stockholm.json
+Gothenburg,Sweden,GOT,57.6627,12.2799,,gothenburg.json
+Malmo,Sweden,MMX,55.5289,13.3698,,malmo.json
+Oslo,Norway,OSL,60.1939,11.1004,,oslo.json
+Bergen,Norway,BGO,60.2934,5.2181,,bergen.json
+Stavanger,Norway,SVG,58.8853,5.6378,,stavanger.json
+Trondheim,Norway,TRD,63.4569,10.9247,,trondheim.json
+Helsinki,Finland,HEL,60.3172,25.0482,,helsinki.json
+Turku,Finland,TKU,60.5141,22.2627,,turku.json
+Tampere,Finland,TMP,61.4142,23.6053,,tampere.json
+Riga,Latvia,RIX,56.9239,23.9711,,riga.json
+Vilnius,Lithuania,VNO,54.6341,25.2867,,vilnius.json
+Tallinn,Estonia,TLL,59.4133,24.8328,,tallinn.json
+Split,Croatia,SPU,43.2406,16.4409,,split.json
+Rijeka,Croatia,RJK,45.2185,14.5753,,rijeka.json
+Dubrovnik,Croatia,DBV,42.5623,18.2684,,dubrovnik.json
+Sarajevo,Bosnia and Herzegovina,SJJ,43.8163,18.3911,,sarajevo.json
+Mostar,Bosnia and Herzegovina,OMO,43.2039,17.8228,,mostar.json
+Belgrade,Serbia,BEG,44.8184,20.2781,,belgrade.json
+Nis,Serbia,NIS,43.3437,21.8458,,nis.json
+Podgorica,Montenegro,TGD,42.0606,19.2611,,podgorica.json
+Tivat,Montenegro,TIV,42.3916,18.3478,,tivat.json
+Pristina,Kosovo,PRN,42.5722,21.0279,,pristina.json
+Skopje,North Macedonia,SKP,41.9156,21.6283,,skopje.json
+Tirana,Albania,TIA,41.4176,19.7203,,tirana.json
+Istanbul,Turkey,IST,41.2619,28.7298,,istanbul.json
+Tel Aviv,Israel,TLV,32.0053,34.7677,,tel_aviv.json
+Dubai,United Arab Emirates,DXB,25.2528,55.3644,,dubai.json
+Hong Kong,Hong Kong,HKG,22.308,113.9185,,hong_kong.json
+Singapore,Singapore,SIN,1.3644,103.9915,,singapore.json
+Tokyo,Japan,HND,35.5494,139.7798,,tokyo.json
+Sydney,Australia,SYD,-33.9461,151.1772,,sydney.json
+Melbourne,Australia,MEL,-37.6733,144.8433,,melbourne.json
+Brisbane,Australia,BNE,-27.3842,153.1175,,brisbane.json
+Perth,Australia,PER,-31.9385,115.967,,perth.json
+Adelaide,Australia,ADL,-34.945,138.53,,adelaide.json
+Gold Coast,Australia,OOL,-28.1644,153.5046,,gold_coast.json
+Cairns,Australia,CNS,-16.8858,145.7552,,cairns.json
+Darwin,Australia,DRW,-12.4147,130.8765,,darwin.json
+Hobart,Australia,HBA,-42.8361,147.5078,,hobart.json
+Canberra,Australia,CBR,-35.3069,149.195,,canberra.json
+Rio de Janeiro,Brazil,GIG,-22.8129,-43.2431,,rio_de_janeiro.json
+Buenos Aires,Argentina,EZE,-34.8222,-58.5358,,buenos_aires.json
+Cairo,Egypt,CAI,30.1219,31.4056,,cairo.json
+Johannesburg,South Africa,JNB,-26.1367,28.2411,,johannesburg.json
+Auckland,New Zealand,AKL,-36.9983,174.7897,,auckland.json
+Wellington,New Zealand,WLG,-41.3272,174.8052,,wellington.json
+Christchurch,New Zealand,CHC,-43.4894,172.532,,christchurch.json
+Queenstown,New Zealand,ZQN,-45.0211,168.7392,,queenstown.json
+Dunedin,New Zealand,DUD,-45.9281,170.1983,,dunedin.json
+Nadi,Fiji,NAN,-17.7554,177.443,,nadi.json
+Suva,Fiji,SUV,-18.0433,178.5592,,suva.json
+Luxembourg City,Luxembourg,LUX,49.6265,6.2044,,luxembourg_city.json
+Valletta,Malta,MLA,35.8575,14.4775,,valletta.json
+Larnaca,Cyprus,LCA,34.8751,33.6249,,larnaca.json
+Paphos,Cyprus,PFO,34.718,32.4857,,paphos.json
+Reykjavik,Iceland,KEF,63.985,-22.6056,,reykjavik.json
+Chisinau,Moldova,KIV,46.9277,28.9317,,chisinau.json
+Minsk,Belarus,MSQ,53.8825,28.0322,,minsk.json
+Kyiv,Ukraine,KBP,50.345,30.8942,,kyiv.json
+Lviv,Ukraine,LWO,49.8125,23.9561,,lviv.json
+Odessa,Ukraine,ODS,46.4268,30.6765,,odessa.json
+Kharkiv,Ukraine,HRK,49.9249,36.29,,kharkiv.json
+Tbilisi,Georgia,TBS,41.6692,44.9547,,tbilisi.json
+Batumi,Georgia,BUS,41.6103,41.5997,,batumi.json
+Yerevan,Armenia,EVN,40.1473,44.3959,,yerevan.json
+Baku,Azerbaijan,GYD,40.4675,50.0467,,baku.json
+Moscow,Russia,SVO,55.9726,37.4149,,moscow.json
+St Petersburg,Russia,LED,59.8003,30.2625,,st_petersburg.json
+Sochi,Russia,AER,43.4499,39.9566,,sochi.json
+Yekaterinburg,Russia,SVX,56.7431,60.8028,,yekaterinburg.json
+Novosibirsk,Russia,OVB,54.9663,82.9006,,novosibirsk.json
+Riyadh,Saudi Arabia,RUH,24.9576,46.6988,,riyadh.json
+Jeddah,Saudi Arabia,JED,21.6796,39.1565,,jeddah.json
+Dammam,Saudi Arabia,DMM,26.4712,49.7979,,dammam.json
+Medina,Saudi Arabia,MED,24.5534,39.7051,,medina.json
+Doha,Qatar,DOH,25.261,51.6138,,doha.json
+Kuwait City,Kuwait,KWI,29.2267,47.9689,,kuwait_city.json
+Manama,Bahrain,BAH,26.2708,50.6336,,manama.json
+Muscat,Oman,MCT,23.5933,58.2844,,muscat.json
+Salalah,Oman,SLL,17.0387,54.0913,,salalah.json
+Amman,Jordan,AMM,31.7226,35.9932,,amman.json
+Aqaba,Jordan,AQJ,29.6117,35.0181,,aqaba.json
+Beirut,Lebanon,BEY,33.8208,35.4886,,beirut.json
+Baghdad,Iraq,BGW,33.2625,44.2346,,baghdad.json
+Erbil,Iraq,EBL,36.2376,43.9632,,erbil.json
+Basra,Iraq,BSR,30.5491,47.6621,,basra.json
+Tehran,Iran,IKA,35.4161,51.1522,,tehran.json
+Mashhad,Iran,MHD,36.2352,59.6411,,mashhad.json
+Isfahan,Iran,IFN,32.7508,51.8614,,isfahan.json
+Shiraz,Iran,SYZ,29.5392,52.5898,,shiraz.json
+Tabriz,Iran,TBZ,38.1339,46.235,,tabriz.json
+Almaty,Kazakhstan,ALA,43.3521,77.0405,,almaty.json
+Astana,Kazakhstan,NQZ,51.0228,71.4669,,astana.json
+Tashkent,Uzbekistan,TAS,41.2579,69.2812,,tashkent.json
+Samarkand,Uzbekistan,SKD,39.7005,66.9838,,samarkand.json
+Bishkek,Kyrgyzstan,FRU,42.8882,74.4776,,bishkek.json
+Dushanbe,Tajikistan,DYU,38.5433,68.7749,,dushanbe.json
+Ashgabat,Turkmenistan,ASB,37.9868,58.361,,ashgabat.json
+Ulaanbaatar,Mongolia,UBN,47.8431,106.7664,,ulaanbaatar.json
+Beijing,China,PEK,40.0799,116.5846,,beijing.json
+Shanghai,China,PVG,31.1434,121.8082,,shanghai.json
+Guangzhou,China,CAN,23.3924,113.2988,,guangzhou.json
+Chengdu,China,CTU,30.5785,103.9471,,chengdu.json
+Shenzhen,China,SZX,22.6393,113.8107,,shenzhen.json
+Kunming,China,KMG,24.992,102.7433,,kunming.json
+Xian,China,XIY,34.4471,108.7516,,xian.json
+Wuhan,China,WUH,30.7838,114.2081,,wuhan.json
+Hangzhou,China,HGH,30.2295,120.4346,,hangzhou.json
+Nanjing,China,NKG,31.7423,118.862,,nanjing.json
+Chongqing,China,CKG,29.7192,106.6416,,chongqing.json
+Qingdao,China,TAO,36.2661,120.3745,,qingdao.json
+Xiamen,China,XMN,24.544,118.1277,,xiamen.json
+Harbin,China,HRB,45.6234,126.2501,,harbin.json
+Dalian,China,DLC,38.9657,121.5386,,dalian.json
+Sanya,China,SYX,18.3029,109.412,,sanya.json
+Zhengzhou,China,CGO,34.5197,113.841,,zhengzhou.json
+Changsha,China,CSX,28.1891,113.2196,,changsha.json
+Nanning,China,NNG,22.6083,108.1722,,nanning.json
+Seoul,South Korea,ICN,37.4691,126.451,,seoul.json
+Busan,South Korea,PUS,35.1795,128.9381,,busan.json
+Jeju City,South Korea,CJU,33.5113,126.493,,jeju_city.json
+Yangon,Myanmar,RGN,16.9073,96.1332,,yangon.json
+Mandalay,Myanmar,MDL,21.7022,95.9779,,mandalay.json
+Bangkok,Thailand,BKK,13.6811,100.7475,,bangkok.json
+Phuket,Thailand,HKT,8.1132,98.3167,,phuket.json
+Chiang Mai,Thailand,CNX,18.7668,98.9629,,chiang_mai.json
+Krabi,Thailand,KBV,8.0993,98.9862,,krabi.json
+Koh Samui,Thailand,USM,9.5478,100.0629,,koh_samui.json
+Hanoi,Vietnam,HAN,21.2187,105.8042,,hanoi.json
+Ho Chi Minh City,Vietnam,SGN,10.8188,106.6519,,ho_chi_minh_city.json
+Da Nang,Vietnam,DAD,16.0444,108.1993,,da_nang.json
+Nha Trang,Vietnam,CXR,11.9983,109.2192,,nha_trang.json
+Phnom Penh,Cambodia,PNH,11.5466,104.844,,phnom_penh.json
+Siem Reap,Cambodia,REP,13.4107,103.8129,,siem_reap.json
+Vientiane,Laos,VTE,17.9883,102.5633,,vientiane.json
+Luang Prabang,Laos,LPQ,19.8975,102.1608,,luang_prabang.json
+Jakarta,Indonesia,CGK,-6.1255,106.6558,,jakarta.json
+Bali,Indonesia,DPS,-8.7481,115.1671,,bali.json
+Surabaya,Indonesia,SUB,-7.3798,112.7869,,surabaya.json
+Medan,Indonesia,KNO,3.6422,98.8855,,medan.json
+Mataram,Indonesia,LOP,-8.7573,116.2767,,mataram.json
+Yogyakarta,Indonesia,YIA,-7.9082,110.0568,,yogyakarta.json
+Makassar,Indonesia,UPG,-5.0617,119.554,,makassar.json
+Kuala Lumpur,Malaysia,KUL,2.7456,101.7099,,kuala_lumpur.json
+Penang,Malaysia,PEN,5.2977,100.2768,,penang.json
+Kota Kinabalu,Malaysia,BKI,5.9372,116.0519,,kota_kinabalu.json
+Langkawi,Malaysia,LGK,6.3297,99.7287,,langkawi.json
+Johor Bahru,Malaysia,JHB,1.6413,103.6697,,johor_bahru.json
+Manila,Philippines,MNL,14.5086,121.0197,,manila.json
+Cebu City,Philippines,CEB,10.3075,123.9791,,cebu_city.json
+Davao,Philippines,DVO,7.1255,125.6458,,davao.json
+Puerto Princesa,Philippines,PPS,9.7421,118.759,,puerto_princesa.json
+Caticlan,Philippines,MPH,11.9245,121.953,,caticlan.json
+New Delhi,India,DEL,28.5561,77.1,,new_delhi.json
+Mumbai,India,BOM,19.0896,72.8656,,mumbai.json
+Bangalore,India,BLR,13.1986,77.7066,,bangalore.json
+Chennai,India,MAA,12.99,80.1693,,chennai.json
+Kolkata,India,CCU,22.6547,88.4467,,kolkata.json
+Hyderabad,India,HYD,17.2313,78.4298,,hyderabad.json
+Goa,India,GOI,15.3808,73.8314,,goa.json
+Kochi,India,COK,10.152,76.3922,,kochi.json
+Pune,India,PNQ,18.5822,73.9197,,pune.json
+Ahmedabad,India,AMD,23.0771,72.6347,,ahmedabad.json
+Jaipur,India,JAI,26.8242,75.8122,,jaipur.json
+Varanasi,India,VNS,25.4523,82.8593,,varanasi.json
+Amritsar,India,ATQ,31.7096,74.7973,,amritsar.json
+Lucknow,India,LKO,26.7606,80.8893,,lucknow.json
+Colombo,Sri Lanka,CMB,7.1807,79.8841,,colombo.json
+Kathmandu,Nepal,KTM,27.6966,85.3591,,kathmandu.json
+Dhaka,Bangladesh,DAC,23.8433,90.3978,,dhaka.json
+Chittagong,Bangladesh,CGP,22.2496,91.8133,,chittagong.json
+Karachi,Pakistan,KHI,24.9065,67.1609,,karachi.json
+Lahore,Pakistan,LHE,31.5216,74.4036,,lahore.json
+Islamabad,Pakistan,ISB,33.5487,72.8258,,islamabad.json
+Male,Maldives,MLE,4.1918,73.529,,male.json
+Paro,Bhutan,PBH,27.4032,89.4281,,paro.json
+Casablanca,Morocco,CMN,33.3675,-7.59,,casablanca.json
+Marrakech,Morocco,RAK,31.6069,-8.0363,,marrakech.json
+Fez,Morocco,FEZ,33.9273,-4.978,,fez.json
+Agadir,Morocco,AGA,30.325,-9.4131,,agadir.json
+Tangier,Morocco,TNG,35.7269,-5.9169,,tangier.json
+Rabat,Morocco,RBA,34.0515,-6.7515,,rabat.json
+Tunis,Tunisia,TUN,36.851,10.2272,,tunis.json
+Djerba,Tunisia,DJE,33.875,10.7755,,djerba.json
+Monastir,Tunisia,MIR,35.7578,10.7547,,monastir.json
+Algiers,Algeria,ALG,36.691,3.2154,,algiers.json
+Oran,Algeria,ORN,35.6239,-0.6212,,oran.json
+Constantine,Algeria,CZL,36.276,6.6204,,constantine.json
+Tripoli,Libya,MJI,32.8941,13.2763,,tripoli.json
+Lagos,Nigeria,LOS,6.5774,3.3212,,lagos.json
+Abuja,Nigeria,ABV,9.0068,7.2632,,abuja.json
+Kano,Nigeria,KAN,12.0476,8.5246,,kano.json
+Port Harcourt,Nigeria,PHC,5.0155,6.9496,,port_harcourt.json
+Accra,Ghana,ACC,5.6052,-0.1667,,accra.json
+Kumasi,Ghana,KMS,6.7146,-1.5908,,kumasi.json
+Dakar,Senegal,DSS,14.6701,-17.0733,,dakar.json
+Abidjan,Ivory Coast,ABJ,5.2614,-3.9263,,abidjan.json
+Addis Ababa,Ethiopia,ADD,8.9779,38.7993,,addis_ababa.json
+Nairobi,Kenya,NBO,-1.3192,36.9275,,nairobi.json
+Mombasa,Kenya,MBA,-4.0348,39.5943,,mombasa.json
+Dar es Salaam,Tanzania,DAR,-6.8781,39.2026,,dar_es_salaam.json
+Zanzibar,Tanzania,ZNZ,-6.222,39.2249,,zanzibar.json
+Kilimanjaro,Tanzania,JRO,-3.4294,37.0745,,kilimanjaro.json
+Kampala,Uganda,EBB,0.0424,32.4435,,kampala.json
+Kigali,Rwanda,KGL,-1.9686,30.1395,,kigali.json
+Harare,Zimbabwe,HRE,-17.9318,31.0928,,harare.json
+Victoria Falls,Zimbabwe,VFA,-18.0959,25.839,,victoria_falls.json
+Lusaka,Zambia,LUN,-15.3308,28.4526,,lusaka.json
+Windhoek,Namibia,WDH,-22.4799,17.4709,,windhoek.json
+Gaborone,Botswana,GBE,-24.5552,25.9182,,gaborone.json
+Maputo,Mozambique,MPM,-25.9208,32.5726,,maputo.json
+Antananarivo,Madagascar,TNR,-18.7969,47.4788,,antananarivo.json
+Port Louis,Mauritius,MRU,-20.4302,57.6836,,port_louis.json
+Victoria,Seychelles,SEZ,-4.6744,55.5219,,victoria_seychelles.json
+Luanda,Angola,LAD,-8.8582,13.2312,,luanda.json
+Douala,Cameroon,DLA,4.0061,9.7195,,douala.json
+Yaounde,Cameroon,YAO,3.7224,11.5533,,yaounde.json
+Kinshasa,DR Congo,FIH,-4.3875,15.4446,,kinshasa.json
+Khartoum,Sudan,KRT,15.5895,32.5532,,khartoum.json
+Djibouti City,Djibouti,JIB,11.5473,43.1594,,djibouti_city.json
+Sal,Cape Verde,SID,16.7414,-22.9494,,sal.json
+Praia,Cape Verde,RAI,14.9245,-23.4935,,praia.json
+Libreville,Gabon,LBV,0.4586,9.4123,,libreville.json
+Monrovia,Liberia,ROB,6.2338,-10.3623,,monrovia.json
+Freetown,Sierra Leone,FNA,8.6163,-13.195,,freetown.json
+Conakry,Guinea,CKY,9.5769,-13.612,,conakry.json
+Bamako,Mali,BKO,12.5335,-7.9499,,bamako.json
+Niamey,Niger,NIM,13.4815,2.1836,,niamey.json
+Ouagadougou,Burkina Faso,OUA,12.3532,-1.5125,,ouagadougou.json
+Cotonou,Benin,COO,6.3572,2.3845,,cotonou.json
+Lome,Togo,LFW,6.1656,1.2545,,lome.json
+Asmara,Eritrea,ASM,15.2919,38.9107,,asmara.json
+Mogadishu,Somalia,MGQ,2.0144,45.3047,,mogadishu.json
+Bogota,Colombia,BOG,4.7016,-74.1469,,bogota.json
+Medellin,Colombia,MDE,6.1646,-75.4231,,medellin.json
+Cali,Colombia,CLO,3.5433,-76.3816,,cali.json
+Cartagena,Colombia,CTG,10.4424,-75.5131,,cartagena.json
+Barranquilla,Colombia,BAQ,10.8896,-74.7808,,barranquilla.json
+Lima,Peru,LIM,-12.0219,-77.1143,,lima.json
+Cusco,Peru,CUZ,-13.5357,-71.9388,,cusco.json
+Arequipa,Peru,AQP,-16.3411,-71.5831,,arequipa.json
+Santiago,Chile,SCL,-33.393,-70.7858,,santiago.json
+Punta Arenas,Chile,PUQ,-53.0024,-70.8557,,punta_arenas.json
+La Paz,Bolivia,LPB,-16.5133,-68.1922,,la_paz.json
+Santa Cruz,Bolivia,VVI,-17.6448,-63.1354,,santa_cruz.json
+Quito,Ecuador,UIO,-0.1292,-78.3575,,quito.json
+Guayaquil,Ecuador,GYE,-2.1574,-79.8836,,guayaquil.json
+Caracas,Venezuela,CCS,10.6012,-66.9918,,caracas.json
+Maracaibo,Venezuela,MAR,10.5582,-71.7278,,maracaibo.json
+Asuncion,Paraguay,ASU,-25.2398,-57.5199,,asuncion.json
+Montevideo,Uruguay,MVD,-34.8384,-56.0308,,montevideo.json
+Havana,Cuba,HAV,22.9893,-82.4093,,havana.json
+Varadero,Cuba,VRA,23.0344,-81.4353,,varadero.json
+Santo Domingo,Dominican Republic,SDQ,18.4297,-69.6689,,santo_domingo.json
+Punta Cana,Dominican Republic,PUJ,18.5674,-68.3634,,punta_cana.json
+Kingston,Jamaica,KIN,17.9357,-76.7875,,kingston.json
+Montego Bay,Jamaica,MBJ,18.5037,-77.9135,,montego_bay.json
+Port of Spain,Trinidad and Tobago,POS,10.5954,-61.3372,,port_of_spain.json
+Bridgetown,Barbados,BGI,13.0746,-59.4925,,bridgetown.json
+San Jose,Costa Rica,SJO,9.994,-84.2088,,san_jose.json
+Panama City,Panama,PTY,9.0714,-79.3835,,panama_city.json
+Guatemala City,Guatemala,GUA,14.5833,-90.5278,,guatemala_city.json
+San Pedro Sula,Honduras,SAP,15.4526,-87.9236,,san_pedro_sula.json
+Tegucigalpa,Honduras,TGU,14.0608,-87.2172,,tegucigalpa.json
+San Salvador,El Salvador,SAL,13.4409,-89.0557,,san_salvador.json
+Managua,Nicaragua,MGA,12.1415,-86.1682,,managua.json
+Belize City,Belize,BZE,17.5391,-88.3082,,belize_city.json
+Port-au-Prince,Haiti,PAP,18.58,-72.2925,,port_au_prince.json
+Nassau,Bahamas,NAS,25.0388,-77.4662,,nassau.json
+Georgetown,Guyana,GEO,6.4985,-58.2541,,georgetown.json
+Paramaribo,Suriname,PBM,5.4528,-55.1878,,paramaribo.json
+Port Moresby,Papua New Guinea,POM,-9.4433,147.22,,port_moresby.json
+Mt Hagen,Papua New Guinea,HGU,-5.8268,144.2959,,mt_hagen.json
+Port Vila,Vanuatu,VLI,-17.6993,168.32,,port_vila.json
+Honiara,Solomon Islands,HIR,-9.428,160.0553,,honiara.json
+Nukualofa,Tonga,TBU,-21.2412,-175.1497,,nukualofa.json
+Apia,Samoa,APW,-13.83,-172.0083,,apia.json
+Funafuti,Tuvalu,FUN,-8.525,179.196,,funafuti.json
+Tarawa,Kiribati,TRW,1.3816,173.1416,,tarawa.json
+Yaren,Nauru,INU,-0.547,166.919,,yaren.json
+Majuro,Marshall Islands,MAJ,7.0648,171.2721,,majuro.json
+Koror,Palau,ROR,7.368,134.5442,,koror.json
+Pohnpei,Micronesia,PNI,6.9851,158.209,,pohnpei.json
+Brazzaville,Republic of Congo,BZV,-4.2517,15.2531,,brazzaville.json
+Malabo,Equatorial Guinea,SSG,3.7553,8.7081,,malabo.json
+Sao Tome,Sao Tome and Principe,TMS,0.3782,6.7121,,sao_tome.json
+Bangui,Central African Republic,BGF,4.3985,18.5188,,bangui.json
+Ndjamena,Chad,NDJ,12.1337,15.034,,ndjamena.json
+Juba,South Sudan,JUB,4.872,31.6011,,juba.json
+Bujumbura,Burundi,BJM,-3.3242,29.3185,,bujumbura.json
+Lilongwe,Malawi,LLW,-13.7894,33.7816,,lilongwe.json
+Moroni,Comoros,HAH,-11.5337,43.2719,,moroni.json
+Bissau,Guinea-Bissau,OXB,11.89,-15.6537,,bissau.json
+Banjul,Gambia,BJL,13.338,-16.6522,,banjul.json
+Nouakchott,Mauritania,NKC,18.098,-15.9476,,nouakchott.json
+Manzini,Eswatini,MTS,-26.5587,31.1075,,manzini.json
+Maseru,Lesotho,MSU,-29.4623,27.5524,,maseru.json
+Cape Town,South Africa,CPT,-33.9648,18.6017,,cape_town.json
+Durban,South Africa,DUR,-29.6144,31.1197,,durban.json
+Bandar Seri Begawan,Brunei,BWN,4.9442,114.928,,bandar_seri_begawan.json
+Dili,Timor-Leste,DIL,-8.5477,125.527,,dili.json
+Roseau,Dominica,DCF,15.5471,-61.3,,roseau.json
+St George's,Grenada,GND,12.0042,-61.7862,,st_georges.json
+Castries,Saint Lucia,UVF,13.7333,-60.9526,,castries.json
+St John's,Antigua and Barbuda,ANU,17.1368,-61.7927,,st_johns.json
+Kingstown,Saint Vincent and the Grenadines,SVD,13.1563,-61.1494,,kingstown.json
+Basseterre,Saint Kitts and Nevis,SKB,17.3112,-62.7189,,basseterre.json
+Kabul,Afghanistan,KBL,34.5659,69.2123,,kabul.json
+Damascus,Syria,DAM,33.4115,36.5156,,damascus.json
+Sanaa,Yemen,SAH,15.4763,44.2197,,sanaa.json
+Pyongyang,North Korea,FNJ,39.2241,125.6702,,pyongyang.json
