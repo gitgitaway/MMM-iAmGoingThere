@@ -1,0 +1,891 @@
+{
+  "ts": 1777488826516,
+  "fingerprint": "{\"flights\":[],\"travelers\":[],\"overideDate\":false}",
+  "data": {
+    "legs": [
+      {
+        "id": "leg_0",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA283",
+        "departureDate": "2026-04-07",
+        "departureTime": "08:20",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "Los Angeles International",
+          "iata": "LAX",
+          "lat": 33.9425,
+          "lon": -118.4081,
+          "country": "United States"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_1",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA282",
+        "departureDate": "2026-04-09",
+        "departureTime": "15:40",
+        "from": {
+          "name": "Los Angeles International",
+          "iata": "LAX",
+          "lat": 33.9425,
+          "lon": -118.4081,
+          "country": "United States"
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_2",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA269",
+        "departureDate": "2026-04-12",
+        "departureTime": "15:15",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "Los Angeles International",
+          "iata": "LAX",
+          "lat": 33.9425,
+          "lon": -118.4081,
+          "country": "United States"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_3",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA268",
+        "departureDate": "2026-04-14",
+        "departureTime": "21:40",
+        "from": {
+          "name": "Los Angeles International",
+          "iata": "LAX",
+          "lat": 33.9425,
+          "lon": -118.4081,
+          "country": "United States"
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_4",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA11",
+        "departureDate": "2026-04-18",
+        "departureTime": "19:10",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "Singapore Changi",
+          "iata": "SIN",
+          "lat": 1.3644,
+          "lon": 103.9915,
+          "country": "Singapore"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_5",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA12",
+        "departureDate": "2026-04-21",
+        "departureTime": "23:20",
+        "from": {
+          "name": "Singapore Changi",
+          "iata": "SIN",
+          "lat": 1.3644,
+          "lon": 103.9915,
+          "country": "Singapore"
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_6",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA115",
+        "departureDate": "2026-04-26",
+        "departureTime": "14:25",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "New York JFK",
+          "iata": "JFK",
+          "lat": 40.6413,
+          "lon": -73.7781,
+          "country": "United States"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_7",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA114",
+        "departureDate": "2026-04-28",
+        "departureTime": "21:45",
+        "from": {
+          "name": "New York JFK",
+          "iata": "JFK",
+          "lat": 40.6413,
+          "lon": -73.7781,
+          "country": "United States"
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_8",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA285",
+        "departureDate": "2026-05-02",
+        "departureTime": "11:30",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "San Francisco International",
+          "iata": "SFO",
+          "lat": 37.6213,
+          "lon": -122.379,
+          "country": "United States"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_9",
+        "travelerName": "Capt. James Cook",
+        "flightNumber": "BA284",
+        "departureDate": "2026-05-04",
+        "departureTime": "20:10",
+        "from": {
+          "name": "San Francisco International",
+          "iata": "SFO",
+          "lat": 37.6213,
+          "lon": -122.379,
+          "country": "United States"
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      }
+    ],
+    "cityInfo": {
+      "London Heathrow": {
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": "51.47",
+        "lon": "-0.4543",
+        "stadium": "",
+        "attractionsFile": "london.json",
+        "attractions": {
+          "city": "London",
+          "country": "United Kingdom",
+          "airportPostcode": "TW6 1EW",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Tower of London",
+              "description": "Historic castle and former royal palace on the north bank of the Thames"
+            },
+            {
+              "rank": 2,
+              "name": "Buckingham Palace",
+              "description": "Official London residence and administrative headquarters of the British monarch"
+            },
+            {
+              "rank": 3,
+              "name": "British Museum",
+              "description": "World-class collection of human history, art and culture spanning two million years"
+            },
+            {
+              "rank": 4,
+              "name": "Tower Bridge",
+              "description": "Iconic Victorian bascule bridge and London landmark opening over the River Thames"
+            },
+            {
+              "rank": 5,
+              "name": "Westminster Abbey",
+              "description": "Gothic abbey church and site of British royal coronations since 1066"
+            },
+            {
+              "rank": 6,
+              "name": "National Gallery",
+              "description": "Art museum on Trafalgar Square housing over 2,300 paintings from 1250 to 1900"
+            },
+            {
+              "rank": 7,
+              "name": "Hyde Park",
+              "description": "350-acre royal park in central London famous for the Serpentine and Speaker's Corner"
+            },
+            {
+              "rank": 8,
+              "name": "St Paul's Cathedral",
+              "description": "Sir Christopher Wren's Baroque masterpiece with its iconic dome dominating the City skyline"
+            },
+            {
+              "rank": 9,
+              "name": "Tate Modern",
+              "description": "Leading modern art gallery in a converted Bankside power station"
+            },
+            {
+              "rank": 10,
+              "name": "Trafalgar Square",
+              "description": "Public plaza centred on Nelson's Column, heart of the capital's civic life"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T18:45",
+          "interval": 900,
+          "temperature": 15.1,
+          "windspeed": 24.5,
+          "winddirection": 74,
+          "is_day": 1,
+          "weathercode": 0
+        }
+      },
+      "Singapore Changi": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": "1.3644",
+        "lon": "103.9915",
+        "stadium": "",
+        "attractionsFile": "singapore.json",
+        "attractions": {
+          "city": "Singapore",
+          "country": "Singapore",
+          "airportPostcode": "819642",
+          "airportDistanceKm": 20,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Gardens by the Bay",
+              "description": "Futuristic park with the Supertree Grove, Cloud Forest and Flower Dome biospheres"
+            },
+            {
+              "rank": 2,
+              "name": "Marina Bay Sands",
+              "description": "Iconic three-tower resort with an infinity pool and SkyPark observation deck"
+            },
+            {
+              "rank": 3,
+              "name": "Sentosa Island",
+              "description": "Resort island with Universal Studios, S.E.A. Aquarium and cable car rides"
+            },
+            {
+              "rank": 4,
+              "name": "Chinatown",
+              "description": "Vibrant heritage district with temples, hawker centres and traditional medicine shops"
+            },
+            {
+              "rank": 5,
+              "name": "Little India",
+              "description": "Colourful neighbourhood with Hindu temples, flower garlands and curry houses"
+            },
+            {
+              "rank": 6,
+              "name": "Singapore Botanic Gardens",
+              "description": "UNESCO World Heritage tropical garden with the National Orchid Garden"
+            },
+            {
+              "rank": 7,
+              "name": "Hawker Centre Culture",
+              "description": "UNESCO-listed street food culture at legendary centres like Maxwell and Lau Pa Sat"
+            },
+            {
+              "rank": 8,
+              "name": "National Museum of Singapore",
+              "description": "Singapore's oldest museum in a grand colonial building with living galleries"
+            },
+            {
+              "rank": 9,
+              "name": "Singapore Zoo & Night Safari",
+              "description": "Award-winning open-concept zoo and the world's first nocturnal wildlife park"
+            },
+            {
+              "rank": 10,
+              "name": "Orchard Road",
+              "description": "Singapore's premier shopping street with hundreds of malls and luxury brands"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T18:45",
+          "interval": 900,
+          "temperature": 26.7,
+          "windspeed": 4.2,
+          "winddirection": 350,
+          "is_day": 0,
+          "weathercode": 3
+        }
+      },
+      "San Francisco International": {
+        "city": "San Francisco",
+        "country": "USA",
+        "iata": "SFO",
+        "lat": "37.6213",
+        "lon": "-122.379",
+        "stadium": "Levi's Stadium",
+        "attractionsFile": "san_francisco.json",
+        "attractions": {
+          "city": "San Francisco",
+          "country": "USA",
+          "airportPostcode": "94128",
+          "airportDistanceKm": 21,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Golden Gate Bridge",
+              "postcode": "94129",
+              "distanceKmFromAirport": 21,
+              "description": "Iconic 1937 suspension bridge with spectacular walk or cycle access"
+            },
+            {
+              "rank": 2,
+              "name": "Alcatraz Island",
+              "postcode": "94133",
+              "distanceKmFromAirport": 23,
+              "description": "Fascinating historic federal penitentiary tour in the bay"
+            },
+            {
+              "rank": 3,
+              "name": "Fisherman's Wharf",
+              "postcode": "94133",
+              "distanceKmFromAirport": 23,
+              "description": "Vibrant waterfront district with fresh seafood and sea lions"
+            },
+            {
+              "rank": 4,
+              "name": "Golden Gate Park",
+              "postcode": "94117",
+              "distanceKmFromAirport": 17,
+              "description": "1,017-acre park with museums, gardens, and bison paddock"
+            },
+            {
+              "rank": 5,
+              "name": "Cable Car Ride",
+              "postcode": "94108",
+              "distanceKmFromAirport": 22,
+              "description": "Historic 1873 street railway — a moving National Historic Landmark"
+            },
+            {
+              "rank": 6,
+              "name": "Muir Woods National Monument",
+              "postcode": "94941",
+              "distanceKmFromAirport": 35,
+              "description": "Ancient coastal redwood forest just north of the city"
+            },
+            {
+              "rank": 7,
+              "name": "Lombard Street",
+              "postcode": "94133",
+              "distanceKmFromAirport": 23,
+              "description": "World's most crooked street with stunning city views"
+            },
+            {
+              "rank": 8,
+              "name": "Chinatown",
+              "postcode": "94108",
+              "distanceKmFromAirport": 22,
+              "description": "Oldest and most densely populated Chinatown in North America"
+            },
+            {
+              "rank": 9,
+              "name": "Exploratorium",
+              "postcode": "94111",
+              "distanceKmFromAirport": 23,
+              "description": "Pioneer science and perception museum on the Embarcadero"
+            },
+            {
+              "rank": 10,
+              "name": "Napa Valley Day Trip",
+              "postcode": "94559",
+              "distanceKmFromAirport": 90,
+              "description": "World-renowned wine country just 90 minutes from the city"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T18:45",
+          "interval": 900,
+          "temperature": 19.3,
+          "windspeed": 6.6,
+          "winddirection": 315,
+          "is_day": 1,
+          "weathercode": 0
+        }
+      },
+      "New York JFK": {
+        "city": "New York",
+        "country": "USA",
+        "iata": "JFK/EWR",
+        "lat": "40.6413",
+        "lon": "-73.7781",
+        "stadium": "MetLife Stadium",
+        "attractionsFile": "new_york.json",
+        "attractions": {
+          "city": "New York",
+          "country": "USA",
+          "airportPostcode": "11430",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Statue of Liberty",
+              "postcode": "10004",
+              "distanceKmFromAirport": 35,
+              "description": "Iconic 19th-century monument on Liberty Island in New York Harbor"
+            },
+            {
+              "rank": 2,
+              "name": "Central Park",
+              "postcode": "10024",
+              "distanceKmFromAirport": 25,
+              "description": "843-acre urban oasis in the heart of Manhattan"
+            },
+            {
+              "rank": 3,
+              "name": "The Metropolitan Museum of Art",
+              "postcode": "10028",
+              "distanceKmFromAirport": 22,
+              "description": "World-class art collection spanning 5,000 years of history"
+            },
+            {
+              "rank": 4,
+              "name": "Times Square",
+              "postcode": "10036",
+              "distanceKmFromAirport": 24,
+              "description": "Dazzling entertainment hub and the crossroads of the world"
+            },
+            {
+              "rank": 5,
+              "name": "Empire State Building",
+              "postcode": "10001",
+              "distanceKmFromAirport": 24,
+              "description": "Art Deco skyscraper with stunning observation deck views"
+            },
+            {
+              "rank": 6,
+              "name": "Brooklyn Bridge Walk",
+              "postcode": "11201",
+              "distanceKmFromAirport": 25,
+              "description": "Historic 1883 suspension bridge with panoramic city views"
+            },
+            {
+              "rank": 7,
+              "name": "9/11 Memorial & Museum",
+              "postcode": "10007",
+              "distanceKmFromAirport": 25,
+              "description": "Powerful tribute commemorating the September 11 attacks"
+            },
+            {
+              "rank": 8,
+              "name": "The High Line",
+              "postcode": "10011",
+              "distanceKmFromAirport": 25,
+              "description": "Elevated linear park on a historic freight rail line"
+            },
+            {
+              "rank": 9,
+              "name": "One World Observatory",
+              "postcode": "10007",
+              "distanceKmFromAirport": 25,
+              "description": "360-degree views from the top of One World Trade Center"
+            },
+            {
+              "rank": 10,
+              "name": "Broadway Shows",
+              "postcode": "10036",
+              "distanceKmFromAirport": 24,
+              "description": "World-famous theatre district with dozens of live shows nightly"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T18:45",
+          "interval": 900,
+          "temperature": 13,
+          "windspeed": 18.2,
+          "winddirection": 141,
+          "is_day": 1,
+          "weathercode": 3
+        }
+      },
+      "Los Angeles International": {
+        "city": "Los Angeles",
+        "country": "USA",
+        "iata": "LAX",
+        "lat": "33.9416",
+        "lon": "-118.4085",
+        "stadium": "SoFi Stadium",
+        "attractionsFile": "los_angeles.json",
+        "attractions": {
+          "city": "Los Angeles",
+          "country": "USA",
+          "airportPostcode": "90045",
+          "airportDistanceKm": 25,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Hollywood Walk of Fame",
+              "postcode": "90028",
+              "distanceKmFromAirport": 22,
+              "description": "2.7-km sidewalk with over 2,700 celebrity brass stars"
+            },
+            {
+              "rank": 2,
+              "name": "Griffith Observatory",
+              "postcode": "90027",
+              "distanceKmFromAirport": 21,
+              "description": "Iconic planetarium with breathtaking views of the city and Hollywood Sign"
+            },
+            {
+              "rank": 3,
+              "name": "The Getty Center",
+              "postcode": "90049",
+              "distanceKmFromAirport": 16,
+              "description": "Spectacular hilltop museum with world-class art and architecture"
+            },
+            {
+              "rank": 4,
+              "name": "Santa Monica Pier",
+              "postcode": "90401",
+              "distanceKmFromAirport": 8,
+              "description": "Iconic beachfront amusement park with Pacific Park rides"
+            },
+            {
+              "rank": 5,
+              "name": "Universal Studios Hollywood",
+              "postcode": "91608",
+              "distanceKmFromAirport": 31,
+              "description": "World-famous movie studio theme park and backlot tour"
+            },
+            {
+              "rank": 6,
+              "name": "Venice Beach Boardwalk",
+              "postcode": "90291",
+              "distanceKmFromAirport": 8,
+              "description": "Eclectic beachside walkway with street performers and markets"
+            },
+            {
+              "rank": 7,
+              "name": "LACMA",
+              "postcode": "90036",
+              "distanceKmFromAirport": 19,
+              "description": "Largest art museum in the western United States"
+            },
+            {
+              "rank": 8,
+              "name": "Rodeo Drive",
+              "postcode": "90210",
+              "distanceKmFromAirport": 16,
+              "description": "World-famous luxury shopping boulevard in Beverly Hills"
+            },
+            {
+              "rank": 9,
+              "name": "Malibu Beaches",
+              "postcode": "90265",
+              "distanceKmFromAirport": 30,
+              "description": "Scenic coastal beaches and stunning Pacific Ocean sunsets"
+            },
+            {
+              "rank": 10,
+              "name": "Griffith Park Hiking",
+              "postcode": "90027",
+              "distanceKmFromAirport": 21,
+              "description": "4,310-acre municipal park with trails and wildlife"
+            }
+          ]
+        },
+        "weather": {
+          "time": "2026-04-29T18:45",
+          "interval": 900,
+          "temperature": 20.9,
+          "windspeed": 13.6,
+          "winddirection": 258,
+          "is_day": 1,
+          "weathercode": 0
+        }
+      }
+    },
+    "visitedCountryIsos": []
+  }
+}

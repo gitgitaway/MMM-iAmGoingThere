@@ -1,0 +1,3791 @@
+{
+  "ts": 1777489001890,
+  "fingerprint": "{\"flights\":[],\"travelers\":[],\"overideDate\":false}",
+  "data": {
+    "legs": [
+      {
+        "id": "leg_0",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2026-02-26",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Stuttgart",
+          "iata": "TEAM",
+          "lat": 48.792249,
+          "lon": 9.232086,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/stuttgart.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "VfB Stuttgart",
+        "competition": "Europa League",
+        "score": "1-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_1",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2026-01-22",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Bologna",
+          "iata": "TEAM",
+          "lat": 44.492317,
+          "lon": 11.310801,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Italy/bologna.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Bologna",
+        "competition": "Europa League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_2",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2025-11-27",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Feyenoord",
+          "iata": "TEAM",
+          "lat": 51.895512,
+          "lon": 4.525468,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/The_Netherlands/Feyenoord.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Feyenoord",
+        "competition": "Europa League",
+        "score": "0-0",
+        "result": "D"
+      },
+      {
+        "id": "leg_3",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2025-11-06",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Midtjylland",
+          "iata": "TEAM",
+          "lat": 56.116791,
+          "lon": 8.951785,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Denmark/fc-midtjylland.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "FC Midtjylland",
+        "competition": "Europa League",
+        "score": "1-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_4",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2025-09-24",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Red Star Belgrade",
+          "iata": "TEAM",
+          "lat": 44.78322,
+          "lon": 20.464675,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Serbia/Red Star Belgrade.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Red Star Belgrade",
+        "competition": "Europa League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_5",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2025-08-26",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Kairat",
+          "iata": "TEAM",
+          "lat": 43.236947,
+          "lon": 76.925171,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Kazakhstan/kairat-almaty.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Kairat Almaty",
+        "competition": "Champions League",
+        "score": "0-0",
+        "result": "D"
+      },
+      {
+        "id": "leg_6",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2024-10-01",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Borussia Dortmund",
+          "iata": "TEAM",
+          "lat": 51.492492,
+          "lon": 7.451855,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/borussia-dortmund.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Borussia Dortmund",
+        "competition": "Champions League",
+        "score": "1-7",
+        "result": "L"
+      },
+      {
+        "id": "leg_7",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2024-09-18",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Slovan Bratislava",
+          "iata": "TEAM",
+          "lat": 48.161512,
+          "lon": 17.132156,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Slovakia/slovan-bratislava.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Slovan Bratislava",
+        "competition": "Champions League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_8",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2023-11-28",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Lazio",
+          "iata": "TEAM",
+          "lat": 41.933942,
+          "lon": 12.454771,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Italy/lazio.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Lazio",
+        "competition": "Champions League",
+        "score": "0-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_9",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2023-11-08",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Atletico Madrid",
+          "iata": "TEAM",
+          "lat": 40.4362,
+          "lon": -3.5995,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Spain/atlético-madrid.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Atletico Madrid",
+        "competition": "Champions League",
+        "score": "0-6",
+        "result": "L"
+      },
+      {
+        "id": "leg_10",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2023-10-04",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Feyenoord",
+          "iata": "TEAM",
+          "lat": 51.895512,
+          "lon": 4.525468,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/The_Netherlands/Feyenoord.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Feyenoord",
+        "competition": "Champions League",
+        "score": "0-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_11",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2023-02-22",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Bodø/Glimt",
+          "iata": "TEAM",
+          "lat": 67.276648,
+          "lon": 14.384434,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Norway/bodøglimt.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Bodo/Glimt",
+        "competition": "Conference League",
+        "score": "0-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_12",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2022-11-02",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Real Madrid",
+          "iata": "TEAM",
+          "lat": 40.452178,
+          "lon": -3.687657,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Spain/real-madrid.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Real Madrid",
+        "competition": "Champions League",
+        "score": "1-5",
+        "result": "L"
+      },
+      {
+        "id": "leg_13",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2022-10-11",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "RB Leipzig",
+          "iata": "TEAM",
+          "lat": 51.345708,
+          "lon": 12.348236,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/rb-leipzig.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "RB Leipzig",
+        "competition": "Champions League",
+        "score": "1-3",
+        "result": "L"
+      },
+      {
+        "id": "leg_14",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2022-09-14",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Shakhtar Donetsk",
+          "iata": "TEAM",
+          "lat": 49.774605,
+          "lon": 24.026844,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Ukraine/shakhtar-donetsk.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Shakhtar Donetsk",
+        "competition": "Champions League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_15",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2022-02-24",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Bodø/Glimt",
+          "iata": "TEAM",
+          "lat": 67.276648,
+          "lon": 14.384434,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Norway/bodøglimt.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Bodo/Glimt",
+        "competition": "Conference League",
+        "score": "1-3",
+        "result": "L"
+      },
+      {
+        "id": "leg_16",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-12-09",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Real Betis",
+          "iata": "TEAM",
+          "lat": 37.417235,
+          "lon": -6.004613,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Spain/real-betis.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Real Betis",
+        "competition": "Europa League",
+        "score": "3-4",
+        "result": "L"
+      },
+      {
+        "id": "leg_17",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-11-25",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Bayer Leverkusen",
+          "iata": "TEAM",
+          "lat": 51.038144,
+          "lon": 7.003096,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/bayer-leverkusen.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Bayer Leverkusen",
+        "competition": "Europa League",
+        "score": "2-3",
+        "result": "L"
+      },
+      {
+        "id": "leg_18",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-11-04",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Ferencvaros",
+          "iata": "TEAM",
+          "lat": 47.4753,
+          "lon": 19.095,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Hungary/ferencváros.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Ferencvaros",
+        "competition": "Europa League",
+        "score": "3-1",
+        "result": "W"
+      },
+      {
+        "id": "leg_19",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-09-30",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Bayer Leverkusen",
+          "iata": "TEAM",
+          "lat": 51.038144,
+          "lon": 7.003096,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/bayer-leverkusen.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Bayer Leverkusen",
+        "competition": "Europa League",
+        "score": "0-4",
+        "result": "L"
+      },
+      {
+        "id": "leg_20",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-09-16",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Real Betis",
+          "iata": "TEAM",
+          "lat": 37.417235,
+          "lon": -6.004613,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Spain/real-betis.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Real Betis",
+        "competition": "Europa League",
+        "score": "3-4",
+        "result": "L"
+      },
+      {
+        "id": "leg_21",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-08-26",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "AZ Alkmaar",
+          "iata": "TEAM",
+          "lat": 52.612827,
+          "lon": 4.742062,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/The_Netherlands/AZ Alkmaar.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "AZ Alkmaar",
+        "competition": "Europa League",
+        "score": "1-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_22",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2021-08-10",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Midtjylland",
+          "iata": "TEAM",
+          "lat": 56.116791,
+          "lon": 8.951785,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Denmark/fc-midtjylland.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "FC Midtjylland",
+        "competition": "Champions League",
+        "score": "1-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_23",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-12-10",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Lille",
+          "iata": "TEAM",
+          "lat": 50.611904,
+          "lon": 3.130508,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/France/lille.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Lille",
+        "competition": "Europa League",
+        "score": "3-2",
+        "result": "W"
+      },
+      {
+        "id": "leg_24",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-11-26",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Sparta Prague",
+          "iata": "TEAM",
+          "lat": 50.099713,
+          "lon": 14.415892,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Czech_Republic/sparta-prague.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Sparta Prague",
+        "competition": "Europa League",
+        "score": "1-4",
+        "result": "L"
+      },
+      {
+        "id": "leg_25",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-11-05",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "AC Milan",
+          "iata": "TEAM",
+          "lat": 45.4782,
+          "lon": 9.123964,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Italy/ac-milan.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "AC Milan",
+        "competition": "Europa League",
+        "score": "2-4",
+        "result": "L"
+      },
+      {
+        "id": "leg_26",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-10-01",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Sarajevo",
+          "iata": "TEAM",
+          "lat": 43.873705,
+          "lon": 18.408448,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Bosnia_and_Herzegovina/Sarajevo.jpg"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Sarajevo",
+        "competition": "Europa League",
+        "score": "1-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_27",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-09-17",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Riga FC",
+          "iata": "TEAM",
+          "lat": 56.961264,
+          "lon": 24.116215,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Latvia/riga-fc.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Riga FC",
+        "competition": "Europa League",
+        "score": "1-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_28",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-08-26",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Ferencvaros",
+          "iata": "TEAM",
+          "lat": 47.4753,
+          "lon": 19.095,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Hungary/ferencváros.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Ferencvaros",
+        "competition": "Champions League",
+        "score": "1-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_29",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2020-02-27",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Copenhagen",
+          "iata": "TEAM",
+          "lat": 55.702704,
+          "lon": 12.572264,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Denmark/fc-copenhagen.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Copenhagen",
+        "competition": "Europa League",
+        "score": "3-1",
+        "result": "W"
+      },
+      {
+        "id": "leg_30",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-12-12",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "CFR Cluj",
+          "iata": "TEAM",
+          "lat": 46.7712,
+          "lon": 23.6236,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Romania/cfr-cluj.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Cluj",
+        "competition": "Europa League",
+        "score": "0-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_31",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-11-07",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Lazio",
+          "iata": "TEAM",
+          "lat": 41.933942,
+          "lon": 12.454771,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Italy/lazio.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Lazio",
+        "competition": "Europa League",
+        "score": "2-1",
+        "result": "W"
+      },
+      {
+        "id": "leg_32",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-10-24",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Rennes",
+          "iata": "TEAM",
+          "lat": 48.107565,
+          "lon": -1.712654,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/France/rennes.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Rennes",
+        "competition": "Europa League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_33",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-08-13",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "CFR Cluj",
+          "iata": "TEAM",
+          "lat": 46.7712,
+          "lon": 23.6236,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Romania/cfr-cluj.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Cluj",
+        "competition": "Champions League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_34",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-07-30",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Nomme Kalju",
+          "iata": "TEAM",
+          "lat": 59.376,
+          "lon": 24.726,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Nomme Kalju",
+        "competition": "Champions League",
+        "score": "2-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_35",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-07-09",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Sarajevo",
+          "iata": "TEAM",
+          "lat": 43.873705,
+          "lon": 18.408448,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Bosnia_and_Herzegovina/Sarajevo.jpg"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "FK Sarajevo",
+        "competition": "Champions League",
+        "score": "3-1",
+        "result": "W"
+      },
+      {
+        "id": "leg_36",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2019-02-21",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Valencia",
+          "iata": "TEAM",
+          "lat": 39.4699,
+          "lon": -0.3763,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Spain/valencia.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Valencia",
+        "competition": "Europa League",
+        "score": "0-1",
+        "result": "L"
+      },
+      {
+        "id": "leg_37",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-12-13",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "RB Salzburg",
+          "iata": "TEAM",
+          "lat": 47.816396,
+          "lon": 12.998244,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "RB Salzburg",
+        "competition": "Europa League",
+        "score": "1-3",
+        "result": "L"
+      },
+      {
+        "id": "leg_38",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-11-08",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "RB Leipzig",
+          "iata": "TEAM",
+          "lat": 51.345708,
+          "lon": 12.348236,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/rb-leipzig.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "RB Leipzig",
+        "competition": "Europa League",
+        "score": "0-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_39",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-10-25",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Rosenborg",
+          "iata": "TEAM",
+          "lat": 63.4155,
+          "lon": 10.4051,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Rosenborg",
+        "competition": "Europa League",
+        "score": "1-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_40",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-08-14",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "AEK Athens",
+          "iata": "TEAM",
+          "lat": 38.037187,
+          "lon": 23.740932,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Greece/AEK Athens.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "AEK Athens",
+        "competition": "Champions League",
+        "score": "1-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_41",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-08-01",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Rosenborg",
+          "iata": "TEAM",
+          "lat": 63.4155,
+          "lon": 10.4051,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Rosenborg",
+        "competition": "Champions League",
+        "score": "0-0",
+        "result": "D"
+      },
+      {
+        "id": "leg_42",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-07-18",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "FC Alashkert",
+          "iata": "TEAM",
+          "lat": 40.1656,
+          "lon": 44.4894,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Armenia/alashkert.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Alashkert",
+        "competition": "Champions League",
+        "score": "3-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_43",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2018-02-22",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Zenit St Petersburg",
+          "iata": "TEAM",
+          "lat": 59.9726,
+          "lon": 30.2217,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Zenit St Petersburg",
+        "competition": "Europa League",
+        "score": "0-3",
+        "result": "L"
+      },
+      {
+        "id": "leg_44",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2017-12-05",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Anderlecht",
+          "iata": "TEAM",
+          "lat": 50.83402,
+          "lon": 4.297855,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Belgium/Anderlecht.jpg"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Anderlecht",
+        "competition": "Champions League",
+        "score": "1-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_45",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2017-11-22",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "PSG",
+          "iata": "TEAM",
+          "lat": 48.8414,
+          "lon": 2.253,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/France/PSG.svg"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "PSG",
+        "competition": "Champions League",
+        "score": "1-7",
+        "result": "L"
+      },
+      {
+        "id": "leg_46",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2017-10-31",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Bayern Munich",
+          "iata": "TEAM",
+          "lat": 48.21879,
+          "lon": 11.623623,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/bayern-munich.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Bayern Munich",
+        "competition": "Champions League",
+        "score": "1-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_47",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2017-08-22",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Astana",
+          "iata": "TEAM",
+          "lat": 51.108143,
+          "lon": 71.402728,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Kazakhstan/astana.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "FC Astana",
+        "competition": "Champions League",
+        "score": "3-4",
+        "result": "L"
+      },
+      {
+        "id": "leg_48",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2017-08-02",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Rosenborg",
+          "iata": "TEAM",
+          "lat": 63.4155,
+          "lon": 10.4051,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Rosenborg",
+        "competition": "Champions League",
+        "score": "1-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_49",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2017-07-19",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Linfield",
+          "iata": "TEAM",
+          "lat": 54.582788,
+          "lon": -5.943527,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Northern_Ireland/linfield.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Linfield",
+        "competition": "Champions League",
+        "score": "2-0",
+        "result": "W"
+      },
+      {
+        "id": "leg_50",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2016-12-06",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Manchester City",
+          "iata": "TEAM",
+          "lat": 53.4831,
+          "lon": -2.2004,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/England/manchester-city.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Manchester City",
+        "competition": "Champions League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_51",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2016-11-01",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Borussia Monchengladbach",
+          "iata": "TEAM",
+          "lat": 51.174625,
+          "lon": 6.385409,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Germany/borussia-mönchengladbach.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Borussia Monchengladbach",
+        "competition": "Champions League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_52",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2016-09-13",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Barcelona",
+          "iata": "TEAM",
+          "lat": 41.380881,
+          "lon": 2.122818,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Spain/barcelona.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Barcelona",
+        "competition": "Champions League",
+        "score": "0-7",
+        "result": "L"
+      },
+      {
+        "id": "leg_53",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2016-08-23",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "APOEL",
+          "iata": "TEAM",
+          "lat": 35.11455,
+          "lon": 33.363688,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Cyprus/APOEL.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Hapoel Be'er Sheva",
+        "competition": "Champions League",
+        "score": "0-2",
+        "result": "L"
+      },
+      {
+        "id": "leg_54",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2016-08-03",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Astana",
+          "iata": "TEAM",
+          "lat": 51.108143,
+          "lon": 71.402728,
+          "crest": "modules/MMM-iAmGoingThere/images/crests/Kazakhstan/astana.png"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "FC Astana",
+        "competition": "Champions League",
+        "score": "1-1",
+        "result": "D"
+      },
+      {
+        "id": "leg_55",
+        "travelerName": "traveller",
+        "flightNumber": "GO",
+        "departureDate": "2016-07-20",
+        "departureTime": "",
+        "from": null,
+        "to": {
+          "name": "Lincoln Red Imps",
+          "iata": "TEAM",
+          "lat": 36.1408,
+          "lon": -5.3536,
+          "crest": null
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null,
+        "opponent": "Lincoln Red Imps",
+        "competition": "Champions League",
+        "score": "0-1",
+        "result": "L"
+      }
+    ],
+    "cityInfo": {
+      "Bologna": {
+        "city": "Bologna",
+        "country": "Italy",
+        "iata": "BLQ",
+        "lat": "44.5347",
+        "lon": "11.2889",
+        "stadium": "",
+        "attractionsFile": "bologna.json",
+        "attractions": {
+          "city": "Bologna",
+          "country": "Italy",
+          "airportPostcode": "40050",
+          "airportDistanceKm": 8,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Piazza Maggiore",
+              "description": "Grand central square with the unfinished facade of San Petronio and the Fountain of Neptune"
+            },
+            {
+              "rank": 2,
+              "name": "Two Towers (Due Torri)",
+              "description": "Iconic medieval towers - Asinelli and Garisenda - symbols of Bologna's skyline"
+            },
+            {
+              "rank": 3,
+              "name": "Porticoes of Bologna",
+              "description": "UNESCO World Heritage 40km network of covered walkways, the longest in the world"
+            },
+            {
+              "rank": 4,
+              "name": "Basilica di San Petronio",
+              "description": "The world's fifth-largest church with stunning medieval frescoes and sundial"
+            },
+            {
+              "rank": 5,
+              "name": "Quadrilatero Market",
+              "description": "Medieval market district with food stalls specialising in Bologna's famous cuisine"
+            },
+            {
+              "rank": 6,
+              "name": "Pinacoteca Nazionale",
+              "description": "Outstanding collection of Emilian painting from the 14th to 18th centuries"
+            },
+            {
+              "rank": 7,
+              "name": "Archiginnasio",
+              "description": "Former university with the Anatomical Theatre where dissections were performed"
+            },
+            {
+              "rank": 8,
+              "name": "MAST",
+              "description": "Foundation for art, research and industry with excellent photography gallery"
+            },
+            {
+              "rank": 9,
+              "name": "San Luca Basilica",
+              "description": "Hilltop baroque basilica reached via the world's longest portico of 666 arches"
+            },
+            {
+              "rank": 10,
+              "name": "Giardini Margherita",
+              "description": "Spacious 19th-century English-style park, favourite weekend destination for Bolognesi"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Stuttgart": {
+        "city": "Stuttgart",
+        "country": "Germany",
+        "iata": "STR",
+        "lat": "48.6891",
+        "lon": "9.221",
+        "stadium": "",
+        "attractionsFile": "stuttgart.json",
+        "attractions": {
+          "city": "Stuttgart",
+          "country": "Germany",
+          "airportPostcode": "70629",
+          "airportDistanceKm": 14,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Mercedes-Benz Museum",
+              "description": "Nine floors of automotive history in a stunning double-helix building"
+            },
+            {
+              "rank": 2,
+              "name": "Porsche Museum",
+              "description": "Sleek white museum showcasing the full history of the iconic sports car brand"
+            },
+            {
+              "rank": 3,
+              "name": "Staatsgalerie Stuttgart",
+              "description": "Outstanding art museum with James Stirling's postmodern extension and Dix masterpieces"
+            },
+            {
+              "rank": 4,
+              "name": "Wilhelma Zoo & Botanical Garden",
+              "description": "Germany's only combined zoological and botanical garden in Moorish Revival buildings"
+            },
+            {
+              "rank": 5,
+              "name": "Schlossplatz",
+              "description": "Central square with the New Palace, the Jubilee Column and surrounding green space"
+            },
+            {
+              "rank": 6,
+              "name": "Stuttgart Weissenhof Estate",
+              "description": "UNESCO World Heritage Modernist housing exhibition of 1927 by Mies van der Rohe and others"
+            },
+            {
+              "rank": 7,
+              "name": "Fernsehturm Stuttgart",
+              "description": "World's first television tower in concrete, built 1956, with observation deck"
+            },
+            {
+              "rank": 8,
+              "name": "Altes Schloss",
+              "description": "Renaissance palace in the city centre housing the Wurttembergisches Landesmuseum"
+            },
+            {
+              "rank": 9,
+              "name": "Stuttgart Vineyards",
+              "description": "Terraced vineyard hillsides within the city limits producing excellent Trollinger wine"
+            },
+            {
+              "rank": 10,
+              "name": "Stuttgarter Weindorf",
+              "description": "Famous annual wine festival with hundreds of Wurttemberg wines in the pedestrian zone"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Red Star Belgrade": {
+        "city": "Belgrade",
+        "country": "Serbia",
+        "iata": "BEG",
+        "lat": "44.8184",
+        "lon": "20.2781",
+        "stadium": "",
+        "attractionsFile": "belgrade.json",
+        "attractions": {
+          "city": "Belgrade",
+          "country": "Serbia",
+          "airportPostcode": "11180",
+          "airportDistanceKm": 18,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Belgrade Fortress (Kalemegdan)",
+              "description": "Ancient fortress at the confluence of the Sava and Danube with 2,300 years of history"
+            },
+            {
+              "rank": 2,
+              "name": "Skadarlija",
+              "description": "Cobbled Bohemian quarter - Belgrade's Montmartre - with traditional kafanas and live music"
+            },
+            {
+              "rank": 3,
+              "name": "St Sava Temple",
+              "description": "One of the world's largest Orthodox churches with a glittering Byzantine mosaic interior"
+            },
+            {
+              "rank": 4,
+              "name": "Ada Ciganlija",
+              "description": "River island turned peninsula - Belgrade's beloved summer beach on the Sava"
+            },
+            {
+              "rank": 5,
+              "name": "Nikola Tesla Museum",
+              "description": "Personal artefacts and working demos at the museum dedicated to the genius inventor"
+            },
+            {
+              "rank": 6,
+              "name": "Zemun",
+              "description": "Historic Austro-Hungarian town absorbed into Belgrade with its old tower and fish restaurants"
+            },
+            {
+              "rank": 7,
+              "name": "Republic Square",
+              "description": "Belgrade's central square with the National Museum and National Theatre"
+            },
+            {
+              "rank": 8,
+              "name": "Belgrade Nightlife",
+              "description": "World-famous clubbing scene on floating river rafts (splavovi) on the Danube and Sava"
+            },
+            {
+              "rank": 9,
+              "name": "Princess Ljubica's Residence",
+              "description": "Early 19th-century Balkan baroque palace of the Serbian royal family"
+            },
+            {
+              "rank": 10,
+              "name": "Dorcol",
+              "description": "Trendy neighbourhood with galleries, craft beer bars and the best coffee in Belgrade"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Slovan Bratislava": {
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "iata": "BTS",
+        "lat": "48.1694",
+        "lon": "17.2072",
+        "stadium": "",
+        "attractionsFile": "bratislava.json",
+        "attractions": {
+          "city": "Bratislava",
+          "country": "Slovakia",
+          "airportPostcode": "823 11",
+          "airportDistanceKm": 12,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Bratislava Castle",
+              "description": "Iconic four-towered castle dominating the Danube with Slovak National Museum inside"
+            },
+            {
+              "rank": 2,
+              "name": "Old Town (Stare Mesto)",
+              "description": "Compact pedestrian old town with baroque palaces, cafes and quirky bronze statues"
+            },
+            {
+              "rank": 3,
+              "name": "St Martin's Cathedral",
+              "description": "Gothic cathedral where 19 Habsburg monarchs were crowned as Hungarian kings"
+            },
+            {
+              "rank": 4,
+              "name": "Devin Castle",
+              "description": "Dramatic clifftop castle ruin at the confluence of the Danube and Morava rivers"
+            },
+            {
+              "rank": 5,
+              "name": "UFO Bridge (New Bridge)",
+              "description": "Flying saucer-shaped restaurant and observation deck atop the Danube bridge"
+            },
+            {
+              "rank": 6,
+              "name": "Blue Church",
+              "description": "Enchanting Art Nouveau church of St Elisabeth covered entirely in powder blue"
+            },
+            {
+              "rank": 7,
+              "name": "Slovak National Theatre",
+              "description": "Opulent neo-Baroque opera house on Hviezdoslav Square"
+            },
+            {
+              "rank": 8,
+              "name": "Slovak National Gallery",
+              "description": "Slovakia's largest gallery with a striking 1970s extension on the Danube embankment"
+            },
+            {
+              "rank": 9,
+              "name": "Slavin Memorial",
+              "description": "Soviet war memorial with panoramic views over the city from the hilltop"
+            },
+            {
+              "rank": 10,
+              "name": "Grassalkovich Palace",
+              "description": "Baroque palace and official residence of Slovakia's president with public gardens"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Borussia Dortmund": {
+        "city": "Dortmund",
+        "country": "Germany",
+        "iata": "DTM",
+        "lat": "51.5136",
+        "lon": "7.6161",
+        "stadium": "",
+        "attractionsFile": "dortmund.json",
+        "attractions": {
+          "city": "Dortmund",
+          "country": "Germany",
+          "airportPostcode": "44379",
+          "airportDistanceKm": 10,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Signal Iduna Park",
+              "description": "Europe's largest football stadium by capacity, home of Borussia Dortmund"
+            },
+            {
+              "rank": 2,
+              "name": "Deutsches Fussballmuseum",
+              "description": "German Football Museum celebrating the history of the national team and Bundesliga"
+            },
+            {
+              "rank": 3,
+              "name": "Dortmund U",
+              "description": "Former Dortmunder Union brewery converted to a creative art and culture centre"
+            },
+            {
+              "rank": 4,
+              "name": "Westpark",
+              "description": "Industrial heritage park on the site of the former Hoesch steelworks"
+            },
+            {
+              "rank": 5,
+              "name": "Phoenix Lake",
+              "description": "Artificial lake on the site of a former steel plant with waterside promenade"
+            },
+            {
+              "rank": 6,
+              "name": "Museum Ostwall im Dortmunder U",
+              "description": "Modern and contemporary art collection focussing on Fluxus and concept art"
+            },
+            {
+              "rank": 7,
+              "name": "Florianturm",
+              "description": "220-metre telecommunications tower with observation deck and revolving restaurant"
+            },
+            {
+              "rank": 8,
+              "name": "Zollern Colliery",
+              "description": "Museum at a beautifully preserved Art Nouveau colliery celebrating the Ruhr mining era"
+            },
+            {
+              "rank": 9,
+              "name": "Botanical Garden",
+              "description": "20-hectare garden with themed areas including Japanese garden and rose collection"
+            },
+            {
+              "rank": 10,
+              "name": "Old Market Square",
+              "description": "Historic market with the Reinoldikirche and traditional Dortmund beer culture"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Atletico Madrid": {
+        "city": "Madrid",
+        "country": "Spain",
+        "iata": "MAD",
+        "lat": "40.4719",
+        "lon": "-3.6309",
+        "stadium": "",
+        "attractionsFile": "madrid.json",
+        "attractions": {
+          "city": "Madrid",
+          "country": "Spain",
+          "airportPostcode": "28042",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Prado Museum",
+              "description": "One of the world's greatest art museums with Velazquez, Goya and Bosch masterpieces"
+            },
+            {
+              "rank": 2,
+              "name": "Royal Palace of Madrid",
+              "description": "Official residence of the Spanish Royal Family, the largest palace in Western Europe"
+            },
+            {
+              "rank": 3,
+              "name": "Reina Sofia Museum",
+              "description": "Spain's national museum of 20th-century art featuring Picasso's Guernica"
+            },
+            {
+              "rank": 4,
+              "name": "Retiro Park",
+              "description": "350-acre former royal garden with lake, glass palace and rose garden"
+            },
+            {
+              "rank": 5,
+              "name": "Thyssen-Bornemisza Museum",
+              "description": "Extraordinary private art collection spanning 800 years of Western art"
+            },
+            {
+              "rank": 6,
+              "name": "Gran Via",
+              "description": "Madrid's most famous boulevard with iconic early 20th-century architecture"
+            },
+            {
+              "rank": 7,
+              "name": "Plaza Mayor",
+              "description": "Grand 17th-century arcaded square, heart of Habsburg Madrid"
+            },
+            {
+              "rank": 8,
+              "name": "Temple of Debod",
+              "description": "Authentic Egyptian temple donated by Egypt, now with sunset views over the city"
+            },
+            {
+              "rank": 9,
+              "name": "Santiago Bernabeu Stadium",
+              "description": "Home of Real Madrid with museum and 360-degree roof tour"
+            },
+            {
+              "rank": 10,
+              "name": "Puerta del Sol",
+              "description": "Vibrant central square and kilometre zero of Spain's road network"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Real Madrid": {
+        "city": "Madrid",
+        "country": "Spain",
+        "iata": "MAD",
+        "lat": "40.4719",
+        "lon": "-3.6309",
+        "stadium": "",
+        "attractionsFile": "madrid.json",
+        "attractions": {
+          "city": "Madrid",
+          "country": "Spain",
+          "airportPostcode": "28042",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Prado Museum",
+              "description": "One of the world's greatest art museums with Velazquez, Goya and Bosch masterpieces"
+            },
+            {
+              "rank": 2,
+              "name": "Royal Palace of Madrid",
+              "description": "Official residence of the Spanish Royal Family, the largest palace in Western Europe"
+            },
+            {
+              "rank": 3,
+              "name": "Reina Sofia Museum",
+              "description": "Spain's national museum of 20th-century art featuring Picasso's Guernica"
+            },
+            {
+              "rank": 4,
+              "name": "Retiro Park",
+              "description": "350-acre former royal garden with lake, glass palace and rose garden"
+            },
+            {
+              "rank": 5,
+              "name": "Thyssen-Bornemisza Museum",
+              "description": "Extraordinary private art collection spanning 800 years of Western art"
+            },
+            {
+              "rank": 6,
+              "name": "Gran Via",
+              "description": "Madrid's most famous boulevard with iconic early 20th-century architecture"
+            },
+            {
+              "rank": 7,
+              "name": "Plaza Mayor",
+              "description": "Grand 17th-century arcaded square, heart of Habsburg Madrid"
+            },
+            {
+              "rank": 8,
+              "name": "Temple of Debod",
+              "description": "Authentic Egyptian temple donated by Egypt, now with sunset views over the city"
+            },
+            {
+              "rank": 9,
+              "name": "Santiago Bernabeu Stadium",
+              "description": "Home of Real Madrid with museum and 360-degree roof tour"
+            },
+            {
+              "rank": 10,
+              "name": "Puerta del Sol",
+              "description": "Vibrant central square and kilometre zero of Spain's road network"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "RB Leipzig": {
+        "city": "Leipzig",
+        "country": "Germany",
+        "iata": "LEJ",
+        "lat": "51.4186",
+        "lon": "12.2217",
+        "stadium": "",
+        "attractionsFile": "leipzig.json",
+        "attractions": {
+          "city": "Leipzig",
+          "country": "Germany",
+          "airportPostcode": "04435",
+          "airportDistanceKm": 18,
+          "things": [
+            {
+              "rank": 1,
+              "name": "St Thomas Church",
+              "description": "Bach's church where he served as cantor, with his tomb and the world-famous boys' choir"
+            },
+            {
+              "rank": 2,
+              "name": "Gewandhaus Concert Hall",
+              "description": "World-renowned concert hall with one of the oldest professional orchestras in the world"
+            },
+            {
+              "rank": 3,
+              "name": "Monument to the Battle of Nations",
+              "description": "Colossal 91-metre memorial to the 1813 victory over Napoleon with panoramic views"
+            },
+            {
+              "rank": 4,
+              "name": "Leipzig Zoo",
+              "description": "One of Europe's finest zoos with the spectacular Gondwanaland tropical hall"
+            },
+            {
+              "rank": 5,
+              "name": "Mädler Passage",
+              "description": "Art Nouveau arcade with Auerbachs Keller, where Goethe set a scene in Faust"
+            },
+            {
+              "rank": 6,
+              "name": "Clara-Zetkin-Park",
+              "description": "Leipzig's beloved inner-city park with meadows, ponds and the Rose Garden"
+            },
+            {
+              "rank": 7,
+              "name": "Museum of Fine Arts",
+              "description": "Outstanding collection of German and Dutch Old Masters and Expressionism"
+            },
+            {
+              "rank": 8,
+              "name": "Stasi Museum",
+              "description": "Former GDR secret police headquarters revealing the apparatus of surveillance"
+            },
+            {
+              "rank": 9,
+              "name": "Nikolaikirche",
+              "description": "Church where the Monday demonstrations began in 1989, leading to German reunification"
+            },
+            {
+              "rank": 10,
+              "name": "Connewitz & Plagwitz",
+              "description": "Vibrant alternative neighbourhoods with galleries, bars and the creative scene"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Sparta Prague": {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "iata": "PRG",
+        "lat": "50.0008",
+        "lon": "14.2678",
+        "stadium": "",
+        "attractionsFile": "prague.json",
+        "attractions": {
+          "city": "Prague",
+          "country": "Czech Republic",
+          "airportPostcode": "160 08",
+          "airportDistanceKm": 17,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Prague Castle",
+              "description": "World's largest ancient castle complex with St Vitus Cathedral and royal palaces"
+            },
+            {
+              "rank": 2,
+              "name": "Charles Bridge",
+              "description": "Gothic stone bridge with 30 Baroque statues spanning the Vltava river"
+            },
+            {
+              "rank": 3,
+              "name": "Old Town Square & Astronomical Clock",
+              "description": "Vibrant medieval square with the 600-year-old Orloj clock and Gothic church towers"
+            },
+            {
+              "rank": 4,
+              "name": "Josefov (Jewish Quarter)",
+              "description": "Europe's best-preserved Jewish quarter with six synagogues and the Old Jewish Cemetery"
+            },
+            {
+              "rank": 5,
+              "name": "Wenceslas Square",
+              "description": "Historic boulevard site of the 1989 Velvet Revolution with National Museum"
+            },
+            {
+              "rank": 6,
+              "name": "Petrin Hill & Funicular",
+              "description": "Green hill with a miniature Eiffel Tower, mirror maze and panoramic city views"
+            },
+            {
+              "rank": 7,
+              "name": "Vysehrad",
+              "description": "Ancient fortress with stunning Romanesque rotunda and the national cemetery"
+            },
+            {
+              "rank": 8,
+              "name": "St Vitus Cathedral",
+              "description": "Gothic cathedral housing the Bohemian Crown Jewels and 21 chapels"
+            },
+            {
+              "rank": 9,
+              "name": "National Museum",
+              "description": "Neo-Renaissance palace at the top of Wenceslas Square with natural history collections"
+            },
+            {
+              "rank": 10,
+              "name": "Czech Beer Culture",
+              "description": "Home of Pilsner Urquell - explore historic beer halls, micro-breweries and cellar bars"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Riga FC": {
+        "city": "Riga",
+        "country": "Latvia",
+        "iata": "RIX",
+        "lat": "56.9239",
+        "lon": "23.9711",
+        "stadium": "",
+        "attractionsFile": "riga.json",
+        "attractions": {
+          "city": "Riga",
+          "country": "Latvia",
+          "airportPostcode": "LV-1053",
+          "airportDistanceKm": 13,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Riga Old Town (Vecrīga)",
+              "description": "UNESCO World Heritage medieval city centre with Gothic churches and merchant guild houses"
+            },
+            {
+              "rank": 2,
+              "name": "Art Nouveau Architecture",
+              "description": "Riga has more Art Nouveau buildings than any other city in Europe, centred on Alberta Street"
+            },
+            {
+              "rank": 3,
+              "name": "Central Market",
+              "description": "Europe's largest market in five converted Zeppelin hangars with local produce and crafts"
+            },
+            {
+              "rank": 4,
+              "name": "Latvian Ethnographic Open-Air Museum",
+              "description": "87-hectare museum with 118 rural buildings from across Latvia"
+            },
+            {
+              "rank": 5,
+              "name": "Riga Cathedral (Dome)",
+              "description": "The largest medieval church in the Baltic States with the world's fourth-largest organ"
+            },
+            {
+              "rank": 6,
+              "name": "Freedom Monument",
+              "description": "Symbol of Latvian independence with guards changing on the hour"
+            },
+            {
+              "rank": 7,
+              "name": "Riga Castle",
+              "description": "Medieval Order castle now housing three national museums including the History Museum of Latvia"
+            },
+            {
+              "rank": 8,
+              "name": "Latvian National Opera",
+              "description": "Classic neoclassical opera house offering world-class performances at affordable prices"
+            },
+            {
+              "rank": 9,
+              "name": "Museum of the Occupation of Latvia",
+              "description": "Moving museum on Latvia's Soviet and Nazi occupations 1940-1991"
+            },
+            {
+              "rank": 10,
+              "name": "Rundale Palace",
+              "description": "Magnificent Baroque-Rococo palace nicknamed the Versailles of Latvia, an 80km day trip"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Sarajevo": {
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "iata": "SJJ",
+        "lat": "43.8163",
+        "lon": "18.3911",
+        "stadium": "",
+        "attractionsFile": "sarajevo.json",
+        "attractions": {
+          "city": "Sarajevo",
+          "country": "Bosnia and Herzegovina",
+          "airportPostcode": "71210",
+          "airportDistanceKm": 9,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Bascarsija Bazaar",
+              "description": "Ottoman bazaar at the heart of Sarajevo with coppersmith workshops and the famous Sebilj fountain"
+            },
+            {
+              "rank": 2,
+              "name": "Latin Bridge",
+              "description": "Ottoman bridge where Archduke Franz Ferdinand was assassinated, triggering World War I"
+            },
+            {
+              "rank": 3,
+              "name": "Gazi Husrev-beg Mosque",
+              "description": "Most important Ottoman-era mosque in the Balkans, built in 1531"
+            },
+            {
+              "rank": 4,
+              "name": "Sarajevo War Tunnel Museum",
+              "description": "Tunnel used to supply besieged Sarajevo during the 1992-95 siege"
+            },
+            {
+              "rank": 5,
+              "name": "Old Town (Stari Grad)",
+              "description": "Where East meets West - Catholic, Orthodox, Muslim and Jewish buildings within metres"
+            },
+            {
+              "rank": 6,
+              "name": "City Hall (Vijecnica)",
+              "description": "Magnificent pseudo-Moorish building destroyed in the siege and gloriously restored"
+            },
+            {
+              "rank": 7,
+              "name": "Yellow Fortress (Zuta Tabija)",
+              "description": "Ottoman fortress ruins with the best panoramic views over Sarajevo"
+            },
+            {
+              "rank": 8,
+              "name": "National Museum of Bosnia",
+              "description": "Country's oldest and largest museum with the priceless 14th-century Sarajevo Haggadah"
+            },
+            {
+              "rank": 9,
+              "name": "Sacred Heart Cathedral",
+              "description": "Neo-Gothic Catholic cathedral with the finest ecclesiastical interior in Sarajevo"
+            },
+            {
+              "rank": 10,
+              "name": "Avaz Twist Tower",
+              "description": "Striking 176m glass-and-steel skyscraper with an observation deck over the city"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Copenhagen": {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "iata": "CPH",
+        "lat": "55.6181",
+        "lon": "12.6561",
+        "stadium": "",
+        "attractionsFile": "copenhagen.json",
+        "attractions": {
+          "city": "Copenhagen",
+          "country": "Denmark",
+          "airportPostcode": "2770",
+          "airportDistanceKm": 13,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Tivoli Gardens",
+              "description": "Enchanting 19th-century amusement park and pleasure garden in the city centre"
+            },
+            {
+              "rank": 2,
+              "name": "Nyhavn",
+              "description": "Colourful 17th-century waterfront canal lined with brightly painted townhouses and cafes"
+            },
+            {
+              "rank": 3,
+              "name": "The Little Mermaid",
+              "description": "Hans Christian Andersen's beloved bronze statue on a rock in the harbour since 1913"
+            },
+            {
+              "rank": 4,
+              "name": "Rosenborg Castle",
+              "description": "Dutch Renaissance castle housing the Danish Crown Jewels and royal regalia"
+            },
+            {
+              "rank": 5,
+              "name": "National Museum of Denmark",
+              "description": "Denmark's largest museum covering Danish prehistory and Viking Age"
+            },
+            {
+              "rank": 6,
+              "name": "Christiania",
+              "description": "Freetown Christiania - autonomous neighbourhood with car-free streets and alternative culture"
+            },
+            {
+              "rank": 7,
+              "name": "Louisiana Museum of Modern Art",
+              "description": "World-class modern art in a stunning coastal setting 35km north of the city"
+            },
+            {
+              "rank": 8,
+              "name": "Strolling Stroget",
+              "description": "One of Europe's longest pedestrian shopping streets from City Hall to Kongens Nytorv"
+            },
+            {
+              "rank": 9,
+              "name": "Copenhagen Zoo",
+              "description": "One of Europe's oldest zoos with 3,000 animals including giant pandas"
+            },
+            {
+              "rank": 10,
+              "name": "Designmuseum Danmark",
+              "description": "Denmark's premier design museum charting 300 years of design and applied arts"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "AC Milan": {
+        "city": "Milan",
+        "country": "Italy",
+        "iata": "MXP",
+        "lat": "45.6306",
+        "lon": "8.7281",
+        "stadium": "",
+        "attractionsFile": "milan.json",
+        "attractions": {
+          "city": "Milan",
+          "country": "Italy",
+          "airportPostcode": "21010",
+          "airportDistanceKm": 50,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Duomo di Milano",
+              "description": "World's largest Gothic cathedral with 3,400 statues and rooftop terrace views"
+            },
+            {
+              "rank": 2,
+              "name": "The Last Supper",
+              "description": "Leonardo da Vinci's iconic mural in the refectory of Santa Maria delle Grazie"
+            },
+            {
+              "rank": 3,
+              "name": "Galleria Vittorio Emanuele II",
+              "description": "Magnificent 1877 iron-and-glass arcade with luxury boutiques and historic cafes"
+            },
+            {
+              "rank": 4,
+              "name": "Sforza Castle (Castello Sforzesco)",
+              "description": "Massive 15th-century castle housing important museums and Michelangelo's final Pieta"
+            },
+            {
+              "rank": 5,
+              "name": "Pinacoteca di Brera",
+              "description": "Northern Italy's finest art museum with Raphael, Mantegna and Caravaggio"
+            },
+            {
+              "rank": 6,
+              "name": "La Scala Opera House",
+              "description": "World's most famous opera house with a museum open year-round"
+            },
+            {
+              "rank": 7,
+              "name": "Navigli Canals",
+              "description": "19th-century canal district with aperitivo bars, vintage markets and street art"
+            },
+            {
+              "rank": 8,
+              "name": "Quadrilatero della Moda",
+              "description": "World's most exclusive fashion shopping district with Prada, Gucci and Versace"
+            },
+            {
+              "rank": 9,
+              "name": "Parco Sempione",
+              "description": "Milan's favourite park with the Triennale design museum and Torre Branca"
+            },
+            {
+              "rank": 10,
+              "name": "Pinacoteca Ambrosiana",
+              "description": "Leonardo da Vinci's Atlantic Codex and Raphael's School of Athens cartoon"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "RB Salzburg": {
+        "city": "Sal",
+        "country": "Cape Verde",
+        "iata": "SID",
+        "lat": "16.7414",
+        "lon": "-22.9494",
+        "stadium": "",
+        "attractionsFile": "sal.json",
+        "attractions": {
+          "city": "Sal",
+          "country": "Cape Verde",
+          "airportPostcode": "7600",
+          "airportDistanceKm": 2,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Santa Maria Beach",
+              "description": "Stunning turquoise bay with white sand - Cape Verde's most popular resort beach"
+            },
+            {
+              "rank": 2,
+              "name": "Windsurfing & Kitesurfing",
+              "description": "Sal's constant trade winds make it one of the world's best wind sports destinations"
+            },
+            {
+              "rank": 3,
+              "name": "Pedra de Lume Salt Lake",
+              "description": "Crater lake of pink salt - float like the Dead Sea and have a natural salt scrub"
+            },
+            {
+              "rank": 4,
+              "name": "Shark Bay Snorkelling",
+              "description": "Reef snorkelling with nurse sharks, rays and sea turtles"
+            },
+            {
+              "rank": 5,
+              "name": "Espargos Market",
+              "description": "Sal's main town market with Cape Verdean music, grogue rum and local crafts"
+            },
+            {
+              "rank": 6,
+              "name": "Murdeira Bay",
+              "description": "Dramatic bay with sea caves, cliffs and excellent diving on the north coast"
+            },
+            {
+              "rank": 7,
+              "name": "Baby Hatchery (Sea Turtle Project)",
+              "description": "Visit the loggerhead sea turtle hatchery - Sal has the second largest nesting site in Africa"
+            },
+            {
+              "rank": 8,
+              "name": "Fogo Volcano Day Trip",
+              "description": "Fly to Fogo island to hike the active 2,829m volcano"
+            },
+            {
+              "rank": 9,
+              "name": "Santiago Island (Cidade Velha)",
+              "description": "UNESCO World Heritage first European city in the tropics"
+            },
+            {
+              "rank": 10,
+              "name": "Cachupa Stew",
+              "description": "Cape Verde's national dish - slow-cooked corn, beans and whatever meat is available"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Valencia": {
+        "city": "Valencia",
+        "country": "Spain",
+        "iata": "VLC",
+        "lat": "39.4897",
+        "lon": "-0.4814",
+        "stadium": "",
+        "attractionsFile": "valencia.json",
+        "attractions": {
+          "city": "Valencia",
+          "country": "Spain",
+          "airportPostcode": "46940",
+          "airportDistanceKm": 13,
+          "things": [
+            {
+              "rank": 1,
+              "name": "City of Arts and Sciences",
+              "description": "Santiago Calatrava's futuristic complex with opera house, science museum and oceanarium"
+            },
+            {
+              "rank": 2,
+              "name": "Valencia Cathedral",
+              "description": "Gothic cathedral claiming to house the Holy Grail in the Capilla del Santo Caliz"
+            },
+            {
+              "rank": 3,
+              "name": "La Lonja de la Seda",
+              "description": "UNESCO World Heritage late-Gothic silk exchange, a masterpiece of civil architecture"
+            },
+            {
+              "rank": 4,
+              "name": "Central Market",
+              "description": "Europe's largest fresh produce market under a modernist tile and ironwork dome"
+            },
+            {
+              "rank": 5,
+              "name": "Turia Gardens",
+              "description": "9km linear park in the former river bed with sports facilities and children's attractions"
+            },
+            {
+              "rank": 6,
+              "name": "Malvarrosa Beach",
+              "description": "Fine sandy beach with promenade restaurants specialising in authentic Valencian paella"
+            },
+            {
+              "rank": 7,
+              "name": "Barrio del Carmen",
+              "description": "Historic bohemian quarter with Roman walls, medieval towers and vibrant nightlife"
+            },
+            {
+              "rank": 8,
+              "name": "Bioparc Valencia",
+              "description": "Innovative zoo recreating African ecosystems with immersive animal encounters"
+            },
+            {
+              "rank": 9,
+              "name": "Albufera Natural Park",
+              "description": "Lagoon and rice paddies where Valencian paella was invented, just 10km from the city"
+            },
+            {
+              "rank": 10,
+              "name": "IVAM",
+              "description": "Institut Valencia d'Art Modern, the region's leading contemporary art museum"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "AEK Athens": {
+        "city": "Athens",
+        "country": "Greece",
+        "iata": "ATH",
+        "lat": "37.9364",
+        "lon": "23.9445",
+        "stadium": "",
+        "attractionsFile": "athens.json",
+        "attractions": {
+          "city": "Athens",
+          "country": "Greece",
+          "airportPostcode": "190 04",
+          "airportDistanceKm": 37,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Acropolis & Parthenon",
+              "description": "UNESCO World Heritage hilltop citadel with the 2,500-year-old Parthenon temple"
+            },
+            {
+              "rank": 2,
+              "name": "Acropolis Museum",
+              "description": "World-class museum displaying the Parthenon sculptures with views up to the rock"
+            },
+            {
+              "rank": 3,
+              "name": "National Archaeological Museum",
+              "description": "World's finest collection of ancient Greek art including the Antikythera Mechanism"
+            },
+            {
+              "rank": 4,
+              "name": "Ancient Agora",
+              "description": "Ancient marketplace with the remarkably preserved Temple of Hephaestus"
+            },
+            {
+              "rank": 5,
+              "name": "Monastiraki",
+              "description": "Vibrant flea market district at the foot of the Acropolis with cafes and bazaars"
+            },
+            {
+              "rank": 6,
+              "name": "Plaka",
+              "description": "Charming old neighbourhood of neoclassical houses at the base of the Acropolis"
+            },
+            {
+              "rank": 7,
+              "name": "Temple of Olympian Zeus",
+              "description": "Colossal ruins of the ancient world's largest temple, begun in 515 BC"
+            },
+            {
+              "rank": 8,
+              "name": "Syntagma Square",
+              "description": "Central square with the Parliament and the Changing of the Evzone Guards ceremony"
+            },
+            {
+              "rank": 9,
+              "name": "Panathenaic Stadium",
+              "description": "Marble stadium that hosted the first modern Olympic Games in 1896"
+            },
+            {
+              "rank": 10,
+              "name": "Cape Sounion & Temple of Poseidon",
+              "description": "Dramatic clifftop temple at the southernmost tip of Attica with Aegean Sea views"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Zenit St Petersburg": {
+        "city": "St Petersburg",
+        "country": "Russia",
+        "iata": "LED",
+        "lat": "59.8003",
+        "lon": "30.2625",
+        "stadium": "",
+        "attractionsFile": "st_petersburg.json",
+        "attractions": {
+          "city": "St Petersburg",
+          "country": "Russia",
+          "airportPostcode": "196140",
+          "airportDistanceKm": 23,
+          "things": [
+            {
+              "rank": 1,
+              "name": "The Hermitage Museum",
+              "description": "One of the world's greatest art museums in the Winter Palace with 3 million works across 1,000 rooms"
+            },
+            {
+              "rank": 2,
+              "name": "Peterhof Palace & Grand Cascade",
+              "description": "The 'Russian Versailles' with 150 fountains and golden statues in gardens on the Gulf of Finland"
+            },
+            {
+              "rank": 3,
+              "name": "Church of the Saviour on Spilled Blood",
+              "description": "Stunning 1883 Russian Revival church built on the spot where Tsar Alexander II was assassinated"
+            },
+            {
+              "rank": 4,
+              "name": "White Nights",
+              "description": "St Petersburg's magical midsummer phenomenon when the sun barely sets and bridges open at night"
+            },
+            {
+              "rank": 5,
+              "name": "Peter and Paul Fortress",
+              "description": "1703 fortress housing the Cathedral where Russian tsars from Peter the Great are buried"
+            },
+            {
+              "rank": 6,
+              "name": "Mariinsky Theatre",
+              "description": "Russia's most celebrated opera and ballet theatre - home of Nureyev, Pavlova and Baryshnikov"
+            },
+            {
+              "rank": 7,
+              "name": "Catherine Palace & Amber Room",
+              "description": "Baroque palace at Tsarskoe Selo with the world-famous Amber Room and formal gardens"
+            },
+            {
+              "rank": 8,
+              "name": "Nevsky Prospekt",
+              "description": "St Petersburg's grand main avenue with the Kazan Cathedral, Grand Hotel Europe and Palkin restaurant"
+            },
+            {
+              "rank": 9,
+              "name": "Russian Museum",
+              "description": "World's largest collection of Russian art in the Mikhailovsky Palace"
+            },
+            {
+              "rank": 10,
+              "name": "Vasilyevsky Island",
+              "description": "Historic island district with the Rostral Columns, Exchange and the charming 18th Line cafes"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Manchester City": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": "53.3635",
+        "lon": "-2.2743",
+        "stadium": "",
+        "attractionsFile": "manchester.json",
+        "attractions": {
+          "city": "Manchester",
+          "country": "United Kingdom",
+          "airportPostcode": "M90 1QX",
+          "airportDistanceKm": 14,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Old Trafford",
+              "description": "Iconic home of Manchester United FC, the Theatre of Dreams"
+            },
+            {
+              "rank": 2,
+              "name": "Science and Industry Museum",
+              "description": "Fascinating museum on the site of the world's oldest passenger railway station"
+            },
+            {
+              "rank": 3,
+              "name": "Manchester Art Gallery",
+              "description": "Outstanding collection of fine and decorative art in a stunning neoclassical building"
+            },
+            {
+              "rank": 4,
+              "name": "Northern Quarter",
+              "description": "Bohemian neighbourhood packed with independent shops, bars and street art"
+            },
+            {
+              "rank": 5,
+              "name": "John Rylands Library",
+              "description": "Victorian neo-Gothic library housing a world-class collection of rare books and manuscripts"
+            },
+            {
+              "rank": 6,
+              "name": "Castlefield",
+              "description": "Urban heritage park with Roman fort remains, canals and Victorian warehouses"
+            },
+            {
+              "rank": 7,
+              "name": "Manchester Cathedral",
+              "description": "Medieval cathedral in the city centre with remarkable choir stalls and angel sculptures"
+            },
+            {
+              "rank": 8,
+              "name": "Etihad Stadium",
+              "description": "Home of Manchester City FC with guided stadium and trophy room tours"
+            },
+            {
+              "rank": 9,
+              "name": "The Whitworth",
+              "description": "Award-winning art gallery in Whitworth Park blending art, landscape and community"
+            },
+            {
+              "rank": 10,
+              "name": "Museum of Science & Industry",
+              "description": "Celebrating Manchester's pivotal role in the Industrial Revolution"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Astana": {
+        "city": "Astana",
+        "country": "Kazakhstan",
+        "iata": "NQZ",
+        "lat": "51.0228",
+        "lon": "71.4669",
+        "stadium": "",
+        "attractionsFile": "astana.json",
+        "attractions": {
+          "city": "Astana",
+          "country": "Kazakhstan",
+          "airportPostcode": "010000",
+          "airportDistanceKm": 15,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Nur-Alem Pavilion (Expo 2017)",
+              "description": "World's largest spherical building - a glass globe housing a museum of future energy"
+            },
+            {
+              "rank": 2,
+              "name": "Baiterek Tower",
+              "description": "105m landmark tower representing the Tree of Life with a golden orb and city views"
+            },
+            {
+              "rank": 3,
+              "name": "Khan Shatyr Entertainment Centre",
+              "description": "Norman Foster's transparent tent-shaped mall with an indoor beach resort"
+            },
+            {
+              "rank": 4,
+              "name": "Palace of Peace and Reconciliation",
+              "description": "Norman Foster's glass pyramid hosting interfaith dialogues with a 1,500-seat opera house"
+            },
+            {
+              "rank": 5,
+              "name": "National Museum of Kazakhstan",
+              "description": "Kazakhstan's largest museum telling the story of the Kazakh steppe and Golden Horde"
+            },
+            {
+              "rank": 6,
+              "name": "Nur-Sultan Grand Mosque",
+              "description": "Gleaming new mosque - one of Central Asia's largest with 30,000 capacity"
+            },
+            {
+              "rank": 7,
+              "name": "Nurzhol Boulevard",
+              "description": "Grand central boulevard lined with Akorda Presidential Palace and government buildings"
+            },
+            {
+              "rank": 8,
+              "name": "Hazrat Sultan Mosque",
+              "description": "Kazakhstan's largest mosque with four minarets and gold domes"
+            },
+            {
+              "rank": 9,
+              "name": "Singing Fountain (Tsentralny Park)",
+              "description": "Central park with a famous musical fountain show and cable car"
+            },
+            {
+              "rank": 10,
+              "name": "MEGA Shopping Mall Ice Rink",
+              "description": "Year-round outdoor ice rink and entertainment complex"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Bayern Munich": {
+        "city": "Munich",
+        "country": "Germany",
+        "iata": "MUC",
+        "lat": "48.3538",
+        "lon": "11.7861",
+        "stadium": "",
+        "attractionsFile": "munich.json",
+        "attractions": {
+          "city": "Munich",
+          "country": "Germany",
+          "airportPostcode": "85356",
+          "airportDistanceKm": 35,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Marienplatz & Glockenspiel",
+              "description": "Central square with the neo-Gothic New Town Hall and its famous carillon"
+            },
+            {
+              "rank": 2,
+              "name": "Deutsches Museum",
+              "description": "World's largest science and technology museum with over 28,000 exhibits"
+            },
+            {
+              "rank": 3,
+              "name": "Nymphenburg Palace",
+              "description": "Magnificent Baroque summer residence of the Wittelsbachs with vast formal gardens"
+            },
+            {
+              "rank": 4,
+              "name": "English Garden",
+              "description": "Vast urban park larger than Central Park with a famous surfing wave on the Eisbach"
+            },
+            {
+              "rank": 5,
+              "name": "BMW Museum & World",
+              "description": "Four-bowl museum showcasing BMW's design history next to the four-cylinder headquarters"
+            },
+            {
+              "rank": 6,
+              "name": "Alte Pinakothek",
+              "description": "Outstanding collection of European Old Masters from the 14th to 18th centuries"
+            },
+            {
+              "rank": 7,
+              "name": "Hofbrauhaus",
+              "description": "World-famous beer hall founded in 1589 by Duke Wilhelm V of Bavaria"
+            },
+            {
+              "rank": 8,
+              "name": "Oktoberfest Grounds",
+              "description": "Site of the world's largest folk festival, the Theresienwiese or Wiesn"
+            },
+            {
+              "rank": 9,
+              "name": "Viktualienmarkt",
+              "description": "Permanent open-air food market in the heart of the old town since 1807"
+            },
+            {
+              "rank": 10,
+              "name": "Residenz",
+              "description": "Largest urban palace in Germany with ten centuries of Wittelsbach art treasures"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Barcelona": {
+        "city": "Barcelona",
+        "country": "Spain",
+        "iata": "BCN",
+        "lat": "41.2974",
+        "lon": "2.0833",
+        "stadium": "",
+        "attractionsFile": "barcelona.json",
+        "attractions": {
+          "city": "Barcelona",
+          "country": "Spain",
+          "airportPostcode": "08820",
+          "airportDistanceKm": 14,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Sagrada Familia",
+              "description": "Antoni Gaudi's extraordinary UNESCO-listed basilica still under construction since 1882"
+            },
+            {
+              "rank": 2,
+              "name": "Park Guell",
+              "description": "Gaudi's colourful UNESCO hilltop park with mosaic terraces and gingerbread gatehouses"
+            },
+            {
+              "rank": 3,
+              "name": "Casa Batllo",
+              "description": "Gaudi's dragon-spine building on the Passeig de Gracia, a masterpiece of organic design"
+            },
+            {
+              "rank": 4,
+              "name": "La Rambla",
+              "description": "Barcelona's famous tree-lined pedestrian boulevard from Plaza Catalunya to the sea"
+            },
+            {
+              "rank": 5,
+              "name": "Gothic Quarter",
+              "description": "Labyrinthine medieval centre with the Barcelona Cathedral and Roman remains"
+            },
+            {
+              "rank": 6,
+              "name": "Barceloneta Beach",
+              "description": "City beach backed by seafood restaurants stretching along the Mediterranean coast"
+            },
+            {
+              "rank": 7,
+              "name": "Palau de la Musica Catalana",
+              "description": "Extraordinary UNESCO Art Nouveau concert hall by Lluís Domènech i Montaner"
+            },
+            {
+              "rank": 8,
+              "name": "Camp Nou",
+              "description": "Home of FC Barcelona, one of the world's largest football stadiums"
+            },
+            {
+              "rank": 9,
+              "name": "Montjuic",
+              "description": "Hilltop park with the 1992 Olympic stadium, castle and Miro Foundation"
+            },
+            {
+              "rank": 10,
+              "name": "La Boqueria Market",
+              "description": "Legendary covered market on La Rambla bursting with fresh produce and tapas bars"
+            }
+          ]
+        },
+        "weather": null
+      }
+    },
+    "visitedCountryIsos": []
+  }
+}

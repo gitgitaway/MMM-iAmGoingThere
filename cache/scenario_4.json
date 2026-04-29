@@ -1,0 +1,2319 @@
+{
+  "ts": 1777491743314,
+  "fingerprint": "{\"flights\":[{\"to\":\"LHR\",\"departureDate\":\"2025-05-10\"},{\"to\":{\"name\":\"Tenerife\",\"lat\":28.0445,\"lon\":-16.5725},\"departureDate\":\"2024-02-01\"},{\"to\":\"FAO\",\"departureDate\":\"2026-03-31\"},{\"to\":\"MLA\",\"departureDate\":\"2023-08-15\"},{\"to\":\"CIA\",\"departureDate\":\"2024-02-01\"},{\"to\":\"BRU\",\"departureDate\":\"2024-05-10\"},{\"to\":\"LUX\",\"departureDate\":\"2025-08-15\"},{\"to\":\"ATH\",\"departureDate\":\"2025-02-01\"},{\"to\":\"BTS\",\"departureDate\":\"2026-05-04\"},{\"to\":\"MIA\",\"departureDate\":\"2026-05-06\"},{\"to\":\"SFO\",\"departureDate\":\"2026-05-04\"},{\"to\":\"NAN\",\"departureDate\":\"2026-05-06\"},{\"to\":\"AKL\",\"departureDate\":\"2026-05-11\"},{\"to\":\"ZQN\",\"departureDate\":\"2026-05-20\"},{\"to\":\"SYD\",\"departureDate\":\"2026-08-22\"},{\"to\":\"SIN\",\"departureDate\":\"2026-02-23\"}],\"travelers\":[],\"overideDate\":false}",
+  "data": {
+    "legs": [
+      {
+        "id": "leg_0",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2025-05-10",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_1",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2025-05-10",
+        "departureTime": "",
+        "from": {
+          "name": "London Heathrow",
+          "iata": "LHR",
+          "lat": 51.47,
+          "lon": -0.4543,
+          "country": "United Kingdom"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_2",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2024-02-01",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Tenerife",
+          "lat": 28.0445,
+          "lon": -16.5725
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_3",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2024-02-01",
+        "departureTime": "",
+        "from": {
+          "name": "Tenerife",
+          "lat": 28.0445,
+          "lon": -16.5725
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_4",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-03-31",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Faro Airport",
+          "iata": "FAO",
+          "lat": 37.0144,
+          "lon": -7.9743,
+          "country": "Portugal"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_5",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-03-31",
+        "departureTime": "",
+        "from": {
+          "name": "Faro Airport",
+          "iata": "FAO",
+          "lat": 37.0144,
+          "lon": -7.9743,
+          "country": "Portugal"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_6",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2023-08-15",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Malta International",
+          "iata": "MLA",
+          "lat": 35.8575,
+          "lon": 14.4775,
+          "country": "Malta"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_7",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2023-08-15",
+        "departureTime": "",
+        "from": {
+          "name": "Malta International",
+          "iata": "MLA",
+          "lat": 35.8575,
+          "lon": 14.4775,
+          "country": "Malta"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_8",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2024-02-01",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Rome Ciampino",
+          "iata": "CIA",
+          "lat": 41.7994,
+          "lon": 12.5949,
+          "country": "Italy"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_9",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2024-02-01",
+        "departureTime": "",
+        "from": {
+          "name": "Rome Ciampino",
+          "iata": "CIA",
+          "lat": 41.7994,
+          "lon": 12.5949,
+          "country": "Italy"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_10",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2024-05-10",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Brussels Zaventem",
+          "iata": "BRU",
+          "lat": 50.9013,
+          "lon": 4.4844,
+          "country": "Belgium"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_11",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2024-05-10",
+        "departureTime": "",
+        "from": {
+          "name": "Brussels Zaventem",
+          "iata": "BRU",
+          "lat": 50.9013,
+          "lon": 4.4844,
+          "country": "Belgium"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_12",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2025-08-15",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Luxembourg Findel",
+          "iata": "LUX",
+          "lat": 49.6265,
+          "lon": 6.2044,
+          "country": "Luxembourg"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_13",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2025-08-15",
+        "departureTime": "",
+        "from": {
+          "name": "Luxembourg Findel",
+          "iata": "LUX",
+          "lat": 49.6265,
+          "lon": 6.2044,
+          "country": "Luxembourg"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_14",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2025-02-01",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Athens International",
+          "iata": "ATH",
+          "lat": 37.9364,
+          "lon": 23.9445,
+          "country": "Greece"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_15",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2025-02-01",
+        "departureTime": "",
+        "from": {
+          "name": "Athens International",
+          "iata": "ATH",
+          "lat": 37.9364,
+          "lon": 23.9445,
+          "country": "Greece"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_16",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-05-04",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Bratislava Airport",
+          "iata": "BTS",
+          "lat": 48.1694,
+          "lon": 17.2072,
+          "country": "Slovakia"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_17",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-05-04",
+        "departureTime": "",
+        "from": {
+          "name": "Bratislava Airport",
+          "iata": "BTS",
+          "lat": 48.1694,
+          "lon": 17.2072,
+          "country": "Slovakia"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_18",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-05-06",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Miami International",
+          "iata": "MIA",
+          "lat": 25.7959,
+          "lon": -80.287,
+          "country": "United States"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_19",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-05-06",
+        "departureTime": "",
+        "from": {
+          "name": "Miami International",
+          "iata": "MIA",
+          "lat": 25.7959,
+          "lon": -80.287,
+          "country": "United States"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_20",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-05-04",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "San Francisco International",
+          "iata": "SFO",
+          "lat": 37.6213,
+          "lon": -122.379,
+          "country": "United States"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_21",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-05-04",
+        "departureTime": "",
+        "from": {
+          "name": "San Francisco International",
+          "iata": "SFO",
+          "lat": 37.6213,
+          "lon": -122.379,
+          "country": "United States"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_22",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-05-06",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Nadi International",
+          "iata": "NAN",
+          "lat": -17.7554,
+          "lon": 177.443,
+          "country": "Fiji"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_23",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-05-06",
+        "departureTime": "",
+        "from": {
+          "name": "Nadi International",
+          "iata": "NAN",
+          "lat": -17.7554,
+          "lon": 177.443,
+          "country": "Fiji"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_24",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-05-11",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Auckland Airport",
+          "iata": "AKL",
+          "lat": -36.9983,
+          "lon": 174.7897,
+          "country": "New Zealand"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_25",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-05-11",
+        "departureTime": "",
+        "from": {
+          "name": "Auckland Airport",
+          "iata": "AKL",
+          "lat": -36.9983,
+          "lon": 174.7897,
+          "country": "New Zealand"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_26",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-05-20",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Queenstown Airport",
+          "iata": "ZQN",
+          "lat": -45.0211,
+          "lon": 168.7392,
+          "country": "New Zealand"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_27",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-05-20",
+        "departureTime": "",
+        "from": {
+          "name": "Queenstown Airport",
+          "iata": "ZQN",
+          "lat": -45.0211,
+          "lon": 168.7392,
+          "country": "New Zealand"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_28",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-08-22",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Sydney Kingsford Smith",
+          "iata": "SYD",
+          "lat": -33.9461,
+          "lon": 151.1772,
+          "country": "Australia"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_29",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-08-22",
+        "departureTime": "",
+        "from": {
+          "name": "Sydney Kingsford Smith",
+          "iata": "SYD",
+          "lat": -33.9461,
+          "lon": 151.1772,
+          "country": "Australia"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_30",
+        "travelerName": "Traveler",
+        "flightNumber": "GO",
+        "departureDate": "2026-02-23",
+        "departureTime": "",
+        "from": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "to": {
+          "name": "Singapore Changi",
+          "iata": "SIN",
+          "lat": 1.3644,
+          "lon": 103.9915,
+          "country": "Singapore"
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "outbound",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      },
+      {
+        "id": "leg_31",
+        "travelerName": "Traveler",
+        "flightNumber": "BACK",
+        "departureDate": "2026-02-23",
+        "departureTime": "",
+        "from": {
+          "name": "Singapore Changi",
+          "iata": "SIN",
+          "lat": 1.3644,
+          "lon": 103.9915,
+          "country": "Singapore"
+        },
+        "to": {
+          "name": "Inverness Airport",
+          "iata": "INV",
+          "lat": 57.5425,
+          "lon": -4.0475
+        },
+        "status": "scheduled",
+        "progress": 0,
+        "currentLat": null,
+        "currentLon": null,
+        "actualDeparture": null,
+        "estimatedArrival": null,
+        "type": "return",
+        "departureTerminal": null,
+        "departureGate": null,
+        "arrivalTerminal": null,
+        "arrivalGate": null,
+        "scheduledDeparture": null,
+        "estimatedDeparture": null,
+        "scheduledArrival": null,
+        "groundspeed": null,
+        "altitude": null,
+        "heading": null,
+        "altitudeChange": null,
+        "lastPositionUpdate": null,
+        "aircraftType": null,
+        "tailNumber": null,
+        "foresightEta": null,
+        "detailedStatus": null
+      }
+    ],
+    "cityInfo": {
+      "London Heathrow": {
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": "51.47",
+        "lon": "-0.4543",
+        "stadium": "",
+        "attractionsFile": "london.json",
+        "attractions": {
+          "city": "London",
+          "country": "United Kingdom",
+          "airportPostcode": "TW6 1EW",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Tower of London",
+              "description": "Historic castle and former royal palace on the north bank of the Thames"
+            },
+            {
+              "rank": 2,
+              "name": "Buckingham Palace",
+              "description": "Official London residence and administrative headquarters of the British monarch"
+            },
+            {
+              "rank": 3,
+              "name": "British Museum",
+              "description": "World-class collection of human history, art and culture spanning two million years"
+            },
+            {
+              "rank": 4,
+              "name": "Tower Bridge",
+              "description": "Iconic Victorian bascule bridge and London landmark opening over the River Thames"
+            },
+            {
+              "rank": 5,
+              "name": "Westminster Abbey",
+              "description": "Gothic abbey church and site of British royal coronations since 1066"
+            },
+            {
+              "rank": 6,
+              "name": "National Gallery",
+              "description": "Art museum on Trafalgar Square housing over 2,300 paintings from 1250 to 1900"
+            },
+            {
+              "rank": 7,
+              "name": "Hyde Park",
+              "description": "350-acre royal park in central London famous for the Serpentine and Speaker's Corner"
+            },
+            {
+              "rank": 8,
+              "name": "St Paul's Cathedral",
+              "description": "Sir Christopher Wren's Baroque masterpiece with its iconic dome dominating the City skyline"
+            },
+            {
+              "rank": 9,
+              "name": "Tate Modern",
+              "description": "Leading modern art gallery in a converted Bankside power station"
+            },
+            {
+              "rank": 10,
+              "name": "Trafalgar Square",
+              "description": "Public plaza centred on Nelson's Column, heart of the capital's civic life"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Faro Airport": {
+        "city": "Faro",
+        "country": "Portugal",
+        "iata": "FAO",
+        "lat": "37.0144",
+        "lon": "-7.9743",
+        "stadium": "",
+        "attractionsFile": "faro.json",
+        "attractions": {
+          "city": "Faro",
+          "country": "Portugal",
+          "airportPostcode": "8005-006",
+          "airportDistanceKm": 5,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Ria Formosa Natural Park",
+              "description": "Stunning lagoon system of islands, salt marshes and beaches, a paradise for birdwatchers"
+            },
+            {
+              "rank": 2,
+              "name": "Old Town (Cidade Velha)",
+              "description": "Walled medieval city with Roman, Moorish and Portuguese history around the Cathedral"
+            },
+            {
+              "rank": 3,
+              "name": "Faro Cathedral (Se)",
+              "description": "Cathedral with a climbable tower and panoramic views across the lagoon"
+            },
+            {
+              "rank": 4,
+              "name": "Igreja do Carmo",
+              "description": "Baroque church with a famous Chapel of Bones lined with 1,245 monks' skulls"
+            },
+            {
+              "rank": 5,
+              "name": "Ilha Deserta",
+              "description": "Pristine uninhabited barrier island accessible by ferry with empty beaches"
+            },
+            {
+              "rank": 6,
+              "name": "Museu Municipal",
+              "description": "Archaeological and ethnographic museum in a former convent with Roman mosaics"
+            },
+            {
+              "rank": 7,
+              "name": "Loulé Market",
+              "description": "Arab-style covered market in the Moorish-domed building with fresh Algarve produce"
+            },
+            {
+              "rank": 8,
+              "name": "Tavira",
+              "description": "Elegant riverine town with Roman bridge, castle and some of the finest beaches in the Algarve"
+            },
+            {
+              "rank": 9,
+              "name": "Olhao",
+              "description": "Whitewashed cubist fishing village with the finest covered market in the Algarve"
+            },
+            {
+              "rank": 10,
+              "name": "Estoi Palace",
+              "description": "18th-century Rococo palace with tiered gardens, fountains and Roman ruins of Milreu"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Rome Ciampino": {
+        "city": "Rome",
+        "country": "Italy",
+        "iata": "FCO",
+        "lat": "41.8002",
+        "lon": "12.2388",
+        "stadium": "",
+        "attractionsFile": "rome.json",
+        "attractions": {
+          "city": "Rome",
+          "country": "Italy",
+          "airportPostcode": "00054",
+          "airportDistanceKm": 26,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Colosseum",
+              "description": "World's most iconic ancient amphitheatre, completed in 80 AD, holding 50,000 spectators"
+            },
+            {
+              "rank": 2,
+              "name": "Vatican City & St Peter's Basilica",
+              "description": "The world's smallest state with Michelangelo's Sistine Chapel and the grandest basilica"
+            },
+            {
+              "rank": 3,
+              "name": "Trevi Fountain",
+              "description": "Baroque masterpiece where tossing a coin guarantees a return to Rome"
+            },
+            {
+              "rank": 4,
+              "name": "Roman Forum",
+              "description": "Heart of ancient Rome with temples, arches and the Sacred Way"
+            },
+            {
+              "rank": 5,
+              "name": "Pantheon",
+              "description": "Perfectly preserved 2,000-year-old temple with the world's largest unreinforced concrete dome"
+            },
+            {
+              "rank": 6,
+              "name": "Piazza Navona",
+              "description": "Elegant Baroque oval piazza built over Domitian's stadium with Bernini's Four Rivers Fountain"
+            },
+            {
+              "rank": 7,
+              "name": "Borghese Gallery",
+              "description": "Exceptional collection of Bernini sculptures and Caravaggio paintings in a villa garden"
+            },
+            {
+              "rank": 8,
+              "name": "Spanish Steps",
+              "description": "Sweeping 18th-century staircase linking the Piazza di Spagna to the Trinita dei Monti church"
+            },
+            {
+              "rank": 9,
+              "name": "Castel Sant'Angelo",
+              "description": "Cylindrical mausoleum of Emperor Hadrian, later a papal fortress with panoramic views"
+            },
+            {
+              "rank": 10,
+              "name": "Palatine Hill",
+              "description": "Mythical founding hill of Rome with imperial palaces overlooking the Circus Maximus"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Athens International": {
+        "city": "Athens",
+        "country": "Greece",
+        "iata": "ATH",
+        "lat": "37.9364",
+        "lon": "23.9445",
+        "stadium": "",
+        "attractionsFile": "athens.json",
+        "attractions": {
+          "city": "Athens",
+          "country": "Greece",
+          "airportPostcode": "190 04",
+          "airportDistanceKm": 37,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Acropolis & Parthenon",
+              "description": "UNESCO World Heritage hilltop citadel with the 2,500-year-old Parthenon temple"
+            },
+            {
+              "rank": 2,
+              "name": "Acropolis Museum",
+              "description": "World-class museum displaying the Parthenon sculptures with views up to the rock"
+            },
+            {
+              "rank": 3,
+              "name": "National Archaeological Museum",
+              "description": "World's finest collection of ancient Greek art including the Antikythera Mechanism"
+            },
+            {
+              "rank": 4,
+              "name": "Ancient Agora",
+              "description": "Ancient marketplace with the remarkably preserved Temple of Hephaestus"
+            },
+            {
+              "rank": 5,
+              "name": "Monastiraki",
+              "description": "Vibrant flea market district at the foot of the Acropolis with cafes and bazaars"
+            },
+            {
+              "rank": 6,
+              "name": "Plaka",
+              "description": "Charming old neighbourhood of neoclassical houses at the base of the Acropolis"
+            },
+            {
+              "rank": 7,
+              "name": "Temple of Olympian Zeus",
+              "description": "Colossal ruins of the ancient world's largest temple, begun in 515 BC"
+            },
+            {
+              "rank": 8,
+              "name": "Syntagma Square",
+              "description": "Central square with the Parliament and the Changing of the Evzone Guards ceremony"
+            },
+            {
+              "rank": 9,
+              "name": "Panathenaic Stadium",
+              "description": "Marble stadium that hosted the first modern Olympic Games in 1896"
+            },
+            {
+              "rank": 10,
+              "name": "Cape Sounion & Temple of Poseidon",
+              "description": "Dramatic clifftop temple at the southernmost tip of Attica with Aegean Sea views"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Brussels Zaventem": {
+        "city": "Brussels",
+        "country": "Belgium",
+        "iata": "BRU",
+        "lat": "50.9013",
+        "lon": "4.4844",
+        "stadium": "",
+        "attractionsFile": "brussels.json",
+        "attractions": {
+          "city": "Brussels",
+          "country": "Belgium",
+          "airportPostcode": "1930",
+          "airportDistanceKm": 14,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Grand Place",
+              "description": "UNESCO World Heritage medieval square, one of Europe's most beautiful, with gilded guild houses"
+            },
+            {
+              "rank": 2,
+              "name": "Atomium",
+              "description": "Iconic 102-metre structure built for Expo 58 with nine interconnected spheres and panoramic views"
+            },
+            {
+              "rank": 3,
+              "name": "Manneken Pis",
+              "description": "Brussels's beloved and irreverent 17th-century bronze statue with hundreds of costumes"
+            },
+            {
+              "rank": 4,
+              "name": "Royal Museums of Fine Arts",
+              "description": "Outstanding collection of Belgian and international art including Bruegel and Magritte"
+            },
+            {
+              "rank": 5,
+              "name": "Musee Magritte",
+              "description": "World's largest collection of works by Surrealist painter Rene Magritte"
+            },
+            {
+              "rank": 6,
+              "name": "European Quarter",
+              "description": "Heart of the European Union with the European Parliament and Council buildings"
+            },
+            {
+              "rank": 7,
+              "name": "Galeries Royales Saint-Hubert",
+              "description": "Europe's oldest covered shopping arcade from 1847 with chocolatiers and boutiques"
+            },
+            {
+              "rank": 8,
+              "name": "Belgian Chocolate & Beer",
+              "description": "Tasting tours of Belgium's world-famous chocolate makers and Trappist breweries"
+            },
+            {
+              "rank": 9,
+              "name": "Cinquantenaire Park & Museums",
+              "description": "Grand triumphal arch with art and military history museums in a magnificent park"
+            },
+            {
+              "rank": 10,
+              "name": "Mini-Europe",
+              "description": "1:25 scale reproductions of 350 famous European monuments next to the Atomium"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Bratislava Airport": {
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "iata": "BTS",
+        "lat": "48.1694",
+        "lon": "17.2072",
+        "stadium": "",
+        "attractionsFile": "bratislava.json",
+        "attractions": {
+          "city": "Bratislava",
+          "country": "Slovakia",
+          "airportPostcode": "823 11",
+          "airportDistanceKm": 12,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Bratislava Castle",
+              "description": "Iconic four-towered castle dominating the Danube with Slovak National Museum inside"
+            },
+            {
+              "rank": 2,
+              "name": "Old Town (Stare Mesto)",
+              "description": "Compact pedestrian old town with baroque palaces, cafes and quirky bronze statues"
+            },
+            {
+              "rank": 3,
+              "name": "St Martin's Cathedral",
+              "description": "Gothic cathedral where 19 Habsburg monarchs were crowned as Hungarian kings"
+            },
+            {
+              "rank": 4,
+              "name": "Devin Castle",
+              "description": "Dramatic clifftop castle ruin at the confluence of the Danube and Morava rivers"
+            },
+            {
+              "rank": 5,
+              "name": "UFO Bridge (New Bridge)",
+              "description": "Flying saucer-shaped restaurant and observation deck atop the Danube bridge"
+            },
+            {
+              "rank": 6,
+              "name": "Blue Church",
+              "description": "Enchanting Art Nouveau church of St Elisabeth covered entirely in powder blue"
+            },
+            {
+              "rank": 7,
+              "name": "Slovak National Theatre",
+              "description": "Opulent neo-Baroque opera house on Hviezdoslav Square"
+            },
+            {
+              "rank": 8,
+              "name": "Slovak National Gallery",
+              "description": "Slovakia's largest gallery with a striking 1970s extension on the Danube embankment"
+            },
+            {
+              "rank": 9,
+              "name": "Slavin Memorial",
+              "description": "Soviet war memorial with panoramic views over the city from the hilltop"
+            },
+            {
+              "rank": 10,
+              "name": "Grassalkovich Palace",
+              "description": "Baroque palace and official residence of Slovakia's president with public gardens"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Miami International": {
+        "city": "Miami",
+        "country": "USA",
+        "iata": "MIA",
+        "lat": "25.7959",
+        "lon": "-80.287",
+        "stadium": "Hard Rock Stadium",
+        "attractionsFile": "miami.json",
+        "attractions": {
+          "city": "Miami",
+          "country": "USA",
+          "airportPostcode": "33126",
+          "airportDistanceKm": 12,
+          "things": [
+            {
+              "rank": 1,
+              "name": "South Beach (SoBe)",
+              "postcode": "33139",
+              "distanceKmFromAirport": 10,
+              "description": "Art Deco architecture and beautiful beaches on Ocean Drive"
+            },
+            {
+              "rank": 2,
+              "name": "Wynwood Walls",
+              "postcode": "33127",
+              "distanceKmFromAirport": 9,
+              "description": "World-famous outdoor street art museum in the Wynwood Arts District"
+            },
+            {
+              "rank": 3,
+              "name": "Everglades National Park",
+              "postcode": "33034",
+              "distanceKmFromAirport": 58,
+              "description": "Airboat tours through the unique subtropical wilderness"
+            },
+            {
+              "rank": 4,
+              "name": "Vizcaya Museum and Gardens",
+              "postcode": "33133",
+              "distanceKmFromAirport": 11,
+              "description": "Stunning 1916 Italian Renaissance-style villa and formal gardens"
+            },
+            {
+              "rank": 5,
+              "name": "Little Havana",
+              "postcode": "33135",
+              "distanceKmFromAirport": 8,
+              "description": "Authentic Cuban culture, cigars, dominoes and cuisine"
+            },
+            {
+              "rank": 6,
+              "name": "Art Deco Historic District Walk",
+              "postcode": "33139",
+              "distanceKmFromAirport": 10,
+              "description": "Over 800 preserved Art Deco buildings from the 1920s-1940s"
+            },
+            {
+              "rank": 7,
+              "name": "Perez Art Museum Miami (PAMM)",
+              "postcode": "33132",
+              "distanceKmFromAirport": 8,
+              "description": "Contemporary art museum with stunning Biscayne Bay waterfront views"
+            },
+            {
+              "rank": 8,
+              "name": "Bayside Marketplace",
+              "postcode": "33132",
+              "distanceKmFromAirport": 8,
+              "description": "Waterfront open-air shopping and entertainment complex"
+            },
+            {
+              "rank": 9,
+              "name": "Key Biscayne & Bill Baggs State Park",
+              "postcode": "33149",
+              "distanceKmFromAirport": 16,
+              "description": "Pristine beaches and a historic 1825 lighthouse"
+            },
+            {
+              "rank": 10,
+              "name": "Zoo Miami",
+              "postcode": "33177",
+              "distanceKmFromAirport": 22,
+              "description": "Largest zoo in the southeastern US with over 3,000 animals"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "San Francisco International": {
+        "city": "San Francisco",
+        "country": "USA",
+        "iata": "SFO",
+        "lat": "37.6213",
+        "lon": "-122.379",
+        "stadium": "Levi's Stadium",
+        "attractionsFile": "san_francisco.json",
+        "attractions": {
+          "city": "San Francisco",
+          "country": "USA",
+          "airportPostcode": "94128",
+          "airportDistanceKm": 21,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Golden Gate Bridge",
+              "postcode": "94129",
+              "distanceKmFromAirport": 21,
+              "description": "Iconic 1937 suspension bridge with spectacular walk or cycle access"
+            },
+            {
+              "rank": 2,
+              "name": "Alcatraz Island",
+              "postcode": "94133",
+              "distanceKmFromAirport": 23,
+              "description": "Fascinating historic federal penitentiary tour in the bay"
+            },
+            {
+              "rank": 3,
+              "name": "Fisherman's Wharf",
+              "postcode": "94133",
+              "distanceKmFromAirport": 23,
+              "description": "Vibrant waterfront district with fresh seafood and sea lions"
+            },
+            {
+              "rank": 4,
+              "name": "Golden Gate Park",
+              "postcode": "94117",
+              "distanceKmFromAirport": 17,
+              "description": "1,017-acre park with museums, gardens, and bison paddock"
+            },
+            {
+              "rank": 5,
+              "name": "Cable Car Ride",
+              "postcode": "94108",
+              "distanceKmFromAirport": 22,
+              "description": "Historic 1873 street railway — a moving National Historic Landmark"
+            },
+            {
+              "rank": 6,
+              "name": "Muir Woods National Monument",
+              "postcode": "94941",
+              "distanceKmFromAirport": 35,
+              "description": "Ancient coastal redwood forest just north of the city"
+            },
+            {
+              "rank": 7,
+              "name": "Lombard Street",
+              "postcode": "94133",
+              "distanceKmFromAirport": 23,
+              "description": "World's most crooked street with stunning city views"
+            },
+            {
+              "rank": 8,
+              "name": "Chinatown",
+              "postcode": "94108",
+              "distanceKmFromAirport": 22,
+              "description": "Oldest and most densely populated Chinatown in North America"
+            },
+            {
+              "rank": 9,
+              "name": "Exploratorium",
+              "postcode": "94111",
+              "distanceKmFromAirport": 23,
+              "description": "Pioneer science and perception museum on the Embarcadero"
+            },
+            {
+              "rank": 10,
+              "name": "Napa Valley Day Trip",
+              "postcode": "94559",
+              "distanceKmFromAirport": 90,
+              "description": "World-renowned wine country just 90 minutes from the city"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Auckland Airport": {
+        "city": "Auckland",
+        "country": "New Zealand",
+        "iata": "AKL",
+        "lat": "-36.9983",
+        "lon": "174.7897",
+        "stadium": "",
+        "attractionsFile": "auckland.json",
+        "attractions": {
+          "city": "Auckland",
+          "country": "New Zealand",
+          "airportPostcode": "2022",
+          "airportDistanceKm": 24,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Sky Tower",
+              "description": "New Zealand's tallest structure at 328m with observation deck and SkyWalk/SkyJump"
+            },
+            {
+              "rank": 2,
+              "name": "Waiheke Island",
+              "description": "Ferry to the 'Island of Wine' with boutique vineyards, beaches and olive groves"
+            },
+            {
+              "rank": 3,
+              "name": "Auckland Museum",
+              "description": "War Memorial Museum with the world's finest Maori and Pacific collections"
+            },
+            {
+              "rank": 4,
+              "name": "Rangitoto Island",
+              "description": "Ferry to Auckland's youngest volcano rising from the Hauraki Gulf for summit walks"
+            },
+            {
+              "rank": 5,
+              "name": "Waitematā Harbour Bridge",
+              "description": "Bridge walk or bike with panoramic harbour views, AJ Hackett bungy also available"
+            },
+            {
+              "rank": 6,
+              "name": "Devonport Ferry & Village",
+              "description": "Historic naval town across the harbour with two volcanic summits and beaches"
+            },
+            {
+              "rank": 7,
+              "name": "Auckland Art Gallery Toi o Tamaki",
+              "description": "New Zealand's largest art collection spanning Maori, Pacific and European art"
+            },
+            {
+              "rank": 8,
+              "name": "Ponsonby & Grey Lynn",
+              "description": "Auckland's most fashionable eating and shopping streets with world-class restaurants"
+            },
+            {
+              "rank": 9,
+              "name": "Piha Beach & Lion Rock",
+              "description": "Wild west coast black-sand surf beach with the iconic Lion Rock landmark"
+            },
+            {
+              "rank": 10,
+              "name": "Hobbiton Movie Set",
+              "description": "Walk-through tour of the Shire from Peter Jackson's Lord of the Rings and The Hobbit"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Nadi International": {
+        "city": "Nadi",
+        "country": "Fiji",
+        "iata": "NAN",
+        "lat": "-17.7554",
+        "lon": "177.443",
+        "stadium": "",
+        "attractionsFile": "nadi.json",
+        "attractions": {
+          "city": "Nadi",
+          "country": "Fiji",
+          "airportPostcode": "685",
+          "airportDistanceKm": 2,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Mamanuca Islands",
+              "description": "Picture-perfect island archipelago off Nadi with white sand, coral reefs and resorts"
+            },
+            {
+              "rank": 2,
+              "name": "Sri Siva Subramaniya Temple",
+              "description": "South Pacific's largest Hindu temple with vivid Dravidian-style painted gopuram"
+            },
+            {
+              "rank": 3,
+              "name": "Garden of the Sleeping Giant",
+              "description": "Orchid gardens established by Raymond Burr with hundreds of exotic orchid varieties"
+            },
+            {
+              "rank": 4,
+              "name": "Yasawa Islands",
+              "description": "Remote volcanic island chain with crystal water, caves and the Blue Lagoon"
+            },
+            {
+              "rank": 5,
+              "name": "Nadi Municipal Market",
+              "description": "Colourful local market with tropical fruits, kava root, spices and Fijian produce"
+            },
+            {
+              "rank": 6,
+              "name": "Sawa-i-Lau Limestone Caves",
+              "description": "Sacred limestone sea caves in the Yasawas with an inner swimming chamber"
+            },
+            {
+              "rank": 7,
+              "name": "Zip Fiji Canopy Tour",
+              "description": "Ziplining through tropical rainforest in the Sabeto Mountains above Nadi"
+            },
+            {
+              "rank": 8,
+              "name": "Sabeto Hot Springs & Mud Pool",
+              "description": "Natural volcanic mud pools and hot spring pools at the foot of the Sabeto Mountains"
+            },
+            {
+              "rank": 9,
+              "name": "Port Denarau Marina",
+              "description": "Hub for island cruises, sunset sails and ferries to the Mamanuca and Yasawa islands"
+            },
+            {
+              "rank": 10,
+              "name": "Sigatoka Sand Dunes National Park",
+              "description": "Fiji's first national park with 60m Pacific sand dunes and archaeological finds"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Queenstown Airport": {
+        "city": "Queenstown",
+        "country": "New Zealand",
+        "iata": "ZQN",
+        "lat": "-45.0211",
+        "lon": "168.7392",
+        "stadium": "",
+        "attractionsFile": "queenstown.json",
+        "attractions": {
+          "city": "Queenstown",
+          "country": "New Zealand",
+          "airportPostcode": "9300",
+          "airportDistanceKm": 8,
+          "things": [
+            {
+              "rank": 1,
+              "name": "AJ Hackett Bungy - Kawarau Bridge",
+              "description": "World's first commercial bungy jump from the historic 1880 bridge over the Kawarau Gorge"
+            },
+            {
+              "rank": 2,
+              "name": "Milford Sound",
+              "description": "New Zealand's most famous fiord - a full-day trip through mountains to the Tasman Sea"
+            },
+            {
+              "rank": 3,
+              "name": "Queenstown Gondola & Luge",
+              "description": "Scenic gondola to Bob's Peak for panoramic views and the thrilling alpine luge"
+            },
+            {
+              "rank": 4,
+              "name": "Skiing - Remarkables & Coronet Peak",
+              "description": "Two world-class ski fields within 30 minutes of Queenstown, open June to September"
+            },
+            {
+              "rank": 5,
+              "name": "Shotover Jet",
+              "description": "Heart-pounding jet boat ride through the narrow rocky gorges of the Shotover River"
+            },
+            {
+              "rank": 6,
+              "name": "TSS Earnslaw Steamship",
+              "description": "1912 twin-screw steamer lake cruise to Walter Peak farm on Lake Wakatipu"
+            },
+            {
+              "rank": 7,
+              "name": "Glenorchy & Paradise",
+              "description": "30-minute drive to Lord of the Rings Isengard and Amon Hen filming locations"
+            },
+            {
+              "rank": 8,
+              "name": "Wine Tasting - Central Otago",
+              "description": "World's southernmost Pinot Noir region with world-class cellar doors in Gibbston Valley"
+            },
+            {
+              "rank": 9,
+              "name": "Arrowtown Gold Rush Village",
+              "description": "Perfectly preserved 1862 gold rush village with Chinese settlement and autumn foliage"
+            },
+            {
+              "rank": 10,
+              "name": "Nevis Bungy & Swing",
+              "description": "New Zealand's highest bungy at 134m and the Nevis Swing - the world's largest"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Sydney Kingsford Smith": {
+        "city": "Sydney",
+        "country": "Australia",
+        "iata": "SYD",
+        "lat": "-33.9461",
+        "lon": "151.1772",
+        "stadium": "",
+        "attractionsFile": "sydney.json",
+        "attractions": {
+          "city": "Sydney",
+          "country": "Australia",
+          "airportPostcode": "NSW 2020",
+          "airportDistanceKm": 9,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Sydney Opera House",
+              "description": "UNESCO World Heritage iconic sail-shaped performing arts centre on Bennelong Point"
+            },
+            {
+              "rank": 2,
+              "name": "Sydney Harbour Bridge",
+              "description": "The 'Coathanger' - climb to the 134m summit for panoramic harbour views"
+            },
+            {
+              "rank": 3,
+              "name": "Bondi Beach",
+              "description": "Australia's most famous beach with surf culture, the coastal walk and Icebergs pool"
+            },
+            {
+              "rank": 4,
+              "name": "Taronga Zoo",
+              "description": "World-class zoo on the harbour foreshore with koalas, kangaroos and harbour views"
+            },
+            {
+              "rank": 5,
+              "name": "The Rocks",
+              "description": "Sydney's historic sandstone precinct with colonial buildings, markets and pubs"
+            },
+            {
+              "rank": 6,
+              "name": "Royal Botanic Garden",
+              "description": "26-hectare garden on the harbour edge with free entry and flying fox colony"
+            },
+            {
+              "rank": 7,
+              "name": "Manly Beach & Ferry",
+              "description": "30-minute scenic ferry across the harbour to this surfing beach and oceanarium"
+            },
+            {
+              "rank": 8,
+              "name": "Blue Mountains National Park",
+              "description": "UNESCO World Heritage sandstone escarpment with the Three Sisters rock formation"
+            },
+            {
+              "rank": 9,
+              "name": "Darling Harbour",
+              "description": "Entertainment precinct with Sea Life Sydney Aquarium, Wild Life Zoo and museums"
+            },
+            {
+              "rank": 10,
+              "name": "Art Gallery of NSW",
+              "description": "Australia's oldest and most prestigious art museum in a grand Victorian building"
+            }
+          ]
+        },
+        "weather": null
+      },
+      "Singapore Changi": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": "1.3644",
+        "lon": "103.9915",
+        "stadium": "",
+        "attractionsFile": "singapore.json",
+        "attractions": {
+          "city": "Singapore",
+          "country": "Singapore",
+          "airportPostcode": "819642",
+          "airportDistanceKm": 20,
+          "things": [
+            {
+              "rank": 1,
+              "name": "Gardens by the Bay",
+              "description": "Futuristic park with the Supertree Grove, Cloud Forest and Flower Dome biospheres"
+            },
+            {
+              "rank": 2,
+              "name": "Marina Bay Sands",
+              "description": "Iconic three-tower resort with an infinity pool and SkyPark observation deck"
+            },
+            {
+              "rank": 3,
+              "name": "Sentosa Island",
+              "description": "Resort island with Universal Studios, S.E.A. Aquarium and cable car rides"
+            },
+            {
+              "rank": 4,
+              "name": "Chinatown",
+              "description": "Vibrant heritage district with temples, hawker centres and traditional medicine shops"
+            },
+            {
+              "rank": 5,
+              "name": "Little India",
+              "description": "Colourful neighbourhood with Hindu temples, flower garlands and curry houses"
+            },
+            {
+              "rank": 6,
+              "name": "Singapore Botanic Gardens",
+              "description": "UNESCO World Heritage tropical garden with the National Orchid Garden"
+            },
+            {
+              "rank": 7,
+              "name": "Hawker Centre Culture",
+              "description": "UNESCO-listed street food culture at legendary centres like Maxwell and Lau Pa Sat"
+            },
+            {
+              "rank": 8,
+              "name": "National Museum of Singapore",
+              "description": "Singapore's oldest museum in a grand colonial building with living galleries"
+            },
+            {
+              "rank": 9,
+              "name": "Singapore Zoo & Night Safari",
+              "description": "Award-winning open-concept zoo and the world's first nocturnal wildlife park"
+            },
+            {
+              "rank": 10,
+              "name": "Orchard Road",
+              "description": "Singapore's premier shopping street with hundreds of malls and luxury brands"
+            }
+          ]
+        },
+        "weather": null
+      }
+    },
+    "visitedCountryIsos": [
+      "GB",
+      "PT",
+      "MT",
+      "IT",
+      "BE",
+      "LU",
+      "GR",
+      "SK",
+      "US",
+      "NZ",
+      "AU"
+    ]
+  }
+}
