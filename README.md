@@ -5,14 +5,12 @@
 > The module includes  colour-coded great-circle paths, countdown timer, and city attraction guides as well as printable flight itenaries and terminal guides. 
 > Forked from [MMM-iHaveBeenThere](https://github.com/basti0001/MMM-iHaveBeenThere) by Sebastian Merkel.
 
----
+## 🎬 Screenshots
 
-## Screenshots
-
-| | |  |
-|---|---|---|
-| ![Scenario 1](screenshots/screenshot1.png) | ![Scenario 2](screenshots/screenshot2.png) |![Scenario 3](screenshots/screenshot3.png) |
-| ![Scenario 4](screenshots/screenshot4.png) | ![Scenario 5](screenshots/screenshot5.png) |![Scenario 6](screenshots/screenshot6.png) |
+|                                                  |                                                  |                                                  |
+| :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| ![Screenshot 1](./screenshots/screenshot1.png) | ![Screenshot 2](./screenshots/screenshot2.png) | ![Screenshot 3](./screenshots/screenshot3.png) |
+| ![Screenshot 4](./screenshots/screenshot4.png) | ![Screenshot 5](./screenshots/screenshot5.png) | ![Screenshot 6](./screenshots/screenshot6.png) |
 
 
 ---
