@@ -1,0 +1,11 @@
+departureDate,flightNumber,from,to,departureTime,travelerName,type
+2026-04-07,BA283,LHR,LAX,08:20,Capt. James Cook,outbound
+2026-04-09,BA282,LAX,LHR,15:40,Capt. James Cook,return
+2026-04-12,BA269,LHR,LAX,15:15,Capt. James Cook,outbound
+2026-04-14,BA268,LAX,LHR,21:40,Capt. James Cook,return
+2026-04-18,BA11,LHR,SIN,19:10,Capt. James Cook,outbound
+2026-04-21,BA12,SIN,LHR,23:20,Capt. James Cook,return
+2026-04-26,BA115,LHR,JFK,14:25,Capt. James Cook,outbound
+2026-04-28,BA114,JFK,LHR,21:45,Capt. James Cook,return
+2026-05-02,BA285,LHR,SFO,11:30,Capt. James Cook,outbound
+2026-05-04,BA284,SFO,LHR,20:10,Capt. James Cook,return
