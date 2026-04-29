@@ -9,8 +9,8 @@
 
 |                                                  |                                                  |                                                  |
 | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
-| ![Screenshot 1](./screenshots/Screenshot1.png) | ![Screenshot 2](./screenshots/Screenshot2.png) | ![Screenshot 3](./screenshots/Screenshot3.png) |
-| ![Screenshot 4](./screenshots/Screenshot4.png) | ![Screenshot 5](./screenshots/Screenshot5.png) | ![Screenshot 6](./screenshots/Screenshot6.png) |
+| ![Scenario 1](./screenshots/Screenshot1.png) | ![Scenario 2](./screenshots/Screenshot2.png) | ![Scenario 3](./screenshots/Screenshot3.png) |
+| ![Scenario 4](./screenshots/Screenshot4.png) | ![Scenario 5](./screenshots/Screenshot5.png) | ![Scenario 6](./screenshots/Screenshot6.png) |
 
 
 ---
