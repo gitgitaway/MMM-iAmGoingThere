@@ -1,0 +1,428 @@
+name,iataCode,lat,lon,country,city,postCode
+"London Heathrow",LHR,51.4700,-0.4543,United Kingdom,London,TW6 2GA
+"London Gatwick",LGW,51.1537,-0.1821,United Kingdom,Gatwick,RH6 0NP
+"London Stansted",STN,51.8860,0.2375,United Kingdom,Stansted,CM24 1QW
+"London Luton",LTN,51.8745,-0.3658,United Kingdom,Luton,LU2 9LY
+"London City Airport",LCY,51.5048,-0.0555,United Kingdom,London,E16 1AR
+"London Southend",SEN,51.5720,0.6947,United Kingdom,Southend-on-Sea,SS7 1AP
+"Manchester Airport",MAN,53.3635,-2.2743,United Kingdom,Manchester,M90 1QX
+"Birmingham Airport",BHX,52.4539,-1.7476,United Kingdom,Birmingham,B26 3QJ
+"Glasgow Airport",GLA,55.8642,-4.4330,United Kingdom,Glasgow,PA3 2ST
+"Edinburgh Airport",EDI,55.9500,-3.3724,United Kingdom,Edinburgh,EH12 9DN
+"Liverpool Airport",LPL,53.3874,-2.8408,United Kingdom,Liverpool,L24 1YD
+"Leeds Bradford",LBA,53.8675,-1.6604,United Kingdom,Leeds,LS19 7TU
+"Newcastle Airport",NCL,55.0375,-1.6919,United Kingdom,Newcastle,NE13 8BT
+"Bristol Airport",BRS,51.3857,-2.7185,United Kingdom,Bristol,BS48 3DY
+"Southampton Airport",SOU,50.9502,-1.3572,United Kingdom,Southampton,SO18 2NL
+"Belfast International",BFS,54.6575,-6.2159,United Kingdom,Belfast,BT29 4AB
+"Belfast City Airport",BHD,54.6181,-5.8725,United Kingdom,Belfast,BT3 9JH
+"East Midlands Airport",EMA,52.8236,-1.3281,United Kingdom,Nottingham,DE74 2SA
+"Prestwick Airport",PIK,55.5086,-4.5869,United Kingdom,Ayrshire,KA9 2PG
+"Aberdeen Airport",ABZ,57.2019,-2.1979,United Kingdom,Aberdeen,AB21 7DU
+"Dublin Airport",DUB,53.4264,-6.2499,Ireland,Dublin,D17 C47W
+"Cork Airport",ORK,51.8413,-8.4931,Ireland,Cork,T12 X2C2
+"Shannon Airport",SNN,52.7022,-8.9244,Ireland,Limerick,V94 6PW
+"Paris Charles de Gaulle",CDG,49.0097,2.5479,France,Paris,95700
+"Paris Orly",ORY,48.7233,2.3792,France,Paris,94390
+"Paris Beauvais",BVA,49.4544,2.5829,France,Beauvais,60000
+"Lyon-Saint Exupery",LYS,45.7261,5.0914,France,Lyon,69125
+"Marseille Provence",MRS,43.4394,5.2147,France,Marseille,13700
+"Nice Cote d'Azur",NCE,43.6584,7.2158,France,Nice,06206
+"Toulouse-Blagnac",TLS,43.6294,1.3633,France,Toulouse,31000
+"Nantes Atlantique",NTE,47.1585,-1.6040,France,Nantes,44340
+"Bordeaux-Merignac",BOD,44.8283,-0.6155,France,Bordeaux,33700
+"Strasbourg Airport",SXB,48.5384,7.6279,France,Strasbourg,67960
+"Montpellier Airport",MPL,43.5761,3.9629,France,Montpellier,34130
+"Grenoble Airport",GNB,45.3589,5.3342,France,Grenoble,38700
+"Biarritz Airport",BIQ,43.4534,-1.5298,France,Biarritz,64200
+"Amsterdam Schiphol",AMS,52.3086,4.7639,Netherlands,Amsterdam,1118
+"Rotterdam Airport",RTM,51.9562,4.4432,Netherlands,Rotterdam,3045
+"Eindhoven Airport",EIN,51.4504,5.3754,Netherlands,Eindhoven,5657
+"Groningen Airport",GRQ,53.1196,6.5797,Netherlands,Groningen,9730
+"Frankfurt am Main",FRA,50.0379,8.5622,Germany,Frankfurt,60547
+"Munich Franz Josef Strauss",MUC,48.3538,11.7861,Germany,Munich,85356
+"Berlin Brandenburg",BER,52.3667,13.5019,Germany,Berlin,12521
+"Hamburg Airport",HAM,53.6304,9.9914,Germany,Hamburg,22335
+"Dusseldorf Airport",DUS,51.2895,6.7671,Germany,Dusseldorf,40474
+"Cologne Bonn Airport",CGN,50.8659,6.8744,Germany,Cologne,51147
+"Stuttgart Airport",STR,48.6891,9.2210,Germany,Stuttgart,70629
+"Hanover Airport",HAJ,52.4614,9.6900,Germany,Hanover,30855
+"Nuremberg Airport",NUE,49.4992,11.0748,Germany,Nuremberg,90411
+"Dortmund Airport",DTM,51.5136,7.6161,Germany,Dortmund,44319
+"Dusseldorf Weeze",NRN,51.4025,6.0819,Germany,Weeze,47652
+"Memmingen Airport",MEM,47.9855,10.2289,Germany,Memmingen,87766
+"Friedrichshafen Airport",FKB,47.6686,9.5145,Germany,Friedrichshafen,88046
+"Leipzig Halle Airport",LEJ,51.4186,12.2217,Germany,Leipzig,04435
+"Dresden Airport",DRS,51.1310,13.7870,Germany,Dresden,01109
+"Madrid Barajas",MAD,40.4719,-3.6309,Spain,Madrid,28042
+"Barcelona El Prat",BCN,41.2974,2.0833,Spain,Barcelona,08820
+"Malaga Costa del Sol",AGP,36.6749,-3.7584,Spain,Malaga,29130
+"Valencia Airport",VLC,39.4897,-0.4814,Spain,Valencia,46940
+"Bilbao Airport",BIO,43.3006,-2.9106,Spain,Bilbao,48500
+"Seville Airport",SVQ,37.4180,-5.8896,Spain,Seville,41020
+"Alicante Airport",ALC,38.2822,-0.5544,Spain,Alicante,03540
+"Palma de Mallorca",PMI,39.5517,2.7397,Spain,Palma,07610
+"Ibiza Airport",IBZ,38.8728,1.3730,Spain,Ibiza,07800
+"Zaragoza Airport",ZAZ,41.6663,-1.0420,Spain,Zaragoza,50012
+"Reus Airport",REU,41.1524,1.1704,Spain,Reus,43204
+"Rome Fiumicino",FCO,41.8002,12.2388,Italy,Rome,00054
+"Milan Malpensa",MXP,45.6306,8.7281,Italy,Milan,21010
+"Rome Ciampino",CIA,41.7994,12.5949,Italy,Rome,00040
+"Milan Linate",LIN,45.4627,9.2711,Italy,Milan,20090
+"Venice Marco Polo",VCE,45.5050,12.3519,Italy,Venice,30192
+"Bergamo Orio al Serio",BGY,45.6730,9.7007,Italy,Bergamo,24050
+"Florence Airport",FLR,43.8093,11.2050,Italy,Florence,50012
+"Naples Airport",NAP,40.8861,14.2910,Italy,Naples,80144
+"Palermo Airport",PMO,38.1759,13.0913,Italy,Palermo,90100
+"Catania Airport",CTA,37.4667,15.0694,Italy,Catania,95100
+"Pisa Airport",PSA,43.6839,10.3927,Italy,Pisa,56121
+"Bologna Airport",BLQ,44.5347,11.2889,Italy,Bologna,40132
+"Venice Treviso Airport",TSF,45.6481,12.1964,Italy,Treviso,31100
+"Verona Airport",VRN,45.3955,10.8886,Italy,Verona,37014
+"Genoa Airport",GOA,44.4128,8.8340,Italy,Genoa,16154
+"Vienna International",VIE,48.1202,16.5833,Austria,Vienna,1300
+"Brussels Zaventem",BRU,50.9013,4.4844,Belgium,Brussels,1930
+"Brussels Charleroi",CRL,50.4517,4.4541,Belgium,Charleroi,6001
+"Zurich Airport",ZRH,47.4582,8.5495,Switzerland,Zurich,8058
+"Geneva Airport",GVA,46.2381,6.1093,Switzerland,Geneva,1200
+"Basel Mulhouse",BSL,47.5956,7.5296,Switzerland,Basel,4056
+"Prague Vaclav Havel",PRG,50.0008,14.2678,Czech Republic,Prague,160 00
+"Brno Airport",BRQ,49.1500,16.6885,Czech Republic,Brno,62000
+"Budapest Ferenc Liszt",BUD,47.4367,19.2458,Hungary,Budapest,1675
+"Warsaw Chopin",WAW,52.1656,21.0214,Poland,Warsaw,00-906
+"Krakow John Paul II",KRK,50.0794,19.7794,Poland,Krakow,32-083
+"Wroclaw Airport",WRO,51.1011,16.8855,Poland,Wroclaw,54254
+"Gdansk Lech Walesa",GDN,54.3755,18.4467,Poland,Gdansk,80299
+"Katowice Airport",KTW,50.2747,19.0800,Poland,Katowice,40150
+"Bratislava Airport",BTS,48.1694,17.2072,Slovakia,Bratislava,02100
+"Bucharest Otopeni",OTP,44.5715,26.0840,Romania,Bucharest,077106
+"Sofia Airport",SOF,42.6977,23.4117,Bulgaria,Sofia,1540
+"Burgas Airport",BOJ,42.5047,27.5144,Bulgaria,Burgas,8000
+"Lisbon Portela",LIS,38.7813,-9.1359,Portugal,Lisbon,1700
+"Porto Airport",OPO,41.2409,-8.6716,Portugal,Porto,4470
+"Faro Airport",FAO,37.0144,-7.9743,Portugal,Faro,8005
+"Athens International",ATH,37.9364,23.9445,Greece,Athens,19019
+"Thessaloniki Airport",SKG,40.5191,22.9708,Greece,Thessaloniki,55103
+"Copenhagen Airport",CPH,55.6181,12.6561,Denmark,Copenhagen,2770
+"Billund Airport",BLL,55.7403,9.1519,Denmark,Billund,7190
+"Aalborg Airport",AAL,57.0922,9.8521,Denmark,Aalborg,9400
+"Aarhus Airport",AAR,56.2990,10.6190,Denmark,Aarhus,8560
+"Stockholm Arlanda",ARN,59.6519,17.9289,Sweden,Stockholm,19045
+"Gothenburg Landvetter",GOT,57.6627,12.2799,Sweden,Gothenburg,43800
+"Malmo Airport",MMX,55.5289,13.3698,Sweden,Malmo,23145
+"Oslo Airport",OSL,60.1939,11.1004,Norway,Oslo,2061
+"Bergen Airport",BGO,60.2934,5.2181,Norway,Bergen,5217
+"Stavanger Airport",SVG,58.8853,5.6378,Norway,Stavanger,4055
+"Trondheim Airport",TRD,63.4569,10.9247,Norway,Trondheim,7521
+"Helsinki Vantaa",HEL,60.3172,25.0482,Finland,Helsinki,1300
+"Turku Airport",TKU,60.5141,22.2627,Finland,Turku,20100
+"Tampere Airport",TMP,61.4142,23.6053,Finland,Tampere,33100
+"Riga International",RIX,56.9239,23.9711,Latvia,Riga,1053
+"Vilnius Airport",VNO,54.6341,25.2867,Lithuania,Vilnius,02100
+"Tallinn Airport",TLL,59.4133,24.8328,Estonia,Tallinn,12101
+"Split Airport",SPU,43.2406,16.4409,Croatia,Split,21217
+"Rijeka Airport",RJK,45.2185,14.5753,Croatia,Rijeka,51000
+"Dubrovnik Airport",DBV,42.5623,18.2684,Croatia,Dubrovnik,20000
+"Sarajevo Airport",SJJ,43.8163,18.3911,Bosnia and Herzegovina,Sarajevo,71000
+"Mostar Airport",OMO,43.2039,17.8228,Bosnia and Herzegovina,Mostar,88000
+"Belgrade Nikola Tesla",BEG,44.8184,20.2781,Serbia,Belgrade,11000
+"Nis Constantine the Great",NIS,43.3437,21.8458,Serbia,Nis,18000
+"Podgorica Airport",TGD,42.0606,19.2611,Montenegro,Podgorica,81000
+"Tivat Airport",TIV,42.3916,18.3478,Montenegro,Tivat,85320
+"Pristina Airport",PRN,42.5722,21.0279,Kosovo,Pristina,10000
+"Skopje Airport",SKP,41.9156,21.6283,North Macedonia,Skopje,1000
+"Tirana Nene Tereza",TIA,41.4176,19.7203,Albania,Tirana,1000
+"Istanbul Airport",IST,41.2619,28.7298,Turkey,Istanbul,34830
+"Tel Aviv Ben Gurion",TLV,32.0053,34.7677,Israel,Tel Aviv,7015001
+"Dubai International",DXB,25.2528,55.3644,United Arab Emirates,Dubai,NA
+"Hong Kong International",HKG,22.3080,113.9185,Hong Kong,Hong Kong,999077
+"Singapore Changi",SIN,1.3644,103.9915,Singapore,Singapore,018140
+"Tokyo Haneda",HND,35.5494,139.7798,Japan,Tokyo,144-0041
+"Sydney Kingsford Smith",SYD,-33.9461,151.1772,Australia,Sydney,2020
+"Melbourne Airport",MEL,-37.6733,144.8433,Australia,Melbourne,3045
+"Brisbane Airport",BNE,-27.3842,153.1175,Australia,Brisbane,4008
+"Perth Airport",PER,-31.9385,115.9670,Australia,Perth,6105
+"Adelaide Airport",ADL,-34.9450,138.5300,Australia,Adelaide,5950
+"Gold Coast Airport",OOL,-28.1644,153.5046,Australia,Gold Coast,4225
+"Cairns Airport",CNS,-16.8858,145.7552,Australia,Cairns,4870
+"Darwin International",DRW,-12.4147,130.8765,Australia,Darwin,0820
+"Hobart Airport",HBA,-42.8361,147.5078,Australia,Hobart,7173
+"Canberra Airport",CBR,-35.3069,149.1950,Australia,Canberra,2609
+"Toronto Pearson",YYZ,43.6777,-79.6248,Canada,Toronto,M1P 2V6
+"New York JFK",JFK,40.6413,-73.7781,United States,New York,11430
+"Los Angeles International",LAX,33.9425,-118.4081,United States,Los Angeles,90045
+"San Francisco International",SFO,37.6213,-122.3790,United States,San Francisco,94128
+"Mexico City International",MEX,19.4326,-99.0730,Mexico,Mexico City,15620
+"Rio de Janeiro Galeao",GIG,-22.8129,-43.2431,Brazil,Rio de Janeiro,21941
+"Buenos Aires Ezeiza",EZE,-34.8222,-58.5358,Argentina,Buenos Aires,1802
+"Cairo International",CAI,30.1219,31.4056,Egypt,Cairo,11518
+"Johannesburg OR Tambo",JNB,-26.1367,28.2411,South Africa,Johannesburg,1627
+"Auckland Airport",AKL,-36.9983,174.7897,New Zealand,Auckland,2022
+"Wellington Airport",WLG,-41.3272,174.8052,New Zealand,Wellington,6022
+"Christchurch Airport",CHC,-43.4894,172.5320,New Zealand,Christchurch,8053
+"Queenstown Airport",ZQN,-45.0211,168.7392,New Zealand,Queenstown,9300
+"Dunedin Airport",DUD,-45.9281,170.1983,New Zealand,Dunedin,9024
+"Nadi International",NAN,-17.7554,177.4430,Fiji,Nadi,NA
+"Suva Nausori Airport",SUV,-18.0433,178.5592,Fiji,Suva,NA
+"Luxembourg Findel",LUX,49.6265,6.2044,Luxembourg,Luxembourg City,L-1110
+"Malta International",MLA,35.8575,14.4775,Malta,Valletta,BRG 1001
+"Larnaca International",LCA,34.8751,33.6249,Cyprus,Larnaca,7180
+"Paphos International",PFO,34.7180,32.4857,Cyprus,Paphos,8280
+"Reykjavik Keflavik International",KEF,63.9850,-22.6056,Iceland,Reykjavik,235
+"Chisinau International",KIV,46.9277,28.9317,Moldova,Chisinau,MD-2026
+"Minsk National Airport",MSQ,53.8825,28.0322,Belarus,Minsk,231697
+"Kyiv Boryspil International",KBP,50.3450,30.8942,Ukraine,Kyiv,08307
+"Lviv Danylo Halytskyi International",LWO,49.8125,23.9561,Ukraine,Lviv,79019
+"Odessa International Airport",ODS,46.4268,30.6765,Ukraine,Odessa,65000
+"Kharkiv International Airport",HRK,49.9249,36.2900,Ukraine,Kharkiv,61107
+"Tbilisi International Airport",TBS,41.6692,44.9547,Georgia,Tbilisi,0159
+"Batumi International Airport",BUS,41.6103,41.5997,Georgia,Batumi,6010
+"Yerevan Zvartnots International",EVN,40.1473,44.3959,Armenia,Yerevan,0042
+"Baku Heydar Aliyev International",GYD,40.4675,50.0467,Azerbaijan,Baku,AZ1044
+"Moscow Sheremetyevo International",SVO,55.9726,37.4149,Russia,Moscow,141400
+"Moscow Domodedovo International",DME,55.4088,37.9064,Russia,Moscow,142015
+"St Petersburg Pulkovo Airport",LED,59.8003,30.2625,Russia,St Petersburg,196210
+"Sochi International Airport",AER,43.4499,39.9566,Russia,Sochi,354355
+"Yekaterinburg Koltsovo Airport",SVX,56.7431,60.8028,Russia,Yekaterinburg,620025
+"Novosibirsk Tolmachevo Airport",OVB,54.9663,82.9006,Russia,Novosibirsk,630025
+"Riyadh King Khalid International",RUH,24.9576,46.6988,Saudi Arabia,Riyadh,11564
+"Jeddah King Abdulaziz International",JED,21.6796,39.1565,Saudi Arabia,Jeddah,21421
+"Dammam King Fahd International",DMM,26.4712,49.7979,Saudi Arabia,Dammam,31441
+"Medina Prince Mohammed International",MED,24.5534,39.7051,Saudi Arabia,Medina,42365
+"Doha Hamad International Airport",DOH,25.2610,51.6138,Qatar,Doha,22004
+"Kuwait International Airport",KWI,29.2267,47.9689,Kuwait,Kuwait City,13001
+"Bahrain International Airport",BAH,26.2708,50.6336,Bahrain,Manama,660000
+"Muscat International Airport",MCT,23.5933,58.2844,Oman,Muscat,117
+"Salalah Airport",SLL,17.0387,54.0913,Oman,Salalah,211
+"Queen Alia International Airport",AMM,31.7226,35.9932,Jordan,Amman,11118
+"Aqaba King Hussein International",AQJ,29.6117,35.0181,Jordan,Aqaba,77110
+"Beirut Rafic Hariri International",BEY,33.8208,35.4886,Lebanon,Beirut,1100
+"Baghdad International Airport",BGW,33.2625,44.2346,Iraq,Baghdad,10070
+"Erbil International Airport",EBL,36.2376,43.9632,Iraq,Erbil,44001
+"Basra International Airport",BSR,30.5491,47.6621,Iraq,Basra,61001
+"Tehran Imam Khomeini International",IKA,35.4161,51.1522,Iran,Tehran,1876631
+"Mashhad Shahid Hashemi Nejad",MHD,36.2352,59.6411,Iran,Mashhad,9188968
+"Isfahan International Airport",IFN,32.7508,51.8614,Iran,Isfahan,8177861
+"Shiraz International Airport",SYZ,29.5392,52.5898,Iran,Shiraz,71456
+"Tabriz International Airport",TBZ,38.1339,46.2350,Iran,Tabriz,5166944
+"Almaty International Airport",ALA,43.3521,77.0405,Kazakhstan,Almaty,050012
+"Astana International Airport",NQZ,51.0228,71.4669,Kazakhstan,Astana,010000
+"Tashkent Yuzhny International",TAS,41.2579,69.2812,Uzbekistan,Tashkent,100000
+"Samarkand International Airport",SKD,39.7005,66.9838,Uzbekistan,Samarkand,140100
+"Bishkek Manas International",FRU,42.8882,74.4776,Kyrgyzstan,Bishkek,720021
+"Dushanbe International Airport",DYU,38.5433,68.7749,Tajikistan,Dushanbe,734000
+"Ashgabat International Airport",ASB,37.9868,58.3610,Turkmenistan,Ashgabat,744000
+"Ulaanbaatar Chinggis Khaan International",UBN,47.8431,106.7664,Mongolia,Ulaanbaatar,17000
+"Beijing Capital International Airport",PEK,40.0799,116.5846,China,Beijing,101300
+"Shanghai Pudong International Airport",PVG,31.1434,121.8082,China,Shanghai,201202
+"Guangzhou Baiyun International Airport",CAN,23.3924,113.2988,China,Guangzhou,510405
+"Chengdu Tianfu International Airport",CTU,30.5785,103.9471,China,Chengdu,641400
+"Shenzhen Bao'an International Airport",SZX,22.6393,113.8107,China,Shenzhen,518128
+"Kunming Changshui International Airport",KMG,24.9920,102.7433,China,Kunming,650200
+"Xian Xianyang International Airport",XIY,34.4471,108.7516,China,Xian,712038
+"Wuhan Tianhe International Airport",WUH,30.7838,114.2081,China,Wuhan,430345
+"Hangzhou Xiaoshan International Airport",HGH,30.2295,120.4346,China,Hangzhou,311229
+"Nanjing Lukou International Airport",NKG,31.7423,118.8620,China,Nanjing,211100
+"Chongqing Jiangbei International Airport",CKG,29.7192,106.6416,China,Chongqing,401120
+"Qingdao Jiaodong International Airport",TAO,36.2661,120.3745,China,Qingdao,266100
+"Xiamen Gaoqi International Airport",XMN,24.5440,118.1277,China,Xiamen,361009
+"Harbin Taiping International Airport",HRB,45.6234,126.2501,China,Harbin,150066
+"Dalian Zhoushuizi International Airport",DLC,38.9657,121.5386,China,Dalian,116033
+"Sanya Phoenix International Airport",SYX,18.3029,109.4120,China,Sanya,572000
+"Zhengzhou Xinzheng International Airport",CGO,34.5197,113.8410,China,Zhengzhou,451162
+"Changsha Huanghua International Airport",CSX,28.1891,113.2196,China,Changsha,410137
+"Nanning Wuxu International Airport",NNG,22.6083,108.1722,China,Nanning,530049
+"Seoul Incheon International Airport",ICN,37.4691,126.4510,South Korea,Seoul,22382
+"Busan Gimhae International Airport",PUS,35.1795,128.9381,South Korea,Busan,46721
+"Jeju International Airport",CJU,33.5113,126.4930,South Korea,Jeju City,63010
+"Yangon International Airport",RGN,16.9073,96.1332,Myanmar,Yangon,11171
+"Mandalay International Airport",MDL,21.7022,95.9779,Myanmar,Mandalay,05031
+"Bangkok Suvarnabhumi International",BKK,13.6811,100.7475,Thailand,Bangkok,10540
+"Bangkok Don Mueang International",DMK,13.9126,100.6069,Thailand,Bangkok,10210
+"Phuket International Airport",HKT,8.1132,98.3167,Thailand,Phuket,83110
+"Chiang Mai International Airport",CNX,18.7668,98.9629,Thailand,Chiang Mai,50200
+"Krabi Airport",KBV,8.0993,98.9862,Thailand,Krabi,81000
+"Koh Samui Airport",USM,9.5478,100.0629,Thailand,Koh Samui,84320
+"Hanoi Noi Bai International Airport",HAN,21.2187,105.8042,Vietnam,Hanoi,100000
+"Ho Chi Minh Tan Son Nhat International",SGN,10.8188,106.6519,Vietnam,Ho Chi Minh City,70000
+"Da Nang International Airport",DAD,16.0444,108.1993,Vietnam,Da Nang,550000
+"Nha Trang Cam Ranh International",CXR,11.9983,109.2192,Vietnam,Nha Trang,650000
+"Phnom Penh International Airport",PNH,11.5466,104.8440,Cambodia,Phnom Penh,12000
+"Siem Reap International Airport",REP,13.4107,103.8129,Cambodia,Siem Reap,17252
+"Vientiane Wattay International Airport",VTE,17.9883,102.5633,Laos,Vientiane,01000
+"Luang Prabang International Airport",LPQ,19.8975,102.1608,Laos,Luang Prabang,06000
+"Jakarta Soekarno-Hatta International",CGK,-6.1255,106.6558,Indonesia,Jakarta,19120
+"Bali Ngurah Rai International Airport",DPS,-8.7481,115.1671,Indonesia,Bali,80361
+"Surabaya Juanda International Airport",SUB,-7.3798,112.7869,Indonesia,Surabaya,61253
+"Medan Kualanamu International Airport",KNO,3.6422,98.8855,Indonesia,Medan,20552
+"Lombok International Airport",LOP,-8.7573,116.2767,Indonesia,Mataram,83361
+"Yogyakarta Kulon Progo Airport",YIA,-7.9082,110.0568,Indonesia,Yogyakarta,55001
+"Makassar Sultan Hasanuddin International",UPG,-5.0617,119.5540,Indonesia,Makassar,90243
+"Kuala Lumpur International Airport",KUL,2.7456,101.7099,Malaysia,Kuala Lumpur,64000
+"Penang International Airport",PEN,5.2977,100.2768,Malaysia,Penang,11900
+"Kota Kinabalu International Airport",BKI,5.9372,116.0519,Malaysia,Kota Kinabalu,88100
+"Langkawi International Airport",LGK,6.3297,99.7287,Malaysia,Langkawi,07000
+"Johor Bahru Senai International Airport",JHB,1.6413,103.6697,Malaysia,Johor Bahru,81250
+"Manila Ninoy Aquino International Airport",MNL,14.5086,121.0197,Philippines,Manila,1301
+"Cebu Mactan-Cebu International Airport",CEB,10.3075,123.9791,Philippines,Cebu City,6015
+"Davao Francisco Bangoy International",DVO,7.1255,125.6458,Philippines,Davao,8000
+"Puerto Princesa International Airport",PPS,9.7421,118.7590,Philippines,Puerto Princesa,5300
+"Caticlan Godofredo P. Ramos Airport",MPH,11.9245,121.9530,Philippines,Caticlan,5608
+"Delhi Indira Gandhi International Airport",DEL,28.5561,77.1000,India,New Delhi,110037
+"Mumbai Chhatrapati Shivaji Maharaj International",BOM,19.0896,72.8656,India,Mumbai,400099
+"Bangalore Kempegowda International Airport",BLR,13.1986,77.7066,India,Bangalore,560300
+"Chennai International Airport",MAA,12.9900,80.1693,India,Chennai,600027
+"Kolkata Netaji Subhas Chandra Bose International",CCU,22.6547,88.4467,India,Kolkata,700052
+"Hyderabad Rajiv Gandhi International Airport",HYD,17.2313,78.4298,India,Hyderabad,500108
+"Goa Manohar International Airport",GOI,15.3808,73.8314,India,Goa,403506
+"Kochi International Airport",COK,10.1520,76.3922,India,Kochi,683111
+"Pune Airport",PNQ,18.5822,73.9197,India,Pune,411032
+"Ahmedabad Sardar Vallabhbhai Patel International",AMD,23.0771,72.6347,India,Ahmedabad,382475
+"Jaipur International Airport",JAI,26.8242,75.8122,India,Jaipur,302029
+"Varanasi Lal Bahadur Shastri International",VNS,25.4523,82.8593,India,Varanasi,221006
+"Amritsar Sri Guru Ram Dass Jee International",ATQ,31.7096,74.7973,India,Amritsar,143001
+"Lucknow Chaudhary Charan Singh International",LKO,26.7606,80.8893,India,Lucknow,226021
+"Colombo Bandaranaike International Airport",CMB,7.1807,79.8841,Sri Lanka,Colombo,11232
+"Kathmandu Tribhuvan International Airport",KTM,27.6966,85.3591,Nepal,Kathmandu,44600
+"Dhaka Hazrat Shahjalal International Airport",DAC,23.8433,90.3978,Bangladesh,Dhaka,1229
+"Chittagong Shah Amanat International Airport",CGP,22.2496,91.8133,Bangladesh,Chittagong,4202
+"Karachi Jinnah International Airport",KHI,24.9065,67.1609,Pakistan,Karachi,75200
+"Lahore Allama Iqbal International Airport",LHE,31.5216,74.4036,Pakistan,Lahore,54700
+"Islamabad International Airport",ISB,33.5487,72.8258,Pakistan,Islamabad,44000
+"Male Velana International Airport",MLE,4.1918,73.5290,Maldives,Male,20026
+"Paro International Airport",PBH,27.4032,89.4281,Bhutan,Paro,13001
+"Casablanca Mohammed V International",CMN,33.3675,-7.5900,Morocco,Casablanca,20500
+"Marrakech Menara Airport",RAK,31.6069,-8.0363,Morocco,Marrakech,40001
+"Fez Saiss Airport",FEZ,33.9273,-4.9780,Morocco,Fez,30000
+"Agadir Al Massira Airport",AGA,30.3250,-9.4131,Morocco,Agadir,80000
+"Tangier Ibn Battouta Airport",TNG,35.7269,-5.9169,Morocco,Tangier,90000
+"Rabat-Sale Airport",RBA,34.0515,-6.7515,Morocco,Rabat,10020
+"Tunis-Carthage International Airport",TUN,36.8510,10.2272,Tunisia,Tunis,2035
+"Djerba-Zarzis International Airport",DJE,33.8750,10.7755,Tunisia,Djerba,4116
+"Monastir Habib Bourguiba International",MIR,35.7578,10.7547,Tunisia,Monastir,5000
+"Algiers Houari Boumediene International",ALG,36.6910,3.2154,Algeria,Algiers,16000
+"Oran Ahmed Ben Bella Airport",ORN,35.6239,-0.6212,Algeria,Oran,31000
+"Constantine Mohamed Boudiaf Airport",CZL,36.2760,6.6204,Algeria,Constantine,25000
+"Tripoli Mitiga International Airport",MJI,32.8941,13.2763,Libya,Tripoli,00100
+"Lagos Murtala Muhammed International",LOS,6.5774,3.3212,Nigeria,Lagos,100001
+"Abuja Nnamdi Azikiwe International",ABV,9.0068,7.2632,Nigeria,Abuja,900001
+"Kano Mallam Aminu Kano International",KAN,12.0476,8.5246,Nigeria,Kano,700001
+"Port Harcourt International Airport",PHC,5.0155,6.9496,Nigeria,Port Harcourt,500001
+"Accra Kotoka International Airport",ACC,5.6052,-0.1667,Ghana,Accra,00233
+"Kumasi Airport",KMS,6.7146,-1.5908,Ghana,Kumasi,00233
+"Dakar Blaise Diagne International",DSS,14.6701,-17.0733,Senegal,Dakar,12000
+"Abidjan Felix Houphouet-Boigny International",ABJ,5.2614,-3.9263,Ivory Coast,Abidjan,01
+"Addis Ababa Bole International Airport",ADD,8.9779,38.7993,Ethiopia,Addis Ababa,1000
+"Nairobi Jomo Kenyatta International",NBO,-1.3192,36.9275,Kenya,Nairobi,00501
+"Mombasa Moi International Airport",MBA,-4.0348,39.5943,Kenya,Mombasa,80100
+"Dar es Salaam Julius Nyerere International",DAR,-6.8781,39.2026,Tanzania,Dar es Salaam,11401
+"Zanzibar Abeid Amani Karume International",ZNZ,-6.2220,39.2249,Tanzania,Zanzibar,71101
+"Kilimanjaro International Airport",JRO,-3.4294,37.0745,Tanzania,Kilimanjaro,25520
+"Entebbe International Airport",EBB,0.0424,32.4435,Uganda,Kampala,256
+"Kigali International Airport",KGL,-1.9686,30.1395,Rwanda,Kigali,00000
+"Harare International Airport",HRE,-17.9318,31.0928,Zimbabwe,Harare,00263
+"Victoria Falls Airport",VFA,-18.0959,25.8390,Zimbabwe,Victoria Falls,00263
+"Lusaka Kenneth Kaunda International",LUN,-15.3308,28.4526,Zambia,Lusaka,10101
+"Windhoek Hosea Kutako International",WDH,-22.4799,17.4709,Namibia,Windhoek,10005
+"Gaborone Sir Seretse Khama International",GBE,-24.5552,25.9182,Botswana,Gaborone,00267
+"Maputo International Airport",MPM,-25.9208,32.5726,Mozambique,Maputo,1101
+"Antananarivo Ivato International Airport",TNR,-18.7969,47.4788,Madagascar,Antananarivo,101
+"Mauritius Sir Seewoosagur Ramgoolam International",MRU,-20.4302,57.6836,Mauritius,Port Louis,74615
+"Seychelles International Airport",SEZ,-4.6744,55.5219,Seychelles,Victoria,00248
+"Luanda Quatro de Fevereiro International",LAD,-8.8582,13.2312,Angola,Luanda,00244
+"Douala International Airport",DLA,4.0061,9.7195,Cameroon,Douala,00237
+"Yaounde Nsimalen International Airport",YAO,3.7224,11.5533,Cameroon,Yaounde,00237
+"Kinshasa Ndjili International Airport",FIH,-4.3875,15.4446,DR Congo,Kinshasa,00243
+"Khartoum International Airport",KRT,15.5895,32.5532,Sudan,Khartoum,11111
+"Djibouti Ambouli International Airport",JIB,11.5473,43.1594,Djibouti,Djibouti City,00253
+"Sal Amilcar Cabral International Airport",SID,16.7414,-22.9494,Cape Verde,Sal,00238
+"Praia Nelson Mandela International Airport",RAI,14.9245,-23.4935,Cape Verde,Praia,7600
+"Libreville Leon Mba International Airport",LBV,0.4586,9.4123,Gabon,Libreville,00241
+"Monrovia Roberts International Airport",ROB,6.2338,-10.3623,Liberia,Monrovia,1000
+"Freetown Lungi International Airport",FNA,8.6163,-13.1950,Sierra Leone,Freetown,00232
+"Conakry Gbessia International Airport",CKY,9.5769,-13.6120,Guinea,Conakry,001
+"Bamako Senou International Airport",BKO,12.5335,-7.9499,Mali,Bamako,00223
+"Niamey Diori Hamani International Airport",NIM,13.4815,2.1836,Niger,Niamey,00227
+"Ouagadougou International Airport",OUA,12.3532,-1.5125,Burkina Faso,Ouagadougou,00226
+"Cotonou Cadjehoun International Airport",COO,6.3572,2.3845,Benin,Cotonou,01
+"Lome Gnassingbe Eyadema International",LFW,6.1656,1.2545,Togo,Lome,00228
+"Asmara International Airport",ASM,15.2919,38.9107,Eritrea,Asmara,00291
+"Mogadishu Aden Adde International Airport",MGQ,2.0144,45.3047,Somalia,Mogadishu,00252
+"Bogota El Dorado International Airport",BOG,4.7016,-74.1469,Colombia,Bogota,110111
+"Medellin Jose Maria Cordova International",MDE,6.1646,-75.4231,Colombia,Medellin,055440
+"Cali Alfonso Bonilla Aragon International",CLO,3.5433,-76.3816,Colombia,Cali,760031
+"Cartagena Rafael Nunez International",CTG,10.4424,-75.5131,Colombia,Cartagena,130010
+"Barranquilla Ernesto Cortissoz International",BAQ,10.8896,-74.7808,Colombia,Barranquilla,080001
+"Lima Jorge Chavez International Airport",LIM,-12.0219,-77.1143,Peru,Lima,07031
+"Cusco Alejandro Velasco Astete International",CUZ,-13.5357,-71.9388,Peru,Cusco,08001
+"Arequipa Rodriguez Ballon International",AQP,-16.3411,-71.5831,Peru,Arequipa,04001
+"Santiago Arturo Merino Benitez International",SCL,-33.3930,-70.7858,Chile,Santiago,9020000
+"Punta Arenas Carlos Ibanez del Campo",PUQ,-53.0024,-70.8557,Chile,Punta Arenas,6210001
+"La Paz El Alto International Airport",LPB,-16.5133,-68.1922,Bolivia,La Paz,0000
+"Santa Cruz Viru Viru International Airport",VVI,-17.6448,-63.1354,Bolivia,Santa Cruz,0000
+"Quito Mariscal Sucre International Airport",UIO,-0.1292,-78.3575,Ecuador,Quito,170143
+"Guayaquil Jose Joaquin de Olmedo International",GYE,-2.1574,-79.8836,Ecuador,Guayaquil,090203
+"Caracas Simon Bolivar International Airport",CCS,10.6012,-66.9918,Venezuela,Caracas,1160
+"Maracaibo La Chinita International Airport",MAR,10.5582,-71.7278,Venezuela,Maracaibo,4001
+"Asuncion Silvio Pettirossi International",ASU,-25.2398,-57.5199,Paraguay,Asuncion,111421
+"Montevideo Carrasco International Airport",MVD,-34.8384,-56.0308,Uruguay,Montevideo,11600
+"Havana Jose Marti International Airport",HAV,22.9893,-82.4093,Cuba,Havana,10400
+"Varadero Juan G Gomez International",VRA,23.0344,-81.4353,Cuba,Varadero,42200
+"Santo Domingo Las Americas International",SDQ,18.4297,-69.6689,Dominican Republic,Santo Domingo,10101
+"Punta Cana International Airport",PUJ,18.5674,-68.3634,Dominican Republic,Punta Cana,23000
+"Kingston Norman Manley International",KIN,17.9357,-76.7875,Jamaica,Kingston,JMKND07
+"Montego Bay Donald Sangster International",MBJ,18.5037,-77.9135,Jamaica,Montego Bay,00000
+"Port of Spain Piarco International Airport",POS,10.5954,-61.3372,Trinidad and Tobago,Port of Spain,00000
+"Bridgetown Grantley Adams International",BGI,13.0746,-59.4925,Barbados,Bridgetown,BB15156
+"San Jose Juan Santamaria International",SJO,9.9940,-84.2088,Costa Rica,San Jose,10100
+"Panama City Tocumen International Airport",PTY,9.0714,-79.3835,Panama,Panama City,00001
+"Guatemala City La Aurora International",GUA,14.5833,-90.5278,Guatemala,Guatemala City,01014
+"San Pedro Sula Ramon Villeda Morales",SAP,15.4526,-87.9236,Honduras,San Pedro Sula,21101
+"Tegucigalpa Toncontin International Airport",TGU,14.0608,-87.2172,Honduras,Tegucigalpa,11101
+"San Salvador El Salvador International",SAL,13.4409,-89.0557,El Salvador,San Salvador,01101
+"Managua Augusto C Sandino International",MGA,12.1415,-86.1682,Nicaragua,Managua,14001
+"Belize City Philip Goldson International",BZE,17.5391,-88.3082,Belize,Belize City,00000
+"Port-au-Prince Toussaint Louverture International",PAP,18.5800,-72.2925,Haiti,Port-au-Prince,HT6110
+"Nassau Lynden Pindling International Airport",NAS,25.0388,-77.4662,Bahamas,Nassau,00000
+"Georgetown Cheddi Jagan International Airport",GEO,6.4985,-58.2541,Guyana,Georgetown,00001
+"Paramaribo Johan Adolf Pengel International",PBM,5.4528,-55.1878,Suriname,Paramaribo,00001
+"Port Moresby Jacksons International Airport",POM,-9.4433,147.2200,Papua New Guinea,Port Moresby,121
+"Mt Hagen Kagamuga Airport",HGU,-5.8268,144.2959,Papua New Guinea,Mt Hagen,281
+"Port Vila Bauerfield International Airport",VLI,-17.6993,168.3200,Vanuatu,Port Vila,00678
+"Honiara Henderson International Airport",HIR,-9.4280,160.0553,Solomon Islands,Honiara,00677
+"Nukualofa Fuaamotu International Airport",TBU,-21.2412,-175.1497,Tonga,Nukualofa,00676
+"Apia Faleolo International Airport",APW,-13.8300,-172.0083,Samoa,Apia,00685
+"Funafuti International Airport",FUN,-8.5250,179.1960,Tuvalu,Funafuti,00688
+"Tarawa Bonriki International Airport",TRW,1.3816,173.1416,Kiribati,Tarawa,00686
+"Nauru International Airport",INU,-0.5470,166.9190,Nauru,Yaren,00674
+"Majuro Marshall Islands International",MAJ,7.0648,171.2721,Marshall Islands,Majuro,96960
+"Palau Babelthuap International Airport",ROR,7.3680,134.5442,Palau,Koror,96940
+"Pohnpei International Airport",PNI,6.9851,158.2090,Micronesia,Pohnpei,96941
+"Brazzaville Maya-Maya Airport",BZV,-4.2517,15.2531,Republic of Congo,Brazzaville,00242
+"Malabo Santa Isabel Airport",SSG,3.7553,8.7081,Equatorial Guinea,Malabo,00240
+"Sao Tome International Airport",TMS,0.3782,6.7121,Sao Tome and Principe,Sao Tome,00239
+"Bangui M'Poko International Airport",BGF,4.3985,18.5188,Central African Republic,Bangui,00236
+"N'Djamena Hassan Djamous International Airport",NDJ,12.1337,15.0340,Chad,Ndjamena,00235
+"Juba International Airport",JUB,4.8720,31.6011,South Sudan,Juba,00211
+"Bujumbura Melchior Ndadaye International Airport",BJM,-3.3242,29.3185,Burundi,Bujumbura,00257
+"Lilongwe Kamuzu International Airport",LLW,-13.7894,33.7816,Malawi,Lilongwe,00265
+"Moroni Prince Said Ibrahim International Airport",HAH,-11.5337,43.2719,Comoros,Moroni,00269
+"Bissau Osvaldo Vieira International Airport",OXB,11.8900,-15.6537,Guinea-Bissau,Bissau,00245
+"Banjul International Airport",BJL,13.3380,-16.6522,Gambia,Banjul,00220
+"Nouakchott Oumtounsy International Airport",NKC,18.0980,-15.9476,Mauritania,Nouakchott,00222
+"Manzini King Mswati III International Airport",MTS,-26.5587,31.1075,Eswatini,Manzini,00268
+"Maseru Moshoeshoe I International Airport",MSU,-29.4623,27.5524,Lesotho,Maseru,00266
+"Cape Town International Airport",CPT,-33.9648,18.6017,South Africa,Cape Town,00000
+"Durban King Shaka International Airport",DUR,-29.6144,31.1197,South Africa,Durban,00000
+"Bandar Seri Begawan Brunei International Airport",BWN,4.9442,114.9280,Brunei,Bandar Seri Begawan,00673
+"Dili Presidente Nicolau Lobato International Airport",DIL,-8.5477,125.5270,Timor-Leste,Dili,00670
+"Dominica Douglas-Charles Airport",DCF,15.5471,-61.3000,Dominica,Roseau,00767
+"Grenada Maurice Bishop International Airport",GND,12.0042,-61.7862,Grenada,St George's,00473
+"Saint Lucia Hewanorra International Airport",UVF,13.7333,-60.9526,Saint Lucia,Castries,00758
+"Antigua VC Bird International Airport",ANU,17.1368,-61.7927,Antigua and Barbuda,St John's,00268
+"Saint Vincent Argyle International Airport",SVD,13.1563,-61.1494,Saint Vincent and the Grenadines,Kingstown,00784
+"Saint Kitts Robert L Bradshaw International Airport",SKB,17.3112,-62.7189,Saint Kitts and Nevis,Basseterre,00869
+"Kabul Hamid Karzai International Airport",KBL,34.5659,69.2123,Afghanistan,Kabul,00093
+"Damascus International Airport",DAM,33.4115,36.5156,Syria,Damascus,00963
+"Sanaa International Airport",SAH,15.4763,44.2197,Yemen,Sanaa,00967
+"Pyongyang Sunan International Airport",FNJ,39.2241,125.6702,North Korea,Pyongyang,00850
