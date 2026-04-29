@@ -1,0 +1,671 @@
+/* MMM-iAmGoingThere.css */
+
+/* ── Wrapper ─────────────────────────────────────────────────────────────── */
+.iAGT-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+.iAGT-header {
+  text-align: center;
+  padding: 14px 0 8px;
+  flex: 0 0 auto;
+}
+
+.iAGT-title {
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 0 24px rgba(68,153,255,0.45);
+}
+
+.iAGT-dest {
+  font-weight: 700;
+  color: #4499FF;
+}
+
+/* ── Countdown box ───────────────────────────────────────────────────────── */
+.iAGT-countdown-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.iAGT-countdown {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 22px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 30px;
+  font-size: 15px;
+  letter-spacing: 0.8px;
+  color: #BBBBBB;
+  transition: background 0.4s, border-color 0.4s;
+}
+
+.iAGT-cd-icon { font-size: 18px; }
+.iAGT-cd-subtitle { font-size: 10px; color: #FF4444; margin-top: 2px; text-transform: uppercase; font-weight: 600; display: none; }
+
+/* Countdown states */
+.iAGT-countdown.iAGT-soon     { border-color: rgba(255,215,0,0.4); }
+.iAGT-countdown.iAGT-soon     .iAGT-cd-text { color: #FFD700; font-weight: 600; }
+.iAGT-countdown.iAGT-today    { border-color: rgba(255,140,0,0.5); background: rgba(255,140,0,0.08); }
+.iAGT-countdown.iAGT-today    .iAGT-cd-text { color: #FF8C00; font-weight: 700; animation: iAGT-pulse 1.6s ease-in-out infinite; }
+.iAGT-countdown.iAGT-departed { border-color: rgba(160,180,210,0.4); background: rgba(160,180,210,0.06); }
+.iAGT-countdown.iAGT-departed .iAGT-cd-text { color: #A0B4D2; font-weight: 600; animation: iAGT-pulse 2.4s ease-in-out infinite; }
+.iAGT-countdown.iAGT-inflight { border-color: rgba(68,153,255,0.5); background: rgba(68,153,255,0.08); }
+.iAGT-countdown.iAGT-inflight .iAGT-cd-text { color: #4499FF; font-weight: 600; }
+.iAGT-countdown.iAGT-complete { border-color: rgba(0,204,102,0.4); }
+.iAGT-countdown.iAGT-complete .iAGT-cd-text { color: #00CC66; font-weight: 600; }
+.iAGT-countdown.iAGT-boarding { border-color: rgba(255,193,7,0.7); background: rgba(255,193,7,0.10); border-radius: 8px; padding: 8px 20px; animation: iAGT-pulse 1.6s ease-in-out infinite; }
+.iAGT-countdown.iAGT-boarding .iAGT-cd-icon { color: #FFC107; font-size: 22px; }
+.iAGT-countdown.iAGT-boarding .iAGT-cd-text { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.iAGT-board-flight { font-weight: 700; font-size: 1.05em; color: #FFC107; letter-spacing: 1px; }
+.iAGT-board-chip { background: rgba(255,193,7,0.18); border: 1px solid rgba(255,193,7,0.45); border-radius: 4px; padding: 1px 7px; font-size: 0.88em; color: #FFE082; font-weight: 600; }
+.iAGT-board-etd { font-size: 0.95em; color: #FFECB3; font-weight: 700; }
+
+@keyframes iAGT-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.45; }
+}
+
+/* ── Map container ───────────────────────────────────────────────────────── */
+.iAGT-map-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background: #1A1A2E;
+  border-radius: 4px;
+  margin-top: 8px;
+  flex: 1 1 0;
+  min-height: 0;
+}
+
+/* ── Map loading placeholder ─────────────────────────────────────────────── */
+.iAGT-map-loading {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  color: rgba(255,255,255,0.40);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  pointer-events: none;
+  z-index: 5;
+}
+
+/* ── Overlay flight table ────────────────────────────────────────────────── */
+.iAGT-table-overlay {
+  left: 0; 
+  bottom: 0; 
+  right: auto; 
+  top: auto; 
+  width: 46vw; 
+  max-width: 46vw;
+  height: 32vh; 
+  position: absolute !important; 
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.80);
+  border: 1px solid rgba(68, 153, 255, 0.30);
+  border-radius: 8px;
+  padding: 10px 12px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.iAGT-map-container > * { max-width: none !important; }
+
+/* Table title */
+.iAGT-tbl-title {
+  font-size: 0.95em;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #4499FF;
+  padding: 4px 4px 6px;
+  border-bottom: 1px solid rgba(68,153,255,0.30);
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+/* Scroll wrapper — flex child that grows, clips scrollEl, hosts custom scrollbar */
+.iAGT-scroll-wrap {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Scrollable tbody region */
+.iAGT-tbl-scroll {
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: auto;
+  padding-right: 12px;
+  box-sizing: border-box;
+}
+
+/* Table — auto layout lets columns size to their content (single line per row) */
+.iAGT-tbl {
+  border-collapse: collapse;
+  table-layout: auto;
+  width: auto;
+  white-space: nowrap;
+  color: #fff;
+  font-size: 7px;   /* default — overridden by iAGT-fs-* classes below */
+}
+
+.iAGT-tbl th {
+  padding: 2px 6px;
+  text-align: left;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #888;
+  border-bottom: 1px solid rgba(255,255,255,0.14);
+  font-size: 0.9em;
+  position: sticky;
+  top: 0;
+  background: rgba(0, 0, 0, 0.90);
+  z-index: 1;
+  white-space: nowrap;
+}
+
+.iAGT-tbl td {
+  padding: 2px 6px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  font-size: 1em;
+  white-space: nowrap;
+}
+
+.iAGT-tbl tr:last-child td { border-bottom: none; }
+
+/* Flight number column */
+.iAGT-tbl .col-fn {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+  color: #FFD700;
+  letter-spacing: 1px;
+}
+
+/* Local departure time sub-line inside the date column */
+.iAGT-tbl .col-time {
+  display: block;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.88em;
+  color: #AAAAAA;
+  letter-spacing: 0.5px;
+}
+
+/* Status column */
+.iAGT-tbl .col-st { font-weight: 700; text-align: center; }
+
+/* Row & status colours — text matches the flight-path colour convention */
+.iAGT-tbl .st-sched .col-st,
+.iAGT-tbl .col-st.st-sched   { color: #FFFFFF !important; } /* White  — Scheduled  */
+
+.iAGT-tbl tr.st-active        { background: rgba(68,153,255,0.10); }
+.iAGT-tbl .col-st.st-active   { color: #4499FF !important; } /* Blue   — Airborne   */
+
+.iAGT-tbl tr.st-landed        { background: rgba(0,204,102,0.06); }
+.iAGT-tbl .col-st.st-landed   { color: #00CC66 !important; } /* Green  — Landed     */
+
+.iAGT-tbl tr.st-cancel        { opacity: 0.65; }
+.iAGT-tbl .col-st.st-cancel   { color: #FF4444 !important; } /* Red    — Cancelled  */
+
+.iAGT-empty {
+  text-align: center;
+  color: #555;
+  font-style: italic;
+  padding: 10px;
+}
+
+/* ── Scenario 3 traveler name cell — background colour applied via inline style ── */
+.iAGT-tbl .col-name {
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+
+/* ── Flight table text-size modifier classes ─────────────────────────────── */
+/*
+ * Applied to the .iAGT-table-overlay wrapper via setFlightDetailsTextSize.
+ */
+.iAGT-fs-xsmall .iAGT-tbl { font-size: 0.8em; }
+.iAGT-fs-small  .iAGT-tbl { font-size: 1.0em; }
+.iAGT-fs-medium .iAGT-tbl { font-size: 1.3em; }
+.iAGT-fs-large  .iAGT-tbl { font-size: 1.6em; }
+.iAGT-fs-xlarge .iAGT-tbl { font-size: 2.0em; }
+
+/* ── City info panel fade transition ────────────────────────────────────── */
+.iAGT-city-info-overlay {
+  transition: opacity 0.3s ease;
+}
+
+.iAGT-city-info-overlay.iAGT-ci-fading {
+  opacity: 0;
+}
+
+/* ── City info overlay ───────────────────────────────────────────────────── */
+.iAGT-city-info-overlay {
+  z-index: 1000 !important; 
+  bottom: 0; 
+  right: 0; 
+  top: auto; 
+  left: auto; 
+  position: absolute !important; 
+  width: 48vw; 
+  height: 30vh; 
+  overflow: hidden !important;
+  background: rgba(0, 0, 0, 0.80);
+  border: 1px solid rgba(68, 153, 255, 0.30);
+  border-radius: 8px;
+  padding: 10px 12px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.iAGT-ci-hdr {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: #4499FF;
+  margin-bottom: 4px;
+  padding: 4px 4px 6px;
+  border-bottom: 1px solid rgba(68,153,255,0.30);
+}
+
+.ci-pin { font-size: 1.4em; }
+
+.iAGT-weather-pill {
+  margin-left: 8px;
+  padding: 2px 8px;
+  background: rgba(68, 153, 255, 0.15);
+  border: 1px solid rgba(68, 153, 255, 0.3);
+  border-radius: 12px;
+  font-size: 0.85em;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.iAGT-weather-updated {
+  font-size: 0.78em;
+  color: rgba(255,255,255,0.50);
+  margin-left: 4px;
+  font-style: italic;
+}
+
+/* Scrollable wrapper inside the attractions panel */
+.iAGT-atts-scroll {
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding-right: 12px;
+  box-sizing: border-box;
+}
+
+/* Attractions table grid */
+.iAGT-atts-tbl {
+  border-collapse: collapse;
+  table-layout: auto;
+  width: auto;
+  white-space: nowrap;
+  color: #fff;
+  font-size: 7px;
+}
+
+.iAGT-atts-tbl thead th {
+  position: sticky;
+  top: 0;
+  background: rgba(0, 0, 0, 0.90);
+  padding: 2px 6px;
+  text-align: left;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  font-size: 0.9em;
+  color: #888;
+  border-bottom: 1px solid rgba(255,255,255,0.14);
+  z-index: 1;
+  white-space: nowrap;
+}
+
+.iAGT-att td {
+  padding: 2px 6px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  vertical-align: top;
+  line-height: 1.2;
+}
+
+.iAGT-att:last-child td { border-bottom: none; }
+.iAGT-att:hover         { background: rgba(255,255,255,0.04); }
+
+.iAGT-att-highlight     { background: rgba(68,153,255,0.18) !important; }
+.iAGT-att-highlight .att-num  { color: #FFD700; }
+.iAGT-att-highlight .att-name { color: #4499FF; }
+
+.att-num  { color: #FFD700; font-weight: 700; font-size: 0.9em; width: 28px; text-align: center; }
+.att-name { font-weight: 600; color: #fff; width: 160px; }
+.att-desc { color: #fff; font-size: 0.92em; }
+
+.iAGT-no-data {
+  color: #555;
+  font-style: italic;
+  font-size: 0.92em;
+  margin: 4px 0;
+}
+
+/* ── Attractions text-size modifier classes ──────────────────────────────── */
+/*
+ * Applied to the .iAGT-city-info-overlay wrapper.
+ * Targets the attractions table font-size (same pattern as iAGT-fs-* for the flight table).
+ */
+.iAGT-atts-xsmall .iAGT-atts-tbl { font-size: 0.8em; }
+.iAGT-atts-small  .iAGT-atts-tbl { font-size: 1.0em; }
+.iAGT-atts-medium .iAGT-atts-tbl { font-size: 1.3em; }
+.iAGT-atts-large  .iAGT-atts-tbl { font-size: 1.6em; }
+.iAGT-atts-xlarge .iAGT-atts-tbl { font-size: 2.0em; }
+
+/* ── City info cycling – nav counter & dot progress bar ─────────────────── */
+.iAGT-ci-nav {
+  margin-left: auto;
+  font-size: 0.85em;
+  font-weight: 400;
+  color: #4499FF;
+  opacity: 0.75;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.iAGT-ci-progress {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+
+.iAGT-ci-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.20);
+  transition: background 0.4s, transform 0.4s;
+}
+
+.iAGT-ci-dot.active {
+  background: #4499FF;
+  transform: scale(1.35);
+}
+
+/* ── Custom JS-driven scrollbar (bypasses MagicMirror's global scrollbar:none) ── */
+.iAGT-sb-track {
+  position: absolute;
+  right: 2px;
+  top: 0;
+  bottom: 0;
+  width: 6px;
+  background: rgba(255,255,255,0.10);
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 20;
+  transition: opacity 0.2s;
+}
+
+.iAGT-sb-thumb {
+  position: absolute;
+  width: 100%;
+  background: rgba(255,255,255,0.65);
+  border-radius: 3px;
+  cursor: grab;
+  min-height: 20px;
+  transition: background 0.15s;
+}
+
+.iAGT-sb-thumb:hover  { background: rgba(255,255,255,0.90); }
+.iAGT-sb-thumb:active { cursor: grabbing; }
+
+/* ── ammap3 balloon tooltip — prevent the balloon div from intercepting mouse ──
+   Without this, the balloon element appears under the cursor, triggers mouseout
+   on the marker, and causes a flicker loop.                                    */
+.amcharts-balloon-div {
+  pointer-events: none !important;
+}
+
+/* ── Flight table title — flex row to host save button ─────────────────────── */
+.iAGT-tbl-title {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.iAGT-tbl-title-text {
+  flex: 1;
+  text-align: center;
+}
+
+/* ── Save / print icon buttons (shared by both panels) ─────────────────────── */
+.iAGT-save-btn {
+  flex-shrink: 0;
+  background: none;
+  border: 1px solid rgba(68,153,255,0.30);
+  border-radius: 4px;
+  cursor: pointer;
+  color: #4499FF;
+  font-size: 1.1em;
+  line-height: 1;
+  padding: 1px 5px;
+  margin-left: 10px;
+  opacity: 0.70;
+  transition: opacity 0.2s, color 0.2s;
+}
+.iAGT-save-btn:hover:not(:disabled) { opacity: 1; border-color: rgba(68,153,255,0.70); }
+.iAGT-save-btn:disabled { opacity: 0.40; cursor: default; }
+.iAGT-save-sep { color: rgba(255,255,255,0.25); margin: 0 6px; font-size: 0.9em; user-select: none; }
+.iAGT-save-terminal-btn { color: #44CCAA; border-color: rgba(68,204,170,0.35); }
+.iAGT-save-terminal-btn:hover:not(:disabled) { opacity: 1; border-color: rgba(68,204,170,0.75); }
+
+/* ── Flight details sub-row ──────────────────────────────────────────────── */
+.iAGT-details-row td {
+  padding: 0 6px 4px 6px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  white-space: normal;
+  line-height: 1.4;
+}
+
+.iAGT-detail-chip {
+  display: inline-block;
+  font-size: 0.80em;
+  color: rgba(255,255,255,0.52);
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 3px;
+  padding: 1px 5px;
+  margin: 1px 4px 1px 0;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+
+.iAGT-delay-badge {
+  color: #FFB347;
+  font-weight: 700;
+  margin-left: 6px;
+  font-size: 0.9em;
+}
+
+/* ── amCharts tooltip text — force white fill so tooltips are visible ────── */
+[id^="iAGT-map-"] svg text {
+  fill: #ffffff !important;
+}
+
+/* ── Responsive narrow layout (default 900 px, overridden per-instance by JS) ── */
+@media (max-width: 900px) {
+  .iAGT-table-overlay,
+  .iAGT-city-info-overlay {
+    width: 95vw !important;
+    left: 2.5vw !important;
+    right: auto !important;
+  }
+  .iAGT-city-info-overlay {
+    bottom: 0 !important;
+    top: auto !important;
+  }
+}
+  
+/* �� Map controls �� */  
+.iAGT-map-controls {  
+  position: absolute;  
+  inset: 0;  
+  pointer-events: none;  
+  z-index: 20;  
+}  
+.iAGT-pan-control, .iAGT-zoom-control {  
+  position: absolute;  
+  pointer-events: auto;  
+  background: rgba(20, 20, 40, 0.7);  
+  border: 1px solid rgba(255, 255, 255, 0.2);  
+  backdrop-filter: blur(4px);  
+  border-radius: 4px;  
+}  
+.iAGT-pan-control {  
+  bottom: 20px;  
+  left: 20px;  
+  width: 100px;  
+  height: 100px;  
+  background: none;
+  border: none;
+  backdrop-filter: none;
+  display: grid;  
+  grid-template-areas: ". up ." "left home right" ". down .";  
+  gap: 4px;  
+  padding: 0;  
+  pointer-events: none;
+}  
+.iAGT-pan-btn, .iAGT-zoom-btn {  
+  pointer-events: auto;
+  color: #fff;  
+  cursor: pointer;  
+  display: flex;  
+  align-items: center;  
+  justify-content: center;  
+  font-size: 14px;  
+  transition: background 0.2s, color 0.2s, transform 0.2s;  
+  background: rgba(20, 20, 40, 0.85);  
+  border: 1px solid rgba(255, 255, 255, 0.25);  
+  backdrop-filter: blur(4px);  
+  border-radius: 4px;
+  width: 32px;
+  height: 32px;
+}  
+.iAGT-pan-center {
+  border-radius: 50% !important;
+  grid-area: home;
+  padding: 0;
+  overflow: hidden;
+}
+.iAGT-needle {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+}
+.iAGT-needle-north, .iAGT-needle-south {
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+}
+.iAGT-needle-north {
+  border-bottom: 12px solid #FF0000; /* Bright Red */
+}
+.iAGT-needle-south {
+  border-top: 12px solid #FFFFFF; /* White */
+}
+.iAGT-pan-btn:hover, .iAGT-zoom-btn:hover {  
+  background: rgba(255, 255, 255, 0.15);  
+  color: #4499FF;  
+}  
+.iAGT-pan-up     { grid-area: up; }  
+.iAGT-pan-down   { grid-area: down; }  
+.iAGT-pan-left   { grid-area: left; }  
+.iAGT-pan-right  { grid-area: right; }  
+.iAGT-zoom-control {  
+  bottom: 20px;  
+  right: 20px;  
+  display: flex;  
+  flex-direction: column;  
+  gap: 4px;
+}  
+.iAGT-zoom-btn {  
+  width: 32px;  
+  height: 32px;  
+  font-size: 20px;  
+}  
+
+/* Top Selectors */
+.iAGT-top-selector {
+  position: absolute;
+  top: 10px;
+  z-index: 100;
+  pointer-events: auto;
+  background: rgba(20, 20, 40, 0.85);  
+  border: 1px solid rgba(255, 255, 255, 0.25);  
+  backdrop-filter: blur(4px);  
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+.iAGT-map-selector {
+  left: 10px;
+}
+.iAGT-mode-selector {
+  right: 10px;
+  top: 10px;
+}
+.iAGT-scenario-selector {
+  right: 10px;
+  top: 50px; /* Positioned below mode selector */
+}
+.iAGT-selector-dropdown {
+  background: transparent;
+  color: #fff;
+  border: none;
+  font-family: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+  padding: 4px 8px;
+}
+.iAGT-selector-dropdown option {
+  background: #1A1A2E;
+  color: #fff;
+}

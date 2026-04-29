@@ -1,0 +1,38 @@
+{
+  "name": "MMM-iAmGoingThere",
+  "version": "1.0.0",
+  "description": "MagicMirror module: Future trip flight tracker with live FlightAware integration. Fork of MMM-iHaveBeenThere.",
+  "main": "MMM-iAmGoingThere.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/MMM-iAmGoingThere"
+  },
+  "keywords": [
+    "MagicMirror",
+    "amChart",
+    "travel",
+    "flights",
+    "tracking",
+    "flightaware"
+  ],
+  "author": "Fork of MMM-iHaveBeenThere by basti0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/MMM-iAmGoingThere/issues"
+  },
+  "homepage": "https://github.com/yourusername/MMM-iAmGoingThere#readme",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "node tests/test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@amcharts/amcharts5": "^5.16.1",
+    "@amcharts/amcharts5-geodata": "^5.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
