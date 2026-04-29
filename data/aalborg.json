@@ -1,0 +1,58 @@
+{
+  "city": "Aalborg",
+  "country": "Denmark",
+  "airportPostcode": "9400",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Aalborg Castle (Aalborghus)",
+      "description": "16th-century royal fortress with dungeons and scenic ramparts over the Limfjord"
+    },
+    {
+      "rank": 2,
+      "name": "Lindholm Hoje",
+      "description": "UNESCO candidate Viking burial ground with 682 graves and open-air museum"
+    },
+    {
+      "rank": 3,
+      "name": "Utzon Center",
+      "description": "Cultural centre designed by Jorn Utzon, architect of the Sydney Opera House"
+    },
+    {
+      "rank": 4,
+      "name": "Aalborg Museum of History",
+      "description": "Local history from Viking times in the preserved medieval quarter"
+    },
+    {
+      "rank": 5,
+      "name": "Budolfi Church",
+      "description": "Baroque white church with a carillon playing Danish folk tunes"
+    },
+    {
+      "rank": 6,
+      "name": "Aalborg Zoo",
+      "description": "Popular zoo with over 1,200 animals in naturalistic habitats"
+    },
+    {
+      "rank": 7,
+      "name": "Rebild National Park",
+      "description": "Denmark's only national park with heathland, forests and the world's largest 4 July celebration"
+    },
+    {
+      "rank": 8,
+      "name": "Nordkraft",
+      "description": "Regenerated power station converted to cultural centre with concerts and art"
+    },
+    {
+      "rank": 9,
+      "name": "Aalborg Old Town",
+      "description": "Historic core with half-timbered houses and the old merchant street Ostergade"
+    },
+    {
+      "rank": 10,
+      "name": "Jungle World",
+      "description": "Year-round tropical environment with exotic plants and animals"
+    }
+  ]
+}
