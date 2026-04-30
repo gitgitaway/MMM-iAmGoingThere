@@ -1,8 +1,8 @@
 # MMM-iAmGoingThere
 
-> A MagicMirror² module for  visulising past or upcoming trips, When used with a fre Aero API you can hssve live flight status and tracking.
-> The module covers 6 distinct scenarios as detiled below  and you can choose from any one of 5 maap projections to visulise your trips.
-> The module includes  colour-coded great-circle paths, countdown timer, and city attraction guides as well as printable flight itenaries and terminal guides. 
+> A MagicMirror² module for visulising past, current or upcoming trips. When used with a free Aero API from [Get Your Free API Here](https://aviationstack.com/signup/free) you can have live flight status and tracking.
+> The module covers 6 distinct scenarios as detiled below  and you can choose from any one of 5 map projections to visulise your trips.
+> The module includes colour-coded great-circle paths, countdown timer, and city attraction guides as well as printable flight itenaries and terminal guides. 
 > Forked from [MMM-iHaveBeenThere](https://github.com/basti0001/MMM-iHaveBeenThere) by Sebastian Merkel.
 
 ## 🎬 Screenshots
