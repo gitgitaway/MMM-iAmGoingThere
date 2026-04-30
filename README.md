@@ -76,12 +76,33 @@ See [CHANGELOG.md](./CHANGELOG.md) for complete details of all changes.
 
 ## 🚀 Quick Start
 
-### Installation
-```js
-1. `cd ~/MagicMirror/modules/`
-2. `git clone https://github.com/gitgitaway/MMM-MyTeams-iAmGoingThere.git`
-3. `cd MMM-MyTeams-iAmGoingThere && npm install`
+## Installation
+
+1. Navigate to your MagicMirror's modules folder:
+
+```bash
+cd ~/MagicMirror/modules/
 ```
+
+2. Clone this repository:
+
+```bash
+git clone https://github.com/gitgitaway/MMM-iAmGoingThere.git
+```
+
+3. Install dependencies:
+```bash
+cd modules/MMM-iAmGoingThere
+npm install
+```
+
+## Update
+
+```bash
+cd ~/MagicMirror/modules/MMM-iAmGoingThere
+git pull
+```
+
 ### Basic Configuration (Scenario 1) 
 ```js
 {
@@ -97,11 +118,9 @@ See [CHANGELOG.md](./CHANGELOG.md) for complete details of all changes.
       { travelerName: "Family", flightNumber: "FR2891", departureDate: "2026-08-01", from: "GLA", to: "BCN" },
       { travelerName: "Family", flightNumber: "FR2892", departureDate: "2026-08-08", from: "BCN", to: "GLA" }
     ]
-  }
+  },
 }
 ```
-
----
 
 ## 📚 Documentation
 
