@@ -647,6 +647,10 @@
 .iAGT-map-selector {
   left: 10px;
 }
+.iAGT-visited-selector {
+  left: 10px;
+  top: 50px;
+}
 .iAGT-mode-selector {
   right: 10px;
   top: 10px;
@@ -668,4 +672,94 @@
 .iAGT-selector-dropdown option {
   background: #1A1A2E;
   color: #fff;
+}
+
+/* ── Visited Country Popup ───────────────────────────────────────────────── */
+.iAGT-visited-popup {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 500;
+  background: rgba(20, 20, 40, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(6px);
+  border-radius: 8px;
+  padding: 16px 20px;
+  min-width: 260px;
+  max-width: 340px;
+  text-align: center;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
+  pointer-events: auto;
+  animation: iAGT-popup-in 0.15s ease-out;
+}
+@keyframes iAGT-popup-in {
+  from { opacity: 0; transform: translate(-50%, -52%) scale(0.96); }
+  to   { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+}
+.iAGT-visited-popup-title {
+  font-size: 0.78em;
+  color: rgba(255, 255, 255, 0.55);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 6px;
+}
+.iAGT-visited-popup-country {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 4px;
+}
+.iAGT-visited-popup-status {
+  font-size: 0.82em;
+  margin-bottom: 14px;
+}
+.iAGT-visited-popup-status.is-visited {
+  color: #00CC66;
+}
+.iAGT-visited-popup-status.not-visited {
+  color: rgba(255, 255, 255, 0.5);
+}
+.iAGT-visited-popup-btns {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.iAGT-visited-popup-btns button {
+  padding: 6px 16px;
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  font-size: 0.85em;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.iAGT-visited-popup-btns button:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+.iAGT-visited-popup-btns .iAGT-popup-confirm {
+  background: rgba(0, 170, 68, 0.25);
+  border-color: #00AA44;
+  color: #00CC66;
+}
+.iAGT-visited-popup-btns .iAGT-popup-confirm:hover {
+  background: rgba(0, 170, 68, 0.4);
+}
+.iAGT-visited-popup-progress {
+  height: 2px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 2px;
+  margin-top: 14px;
+  overflow: hidden;
+}
+.iAGT-visited-popup-progress-bar {
+  height: 100%;
+  background: rgba(255, 255, 255, 0.35);
+  width: 100%;
+  animation: iAGT-popup-countdown 5s linear forwards;
+}
+@keyframes iAGT-popup-countdown {
+  from { width: 100%; }
+  to   { width: 0%; }
 }

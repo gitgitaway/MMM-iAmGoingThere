@@ -56,6 +56,12 @@ module.exports = NodeHelper.create({
       await this.saveTerminalMapsFile(payload);
       return;
     }
+    if (notification === "iAGT_CLEAR_VISITED_COUNTRIES") {
+      this._manualVisitedCountries = [];
+      await this.saveManualVisitedCountries();
+      await this.processScenario();
+      return;
+    }
     if (notification === "iAGT_TOGGLE_VISITED_COUNTRY") {
       const { iso } = payload;
       if (!iso) return;
@@ -442,11 +448,12 @@ module.exports = NodeHelper.create({
 		if (cached) {
 			console.log(`[${this.name}] Loading Scenario ${this.config.scenario} from cache`);
 			this.flightLegs = cached.legs;
+			const visitedCountryIsos = this._buildVisitedCountryIsos();
 			const regionData = await this._buildRegionData();
 			this.sendSocketNotification("iAGT_INIT", {
 				legs:                this.flightLegs,
 				cityInfo:            cached.cityInfo,
-				visitedCountryIsos:  cached.visitedCountryIsos || [],
+				visitedCountryIsos,
 				regionData
 			});
 			return; // Skip full processing
@@ -1378,38 +1385,70 @@ module.exports = NodeHelper.create({
 
   /* ───────────────────── REGION / GEODATA ────────────────────────────── */
   _REGION_FILE_MAP: {
-    "US": "usaLow",        "CA": "canadaLow",       "AU": "australiaLow",
-    "DE": "germanyLow",    "FR": "franceDepartmentsLow", "JP": "japanLow",
-    "CN": "chinaLow",      "IN": "indiaLow",         "BR": "brazilLow",
-    "MX": "mexicoLow",     "RU": "russiaLow",        "PL": "polandLow",
-    "IT": "italyProvincesLow", "ES": "spainProvincesLow", "NL": "netherlandsLow",
-    "BE": "belgiumLow",    "AT": "austriaLow",        "AR": "argentinaLow",
-    "ZA": "southAfricaLow","NG": "nigeriaLow",        "KR": "southKoreaLow",
-    "TR": "turkeyLow",     "PK": "pakistanLow",       "ID": "indonesiaLow",
-    "MY": "malaysiaLow",   "PH": "philippinesLow",    "TH": "thailandLow",
-    "VN": "vietnamLow",    "NZ": "newZealandLow",     "CH": "switzerlandLow",
-    "PT": "portugalRegionsLow", "GR": "greeceLow",    "SE": "swedenLow",
-    "NO": "norwayLow",     "FI": "finlandLow",        "DK": "denmarkLow",
-    "UA": "ukraineLow",    "RO": "romaniaLow",        "CZ": "czechiaLow",
-    "HU": "hungaryLow",    "SK": "slovakiaLow",       "HR": "croatiaLow",
-    "BA": "bosniaHerzegovinaCantonsLow", "RS": "serbiaLow", "BG": "bulgariaLow",
-    "EG": "egyptLow",      "MA": "moroccoLow",        "DZ": "algeriaLow",
-    "TN": "tunisiaLow",    "LY": "libyaLow",          "ET": "ethiopiaLow",
-    "KE": "kenyaLow",      "TZ": "tanzaniaLow",       "UG": "ugandaLow",
-    "GH": "ghanaLow",      "AO": "angolaLow",         "MZ": "mozambiqueLow",
-    "ZM": "zambiaLow",     "ZW": "zimbabweLow",       "CO": "colombiaLow",
-    "VE": "venezuelaLow",  "PE": "peruLow",            "CL": "chileLow",
-    "BO": "boliviaLow",    "EC": "ecuadorLow",         "PY": "paraguayLow",
-    "UY": "uruguayLow",    "IR": "iranLow",            "IQ": "iraqLow",
-    "SA": "saudiArabiaLow","AF": "afghanistanLow",     "MM": "myanmarLow",
-    "KZ": "kazakhstanLow", "KH": "cambodiaLow",        "LA": "laosLow",
-    "KG": "kyrgyzstanLow", "MD": "moldovaLow",         "MN": "mongoliaLow",
-    "LT": "lithuaniaLow",  "LV": "latviaLow",          "EE": "estoniaLow",
-    "BY": "belarusLow",    "GE": "georgiaLow",         "AM": "armeniaLow",
-    "AZ": "azerbaijanLow", "UZ": "uzbekistanLow",      "IE": "irelandProvincesLow",
-    "CI": "cotedIvoireLow","CM": "cameroonLow",         "LU": "luxembourgLow",
-    "MW": "malawiLow",     "NA": "namibiaLow",          "NP": "nepalLow",
-    "SY": "syriaLow",      "YE": "yemenLow",            "BD": "bangladeshLow"
+    // Europe
+    "GB": "ukCountriesLow",  "DE": "germanyLow",       "FR": "franceDepartmentsLow",
+    "IT": "italyProvincesLow","ES": "spainProvincesLow","NL": "netherlandsLow",
+    "BE": "belgiumLow",      "AT": "austriaLow",        "CH": "switzerlandLow",
+    "PT": "portugalRegionsLow","GR": "greeceLow",       "SE": "swedenLow",
+    "NO": "norwayLow",       "FI": "finlandLow",        "DK": "denmarkLow",
+    "PL": "polandLow",       "UA": "ukraineLow",        "RO": "romaniaLow",
+    "CZ": "czechiaLow",      "HU": "hungaryLow",        "SK": "slovakiaLow",
+    "HR": "croatiaLow",      "BA": "bosniaHerzegovinaCantonsLow", "RS": "serbiaLow",
+    "BG": "bulgariaLow",     "AL": "albaniaLow",        "ME": "montenegroLow",
+    "MK": "northMacedoniaLow","XK": "kosovoLow",        "SI": "sloveniaRegionsLow",
+    "LT": "lithuaniaLow",    "LV": "latviaLow",         "EE": "estoniaLow",
+    "BY": "belarusLow",      "MD": "moldovaLow",        "IE": "irelandProvincesLow",
+    "LU": "luxembourgLow",   "CY": "cyprusLow",         "IS": "icelandLow",
+    "MT": "maltaLow",
+    // Asia
+    "RU": "russiaLow",       "CN": "chinaLow",          "IN": "indiaLow",
+    "JP": "japanLow",        "KR": "southKoreaLow",     "ID": "indonesiaLow",
+    "MY": "malaysiaLow",     "PH": "philippinesLow",    "TH": "thailandLow",
+    "VN": "vietnamLow",      "MM": "myanmarLow",        "KH": "cambodiaLow",
+    "LA": "laosLow",         "TW": "taiwanLow",         "LK": "sriLankaLow",
+    "BD": "bangladeshLow",   "NP": "nepalLow",          "PK": "pakistanLow",
+    "AF": "afghanistanLow",  "KZ": "kazakhstanLow",     "UZ": "uzbekistanLow",
+    "KG": "kyrgyzstanLow",   "TJ": "tajikistanLow",     "TM": "turkmenistanLow",
+    "MN": "mongoliaLow",     "GE": "georgiaLow",        "AM": "armeniaLow",
+    "AZ": "azerbaijanLow",   "TR": "turkeyLow",         "IR": "iranLow",
+    "IQ": "iraqLow",         "SY": "syriaLow",          "SA": "saudiArabiaLow",
+    "YE": "yemenLow",        "JO": "jordanLow",         "LB": "lebanonLow",
+    "IL": "israelLow",       "PS": "palestineLow",      "KW": "kuwaitLow",
+    "BH": "bahrainLow",      "QA": "qatarLow",          "OM": "omanLow",
+    "KP": "northKoreaLow",   "BN": "bruneiDarussalamLow","BT": "bhutanLow",
+    "TL": "timorLesteLow",   "MV": "maldivesLow",       "SG": "singaporeLow",
+    // Oceania
+    "AU": "australiaLow",    "NZ": "newZealandLow",
+    // Americas
+    "US": "usaLow",          "CA": "canadaLow",         "MX": "mexicoLow",
+    "BR": "brazilLow",       "AR": "argentinaLow",      "CO": "colombiaLow",
+    "VE": "venezuelaLow",    "PE": "peruLow",            "CL": "chileLow",
+    "BO": "boliviaLow",      "EC": "ecuadorLow",         "PY": "paraguayLow",
+    "UY": "uruguayLow",      "GY": "guyanaLow",         "SR": "surinameLow",
+    "GT": "guatemalaLow",    "HN": "hondurasLow",        "SV": "elSalvadorLow",
+    "NI": "nicaraguaLow",    "CR": "costaRicaLow",       "PA": "panamaLow",
+    "CU": "cubaLow",         "DO": "dominicanRepublicLow","HT": "haitiLow",
+    "JM": "jamaicaLow",      "TT": "trinidadTobagoLow",  "BB": "barbadosLow",
+    "BZ": "belizeLow",
+    // Africa
+    "ZA": "southAfricaLow",  "NG": "nigeriaLow",        "EG": "egyptLow",
+    "MA": "moroccoLow",      "DZ": "algeriaLow",        "TN": "tunisiaLow",
+    "LY": "libyaLow",        "ET": "ethiopiaLow",       "KE": "kenyaLow",
+    "TZ": "tanzaniaLow",     "UG": "ugandaLow",         "GH": "ghanaLow",
+    "AO": "angolaLow",       "MZ": "mozambiqueLow",     "ZM": "zambiaLow",
+    "ZW": "zimbabweLow",     "CM": "cameroonLow",       "MW": "malawiLow",
+    "NA": "namibiaLow",      "CI": "cotedIvoireLow",    "SN": "senegalLow",
+    "ML": "maliLow",         "BF": "burkinaFasoLow",    "NE": "nigerLow",
+    "TD": "chadLow",         "SD": "sudanLow",          "SS": "southSudanLow",
+    "RW": "rwandaLow",       "BI": "burundiLow",        "SO": "somaliaLow",
+    "GA": "gabonLow",        "CG": "congoLow",          "CD": "congoDRLow",
+    "CF": "centralAfricanRepublicLow","BJ": "beninLow", "GN": "guineaLow",
+    "GW": "guineaBissauLow", "SL": "sierraLeoneLow",    "LR": "liberiaLow",
+    "GM": "gambiaLow",       "MR": "mauritaniaLow",     "ER": "eritreaLow",
+    "DJ": "djiboutiLow",     "GQ": "equatorialGuineaLow","LS": "lesothoLow",
+    "SZ": "eswatiniLow",     "MG": "madagascarProvinceLow","MU": "mauritiusLow",
+    "CV": "capeVerdeLow",    "ST": "saoTomePrincipeLow", "TG": "togoLow",
+    "BW": "botswanaLow"
   },
 
   _COUNTRY_NAME_TO_ISO: {
@@ -1459,7 +1498,14 @@ module.exports = NodeHelper.create({
     "Uruguay": "UY", "Uzbekistan": "UZ", "Venezuela": "VE", "Vietnam": "VN",
     "Yemen": "YE", "Zambia": "ZM", "Zimbabwe": "ZW",
     "Ivory Coast": "CI", "Cote d'Ivoire": "CI", "Côte d'Ivoire": "CI",
-    "Republic of the Congo": "CG"
+    "Republic of the Congo": "CG",
+    "Barbados": "BB", "Belize": "BZ", "Bhutan": "BT", "Brunei Darussalam": "BN",
+    "Maldives": "MV", "Palestine": "PS", "Palestinian Territory": "PS",
+    "Sao Tome and Principe": "ST", "São Tomé and Príncipe": "ST",
+    "Singapore": "SG", "Suriname": "SR", "Tajikistan": "TJ",
+    "Timor-Leste": "TL", "East Timor": "TL",
+    "Trinidad and Tobago": "TT",
+    "England": "GB", "Scotland": "GB", "Wales": "GB", "Northern Ireland": "GB", "Northern Island": "GB"
   },
 
   async _loadGeoData (filename) {
@@ -1479,12 +1525,28 @@ module.exports = NodeHelper.create({
   async _buildRegionData () {
     const regionData = {};
     if (!this.config || !this.config.showSubnationalRegions) return regionData;
-    const countries = this.config.subnationalCountries || [];
+
+    const lowerMap = {};
+    for (const [name, iso] of Object.entries(this._COUNTRY_NAME_TO_ISO)) {
+      lowerMap[name.toLowerCase()] = iso;
+    }
+
+    const countries = this.config.subnationalAllCountries
+      ? Object.keys(this._REGION_FILE_MAP)
+      : (this.config.subnationalCountries || []).map(c => {
+        const upper = c.toUpperCase();
+        if (this._REGION_FILE_MAP[upper]) return upper;
+        const resolved = lowerMap[c.toLowerCase()];
+        return resolved || upper;
+      });
+
     for (const iso of countries) {
       const key      = iso.toUpperCase();
       const filename = this._REGION_FILE_MAP[key];
       if (!filename) {
-        console.warn(`[${this.name}] No region file mapping for ISO: ${iso}`);
+        if (!this.config.subnationalAllCountries) {
+          console.warn(`[${this.name}] No region file mapping for ISO/Country: ${iso}`);
+        }
         continue;
       }
       const geo = await this._loadGeoData(filename);
@@ -1494,22 +1556,22 @@ module.exports = NodeHelper.create({
   },
 
   _buildVisitedCountryIsos () {
-    if (!this.config || this.config.scenario !== 4) return [];
     const isoSet = new Set(this._manualVisitedCountries || []);
-    
-    // Create a lower-case map for case-insensitive lookup
-    const lowerMap = {};
-    for (const [name, iso] of Object.entries(this._COUNTRY_NAME_TO_ISO)) {
-      lowerMap[name.toLowerCase()] = iso;
+
+    if (this.config && this.config.scenario === 4) {
+      const lowerMap = {};
+      for (const [name, iso] of Object.entries(this._COUNTRY_NAME_TO_ISO)) {
+        lowerMap[name.toLowerCase()] = iso;
+      }
+      this.flightLegs.forEach(leg => {
+        if (leg.to && leg.to.country) {
+          const country = leg.to.country.trim().toLowerCase();
+          const iso = lowerMap[country];
+          if (iso) isoSet.add(iso);
+        }
+      });
     }
 
-    this.flightLegs.forEach(leg => {
-      if (leg.to && leg.to.country) {
-        const country = leg.to.country.trim().toLowerCase();
-        const iso = lowerMap[country];
-        if (iso) isoSet.add(iso);
-      }
-    });
     return Array.from(isoSet);
   },
 

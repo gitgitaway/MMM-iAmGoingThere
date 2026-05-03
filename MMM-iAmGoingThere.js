@@ -8,10 +8,12 @@
  *
  * Extended for future trip flight tracking with live FlightAware AeroAPI.
  *
- * Scenario 1 â€” Standard round trip  (home <-> destination, no stopovers)
- * Scenario 2 â€” Multi-leg Round The World trip (up to 10+ sequential legs)
- * Scenario 3 â€” Multi-origin trips   (World Cup fans, wedding guests, etc.)
- *              Each traveler is rendered in a distinct colour.
+ * Scenario 1 - Standard round trip  (home <-> destination, no stopovers)
+ * Scenario 2 - Multi-leg Round The World trip (up to 10+ sequential legs)
+ * Scenario 3 - Multi-origin trip (e.g. multiple family members departing from different cities to a common destination)
+ * Scenario 4 - Where I Have Been (past trips from home to multiple destinations, no future flights)
+ * Scenario 5 - CSV crew roster (parse a custom CSV file of flights, e.g. for airline crew or frequent travelers with complex itineraries)
+ * Scenario 6 - Football Away Days (track upcoming matches in different cities with past match history, no future flights)
  *
  * Flight path colours:
  *   White  = Scheduled / future leg
@@ -59,126 +61,118 @@ Module.register("MMM-iAmGoingThere", {
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ DEFAULT CONFIGURATION â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	defaults: {
+		// 1. Scenario & Core
 		scenario: 1, // 1=round trip | 2=multi-leg RTW | 3=multi-origin | 4=where I have been | 5=CSV crew roster | 6=football trips
 		showWhereIHaveBeen: false, // Scenario 4: show return flights for all destinations
 		tripTitle: "Our Destination", // Appended to "We Are On Our Way To â€“"
+		overideDate: false, // Set all flights takeoff time to now + 5 minutes for this session only
+		departureAlertHours: 0, // Hours before first departure to send a notification (0 = disabled)
 
-		// FlightAware AeroAPI  (https://flightaware.com/aeroapi/)
+		// 2. FlightAware AeroAPI
 		flightAwareApiKey: "", // Required for live tracking
 		pollInterval: 5, // Minutes between FlightAware polls
 
-		// Map
+		// 3. Map Settings
+		mapHeight: 700,
+		mapProjection: "mercator", // "mercator" | "naturalEarth1" | "equirectangular" | "orthographic" | "stereographic"
 		zoomLevel: 1,
 		zoomLongitude: 0,
 		zoomLatitude: 20,
 		autoRotateGlobeToPlane: false, // Orthographic only: rotate globe to center on active plane(s)
-		mapHeight: 700,
 		gcPoints: 100, // Great-circle interpolation points per leg
-		mapProjection: "mercator", // "mercator" | "naturalEarth1" | "equirectangular" | "orthographic" | "stereographic"
 		displayDesc: true, // Show airport name labels
+		showCityInfo: false,
+		citiesFile: "data/cities.csv",
+		cityInfoMode: "destination", // "destination" | "layovers"
+		cityInfoCycleInterval: 20, // Seconds per city when cityInfoMode = "layovers"
+		narrowBreakpoint: 900, // px â€” below this width both overlay panels switch to 95vw stacked layout
 
-		// Graticule grid
+		// 4. Graticule Grid
 		showGraticule: false,
 		colorGraticule: "#ffffff",
 		graticuleOpacity: 0.2,
 		graticuleWidth: 0.5,
 		graticuleStep: 10,
 
-		// Sub-national region layers (provinces, states, departments, etc.)
+		// 5. Sub-national Regions
 		showSubnationalRegions: false,
+		subnationalAllCountries: false, // true = show regions for all supported countries
 		subnationalCountries: [], // ISO-2 codes, e.g. ["US", "CA", "DE"]
 
-		// Colours
-		colorMapBackground: "#000000", // Outer area outside map projection (e.g. corners around globe)
-		colorMapOcean: "#1A1A2E",      // Ocean fill inside the map projection
-		colorCountries: "#2C3E50",
-		colorCountryBorders: "#1A252F",
-		colorVisitedCountry: "#00AA44", // Scenario 4: visited country fill
-		colorVisitedCountryBorder: "#008833", // Scenario 4: visited country border
-		colorVisitedCountryOpacity: 0.75, // Scenario 4: visited country fill opacity
-		colorAirportHome: "#FFD700",
-		colorAirportOther: "#FFFFFF",
-		colorFuturePath: "#FFFFFF", // Scheduled leg (white)
-		colorActivePath: "#4499FF", // In-flight leg  (blue)
-		colorCompletedPath: "#00CC66", // Landed leg     (green)
-		colorPreviousPath: "#888888", // Leg before current active one (grey)
-		colorCancelledPath: "#FF4444", // Cancelled leg  (red)
-		colorPlane: "#FF6644", // Live plane icon
-		colorTitleFont: "#FFFFFF",
-		colorLegendFont: "#FFFFFF",
-		colorLegendBorder: "#FFFFFF",
-		colorResetAfterDays: 1, // Days after final landing before white reset
-		colorBlindMode: false, // Differentiate path status via dashLength in addition to color
-		overideDate: false, // Set all flights takeoff time to now + 5 minutes for this session only
-
-		// UI Controls
+		// 6. UI Controls (Onscreen)
 		showPanControl: true,
 		showZoomControl: true,
-		showMapSelector: true,
+		showProjectionSelector: true,
+		showVisitedSelector: true,
+		showModeSelector: true,
 		showScenarioSelector: true,
+		showMapSelector: true, // Legacy alias for Projection + Visited selectors
 
-		// Flight details overlay
-		showFlightDetails: false, // true/false â€” show overlay flight table
-		autoHideOverlays: false, // true/false â€” hide panels after a delay
-		autoHideDelay: 30, // seconds
+		// 7. Flight Details Overlay
+		showFlightDetails: false,
+		autoHideOverlays: false,
+		autoHideDelay: 30,
 		flightPanelWidth: "46vw",
 		flightPanelHeight: "32vh",
 		setFlightDetailsTextSize: "xsmall", // xsmall | small | medium | large | xlarge
+		showTable: false, // Legacy alias
+		tableX: 0,
+		tableY: 0,
 
-		// Attractions overlay
-		showAttractionsDetails: false, // true/false â€” show city attractions panel
+		// 8. Attractions Overlay
+		showAttractionsDetails: false,
 		attractionsPanelWidth: "50vw",
 		attractionsPanelHeight: "32vh",
-		setAttractionsDetailsTextSize: "xsmall", // xsmall | small | medium | large | xlarge
-
-		// Auto-rotate attractions to destination when trip completes
+		setAttractionsDetailsTextSize: "xsmall",
 		autoRotateAttractionsData: false,
+		attractionsAutoScroll: false,
+		attractionsScrollInterval: 3,
+		maxAttractionsDisplay: 5,
+		cityAttractions_Xaxis: 0,
+		cityAttractions_Yaxis: 0,
 
-		// Auto-scroll the Top 10 attractions list row by row in a continuous loop
-		attractionsAutoScroll: false, // true = scroll item 1â†’10 on repeat
-		attractionsScrollInterval: 3, // seconds each item is highlighted before advancing
-		maxAttractionsDisplay: 5, // max items shown per page in attractions panel
-
-		// Backward-compat aliases (still respected)
-		showTable: false,
-		tableX: 0, // px from left edge of map
-		tableY: 0, // px from bottom edge of map
-
-		showCityInfo: false,
-		citiesFile: "data/cities.csv",
-		crewFlightsFile: "data/my_flights.csv", // Scenario 5: path to CSV flight roster (relative to module dir)
-		cityAttractions_Xaxis: 0, // px from left edge of map (anchor bottom-left by default)
-		cityAttractions_Yaxis: 0, // px from bottom edge of map
-		cityInfoMode: "destination", // "destination" | "layovers"
-		cityInfoCycleInterval: 20, // Seconds per city when cityInfoMode = "layovers"
-
-		// Departure alert notification
-		departureAlertHours: 0, // Hours before first departure to send a notification (0 = disabled)
-
-		// Responsive layout
-		narrowBreakpoint: 900, // px â€” below this width both overlay panels switch to 95vw stacked layout
-
-		// Flight track display
+		// 9. Flight Tracking & Animation
 		showFlightTracks: "auto", // "auto" | "true" | "false" | "test"
 		flightDisplayMode: "all", // "all" | "outbound" | "return"
-		testModeDuration: 3, // Seconds per leg in test animation
-		testModeDelay: 3, // Seconds pause between legs in test animation
-
-		// Airport destination markers
-		showDestinations: true, // true/false â€” show airport markers on the map
-		tooltipDuration: 6, // seconds to keep tooltip visible after hover
-
-		// Plane animation
+		testModeDuration: 3,
+		testModeDelay: 3,
 		animationEnabled: true,
 		pauseDuration: 3.0,
 		animationDuration: 10.0,
-		showPlaneShadow: true, // true/false â€” white shadow icon rendered beneath the plane
+		showPlaneShadow: true,
 
-		// Scenario flight data (set in config.js)
+		// 10. Airport & Destination Markers
+		showDestinations: true,
+		tooltipDuration: 6,
+		colorAirportHome: "#FFD700",
+		colorAirportOther: "#FFFFFF",
+
+		// 11. Colours (Map & Paths)
+		colorMapBackground: "#000000",
+		colorMapOcean: "#1A1A2E",
+		colorCountries: "#2C3E50",
+		colorCountryBorders: "#1A252F",
+		colorVisitedCountry: "#00AA44",
+		colorVisitedCountryBorder: "#008833",
+		colorVisitedCountryOpacity: 0.75,
+		colorFuturePath: "#FFFFFF",
+		colorActivePath: "#4499FF",
+		colorCompletedPath: "#00CC66",
+		colorPreviousPath: "#888888",
+		colorCancelledPath: "#FF4444",
+		colorPlane: "#FF6644",
+		colorTitleFont: "#FFFFFF",
+		colorLegendFont: "#FFFFFF",
+		colorLegendBorder: "#FFFFFF",
+		colorBlindMode: false,
+		colorResetAfterDays: 1,
+
+		// 12. Data Sources
 		home: { name: "Home Airport", iata: "HOME", lat: 51.5074, lon: -0.1278 },
 		destination: null,
-		flights: [], // Scenario 1 & 2: array of leg objects
-		travelers: [] // Scenario 3: array of traveler objects
+		flights: [],
+		travelers: [],
+		crewFlightsFile: "data/my_flights.csv"
 	},
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ MAGICMIRROR LIFECYCLE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
@@ -243,11 +237,23 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	_getEffectiveConfig () {
-		const cfg = this.config;
+		let cfg = this.config;
 		const scen = cfg.scenario;
 		if (cfg.scenarios && cfg.scenarios[scen]) {
-			return Object.assign({}, cfg, cfg.scenarios[scen]);
+			cfg = Object.assign({}, cfg, cfg.scenarios[scen]);
+		} else {
+			cfg = Object.assign({}, cfg);
 		}
+
+		// Backward compatibility for UI flags
+		if (cfg.showMapSelector === false) {
+			if (cfg.showProjectionSelector === undefined) cfg.showProjectionSelector = false;
+			if (cfg.showVisitedSelector === undefined) cfg.showVisitedSelector = false;
+		}
+		if (cfg.showScenarioSelector === false) {
+			if (cfg.showModeSelector === undefined) cfg.showModeSelector = false;
+		}
+
 		return cfg;
 	},
 
@@ -364,7 +370,7 @@ Module.register("MMM-iAmGoingThere", {
 		}
 
 		// Top selectors
-		if (cfg.showMapSelector) {
+		if (cfg.showProjectionSelector) {
 			const mapSel = document.createElement("div");
 			mapSel.className = "iAGT-top-selector iAGT-map-selector";
 			mapSel.innerHTML = `
@@ -382,7 +388,49 @@ Module.register("MMM-iAmGoingThere", {
 			ctrlWrap.appendChild(mapSel);
 		}
 
-		if (cfg.showScenarioSelector) {
+		if (cfg.showVisitedSelector) {
+			const visitedSel = document.createElement("div");
+			visitedSel.className = "iAGT-top-selector iAGT-visited-selector";
+			visitedSel.id = `iAGT-visited-ctrl-${this.identifier}`;
+			const _vhl = this._visitedHighlightEnabled !== false;
+			const _gv = this._graticuleSeries ? this._graticuleSeries.get("visible") : cfg.showGraticule;
+			visitedSel.innerHTML = `
+				<select class="iAGT-selector-dropdown" id="iAGT-visited-select-${this.identifier}">
+					<option value="show_graticule" ${_gv ? "selected" : ""}>${this.translate("VISITED_DRP_SHOW_GRATICULE")}</option>
+					<option value="hide_graticule" ${!_gv ? "selected" : ""}>${this.translate("VISITED_DRP_HIDE_GRATICULE")}</option>
+					<option value="highlight" ${_vhl ? "selected" : ""}>${this.translate("VISITED_DRP_HIGHLIGHT")}</option>
+					<option value="none" ${!_vhl ? "selected" : ""}>${this.translate("VISITED_DRP_NONE")}</option>
+					<option value="clear">${this.translate("VISITED_DRP_CLEAR")}</option>
+					<option value="show_regions" ${this._regionsVisible ? "selected" : ""}>${this.translate("SUB_DRP_SHOW")}</option>
+					<option value="hide_regions" ${!this._regionsVisible ? "selected" : ""}>${this.translate("SUB_DRP_HIDE")}</option>
+				</select>
+			`;
+			visitedSel.querySelector("select").addEventListener("change", (e) => {
+				const val = e.target.value;
+				if (val === "show_graticule") {
+					this._toggleGraticules(true);
+				} else if (val === "hide_graticule") {
+					this._toggleGraticules(false);
+				} else if (val === "highlight") {
+					this._visitedHighlightEnabled = true;
+					this._applyVisitedCountriesColors();
+				} else if (val === "none") {
+					this._visitedHighlightEnabled = false;
+					this._applyVisitedCountriesColors();
+				} else if (val === "clear") {
+					e.target.value = "highlight";
+					this._visitedHighlightEnabled = true;
+					this.sendSocketNotification("iAGT_CLEAR_VISITED_COUNTRIES", {});
+				} else if (val === "show_regions") {
+					this._toggleRegionLayers(true);
+				} else if (val === "hide_regions") {
+					this._toggleRegionLayers(false);
+				}
+			});
+			ctrlWrap.appendChild(visitedSel);
+		}
+
+		if (cfg.showModeSelector) {
 			// Mode selector (Auto/Test)
 			const modeSel = document.createElement("div");
 			modeSel.className = "iAGT-top-selector iAGT-mode-selector";
@@ -405,7 +453,9 @@ Module.register("MMM-iAmGoingThere", {
 				}
 			});
 			ctrlWrap.appendChild(modeSel);
+		}
 
+		if (cfg.showScenarioSelector) {
 			const scenSel = document.createElement("div");
 			scenSel.className = "iAGT-top-selector iAGT-scenario-selector";
 			scenSel.innerHTML = `
@@ -575,6 +625,11 @@ Module.register("MMM-iAmGoingThere", {
 		this._overlayHideTimer = null;
 		this._planeKeys = null;
 		this._weatherRefreshTimer = null;
+		this._polygonSeries = null;
+		this._visitedPopupTimer = null;
+		this._visitedHighlightEnabled = true;
+		this._regionSeriesList = [];
+		this._regionsVisible = this.config.showSubnationalRegions;
 		Log.info(`[${this.name}] Starting`);
 
 		this.sendSocketNotification("iAGT_CONFIG", this.config);
@@ -598,6 +653,9 @@ Module.register("MMM-iAmGoingThere", {
 				this.updateTitle();
 				this.startCityInfoCycling();
 				this._scheduleAlertTimer();
+				if (this.mapReady && this._polygonSeries) {
+					this._applyVisitedCountriesColors();
+				}
 				setTimeout(() => { this.initMap(); }, 300);
 				if (this._weatherRefreshTimer) clearInterval(this._weatherRefreshTimer);
 				this._weatherRefreshTimer = setInterval(() => { this._refreshWeather(); }, 3600000);
@@ -1048,6 +1106,7 @@ Module.register("MMM-iAmGoingThere", {
 				this._mapRoot.dispose();
 				this._mapRoot = null;
 				this._mapRootContainer = null;
+				this._polygonSeries = null;
 				this.mapReady = false;
 			}
 			const root = am5.Root.new(divId);
@@ -1129,77 +1188,61 @@ Module.register("MMM-iAmGoingThere", {
 				fillOpacity: 0.6,
 				stroke: am5.color(this._safeColor(this.config.colorCountryBorders)),
 				strokeWidth: 0.5,
-				tooltipText: "",
-				interactive: true
+				tooltipText: "{name}",
+				interactive: true,
+				cursorOverStyle: "pointer"
 			});
 
-			// 4b. Scenario 4: colour visited countries green via adapter
-			if (this.config.scenario === 4 && this.visitedCountryIsos && this.visitedCountryIsos.length > 0) {
-				const visitedSet = new Set(this.visitedCountryIsos);
-				polygonSeries.mapPolygons.template.adapters.add("fill", (fill, target) => {
-					const id = target.dataItem?.dataContext?.id;
-					return (id && visitedSet.has(id))
-						? am5.color(this._safeColor(this.config.colorVisitedCountry || "#00AA44"))
-						: fill;
-				});
-				polygonSeries.mapPolygons.template.adapters.add("fillOpacity", (opacity, target) => {
-					const id = target.dataItem?.dataContext?.id;
-					return (id && visitedSet.has(id))
-						? (this.config.colorVisitedCountryOpacity != null ? Number(this.config.colorVisitedCountryOpacity) : 0.75)
-						: opacity;
-				});
-				polygonSeries.mapPolygons.template.adapters.add("stroke", (stroke, target) => {
-					const id = target.dataItem?.dataContext?.id;
-					return (id && visitedSet.has(id))
-						? am5.color(this._safeColor(this.config.colorVisitedCountryBorder || "#008833"))
-						: stroke;
-				});
-				polygonSeries.mapPolygons.template.states.create("hover", {
-					fillOpacity: 0.9
-				});
-			}
+			// 4b. Scenario 4: colour visited countries — applied after data renders
+			this._polygonSeries = polygonSeries;
+			polygonSeries.events.on("datavalidated", () => {
+				this._applyVisitedCountriesColors();
+			});
 
-			// 4b-2. Manual coloring via right-click (persists to cache)
+			// 4b-2. Manual coloring via right-click — shows confirmation popup
 			polygonSeries.mapPolygons.template.events.on("rightclick", (ev) => {
 				const dataItem = ev.target.dataItem;
 				if (dataItem && dataItem.dataContext && dataItem.dataContext.id) {
-					this.sendSocketNotification("iAGT_TOGGLE_VISITED_COUNTRY", { iso: dataItem.dataContext.id });
+					const iso = dataItem.dataContext.id;
+					const name = dataItem.dataContext.name || iso;
+					const isVisited = (this.visitedCountryIsos || []).includes(iso);
+					this._showVisitedPopup(iso, name, isVisited);
 				}
 			});
 
 			// 4c. Graticule — uses same data.setAll() pattern as flight tracks to ensure
 			//     template adapters fire correctly (geoJSON constructor path bypasses adapters).
-			if (this.config.showGraticule) {
-				const step    = Number(this.config.graticuleStep) || 10;
-				const color   = am5.color(this._safeColor(this.config.colorGraticule || "#ffffff"));
-				const opacity = this.config.graticuleOpacity != null ? Number(this.config.graticuleOpacity) : 0.2;
-				const width   = Number(this.config.graticuleWidth) || 0.5;
+			const step    = Number(this.config.graticuleStep) || 10;
+			const color   = am5.color(this._safeColor(this.config.colorGraticule || "#ffffff"));
+			const opacity = this.config.graticuleOpacity != null ? Number(this.config.graticuleOpacity) : 0.2;
+			const width   = Number(this.config.graticuleWidth) || 0.5;
 
-				const graticuleSeries = chart.series.push(am5map.MapLineSeries.new(root, {}));
+			this._graticuleSeries = chart.series.push(am5map.MapLineSeries.new(root, {
+				visible: this.config.showGraticule
+			}));
 
-				graticuleSeries.mapLines.template.setAll({
-					stroke:        color,
-					strokeOpacity: opacity,
-					strokeWidth:   width
-				});
-				graticuleSeries.mapLines.template.adapters.add("stroke",        () => color);
-				graticuleSeries.mapLines.template.adapters.add("strokeOpacity", () => opacity);
-				graticuleSeries.mapLines.template.adapters.add("strokeWidth",   () => width);
+			this._graticuleSeries.mapLines.template.setAll({
+				stroke:        color,
+				strokeOpacity: opacity,
+				strokeWidth:   width
+			});
+			this._graticuleSeries.mapLines.template.adapters.add("stroke",        () => color);
+			this._graticuleSeries.mapLines.template.adapters.add("strokeOpacity", () => opacity);
+			this._graticuleSeries.mapLines.template.adapters.add("strokeWidth",   () => width);
 
-				const features = [];
-				for (let lat = -80; lat <= 80; lat += step) {
-					const coords = [];
-					for (let lon = -180; lon <= 180; lon += 2) coords.push([lon, lat]);
-					features.push({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: coords } });
-				}
-				for (let lon = -180; lon < 180; lon += step) {
-					const coords = [];
-					for (let lat = -90; lat <= 90; lat += 2) coords.push([lon, lat]);
-					features.push({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: coords } });
-				}
-
-				graticuleSeries.data.setAll(features);
+			const features = [];
+			for (let lat = -80; lat <= 80; lat += step) {
+				const coords = [];
+				for (let lon = -180; lon <= 180; lon += 2) coords.push([lon, lat]);
+				features.push({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: coords } });
 			}
+			for (let lon = -180; lon < 180; lon += step) {
+				const coords = [];
+				for (let lat = -90; lat <= 90; lat += 2) coords.push([lon, lat]);
+				features.push({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: coords } });
+			}
+
+			this._graticuleSeries.data.setAll(features);
 
 			// 4d. Sub-national region layers
 			if (this.config.showSubnationalRegions) {
@@ -1347,6 +1390,7 @@ Module.register("MMM-iAmGoingThere", {
 	_initRegionLayers (root, chart) {
 		const regionData = this.regionData || {};
 		const isos = Object.keys(regionData);
+		this._regionSeriesList = [];
 		if (isos.length === 0) return;
 
 		const LAYER_COLORS = [
@@ -1367,8 +1411,9 @@ Module.register("MMM-iAmGoingThere", {
 			const colors = LAYER_COLORS[idx % LAYER_COLORS.length];
 
 			const regionSeries = chart.series.push(
-				am5map.MapPolygonSeries.new(root, { geoJSON })
+				am5map.MapPolygonSeries.new(root, { geoJSON, visible: this._regionsVisible })
 			);
+			this._regionSeriesList.push(regionSeries);
 
 			regionSeries.mapPolygons.template.setAll({
 				fill:           am5.color(this._safeColor(colors.base)),
@@ -1391,6 +1436,19 @@ Module.register("MMM-iAmGoingThere", {
 				fillOpacity: 1.0
 			});
 		});
+	},
+
+	_toggleRegionLayers (visible) {
+		this._regionsVisible = visible;
+		this._regionSeriesList.forEach((series) => {
+			series.set("visible", visible);
+		});
+	},
+
+	_toggleGraticules (visible) {
+		if (this._graticuleSeries) {
+			this._graticuleSeries.set("visible", visible);
+		}
 	},
 
 	_initPointSeries (root, chart) {
@@ -1531,6 +1589,67 @@ Module.register("MMM-iAmGoingThere", {
 			this._validateTimer = null;
 			this._flushMapLines(this._pendingMapLinesLegs);
 		}, 250);
+	},
+
+	_showVisitedPopup (iso, countryName, isVisited) {
+		const wrapperId = `iAGT-wrapper-${this.identifier}`;
+		const wrapper = document.getElementById(wrapperId);
+		if (!wrapper) return;
+
+		const existing = wrapper.querySelector(".iAGT-visited-popup");
+		if (existing) existing.remove();
+		if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+
+		const statusText = isVisited ? this.translate("VISITED_IS_VISITED") : this.translate("VISITED_NOT_VISITED");
+		const confirmLabel = isVisited ? this.translate("VISITED_BTN_UNMARK") : this.translate("VISITED_BTN_MARK");
+
+		const popup = document.createElement("div");
+		popup.className = "iAGT-visited-popup";
+		popup.innerHTML = `
+			<div class="iAGT-visited-popup-title">${this.translate("VISITED_POPUP_TITLE")}</div>
+			<div class="iAGT-visited-popup-country">${this._esc(countryName)}</div>
+			<div class="iAGT-visited-popup-status ${isVisited ? "is-visited" : "not-visited"}">${statusText}</div>
+			<div class="iAGT-visited-popup-btns">
+				<button class="iAGT-popup-confirm">${this._esc(confirmLabel)}</button>
+				<button class="iAGT-popup-cancel">${this.translate("VISITED_BTN_CANCEL")}</button>
+			</div>
+			<div class="iAGT-visited-popup-progress"><div class="iAGT-visited-popup-progress-bar"></div></div>
+		`;
+
+		popup.querySelector(".iAGT-popup-confirm").addEventListener("click", () => {
+			popup.remove();
+			if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+			this.sendSocketNotification("iAGT_TOGGLE_VISITED_COUNTRY", { iso });
+		});
+		popup.querySelector(".iAGT-popup-cancel").addEventListener("click", () => {
+			popup.remove();
+			if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+		});
+
+		wrapper.appendChild(popup);
+		this._visitedPopupTimer = setTimeout(() => {
+			popup.remove();
+			this._visitedPopupTimer = null;
+		}, 5000);
+	},
+
+	_applyVisitedCountriesColors () {
+		if (!this._polygonSeries) return;
+		const visitedSet = this._visitedHighlightEnabled ? new Set(this.visitedCountryIsos || []) : new Set();
+		const defaultFill = am5.color(this._safeColor(this.config.colorCountries));
+		const defaultOpacity = 0.6;
+		const defaultStroke = am5.color(this._safeColor(this.config.colorCountryBorders));
+		const visitedFill = am5.color(this._safeColor(this.config.colorVisitedCountry || "#00AA44"));
+		const visitedOpacity = this.config.colorVisitedCountryOpacity != null ? Number(this.config.colorVisitedCountryOpacity) : 0.75;
+		const visitedStroke = am5.color(this._safeColor(this.config.colorVisitedCountryBorder || "#008833"));
+		this._polygonSeries.mapPolygons.each((polygon) => {
+			const id = polygon.dataItem?.dataContext?.id;
+			if (id && visitedSet.has(id)) {
+				polygon.setAll({ fill: visitedFill, fillOpacity: visitedOpacity, stroke: visitedStroke });
+			} else {
+				polygon.setAll({ fill: defaultFill, fillOpacity: defaultOpacity, stroke: defaultStroke });
+			}
+		});
 	},
 
 	_flushMapLines (legs) {
@@ -2547,6 +2666,9 @@ Module.register("MMM-iAmGoingThere", {
 		if (this._testTimer) { clearInterval(this._testTimer); this._testTimer = null; }
 		if (this._alertTimer) { clearTimeout(this._alertTimer); this._alertTimer = null; }
 		if (this._saveToastTimer) { clearTimeout(this._saveToastTimer); this._saveToastTimer = null; }
+		if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+		const popup = document.querySelector(`#iAGT-wrapper-${this.identifier} .iAGT-visited-popup`);
+		if (popup) popup.remove();
 		this._stopAttractionsAutoScroll();
 		Log.info(`[${this.name}] Stopped`);
 	}

@@ -5,24 +5,36 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [2.0.0] - 2026-04-29 ( Inital Release )
+## [2.0.0] - 2026-04-29
 
 ### Added
-- **Graticule Grid** — Configurable latitude/longitude grid (`showGraticule`) with customizable step, color, width, and opacity.
-- **Sub-national Region Layers** — Support for high-detail region polygons (States, Provinces, Departments, etc.) for 80+ countries.
 - **Scenario 4: Visited Country Coloring** — Automatically colors countries visited in travel history mode green (configurable via `colorVisitedCountry`). Includes support for city-name and football-team resolution.
-- **Manual Country Coloring** — Right-click any country on the map to toggle its "visited" status. Manual selections are saved to `data/manual_visited_countries.json` and persist across reloads.
+
+- **Manual Country Coloring** — Right-click any country on the map to toggle its "visited" status. Manual selections are saved to `data/manual_visited_countries.json` and persist across reloads.- **Right-click Confirmation Popup** — Right-clicking a country now shows a popup with the country name, its current visited status, and **"Mark as Visited"** / **"Remove Visited"** / **"Cancel"** buttons (auto-dismisses after 5 s).
+- **Translated Popup** — Popup text routes through the translation system and is available in all 33 supported languages.
+- **Works in All Scenarios** — Manual country marking via right-click is available in every scenario, not just Scenario 4.
+
+- **Highlights Control Dropdown** — A new dropdown below the Map Projection selector provides **"Highlight Visited Countries"** (default), **"No Highlights"** (suppress display without deleting data), and **"Clear Manually Marked Cache"** (wipe `manual_visited_countries.json`).
+- **Highlight State Persists** — Selecting "No Highlights" suppresses all country highlights until you manually re-select "Highlight Visited Countries" or restart the module.
+
+- **On-Screen Sub-Region Toggles** — Added "Show Sub Regions" and "Hide Sub Regions" options to the Highlights dropdown for real-time visibility control without module restart.
+
+- **UK Home Nations Resolution** — Scotland, England, Wales, and Northern Ireland are now automatically resolved to the GB ISO code for sub-national mapping and visited-country highlighting.
+
+- **Sub-national Region Layers** — Support for high-detail region polygons (States, Provinces, Departments, etc.) for 130+ countries, including detailed coverage for the United Kingdom (England, Scotland, Wales, and Northern Ireland).
+
+- **Graticule Grid** — Configurable latitude/longitude grid (`showGraticule`) with customizable step, color, width, and opacity.
 - **Globe Auto-Rotation** — New `autoRotateGlobeToPlane` option to automatically rotate the globe to keep the active flight's plane icon centered and visible.
 - **Dynamic Attractions** — The attractions panel now automatically updates to show the destination city (or origin fallback) of active flights in live or test mode.
 - **Ocean vs. Background Coloring** — Separated coloring for the map ocean (`colorMapOcean`) and the surrounding area (`colorMapBackground`) for a cleaner look in Globe/Orthographic projections.
-- **Config Options** — Added `autoRotateGlobeToPlane`, `graticuleWidth`, `colorVisitedCountry`, `colorVisitedCountryBorder`, `colorVisitedCountryOpacity`, `showSubnationalRegions`, `subnationalCountries`, `colorMapBackground`, and `colorMapOcean`.
+- **Config Options** — Added `autoRotateGlobeToPlane`, `graticuleWidth`, `colorVisitedCountry`, `colorVisitedCountryBorder`, `colorVisitedCountryOpacity`, `showSubnationalRegions`, `subnationalAllCountries`, `subnationalCountries`, `colorMapBackground`, and `colorMapOcean`.
 
 ### Fixed
 - **Marker Click Handler** — Simplified attraction lookup to use destination name, improving reliability for cities without IATA codes in Scenario 4 and 6.
 
 ---
 
-## [1.9.0] dev - 2026-04-06
+## [1.9.0] - 2026-04-06
 
 ### Added
 - **Scenario 6: Football Away Days** — New CSV-driven scenario (`data/footballAwayTrips.csv`) specifically for tracking European football away fixtures.
@@ -43,7 +55,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [1.8.0] dev - 2026-04-05
+## [1.8.0] - 2026-04-05
 
 ### Added
 - **Interactive UI Controls** — Added on-screen pan and zoom controls for manual map navigation.
@@ -60,7 +72,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [1.7.0] dev - 2026-04-01
+## [1.7.0] - 2026-04-01
 
 ### Added
 

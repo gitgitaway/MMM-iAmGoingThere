@@ -1,31 +1,30 @@
 # MMM-iAmGoingThere
 
-> A MagicMirror² module for visulising past, current or upcoming trips. When used with a free Aero API from [FlightAware.com](https://www.flightaware.com/aeroapi/signup/personal) you can have live flight status and tracking.
-> The module covers 6 distinct scenarios as detiled below  and you can choose from any one of 5 map projections to visulise your trips.
-> The module includes colour-coded great-circle paths, countdown timer, and city attraction guides as well as printable flight itenaries and terminal guides. 
+> A MagicMirror² module for  visulising past, present  or future trips, When used with a fre Aero API you can hssve live flight status and tracking.
+> The module covers 6 distinct scenarios as detiled below and you can choose from any one of 5 map projections to visulise your trips.
+> The module includes  colour-coded great-circle paths, countdown timer, and city attraction guides as well as printable flight itenaries and terminal guides.
 > Forked from [MMM-iHaveBeenThere](https://github.com/basti0001/MMM-iHaveBeenThere) by Sebastian Merkel.
-
-## 🎬 Screenshots
-
-|                                                  |                                                  |                                                  |
-| :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
-| ![Scenario 1](./screenshots/Screenshot1.png) | ![Scenario 2](./screenshots/Screenshot2.png) | ![Scenario 3](./screenshots/Screenshot3.png) |
-| ![Scenario 4](./screenshots/Screenshot4.png) | ![Scenario 5](./screenshots/Screenshot5.png) | ![Scenario 6](./screenshots/Screenshot6.png) |
-
 
 ---
 
-## 🆕 Recent Updates (v2.0.0 — 2026-04-29)
+## Screenshots
 
-### v2.0.0 — Graticule, Region Layers & Visited Countries
-- **Graticule Grid** — Added a configurable latitude/longitude grid (`showGraticule`) with custom step, color, and opacity.
-- **Scenario 4: Visited Country Coloring** — In Scenario 4 ("Where I Have Been"), countries that have been visited at least once are now automatically colored green.
-- **Persistent Manual Coloring** — Right-click any country on the map to toggle its color; selections are saved to `data/manual_visited_countries.json`.
-- **Sub-national Region Layers** — Layered support for US states, Canadian provinces, and sub-national regions for over 80 countries. Includes hover effects and click-to-select behavior.
-- **Globe Auto-Rotation** — New `autoRotateGlobeToPlane` option to keep the plane icon centered and visible on Orthographic maps as the flight progresses.
-- **Dynamic Attractions** — The attractions panel now automatically updates to the destination city when a flight is active (live or test mode) and features an origin-fallback for return legs.
-- **Ocean vs. Background Colors** — Separated `colorMapBackground` (area outside the projection) from `colorMapOcean` (the water inside the map) for better visual depth.
-- **Configurable Graticule Width** — New `graticuleWidth` option for fine-tuning grid line thickness.
+| | |  |
+|---|---|---|
+| ![Scenario 1](screenshots/Screenshot1.png) | ![Scenario 2](screenshots/Screenshot2.png) |![Scenario 3](screenshots/Screenshot3.png) |
+| ![Scenario 4](screenshots/Screenshot4.png) | ![Scenario 5](screenshots/Screenshot5.png) |![Scenario 6](screenshots/screenshot6.png) |
+| ![Screenshot 7](screenshots/Screenshot7.png) | ![Screenshot 8](screenshots/creenshot8.png) |![Screenshot 9](screenshots/Screenshot9.png) |
+
+---
+
+## 🆕 Recent Updates
+
+## v2.0.0 Visited Countries — Improved Marking & Control (2026-05-02)
+- **Right-click Confirmation Popup** — Right-clicking a country now shows a popup with the country name, its current visited status, and **"Mark as Visited"** / **"Remove Visited"** / **"Cancel"** buttons (auto-dismisses after 5 s).
+- **Works in All Scenarios** — Manual country marking via right-click is available in every scenario, not just Scenario 4.
+- **Highlights Control Dropdown** — A new dropdown below the Map Projection selector provides **"Highlight Visited Countries"** (default), **"No Highlights"** (suppress display without deleting data), and **"Clear Manually Marked Cache"** (wipe `manual_visited_countries.json`).
+- **Highlight State Persists** — Selecting "No Highlights" suppresses all country highlights until you manually re-select "Highlight Visited Countries" or restart the module.
+- **Translated Popup** — Popup text routes through the translation system and is available in all 33 supported languages.
 
 
 See [CHANGELOG.md](./CHANGELOG.md) for complete details of all changes.
@@ -40,8 +39,9 @@ See [CHANGELOG.md](./CHANGELOG.md) for complete details of all changes.
 - **Globe Auto-Rotation** — Automatically rotate the globe to keep active planes in view (`autoRotateGlobeToPlane`).
 - **Live flight tracking** via [FlightAware AeroAPI](https://flightaware.com/aeroapi/).
 - **Colour-coded great-circle paths** — Smoothly interpolated arcs with progress filling.
-- **Scenario 4 Green Countries** — Automatically color visited countries green in travel history mode.
-- **Manual Mapping** — Right-click any country to manually toggle its "visited" color (saves to persistent cache).
+- **Visited Country Highlights** — Automatically colour visited countries in Scenario 4; manually mark any country in any scenario via right-click popup.
+- **Highlights Control** — Dropdown to toggle graticule grid lines, visited highlights on/off, or clear the manual cache without restarting.
+- **Improved UI Selectors** — Independent on-screen dropdown controls for Projection, Visited Highlights, Scenario, and Mode selectors.
 - **Dynamic Attractions** — Top 10 attractions automatically update to the destination of active/test flights or clicked markers (with origin fallback).
 - **Rich live status** — Gate/terminal, taxiing, diverted labels, and Foresight ETA⚡.
 - **Live Destination Weather** — Fetched from Open-Meteo for your arrival city.
@@ -118,9 +118,11 @@ git pull
       { travelerName: "Family", flightNumber: "FR2891", departureDate: "2026-08-01", from: "GLA", to: "BCN" },
       { travelerName: "Family", flightNumber: "FR2892", departureDate: "2026-08-08", from: "BCN", to: "GLA" }
     ]
-  },
+  }
 }
 ```
+
+---
 
 ## 📚 Documentation
 
@@ -136,6 +138,7 @@ Detailed guides for every feature and configuration options are shown below.
 | [Accessibility Features](./documents/Accessibility_Features.md) | ARIA roles, colorblind mode, and design principles |
 | [API Rate Limit Guide](./documents/apiRateLimit_Guide.md) | AeroAPI usage and optimization |
 | [Translations Guide](./documents/Translations.md) | Supported languages and locale settings |
+| [Mark Country As Visited Guide](./documents/Mark_Country_As_Visited_Guide.md) | Right-click popup, highlights control, and manual cache management |
 
 ## ⚖️ License & Credits
 
