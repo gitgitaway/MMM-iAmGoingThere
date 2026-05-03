@@ -452,7 +452,7 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `showScenarioSelector` | `Boolean" | `true` | Show scenario dropdown (top-right) |
 | `showMapSelector` | `Boolean" | `true` | Legacy alias: toggles both Projection and Visited selectors |
 
-### 7. Flight Details Overlay
+### 7. Flight Details Overlay Panel
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `showFlightDetails` | `Boolean" | `false` | Show the overlay flight status table |
@@ -465,7 +465,7 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `tableX` | `Number" | `0` | px from left edge of map |
 | `tableY` | `Number" | `0` | px from bottom edge of map |
 
-### 8. Attractions Overlay
+### 8. Attractions Overlay Panel
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `showAttractionsDetails` | `Boolean" | `false` | Show Top 10 city attractions overlay |
