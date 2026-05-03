@@ -12,8 +12,8 @@
 | | |  |
 |---|---|---|
 | ![Scenario 1](screenshots/Screenshot1.png) | ![Scenario 2](screenshots/Screenshot2.png) |![Scenario 3](screenshots/Screenshot3.png) |
-| ![Scenario 4](screenshots/Screenshot4.png) | ![Scenario 5](screenshots/Screenshot5.png) |![Scenario 6](screenshots/screenshot6.png) |
-| ![Screenshot 7](screenshots/Screenshot7.png) | ![Screenshot 8](screenshots/creenshot8.png) |![Screenshot 9](screenshots/Screenshot9.png) |
+| ![Scenario 4](screenshots/Screenshot4.png) | ![Scenario 5](screenshots/Screenshot5.png) |![Scenario 6](screenshots/Screenshot6.png) |
+| ![Screenshot 7](screenshots/Screenshot7.png) | ![Screenshot 8](screenshots/Screenshot8.png) |![Screenshot 9](screenshots/Screenshot9.png) |
 
 ---
 
