@@ -393,82 +393,195 @@ When using the `scenarios` object, the module will merge your top-level "global"
 
 ## All Configuration Options
 
+### 1. Scenario & Core
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `scenario` | `Number` | `1` | Trip type: `1`=round trip, `2`=multi-leg RTW, `3`=multi-origin, `4`=Where I have been, `5`=CSV crew roster, `6`=CSV football trips |
-| `showPanControl` | `Boolean` | `true` | Show on-screen pan arrows and compass |
-| `showZoomControl` | `Boolean` | `true` | Show on-screen + and - zoom buttons |
+| `showWhereIHaveBeen` | `Boolean` | `false` | Scenario 4: If `true`, the module generates return flights from Home to each destination |
+| `tripTitle` | `String` | `"Our Destination"` | Text appended to the "We Are On Our Way To –" title |
+| `overideDate` | `Boolean` | `false` | Debug: Set all flights takeoff time to now + 5 minutes for this session only |
+| `departureAlertHours` | `Number` | `0` | Hours before first departure to send notification (0 = disabled) |
+
+### 2. FlightAware AeroAPI
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `flightAwareApiKey` | `String` | `""` | FlightAware AeroAPI key (required for live tracking) |
+| `pollInterval` | `Number` | `5` | Minutes between FlightAware API polls |
+
+### 3. Map Settings
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `mapHeight` | `Number` | `700` | Map height in pixels |
+| `mapProjection` | `String` | `"mercator"` | Default projection: `"mercator"`, `"naturalEarth1"`, `"equirectangular"`, `"orthographic"`, `"stereographic"` |
+| `zoomLevel` | `Number` | `1` | amCharts 5 zoom level (`1` = full world) |
+| `zoomLongitude` | `Number` | `0` | Map centre longitude |
+| `zoomLatitude` | `Number` | `20` | Map centre latitude |
+| `autoRotateGlobeToPlane` | `Boolean` | `false` | Orthographic projection: rotate globe to keep active plane(s) centered |
+| `gcPoints` | `Number` | `100` | Great-circle interpolation points per leg |
+| `displayDesc` | `Boolean` | `true` | Show airport name labels on markers |
+| `showCityInfo` | `Boolean` | `false` | Show city name and local time overlay |
+| `citiesFile` | `String` | `"data/cities.csv"` | Path to cities CSV data file |
+| `cityInfoMode` | `String` | `"destination"` | `"destination"` or `"layovers"` (cycle through stopovers) |
+| `cityInfoCycleInterval` | `Number` | `20` | Seconds per city when `cityInfoMode = "layovers"` |
+| `narrowBreakpoint` | `Number` | `900` | Screen width (px) below which both overlay panels switch to `95vw` stacked layout |
+
+### 4. Graticule Grid
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
 | `showGraticule` | `Boolean` | `false` | Show latitude/longitude grid lines on the map |
 | `colorGraticule` | `String` | `"#ffffff"` | Hex color for the graticule lines |
 | `graticuleOpacity` | `Number` | `0.2` | Opacity of the graticule lines (0.0 to 1.0) |
 | `graticuleWidth` | `Number` | `0.5` | Stroke width of the graticule lines |
 | `graticuleStep` | `Number` | `10` | Frequency of graticule lines in degrees (e.g. 10°) |
+
+### 5. Sub-national Regions
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
 | `showSubnationalRegions` | `Boolean` | `false` | Enable layered map polygons for sub-national regions (states, provinces, etc.) |
+| `subnationalAllCountries`| `Boolean` | `false` | If `true`, enables sub-national regions for ALL supported countries (~130+) |
 | `subnationalCountries` | `Array` | `[]` | List of ISO-2 codes to show regions for, e.g. `["US", "CA", "GB"]` |
-| `colorMapBackground` | `String` | `"#000000"` | Color of the area outside the map projection (e.g. corners of the globe) |
-| `colorMapOcean` | `String` | `"#1A1A2E"` | Color of the ocean fill inside the map projection |
-| `colorVisitedCountry` | `String` | `"#00AA44"` | Fill color for visited countries. Applies to auto-detected countries in Scenario 4 and any countries manually marked via **Right-Click**. |
-| `colorVisitedCountryBorder`| `String` | `"#008833"` | Border color for visited countries |
-| `colorVisitedCountryOpacity`| `Number` | `0.75` | Opacity of the visited country fill |
-| `showMapSelector` | `Boolean` | `true` | Show map projection dropdown (top-left) |
-| `showScenarioSelector` | `Boolean` | `true` | Show scenario dropdown (top-right) |
-| `showWhereIHaveBeen` | `Boolean` | `false` | Scenario 4: If `true`, the module generates return flights from Home to each destination |
-| `crewFlightsFile` | `String` | `"data/my_flights.csv"` | Scenario 5: path to the CSV flight roster, relative to the module directory |
-| `footballAwayTripsFile` | `String` | `"data/footballAwayTrips.csv"` | Scenario 6: path to the football trips CSV, relative to the module directory |
-| `tripTitle` | `String` | `"Our Destination"` | Text appended to the "We Are On Our Way To –" title |
-| `flightAwareApiKey` | `String` | `""` | FlightAware AeroAPI key (required for live tracking) |
-| `pollInterval` | `Number` | `5` | Minutes between FlightAware API polls |
-| `zoomLevel` | `Number` | `1` | amCharts 5 zoom level (`1` = full world) |
-| `zoomLongitude` | `Number` | `0` | Map centre longitude |
-| `zoomLatitude` | `Number` | `20` | Map centre latitude |
-| `autoRotateGlobeToPlane` | `Boolean` | `false` | Orthographic projection: rotate globe to keep active plane(s) centered |
-| `mapHeight` | `Number` | `700` | Map height in pixels |
-| `mapProjection` | `String` | `"mercator"` | Default projection: `"mercator"`, `"naturalEarth1"`, `"equirectangular"`, `"orthographic"` |
-| `gcPoints` | `Number` | `100` | Great-circle interpolation points per leg |
-| `displayDesc` | `Boolean` | `true` | Show airport name labels on markers |
-| `showFlightDetails` | `Boolean` | `false` | Show the overlay flight status table |
-| `autoHideOverlays` | `Boolean` | `false` | If `true`, the flight table and city info panels fade out after inactivity |
-| `autoHideDelay` | `Number` | `30` | Seconds to wait before fading out overlay panels |
-| `flightPanelWidth` | `String` | `"46vw"` | CSS width of the flight status overlay panel |
-| `flightPanelHeight` | `String` | `"32vh"` | CSS height of the flight status overlay panel |
-| `setFlightDetailsTextSize` | `String` | `"xsmall"` | Font size for the flight table |
-| `showAttractionsDetails` | `Boolean` | `false` | Show Top 10 city attractions overlay |
-| `attractionsPanelWidth` | `String` | `"50vw"` | CSS width of the attractions overlay panel |
-| `attractionsPanelHeight` | `String` | `"32vh"` | CSS height of the attractions overlay panel |
-| `setAttractionsDetailsTextSize` | `String` | `"xsmall"` | Font size for the attractions panel |
-| `maxAttractionsDisplay` | `Number` | `5` | Maximum number of attractions to display per page |
-| `attractionsAutoScroll` | `Boolean` | `false` | When `true`, page-flips the attractions list |
-| `attractionsScrollInterval` | `Number` | `3` | Seconds each page is displayed before flipping |
-| `cityInfoMode` | `String` | `"destination"` | `"destination"` or `"layovers"` (cycle through stopovers) |
-| `cityInfoCycleInterval` | `Number` | `20` | Seconds per city when `cityInfoMode = "layovers"` |
-| `departureAlertHours` | `Number` | `0` | Hours before first departure to send notification (0 = disabled) |
-| `flightDisplayMode` | `String` | `"all"` | Filter legs: `"all"` \| `"outbound"` \| `"return"` |
-| `showFlightTracks` | `String` | `"auto"` | `"auto"` (live), `"true"` (static), `"false"` (hidden), or `"test"` (animation) |
-| `tooltipDuration` | `Number` | `6` | Seconds tooltip stays visible |
-| `testModeDuration` | `Number` | `3` | Seconds per leg in test animation |
-| `testModeDelay` | `Number` | `3` | Seconds pause between legs in test animation |
-| `citiesFile` | `String` | `"data/cities.csv"` | Path to cities CSV data file |
-| `colorResetAfterDays` | `Number` | `1` | Days after final landing before paths reset to white |
-| `colorMapBackground` | `String` | `"#1A1A2E"` | Map / Ocean background colour |
-| `colorBlindMode` | `Boolean` | `false` | When `true`, differentiates path status via `dashLength` |
-| `colorCountries` | `String` | `"#2C3E50"` | Map country fill colour |
-| `colorCountryBorders` | `String` | `"#1A252F"` | Map border colour |
-| `colorAirportHome` | `String` | `"#FFD700"` | Home airport marker colour (gold) |
-| `colorAirportOther` | `String` | `"#FFFFFF"` | Other airport marker colour |
-| `colorFuturePath` | `String` | `"#FFFFFF"` | Scheduled leg colour |
-| `colorActivePath` | `String` | `"#4499FF"` | In-flight leg colour |
-| `colorCompletedPath` | `String` | `"#00CC66"` | Landed leg colour |
-| `colorPreviousPath` | `String` | `"#888888"` | Superseded-landed leg colour (grey) |
-| `colorCancelledPath` | `String` | `"#FF4444"` | Cancelled leg colour |
-| `colorPlane` | `String` | `"#FF6644"` | Live plane icon colour |
-| `animationEnabled` | `Boolean` | `true` | Show live plane icon on active leg |
-| `showPlaneShadow` | `Boolean` | `true` | Render a white halo beneath the plane icon |
-| `showDestinations` | `Boolean` | `true` | Show airport destination markers on the map |
-| `home` | `Object` | see defaults | Home airport `{ name, iata, lat, lon }` |
-| `destination` | `Object` | `null` | Primary destination airport object |
-| `flights` | `Array` | `[]` | Leg objects for Scenario 1, 2 & 4 |
-| `travelers` | `Array` | `[]` | Traveler objects for Scenario 3 |
-| `narrowBreakpoint` | `Number` | `900` | Screen width (px) below which both overlay panels switch to `95vw` stacked layout |
+
+### 6. UI Controls (Onscreen)
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `showPanControl` | `Boolean" | `true` | Show on-screen pan arrows and compass |
+| `showZoomControl` | `Boolean" | `true` | Show on-screen + and - zoom buttons |
+| `showProjectionSelector` | `Boolean" | `true` | Show map projection dropdown (top-left) |
+| `showVisitedSelector` | `Boolean" | `true` | Show the Highlights Control dropdown (top-left) |
+| `showModeSelector` | `Boolean" | `true` | Show mode selector (Auto/Test) (top-right) |
+| `showScenarioSelector` | `Boolean" | `true` | Show scenario dropdown (top-right) |
+| `showMapSelector` | `Boolean" | `true` | Legacy alias: toggles both Projection and Visited selectors |
+
+### 7. Flight Details Overlay
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `showFlightDetails` | `Boolean" | `false` | Show the overlay flight status table |
+| `autoHideOverlays` | `Boolean" | `false` | If `true`, the flight table and city info panels fade out after inactivity |
+| `autoHideDelay` | `Number" | `30` | Seconds to wait before fading out overlay panels |
+| `flightPanelWidth` | `String" | `"46vw"` | CSS width of the flight status overlay panel |
+| `flightPanelHeight` | `String" | `"32vh"` | CSS height of the flight status overlay panel |
+| `setFlightDetailsTextSize` | `String" | `"xsmall"` | Font size for the flight table |
+| `showTable` | `Boolean" | `false` | Legacy alias for `showFlightDetails` |
+| `tableX` | `Number" | `0` | px from left edge of map |
+| `tableY` | `Number" | `0` | px from bottom edge of map |
+
+### 8. Attractions Overlay
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `showAttractionsDetails` | `Boolean" | `false` | Show Top 10 city attractions overlay |
+| `attractionsPanelWidth` | `String" | `"50vw"` | CSS width of the attractions overlay panel |
+| `attractionsPanelHeight` | `String" | `"32vh"` | CSS height of the attractions overlay panel |
+| `setAttractionsDetailsTextSize` | `String" | `"xsmall"` | Font size for the attractions panel |
+| `maxAttractionsDisplay` | `Number" | `5` | Maximum number of attractions to display per page |
+| `attractionsAutoScroll` | `Boolean" | `false` | When `true`, page-flips the attractions list |
+| `attractionsScrollInterval` | `Number" | `3` | Seconds each page is displayed before flipping |
+| `autoRotateAttractionsData` | `Boolean" | `false` | Auto-rotate attractions to destination when trip completes |
+| `cityAttractions_Xaxis` | `Number" | `0` | px from left edge of map |
+| `cityAttractions_Yaxis" | `Number" | `0` | px from bottom edge of map |
+
+### 9. Flight Tracking & Animation
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `showFlightTracks` | `String" | `"auto"` | `"auto"` (live), `"true"` (static), `"false"` (hidden), or `"test"` (animation) |
+| `flightDisplayMode` | `String" | `"all"` | Filter legs: `"all"` \| `"outbound"` \| `"return"` |
+| `testModeDuration` | `Number" | `3` | Seconds per leg in test animation |
+| `testModeDelay" | `Number" | `3` | Seconds pause between legs in test animation |
+| `animationEnabled" | `Boolean" | `true` | Show live plane icon on active leg |
+| `pauseDuration" | `Number" | `3.0` | Pause duration for animation |
+| `animationDuration" | `Number" | `10.0` | Speed of plane animation |
+| `showPlaneShadow" | `Boolean" | `true` | Render a white halo beneath the plane icon |
+
+### 10. Airport & Destination Markers
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `showDestinations" | `Boolean" | `true` | Show airport destination markers on the map |
+| `tooltipDuration" | `Number" | `6` | Seconds tooltip stays visible |
+| `colorAirportHome" | `String" | `"#FFD700"` | Home airport marker colour (gold) |
+| `colorAirportOther" | `String" | `"#FFFFFF"` | Other airport marker colour |
+
+### 11. Colours (Map & Paths)
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `colorMapBackground" | `String" | `"#000000"` | Color of the area outside the map projection |
+| `colorMapOcean" | `String" | `"#1A1A2E"` | Color of the ocean fill inside the map projection |
+| `colorCountries" | `String" | `"#2C3E50"` | Map country fill colour |
+| `colorCountryBorders" | `String" | `"#1A252F"` | Map border colour |
+| `colorVisitedCountry" | `String" | `"#00AA44"` | Fill colour for visited countries |
+| `colorVisitedCountryBorder"| `String" | `"#008833"` | Border colour for visited countries |
+| `colorVisitedCountryOpacity"| `Number" | `0.75` | Opacity of the visited country fill (0.0–1.0) |
+| `colorFuturePath" | `String" | `"#FFFFFF"` | Scheduled leg colour |
+| `colorActivePath" | `String" | `"#4499FF"` | In-flight leg colour |
+| `colorCompletedPath" | `String" | `"#00CC66"` | Landed leg colour |
+| `colorPreviousPath" | `String" | `"#888888"` | Superseded-landed leg colour (grey) |
+| `colorCancelledPath" | `String" | `"#FF4444"` | Cancelled leg colour |
+| `colorPlane" | `String" | `"#FF6644"` | Live plane icon colour |
+| `colorTitleFont" | `String" | `"#FFFFFF"` | Main title font colour |
+| `colorLegendFont" | `String" | `"#FFFFFF"` | Legend font colour |
+| `colorLegendBorder" | `String" | `"#FFFFFF"` | Legend border colour |
+| `colorBlindMode" | `Boolean" | `false` | When `true`, differentiates path status via `dashLength` |
+| `colorResetAfterDays" | `Number" | `1` | Days after final landing before paths reset to white |
+
+### 12. Data Sources
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `home" | `Object" | see defaults | Home airport `{ name, iata, lat, lon }` |
+| `destination" | `Object" | `null` | Primary destination airport object |
+| `flights" | `Array" | `[]` | Leg objects for Scenario 1, 2 & 4 |
+| `travelers" | `Array" | `[]` | Traveler objects for Scenario 3 |
+| `crewFlightsFile" | `String" | `"data/my_flights.csv"` | Scenario 5: CSV flight roster path |
+| `footballAwayTripsFile" | `String" | `"data/footballAwayTrips.csv"` | Scenario 6: football trips CSV path |
+
+---
+
+## Sub-national Regions (v2.1.0+)
+
+The module supports high-detail sub-national region layers (states, provinces, departments, etc.) for **130+ countries**.
+
+### Enabling Regions
+
+1. Set `showSubnationalRegions: true`.
+2. Choose which countries to show:
+   - **All countries**: Set `subnationalAllCountries: true`. This is the easiest way to see regions everywhere they are available.
+   - **Specific countries**: Add ISO-2 codes to the `subnationalCountries` array, e.g., `["US", "CA", "GB", "DE"]`.
+
+### Supported Countries include:
+
+- **Europe**: GB (UK - includes England, Scotland, Wales, NI), DE (Germany), FR (France), IT (Italy), ES (Spain), etc.
+- **Americas**: US (USA), CA (Canada), BR (Brazil), MX (Mexico), etc.
+- **Asia**: CN (China), IN (India), JP (Japan), RU (Russia), etc.
+- **Oceania**: AU (Australia), NZ (New Zealand).
+- **Africa**: ZA (South Africa), NG (Nigeria), EG (Egypt), etc.
+
+> **Note on the UK:** To see regions for England, Scotland, Wales, or Northern Ireland, use the **GB** country code. The module automatically maps these names to GB.
+
+---
+
+## Visited Countries — Highlights Control
+
+When `showVisitedSelector: true`, a **Highlights Control** dropdown is displayed in the top-left corner of the map, directly below the Map Projection selector.
+
+| Dropdown option | Effect |
+|-----------------|--------|
+| **Show Graticule Lines** | Displays latitude/longitude grid lines on the map |
+| **Hide Graticule Lines** | Hides latitude/longitude grid lines |
+| **Highlight Visited Countries** *(default)* | Green highlights shown for all visited countries |
+| **No Highlights** | All highlights suppressed (display-only; no data is deleted). Persists until option is changed or module restarts |
+| **Clear Manually Marked Cache** | Wipes `data/manual_visited_countries.json`; reverts dropdown to "Highlight Visited Countries" |
+| **Show Sub Regions** | Shows internal borders (states, provinces, etc.) for supported countries |
+| **Hide Sub Regions** | Hides internal borders (states, provinces, etc.) |
+
+### Right-click popup (all scenarios)
+
+Right-clicking any country polygon opens a confirmation popup:
+- Shows the **country name** and **current visited status**
+- **"Mark as Visited"** — adds to `manual_visited_countries.json`
+- **"Remove Visited"** — removes from `manual_visited_countries.json`
+- **"Cancel"** — closes without changes
+- Auto-dismisses after **5 seconds**
+
+Manual marks are applied in all six scenarios. Automatic country detection from flight destinations applies to **Scenario 4 only**.
+
+> Full details: [Mark Country As Visited Guide](./Mark_Country_As_Visited_Guide.md)
 
 ---
 

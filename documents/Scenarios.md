@@ -127,13 +127,17 @@ Multiple travelers flying from different origins to a shared destination. Each t
 
 ## Scenario 4 — Where I Have Been
 
-Displays a collection of all previously visited destinations. 
-- Home location is marked with a **Gold** marker.
-- All visited destinations (listed in `flights`) are marked with **White** markers (or crests).
-- **Green Countries** — Countries that have been visited at least once are automatically colored green (or your chosen `colorVisitedCountry`). This includes destinations resolved via city names or football teams.
-- **Manual Coloring** — You can manually mark any country as "visited" by **right-clicking** it on the map. Manual selections are saved to `data/manual_visited_countries.json` and persist after restarting.
-- **Football Team Crests** — If a destination is resolved via a football team name, the marker is replaced by the team's crest.
+Displays a collection of all previously visited destinations.
+
+- **Home** location is marked with a **Gold** marker.
+- **Visited destinations** (listed in `flights`) are marked with **White** markers (or football crests).
+- **Green Countries** — Countries reached at least once are automatically coloured green (configurable via `colorVisitedCountry`). This includes destinations resolved via IATA codes, city names, and football team names.
+- **Manual Marking** — Right-click any country on the map to open a confirmation popup. Use **"Mark as Visited"** or **"Remove Visited"** to toggle its status. Selections are saved to `data/manual_visited_countries.json` and persist across restarts.
+- **Highlights Control** — A dropdown below the map projection selector lets you switch between **"Highlight Visited Countries"** (default), **"No Highlights"** (suppresses all highlights without deleting data), and **"Clear Manually Marked Cache"** (wipes the manual JSON file).
+- **Football Team Crests** — If a destination is resolved via a football team name, the marker is replaced by the team's crest image.
 - **Flight tracks** are only visible when `showFlightTracks` is set to `"test"`.
+
+> See [Mark Country As Visited Guide](./Mark_Country_As_Visited_Guide.md) for full details on manual marking, the popup, and managing the visited cache.
 
 **Example — Tracking multiple past trips:**
 
@@ -263,4 +267,21 @@ departureDate,Competition,to,flightNumber,travelerName,score,result
 - **Size Reduction** — Markers in this scenario are rendered at 50% scale (17x17px) to keep the map readable even with many markers.
 - **Static Display** — Flight tracking is disabled for this scenario by default as it focus on destination history.
 
+---
+
+## Manual Country Marking — Available in All Scenarios
+
+Right-clicking any country in **any scenario** opens the visited-status popup. Manual marks are stored in `data/manual_visited_countries.json` and shown as green highlights alongside any automatically-derived visited countries (Scenario 4 only).
+
+The **Highlights Control** dropdown (top-left, below the Map Projection selector) is also available in every scenario:
+
+| Option | Effect |
+|--------|--------|
+| Highlight Visited Countries | Show all highlights (default) |
+| No Highlights | Hide all highlights until re-selected or restart |
+| Clear Manually Marked Cache | Wipe the manual JSON file and re-enable highlighting |
+| Show Sub Regions | Enable internal border layers (states, provinces, etc.) |
+| Hide Sub Regions | Disable internal border layers |
+
+> Full details: [Mark Country As Visited Guide](./Mark_Country_As_Visited_Guide.md)
 

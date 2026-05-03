@@ -15,6 +15,21 @@ The module includes several built-in databases for easy location resolution:
 
 ---
 
+## Sub-national Region Coverage
+
+The module supports high-detail sub-national boundaries (states, provinces, departments, etc.) for **130+ countries**, provided by the `amcharts5-geodata` package.
+
+### Coverage Breakdown:
+- **Europe**: Comprehensive coverage across the continent, including detailed mapping for the **United Kingdom (England, Scotland, Wales, Northern Ireland)**, Germany, France, Italy, Spain, and others.
+- **Americas**: Full coverage for USA (States), Canada (Provinces), Brazil, Mexico, Argentina, etc.
+- **Asia**: Russia, China, India, Japan, Indonesia, etc.
+- **Oceania**: Australia and New Zealand.
+- **Africa**: South Africa, Nigeria, Egypt, Morocco, etc.
+
+To enable these layers, set `showSubnationalRegions: true` and `subnationalAllCountries: true` in your `config.js`.
+
+---
+
 ## FIFA World Cup 2026 Host Cities
 
 | City | Country | IATA | Stadium |

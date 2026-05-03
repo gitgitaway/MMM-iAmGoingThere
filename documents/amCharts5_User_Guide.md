@@ -233,14 +233,15 @@ The graticule grid provides a subtle latitude and longitude reference on the map
 
 ### Sub-national Region Layers
 This feature allows you to display detailed administrative boundaries (States, Provinces, Departments, etc.) for specific countries.
-- **Supported Countries**: Over 80 countries including USA, Canada, UK, Germany, France, Japan, China, Brazil, and more.
+- **Supported Countries**: Over 130 countries including USA, Canada, UK (England, Scotland, Wales, Northern Ireland), Germany, France, Japan, China, Brazil, and more.
 - **Implementation**: Loads dedicated GeoJSON files from the `@amcharts/amcharts5-geodata` package via the `node_helper.js`.
 - **Interactivity**:
   - **Hover Effects**: Regions change color on hover.
   - **Click-to-Select**: Clicking a region toggles an "active" state.
 - **Configuration**:
   - `showSubnationalRegions: true` to enable.
-  - `subnationalCountries`: Array of ISO-2 codes, e.g., `["US", "CA", "DE"]`.
+  - `subnationalAllCountries: true` to enable for all supported countries.
+  - `subnationalCountries`: Array of ISO-2 codes for specific countries, e.g., `["US", "CA", "GB"]`.
 
 ### Globe Auto-Rotation
 For the **Orthographic** (Globe) projection, you can enable `autoRotateGlobeToPlane: true`. This feature automatically rotates the globe to ensure the active plane icon remains centered and visible as it travels. If multiple planes are active, the globe will center on the midpoint between them.

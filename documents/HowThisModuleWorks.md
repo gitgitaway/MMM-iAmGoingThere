@@ -4,9 +4,9 @@ This document provides a technical overview of how each main feature functions a
 
 ---
 
-## 1. Five Trip Scenarios
+## 1. Six Trip Scenarios
 
-The module is designed around five distinct travel scenarios, controlled by the `scenario` configuration option.
+The module is designed around six distinct travel scenarios, controlled by the `scenario` configuration option.
 
 ### **Scenario 1 — Standard Round Trip**
 - **Function**: Designed for a simple trip from home to a destination and back.
@@ -34,7 +34,8 @@ The module is designed around five distinct travel scenarios, controlled by the 
     1. **IATA code** (e.g. `"LHR"`) — resolved from `data/airports.csv`
     2. **City name** (e.g. `"San Francisco"`) — resolved from `data/cities.csv`
     3. **Football team name** (e.g. `"Bayern Munich"`) — resolved from `data/football_teams_database.csv` using the team's stadium coordinates
-    4. **Direct coordinates** — an object with `{ lat, lon }` fields used as-is
+    4. **United Kingdom Regions** — "England", "Scotland", "Wales", and "Northern Ireland" are automatically resolved to **GB**.
+    5. **Direct coordinates** — an object with `{ lat, lon }` fields used as-is
 - **Map Markers**:
     - **Home** — rendered with a **Gold** (`#FFD700`) target marker.
     - **Destinations** — rendered with a **White** target marker by default.
@@ -79,11 +80,13 @@ The module is designed around five distinct travel scenarios, controlled by the 
 ### **Sub-national Region Layers**
 - **Function**: Displays detailed boundaries for states, provinces, cantons, and departments within specified countries.
 - **Implementation**: 
-    1. `node_helper.js` maintains a `_REGION_FILE_MAP` for 80+ countries.
+    1. `node_helper.js` maintains a `_REGION_FILE_MAP` for **130+ countries**.
     2. When `showSubnationalRegions` is enabled, the backend reads the corresponding ES-module GeoJSON files from `@amcharts/amcharts5-geodata`.
     3. The files are parsed into JSON (removing ES `export` syntax) and sent to the frontend.
-    4. The frontend creates a separate `MapPolygonSeries` for each country layer, applying a rotating 8-color palette (`LAYER_COLORS`) to ensure neighboring layers are visually distinct.
-- **Config Option**: `showSubnationalRegions`, `subnationalCountries`.
+    4. The frontend creates a separate `MapPolygonSeries` for each country layer, applying a rotating 8-color palette (`LAYER_COLORS`) to ensure neighboring layers are visually distinct. Created series are stored in `this._regionSeriesList`.
+- **On-screen Toggling**: Regions can be toggled on/off without a restart via the **Highlights** dropdown in the top-left corner. This calls `_toggleRegionLayers(visible)`.
+- **UK Support**: Includes high-detail mapping for England, Scotland, Wales, and Northern Ireland.
+- **Config Option**: `showSubnationalRegions`, `subnationalAllCountries`, `subnationalCountries`.
 
 #### **Globe Auto-Rotation**
 - **Function**: Automatically rotates the map to keep the active flight's plane icon centered.
@@ -130,7 +133,8 @@ The module now features a suite of on-screen controls for manual map interaction
 - **Recenter Behavior**: Clicking the compass needle re-orients the map to North (0,0 rotation) while preserving the user's current zoom level.
 - **On-Screen Selectors**:
     - **Map Projection Selector** (Top-Left): Instantly switches between Mercator, Globe, etc., by calling `_updateProjection()`.
-    - **Scenario Selector** (Top-Right): Switches the active trip scenario (1-5). Changing the scenario triggers the dynamic re-initialization pipeline described above.
+    - **Highlights Control** (Top-Left): Toggles visited country highlights and sub-national region visibility (`Show/Hide Sub Regions`).
+    - **Scenario Selector** (Top-Right): Switches the active trip scenario (1-6). Changing the scenario triggers the dynamic re-initialization pipeline described above.
 
 ### **Responsive & Modern UI**
 - **Glassmorphism Design**: All UI controls use a modern glassmorphism aesthetic with background-blur and semi-transparent borders.

@@ -31,8 +31,19 @@ All visible strings in the module route through `this.translate(KEY)`. The table
 | `ATT_COL_NAME` | Attractions table — column header: attraction name | `"Attraction"` |
 | `ATT_COL_DESC` | Attractions table — column header: description | `"Description"` |
 | `NO_FLIGHTS` | Flight table — shown when no legs are configured | `"No flights configured"` |
+| `VISITED_POPUP_TITLE` | Right-click popup header | `"Change visited status"` |
+| `VISITED_IS_VISITED` | Right-click popup — current status (positive) | `"✔ Currently marked as visited"` |
+| `VISITED_NOT_VISITED` | Right-click popup — current status (negative) | `"○ Not yet marked as visited"` |
+| `VISITED_BTN_MARK` | Right-click popup — button to add country | `"Mark as Visited"` |
+| `VISITED_BTN_UNMARK` | Right-click popup — button to remove country | `"Remove Visited"` |
+| `VISITED_BTN_CANCEL` | Right-click popup — button to close | `"Cancel"` |
+| `VISITED_DRP_HIGHLIGHT` | Highlights dropdown — option to enable | `"Highlight Visited Countries"` |
+| `VISITED_DRP_NONE` | Highlights dropdown — option to disable | `"No Highlights"` |
+| `VISITED_DRP_CLEAR` | Highlights dropdown — option to wipe cache | `"Clear Manually Marked Cache"` |
+| `SUB_DRP_SHOW` | Highlights dropdown — option to show sub-regions | `"Show Sub Regions"` |
+| `SUB_DRP_HIDE` | Highlights dropdown — option to hide sub-regions | `"Hide Sub Regions"` |
 
-> **Total keys: 21**
+> **Total keys: 33**
 
 ---
 
@@ -80,7 +91,7 @@ The module ships translation files for 33 languages (predominently alligned with
 
 ## Translation File Format
 
-Each file is a flat JSON object. All 21 keys must be present. Below is the complete English reference file (`translations/en.json`):
+Each file is a flat JSON object. All 47 keys must be present. Below is the complete English reference file (`translations/en.json`):
 
 ```json
 {
@@ -88,6 +99,7 @@ Each file is a flat JSON object. All 21 keys must be present. Below is the compl
   "COUNTDOWN_DAYS":      "Days Until Departure",
   "COUNTDOWN_DAY":       "Day Until Departure",
   "COUNTDOWN_TODAY":     "Bon Voyage! Departure Day!",
+  "COUNTDOWN_DEPARTED":  "Departed — Awaiting Live Tracking…",
   "COUNTDOWN_INFLIGHT":  "Currently In Flight",
   "COUNTDOWN_COMPLETE":  "Journey Complete — Welcome Home!",
   "TOP10_TITLE":         "Top 10 Things To Do In",
@@ -104,7 +116,18 @@ Each file is a flat JSON object. All 21 keys must be present. Below is the compl
   "ATT_COL_NUM":         "#",
   "ATT_COL_NAME":        "Attraction",
   "ATT_COL_DESC":        "Description",
-  "NO_FLIGHTS":          "No flights configured"
+  "NO_FLIGHTS":          "No flights configured",
+  "VISITED_POPUP_TITLE":      "Change visited status",
+  "VISITED_IS_VISITED":       "✔ Currently marked as visited",
+  "VISITED_NOT_VISITED":      "○ Not yet marked as visited",
+  "VISITED_BTN_MARK":         "Mark as Visited",
+  "VISITED_BTN_UNMARK":       "Remove Visited",
+  "VISITED_BTN_CANCEL":       "Cancel",
+  "VISITED_DRP_HIGHLIGHT":    "Highlight Visited Countries",
+  "VISITED_DRP_NONE":         "No Highlights",
+  "VISITED_DRP_CLEAR":        "Clear Manually Marked Cache",
+  "SUB_DRP_SHOW":             "Show Sub Regions",
+  "SUB_DRP_HIDE":             "Hide Sub Regions"
 }
 ```
 
