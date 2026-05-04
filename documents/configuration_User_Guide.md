@@ -413,6 +413,7 @@ When using the `scenarios` object, the module will merge your top-level "global"
 |--------|------|---------|-------------|
 | `mapHeight` | `Number` | `700` | Map height in pixels |
 | `mapProjection` | `String` | `"mercator"` | Default projection: `"mercator"`, `"naturalEarth1"`, `"equirectangular"`, `"orthographic"`, `"stereographic"` |
+| `hideIceCaps` | `Boolean` | `false` | If `true`, the polar ice cap regions (Antarctica) are hidden on all projections except `"orthographic"` (Globe) |
 | `zoomLevel` | `Number` | `1` | amCharts 5 zoom level (`1` = full world) |
 | `zoomLongitude` | `Number` | `0` | Map centre longitude |
 | `zoomLatitude` | `Number` | `20` | Map centre latitude |
@@ -445,14 +446,16 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `showPanControl` | `Boolean" | `true` | Show on-screen pan arrows and compass |
-| `showZoomControl` | `Boolean" | `true` | Show on-screen + and - zoom buttons |
-| `showProjectionSelector` | `Boolean" | `true` | Show map projection dropdown (top-left) |
-| `showVisitedSelector` | `Boolean" | `true` | Show the Highlights Control dropdown (top-left) |
-| `showModeSelector` | `Boolean" | `true` | Show mode selector (Auto/Test) (top-right) |
-| `showScenarioSelector` | `Boolean" | `true` | Show scenario dropdown (top-right) |
-| `showMapSelector` | `Boolean" | `true` | Legacy alias: toggles both Projection and Visited selectors |
+| `showZoomControl` | `Boolean` | `true` | Show on-screen + and - zoom buttons |
+| `showNudgeControl` | `Boolean` | `true` | Show on-screen directional arrows for nudging the map position |
+| `showProjectionSelector` | `Boolean` | `true` | Show map projection dropdown (top-left) |
+| `showVisitedSelector` | `Boolean` | `true` | Show the Highlights Control dropdown (top-left) |
+| `showModeSelector` | `Boolean` | `true` | Show mode selector (Auto/Test) (top-right) |
+| `showScenarioSelector` | `Boolean` | `true` | Show scenario dropdown (top-right) |
+| `showMapSelector` | `Boolean` | `true` | Legacy alias: toggles both Projection and Visited selectors |
+| `hideControlsUntilHover` | `Boolean` | `false` | If `true`, all on-screen controls are hidden until the mouse hovers over the map |
 
-### 7. Flight Details Overlay Panel
+### 7. Flight Details Overlay
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `showFlightDetails` | `Boolean" | `false` | Show the overlay flight status table |
@@ -465,7 +468,7 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `tableX` | `Number" | `0` | px from left edge of map |
 | `tableY` | `Number" | `0` | px from bottom edge of map |
 
-### 8. Attractions Overlay Panel
+### 8. Attractions Overlay
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `showAttractionsDetails` | `Boolean" | `false` | Show Top 10 city attractions overlay |

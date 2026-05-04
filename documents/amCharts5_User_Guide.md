@@ -231,6 +231,18 @@ The graticule grid provides a subtle latitude and longitude reference on the map
   - `graticuleOpacity`: Line transparency.
   - `graticuleWidth`: Line thickness.
 
+### Polar Ice Cap Suppression
+You can hide the Antarctica region to clean up maps where it might appear distorted or unnecessary.
+- **Implementation**: Uses the `exclude` property on `MapPolygonSeries`.
+- **Configuration**: `hideIceCaps: true` to enable. 
+- **Note**: Ice caps are **always shown** on the **Orthographic** (Globe) projection for visual realism, regardless of this setting.
+
+### Directional Nudge Control
+Fine-tune the map's position on the screen without affecting the geographic rotation or projection center.
+- **Implementation**: Uses `dx` and `dy` properties on the `MapChart`.
+- **Functionality**: Moves the entire map visually left, right, up, or down. The "Home" button resets these offsets back to zero.
+- **Discovery**: When `hideControlsUntilHover` is enabled, this control (along with others) is hidden until you hover over the map.
+
 ### Sub-national Region Layers
 This feature allows you to display detailed administrative boundaries (States, Provinces, Departments, etc.) for specific countries.
 - **Supported Countries**: Over 130 countries including USA, Canada, UK (England, Scotland, Wales, Northern Ireland), Germany, France, Japan, China, Brazil, and more.
