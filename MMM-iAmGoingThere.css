@@ -544,7 +544,17 @@
   inset: 0;  
   pointer-events: none;  
   z-index: 20;  
+  transition: opacity 0.3s ease;
 }  
+
+.iAGT-controls-auto-hide {
+  opacity: 0;
+}
+
+.iAGT-map-container:hover .iAGT-controls-auto-hide {
+  opacity: 1;
+}
+
 .iAGT-pan-control, .iAGT-zoom-control {  
   position: absolute;  
   pointer-events: auto;  
@@ -567,6 +577,51 @@
   padding: 0;  
   pointer-events: none;
 }  
+
+.iAGT-nudge-control {
+  position: absolute;
+  bottom: 20px;
+  right: 75px;
+  width: 50px;
+  height: 50px;
+  display: grid;
+  grid-template-areas: ". up ." "left . right" ". down .";
+  gap: 2px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: auto;
+  z-index: 1000;
+}
+
+.iAGT-nudge-control:hover {
+  opacity: 1;
+}
+
+.iAGT-nudge-btn {
+  pointer-events: auto;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  background: rgba(20, 20, 40, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 2px;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+}
+
+.iAGT-nudge-btn:hover {
+  background: rgba(68, 153, 255, 0.3);
+}
+
+.iAGT-nudge-up    { grid-area: up; }
+.iAGT-nudge-down  { grid-area: down; }
+.iAGT-nudge-left  { grid-area: left; }
+.iAGT-nudge-right { grid-area: right; }
+
 .iAGT-pan-btn, .iAGT-zoom-btn {  
   pointer-events: auto;
   color: #fff;  

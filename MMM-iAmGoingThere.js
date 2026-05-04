@@ -75,6 +75,7 @@ Module.register("MMM-iAmGoingThere", {
 		// 3. Map Settings
 		mapHeight: 700,
 		mapProjection: "mercator", // "mercator" | "naturalEarth1" | "equirectangular" | "orthographic" | "stereographic"
+		hideIceCaps: false,
 		zoomLevel: 1,
 		zoomLongitude: 0,
 		zoomLatitude: 20,
@@ -102,11 +103,13 @@ Module.register("MMM-iAmGoingThere", {
 		// 6. UI Controls (Onscreen)
 		showPanControl: true,
 		showZoomControl: true,
+		showNudgeControl: true,
 		showProjectionSelector: true,
 		showVisitedSelector: true,
 		showModeSelector: true,
 		showScenarioSelector: true,
 		showMapSelector: true, // Legacy alias for Projection + Visited selectors
+		hideControlsUntilHover: false,
 
 		// 7. Flight Details Overlay
 		showFlightDetails: false,
@@ -336,9 +339,31 @@ Module.register("MMM-iAmGoingThere", {
 
 		mapCont.appendChild(mapDiv);
 
+		/* ── Nudge Control (relative movement) ── */
+		if (cfg.showNudgeControl) {
+			const nudgeCtrl = document.createElement("div");
+			nudgeCtrl.className = "iAGT-nudge-control";
+			nudgeCtrl.innerHTML = `
+				<button class="iAGT-nudge-btn iAGT-nudge-up" data-dir="nudge_up" aria-label="Nudge Up">▲</button>
+				<button class="iAGT-nudge-btn iAGT-nudge-down" data-dir="nudge_down" aria-label="Nudge Down">▼</button>
+				<button class="iAGT-nudge-btn iAGT-nudge-left" data-dir="nudge_left" aria-label="Nudge Left">◀</button>
+				<button class="iAGT-nudge-btn iAGT-nudge-right" data-dir="nudge_right" aria-label="Nudge Right">▶</button>
+			`;
+			nudgeCtrl.querySelectorAll("button").forEach((btn) => {
+				btn.addEventListener("click", (e) => {
+					e.preventDefault();
+					this._handleMapControl(btn.getAttribute("data-dir"));
+				});
+			});
+			mapCont.appendChild(nudgeCtrl);
+		}
+
 		/* ── Map controls ── */
 		const ctrlWrap = document.createElement("div");
 		ctrlWrap.className = "iAGT-map-controls";
+		if (cfg.hideControlsUntilHover) {
+			ctrlWrap.classList.add("iAGT-controls-auto-hide");
+		}
 		ctrlWrap.style.zIndex = "10";
 
 		if (cfg.showPanControl) {
@@ -509,7 +534,7 @@ Module.register("MMM-iAmGoingThere", {
 			wrapper.appendChild(tblDiv);
 		}
 
-		/* â”€â”€ City info panel â”€â”€ */
+		/* ── City info panel ── */
 		const showAtts = cfg.showAttractionsDetails || cfg.showCityInfo;
 		if (showAtts) {
 			const ciDiv = document.createElement("div");
@@ -528,7 +553,7 @@ Module.register("MMM-iAmGoingThere", {
 			wrapper.appendChild(ciDiv);
 		}
 
-		/* â”€â”€ Reserve space at bottom equal to the tallest visible overlay panel â”€â”€ */
+		/* ── Reserve space at bottom equal to the tallest visible overlay panel ── */
 		/*
      * The overlay panels are position:absolute at bottom:0.
      * Setting padding-bottom on the wrapper (box-sizing:border-box, height:100vh)
@@ -988,28 +1013,29 @@ Module.register("MMM-iAmGoingThere", {
 				}
 
 				if (planeLat !== null && planeLon !== null) {
-
 					/* Compute the instantaneous heading */
 					let rotation = 0;
-					if (active.from && active.to && active._gcPoints) {
+					
+					// 1. Prioritize GC path bearing if points exist
+					if (active.from && active.to && active._gcPoints && active._gcPoints.length) {
 						const n = this.config.gcPoints || 60;
 						const prog = active.progress || 0;
 						const pts = active._gcPoints;
-						const i = Math.min(n - 1, Math.floor(prog * n));
-						const p1 = pts[i];
+						const i = Math.min(pts.length - 1, Math.floor(prog * pts.length));
 						
-						// Use next point if available, otherwise use previous point to determine final bearing
-						if (i < n - 1) {
-							const p2 = pts[i + 1];
-							if (p1 && p2) {
-								rotation = this._calculateBearing(p1.lat, p1.lon, p2.lat, p2.lon);
-							}
+						if (i < pts.length - 1) {
+							rotation = this._calculateBearing(pts[i].lat, pts[i].lon, pts[i + 1].lat, pts[i + 1].lon);
 						} else if (i > 0) {
-							const p0 = pts[i - 1];
-							if (p0 && p1) {
-								rotation = this._calculateBearing(p0.lat, p0.lon, p1.lat, p1.lon);
-							}
+							rotation = this._calculateBearing(pts[i - 1].lat, pts[i - 1].lon, pts[i].lat, pts[i].lon);
 						}
+					} 
+					// 2. Fallback to live heading
+					else if (active.heading != null && !isNaN(active.heading)) {
+						rotation = active.heading;
+					} 
+					// 3. Last fallback: direct bearing to destination
+					else if (active.to && active.to.lat != null && active.to.lon != null) {
+						rotation = this._calculateBearing(planeLat, planeLon, active.to.lat, active.to.lon);
 					}
 
 					/* Plane color: Scenario 3 uses traveler-specific color; others use config default */
@@ -1086,6 +1112,7 @@ Module.register("MMM-iAmGoingThere", {
 			return;
 		}
 
+		const cfg = this._getEffectiveConfig();
 		const divId = `iAGTMapDiv-${this.identifier}`;
 		if (!document.getElementById(divId)) {
 			Log.error(`[${this.name}] Map div not found: ${divId}`);
@@ -1180,7 +1207,7 @@ Module.register("MMM-iAmGoingThere", {
 			const polygonSeries = chart.series.push(
 				am5map.MapPolygonSeries.new(root, {
 					geoJSON: am5geodata_worldLow,
-					exclude: []
+					exclude: (cfg.hideIceCaps && cfg.mapProjection !== "orthographic") ? ["AQ"] : []
 				})
 			);
 			polygonSeries.mapPolygons.template.setAll({
@@ -1326,6 +1353,20 @@ Module.register("MMM-iAmGoingThere", {
 				chart.animate({ key: "rotationX", to: -homeLon, duration: 600, easing: am5.ease.out(am5.ease.cubic) });
 				chart.animate({ key: "rotationY", to: -homeLat, duration: 600, easing: am5.ease.out(am5.ease.cubic) });
 				chart.animate({ key: "zoomLevel", to: 1, duration: 600, easing: am5.ease.out(am5.ease.cubic) });
+				chart.animate({ key: "dx", to: 0, duration: 600, easing: am5.ease.out(am5.ease.cubic) });
+				chart.animate({ key: "dy", to: 0, duration: 600, easing: am5.ease.out(am5.ease.cubic) });
+				break;
+			case "nudge_up":
+				chart.set("dy", (chart.get("dy") || 0) - 10);
+				break;
+			case "nudge_down":
+				chart.set("dy", (chart.get("dy") || 0) + 10);
+				break;
+			case "nudge_left":
+				chart.set("dx", (chart.get("dx") || 0) - 10);
+				break;
+			case "nudge_right":
+				chart.set("dx", (chart.get("dx") || 0) + 10);
 				break;
 		}
 	},
@@ -1343,6 +1384,10 @@ Module.register("MMM-iAmGoingThere", {
 			default:                am5proj = am5map.geoMercator();        break;
 		}
 		this.mapChart.set("projection", am5proj);
+
+		if (this._polygonSeries) {
+			this._polygonSeries.set("exclude", (this.config.hideIceCaps && proj !== "orthographic") ? ["AQ"] : []);
+		}
 	},
 
 	_initLineSeries (root, chart) {

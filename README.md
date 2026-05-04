@@ -12,12 +12,18 @@
 | | |  |
 |---|---|---|
 | ![Scenario 1](screenshots/Screenshot1.png) | ![Scenario 2](screenshots/Screenshot2.png) |![Scenario 3](screenshots/Screenshot3.png) |
-| ![Scenario 4](screenshots/Screenshot4.png) | ![Scenario 5](screenshots/Screenshot5.png) |![Scenario 6](screenshots/Screenshot6.png) |
-| ![Screenshot 7](screenshots/Screenshot7.png) | ![Screenshot 8](screenshots/Screenshot8.png) |![Screenshot 9](screenshots/Screenshot9.png) |
+| ![Scenario 4](screenshots/Screenshot4.png) | ![Scenario 5](screenshots/Screenshot5.png) |![Scenario 6](screenshots/screenshot6.png) |
+| ![Screenshot 7](screenshots/Screenshot7.png) | ![Screenshot 8](screenshots/creenshot8.png) |![Screenshot 9](screenshots/Screenshot9.png) |
 
 ---
 
 ## 🆕 Recent Updates
+
+## Directional Nudge Control & UI Auto-Hide (2026-05-04)
+- **Directional Nudge Control** — Added a 4-way arrow control (`showNudgeControl`) to fine-tune the map's screen position relative to the home location without altering the projection rotation.
+- **Auto-Hide UI Controls** — New `hideControlsUntilHover` option to hide all on-screen controls until mouse hover for a cleaner "map-only" look.
+- **Polar Ice Cap Suppression** — New `hideIceCaps` option to hide Antarctica on all map projections except the Globe.
+- **Improved Plane Alignment** — Aircraft nose now accurately follows the great-circle path curvature across all projections.
 
 ## v2.0.0 Visited Countries — Improved Marking & Control (2026-05-02)
 - **Right-click Confirmation Popup** — Right-clicking a country now shows a popup with the country name, its current visited status, and **"Mark as Visited"** / **"Remove Visited"** / **"Cancel"** buttons (auto-dismisses after 5 s).

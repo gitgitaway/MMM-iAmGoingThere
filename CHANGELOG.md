@@ -5,6 +5,19 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [Unreleased]
+
+### Added
+- **Polar Ice Cap Suppression** — New `hideIceCaps` config option to hide the Antarctica region on all map projections except the Globe (Orthographic).
+- **Directional Nudge Control** — Added a new 4-way arrow control for fine-tuning the map's screen position without altering the geographic projection. Positioned to the left of the zoom control.
+- **Auto-Hide UI Controls** — New `hideControlsUntilHover` config option that hides all on-screen controls (pan, zoom, selectors, nudge) until the mouse hovers over the map container.
+
+### Fixed
+- **Plane Rotation Alignment** — Improved the aircraft nose rotation logic to accurately follow the Great Circle path curvature on all map projections.
+- **Nudge Control Visibility** — Repositioned the nudge control and increased its z-index to prevent occlusion by data overlay panels.
+
+---
+
 ## [2.0.0] - 2026-04-29
 
 ### Added
