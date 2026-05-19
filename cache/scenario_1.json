@@ -1,27 +1,27 @@
 {
-  "ts": 1777491734844,
-  "fingerprint": "{\"flights\":[{\"travelerName\":\"John Smith\",\"flightNumber\":\"BA005\",\"departureDate\":\"2026-04-29\",\"from\":\"LHR\",\"to\":\"HND\"},{\"travelerName\":\"John Smith\",\"flightNumber\":\"BA006\",\"departureDate\":\"2026-05-06\",\"from\":\"HND\",\"to\":\"LHR\"}],\"travelers\":[],\"overideDate\":false}",
+  "ts": 1778752047498,
+  "fingerprint": "{\"flights\":[{\"flightNumber\":\"FR1677\",\"departureDate\":\"2026-06-10\",\"departuretime\":\"08:00\",\"from\":\"EDI\",\"to\":\"SNN\"},{\"flightNumber\":\"FR1676\",\"departureDate\":\"2026-06-22\",\"departuretime\":\"15:40\",\"from\":\"SNN\",\"to\":\"EDI\"}],\"travelers\":[],\"overideDate\":false}",
   "data": {
     "legs": [
       {
         "id": "leg_0",
-        "travelerName": "John Smith",
-        "flightNumber": "BA005",
-        "departureDate": "2026-04-29",
-        "departureTime": "",
+        "travelerName": "Traveler",
+        "flightNumber": "FR1677",
+        "departureDate": "2026-06-10",
+        "departureTime": "08:00",
         "from": {
-          "name": "London Heathrow",
-          "iata": "LHR",
-          "lat": 51.47,
-          "lon": -0.4543,
+          "name": "Edinburgh Airport",
+          "iata": "EDI",
+          "lat": 55.95,
+          "lon": -3.3724,
           "country": "United Kingdom"
         },
         "to": {
-          "name": "Tokyo Haneda",
-          "iata": "HND",
-          "lat": 35.5494,
-          "lon": 139.7798,
-          "country": "Japan"
+          "name": "Shannon Airport",
+          "iata": "SNN",
+          "lat": 52.7022,
+          "lon": -8.9244,
+          "country": "Ireland"
         },
         "status": "scheduled",
         "progress": 0,
@@ -49,22 +49,22 @@
       },
       {
         "id": "leg_1",
-        "travelerName": "John Smith",
-        "flightNumber": "BA006",
-        "departureDate": "2026-05-06",
-        "departureTime": "",
+        "travelerName": "Traveler",
+        "flightNumber": "FR1676",
+        "departureDate": "2026-06-22",
+        "departureTime": "15:40",
         "from": {
-          "name": "Tokyo Haneda",
-          "iata": "HND",
-          "lat": 35.5494,
-          "lon": 139.7798,
-          "country": "Japan"
+          "name": "Shannon Airport",
+          "iata": "SNN",
+          "lat": 52.7022,
+          "lon": -8.9244,
+          "country": "Ireland"
         },
         "to": {
-          "name": "London Heathrow",
-          "iata": "LHR",
-          "lat": 51.47,
-          "lon": -0.4543,
+          "name": "Edinburgh Airport",
+          "iata": "EDI",
+          "lat": 55.95,
+          "lon": -3.3724,
           "country": "United Kingdom"
         },
         "status": "scheduled",
@@ -93,159 +93,115 @@
       }
     ],
     "cityInfo": {
-      "Tokyo Haneda": {
-        "city": "Tokyo",
-        "country": "Japan",
-        "iata": "HND",
-        "lat": "35.5494",
-        "lon": "139.7798",
-        "stadium": "",
-        "attractionsFile": "tokyo.json",
-        "attractions": {
-          "city": "Tokyo",
-          "country": "Japan",
-          "airportPostcode": "144-0041",
-          "airportDistanceKm": 20,
-          "things": [
-            {
-              "rank": 1,
-              "name": "Senso-ji Temple",
-              "description": "Tokyo's oldest temple in Asakusa with the iconic Kaminarimon Thunder Gate"
-            },
-            {
-              "rank": 2,
-              "name": "Shibuya Crossing",
-              "description": "World's busiest pedestrian crossing with up to 3,000 people crossing at once"
-            },
-            {
-              "rank": 3,
-              "name": "Tokyo Skytree",
-              "description": "World's tallest broadcasting tower at 634m with observation decks at 350m and 450m"
-            },
-            {
-              "rank": 4,
-              "name": "Meiji Shrine",
-              "description": "Serene forested Shinto shrine in the heart of Harajuku dedicated to Emperor Meiji"
-            },
-            {
-              "rank": 5,
-              "name": "Shinjuku Gyoen",
-              "description": "Former imperial garden combining Japanese, French and English garden styles"
-            },
-            {
-              "rank": 6,
-              "name": "TeamLab Borderless",
-              "description": "Immersive digital art museum where the artworks move through the entire building"
-            },
-            {
-              "rank": 7,
-              "name": "Akihabara Electric Town",
-              "description": "Tokyo's tech and anime district with multi-storey electronics and manga shops"
-            },
-            {
-              "rank": 8,
-              "name": "Tsukiji Outer Market",
-              "description": "Fish market atmosphere with the world's finest sushi for breakfast"
-            },
-            {
-              "rank": 9,
-              "name": "Imperial Palace East Gardens",
-              "description": "Former inner citadel of Edo Castle with traditional Japanese landscape garden"
-            },
-            {
-              "rank": 10,
-              "name": "Harajuku & Takeshita Street",
-              "description": "Youth fashion capital and birthplace of Lolita and kawaii street style"
-            }
-          ]
-        },
-        "weather": {
-          "time": "2026-04-29T19:30",
-          "interval": 900,
-          "temperature": 13.6,
-          "windspeed": 11.2,
-          "winddirection": 50,
-          "is_day": 0,
-          "weathercode": 2
-        }
-      },
-      "London Heathrow": {
-        "city": "London",
+      "Edinburgh Airport": {
+        "city": "Edinburgh",
         "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": "51.47",
-        "lon": "-0.4543",
+        "iata": "EDI",
+        "lat": "55.95",
+        "lon": "-3.3724",
         "stadium": "",
-        "attractionsFile": "london.json",
+        "attractionsfile": "edinburgh.json",
         "attractions": {
-          "city": "London",
+          "city": "Edinburgh",
           "country": "United Kingdom",
-          "airportPostcode": "TW6 1EW",
-          "airportDistanceKm": 24,
+          "airportPostcode": "EH12 9DN",
+          "airportDistanceKm": 13,
           "things": [
             {
               "rank": 1,
-              "name": "Tower of London",
-              "description": "Historic castle and former royal palace on the north bank of the Thames"
+              "name": "Edinburgh Castle",
+              "description": "Dramatic fortress on Castle Rock housing the Scottish Crown Jewels and Stone of Destiny",
+              "postcode": "EH1 2NG",
+              "distance": 1,
+              "URL": "https://www.edinburghcastle.scot/"
             },
             {
               "rank": 2,
-              "name": "Buckingham Palace",
-              "description": "Official London residence and administrative headquarters of the British monarch"
+              "name": "Arthur's Seat",
+              "description": "Ancient volcano in Holyrood Park offering panoramic views of the city",
+              "postcode": "EH8 8HG",
+              "distance": 1.7,
+              "URL": "https://www.historicenvironment.scot/visit-a-place/places/holyrood-park/"
             },
             {
               "rank": 3,
-              "name": "British Museum",
-              "description": "World-class collection of human history, art and culture spanning two million years"
+              "name": "Royal Mile",
+              "description": "Historic thoroughfare connecting the castle to Holyrood Palace lined with shops and closes",
+              "postcode": "EH1 1RE",
+              "distance": 0.8,
+              "URL": "https://www.visitscotland.com/info/towns-villages/royal-mile-p237211"
             },
             {
               "rank": 4,
-              "name": "Tower Bridge",
-              "description": "Iconic Victorian bascule bridge and London landmark opening over the River Thames"
+              "name": "Palace of Holyroodhouse",
+              "description": "Official Scottish residence of the British monarch with abbey ruins",
+              "postcode": "EH8 8DX",
+              "distance": 1.7,
+              "URL": "https://www.rct.uk/visit/palace-of-holyroodhouse"
             },
             {
               "rank": 5,
-              "name": "Westminster Abbey",
-              "description": "Gothic abbey church and site of British royal coronations since 1066"
+              "name": "National Museum of Scotland",
+              "description": "World-class collection exploring Scotland's history, culture and the natural world",
+              "postcode": "EH1 1JF",
+              "distance": 0.8,
+              "URL": "https://www.nms.ac.uk/national-museum-of-scotland/"
             },
             {
               "rank": 6,
-              "name": "National Gallery",
-              "description": "Art museum on Trafalgar Square housing over 2,300 paintings from 1250 to 1900"
+              "name": "Scottish National Gallery",
+              "description": "Outstanding collection of European and Scottish paintings in a neoclassical building",
+              "postcode": "EH2 2EL",
+              "distance": 0.5,
+              "URL": "https://www.nationalgalleries.org/visit/scottish-national-gallery"
             },
             {
               "rank": 7,
-              "name": "Hyde Park",
-              "description": "350-acre royal park in central London famous for the Serpentine and Speaker's Corner"
+              "name": "Greyfriars Kirkyard",
+              "description": "Historic churchyard famous for Greyfriars Bobby and eerie covenanter history",
+              "postcode": "EH1 2QQ",
+              "distance": 0.9,
+              "URL": "https://www.greyfriarskirk.com/"
             },
             {
               "rank": 8,
-              "name": "St Paul's Cathedral",
-              "description": "Sir Christopher Wren's Baroque masterpiece with its iconic dome dominating the City skyline"
+              "name": "Camera Obscura",
+              "description": "Victorian optical illusion attraction with rooftop views over the Old Town",
+              "postcode": "EH1 2ND",
+              "distance": 1,
+              "URL": "https://www.camera-obscura.co.uk/"
             },
             {
               "rank": 9,
-              "name": "Tate Modern",
-              "description": "Leading modern art gallery in a converted Bankside power station"
+              "name": "Princes Street Gardens",
+              "description": "Beautiful valley gardens beneath the castle with the Scott Monument",
+              "postcode": "EH2 2EL",
+              "distance": 0.4,
+              "URL": "https://www.edinburgh.gov.uk/parks/princes-street-gardens"
             },
             {
               "rank": 10,
-              "name": "Trafalgar Square",
-              "description": "Public plaza centred on Nelson's Column, heart of the capital's civic life"
+              "name": "Royal Botanic Garden",
+              "description": "World-famous garden with 13,000 plant species and stunning glasshouses",
+              "postcode": "EH3 5LR",
+              "distance": 1.8,
+              "URL": "https://www.rbge.org.uk/"
             }
           ]
         },
         "weather": {
-          "time": "2026-04-29T19:30",
+          "time": "2026-05-14T09:45",
           "interval": 900,
-          "temperature": 14.3,
-          "windspeed": 22.3,
-          "winddirection": 76,
-          "is_day": 0,
-          "weathercode": 0
+          "temperature": 10.4,
+          "windspeed": 12.6,
+          "winddirection": 313,
+          "is_day": 1,
+          "weathercode": 3
         }
       }
     },
-    "visitedCountryIsos": []
+    "visitedCountryIsos": [
+      "NZ"
+    ]
   }
 }
