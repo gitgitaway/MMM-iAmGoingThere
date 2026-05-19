@@ -150,6 +150,7 @@ name,iataCode,lat,lon,country,city
 "Hobart Airport",HBA,-42.8361,147.5078,Australia,Hobart
 "Canberra Airport",CBR,-35.3069,149.1950,Australia,Canberra
 "Toronto Pearson",YYZ,43.6777,-79.6248,Canada,Toronto
+"Montreal Pierre Elliott Trudeau",YUL,45.4657,-73.7408,Canada,Montreal
 "New York JFK",JFK,40.6413,-73.7781,United States,New York
 "New York Newark",EWR,40.6925,-74.1687,United States,Newark
 "Los Angeles International",LAX,33.9425,-118.4081,United States,Los Angeles
