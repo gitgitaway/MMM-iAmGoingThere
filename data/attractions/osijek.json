@@ -1,0 +1,98 @@
+{
+  "city": "Osijek",
+  "country": "Croatia",
+  "airportPostcode": "31207",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tvrda Fortress Old Town",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "Magnificent 18th-century Baroque fortress quarter on the Drava River; the best-preserved Baroque military complex in Croatia with the Holy Trinity Square, Guard Tower and historical museums",
+      "distance": 2.0,
+      "URL": "https://www.tzosijek.hr/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Co-Cathedral of St. Peter and Paul",
+      "postcode": "31000",
+      "distanceKmFromAirport": 20,
+      "description": "Osijek's iconic neo-Gothic church with a 90-metre spire dominating the city skyline; one of the tallest churches in Croatia built in 1900 with the tower visible for miles",
+      "distance": 0.5,
+      "URL": "https://www.tzosijek.hr/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Osijek Promenade (Europska Avenija)",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "Elegant Art Nouveau boulevard along the Drava connecting the city's districts; lined with beautifully restored Secession-style villas, cafes and one of Croatia's finest architectural promenades",
+      "distance": 1.0,
+      "URL": "https://www.tzosijek.hr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of Slavonia",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "Croatia's oldest museum in the former Tvrda Town Hall with extensive collections on the archaeology, history, natural history and ethnography of the Slavonia region",
+      "distance": 2.0,
+      "URL": "https://www.mso.hr/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Drava River Promenade",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "Beautiful riverside walk along the Drava from Tvrda Fortress to the modern city; popular cycling and jogging route with views of the wide river, beaches and natural surroundings",
+      "distance": 1.5,
+      "URL": "https://www.tzosijek.hr/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Kopacevo and Kopacki Rit Nature Park",
+      "postcode": "31327",
+      "distanceKmFromAirport": 32,
+      "description": "One of Europe's largest and best-preserved wetland nature reserves at the confluence of the Drava and Danube rivers; extraordinary birdlife with white-tailed eagles, black storks and spoonbills",
+      "distance": 15.0,
+      "URL": "https://www.kopacki-rit.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Holy Cross Franciscan Church",
+      "postcode": "31000",
+      "distanceKmFromAirport": 20,
+      "description": "18th-century Baroque church in Tvrda with a beautiful interior and Franciscan monastery; one of the oldest religious buildings in Osijek and a cornerstone of the fortress quarter",
+      "distance": 2.0,
+      "URL": "https://www.tzosijek.hr/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Gallery of Fine Arts Osijek",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "Important regional art gallery with collections of Croatian art from the 19th century to the present; housed in a fine Art Nouveau building on the European Avenue",
+      "distance": 1.0,
+      "URL": "https://www.gluos.hr/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Osijek Zoo",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "One of Croatia's oldest zoos (established 1919) set in parkland along the Drava; a popular family destination with a wide variety of animals and pleasant riverside setting",
+      "distance": 3.0,
+      "URL": "https://www.zoo-osijek.hr/"
+    },
+    {
+      "rank": 10,
+      "name": "Gradski Vrt Stadium",
+      "postcode": "31000",
+      "distanceKmFromAirport": 21,
+      "description": "Home of NK Osijek with 19,500 capacity; the club has competed in the UEFA Europa League and Europa Conference League as one of eastern Croatia's leading football clubs",
+      "distance": 1.5,
+      "URL": "https://www.nkosijek.hr/en/"
+    }
+  ]
+}

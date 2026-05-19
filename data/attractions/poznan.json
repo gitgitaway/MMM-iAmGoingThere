@@ -1,0 +1,98 @@
+{
+  "city": "Poznan",
+  "country": "Poland",
+  "airportPostcode": "60-189",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Market Square (Stary Rynek)",
+      "postcode": "61-001",
+      "distanceKmFromAirport": 8,
+      "description": "One of Poland's finest Renaissance squares with colourful merchants' arcades, the 16th-century Town Hall and the famous mechanical goats that butt heads at noon",
+      "distance": 2.5,
+      "URL": "https://www.poznan.travel/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Poznan Town Hall",
+      "postcode": "61-001",
+      "distanceKmFromAirport": 8,
+      "description": "Magnificent Renaissance town hall rebuilt by Giovanni Battista di Quadro after 1550; the ground floor loggia and ceremonial hall are among Poland's finest Renaissance interiors",
+      "distance": 2.5,
+      "URL": "https://www.poznan.travel/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Poznan Cathedral (Archcathedral Basilica)",
+      "postcode": "61-109",
+      "distanceKmFromAirport": 8,
+      "description": "Poland's oldest cathedral on Cathedral Island (Ostrow Tumski); built in 968, it holds the tombs of the first Polish kings Mieszko I and Boleslaw the Brave",
+      "distance": 3.0,
+      "URL": "https://www.poznan.travel/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of the First Piasts at Lednica",
+      "postcode": "62-261",
+      "distanceKmFromAirport": 20,
+      "description": "Open-air archaeological park at Lednica Lake with the 10th-century palace complex of Poland's founding dynasty; a UNESCO-listed cradle of the Polish state",
+      "distance": 14.0,
+      "URL": "https://www.lednica.pl/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum Poznan",
+      "postcode": "61-745",
+      "distanceKmFromAirport": 8,
+      "description": "Major art museum with an outstanding collection of Polish art, medieval Silesian sculpture and European paintings from the 15th to 20th centuries",
+      "distance": 2.0,
+      "URL": "https://www.mnp.art.pl/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Poznan International Fair",
+      "postcode": "60-101",
+      "distanceKmFromAirport": 7,
+      "description": "One of Central Europe's oldest trade fair venues since 1921; the striking modernist exhibition halls host major international trade events throughout the year",
+      "distance": 2.0,
+      "URL": "https://www.mtp.pl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Croissant Museum (Rogelmuseum)",
+      "postcode": "61-001",
+      "distanceKmFromAirport": 8,
+      "description": "Quirky museum dedicated to the St. Martin croissant, Poznan's most famous pastry; bake your own rogal marcinski and learn the pastry's 200-year history",
+      "distance": 2.5,
+      "URL": "https://www.rogalmuseum.pl/"
+    },
+    {
+      "rank": 8,
+      "name": "Imperial Castle",
+      "postcode": "61-758",
+      "distanceKmFromAirport": 8,
+      "description": "Neo-Romanesque palace built by Kaiser Wilhelm II in 1910; now a cultural centre, it remains one of Poznan's most imposing buildings from the Prussian era",
+      "distance": 1.5,
+      "URL": "https://www.zamek.poznan.pl/"
+    },
+    {
+      "rank": 9,
+      "name": "Malta Lake",
+      "postcode": "61-128",
+      "distanceKmFromAirport": 9,
+      "description": "Artificial reservoir east of the city centre with a rowing course, water sports facilities, a summer toboggan run and Poznan's major outdoor recreation area",
+      "distance": 4.0,
+      "URL": "https://www.poznan.travel/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Enea Stadium",
+      "postcode": "60-638",
+      "distanceKmFromAirport": 8,
+      "description": "Home of Lech Poznan with 42,837 capacity; built for UEFA Euro 2012 and one of Poland's finest grounds; the club has played in the Europa League group stage",
+      "distance": 4.5,
+      "URL": "https://www.lechpoznan.pl/en/"
+    }
+  ]
+}

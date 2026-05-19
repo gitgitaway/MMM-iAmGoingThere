@@ -1,58 +1,98 @@
 {
   "city": "Sarajevo",
   "country": "Bosnia and Herzegovina",
-  "airportPostcode": "71210",
-  "airportDistanceKm": 9,
+  "airportPostcode": "71000",
+  "airportDistanceKm": 10,
   "things": [
     {
       "rank": 1,
-      "name": "Bascarsija Bazaar",
-      "description": "Ottoman bazaar at the heart of Sarajevo with coppersmith workshops and the famous Sebilj fountain"
+      "name": "Bascarsija Old Bazaar",
+      "postcode": "71000",
+      "distanceKmFromAirport": 10,
+      "description": "Sarajevo's beating heart — a 15th-century Ottoman bazaar with coppersmith workshops and cevapi",
+      "distance": 0.5,
+      "URL": "https://www.sarajevo.ba/en/"
     },
     {
       "rank": 2,
-      "name": "Latin Bridge",
-      "description": "Ottoman bridge where Archduke Franz Ferdinand was assassinated, triggering World War I"
+      "name": "Latin Bridge & Assassination Site",
+      "postcode": "71000",
+      "distanceKmFromAirport": 11,
+      "description": "The spot where Archduke Franz Ferdinand was assassinated in 1914, triggering World War One",
+      "distance": 0.8,
+      "URL": "https://www.sarajevo.ba/en/"
     },
     {
       "rank": 3,
       "name": "Gazi Husrev-beg Mosque",
-      "description": "Most important Ottoman-era mosque in the Balkans, built in 1531"
+      "postcode": "71000",
+      "distanceKmFromAirport": 10,
+      "description": "The largest and most important Ottoman mosque in the Balkans, built in 1531",
+      "distance": 0.5,
+      "URL": "https://www.vakuf-gazi.ba/en/"
     },
     {
       "rank": 4,
-      "name": "Sarajevo War Tunnel Museum",
-      "description": "Tunnel used to supply besieged Sarajevo during the 1992-95 siege"
+      "name": "Yellow Fortress (Zuta Tabija)",
+      "postcode": "71000",
+      "distanceKmFromAirport": 12,
+      "description": "Hilltop Ottoman fortress with the most panoramic views of Sarajevo's minarets and mountains",
+      "distance": 1.5,
+      "URL": "https://www.sarajevo.ba/en/"
     },
     {
       "rank": 5,
-      "name": "Old Town (Stari Grad)",
-      "description": "Where East meets West - Catholic, Orthodox, Muslim and Jewish buildings within metres"
+      "name": "Tunnel of Hope Museum",
+      "postcode": "71000",
+      "distanceKmFromAirport": 18,
+      "description": "The 800-metre tunnel dug under the runway during the 1992-95 siege to supply besieged Sarajevo",
+      "distance": 8.0,
+      "URL": "https://www.tunelspasa.ba/en/"
     },
     {
       "rank": 6,
-      "name": "City Hall (Vijecnica)",
-      "description": "Magnificent pseudo-Moorish building destroyed in the siege and gloriously restored"
+      "name": "Sarajevo City Hall (Vijecnica)",
+      "postcode": "71000",
+      "distanceKmFromAirport": 11,
+      "description": "Magnificent 1896 Moorish Revival building — destroyed in 1992, painstakingly restored in 2014",
+      "distance": 0.7,
+      "URL": "https://www.sarajevo.ba/en/"
     },
     {
       "rank": 7,
-      "name": "Yellow Fortress (Zuta Tabija)",
-      "description": "Ottoman fortress ruins with the best panoramic views over Sarajevo"
+      "name": "War Childhood Museum",
+      "postcode": "71000",
+      "distanceKmFromAirport": 12,
+      "description": "Award-winning museum of personal objects documenting childhood experiences during the siege",
+      "distance": 2.5,
+      "URL": "https://www.warchildhood.org/en/"
     },
     {
       "rank": 8,
-      "name": "National Museum of Bosnia",
-      "description": "Country's oldest and largest museum with the priceless 14th-century Sarajevo Haggadah"
+      "name": "Cable Car to Mount Trebevic",
+      "postcode": "71000",
+      "distanceKmFromAirport": 13,
+      "description": "Restored cable car to the 1984 Winter Olympics bobsled track with spectacular valley views",
+      "distance": 3.0,
+      "URL": "https://www.sarajevo.ba/en/"
     },
     {
       "rank": 9,
-      "name": "Sacred Heart Cathedral",
-      "description": "Neo-Gothic Catholic cathedral with the finest ecclesiastical interior in Sarajevo"
+      "name": "National Museum of Bosnia and Herzegovina",
+      "postcode": "71000",
+      "distanceKmFromAirport": 12,
+      "description": "The country's oldest museum housing the precious Sarajevo Haggadah manuscript from 1350",
+      "distance": 2.0,
+      "URL": "https://zemaljskimuzej.ba/en/"
     },
     {
       "rank": 10,
-      "name": "Avaz Twist Tower",
-      "description": "Striking 176m glass-and-steel skyscraper with an observation deck over the city"
+      "name": "Mostar Day Trip",
+      "postcode": "88000",
+      "distanceKmFromAirport": 140,
+      "description": "UNESCO-listed Ottoman town with the famous Stari Most bridge and cliff-diving tradition, 130 km south",
+      "distance": 130.0,
+      "URL": "https://tourism.mostar.ba/en/"
     }
   ]
 }

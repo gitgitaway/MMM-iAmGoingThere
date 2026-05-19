@@ -1,0 +1,98 @@
+{
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "airportPostcode": "21941",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Christ the Redeemer",
+      "postcode": "22241",
+      "distanceKmFromAirport": 28,
+      "description": "The iconic 30-metre Art Deco Christ statue atop Corcovado mountain — one of the New Seven Wonders of the World",
+      "distance": 8.0,
+      "URL": "https://www.cristoredentor.org.br/"
+    },
+    {
+      "rank": 2,
+      "name": "Sugarloaf Mountain Cable Car",
+      "postcode": "22291",
+      "distanceKmFromAirport": 25,
+      "description": "Twin cable car ascent to the 396-metre peak at the mouth of Guanabara Bay — sunset views are unmissable",
+      "distance": 5.0,
+      "URL": "https://bondinho.com.br/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Copacabana Beach",
+      "postcode": "22070",
+      "distanceKmFromAirport": 27,
+      "description": "The world's most famous urban beach — 4 km of golden sand with beach volleyball, caipirinhas and people-watching",
+      "distance": 7.0,
+      "URL": "https://www.visit.rio/"
+    },
+    {
+      "rank": 4,
+      "name": "Ipanema Beach",
+      "postcode": "22420",
+      "distanceKmFromAirport": 29,
+      "description": "Brazil's most fashionable beach — inspiration for The Girl from Ipanema, with sunset views of Dois Irmãos",
+      "distance": 9.0,
+      "URL": "https://www.visit.rio/"
+    },
+    {
+      "rank": 5,
+      "name": "Santa Teresa Neighbourhood",
+      "postcode": "20240",
+      "distanceKmFromAirport": 24,
+      "description": "Bohemian hillside district with colonial houses, art studios and the famous yellow tram (bonde)",
+      "distance": 4.0,
+      "URL": "https://www.visit.rio/"
+    },
+    {
+      "rank": 6,
+      "name": "Lapa Arches & Nightlife",
+      "postcode": "20230",
+      "distanceKmFromAirport": 24,
+      "description": "18th-century Roman aqueduct that becomes Rio's most famous nightlife strip — samba clubs and street parties",
+      "distance": 3.5,
+      "URL": "https://www.visit.rio/"
+    },
+    {
+      "rank": 7,
+      "name": "Tijuca National Park",
+      "postcode": "20531",
+      "distanceKmFromAirport": 32,
+      "description": "The world's largest urban forest — hiking trails to waterfalls, monkeys and views of the Christ statue",
+      "distance": 12.0,
+      "URL": "https://www.visit.rio/"
+    },
+    {
+      "rank": 8,
+      "name": "Maracanã Stadium Tour",
+      "postcode": "20271",
+      "distanceKmFromAirport": 28,
+      "description": "The world's most famous football stadium — now seating 78,000 but once held 200,000 for the 1950 World Cup",
+      "distance": 8.0,
+      "URL": "https://www.maracana.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Jardim Botânico",
+      "postcode": "22460",
+      "distanceKmFromAirport": 30,
+      "description": "1808 botanical garden famous for its Avenue of Royal Palms — 6,000 plant species and free-roaming monkeys",
+      "distance": 10.0,
+      "URL": "https://www.jbrj.gov.br/"
+    },
+    {
+      "rank": 10,
+      "name": "Museum of Tomorrow (Museu do Amanhã)",
+      "postcode": "20081",
+      "distanceKmFromAirport": 23,
+      "description": "Stunning Santiago Calatrava science museum on a pier in the revitalised Porto Maravilha waterfront district",
+      "distance": 3.0,
+      "URL": "https://museudoamanha.org.br/en/"
+    }
+  ]
+}

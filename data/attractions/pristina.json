@@ -1,0 +1,98 @@
+{
+  "city": "Pristina",
+  "country": "Kosovo",
+  "airportPostcode": "10000",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Newborn Monument",
+      "postcode": "10000",
+      "distanceKmFromAirport": 14,
+      "description": "Iconic giant letter sculpture celebrating Kosovo's 2008 declaration of independence",
+      "distance": 0.5,
+      "URL": "https://www.pristinacity.org/"
+    },
+    {
+      "rank": 2,
+      "name": "National Library of Kosovo",
+      "postcode": "10000",
+      "distanceKmFromAirport": 15,
+      "description": "Unique Modernist building designed by Croatian architect Andrija Mutnjakovic",
+      "distance": 1.0,
+      "URL": "https://www.biblioteka-ks.org"
+    },
+    {
+      "rank": 3,
+      "name": "Imperial Mosque (Xhamia e Mbretit)",
+      "postcode": "10000",
+      "distanceKmFromAirport": 14,
+      "description": "15th-century Ottoman mosque, one of the oldest buildings in Pristina",
+      "distance": 0.3,
+      "URL": "https://www.xhamisaembretit.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Kosovo National Theatre",
+      "postcode": "10000",
+      "distanceKmFromAirport": 14,
+      "description": "Cultural hub showcasing Kosovo's arts and drama scene",
+      "distance": 0.5,
+      "URL": "https://www.tkk-ks.com"
+    },
+    {
+      "rank": 5,
+      "name": "Cathedral of Blessed Teresa",
+      "postcode": "10000",
+      "distanceKmFromAirport": 14,
+      "description": "Modern Roman Catholic cathedral dedicated to Pristina-born Mother Teresa",
+      "distance": 0.8,
+      "URL": "https://www.teresa-cathedral.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Ethnological Museum of Kosovo",
+      "postcode": "10000",
+      "distanceKmFromAirport": 14,
+      "description": "18th-century Ottoman house museum of traditional Kosovo culture and crafts",
+      "distance": 0.5,
+      "URL": "https://www.visipristina.com"
+    },
+    {
+      "rank": 7,
+      "name": "Skanderbeg Square",
+      "postcode": "10000",
+      "distanceKmFromAirport": 14,
+      "description": "City's central square with the monument to Albanian hero Gjergj Skanderbeg",
+      "distance": 0.5,
+      "URL": "https://www.visipristina.com"
+    },
+    {
+      "rank": 8,
+      "name": "Gracanica Monastery",
+      "postcode": "13000",
+      "distanceKmFromAirport": 20,
+      "description": "Serbian Orthodox monastery built in 1321 with UNESCO World Heritage frescos",
+      "distance": 9.0,
+      "URL": "https://www.manastirgrachanica.net"
+    },
+    {
+      "rank": 9,
+      "name": "Bear Sanctuary Pristina",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Rescued bears rehabilitated in a natural forest enclosure outside the city",
+      "distance": 5.0,
+      "URL": "https://www.bearsanctuary-pristina.org"
+    },
+    {
+      "rank": 10,
+      "name": "Germia Park",
+      "postcode": "10000",
+      "distanceKmFromAirport": 16,
+      "description": "City park with swimming pool, cafes and forest walks above the city",
+      "distance": 3.0,
+      "URL": "https://www.germiapark.org/"
+    }
+  ]
+}

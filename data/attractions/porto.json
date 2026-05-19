@@ -1,0 +1,98 @@
+{
+  "city": "Porto",
+  "country": "Portugal",
+  "airportPostcode": "4470-558",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ribeira District",
+      "postcode": "4050-509",
+      "distanceKmFromAirport": 17,
+      "description": "UNESCO World Heritage colourful riverside neighbourhood along the Douro",
+      "distance": 2.0,
+      "URL": "https://www.visitporto.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Port Wine Cellars",
+      "postcode": "4400-037",
+      "distanceKmFromAirport": 18,
+      "description": "Guided tastings at historic Port wine cellars in Vila Nova de Gaia across the river",
+      "distance": 3.0,
+      "URL": "https://www.grahams-port.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Dom Luis I Bridge",
+      "postcode": "4050-509",
+      "distanceKmFromAirport": 17,
+      "description": "Iconic double-deck iron bridge spanning the Douro with walkway and panoramic views",
+      "distance": 2.0,
+      "URL": "https://www.visitporto.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Livraria Lello",
+      "postcode": "4050-312",
+      "distanceKmFromAirport": 16,
+      "description": "Magnificent Neo-Gothic bookshop often called one of the world's most beautiful",
+      "distance": 1.5,
+      "URL": "https://www.livrarialello.pt/"
+    },
+    {
+      "rank": 5,
+      "name": "Sao Bento Railway Station",
+      "postcode": "4000-096",
+      "distanceKmFromAirport": 16,
+      "description": "Stunning 20th-century station with 20,000 azulejo tiles depicting Portuguese history",
+      "distance": 1.2,
+      "URL": "https://www.visitporto.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Igreja dos Clerigos",
+      "postcode": "4050-313",
+      "distanceKmFromAirport": 16,
+      "description": "Baroque church with Portugal's tallest bell tower, a Porto skyline landmark",
+      "distance": 1.5,
+      "URL": "https://www.clerigoschurch.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Porto Cathedral (Se)",
+      "postcode": "4050-573",
+      "distanceKmFromAirport": 17,
+      "description": "Romanesque and Gothic cathedral dating to the 12th century at the city's highest point",
+      "distance": 1.8,
+      "URL": "https://www.visitporto.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Palacio da Bolsa",
+      "postcode": "4050-297",
+      "distanceKmFromAirport": 17,
+      "description": "Stunning 19th-century stock exchange with the extraordinary Arab Room",
+      "distance": 2.0,
+      "URL": "https://www.palaciodabolsa.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Serralves Museum",
+      "postcode": "4150-794",
+      "distanceKmFromAirport": 20,
+      "description": "Contemporary art museum in a magnificent Art Deco villa with a 44-acre park",
+      "distance": 5.0,
+      "URL": "https://www.serralves.pt/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Foz do Douro",
+      "postcode": "4150-196",
+      "distanceKmFromAirport": 21,
+      "description": "Elegant coastal neighbourhood at the river mouth with ocean promenade and seafood",
+      "distance": 6.0,
+      "URL": "https://www.visitporto.travel/"
+    }
+  ]
+}

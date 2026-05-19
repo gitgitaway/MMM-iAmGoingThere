@@ -1,0 +1,98 @@
+{
+  "city": "Paro",
+  "country": "Bhutan",
+  "airportPostcode": "12001",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Taktsang Monastery (Tiger's Nest)",
+      "postcode": "12001",
+      "distanceKmFromAirport": 16,
+      "description": "Bhutan's most iconic image - a monastery clinging to a 900m cliff above Paro Valley",
+      "distance": 10.0,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 2,
+      "name": "Rinpung Dzong",
+      "postcode": "12001",
+      "distanceKmFromAirport": 9,
+      "description": "16th-century fortified monastery housing the monk body and district administration",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of Bhutan",
+      "postcode": "12001",
+      "distanceKmFromAirport": 9,
+      "description": "Inside the 17th-century Ta Dzong watchtower with Bhutan's finest cultural collection",
+      "distance": 1.0,
+      "URL": "https://www.nationalmuseumbhutan.gov.bt/"
+    },
+    {
+      "rank": 4,
+      "name": "Kyichu Lhakhang",
+      "postcode": "12001",
+      "distanceKmFromAirport": 9,
+      "description": "7th-century temple built by King Songtsen Gampo - one of the oldest in Bhutan",
+      "distance": 3.0,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 5,
+      "name": "Paro Valley Walk",
+      "postcode": "12001",
+      "distanceKmFromAirport": 10,
+      "description": "Walk through rice fields, apple orchards and traditional farmhouses in the valley",
+      "distance": 2.0,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 6,
+      "name": "Dochula Pass & 108 Memorial Chortens",
+      "postcode": "11001",
+      "distanceKmFromAirport": 55,
+      "description": "Mountain pass at 3,100m with 108 chortens and Himalayan panorama to Tibet",
+      "distance": 50.0,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 7,
+      "name": "Punakha Dzong",
+      "postcode": "13001",
+      "distanceKmFromAirport": 80,
+      "description": "17th-century dzong at the confluence of two rivers - Bhutan's most beautiful",
+      "distance": 75.0,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 8,
+      "name": "Thimphu Tashichho Dzong",
+      "postcode": "11001",
+      "distanceKmFromAirport": 62,
+      "description": "Bhutan's 13th century capital fortress monastery and seat of the government",
+      "distance": 55.0,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 9,
+      "name": "Bhutan International Festival (Tsechu)",
+      "postcode": "12001",
+      "distanceKmFromAirport": 8,
+      "description": "Ancient tantric mask dances performed by monks - dates vary by monastery",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.bt/"
+    },
+    {
+      "rank": 10,
+      "name": "Ema Datshi (Chilli Cheese)",
+      "postcode": "12001",
+      "distanceKmFromAirport": 8,
+      "description": "Bhutan's national dish - whole red and green chillies cooked in fresh yak cheese sauce",
+      "distance": 1.0,
+      "URL": "https://www.tourism.gov.bt"
+    }
+  ]
+}

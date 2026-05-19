@@ -1,0 +1,98 @@
+{
+  "city": "Port of Spain",
+  "country": "Trinidad and Tobago",
+  "airportPostcode": "000000",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Trinidad Carnival",
+      "postcode": "100101",
+      "distanceKmFromAirport": 27,
+      "description": "World's greatest street party - soca music, elaborate mas bands and the Jouvert dawn parade",
+      "distance": 0.5,
+      "URL": "https://www.ncctt.org"
+    },
+    {
+      "rank": 2,
+      "name": "Asa Wright Nature Centre",
+      "postcode": "500271",
+      "distanceKmFromAirport": 58,
+      "description": "World-famous birding centre in a tropical forest with 170+ species of birds",
+      "distance": 35.0,
+      "URL": "https://www.asawright.org"
+    },
+    {
+      "rank": 3,
+      "name": "Queen's Park Savannah",
+      "postcode": "100101",
+      "distanceKmFromAirport": 28,
+      "description": "World's largest city roundabout with the Magnificent Seven colonial mansions",
+      "distance": 1.5,
+      "URL": "https://www.ncctt.org"
+    },
+    {
+      "rank": 4,
+      "name": "Maracas Beach",
+      "postcode": "110102",
+      "distanceKmFromAirport": 35,
+      "description": "Trinidad's finest beach with the legendary Richard's Bake and Shark",
+      "distance": 20.0,
+      "URL": "https://www.gotrinidadandtobago.com"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum & Art Gallery",
+      "postcode": "100101",
+      "distanceKmFromAirport": 27,
+      "description": "Trinidad's history from Amerindian times, the oil industry and carnival culture",
+      "distance": 0.5,
+      "URL": "https://www.museums.gov.tt"
+    },
+    {
+      "rank": 6,
+      "name": "Caroni Swamp Scarlet Ibis Tour",
+      "postcode": "100200",
+      "distanceKmFromAirport": 12,
+      "description": "Evening boat tour to watch thousands of scarlet ibis flying to roost in the mangroves",
+      "distance": 16.0,
+      "URL": "https://www.gotrinidadandtobago.com"
+    },
+    {
+      "rank": 7,
+      "name": "Tobago Island Getaway",
+      "postcode": "600201",
+      "distanceKmFromAirport": 137,
+      "description": "Tranquil sister island with the oldest protected forest reserve in the western hemisphere",
+      "distance": 110.0,
+      "URL": "https://www.gotrinidadandtobago.com"
+    },
+    {
+      "rank": 8,
+      "name": "Lopinot Historical Complex",
+      "postcode": "500272",
+      "distanceKmFromAirport": 45,
+      "description": "Former cacao estate in the Northern Range with Amerindian heritage",
+      "distance": 20.0,
+      "URL": "https://www.gotrinidadandtobago.com"
+    },
+    {
+      "rank": 9,
+      "name": "Emperor Valley Zoo",
+      "postcode": "100101",
+      "distanceKmFromAirport": 28,
+      "description": "Zoo set in the Botanical Gardens with the Green Anaconda and Trinidad Piping Guan",
+      "distance": 1.5,
+      "URL": "https://www.empvalleyzoo.com"
+    },
+    {
+      "rank": 10,
+      "name": "Doubles at Charlie's",
+      "postcode": "100101",
+      "distanceKmFromAirport": 27,
+      "description": "Trinidad's iconic street food - curried chickpeas in fried bara bread, eaten at dawn",
+      "distance": 0.5,
+      "URL": "https://www.sta.uwi.edu"
+    }
+  ]
+}

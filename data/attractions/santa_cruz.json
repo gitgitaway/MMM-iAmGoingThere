@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Jesuit Missions Circuit (Chiquitos)",
-      "description": "UNESCO World Heritage six Jesuit reduction churches in the lowland jungle"
+      "postcode": "830000",
+      "distanceKmFromAirport": 230,
+      "description": "UNESCO World Heritage six Jesuit reduction churches in the lowland jungle",
+      "distance": 220.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 2,
       "name": "Amboro National Park",
-      "description": "Cloud forest meeting Amazon - extraordinary biodiversity including spectacled bears"
+      "postcode": "830000",
+      "distanceKmFromAirport": 140,
+      "description": "Cloud forest meeting Amazon - extraordinary biodiversity including spectacled bears",
+      "distance": 130.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 3,
       "name": "Samaipata Ruins (El Fuerte)",
-      "description": "UNESCO World Heritage pre-Inca ceremonial site carved into a massive rock"
+      "postcode": "830000",
+      "distanceKmFromAirport": 130,
+      "description": "UNESCO World Heritage pre-Inca ceremonial site carved into a massive rock",
+      "distance": 120.0,
+      "URL": "https://whc.unesco.org/en/list/567"
     },
     {
       "rank": 4,
       "name": "La Vertiente Natural Park",
-      "description": "Natural springs and thermal pools in the hills above Santa Cruz"
+      "postcode": "830000",
+      "distanceKmFromAirport": 28,
+      "description": "Natural springs and thermal pools in the hills above Santa Cruz",
+      "distance": 15.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 5,
       "name": "Plaza 24 de Septiembre",
-      "description": "Cathedral and colonial buildings on the main square of Bolivia's largest city"
+      "postcode": "910000",
+      "distanceKmFromAirport": 15,
+      "description": "Cathedral and colonial buildings on the main square of Bolivia's largest city",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 6,
       "name": "Los Espejillos Natural Reserve",
-      "description": "Waterfalls and natural pools in a crystal-clear river 90km from the city"
+      "postcode": "830000",
+      "distanceKmFromAirport": 95,
+      "description": "Waterfalls and natural pools in a crystal-clear river 90km from the city",
+      "distance": 90.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 7,
       "name": "Parque Lomas de Arena",
-      "description": "Sand dunes and lagoons in a natural park just 20km from the city"
+      "postcode": "830000",
+      "distanceKmFromAirport": 30,
+      "description": "Sand dunes and lagoons in a natural park just 20km from the city",
+      "distance": 20.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 8,
       "name": "Biocentro Guembe",
-      "description": "Butterfly park, orchid collection and pool complex in tropical gardens"
+      "postcode": "830000",
+      "distanceKmFromAirport": 25,
+      "description": "Butterfly park, orchid collection and pool complex in tropical gardens",
+      "distance": 15.0,
+      "URL": "https://www.guembe.com.bo/"
     },
     {
       "rank": 9,
       "name": "Camba Cultural Celebrations",
-      "description": "Carnival in February with the Cambas - eastern Bolivia's distinctive culture"
+      "postcode": "910000",
+      "distanceKmFromAirport": 15,
+      "description": "Carnival in February with the Cambas - eastern Bolivia's distinctive culture",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     },
     {
       "rank": 10,
       "name": "Majadito Boliviano",
-      "description": "Santa Cruz's signature fried rice dish with dried beef and fried egg"
+      "postcode": "910000",
+      "distanceKmFromAirport": 15,
+      "description": "Santa Cruz's signature fried rice dish with dried beef and fried egg",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/529"
     }
   ]
 }

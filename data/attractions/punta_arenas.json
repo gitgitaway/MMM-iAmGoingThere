@@ -1,0 +1,98 @@
+{
+  "city": "Punta Arenas",
+  "country": "Chile",
+  "airportPostcode": "6200000",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Torres del Paine National Park",
+      "postcode": "6280000",
+      "distanceKmFromAirport": 265,
+      "description": "Patagonia's crown jewel - granite towers, glaciers and pumas in UNESCO World Heritage park",
+      "distance": 250.0,
+      "URL": "https://www.torresdelpaine.com"
+    },
+    {
+      "rank": 2,
+      "name": "Penguin Colony at Isla Magdalena",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 52,
+      "description": "Ferry to an island with 120,000 Magellanic penguins breeding October-March",
+      "distance": 35.0,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 3,
+      "name": "Strait of Magellan",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 20,
+      "description": "Walk the shore of the strait Magellan navigated in 1520 connecting two oceans",
+      "distance": 1.0,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 4,
+      "name": "Museo Regional de Magallanes",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 20,
+      "description": "History of Patagonia from the indigenous Selknam and Yaghan people",
+      "distance": 0.5,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 5,
+      "name": "Cemetery of Punta Arenas",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 21,
+      "description": "Monumental cemetery with elaborate tombs of pioneering families",
+      "distance": 1.5,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 6,
+      "name": "Cape Horn (Cabo de Hornos)",
+      "postcode": "6300000",
+      "distanceKmFromAirport": 419,
+      "description": "Cruise to the southernmost point of the Americas - the most feared cape in the world",
+      "distance": 400.0,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 7,
+      "name": "Tierra del Fuego National Park",
+      "postcode": "9410000",
+      "distanceKmFromAirport": 329,
+      "description": "End-of-the-world park with beavers, condors and the southernmost railway",
+      "distance": 310.0,
+      "URL": "https://www.parquesnacionales.gob.ar"
+    },
+    {
+      "rank": 8,
+      "name": "Cueva del Milodon",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 40,
+      "description": "Cave where the remains of a giant ground sloth were discovered in 1895",
+      "distance": 24.0,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 9,
+      "name": "Antarctic Cruise Departure",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 20,
+      "description": "Punta Arenas is the gateway to Antarctica - king penguin and iceberg cruises",
+      "distance": 1.0,
+      "URL": "https://www.turismomagallanes.cl"
+    },
+    {
+      "rank": 10,
+      "name": "Patagonian Lamb (Cordero Asado)",
+      "postcode": "6200000",
+      "distanceKmFromAirport": 20,
+      "description": "Whole Patagonian lamb roasted on a cross over an open wood fire",
+      "distance": 1.0,
+      "URL": "https://www.turismomagallanes.cl"
+    }
+  ]
+}

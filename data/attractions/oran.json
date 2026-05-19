@@ -1,0 +1,98 @@
+{
+  "city": "Oran",
+  "country": "Algeria",
+  "airportPostcode": "31000",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Santa Cruz Fort & Chapel",
+      "postcode": "31000",
+      "distanceKmFromAirport": 29,
+      "description": "Spanish fortress on Murdjadjo Mountain overlooking the city and bay",
+      "distance": 3.0,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 2,
+      "name": "Bey's Palace (Regency Palace)",
+      "postcode": "31000",
+      "distanceKmFromAirport": 27,
+      "description": "18th-century Ottoman-Andalusian palace with the best example of Moorish tilework in Algeria",
+      "distance": 1.0,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 3,
+      "name": "City Hall (Mairie d'Oran)",
+      "postcode": "31000",
+      "distanceKmFromAirport": 27,
+      "description": "Magnificent French colonial town hall from 1886",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 4,
+      "name": "Musee National Ahmed Zabana",
+      "postcode": "31000",
+      "distanceKmFromAirport": 28,
+      "description": "Oran's main museum with prehistoric rock art and colonial history",
+      "distance": 2.0,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 5,
+      "name": "Place du 1er Novembre (Place Joffre)",
+      "postcode": "31000",
+      "distanceKmFromAirport": 27,
+      "description": "Grand French colonial square with the Palais des Rais and Oran Cathedral",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 6,
+      "name": "Port of Oran",
+      "postcode": "31000",
+      "distanceKmFromAirport": 28,
+      "description": "Historic Mediterranean port that inspired Albert Camus's novel The Plague",
+      "distance": 2.0,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 7,
+      "name": "Oran Cathedral (Sacred Heart)",
+      "postcode": "31000",
+      "distanceKmFromAirport": 27,
+      "description": "Neoclassical French colonial cathedral - now a public library",
+      "distance": 1.0,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 8,
+      "name": "Tlemcen Day Trip",
+      "postcode": "13000",
+      "distanceKmFromAirport": 155,
+      "description": "The pearl of the Maghreb - UNESCO-listed medina with Almoravid and Merinid ruins",
+      "distance": 140.0,
+      "URL": "https://whc.unesco.org/en/list/153"
+    },
+    {
+      "rank": 9,
+      "name": "Plage des Andalouses",
+      "postcode": "31340",
+      "distanceKmFromAirport": 30,
+      "description": "Oran's most popular Mediterranean beach",
+      "distance": 15.0,
+      "URL": "https://www.tourisme.gov.dz"
+    },
+    {
+      "rank": 10,
+      "name": "Rai Music Bars",
+      "postcode": "31000",
+      "distanceKmFromAirport": 27,
+      "description": "Oran is the home of Rai - North African pop fusion now popular worldwide",
+      "distance": 1.0,
+      "URL": "https://www.tourisme.gov.dz"
+    }
+  ]
+}

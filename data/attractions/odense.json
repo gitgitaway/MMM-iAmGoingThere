@@ -1,0 +1,98 @@
+{
+  "city": "Odense",
+  "country": "Denmark",
+  "airportPostcode": "5270",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hans Christian Andersen Museum",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Spectacular new museum opened in 2021 on the birthplace of Hans Christian Andersen; an immersive journey through the fairy-tale world of The Little Mermaid, The Ugly Duckling and Thumbelina",
+      "distance": 1.5,
+      "URL": "https://www.hcandersen.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Hans Christian Andersen Birthplace",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "The modest house where Hans Christian Andersen was born in 1805; preserved as a museum within the larger Hans Christian Andersen quarter of Odense's historic centre",
+      "distance": 1.5,
+      "URL": "https://museum.odense.dk/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Odense Cathedral (St. Canute's Cathedral)",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Gothic cathedral from the 13th-15th centuries housing the shrine of St. Canute, Denmark's royal martyr; the crypt contains the saint's preserved remains and is a national pilgrimage site",
+      "distance": 1.0,
+      "URL": "https://www.odensedomkirke.dk/"
+    },
+    {
+      "rank": 4,
+      "name": "Funen Village Open Air Museum",
+      "postcode": "5220",
+      "distanceKmFromAirport": 10,
+      "description": "Living history open-air museum with 25 buildings from the 18th and 19th centuries; costumed interpreters demonstrate traditional rural life on the island of Funen that inspired Andersen's fairy tales",
+      "distance": 4.0,
+      "URL": "https://museum.odense.dk/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Brandts Art Museum",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Denmark's museum of art, photography and media in a converted textile factory; the outstanding collection covers Danish and international modern and contemporary art",
+      "distance": 1.0,
+      "URL": "https://www.brandts.dk/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Odense Old Town Walking Trail",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Odense's historic pedestrian heart with half-timbered houses, cobbled streets and the Overgade and Nedergade district; one of the best-preserved medieval town centres in Denmark",
+      "distance": 1.0,
+      "URL": "https://www.visitodense.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Odense Zoo",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Award-winning zoo in a riverside park on the Odense River with over 2,500 animals; consistently voted one of Scandinavia's best zoos with innovative naturalistic habitats",
+      "distance": 3.0,
+      "URL": "https://www.odensezoo.dk/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Carl Nielsen Museum",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Museum dedicated to Denmark's greatest composer Carl Nielsen (1865-1931), also born near Odense; explores his life, music and relationship to the Funen landscape that shaped his work",
+      "distance": 1.5,
+      "URL": "https://museum.odense.dk/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Odense River Cruises",
+      "postcode": "5000",
+      "distanceKmFromAirport": 9,
+      "description": "Guided boat tours along the Odense River from the city centre to the zoo and Funen Village; a pleasant way to explore the city from the water on traditional flat-bottomed boats",
+      "distance": 2.0,
+      "URL": "https://www.visitodense.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Nature Energy Park",
+      "postcode": "5210",
+      "distanceKmFromAirport": 9,
+      "description": "Modern 15,790-seat stadium home of Odense Boldklub (OB), one of Denmark's most successful clubs with three league titles; the club has represented Denmark in European competition including the Europa League",
+      "distance": 4.0,
+      "URL": "https://www.ob.dk/en/"
+    }
+  ]
+}

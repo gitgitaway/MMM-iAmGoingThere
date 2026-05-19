@@ -1,0 +1,98 @@
+{
+  "city": "Oswestry",
+  "country": "Wales",
+  "airportPostcode": "SY1 3QD",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Oswestry Hill Fort",
+      "postcode": "SY11 1RQ",
+      "distanceKmFromAirport": 24,
+      "description": "One of Britain's best-preserved Iron Age hill forts dating from 800 BC with spectacular multiple ramparts rising over the Shropshire plain",
+      "distance": 1.5,
+      "URL": "https://www.cadw.gov.wales/visit/places-to-visit/old-oswestry-hillfort"
+    },
+    {
+      "rank": 2,
+      "name": "Oswestry Town Centre",
+      "postcode": "SY11 1NZ",
+      "distanceKmFromAirport": 23,
+      "description": "Attractive market town with a medieval street layout, independent shops and the famous weekly Wednesday and Saturday markets in the town square",
+      "distance": 0.3,
+      "URL": "https://www.oswestry.org.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Wilfred Owen's Birthplace",
+      "postcode": "SY11 1AS",
+      "distanceKmFromAirport": 23,
+      "description": "Birthplace of WWI poet Wilfred Owen in Oswestry; the town commemorates its most famous son with a museum and memorial garden honouring his wartime verse",
+      "distance": 0.5,
+      "URL": "https://www.oswestry.org.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Offa's Dyke Path",
+      "postcode": "SY11 2BH",
+      "distanceKmFromAirport": 24,
+      "description": "Long-distance national trail running from Chepstow to Prestatyn along the Welsh-English border, starting near Oswestry with spectacular ridge-top walking",
+      "distance": 3.0,
+      "URL": "https://www.nationaltrail.co.uk/en_GB/trails/offas-dyke-path/"
+    },
+    {
+      "rank": 5,
+      "name": "Chirk Castle (National Trust)",
+      "postcode": "LL14 5AF",
+      "distanceKmFromAirport": 30,
+      "description": "Medieval border castle built in 1295 still inhabited after 700 years, with sumptuous state rooms, magnificent formal gardens and parkland",
+      "distance": 8.0,
+      "URL": "https://www.nationaltrust.org.uk/visit/wales/chirk-castle"
+    },
+    {
+      "rank": 6,
+      "name": "Pontcysyllte Aqueduct (UNESCO)",
+      "postcode": "LL20 7TY",
+      "distanceKmFromAirport": 35,
+      "description": "Thomas Telford's breathtaking 1805 iron aqueduct carrying the Llangollen Canal 38 metres above the Dee Valley; a UNESCO World Heritage masterpiece",
+      "distance": 12.0,
+      "URL": "https://www.pontcysyllte-aqueduct.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Oswestry Bicycle Museum",
+      "postcode": "SY11 1LQ",
+      "distanceKmFromAirport": 23,
+      "description": "Fascinating museum celebrating the bicycle and the remarkable industrial heritage of Oswestry as a Victorian manufacturing town",
+      "distance": 0.5,
+      "URL": "https://www.oswestry.org.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Lake Vyrnwy",
+      "postcode": "SY10 0LY",
+      "distanceKmFromAirport": 40,
+      "description": "Victorian reservoir in the Berwyn Mountains 25km from Oswestry surrounded by moorland and forest; cycling, walking and birdwatching in wild Welsh scenery",
+      "distance": 25.0,
+      "URL": "https://www.lake-vyrnwy.com/"
+    },
+    {
+      "rank": 9,
+      "name": "St. Oswald's Church",
+      "postcode": "SY11 1PX",
+      "distanceKmFromAirport": 23,
+      "description": "Medieval parish church at the heart of Oswestry dedicated to the Anglo-Saxon king Oswald, with a striking tower and a churchyard of historic interest",
+      "distance": 0.3,
+      "URL": "https://www.oswestry.org.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Park Hall Stadium",
+      "postcode": "SY11 4AS",
+      "distanceKmFromAirport": 24,
+      "description": "Home of The New Saints FC, Wales's most successful club and regular UEFA Europa and Conference League qualifiers with multiple Welsh Premier League titles",
+      "distance": 4.0,
+      "URL": "https://www.thenewsaints.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Nassau",
+  "country": "The Bahamas",
+  "airportPostcode": "N-3743",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Swimming Pigs of Exuma",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 182,
+      "description": "The famous wild pigs that swim out to meet boats at Big Major Cay, Exuma",
+      "distance": 175,
+      "URL": "https://www.bahamas.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Atlantis Paradise Island",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 12,
+      "description": "Massive resort with a waterpark, casino, aquarium and the Aquaventure water rides",
+      "distance": 5,
+      "URL": "https://www.atlantisbahamas.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Cable Beach",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 12,
+      "description": "Nassau's premier beach stretching 3km with turquoise water and beach bars",
+      "distance": 5,
+      "URL": "https://www.bahamas.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Fort Charlotte",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 10,
+      "description": "Largest fort in the Bahamas with dry moat and secret underground passages",
+      "distance": 3,
+      "URL": "https://www.bahamas.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Queen's Staircase",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 8,
+      "description": "66 steps hand-carved from limestone by enslaved workers to celebrate 66 years of emancipation",
+      "distance": 1,
+      "URL": "https://www.bahamas.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Blue Lagoon Island Dolphin Swim",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 19,
+      "description": "Snorkel with dolphins and sea lions at this private island resort",
+      "distance": 12,
+      "URL": "https://www.dolphinencounters.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Parliament Square",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 7,
+      "description": "Pastel-pink colonial government buildings around the central statue of Queen Victoria",
+      "distance": 0.3,
+      "URL": "https://www.bahamas.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Baha Mar",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 12,
+      "description": "Mega-resort complex with three hotels, casino, beach clubs and live entertainment",
+      "distance": 5,
+      "URL": "https://www.bahamar.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Nassau Straw Market",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 7,
+      "description": "Open-air market for hand-woven bags, hats, sarongs and Bahamian souvenirs",
+      "distance": 0.3,
+      "URL": "https://www.bahamas.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Pirates of Nassau Museum",
+      "postcode": "N-3743",
+      "distanceKmFromAirport": 7,
+      "description": "Walk-through experience of the Golden Age of Piracy when Nassau was the pirate republic",
+      "distance": 0.3,
+      "URL": "https://www.piratesofnassau.com/"
+    }
+  ]
+}

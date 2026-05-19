@@ -1,0 +1,98 @@
+{
+  "city": "Rijeka",
+  "country": "Croatia",
+  "airportPostcode": "51215",
+  "airportDistanceKm": 28,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Rijeka Carnival",
+      "postcode": "51000",
+      "distanceKmFromAirport": 28,
+      "description": "One of Europe's largest carnivals with the famous Masked Ball and International Carnival Parade",
+      "distance": 0.5,
+      "URL": "https://www.ri-karneval.com.hr"
+    },
+    {
+      "rank": 2,
+      "name": "Trsat Castle",
+      "postcode": "51000",
+      "distanceKmFromAirport": 30,
+      "description": "Ancient hilltop fortress with panoramic views over the Kvarner Gulf and Rjecina canyon",
+      "distance": 3.0,
+      "URL": "https://www.rijeka.hr"
+    },
+    {
+      "rank": 3,
+      "name": "Governor's Palace",
+      "postcode": "51000",
+      "distanceKmFromAirport": 28,
+      "description": "Hungarian Secessionist palace housing the Maritime and History Museum of Croatian Littoral",
+      "distance": 0.5,
+      "URL": "https://www.pmi-ri.hr"
+    },
+    {
+      "rank": 4,
+      "name": "Korzo Promenade",
+      "postcode": "51000",
+      "distanceKmFromAirport": 28,
+      "description": "Elegant pedestrian main street with 19th-century architecture and cafe culture",
+      "distance": 0.3,
+      "URL": "https://www.rijeka.hr"
+    },
+    {
+      "rank": 5,
+      "name": "Cathedral of St Vitus",
+      "postcode": "51000",
+      "distanceKmFromAirport": 28,
+      "description": "Baroque rotunda cathedral housing a miraculous 13th-century crucifix",
+      "distance": 0.5,
+      "URL": "https://www.rijeka.hr"
+    },
+    {
+      "rank": 6,
+      "name": "City Tower & Roman Arch",
+      "postcode": "51000",
+      "distanceKmFromAirport": 28,
+      "description": "Baroque clocktower and adjacent Roman triumphal arch - the old city entrance",
+      "distance": 0.3,
+      "URL": "https://www.rijeka.hr"
+    },
+    {
+      "rank": 7,
+      "name": "Astronomical Clock",
+      "postcode": "51000",
+      "distanceKmFromAirport": 28,
+      "description": "19th-century clock tower on the Korzo marking the Austrian Empire time standard",
+      "distance": 0.3,
+      "URL": "https://www.rijeka.hr"
+    },
+    {
+      "rank": 8,
+      "name": "Opatija Riviera",
+      "postcode": "51410",
+      "distanceKmFromAirport": 42,
+      "description": "Elegant Habsburg-era resort just 15km away with grand villas and a coastal path",
+      "distance": 15.0,
+      "URL": "https://www.visitopatija.com"
+    },
+    {
+      "rank": 9,
+      "name": "Pece ine Beach",
+      "postcode": "51000",
+      "distanceKmFromAirport": 29,
+      "description": "City beach neighbourhood with a pleasant promenade and sea swimming",
+      "distance": 2.0,
+      "URL": "https://www.rijeka.hr"
+    },
+    {
+      "rank": 10,
+      "name": "Krk Island Bridge",
+      "postcode": "51511",
+      "distanceKmFromAirport": 50,
+      "description": "Croatia's largest island connected by the world's longest concrete arch bridge",
+      "distance": 35.0,
+      "URL": "https://www.krk.hr"
+    }
+  ]
+}

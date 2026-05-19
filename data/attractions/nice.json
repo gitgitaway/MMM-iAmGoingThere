@@ -1,0 +1,98 @@
+{
+  "city": "Nice",
+  "country": "France",
+  "airportPostcode": "06281",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Promenade des Anglais",
+      "postcode": "06000",
+      "distanceKmFromAirport": 8,
+      "description": "Famous seafront boulevard stretching 7km along the Baie des Anges",
+      "distance": 1.5,
+      "URL": "https://www.nicetourisme.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Vieux Nice",
+      "postcode": "06300",
+      "distanceKmFromAirport": 8,
+      "description": "Baroque old town with colourful facades, bustling markets and narrow alleyways",
+      "distance": 2.0,
+      "URL": "https://www.nicetourisme.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Castle Hill",
+      "postcode": "06300",
+      "distanceKmFromAirport": 8,
+      "description": "Hilltop park with panoramic views over the city, coast and port",
+      "distance": 2.5,
+      "URL": "https://www.nicetourisme.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee Matisse",
+      "postcode": "06000",
+      "distanceKmFromAirport": 10,
+      "description": "Collection of Matisse works in a beautiful 17th-century Genoese villa",
+      "distance": 4.0,
+      "URL": "https://www.musee-matisse-nice.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Marche du Cours Saleya",
+      "postcode": "06300",
+      "distanceKmFromAirport": 8,
+      "description": "Famous open-air market for flowers, produce and antiques in the old town",
+      "distance": 2.0,
+      "URL": "https://www.nicetourisme.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "MAMAC",
+      "postcode": "06300",
+      "distanceKmFromAirport": 8,
+      "description": "Museum of Modern and Contemporary Art with rooftop terrace and garden",
+      "distance": 2.0,
+      "URL": "https://www.mamac-nice.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Musee Marc Chagall",
+      "postcode": "06000",
+      "distanceKmFromAirport": 10,
+      "description": "Largest public collection of works by Marc Chagall in a purpose-built museum",
+      "distance": 3.5,
+      "URL": "https://www.musees-nationaux-alpesmaritimes.fr/chagall/"
+    },
+    {
+      "rank": 8,
+      "name": "Cimiez",
+      "postcode": "06100",
+      "distanceKmFromAirport": 10,
+      "description": "Aristocratic hilltop quarter with Roman arenas, Matisse and Chagall museums",
+      "distance": 4.0,
+      "URL": "https://www.nicetourisme.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Nice Cathedral",
+      "postcode": "06300",
+      "distanceKmFromAirport": 8,
+      "description": "18th-century Baroque cathedral dedicated to Saint Reparata in the old town",
+      "distance": 2.0,
+      "URL": "https://www.nicetourisme.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Monaco Day Trip",
+      "postcode": "98000",
+      "distanceKmFromAirport": 26,
+      "description": "Sovereign city-state with the Casino Monte Carlo and Prince's Palace just 20 minutes away",
+      "distance": 20.0,
+      "URL": "https://www.visitmonaco.com/en/"
+    }
+  ]
+}

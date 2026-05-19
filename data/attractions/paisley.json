@@ -1,0 +1,98 @@
+{
+  "city": "Paisley",
+  "country": "Scotland",
+  "airportPostcode": "PA3 2ST",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Paisley Abbey",
+      "postcode": "PA1 1JL",
+      "distanceKmFromAirport": 4,
+      "description": "Magnificent medieval abbey founded in 1163 — burial place of Robert the Bruce's mother and the historical heart of the town",
+      "distance": 2,
+      "URL": "https://www.paisleyabbey.org.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Paisley Museum (Newly Redeveloped)",
+      "postcode": "PA1 2BA",
+      "distanceKmFromAirport": 4,
+      "description": "Transformed world-class museum celebrating Paisley's unique pattern heritage and its status as 2021 UK City of Culture candidate",
+      "distance": 2,
+      "URL": "https://www.paisleymuseum.co.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Coats Observatory",
+      "postcode": "PA1 2EA",
+      "distanceKmFromAirport": 5,
+      "description": "Scotland's oldest continuously operating public observatory (1882) with a remarkable telescope and space weather station open to visitors",
+      "distance": 3,
+      "URL": "https://www.renfrewshire.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Sma' Shot Cottages",
+      "postcode": "PA1 2DA",
+      "distanceKmFromAirport": 4,
+      "description": "Restored 18th-century artisan weavers' cottages telling the story of the Paisley weavers and the Sma' Shot Day tradition",
+      "distance": 2,
+      "URL": "https://www.smashot.co.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Thomas Coats Memorial Church",
+      "postcode": "PA1 1UG",
+      "distanceKmFromAirport": 4,
+      "description": "Stunning Victorian Baptist church described as the 'Cathedral of Nonconformity' — one of Scotland's finest 19th-century church buildings",
+      "distance": 2,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Gleniffer Braes Country Park",
+      "postcode": "PA2 8PY",
+      "distanceKmFromAirport": 7,
+      "description": "Moorland country park above Paisley with sweeping views over the Clyde valley and a network of walking trails through heather",
+      "distance": 5,
+      "URL": "https://www.renfrewshire.gov.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Elderslie (William Wallace Birthplace Monument)",
+      "postcode": "PA5 9AE",
+      "distanceKmFromAirport": 8,
+      "description": "Traditional birthplace of Sir William Wallace, Scotland's national hero — a small park and monument in the village of Elderslie",
+      "distance": 6,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Glasgow (Day Trip)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 12,
+      "description": "Scotland's largest city just 20 minutes by train — world-class museums, galleries, Mackintosh architecture and vibrant West End",
+      "distance": 10,
+      "URL": "https://www.visitglasgow.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Barshaw Park",
+      "postcode": "PA1 3NU",
+      "distanceKmFromAirport": 5,
+      "description": "Beloved Victorian public park with a boating pond, model railway, nature centre and tranquil walks along the White Cart Water",
+      "distance": 3,
+      "URL": "https://www.renfrewshire.gov.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Glasgow Airport Observation (Spotting)",
+      "postcode": "PA3 2ST",
+      "distanceKmFromAirport": 2,
+      "description": "Glasgow Airport's terminal is among the busiest in Scotland — watch aircraft from the viewing areas or explore the aviation heritage",
+      "distance": 2,
+      "URL": "https://www.glasgowairport.com/"
+    }
+  ]
+}

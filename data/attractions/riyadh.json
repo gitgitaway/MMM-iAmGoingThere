@@ -1,0 +1,98 @@
+{
+  "city": "Riyadh",
+  "country": "Saudi Arabia",
+  "airportPostcode": "11564",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Masmak Fortress",
+      "postcode": "11564",
+      "distanceKmFromAirport": 35,
+      "description": "1865 mud-brick fort where Ibn Saud recaptured Riyadh in 1902, founding modern Saudi Arabia",
+      "distance": 1.0,
+      "URL": "https://www.masmak.org.sa"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Saudi Arabia",
+      "postcode": "11564",
+      "distanceKmFromAirport": 36,
+      "description": "Eight galleries covering 4.6 billion years of Saudi and Arabian history and heritage",
+      "distance": 2.0,
+      "URL": "https://www.nmc.gov.sa"
+    },
+    {
+      "rank": 3,
+      "name": "Edge of the World (Jebel Fihrayn)",
+      "postcode": "15326",
+      "distanceKmFromAirport": 108,
+      "description": "Dramatic 300m escarpment with views stretching to infinity over the Tuwayq plateau",
+      "distance": 75.0,
+      "URL": "https://www.sauditourism.sa"
+    },
+    {
+      "rank": 4,
+      "name": "Al-Turaif District, Diriyah",
+      "postcode": "13711",
+      "distanceKmFromAirport": 40,
+      "description": "UNESCO World Heritage first capital of the Saudi state with mud-brick palace ruins",
+      "distance": 12.0,
+      "URL": "https://www.diriyah.sa"
+    },
+    {
+      "rank": 5,
+      "name": "Kingdom Centre Tower Sky Bridge",
+      "postcode": "12215",
+      "distanceKmFromAirport": 39,
+      "description": "323m skyscraper with a glass sky bridge between the two leaning towers",
+      "distance": 5.0,
+      "URL": "https://www.kingdomcentre.com.sa"
+    },
+    {
+      "rank": 6,
+      "name": "Riyadh Zoo",
+      "postcode": "12816",
+      "distanceKmFromAirport": 44,
+      "description": "One of the Middle East's finest zoos with Arabian wildlife and rare white tigers",
+      "distance": 10.0,
+      "URL": "https://www.riyadhzoo.org.sa"
+    },
+    {
+      "rank": 7,
+      "name": "Deera Square (Chop-Chop Square)",
+      "postcode": "11564",
+      "distanceKmFromAirport": 35,
+      "description": "Old city centre square surrounded by the Grand Mosque, courts and the Deera souk",
+      "distance": 1.0,
+      "URL": "https://www.sauditourism.sa"
+    },
+    {
+      "rank": 8,
+      "name": "Al Faisaliah Tower Observation Deck",
+      "postcode": "12212",
+      "distanceKmFromAirport": 39,
+      "description": "Riyadh's first skyscraper with a glass globe at the top offering 360-degree city views",
+      "distance": 5.0,
+      "URL": "https://www.alfaisaliahpower.com"
+    },
+    {
+      "rank": 9,
+      "name": "Camel Market (Souq Al-Jamal)",
+      "postcode": "13243",
+      "distanceKmFromAirport": 55,
+      "description": "Authentic camel trading market where thousands of camels are bought and sold weekly",
+      "distance": 25.0,
+      "URL": "https://www.sauditourism.sa"
+    },
+    {
+      "rank": 10,
+      "name": "Boulevard Riyadh City",
+      "postcode": "12386",
+      "distanceKmFromAirport": 42,
+      "description": "Massive entertainment district with concerts, restaurants and the Riyadh Season events",
+      "distance": 8.0,
+      "URL": "https://www.boulevardriyadh.com"
+    }
+  ]
+}

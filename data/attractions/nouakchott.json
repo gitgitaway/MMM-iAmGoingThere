@@ -1,0 +1,98 @@
+{
+  "city": "Nouakchott",
+  "country": "Mauritania",
+  "airportPostcode": "BP 1014",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Camel Market (Marche au Chameau)",
+      "postcode": "BP 1000",
+      "distanceKmFromAirport": 8,
+      "description": "Hundreds of camels auctioned weekly on the edge of the Sahara Desert",
+      "distance": 5.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 2,
+      "name": "Banc d'Arguin National Park",
+      "postcode": "BP 5",
+      "distanceKmFromAirport": 124,
+      "description": "UNESCO World Heritage tidal flats - the world's most important migratory bird staging post",
+      "distance": 120.0,
+      "URL": "https://whc.unesco.org/en/list/506"
+    },
+    {
+      "rank": 3,
+      "name": "Iron Ore Train (Mauritania Railway)",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 504,
+      "description": "Ride the world's longest and heaviest freight train - 3km of iron ore wagons across the Sahara",
+      "distance": 500.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 4,
+      "name": "Nouakchott Fishing Port (Port de Peche)",
+      "postcode": "BP 1000",
+      "distanceKmFromAirport": 7,
+      "description": "Hundreds of painted pirogues land their catch - the biggest artisanal fishing port in the world",
+      "distance": 3.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 5,
+      "name": "Marche Capitale",
+      "postcode": "BP 1000",
+      "distanceKmFromAirport": 5,
+      "description": "Main city market with Tuareg silverwork, indigo cloth and Saharan crafts",
+      "distance": 1.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 6,
+      "name": "Musee National de Mauritanie",
+      "postcode": "BP 1000",
+      "distanceKmFromAirport": 6,
+      "description": "Mauritanian prehistory, Islamic manuscripts and Moorish silver jewellery",
+      "distance": 2.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 7,
+      "name": "Chinguetti Ancient Libraries",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 464,
+      "description": "UNESCO World Heritage holy city with medieval Islamic manuscript libraries",
+      "distance": 460.0,
+      "URL": "https://whc.unesco.org/en/list/750"
+    },
+    {
+      "rank": 8,
+      "name": "Atar & Adrar Plateau",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 464,
+      "description": "Dramatic sandstone plateau with palm-lined gorges and ancient caravan towns",
+      "distance": 460.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 9,
+      "name": "Atlantic Ocean Beaches",
+      "postcode": "BP 1000",
+      "distanceKmFromAirport": 6,
+      "description": "Huge empty Atlantic beaches stretching for hundreds of kilometres",
+      "distance": 2.0,
+      "URL": "https://www.mauritania-tourism.com"
+    },
+    {
+      "rank": 10,
+      "name": "Thieboudienne (Rice and Fish)",
+      "postcode": "BP 1000",
+      "distanceKmFromAirport": 5,
+      "description": "Shared from Senegal - the definitive West African dish of rice cooked in fish stock with vegetables",
+      "distance": 1.0,
+      "URL": "https://www.mauritania-tourism.com"
+    }
+  ]
+}

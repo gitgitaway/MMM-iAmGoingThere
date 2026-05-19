@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Sao Sebastiao Museum (National Museum)",
-      "description": "Portuguese colonial fort and museum with the history of the cacao island"
+      "postcode": "999115",
+      "distanceKmFromAirport": 6,
+      "description": "Portuguese colonial fort and museum with the history of the cacao island",
+      "distance": 0.0,
+      "URL": "https://www.saotomemuseum.st/"
     },
     {
       "rank": 2,
       "name": "Roça Bombaim Cacao Plantation",
-      "description": "Atmospheric 19th-century cacao roça (plantation) with original architecture intact"
+      "postcode": "999201",
+      "distanceKmFromAirport": 45,
+      "description": "Atmospheric 19th-century cacao roça (plantation) with original architecture intact",
+      "distance": 40.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 3,
       "name": "Praia Lagoa Azul (Blue Lagoon Beach)",
-      "description": "The island's most photographed beach - perfect curved bay with calm turquoise water"
+      "postcode": "999301",
+      "distanceKmFromAirport": 18,
+      "description": "The island's most photographed beach - perfect curved bay with calm turquoise water",
+      "distance": 13.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 4,
       "name": "Obo National Park",
-      "description": "Pristine rainforest covering the volcanic interior with rare endemic birds and primates"
+      "postcode": "999401",
+      "distanceKmFromAirport": 25,
+      "description": "Pristine rainforest covering the volcanic interior with rare endemic birds and primates",
+      "distance": 20.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 5,
       "name": "Pico Cão Grande",
-      "description": "Dramatic 663m volcanic needle rising from the jungle - the symbol of São Tomé"
+      "postcode": "999201",
+      "distanceKmFromAirport": 60,
+      "description": "Dramatic 663m volcanic needle rising from the jungle - the symbol of São Tomé",
+      "distance": 55.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 6,
       "name": "Banana Beach (Praia Banana)",
-      "description": "Quintessential tropical beach used in countless travel advertisements"
+      "postcode": "999301",
+      "distanceKmFromAirport": 20,
+      "description": "Quintessential tropical beach used in countless travel advertisements",
+      "distance": 15.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 7,
       "name": "Roça Monte Cafe",
-      "description": "Colonial coffee roça at 850m with forest trails and historical coffee machinery"
+      "postcode": "999301",
+      "distanceKmFromAirport": 15,
+      "description": "Colonial coffee roça at 850m with forest trails and historical coffee machinery",
+      "distance": 10.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 8,
       "name": "Principe Island Day Trip",
-      "description": "UNESCO Biosphere Reserve - one of Africa's most pristine islands"
+      "postcode": "999501",
+      "distanceKmFromAirport": 155,
+      "description": "UNESCO Biosphere Reserve - one of Africa's most pristine islands",
+      "distance": 150.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 9,
       "name": "Cidade de São Tomé Old Quarter",
-      "description": "Portuguese colonial streets with brightly coloured facades"
+      "postcode": "999115",
+      "distanceKmFromAirport": 6,
+      "description": "Portuguese colonial streets with brightly coloured facades",
+      "distance": 0.0,
+      "URL": "https://www.saotome.st"
     },
     {
       "rank": 10,
       "name": "Calulu (Fish & Vegetable Stew)",
-      "description": "National dish - dried fish, palm oil, okra and taro leaves slow-cooked together"
+      "postcode": "999115",
+      "distanceKmFromAirport": 6,
+      "description": "National dish - dried fish, palm oil, okra and taro leaves slow-cooked together",
+      "distance": 0.0,
+      "URL": "https://www.saotome.st"
     }
   ]
 }

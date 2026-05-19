@@ -1,0 +1,98 @@
+{
+  "city": "Phuket",
+  "country": "Thailand",
+  "airportPostcode": "83110",
+  "airportDistanceKm": 32,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Phi Phi Islands Day Trip",
+      "postcode": "81000",
+      "distanceKmFromAirport": 75,
+      "description": "Speedboat day trip to stunning limestone islands - snorkel Maya Bay from The Beach film",
+      "distance": 45.0,
+      "URL": "https://www.phi-phi.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Patong Beach",
+      "postcode": "83150",
+      "distanceKmFromAirport": 42,
+      "description": "Phuket's most famous and lively beach with watersports, beach clubs and Bangla Road nightlife",
+      "distance": 15.0,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Big Buddha Phuket",
+      "postcode": "83130",
+      "distanceKmFromAirport": 37,
+      "description": "45m white marble Buddha on Nakkerd Hill visible from across the island",
+      "distance": 8.0,
+      "URL": "https://www.bigbuddha.co/"
+    },
+    {
+      "rank": 4,
+      "name": "Phuket Old Town",
+      "postcode": "83000",
+      "distanceKmFromAirport": 33,
+      "description": "Sino-Portuguese shophouses, temples and art cafes in Phuket's historic centre",
+      "distance": 1.0,
+      "URL": "https://www.phuketoldtown.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Phang Nga Bay (James Bond Island)",
+      "postcode": "82000",
+      "distanceKmFromAirport": 52,
+      "description": "Limestone karst islands including Khao Phing Kan from The Man with the Golden Gun",
+      "distance": 70.0,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Kata & Karon Beaches",
+      "postcode": "83100",
+      "distanceKmFromAirport": 47,
+      "description": "Long sandy beaches south of Patong with cleaner water and calmer atmosphere",
+      "distance": 18.0,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Simon Cabaret Show",
+      "postcode": "83150",
+      "distanceKmFromAirport": 44,
+      "description": "Phuket's famous ladyboy cabaret performance - spectacular costumes and entertainment",
+      "distance": 15.0,
+      "URL": "https://www.simoncabaret.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Khao Sok National Park Day Trip",
+      "postcode": "84250",
+      "distanceKmFromAirport": 85,
+      "description": "Jungle safari with ancient rainforest, giant Rafflesia flowers and kayaking on Cheow Lan Lake",
+      "distance": 100.0,
+      "URL": "https://www.khaosok.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Thai Cooking Class",
+      "postcode": "83000",
+      "distanceKmFromAirport": 34,
+      "description": "Market visit and cooking class learning to make tom yum, green curry and pad thai",
+      "distance": 2.0,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Elephant Sanctuary Visit",
+      "postcode": "83110",
+      "distanceKmFromAirport": 25,
+      "description": "Ethical elephant sanctuary in the hills where rescued elephants roam freely",
+      "distance": 15.0,
+      "URL": "https://www.elephantjungle.com/"
+    }
+  ]
+}

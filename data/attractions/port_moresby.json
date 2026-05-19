@@ -1,0 +1,98 @@
+{
+  "city": "Port Moresby",
+  "country": "Papua New Guinea",
+  "airportPostcode": "121",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum & Art Gallery",
+      "postcode": "121",
+      "distanceKmFromAirport": 11,
+      "description": "Masks, ceremonial objects and artefacts from Papua New Guinea's 800+ tribes",
+      "distance": 2.0,
+      "URL": "https://www.nmag.gov.pg/"
+    },
+    {
+      "rank": 2,
+      "name": "Kokoda Track (Historical Trail)",
+      "postcode": "122",
+      "distanceKmFromAirport": 69,
+      "description": "WWII jungle track 96km over the Owen Stanley Ranges - one of history's greatest battles",
+      "distance": 60.0,
+      "URL": "https://www.kokodatrackauthority.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Parliament House",
+      "postcode": "121",
+      "distanceKmFromAirport": 12,
+      "description": "Spectacular 1984 building combining traditional Sepik haus tambaran with modern architecture",
+      "distance": 3.0,
+      "URL": "https://www.parliament.gov.pg/"
+    },
+    {
+      "rank": 4,
+      "name": "Port Moresby Nature Park",
+      "postcode": "121",
+      "distanceKmFromAirport": 14,
+      "description": "Tree kangaroos, birds of paradise and cassowaries in a natural conservation park",
+      "distance": 5.0,
+      "URL": "https://www.pmnaturepark.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Bird of Paradise Watching",
+      "postcode": "122",
+      "distanceKmFromAirport": 49,
+      "description": "PNG has 38 of the world's 42 bird of paradise species - the most spectacular birds on Earth",
+      "distance": 40.0,
+      "URL": "https://www.pngtourism.org.pg/"
+    },
+    {
+      "rank": 6,
+      "name": "Ela Beach",
+      "postcode": "121",
+      "distanceKmFromAirport": 10,
+      "description": "Popular city beach with the Ela Beach Hotel and afternoon market",
+      "distance": 1.0,
+      "URL": "https://www.elabeachhotel.com.pg/"
+    },
+    {
+      "rank": 7,
+      "name": "Bomana War Cemetery",
+      "postcode": "124",
+      "distanceKmFromAirport": 14,
+      "description": "Commonwealth War Graves for the 3,824 Allied soldiers who fell defending Port Moresby",
+      "distance": 20.0,
+      "URL": "https://www.cwgc.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Varirata National Park",
+      "postcode": "121",
+      "distanceKmFromAirport": 49,
+      "description": "Rainforest 40km from the city with birds of paradise and magnificent coastal views",
+      "distance": 40.0,
+      "URL": "https://www.cepa.gov.pg/"
+    },
+    {
+      "rank": 9,
+      "name": "Goroka Show Day Trip",
+      "postcode": "441",
+      "distanceKmFromAirport": 439,
+      "description": "Highlands tribal gathering with 100+ tribes in traditional sing-sing dress",
+      "distance": 430.0,
+      "URL": "https://www.gorokashow.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Betel Nut (Buai) Market Experience",
+      "postcode": "121",
+      "distanceKmFromAirport": 10,
+      "description": "Papua New Guinea's favourite chew - the red-staining nut sold everywhere",
+      "distance": 1.0,
+      "URL": "https://www.loloata.com"
+    }
+  ]
+}

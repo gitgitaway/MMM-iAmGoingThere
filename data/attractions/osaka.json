@@ -1,0 +1,98 @@
+{
+  "city": "Osaka",
+  "country": "Japan",
+  "airportPostcode": "549-0001",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Osaka Castle & Museum",
+      "postcode": "540-0002",
+      "distanceKmFromAirport": 53,
+      "description": "16th-century castle with a superb 8-floor museum inside — cherry blossoms and moats make it magical in spring",
+      "distance": 3.0,
+      "URL": "https://www.osakacastle.net/english/"
+    },
+    {
+      "rank": 2,
+      "name": "Dotonbori",
+      "postcode": "542-0071",
+      "distanceKmFromAirport": 52,
+      "description": "Osaka's neon-lit entertainment strip — the giant Glico man, endless takoyaki stalls and canal boat rides",
+      "distance": 2.0,
+      "URL": "https://www.dotonbori.or.jp/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Universal Studios Japan",
+      "postcode": "554-0031",
+      "distanceKmFromAirport": 58,
+      "description": "Japan's most visited theme park — The Wizarding World of Harry Potter and Super Nintendo World",
+      "distance": 8.0,
+      "URL": "https://www.usj.co.jp/web/en/us"
+    },
+    {
+      "rank": 4,
+      "name": "Nara Day Trip",
+      "postcode": "630-8212",
+      "distanceKmFromAirport": 95,
+      "description": "Ancient capital with 1,200 wild sika deer roaming freely alongside the enormous Todai-ji Buddha hall",
+      "distance": 45.0,
+      "URL": "https://www.visitnara.jp/"
+    },
+    {
+      "rank": 5,
+      "name": "Kuromon Ichiba Market",
+      "postcode": "542-0073",
+      "distanceKmFromAirport": 52,
+      "description": "Osaka's kitchen — 180 stalls of fresh seafood, wagyu and street-food heaven since 1902",
+      "distance": 2.5,
+      "URL": "https://kuromon.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Shinsekai & Tsutenkaku Tower",
+      "postcode": "556-0002",
+      "distanceKmFromAirport": 53,
+      "description": "Retro early 20th-century neighbourhood with the 1956 Tsutenkaku tower and legendary kushikatsu restaurants",
+      "distance": 3.0,
+      "URL": "https://www.tsutenkaku.co.jp/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Kyoto Day Trip",
+      "postcode": "600-8216",
+      "distanceKmFromAirport": 130,
+      "description": "Japan's cultural capital just 15 minutes by Shinkansen — Fushimi Inari, Arashiyama bamboo and Geisha district",
+      "distance": 80.0,
+      "URL": "https://kyoto.travel/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Osaka Aquarium Kaiyukan",
+      "postcode": "552-0022",
+      "distanceKmFromAirport": 57,
+      "description": "One of the world's largest aquariums — whale sharks, manta rays in a 5.4-million litre Pacific Ocean tank",
+      "distance": 7.0,
+      "URL": "https://www.kaiyukan.com/language/eng/"
+    },
+    {
+      "rank": 9,
+      "name": "Sumiyoshi Taisha Shrine",
+      "postcode": "558-0045",
+      "distanceKmFromAirport": 60,
+      "description": "One of Japan's oldest shrines (211 AD) in its own unique architectural style predating Chinese Buddhist influence",
+      "distance": 10.0,
+      "URL": "https://www.sumiyoshitaisha.net/outline/english.html"
+    },
+    {
+      "rank": 10,
+      "name": "Umeda Sky Building",
+      "postcode": "531-6023",
+      "distanceKmFromAirport": 55,
+      "description": "Two towers connected by a floating garden observatory 173 m up — particularly spectacular at night",
+      "distance": 5.0,
+      "URL": "https://www.kuchu-teien.com/english/"
+    }
+  ]
+}

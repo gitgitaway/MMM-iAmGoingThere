@@ -1,0 +1,98 @@
+{
+  "city": "Phnom Penh",
+  "country": "Cambodia",
+  "airportPostcode": "12000",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Royal Palace & Silver Pagoda",
+      "postcode": "12301",
+      "distanceKmFromAirport": 11,
+      "description": "The royal residence with the Silver Pagoda housing a life-sized gold Buddha encrusted with diamonds",
+      "distance": 1.0,
+      "URL": "https://www.royalpalace.gov.kh/"
+    },
+    {
+      "rank": 2,
+      "name": "Tuol Sleng Genocide Museum (S-21)",
+      "postcode": "12304",
+      "distanceKmFromAirport": 12,
+      "description": "Former Khmer Rouge prison where 17,000 were tortured - essential and harrowing history",
+      "distance": 2.0,
+      "URL": "https://tuolsleng.gov.kh/"
+    },
+    {
+      "rank": 3,
+      "name": "Choeung Ek Killing Fields",
+      "postcode": "12101",
+      "distanceKmFromAirport": 25,
+      "description": "Memorial to the 17,000 victims executed here during the Khmer Rouge genocide",
+      "distance": 15.0,
+      "URL": "https://www.killingfieldsmuseum.com/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Cambodia",
+      "postcode": "12202",
+      "distanceKmFromAirport": 11,
+      "description": "World's finest collection of Khmer art with sculptures from Angkor Wat",
+      "distance": 1.0,
+      "URL": "https://www.cambodiamuseum.info/"
+    },
+    {
+      "rank": 5,
+      "name": "Riverside Promenade (Sisowath Quay)",
+      "postcode": "12201",
+      "distanceKmFromAirport": 10,
+      "description": "Sunset drinks on the promenade where the Mekong and Tonle Sap rivers merge",
+      "distance": 0.5,
+      "URL": "https://www.tourismcambodia.com"
+    },
+    {
+      "rank": 6,
+      "name": "Central Market (Phsar Thmei)",
+      "postcode": "12210",
+      "distanceKmFromAirport": 11,
+      "description": "1930s Art Deco market with a distinctive yellow dome selling gold, gems and souvenirs",
+      "distance": 1.0,
+      "URL": "https://www.tourismcambodia.com"
+    },
+    {
+      "rank": 7,
+      "name": "Russian Market (Phsar Toul Tom Poung)",
+      "postcode": "12303",
+      "distanceKmFromAirport": 13,
+      "description": "Best local market for handicrafts, silk, Buddha statues and cheap street food",
+      "distance": 2.5,
+      "URL": "https://www.tourismcambodia.com"
+    },
+    {
+      "rank": 8,
+      "name": "Wat Phnom",
+      "postcode": "12202",
+      "distanceKmFromAirport": 11,
+      "description": "Hill temple that gave the city its name, with a reclining Buddha and resident monkeys",
+      "distance": 1.0,
+      "URL": "https://www.tourismcambodia.com"
+    },
+    {
+      "rank": 9,
+      "name": "Cambodian Living Arts Performance",
+      "postcode": "12202",
+      "distanceKmFromAirport": 11,
+      "description": "Traditional apsara dance and classical Khmer music performed by genocide survivors",
+      "distance": 1.0,
+      "URL": "https://www.cambodianlivingarts.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Mekong River Sunset Cruise",
+      "postcode": "12201",
+      "distanceKmFromAirport": 10,
+      "description": "Sunset boat cruise on the great river with Angkor beer and views of the Royal Palace",
+      "distance": 0.5,
+      "URL": "https://www.tourismcambodia.com"
+    }
+  ]
+}

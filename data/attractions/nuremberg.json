@@ -1,0 +1,98 @@
+{
+  "city": "Nuremberg",
+  "country": "Germany",
+  "airportPostcode": "90411",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nuremberg Castle",
+      "postcode": "90403",
+      "distanceKmFromAirport": 8,
+      "description": "Magnificent imperial fortress overlooking the old town, seat of the Holy Roman Emperors",
+      "distance": 1.0,
+      "URL": "https://www.kaiserburg-nuernberg.de/"
+    },
+    {
+      "rank": 2,
+      "name": "Documentation Centre Nazi Party Rally Grounds",
+      "postcode": "90471",
+      "distanceKmFromAirport": 10,
+      "description": "Powerful museum in the unfinished Congress Hall examining the rise of Nazism",
+      "distance": 3.0,
+      "URL": "https://www.museen.nuernberg.de/dokumentationszentrum/"
+    },
+    {
+      "rank": 3,
+      "name": "Christkindlesmarkt",
+      "postcode": "90402",
+      "distanceKmFromAirport": 8,
+      "description": "Germany's most famous Christmas market in the medieval old town since the 16th century",
+      "distance": 0.5,
+      "URL": "https://www.christkindlesmarkt.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Frauenkirche",
+      "postcode": "90402",
+      "distanceKmFromAirport": 8,
+      "description": "Gothic hall church on the main market with the famous Männleinlaufen clock",
+      "distance": 0.5,
+      "URL": "https://frauenkirche-nuernberg.de/"
+    },
+    {
+      "rank": 5,
+      "name": "German National Museum",
+      "postcode": "90402",
+      "distanceKmFromAirport": 9,
+      "description": "Largest museum of German cultural history with over 1.3 million objects",
+      "distance": 1.0,
+      "URL": "https://www.gnm.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Albrecht-Durer-Haus",
+      "postcode": "90403",
+      "distanceKmFromAirport": 9,
+      "description": "Home of the Renaissance master Albrecht Durer with multimedia exhibition",
+      "distance": 1.0,
+      "URL": "https://www.museen.nuernberg.de/duererhaus/"
+    },
+    {
+      "rank": 7,
+      "name": "Toy Museum",
+      "postcode": "90403",
+      "distanceKmFromAirport": 9,
+      "description": "Playful museum celebrating the city's 500-year toy-making tradition",
+      "distance": 1.0,
+      "URL": "https://www.museen.nuernberg.de/spielzeugmuseum/"
+    },
+    {
+      "rank": 8,
+      "name": "Handwerkerhof",
+      "postcode": "90402",
+      "distanceKmFromAirport": 9,
+      "description": "Craftsmen's courtyard with traditional Franconian speciality shops and workshops",
+      "distance": 1.0,
+      "URL": "https://www.handwerkerhof.de/"
+    },
+    {
+      "rank": 9,
+      "name": "Nazi Party Rally Grounds",
+      "postcode": "90471",
+      "distanceKmFromAirport": 10,
+      "description": "Vast complex used for mass Nazi rallies, including the Zeppelin Field",
+      "distance": 3.0,
+      "URL": "https://www.museen.nuernberg.de/"
+    },
+    {
+      "rank": 10,
+      "name": "Medieval Dungeons",
+      "postcode": "90403",
+      "distanceKmFromAirport": 9,
+      "description": "Fascinating tour through the castle's dungeons and medieval torture chambers",
+      "distance": 1.0,
+      "URL": "https://www.kaiserburg-nuernberg.de/"
+    }
+  ]
+}

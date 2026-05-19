@@ -1,0 +1,98 @@
+{
+  "city": "Pune",
+  "country": "India",
+  "airportPostcode": "411032",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Shaniwar Wada Palace",
+      "postcode": "411002",
+      "distanceKmFromAirport": 11,
+      "description": "1732 Peshwa dynasty palace complex at the heart of old Pune",
+      "distance": 2.0,
+      "URL": "https://www.shaniwadwada.in"
+    },
+    {
+      "rank": 2,
+      "name": "Aga Khan Palace",
+      "postcode": "411006",
+      "distanceKmFromAirport": 13,
+      "description": "Italian-style palace where Mahatma Gandhi was imprisoned and his wife Kasturba died",
+      "distance": 4.0,
+      "URL": "https://www.agakhanpalacepune.org"
+    },
+    {
+      "rank": 3,
+      "name": "Rajgad and Sinhagad Trekking",
+      "postcode": "412301",
+      "distanceKmFromAirport": 34,
+      "description": "Maratha Empire forts in the Western Ghats with monsoon waterfalls",
+      "distance": 25.0,
+      "URL": "https://www.maharashtratourism.gov.in"
+    },
+    {
+      "rank": 4,
+      "name": "Osho Meditation Resort",
+      "postcode": "411001",
+      "distanceKmFromAirport": 13,
+      "description": "Ashram of the controversial guru Osho - open to the public with daily meditation",
+      "distance": 4.0,
+      "URL": "https://www.osho.com"
+    },
+    {
+      "rank": 5,
+      "name": "Pataleshwar Cave Temple",
+      "postcode": "411004",
+      "distanceKmFromAirport": 11,
+      "description": "8th-century Rashtrakuta cave temple carved from a single basalt rock",
+      "distance": 2.0,
+      "URL": "https://www.punetourism.gov.in"
+    },
+    {
+      "rank": 6,
+      "name": "Koregaon Park",
+      "postcode": "411001",
+      "distanceKmFromAirport": 13,
+      "description": "Tree-lined colonial suburb with luxury hotels, cafes and the expat dining scene",
+      "distance": 4.0,
+      "URL": "https://www.koregaonpark.info"
+    },
+    {
+      "rank": 7,
+      "name": "Tribal Museum of SNDT Women's University",
+      "postcode": "411038",
+      "distanceKmFromAirport": 14,
+      "description": "Collection of tribal art from Maharashtra's Adivasi communities",
+      "distance": 6.0,
+      "URL": "https://www.sndt.ac.in"
+    },
+    {
+      "rank": 8,
+      "name": "Raja Kelkar Museum",
+      "postcode": "411002",
+      "distanceKmFromAirport": 11,
+      "description": "20,000-piece private collection of Indian artefacts including Peshwa-era miniature paintings",
+      "distance": 2.0,
+      "URL": "https://www.rajakelkarmuseum.com"
+    },
+    {
+      "rank": 9,
+      "name": "Pune-Mumbai Express Train",
+      "postcode": "411001",
+      "distanceKmFromAirport": 11,
+      "description": "The 3-hour journey through the spectacular Western Ghats on India's most scenic railway",
+      "distance": 2.0,
+      "URL": "https://www.irctc.co.in"
+    },
+    {
+      "rank": 10,
+      "name": "Misal Pav at Bedekar",
+      "postcode": "411002",
+      "distanceKmFromAirport": 11,
+      "description": "Pune's signature breakfast - spicy sprouted lentil gravy with puffed flatbread",
+      "distance": 2.0,
+      "URL": "https://www.bedekar.com"
+    }
+  ]
+}

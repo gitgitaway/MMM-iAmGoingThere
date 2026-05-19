@@ -1,0 +1,98 @@
+{
+  "city": "N'Djamena",
+  "country": "Chad",
+  "airportPostcode": "BP 33",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Chad",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 5,
+      "description": "Chad's largest museum with Sao civilization bronzes, traditional culture and natural history",
+      "distance": 2,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Mosque of N'Djamena",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 4,
+      "description": "Modern mosque with twin minarets built with Saudi Arabian funding - the largest in Chad",
+      "distance": 1,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 3,
+      "name": "Chari River Banks",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 5,
+      "description": "The confluence of the Chari and Logone rivers with fishing villages and hippo sightings",
+      "distance": 2,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 4,
+      "name": "Grand Marche Central",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 4,
+      "description": "N'Djamena's central market with camels, spices, traditional robes and desert goods",
+      "distance": 1,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 5,
+      "name": "Zakouma National Park",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 853,
+      "description": "Chad's premier wildlife park with the largest elephant herds in Central Africa",
+      "distance": 850,
+      "URL": "https://www.africanparks.org/the-parks/zakouma"
+    },
+    {
+      "rank": 6,
+      "name": "Ennedi Massif",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 1103,
+      "description": "UNESCO World Heritage sandstone plateau with prehistoric rock art and natural arches",
+      "distance": 1100,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 7,
+      "name": "Lake Chad",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 83,
+      "description": "Vast shrinking lake once the size of the Caspian Sea - now a UNESCO threatened site",
+      "distance": 80,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 8,
+      "name": "Tibesti Mountains",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 1203,
+      "description": "Remote volcanic massif with Africa's highest peak Emi Koussi at 3415m",
+      "distance": 1200,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 9,
+      "name": "Cameroon Market District",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 6,
+      "description": "Cross-border market district on the Cameroon frontier with vibrant trade",
+      "distance": 3,
+      "URL": "https://www.tourisme.gouv.td/"
+    },
+    {
+      "rank": 10,
+      "name": "Cathedral of Our Lady of Peace",
+      "postcode": "BP 33",
+      "distanceKmFromAirport": 4,
+      "description": "French colonial era Catholic cathedral in the heart of the city",
+      "distance": 1,
+      "URL": "https://www.tourisme.gouv.td/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Pamplona",
+  "country": "Spain",
+  "airportPostcode": "31194",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Running of the Bulls (San Fermin Festival)",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "The world's most famous bull run held every July during the San Fermin festival; the 800m course from the corrals to the bullring has been run since 1592",
+      "distance": 0.5,
+      "URL": "https://www.sanfermin.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Pamplona City Walls",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "Magnificent star-shaped Renaissance fortifications encircling the old town; one of the best-preserved military fortification systems in Europe",
+      "distance": 0.5,
+      "URL": "https://www.turismo.navarra.es/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Pamplona Cathedral",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "Gothic cathedral begun in 1387 with twin Baroque towers and an extraordinary 15th-century alabaster royal tomb; peaceful Gothic cloister of great beauty",
+      "distance": 0.5,
+      "URL": "https://www.turismo.navarra.es/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of Navarra",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "Outstanding regional museum in a former 16th-century hospital with collections of Roman mosaics, medieval art and Goya portraits of striking quality",
+      "distance": 0.5,
+      "URL": "https://www.museodenavarra.navarra.es/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Plaza del Castillo",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "Pamplona's grand central square with elegant cafes where Ernest Hemingway drank while writing The Sun Also Rises; the social heart of the city",
+      "distance": 0.3,
+      "URL": "https://www.turismo.navarra.es/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Citadel (Ciudadela)",
+      "postcode": "31004",
+      "distanceKmFromAirport": 8,
+      "description": "Philip II's star-shaped Renaissance citadel from 1571, now a public park; one of Spain's best-preserved examples of 16th-century military architecture",
+      "distance": 0.8,
+      "URL": "https://www.turismo.navarra.es/en/"
+    },
+    {
+      "rank": 7,
+      "name": "University of Navarra Museum",
+      "postcode": "31009",
+      "distanceKmFromAirport": 9,
+      "description": "Extraordinary private university art museum with works by Picasso, Miro, Chillida and major 20th-century Spanish artists in a purpose-built modern building",
+      "distance": 2.0,
+      "URL": "https://www.unav.edu/web/museo-universidad-de-navarra/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Taconera Park",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "Beautiful 19th-century public park adjacent to the city walls with a moat housing deer, ducks and peacocks; one of Spain's most charming urban parks",
+      "distance": 0.8,
+      "URL": "https://www.turismo.navarra.es/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Hemingway Route",
+      "postcode": "31001",
+      "distanceKmFromAirport": 8,
+      "description": "Walk in the footsteps of Hemingway through the bars, cafes and squares he immortalised in The Sun Also Rises; a self-guided literary tour of old Pamplona",
+      "distance": 0.5,
+      "URL": "https://www.turismo.navarra.es/en/"
+    },
+    {
+      "rank": 10,
+      "name": "El Sadar Stadium",
+      "postcode": "31006",
+      "distanceKmFromAirport": 9,
+      "description": "Home of CA Osasuna with 23,576 capacity; the club has participated in the UEFA Europa League and is known for its passionate red-and-blue Navarre support",
+      "distance": 2.5,
+      "URL": "https://www.osasuna.es/en/"
+    }
+  ]
+}

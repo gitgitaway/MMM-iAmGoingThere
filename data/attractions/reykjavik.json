@@ -1,0 +1,98 @@
+{
+  "city": "Reykjavik",
+  "country": "Iceland",
+  "airportPostcode": "235",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Northern Lights",
+      "postcode": "101",
+      "distanceKmFromAirport": 60,
+      "description": "Aurora borealis viewing — September to March outside the city or on organized tours into the darkness",
+      "distance": 10.0,
+      "URL": "https://www.northernlightsiceland.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Golden Circle Day Trip",
+      "postcode": "801",
+      "distanceKmFromAirport": 150,
+      "description": "Iceland's classic 300-km loop: Geysir hot spring, Gullfoss waterfall and Thingvellir National Park",
+      "distance": 100.0,
+      "URL": "https://www.inspiredbyiceland.com/plan-your-trip/golden-circle/"
+    },
+    {
+      "rank": 3,
+      "name": "Blue Lagoon",
+      "postcode": "240",
+      "distanceKmFromAirport": 100,
+      "description": "Otherworldly geothermal spa in a lava field — milky blue 39°C waters, silica mud masks and sauna",
+      "distance": 50.0,
+      "URL": "https://www.bluelagoon.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Hallgrimskirkja Church",
+      "postcode": "101",
+      "distanceKmFromAirport": 51,
+      "description": "Reykjavik's volcanic lava column-inspired landmark church — tower elevator offers panoramic views",
+      "distance": 1.0,
+      "URL": "https://www.hallgrimskirkja.is/en/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Iceland",
+      "postcode": "107",
+      "distanceKmFromAirport": 52,
+      "description": "Viking Age to modern Iceland — from the famous 12th-century Valkyrie figure to 20th-century exhibits",
+      "distance": 1.5,
+      "URL": "https://www.thjodminjasafn.is/english"
+    },
+    {
+      "rank": 6,
+      "name": "Harpa Concert Hall",
+      "postcode": "101",
+      "distanceKmFromAirport": 50,
+      "description": "Stunning multi-coloured glass facade designed with Olafur Eliasson on the Reykjavik waterfront",
+      "distance": 0.5,
+      "URL": "https://en.harpa.is/"
+    },
+    {
+      "rank": 7,
+      "name": "Reykjavik Street Food & Laugavegur",
+      "postcode": "101",
+      "distanceKmFromAirport": 51,
+      "description": "The main shopping street packed with hot dog stands, fish and chips and the famous Baejarins Beztu pylsur",
+      "distance": 0.8,
+      "URL": "https://www.visitreykjavik.is/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Whale Watching from Old Harbour",
+      "postcode": "101",
+      "distanceKmFromAirport": 51,
+      "description": "Year-round boat tours from Reykjavik's Old Harbour to spot minke whales, humpbacks and dolphins",
+      "distance": 1.0,
+      "URL": "https://www.icewhale.is/"
+    },
+    {
+      "rank": 9,
+      "name": "South Coast Waterfalls Day Trip",
+      "postcode": "800",
+      "distanceKmFromAirport": 200,
+      "description": "Seljalandsfoss, Skogafoss, Reynisfjara black sand beach and the town of Vik — 180 km return",
+      "distance": 150.0,
+      "URL": "https://www.inspiredbyiceland.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Perlan Museum",
+      "postcode": "105",
+      "distanceKmFromAirport": 52,
+      "description": "Futuristic dome museum with an indoor ice cave, planetarium and the best views of Reykjavik",
+      "distance": 2.0,
+      "URL": "https://perlan.is/en/"
+    }
+  ]
+}

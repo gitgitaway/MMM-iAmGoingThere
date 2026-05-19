@@ -1,0 +1,98 @@
+{
+  "city": "Riga",
+  "country": "Latvia",
+  "airportPostcode": "LV-1053",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Riga Old Town (Vecrīga)",
+      "postcode": "LV-1050",
+      "distanceKmFromAirport": 14,
+      "description": "UNESCO World Heritage medieval old town with Gothic churches, narrow lanes and Riga Cathedral",
+      "distance": 0.5,
+      "URL": "https://www.latvia.travel/en/riga"
+    },
+    {
+      "rank": 2,
+      "name": "Art Nouveau District",
+      "postcode": "LV-1010",
+      "distanceKmFromAirport": 14,
+      "description": "The world's highest concentration of Art Nouveau buildings — over 800 facades in Riga's centre",
+      "distance": 1.5,
+      "URL": "https://www.rigajugendstil.lv/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Riga Central Market",
+      "postcode": "LV-1050",
+      "distanceKmFromAirport": 14,
+      "description": "Europe's largest market housed in five converted WWI Zeppelin hangars — a Latvian institution",
+      "distance": 1.0,
+      "URL": "https://www.rct.lv/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Latvian National Museum of Art",
+      "postcode": "LV-1010",
+      "distanceKmFromAirport": 14,
+      "description": "Grand 1905 neoclassical building housing the finest collection of Latvian art",
+      "distance": 1.5,
+      "URL": "https://www.lnmm.lv/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Freedom Monument",
+      "postcode": "LV-1050",
+      "distanceKmFromAirport": 14,
+      "description": "Beloved symbol of Latvian independence with the Milda statue — changing of the guard daily",
+      "distance": 0.8,
+      "URL": "https://www.latvia.travel/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Riga Black Balsam Experience",
+      "postcode": "LV-1050",
+      "distanceKmFromAirport": 14,
+      "description": "Latvia's national herbal bitters — taste it in bars across the Old Town and visit the Latvijas Balzams distillery",
+      "distance": 0.5,
+      "URL": "https://www.latvijasbalzams.lv/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of the Occupation of Latvia",
+      "postcode": "LV-1050",
+      "distanceKmFromAirport": 13,
+      "description": "Powerful museum documenting Soviet and Nazi occupations — one of the Baltic states' most visited sites",
+      "distance": 0.3,
+      "URL": "https://www.okupacijasmuzejs.lv/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Ethnographic Open Air Museum",
+      "postcode": "LV-1024",
+      "distanceKmFromAirport": 22,
+      "description": "100-hectare open air museum with 118 original Latvian rural buildings from the 17th to 20th centuries",
+      "distance": 9.0,
+      "URL": "https://www.brivdabasmuzejs.lv/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Jurmala Beach Resort",
+      "postcode": "LV-2015",
+      "distanceKmFromAirport": 38,
+      "description": "Baltic Sea resort town 25 km west with wooden Art Nouveau villas and white-sand beaches",
+      "distance": 25.0,
+      "URL": "https://www.jurmala.lv/en/"
+    },
+    {
+      "rank": 10,
+      "name": "St Peter's Church Tower",
+      "postcode": "LV-1050",
+      "distanceKmFromAirport": 14,
+      "description": "Iconic 123-metre Gothic steeple with a viewing platform offering the finest views of Riga's rooftops",
+      "distance": 0.5,
+      "URL": "https://www.peterbaznica.riga.lv/en/"
+    }
+  ]
+}

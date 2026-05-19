@@ -1,0 +1,98 @@
+{
+  "city": "Roseau",
+  "country": "Dominica",
+  "airportPostcode": "DM0000",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Boiling Lake (Morne Trois Pitons)",
+      "postcode": "DM3",
+      "distanceKmFromAirport": 55,
+      "description": "UNESCO World Heritage second largest boiling lake in the world - a challenging 6-hour rainforest hike",
+      "distance": 13.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 2,
+      "name": "Trafalgar Falls",
+      "postcode": "DM2",
+      "distanceKmFromAirport": 57,
+      "description": "Twin waterfalls in a volcanic valley - one hot, one cold - accessible to all fitness levels",
+      "distance": 9.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 3,
+      "name": "Titou Gorge",
+      "postcode": "DM2",
+      "distanceKmFromAirport": 59,
+      "description": "Swim through a narrow volcanic gorge to a hidden waterfall - filmed in Pirates of the Caribbean",
+      "distance": 11.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 4,
+      "name": "Morne Trois Pitons National Park",
+      "postcode": "DM3",
+      "distanceKmFromAirport": 55,
+      "description": "UNESCO World Heritage tropical rainforest with volcano fumaroles, sulphur springs and crater lakes",
+      "distance": 12.0,
+      "URL": "https://whc.unesco.org/en/list/814"
+    },
+    {
+      "rank": 5,
+      "name": "Kalinago Barana Aute Cultural Village",
+      "postcode": "DM5",
+      "distanceKmFromAirport": 25,
+      "description": "Living village of the Kalinago - the last surviving indigenous people of the Caribbean",
+      "distance": 50.0,
+      "URL": "https://kalinagobaranaaute.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Whale Watching & Sperm Whales",
+      "postcode": "DM1",
+      "distanceKmFromAirport": 50,
+      "description": "Dominica has resident sperm whales year-round - a unique Caribbean experience",
+      "distance": 1.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 7,
+      "name": "Roseau Saturday Market",
+      "postcode": "DM1",
+      "distanceKmFromAirport": 50,
+      "description": "Fresh produce market with rare tropical fruits unique to Dominica",
+      "distance": 0.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 8,
+      "name": "Indian River Boat Trip",
+      "postcode": "DM4",
+      "distanceKmFromAirport": 20,
+      "description": "Row along the mysterious mangrove river used in Pirates of the Caribbean filming",
+      "distance": 40.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 9,
+      "name": "Champagne Reef Snorkelling",
+      "postcode": "DM6",
+      "distanceKmFromAirport": 56,
+      "description": "Volcanic bubbles rising from the sea floor create an underwater champagne effect",
+      "distance": 8.0,
+      "URL": "https://dominica.dm/"
+    },
+    {
+      "rank": 10,
+      "name": "Crab Back (Stuffed Land Crab)",
+      "postcode": "DM1",
+      "distanceKmFromAirport": 50,
+      "description": "Dominica's signature dish - mountain crab meat stuffed back in its shell with seasoned rice",
+      "distance": 0.0,
+      "URL": "https://dominica.dm/"
+    }
+  ]
+}

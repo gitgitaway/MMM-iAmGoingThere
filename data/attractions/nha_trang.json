@@ -1,0 +1,98 @@
+{
+  "city": "Nha Trang",
+  "country": "Vietnam",
+  "airportPostcode": "650000",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Po Nagar Cham Towers",
+      "postcode": "650000",
+      "distanceKmFromAirport": 33,
+      "description": "8th-century Cham Hindu temple towers on a hilltop above the mouth of the Cai River",
+      "distance": 2.0,
+      "URL": "https://ponagar.vn/"
+    },
+    {
+      "rank": 2,
+      "name": "Nha Trang Bay Island Hopping",
+      "postcode": "650000",
+      "distanceKmFromAirport": 40,
+      "description": "Boat trip to offshore islands with snorkelling, beach time and seafood lunch",
+      "distance": 5.0,
+      "URL": "https://www.vietnamtourism.com"
+    },
+    {
+      "rank": 3,
+      "name": "Nha Trang Beach",
+      "postcode": "650000",
+      "distanceKmFromAirport": 36,
+      "description": "6km white-sand beach curving around the bay with a vibrant cafe scene",
+      "distance": 1.0,
+      "URL": "https://www.vinpearl.com"
+    },
+    {
+      "rank": 4,
+      "name": "VinWonders Theme Park (Vinpearl)",
+      "postcode": "650000",
+      "distanceKmFromAirport": 40,
+      "description": "Cable car to the island amusement park across Nha Trang Bay",
+      "distance": 5.0,
+      "URL": "https://vinwonders.com/en/vinwonders-nha-trang/"
+    },
+    {
+      "rank": 5,
+      "name": "Ba Ho Waterfalls",
+      "postcode": "650000",
+      "distanceKmFromAirport": 20,
+      "description": "Three mountain waterfall pools accessible by motorbike and jungle trek",
+      "distance": 20.0,
+      "URL": "https://www.vietnamtourism.com"
+    },
+    {
+      "rank": 6,
+      "name": "Hot Spring Mud Bath",
+      "postcode": "650000",
+      "distanceKmFromAirport": 25,
+      "description": "Volcanic mud baths in private tubs - popular Nha Trang spa experience",
+      "distance": 10.0,
+      "URL": "https://i-resort.vn/"
+    },
+    {
+      "rank": 7,
+      "name": "Long Son Pagoda",
+      "postcode": "650000",
+      "distanceKmFromAirport": 36,
+      "description": "Buddhist pagoda with a giant white Buddha on the hillside above the city",
+      "distance": 1.0,
+      "URL": "https://www.vietnamtourism.com"
+    },
+    {
+      "rank": 8,
+      "name": "Pasteur Institute Museum",
+      "postcode": "650000",
+      "distanceKmFromAirport": 36,
+      "description": "Former research institute of Alexandre Yersin who discovered plague",
+      "distance": 1.0,
+      "URL": "https://www.vietnamtourism.com"
+    },
+    {
+      "rank": 9,
+      "name": "Scuba Diving in Nha Trang",
+      "postcode": "650000",
+      "distanceKmFromAirport": 25,
+      "description": "Over 25 dive sites in the marine protected area around the bay islands",
+      "distance": 10.0,
+      "URL": "https://www.vietnamtourism.com"
+    },
+    {
+      "rank": 10,
+      "name": "Bun Ca (Fish Noodle Soup)",
+      "postcode": "650000",
+      "distanceKmFromAirport": 36,
+      "description": "Nha Trang's signature breakfast soup with fresh fish, pineapple and herbs",
+      "distance": 1.0,
+      "URL": "https://www.vietnamtourism.com"
+    }
+  ]
+}

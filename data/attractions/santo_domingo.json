@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Colonial City (Ciudad Colonial)",
-      "description": "UNESCO World Heritage first European city in the Americas with cobblestone streets"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "UNESCO World Heritage first European city in the Americas with cobblestone streets",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/526"
     },
     {
       "rank": 2,
       "name": "Alcazar de Colon",
-      "description": "16th-century palace of Diego Columbus, Christopher Columbus's son"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "16th-century palace of Diego Columbus, Christopher Columbus's son",
+      "distance": 0.0,
+      "URL": "https://www.museoalcazardecolon.gob.do/"
     },
     {
       "rank": 3,
       "name": "Cathedral of Santa Maria la Menor",
-      "description": "Oldest cathedral in the Americas, completed in 1541, housing Columbus's remains"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "Oldest cathedral in the Americas, completed in 1541, housing Columbus's remains",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/526"
     },
     {
       "rank": 4,
       "name": "Faro a Colon (Columbus Lighthouse)",
-      "description": "Cross-shaped lighthouse mausoleum housing Columbus's remains with a laser cross"
+      "postcode": "10205",
+      "distanceKmFromAirport": 25,
+      "description": "Cross-shaped lighthouse mausoleum housing Columbus's remains with a laser cross",
+      "distance": 5.0,
+      "URL": "https://whc.unesco.org/en/list/526"
     },
     {
       "rank": 5,
       "name": "Fortaleza Ozama",
-      "description": "Oldest European fortress in the Americas, built in 1502"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "Oldest European fortress in the Americas, built in 1502",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/526"
     },
     {
       "rank": 6,
       "name": "Museo de las Casas Reales",
-      "description": "16th-century Royal Court building with colonial artefacts and sunken treasure"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "16th-century Royal Court building with colonial artefacts and sunken treasure",
+      "distance": 0.0,
+      "URL": "https://www.museodelascasasreales.gov.do/"
     },
     {
       "rank": 7,
       "name": "Zona Colonial Night Walk",
-      "description": "Evening stroll through the floodlit colonial quarter with music and street food"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "Evening stroll through the floodlit colonial quarter with music and street food",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/526"
     },
     {
       "rank": 8,
       "name": "Samana Peninsula Day Trip",
-      "description": "Whale watching January-March in Samana Bay - thousands of humpback whales"
+      "postcode": "32000",
+      "distanceKmFromAirport": 265,
+      "description": "Whale watching January-March in Samana Bay - thousands of humpback whales",
+      "distance": 240.0,
+      "URL": "https://www.gosamana.com/"
     },
     {
       "rank": 9,
       "name": "Punta Cana Day Trip",
-      "description": "Caribbean's finest beaches 3 hours east - white sand, coconut palms, turquoise water"
+      "postcode": "23000",
+      "distanceKmFromAirport": 170,
+      "description": "Caribbean's finest beaches 3 hours east - white sand, coconut palms, turquoise water",
+      "distance": 200.0,
+      "URL": "https://www.puntacana.com/"
     },
     {
       "rank": 10,
       "name": "Mercado Modelo",
-      "description": "Sprawling craft market with Haitian art, Dominican cigars, rum and voodoo dolls"
+      "postcode": "10210",
+      "distanceKmFromAirport": 30,
+      "description": "Sprawling craft market with Haitian art, Dominican cigars, rum and voodoo dolls",
+      "distance": 1.0,
+      "URL": "https://whc.unesco.org/en/list/526"
     }
   ]
 }

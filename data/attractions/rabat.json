@@ -1,0 +1,98 @@
+{
+  "city": "Rabat",
+  "country": "Morocco",
+  "airportPostcode": "10000",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Historic Medina & Kasbah des Oudaias",
+      "postcode": "10000",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO World Heritage blue and white kasbah citadel with garden and museum",
+      "distance": 1.0,
+      "URL": "https://www.rabattourisme.ma"
+    },
+    {
+      "rank": 2,
+      "name": "Hassan Tower & Mohammed V Mausoleum",
+      "postcode": "10000",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage unfinished 12th-century minaret and royal tomb",
+      "distance": 1.5,
+      "URL": "https://www.culturegouvma.org"
+    },
+    {
+      "rank": 3,
+      "name": "Chellah Necropolis",
+      "postcode": "10000",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage Roman and Merinid ruins inside medieval ramparts with storks",
+      "distance": 2.0,
+      "URL": "https://www.culturegouvma.org"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of Modern and Contemporary Art",
+      "postcode": "10000",
+      "distanceKmFromAirport": 13,
+      "description": "Morocco's finest contemporary Moroccan art collection",
+      "distance": 1.5,
+      "URL": "https://www.mmc.ma"
+    },
+    {
+      "rank": 5,
+      "name": "National Archaeological Museum",
+      "postcode": "10020",
+      "distanceKmFromAirport": 12,
+      "description": "Pre-Islamic and Roman antiquities from across Morocco",
+      "distance": 1.0,
+      "URL": "https://www.culturegouvma.org"
+    },
+    {
+      "rank": 6,
+      "name": "Sale Medina Day Trip",
+      "postcode": "11000",
+      "distanceKmFromAirport": 15,
+      "description": "Medieval walled city across the Bouregreg River with the famous Blue Gate",
+      "distance": 4.0,
+      "URL": "https://www.saletourisme.ma"
+    },
+    {
+      "rank": 7,
+      "name": "Avenue Mohammed V",
+      "postcode": "10010",
+      "distanceKmFromAirport": 12,
+      "description": "French Protectorate administrative district with Art Deco and Moorish architecture",
+      "distance": 0.5,
+      "URL": "https://www.rabattourisme.ma"
+    },
+    {
+      "rank": 8,
+      "name": "Jewish Cemetery & Synagogue",
+      "postcode": "10000",
+      "distanceKmFromAirport": 13,
+      "description": "Mellah heritage site of Rabat's historic Jewish community",
+      "distance": 1.5,
+      "URL": "https://www.culturegouvma.org"
+    },
+    {
+      "rank": 9,
+      "name": "Oudaias Museum (Musee des Oudaias)",
+      "postcode": "10000",
+      "distanceKmFromAirport": 12,
+      "description": "Traditional Moroccan arts in the kasbah's 17th-century palace",
+      "distance": 1.0,
+      "URL": "https://www.culturegouvma.org"
+    },
+    {
+      "rank": 10,
+      "name": "Harira Soup at the Medina",
+      "postcode": "10000",
+      "distanceKmFromAirport": 12,
+      "description": "Morocco's legendary lentil and tomato soup with lamb - perfect break fast food",
+      "distance": 1.0,
+      "URL": "https://www.rabattourisme.ma"
+    }
+  ]
+}

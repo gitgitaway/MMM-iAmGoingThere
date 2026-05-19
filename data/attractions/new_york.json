@@ -1,0 +1,98 @@
+{
+  "city": "New York",
+  "country": "USA",
+  "airportPostcode": "11430",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Statue of Liberty",
+      "postcode": "10004",
+      "distanceKmFromAirport": 35,
+      "description": "Iconic 19th-century monument on Liberty Island in New York Harbor",
+      "distance": 10.5,
+      "URL": "https://www.nps.gov/stli/index.htm"
+    },
+    {
+      "rank": 2,
+      "name": "Central Park",
+      "postcode": "10024",
+      "distanceKmFromAirport": 25,
+      "description": "843-acre urban oasis in the heart of Manhattan",
+      "distance": 3.5,
+      "URL": "https://www.centralparknyc.org/"
+    },
+    {
+      "rank": 3,
+      "name": "The Metropolitan Museum of Art",
+      "postcode": "10028",
+      "distanceKmFromAirport": 22,
+      "description": "World-class art collection spanning 5,000 years of history",
+      "distance": 4.5,
+      "URL": "https://www.metmuseum.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Times Square",
+      "postcode": "10036",
+      "distanceKmFromAirport": 24,
+      "description": "Dazzling entertainment hub and the crossroads of the world",
+      "distance": 1.0,
+      "URL": "https://www.timessquarenyc.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Empire State Building",
+      "postcode": "10118",
+      "distanceKmFromAirport": 24,
+      "description": "Art Deco skyscraper with stunning observation deck views",
+      "distance": 1.8,
+      "URL": "https://www.esbnyc.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Brooklyn Bridge Walk",
+      "postcode": "11201",
+      "distanceKmFromAirport": 25,
+      "description": "Historic 1883 suspension bridge with panoramic city views",
+      "distance": 6.0,
+      "URL": "https://www.nycgo.com/attractions/brooklyn-bridge"
+    },
+    {
+      "rank": 7,
+      "name": "9/11 Memorial & Museum",
+      "postcode": "10007",
+      "distanceKmFromAirport": 25,
+      "description": "Powerful tribute commemorating the September 11 attacks",
+      "distance": 5.5,
+      "URL": "https://www.911memorial.org/"
+    },
+    {
+      "rank": 8,
+      "name": "The High Line",
+      "postcode": "10011",
+      "distanceKmFromAirport": 25,
+      "description": "Elevated linear park on a historic freight rail line",
+      "distance": 3.0,
+      "URL": "https://www.thehighline.org/"
+    },
+    {
+      "rank": 9,
+      "name": "One World Observatory",
+      "postcode": "10007",
+      "distanceKmFromAirport": 25,
+      "description": "360-degree views from the top of One World Trade Center",
+      "distance": 5.5,
+      "URL": "https://www.oneworldobservatory.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Broadway Shows",
+      "postcode": "10036",
+      "distanceKmFromAirport": 24,
+      "description": "World-famous theatre district with dozens of live shows nightly",
+      "distance": 1.0,
+      "URL": "https://www.broadway.com/"
+    }
+  ]
+}

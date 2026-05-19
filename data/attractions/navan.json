@@ -1,0 +1,98 @@
+{
+  "city": "Navan",
+  "country": "Ireland",
+  "airportPostcode": "K67 E5X7",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Newgrange & Brú na Bóinne (UNESCO)",
+      "postcode": "C15 XR64",
+      "distanceKmFromAirport": 40,
+      "description": "The world's most celebrated passage tomb — 5,200 years old, aligned with the winter solstice sunrise, surrounded by 90+ monuments",
+      "distance": 8,
+      "URL": "https://www.worldheritageireland.ie/bru-na-boinne/"
+    },
+    {
+      "rank": 2,
+      "name": "Hill of Tara (Seat of High Kings)",
+      "postcode": "C15 A4P2",
+      "distanceKmFromAirport": 42,
+      "description": "The ancient ritual and burial landscape where the High Kings of Ireland were inaugurated — a monument-studded hilltop with legendary status",
+      "distance": 9,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "Trim Castle (Largest Anglo-Norman Castle)",
+      "postcode": "C15 HT68",
+      "distanceKmFromAirport": 45,
+      "description": "Ireland's largest Anglo-Norman castle (1173) with 15 towers — filming location for Braveheart — set beside the River Boyne",
+      "distance": 12,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Navan Racecourse",
+      "postcode": "C15 X3R6",
+      "distanceKmFromAirport": 45,
+      "description": "One of Ireland's finest National Hunt racecourses — home of the Irish Grand National and major fixtures throughout the year",
+      "distance": 0.5,
+      "URL": "https://www.navanracecourse.ie/"
+    },
+    {
+      "rank": 5,
+      "name": "Hill of Slane",
+      "postcode": "C15 T6K1",
+      "distanceKmFromAirport": 48,
+      "description": "The hill where St Patrick lit the Paschal Fire in 433 AD defying the High King — ruined friary and superb views over the Boyne valley",
+      "distance": 8,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 6,
+      "name": "Kells (Market Cross & Book of Kells Link)",
+      "postcode": "A82 ED95",
+      "distanceKmFromAirport": 55,
+      "description": "Monastic town where the Book of Kells may have been illuminated — a round tower, four high crosses and a medieval market cross in the town square",
+      "distance": 14,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Slane Castle & Village",
+      "postcode": "C15 KT37",
+      "distanceKmFromAirport": 50,
+      "description": "Gothic Revival castle in the beautiful Boyne valley — famous for hosting U2, Madonna and other megaconcerts on the sweeping lawns",
+      "distance": 8,
+      "URL": "https://www.slanecastle.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Bective Abbey (Cistercian Ruins)",
+      "postcode": "C15 V6K1",
+      "distanceKmFromAirport": 50,
+      "description": "Atmospheric 12th-century Cistercian abbey ruins on the River Boyne — filming location for Braveheart with beautiful cloisters",
+      "distance": 8,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Loughcrew Megalithic Centre (Day Trip)",
+      "postcode": "N51 WV64",
+      "distanceKmFromAirport": 65,
+      "description": "Hilltop complex of 30 passage tombs from 3500 BC with spectacular solar alignments — rarely visited, outstanding views across Ireland",
+      "distance": 22,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Causey Farm Heritage Experience",
+      "postcode": "C15 EX72",
+      "distanceKmFromAirport": 52,
+      "description": "Award-winning authentic Irish farm experience with turf-cutting, thatch weaving, storytelling and an Irish céilí — a favourite with visitors",
+      "distance": 10,
+      "URL": "https://www.causeyfarm.com/"
+    }
+  ]
+}

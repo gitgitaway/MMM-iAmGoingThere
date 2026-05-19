@@ -1,0 +1,98 @@
+{
+  "city": "Quito",
+  "country": "Ecuador",
+  "airportPostcode": "170150",
+  "airportDistanceKm": 37,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Historic Centre of Quito",
+      "postcode": "170150",
+      "distanceKmFromAirport": 37,
+      "description": "UNESCO World Heritage best-preserved colonial city centre in Latin America",
+      "distance": 0.5,
+      "URL": "https://www.quito.com.ec"
+    },
+    {
+      "rank": 2,
+      "name": "Middle of the World Monument (Mitad del Mundo)",
+      "postcode": "170902",
+      "distanceKmFromAirport": 28,
+      "description": "Stand astride the equator 22km north of Quito at the famous yellow line",
+      "distance": 22.0,
+      "URL": "https://www.mitaddelmundo.com"
+    },
+    {
+      "rank": 3,
+      "name": "Galapagos Islands Trip",
+      "postcode": "170001",
+      "distanceKmFromAirport": 1035,
+      "description": "Darwin's evolution laboratory - finches, giant tortoises and blue-footed boobies",
+      "distance": 1000.0,
+      "URL": "https://www.galapagos.org"
+    },
+    {
+      "rank": 4,
+      "name": "TeleferiQo Cable Car",
+      "postcode": "170150",
+      "distanceKmFromAirport": 41,
+      "description": "Cable car up the flanks of the Pichincha volcano to 4,050m with Quito views",
+      "distance": 5.0,
+      "URL": "https://www.teleferico.com.ec"
+    },
+    {
+      "rank": 5,
+      "name": "Church of La Compania de Jesus",
+      "postcode": "170150",
+      "distanceKmFromAirport": 37,
+      "description": "Jesuit baroque church with seven tonnes of gold leaf - South America's most ornate church",
+      "distance": 0.3,
+      "URL": "https://www.iglesialcompania.org"
+    },
+    {
+      "rank": 6,
+      "name": "Cotopaxi National Park",
+      "postcode": "050150",
+      "distanceKmFromAirport": 106,
+      "description": "Day trip to the world's highest active volcano (5,897m) with snow-capped cone",
+      "distance": 75.0,
+      "URL": "https://www.ecuadorgreen.com"
+    },
+    {
+      "rank": 7,
+      "name": "Otavalo Indigenous Market",
+      "postcode": "100201",
+      "distanceKmFromAirport": 118,
+      "description": "Largest indigenous market in South America with Otavalan textiles, 2 hours north",
+      "distance": 95.0,
+      "URL": "https://www.otavalomarket.com"
+    },
+    {
+      "rank": 8,
+      "name": "La Ronda Street",
+      "postcode": "170150",
+      "distanceKmFromAirport": 37,
+      "description": "Restored colonial alley with art galleries, traditional music and local liqueur shots",
+      "distance": 0.5,
+      "URL": "https://www.quito.com.ec"
+    },
+    {
+      "rank": 9,
+      "name": "Amazon Jungle Tour",
+      "postcode": "220001",
+      "distanceKmFromAirport": 282,
+      "description": "2-3 day lodge-based tour to Yasuni National Park or the Napo River",
+      "distance": 250.0,
+      "URL": "https://www.yasuni.org"
+    },
+    {
+      "rank": 10,
+      "name": "Quito Free Walking Tour",
+      "postcode": "170150",
+      "distanceKmFromAirport": 37,
+      "description": "Colonial architecture with San Francisco convent and Basilica del Voto Nacional",
+      "distance": 0.5,
+      "URL": "https://www.quito.com.ec"
+    }
+  ]
+}

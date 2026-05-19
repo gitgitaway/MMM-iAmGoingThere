@@ -1,0 +1,98 @@
+{
+  "city": "Reus",
+  "country": "Spain",
+  "airportPostcode": "43204",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gaudi Centre Reus",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Interactive museum dedicated to Antoni Gaudi, born in Reus in 1852",
+      "distance": 0.3,
+      "URL": "https://www.gaudicentre.cat"
+    },
+    {
+      "rank": 2,
+      "name": "Modernist Architecture Route",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Self-guided tour of Reus's remarkable collection of Catalan Modernista buildings",
+      "distance": 0.5,
+      "URL": "https://www.visit.reus.cat"
+    },
+    {
+      "rank": 3,
+      "name": "Casa Navàs",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Spectacular Modernista mansion by Lluís Domènech i Montaner, a masterpiece of the style",
+      "distance": 0.3,
+      "URL": "https://www.casanavas.org"
+    },
+    {
+      "rank": 4,
+      "name": "Prim Square",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Historic main square with the Prim statue and surrounding medieval buildings",
+      "distance": 0.2,
+      "URL": "https://www.visit.reus.cat"
+    },
+    {
+      "rank": 5,
+      "name": "Reus Museum",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Archaeological and art collections tracing the city's history from prehistoric times",
+      "distance": 0.4,
+      "URL": "https://www.museudereus.cat"
+    },
+    {
+      "rank": 6,
+      "name": "Church of Sant Pere",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Gothic church with an octagonal bell tower dominating the city skyline",
+      "distance": 0.3,
+      "URL": "https://www.iglesiesantpere.cat"
+    },
+    {
+      "rank": 7,
+      "name": "Mercadal Market Hall",
+      "postcode": "43201",
+      "distanceKmFromAirport": 3,
+      "description": "Cast-iron covered market in the heart of the old town",
+      "distance": 0.3,
+      "URL": "https://www.mercadal.cat"
+    },
+    {
+      "rank": 8,
+      "name": "Port Aventura World",
+      "postcode": "43840",
+      "distanceKmFromAirport": 12,
+      "description": "One of Europe's largest theme parks just 10km from the city centre",
+      "distance": 10.0,
+      "URL": "https://www.portaventuraworld.com"
+    },
+    {
+      "rank": 9,
+      "name": "Tarragona Roman Ruins",
+      "postcode": "43003",
+      "distanceKmFromAirport": 16,
+      "description": "UNESCO Roman city with amphitheatre, circus and forum just 15km away",
+      "distance": 14.0,
+      "URL": "https://www.tarragonaturisme.cat"
+    },
+    {
+      "rank": 10,
+      "name": "Delta de l'Ebre",
+      "postcode": "43580",
+      "distanceKmFromAirport": 62,
+      "description": "Spectacular Ebro Delta nature reserve with flamingos and pristine beaches",
+      "distance": 60.0,
+      "URL": "https://www.ebregreen.org"
+    }
+  ]
+}

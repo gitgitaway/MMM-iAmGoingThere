@@ -1,0 +1,98 @@
+{
+  "city": "Novosibirsk",
+  "country": "Russia",
+  "airportPostcode": "633109",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Novosibirsk Opera and Ballet Theatre",
+      "postcode": "630099",
+      "distanceKmFromAirport": 17,
+      "description": "Russia's largest opera and ballet theatre in a striking neo-Classical building",
+      "distance": 0.5,
+      "URL": "https://novat.nsk.ru/"
+    },
+    {
+      "rank": 2,
+      "name": "Novosibirsk Zoo",
+      "postcode": "630007",
+      "distanceKmFromAirport": 18,
+      "description": "One of Russia's top zoos with 700+ species including the famous white tigers and snow leopards",
+      "distance": 2.0,
+      "URL": "https://zoonovosib.ru/"
+    },
+    {
+      "rank": 3,
+      "name": "Akademgorodok (Science City)",
+      "postcode": "630090",
+      "distanceKmFromAirport": 35,
+      "description": "Soviet-era academic city in the taiga forest, home to the Siberian Branch of the Russian Academy of Sciences",
+      "distance": 25.0,
+      "URL": "https://www.sbras.ru/"
+    },
+    {
+      "rank": 4,
+      "name": "Novosibirsk State Art Museum",
+      "postcode": "630007",
+      "distanceKmFromAirport": 17,
+      "description": "Regional art collection with Russian academic painting and Siberian folk art",
+      "distance": 1.0,
+      "URL": "https://artmuseum.ru/"
+    },
+    {
+      "rank": 5,
+      "name": "Trans-Siberian Railway Museum",
+      "postcode": "630004",
+      "distanceKmFromAirport": 18,
+      "description": "Museum at the original 1897 Novosibirsk station on the world's longest railway",
+      "distance": 2.0,
+      "URL": "https://www.tourism.novosibirsk.ru"
+    },
+    {
+      "rank": 6,
+      "name": "Ob Sea Beach",
+      "postcode": "630003",
+      "distanceKmFromAirport": 22,
+      "description": "Vast man-made Ob reservoir beach known as the 'Siberian Sea' for summer swimming",
+      "distance": 15.0,
+      "URL": "https://www.tourism.novosibirsk.ru"
+    },
+    {
+      "rank": 7,
+      "name": "Chapel of St Nicholas",
+      "postcode": "630099",
+      "distanceKmFromAirport": 17,
+      "description": "Restored chapel marking the geographical centre of Russia at the foot of the main bridge",
+      "distance": 0.5,
+      "URL": "https://www.tourism.novosibirsk.ru"
+    },
+    {
+      "rank": 8,
+      "name": "Lenin Square",
+      "postcode": "630099",
+      "distanceKmFromAirport": 17,
+      "description": "Central Soviet-era square with the Stalin-era regional government building and the Novosibirsk banner",
+      "distance": 0.5,
+      "URL": "https://www.tourism.novosibirsk.ru"
+    },
+    {
+      "rank": 9,
+      "name": "Museum of the Sun",
+      "postcode": "630000",
+      "distanceKmFromAirport": 19,
+      "description": "Unique private collection of sun symbols from cultures around the world",
+      "distance": 3.0,
+      "URL": "https://www.muzeysolnca.ru/"
+    },
+    {
+      "rank": 10,
+      "name": "Berdsk Beach & Ob Forests",
+      "postcode": "633004",
+      "distanceKmFromAirport": 35,
+      "description": "Sandy pine forest beaches south of the city on the Ob reservoir",
+      "distance": 35.0,
+      "URL": "https://www.tourism.novosibirsk.ru"
+    }
+  ]
+}

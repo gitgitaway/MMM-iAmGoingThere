@@ -2,57 +2,97 @@
   "city": "Santiago",
   "country": "Chile",
   "airportPostcode": "9020000",
-  "airportDistanceKm": 35,
+  "airportDistanceKm": 20,
   "things": [
     {
       "rank": 1,
-      "name": "Valle Nevado Ski Resort",
-      "description": "World-class skiing in the Andes just 60km from Santiago with the Andes as backdrop"
+      "name": "Cerro San Cristóbal",
+      "postcode": "7500000",
+      "distanceKmFromAirport": 25,
+      "description": "880-metre hill with a 22-metre Virgin Mary statue — funicular railway and panoramic Andes views on clear days",
+      "distance": 5.0,
+      "URL": "https://parquemet.cl/"
     },
     {
       "rank": 2,
-      "name": "Cerro San Cristobal Hill",
-      "description": "Cable car to the 880m hilltop with the Virgen de la Inmaculada Concepcion statue"
+      "name": "Plaza de Armas & Historic Centre",
+      "postcode": "8320000",
+      "distanceKmFromAirport": 20,
+      "description": "Santiago's founding square surrounded by the cathedral, colonial government buildings and street performers",
+      "distance": 0.5,
+      "URL": "https://www.chile.travel/en/"
     },
     {
       "rank": 3,
-      "name": "Plaza de Armas & Historic Centre",
-      "description": "Colonial heart with the Metropolitan Cathedral, National History Museum and postal palace"
+      "name": "Valparaíso Day Trip",
+      "postcode": "2340000",
+      "distanceKmFromAirport": 130,
+      "description": "UNESCO World Heritage port city of funicular lifts, street art and Pablo Neruda's clifftop home",
+      "distance": 110.0,
+      "URL": "https://www.ciudaddevalparaiso.cl/"
     },
     {
       "rank": 4,
-      "name": "La Chascona (Pablo Neruda House)",
-      "description": "One of the poet's three eccentric houses - now a museum of his extraordinary life"
+      "name": "Atacama Desert",
+      "postcode": "1390000",
+      "distanceKmFromAirport": 1520,
+      "description": "The world's driest non-polar desert — Moon Valley, salt flats and the clearest stargazing on Earth",
+      "distance": 1500.0,
+      "URL": "https://www.chile.travel/en/"
     },
     {
       "rank": 5,
-      "name": "Cerro Santa Lucia",
-      "description": "Beautifully landscaped hilltop park in the heart of the city with panoramic views"
+      "name": "Mercado Central",
+      "postcode": "8320000",
+      "distanceKmFromAirport": 21,
+      "description": "1872 iron market hall serving the freshest Chilean seafood — ceviche, caldillo de congrio and pisco sours",
+      "distance": 0.8,
+      "URL": "https://www.mercadocentral.cl/"
     },
     {
       "rank": 6,
-      "name": "Bellavista & Lastarria Neighbourhoods",
-      "description": "Santiago's bohemian nightlife, street art, restaurants and craft beer scene"
+      "name": "Museo Chileno de Arte Precolombino",
+      "postcode": "8320000",
+      "distanceKmFromAirport": 20,
+      "description": "Outstanding collection of pre-Columbian art from across the Americas in a beautifully restored colonial building",
+      "distance": 0.5,
+      "URL": "https://www.precolombino.cl/en/"
     },
     {
       "rank": 7,
-      "name": "Wine Tour: Casablanca or Maipo Valley",
-      "description": "World-class Carmenere and Sauvignon Blanc wine tasting in vineyards near Santiago"
+      "name": "Barrio Bellavista",
+      "postcode": "7500000",
+      "distanceKmFromAirport": 24,
+      "description": "Santiago's bohemian neighbourhood — La Chascona (Neruda's home), street art, restaurants and nightlife",
+      "distance": 4.5,
+      "URL": "https://www.chile.travel/en/"
     },
     {
       "rank": 8,
-      "name": "Valparaiso Day Trip",
-      "description": "UNESCO World Heritage hillside port city with rainbow houses and street art"
+      "name": "Ski Resort Portillo",
+      "postcode": "2560000",
+      "distanceKmFromAirport": 165,
+      "description": "Legendary Andean ski resort 2 hours from Santiago — world-famous for powder snow and the Laguna del Inca",
+      "distance": 145.0,
+      "URL": "https://www.skiportillo.com/en/"
     },
     {
       "rank": 9,
-      "name": "Chilean Food Market (Mercado Central)",
-      "description": "1872 iron-frame market selling the freshest Pacific seafood including razor clams"
+      "name": "Lastarria Neighbourhood",
+      "postcode": "8340000",
+      "distanceKmFromAirport": 22,
+      "description": "Santiago's most stylish barrio — independent bookshops, art galleries, craft beer and weekend flea markets",
+      "distance": 2.0,
+      "URL": "https://www.chile.travel/en/"
     },
     {
       "rank": 10,
-      "name": "Museum of Pre-Columbian Art",
-      "description": "Chile's finest collection of Andean and Amazonian pre-Columbian artefacts"
+      "name": "Casa Colorada Museum",
+      "postcode": "8320000",
+      "distanceKmFromAirport": 20,
+      "description": "Santiago's oldest building (1769) — now an excellent city history museum right on Plaza de Armas",
+      "distance": 0.5,
+      "URL": "https://www.chile.travel/en/"
     }
   ]
 }

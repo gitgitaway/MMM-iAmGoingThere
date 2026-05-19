@@ -1,0 +1,98 @@
+{
+  "city": "Rome",
+  "country": "Italy",
+  "airportPostcode": "00054",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Colosseum",
+      "postcode": "00184",
+      "distanceKmFromAirport": 30,
+      "description": "World's most iconic ancient amphitheatre, completed in 80 AD, holding 50,000 spectators",
+      "distance": 3.5,
+      "URL": "https://www.parcoarcheologicoroma.it/en/colosseo/"
+    },
+    {
+      "rank": 2,
+      "name": "Vatican City & St Peter's Basilica",
+      "postcode": "00120",
+      "distanceKmFromAirport": 30,
+      "description": "The world's smallest state with Michelangelo's Sistine Chapel and the grandest basilica",
+      "distance": 4.0,
+      "URL": "https://www.vatican.va/content/vatican/en.html"
+    },
+    {
+      "rank": 3,
+      "name": "Trevi Fountain",
+      "postcode": "00187",
+      "distanceKmFromAirport": 28,
+      "description": "Baroque masterpiece where tossing a coin guarantees a return to Rome",
+      "distance": 1.5,
+      "URL": "https://www.rome.net/trevi-fountain"
+    },
+    {
+      "rank": 4,
+      "name": "Roman Forum",
+      "postcode": "00186",
+      "distanceKmFromAirport": 29,
+      "description": "Heart of ancient Rome with temples, arches and the Sacred Way",
+      "distance": 3.0,
+      "URL": "https://www.parcoarcheologicoroma.it/en/fori/"
+    },
+    {
+      "rank": 5,
+      "name": "Pantheon",
+      "postcode": "00186",
+      "distanceKmFromAirport": 28,
+      "description": "Perfectly preserved 2,000-year-old temple with the world's largest unreinforced concrete dome",
+      "distance": 1.5,
+      "URL": "https://pantheon.roma.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Piazza Navona",
+      "postcode": "00186",
+      "distanceKmFromAirport": 28,
+      "description": "Elegant Baroque oval piazza built over Domitian's stadium with Bernini's Four Rivers Fountain",
+      "distance": 1.8,
+      "URL": "https://www.rome.net/piazza-navona"
+    },
+    {
+      "rank": 7,
+      "name": "Borghese Gallery",
+      "postcode": "00197",
+      "distanceKmFromAirport": 30,
+      "description": "Exceptional collection of Bernini sculptures and Caravaggio paintings in a villa garden",
+      "distance": 3.5,
+      "URL": "https://galleriaborghese.beniculturali.it/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Spanish Steps",
+      "postcode": "00187",
+      "distanceKmFromAirport": 28,
+      "description": "Sweeping 18th-century staircase linking the Piazza di Spagna to the Trinita dei Monti church",
+      "distance": 2.0,
+      "URL": "https://www.rome.net/spanish-steps"
+    },
+    {
+      "rank": 9,
+      "name": "Castel Sant'Angelo",
+      "postcode": "00193",
+      "distanceKmFromAirport": 30,
+      "description": "Cylindrical mausoleum of Emperor Hadrian, later a papal fortress with panoramic views",
+      "distance": 3.5,
+      "URL": "https://castelsantangelo.beniculturali.it/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Palatine Hill",
+      "postcode": "00186",
+      "distanceKmFromAirport": 29,
+      "description": "Mythical founding hill of Rome with imperial palaces overlooking the Circus Maximus",
+      "distance": 3.2,
+      "URL": "https://www.parcoarcheologicoroma.it/en/palatino/"
+    }
+  ]
+}

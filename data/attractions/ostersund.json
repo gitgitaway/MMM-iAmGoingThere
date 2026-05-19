@@ -1,0 +1,98 @@
+{
+  "city": "Ostersund",
+  "country": "Sweden",
+  "airportPostcode": "831 91",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Froso Island and Froso Church",
+      "postcode": "832 51",
+      "distanceKmFromAirport": 13,
+      "description": "Scenic island in Lake Storsjoen connected by bridge; the 12th-century Froso Church is Jamtland's oldest and Sweden's northernmost runic stone stands in the churchyard",
+      "distance": 5.0,
+      "URL": "https://www.visitostersund.se/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Jamtli Museum",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "Outstanding open-air and indoor museum celebrating Jamtland history; costumed interpreters bring the 18th and 19th centuries to life across reconstructed farm buildings and workshops",
+      "distance": 1.5,
+      "URL": "https://www.jamtli.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Lake Storsjoen and the Storsjoodjuret Monster",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "Sweden's fifth largest lake and legendary home of the Storsjoodjuret (Great Lake Monster); a magnificent body of water offering boat trips, fishing and winter ice experiences",
+      "distance": 0.5,
+      "URL": "https://www.visitostersund.se/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Ostersund Town Square (Stortorget)",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "Ostersund's attractive main square with the City Hall, restaurants and market; the compact city centre is exceptionally lively given its northern location",
+      "distance": 0.5,
+      "URL": "https://www.visitostersund.se/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Winter Biathlon at Ostersund Arena",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "World-class biathlon venue and one of the regular stops on the IBU World Cup circuit; ski trails open to the public, and biathlon shooting range experiences in winter",
+      "distance": 2.0,
+      "URL": "https://www.biathlon-ostersund.se/"
+    },
+    {
+      "rank": 6,
+      "name": "Are Ski Resort (day trip)",
+      "postcode": "830 15",
+      "distanceKmFromAirport": 100,
+      "description": "Scandinavia's largest ski resort just 100km west of Ostersund; host of the 2019 Alpine Ski World Championships with slopes for all abilities and a lively resort village",
+      "distance": 90.0,
+      "URL": "https://www.skistar.com/en/are/"
+    },
+    {
+      "rank": 7,
+      "name": "Jamt and Harjedalen County Museum",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "Comprehensive museum inside Jamtli exploring the region's Sami heritage, medieval history and the remarkable Overhogdal tapestries from around 1000 AD",
+      "distance": 1.5,
+      "URL": "https://www.jamtli.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Froso Zoo",
+      "postcode": "832 51",
+      "distanceKmFromAirport": 13,
+      "description": "Scandinavia's northernmost zoo on Froso Island with Nordic animals including moose, reindeer, lynx and wolverine in naturalistic enclosures; a family favourite",
+      "distance": 6.0,
+      "URL": "https://www.frosozoo.se/"
+    },
+    {
+      "rank": 9,
+      "name": "Sami Cultural Heritage",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "Ostersund is the gateway to the Sami heartlands; the Aajege centre and local exhibitions explore the indigenous Sami people's reindeer herding culture, joik music and craft traditions",
+      "distance": 1.0,
+      "URL": "https://www.visitostersund.se/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Jamtkraft Arena",
+      "postcode": "831 35",
+      "distanceKmFromAirport": 12,
+      "description": "Home of Ostersunds FK with 8,500 capacity; the club's extraordinary rise from Division 4 to the Allsvenskan and UEFA Europa League round of 32 in 2017-18 is Swedish football's greatest story",
+      "distance": 1.0,
+      "URL": "https://www.osfk.se/en/"
+    }
+  ]
+}

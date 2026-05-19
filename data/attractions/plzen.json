@@ -1,0 +1,98 @@
+{
+  "city": "Plzen",
+  "country": "Czech Republic",
+  "airportPostcode": "32100",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Pilsner Urquell Brewery",
+      "postcode": "30497",
+      "distanceKmFromAirport": 10,
+      "description": "Birthplace of the world's first pilsner lager in 1842; guided tours through the historic cellars end with unpasteurised beer direct from wooden barrels",
+      "distance": 1.5,
+      "URL": "https://www.prazdrojvisit.cz/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Republic Square (namesti Republiky)",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "One of the largest medieval squares in the Czech Republic, dominated by the Gothic Cathedral of St. Bartholomew and the Renaissance Town Hall",
+      "distance": 0.3,
+      "URL": "https://www.plzen.eu/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Cathedral of St. Bartholomew",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "Gothic cathedral with the tallest church tower in Bohemia at 102 metres; houses a beautiful 14th-century Madonna of Pilsen statue",
+      "distance": 0.3,
+      "URL": "https://www.katedralavplzni.cz/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Underground Plzen",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "9km network of medieval cellars and tunnels beneath the old town, used for storage and refuge; guided tours explore this hidden city beneath the streets",
+      "distance": 0.5,
+      "URL": "https://www.plzen.eu/en/tourist/tips-for-sightseeing/underground-plzen/"
+    },
+    {
+      "rank": 5,
+      "name": "West Bohemian Museum",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "Neo-Renaissance museum with extensive natural history, archaeology and art collections representing the region's rich cultural heritage",
+      "distance": 0.8,
+      "URL": "https://www.zcm.cz/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Great Synagogue",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "Europe's third-largest synagogue built in 1892 in Moorish Revival style; a magnificent landmark and monument to Plzen's former Jewish community",
+      "distance": 0.6,
+      "URL": "https://www.zoplzen.cz/"
+    },
+    {
+      "rank": 7,
+      "name": "Patton Memorial Museum",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "Museum commemorating the liberation of Plzen by General Patton's US Third Army on 6 May 1945; exhibits of vehicles, weapons and personal items",
+      "distance": 1.0,
+      "URL": "https://www.pattonmemorial.cz/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Techmania Science Centre",
+      "postcode": "30100",
+      "distanceKmFromAirport": 10,
+      "description": "Interactive science and technology museum in a former Skoda Works building with hands-on exhibits, a planetarium and the Czech Republic's first 3D planetarium",
+      "distance": 2.5,
+      "URL": "https://www.techmania.cz/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Doosan Arena",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "Home of FC Viktoria Plzen with a 11,700-seat capacity; the club has been a regular Czech champions and UEFA Europa League contender",
+      "distance": 1.0,
+      "URL": "https://www.fcviktoria.cz/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Franciscan Monastery and Church",
+      "postcode": "30100",
+      "distanceKmFromAirport": 9,
+      "description": "13th-century Gothic monastery complex with a beautifully preserved cloister garden and the oldest architectural monument in Plzen",
+      "distance": 0.4,
+      "URL": "https://www.plzen.eu/en/"
+    }
+  ]
+}

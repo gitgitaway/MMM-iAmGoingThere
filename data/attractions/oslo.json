@@ -1,0 +1,98 @@
+{
+  "city": "Oslo",
+  "country": "Norway",
+  "airportPostcode": "2061",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vigeland Sculpture Park",
+      "postcode": "0268",
+      "distanceKmFromAirport": 54,
+      "description": "The world's largest sculpture park by a single artist — 212 bronze and granite figures by Gustav Vigeland",
+      "distance": 4.0,
+      "URL": "https://www.vigeland.museum.no/en/"
+    },
+    {
+      "rank": 2,
+      "name": "The National Museum",
+      "postcode": "0250",
+      "distanceKmFromAirport": 52,
+      "description": "Norway's largest art museum housing Edvard Munch's The Scream and the country's finest collections",
+      "distance": 1.5,
+      "URL": "https://www.nasjonalmuseet.no/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Akershus Fortress",
+      "postcode": "0150",
+      "distanceKmFromAirport": 51,
+      "description": "Medieval castle and fortress on the Oslofjord — free to walk the grounds, with great harbour views",
+      "distance": 1.0,
+      "URL": "https://forsvarsbygg.no/en/fortifications/akershus-fortress/"
+    },
+    {
+      "rank": 4,
+      "name": "Fram Museum",
+      "postcode": "0286",
+      "distanceKmFromAirport": 54,
+      "description": "The actual polar exploration ship Fram — the vessel that sailed further north and south than any other",
+      "distance": 4.0,
+      "URL": "https://frammuseum.no/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Bygdoy Viking Ship Museum",
+      "postcode": "0287",
+      "distanceKmFromAirport": 55,
+      "description": "Three magnificently preserved 9th-century Viking longships excavated from burial mounds",
+      "distance": 5.0,
+      "URL": "https://www.khm.uio.no/english/visit-us/viking-ship-museum/"
+    },
+    {
+      "rank": 6,
+      "name": "Oslo Opera House",
+      "postcode": "0150",
+      "distanceKmFromAirport": 51,
+      "description": "Spectacular white Carrara marble building — walk up the sloping roof for views of the fjord and city",
+      "distance": 1.0,
+      "URL": "https://www.operaen.no/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Holmenkollen Ski Jump",
+      "postcode": "0787",
+      "distanceKmFromAirport": 60,
+      "description": "Oslo's iconic ski jump with a ski museum and panoramic view over the city and fjord",
+      "distance": 10.0,
+      "URL": "https://www.holmenkollen.com/eng/"
+    },
+    {
+      "rank": 8,
+      "name": "Aker Brygge & Tjuvholmen",
+      "postcode": "0250",
+      "distanceKmFromAirport": 52,
+      "description": "Oslo's fashionable waterfront district with restaurants, galleries, the Astrup Fearnley Museum and marinas",
+      "distance": 1.5,
+      "URL": "https://www.akerbrygge.no/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Munch Museum",
+      "postcode": "0194",
+      "distanceKmFromAirport": 52,
+      "description": "New 2021 tower museum holding the world's largest Edvard Munch collection with harbour views",
+      "distance": 1.5,
+      "URL": "https://www.munchmuseet.no/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Oslofjord Island Day Trip",
+      "postcode": "0152",
+      "distanceKmFromAirport": 53,
+      "description": "Ferry hop between the idyllic islands of Bygdoy, Gressholmen and Hovedoya for swimming and picnics",
+      "distance": 3.0,
+      "URL": "https://www.ruter.no/en/"
+    }
+  ]
+}

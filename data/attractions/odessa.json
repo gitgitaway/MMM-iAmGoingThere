@@ -1,0 +1,98 @@
+{
+  "city": "Odessa",
+  "country": "Ukraine",
+  "airportPostcode": "65003",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Potemkin Stairs",
+      "postcode": "65026",
+      "distanceKmFromAirport": 10,
+      "description": "Iconic 192-step stairway from the city to the port, immortalised in Eisenstein's 1925 film",
+      "distance": 1.0,
+      "URL": "https://www.odessa-tourist.com"
+    },
+    {
+      "rank": 2,
+      "name": "Opera and Ballet Theatre",
+      "postcode": "65011",
+      "distanceKmFromAirport": 10,
+      "description": "1887 Neo-Baroque opera house - one of the most beautiful in Europe with a stunning interior",
+      "distance": 1.0,
+      "URL": "https://opera.odessa.ua/"
+    },
+    {
+      "rank": 3,
+      "name": "Deribasivska Street",
+      "postcode": "65014",
+      "distanceKmFromAirport": 10,
+      "description": "Odessa's pedestrian main street with 19th-century architecture, cafes and restaurants",
+      "distance": 0.5,
+      "URL": "https://www.odessa-tourist.com"
+    },
+    {
+      "rank": 4,
+      "name": "Odessa Catacombs",
+      "postcode": "65000",
+      "distanceKmFromAirport": 20,
+      "description": "2,500km network of underground tunnels used by partisans in WWII - the world's largest catacomb",
+      "distance": 15.0,
+      "URL": "https://catacombs.ua/"
+    },
+    {
+      "rank": 5,
+      "name": "Arcadia Beach",
+      "postcode": "65009",
+      "distanceKmFromAirport": 14,
+      "description": "Odessa's most popular beach and entertainment district with clubs and seaside restaurants",
+      "distance": 5.0,
+      "URL": "https://www.odessa-tourist.com"
+    },
+    {
+      "rank": 6,
+      "name": "Vorontsov Palace",
+      "postcode": "65026",
+      "distanceKmFromAirport": 10,
+      "description": "Elegant Neoclassical governor's palace with colonnaded loggia overlooking the sea",
+      "distance": 1.0,
+      "URL": "https://www.artmuseum.odessa.ua"
+    },
+    {
+      "rank": 7,
+      "name": "Odessa Fine Arts Museum",
+      "postcode": "65011",
+      "distanceKmFromAirport": 10,
+      "description": "Classicist palace housing masterworks including Caravaggio, Rubens and Russian masters",
+      "distance": 1.0,
+      "URL": "https://ofam.com.ua/"
+    },
+    {
+      "rank": 8,
+      "name": "Privoz Market",
+      "postcode": "65026",
+      "distanceKmFromAirport": 11,
+      "description": "Vast open-air market with the freshest Black Sea fish, produce and local street food",
+      "distance": 1.5,
+      "URL": "https://filarmonia.odessa.ua"
+    },
+    {
+      "rank": 9,
+      "name": "Lanzheron Beach & Spa",
+      "postcode": "65045",
+      "distanceKmFromAirport": 12,
+      "description": "City beach with a saltwater spa, beach clubs and great views of the Odessa skyline",
+      "distance": 3.0,
+      "URL": "https://www.odessa-tourist.com"
+    },
+    {
+      "rank": 10,
+      "name": "Plague Column (Chumna Kolona)",
+      "postcode": "65011",
+      "distanceKmFromAirport": 10,
+      "description": "1827 column erected to give thanks for deliverance from the 1812-1814 plague epidemic",
+      "distance": 1.0,
+      "URL": "https://www.odessa-tourist.com"
+    }
+  ]
+}

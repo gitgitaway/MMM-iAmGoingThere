@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Real Alcazar",
-      "description": "UNESCO-listed Royal Palace complex of stunning Mudéjar architecture and gardens"
+      "postcode": "41004",
+      "distanceKmFromAirport": 11,
+      "description": "UNESCO-listed Royal Palace complex of stunning Mudéjar architecture and gardens",
+      "distance": 1.0,
+      "URL": "https://www.alcazarsevilla.org/"
     },
     {
       "rank": 2,
       "name": "Seville Cathedral & Giralda",
-      "description": "World's largest Gothic cathedral with La Giralda tower and Columbus's tomb"
+      "postcode": "41004",
+      "distanceKmFromAirport": 11,
+      "description": "World's largest Gothic cathedral with La Giralda tower and Columbus's tomb",
+      "distance": 1.0,
+      "URL": "https://www.catedraldesevilla.es/"
     },
     {
       "rank": 3,
       "name": "Barrio Santa Cruz",
-      "description": "Enchanting former Jewish quarter of whitewashed houses and orange blossom lanes"
+      "postcode": "41004",
+      "distanceKmFromAirport": 11,
+      "description": "Enchanting former Jewish quarter of whitewashed houses and orange blossom lanes",
+      "distance": 1.2,
+      "URL": "https://www.visitasevilla.es/"
     },
     {
       "rank": 4,
       "name": "Plaza de Espana",
-      "description": "Spectacular 1929 semicircular palace complex with canal, bridges and tile mosaics"
+      "postcode": "41013",
+      "distanceKmFromAirport": 12,
+      "description": "Spectacular 1929 semicircular palace complex with canal, bridges and tile mosaics",
+      "distance": 2.0,
+      "URL": "https://www.visitasevilla.es/"
     },
     {
       "rank": 5,
       "name": "Metropol Parasol",
-      "description": "World's largest wooden structure with rooftop walkway over the Encarnacion square"
+      "postcode": "41003",
+      "distanceKmFromAirport": 11,
+      "description": "World's largest wooden structure with rooftop walkway over the Encarnacion square",
+      "distance": 0.8,
+      "URL": "https://www.setasdesevilla.com/"
     },
     {
       "rank": 6,
       "name": "Torre del Oro",
-      "description": "13th-century golden tower on the Guadalquivir with a maritime museum inside"
+      "postcode": "41001",
+      "distanceKmFromAirport": 12,
+      "description": "13th-century golden tower on the Guadalquivir with a maritime museum inside",
+      "distance": 1.5,
+      "URL": "https://www.visitasevilla.es/"
     },
     {
       "rank": 7,
       "name": "Flamenco Shows",
-      "description": "Authentic flamenco performances in traditional tablaos in the city that invented the art"
+      "postcode": "41004",
+      "distanceKmFromAirport": 11,
+      "description": "Authentic flamenco performances in traditional tablaos in the city that invented the art",
+      "distance": 1.0,
+      "URL": "https://www.casadelamemoria.es/"
     },
     {
       "rank": 8,
       "name": "Maria Luisa Park",
-      "description": "Romantic 19th-century park with fountains, peacocks and the Archaeological Museum"
+      "postcode": "41013",
+      "distanceKmFromAirport": 12,
+      "description": "Romantic 19th-century park with fountains, peacocks and the Archaeological Museum",
+      "distance": 2.5,
+      "URL": "https://www.visitasevilla.es/"
     },
     {
       "rank": 9,
       "name": "Triana District",
-      "description": "Traditional potters' and flamenco neighbourhood across the river with tapas bars"
+      "postcode": "41010",
+      "distanceKmFromAirport": 12,
+      "description": "Traditional potters' and flamenco neighbourhood across the river with tapas bars",
+      "distance": 2.0,
+      "URL": "https://www.visitasevilla.es/"
     },
     {
       "rank": 10,
       "name": "Italica Roman Ruins",
-      "description": "Birthplace of emperors Trajan and Hadrian with a stunning amphitheatre 9km away"
+      "postcode": "41970",
+      "distanceKmFromAirport": 19,
+      "description": "Birthplace of emperors Trajan and Hadrian with a stunning amphitheatre 9km away",
+      "distance": 9.0,
+      "URL": "https://www.visitasevilla.es/"
     }
   ]
 }

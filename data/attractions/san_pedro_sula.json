@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Copan Ruins Day Trip",
-      "description": "UNESCO World Heritage Maya city with exquisite carved stelae 3 hours west"
+      "postcode": "41101",
+      "distanceKmFromAirport": 180,
+      "description": "UNESCO World Heritage Maya city with exquisite carved stelae 3 hours west",
+      "distance": 170.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 2,
       "name": "Parque Central & Cathedral",
-      "description": "Colonial park and 16th-century cathedral at the heart of the commercial capital"
+      "postcode": "21101",
+      "distanceKmFromAirport": 14,
+      "description": "Colonial park and 16th-century cathedral at the heart of the commercial capital",
+      "distance": 0.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 3,
       "name": "Museo de Antropologia e Historia",
-      "description": "Pre-Columbian artefacts from Maya to colonial Honduras in a restored mansion"
+      "postcode": "21101",
+      "distanceKmFromAirport": 15,
+      "description": "Pre-Columbian artefacts from Maya to colonial Honduras in a restored mansion",
+      "distance": 1.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 4,
       "name": "Cusuco National Park",
-      "description": "Cloud forest 20km from the city with resplendent quetzals and rare wildlife"
+      "postcode": "21101",
+      "distanceKmFromAirport": 20,
+      "description": "Cloud forest 20km from the city with resplendent quetzals and rare wildlife",
+      "distance": 20.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 5,
       "name": "Lake Yojoa Day Trip",
-      "description": "Honduras's only natural lake with birds, waterfalls and D&D Brewery"
+      "postcode": "27103",
+      "distanceKmFromAirport": 88,
+      "description": "Honduras's only natural lake with birds, waterfalls and D&D Brewery",
+      "distance": 80.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 6,
       "name": "Cascadas Los Chorros",
-      "description": "Series of waterfalls in the mountains near San Pedro Sula"
+      "postcode": "21101",
+      "distanceKmFromAirport": 40,
+      "description": "Series of waterfalls in the mountains near San Pedro Sula",
+      "distance": 35.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 7,
       "name": "Circuito Artesanal del Valle de Sula",
-      "description": "Craft route through Lenca villages with pottery, leather and basketweaving"
+      "postcode": "21101",
+      "distanceKmFromAirport": 40,
+      "description": "Craft route through Lenca villages with pottery, leather and basketweaving",
+      "distance": 30.0,
+      "URL": "https://www.ihah.hn/"
     },
     {
       "rank": 8,
       "name": "City Mall",
-      "description": "Honduras's largest shopping mall"
+      "postcode": "21101",
+      "distanceKmFromAirport": 15,
+      "description": "Honduras's largest shopping mall",
+      "distance": 5.0,
+      "URL": "https://citymallhn.com/"
     },
     {
       "rank": 9,
       "name": "Roatan Island Diving",
-      "description": "Caribbean island 1-hour flight with world-class barrier reef diving"
+      "postcode": "34101",
+      "distanceKmFromAirport": 70,
+      "description": "Caribbean island 1-hour flight with world-class barrier reef diving",
+      "distance": 60.0,
+      "URL": "https://www.roatanonline.com/"
     },
     {
       "rank": 10,
       "name": "Baleada Super",
-      "description": "Honduras's street food king - flour tortilla loaded with beans, cream, cheese and egg"
+      "postcode": "21101",
+      "distanceKmFromAirport": 14,
+      "description": "Honduras's street food king - flour tortilla loaded with beans, cream, cheese and egg",
+      "distance": 0.0,
+      "URL": "https://www.ihah.hn/"
     }
   ]
 }

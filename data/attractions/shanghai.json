@@ -2,57 +2,97 @@
   "city": "Shanghai",
   "country": "China",
   "airportPostcode": "201202",
-  "airportDistanceKm": 34,
+  "airportDistanceKm": 30,
   "things": [
     {
       "rank": 1,
       "name": "The Bund",
-      "description": "Shanghai's iconic waterfront promenade lined with Art Deco colonial buildings facing Pudong"
+      "postcode": "200002",
+      "distanceKmFromAirport": 32,
+      "description": "Shanghai's legendary 1.5-km waterfront promenade lined with Art Deco colonial buildings facing the Pudong skyline",
+      "distance": 1.5,
+      "URL": "https://www.meet-in-shanghai.net/"
     },
     {
       "rank": 2,
-      "name": "Yu Garden (Yuyuan Garden)",
-      "description": "16th-century classical Ming garden with rockeries, pavilions and the famous zigzag bridge"
+      "name": "Shanghai Tower Observation Deck",
+      "postcode": "200120",
+      "distanceKmFromAirport": 34,
+      "description": "Second tallest building in the world — the 118th floor sky walk offers vertiginous views over Pudong",
+      "distance": 3.5,
+      "URL": "https://www.shanghaitower.com.cn/en/"
     },
     {
       "rank": 3,
-      "name": "Shanghai Tower Observation Deck",
-      "description": "Views from China's tallest building at 632m with the world's fastest elevator"
+      "name": "Yu Garden (Yuyuan)",
+      "postcode": "200010",
+      "distanceKmFromAirport": 31,
+      "description": "16th-century classical Chinese garden with ornamental rockeries, pavilions and the famous zigzag bridge",
+      "distance": 1.0,
+      "URL": "https://www.yuyuan.com.cn/"
     },
     {
       "rank": 4,
-      "name": "French Concession",
-      "description": "Tree-lined streets with Art Deco mansions, boutiques, jazz bars and excellent restaurants"
+      "name": "Shanghai Museum",
+      "postcode": "200003",
+      "distanceKmFromAirport": 32,
+      "description": "World-class collection of ancient Chinese bronzes, ceramics, calligraphy and jade — free admission",
+      "distance": 2.5,
+      "URL": "https://www.shanghaimuseum.net/en/"
     },
     {
       "rank": 5,
-      "name": "Shanghai Museum",
-      "description": "World-class collection of Chinese bronzes, ceramics, jade and ancient painting"
+      "name": "Former French Concession",
+      "postcode": "200031",
+      "distanceKmFromAirport": 34,
+      "description": "Tree-lined streets of 1930s villas, jazz bars and boutiques — the most atmospheric neighbourhood in Shanghai",
+      "distance": 4.0,
+      "URL": "https://www.meet-in-shanghai.net/"
     },
     {
       "rank": 6,
-      "name": "Zhujiajiao Water Town",
-      "description": "Ming-dynasty canal town with stone bridges, gondola rides and traditional food"
+      "name": "Tianzifang Arts District",
+      "postcode": "200030",
+      "distanceKmFromAirport": 34,
+      "description": "Maze of shikumen alleys converted to galleries, independent cafes and artisan craft shops",
+      "distance": 4.5,
+      "URL": "https://www.meet-in-shanghai.net/"
     },
     {
       "rank": 7,
-      "name": "Tianzifang Alleyway Market",
-      "description": "Shikumen stone-gate houses converted into boutiques, cafes and art galleries"
+      "name": "Xintiandi",
+      "postcode": "200021",
+      "distanceKmFromAirport": 34,
+      "description": "Restored 1920s shikumen (stone-gate house) district now home to upscale restaurants, bars and boutiques",
+      "distance": 3.5,
+      "URL": "https://www.xintiandi.com/"
     },
     {
       "rank": 8,
-      "name": "Shanghai Disneyland",
-      "description": "Walt Disney's most technologically advanced theme park with unique Chinese cultural elements"
+      "name": "Shanghai Disney Resort",
+      "postcode": "201306",
+      "distanceKmFromAirport": 70,
+      "description": "The first Disney resort in mainland China — 6 themed lands with the world's tallest Disney castle",
+      "distance": 40.0,
+      "URL": "https://www.shanghaidisneyresort.com/en/"
     },
     {
       "rank": 9,
-      "name": "Jade Buddha Temple",
-      "description": "Active monastery with two white jade Buddhas brought from Burma in 1882"
+      "name": "Zhujiajiao Water Town",
+      "postcode": "201712",
+      "distanceKmFromAirport": 80,
+      "description": "Ming Dynasty canal town 50 km west of Shanghai — gondola rides, stone bridges and ancient temples",
+      "distance": 50.0,
+      "URL": "https://www.meet-in-shanghai.net/"
     },
     {
       "rank": 10,
-      "name": "Shanghai World Financial Center Sky Walk",
-      "description": "The bottle-opener skyscraper with a glass floor observation deck at 474m"
+      "name": "Maglev Train Experience",
+      "postcode": "201202",
+      "distanceKmFromAirport": 60,
+      "description": "The world's fastest commercial train — 431 km/h from Pudong airport to Longyang Road Station in 8 minutes",
+      "distance": 30.0,
+      "URL": "https://www.smtdc.com/en/"
     }
   ]
 }

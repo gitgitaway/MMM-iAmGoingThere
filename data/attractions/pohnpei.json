@@ -1,0 +1,98 @@
+{
+  "city": "Pohnpei",
+  "country": "Micronesia",
+  "airportPostcode": "96941",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nan Madol Ruins",
+      "postcode": "96941",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage megalithic city built on artificial islands - the Venice of the Pacific",
+      "distance": 10.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 2,
+      "name": "Kepirohi Waterfall",
+      "postcode": "96941",
+      "distanceKmFromAirport": 13,
+      "description": "Largest waterfall in Micronesia plunging into a black lava swimming hole",
+      "distance": 10.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 3,
+      "name": "Sokehs Ridge Hike",
+      "postcode": "96941",
+      "distanceKmFromAirport": 8,
+      "description": "Volcanic basalt ridge with WWII Japanese gun emplacements and panoramic views",
+      "distance": 5.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 4,
+      "name": "Mangrove Kayaking",
+      "postcode": "96941",
+      "distanceKmFromAirport": 8,
+      "description": "Paddle through pristine mangrove forest teeming with black tip reef sharks",
+      "distance": 5.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 5,
+      "name": "Pohnpei Surf Break (Palikir Pass)",
+      "postcode": "96941",
+      "distanceKmFromAirport": 11,
+      "description": "World-class left-hand surf break on the outer reef",
+      "distance": 8.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 6,
+      "name": "Village of Kolonia",
+      "postcode": "96941",
+      "distanceKmFromAirport": 4,
+      "description": "Former German and Japanese colonial capital with ruins of the old stone wall",
+      "distance": 1.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 7,
+      "name": "Liduduhniap Waterfall",
+      "postcode": "96941",
+      "distanceKmFromAirport": 15,
+      "description": "Twin waterfalls accessible by a jungle hike with swimming pools",
+      "distance": 12.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 8,
+      "name": "Sakau (Kava) Ceremony",
+      "postcode": "96941",
+      "distanceKmFromAirport": 5,
+      "description": "Traditional Pohnpeian drink made from pepper plant roots - central to social life",
+      "distance": 2.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 9,
+      "name": "Pohnpei State Museum",
+      "postcode": "96941",
+      "distanceKmFromAirport": 4,
+      "description": "Cultural artefacts and natural history of the Caroline Islands",
+      "distance": 1.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    },
+    {
+      "rank": 10,
+      "name": "Fishing in the Pacific",
+      "postcode": "96941",
+      "distanceKmFromAirport": 8,
+      "description": "Deep sea fishing for marlin, wahoo and mahi-mahi in Pohnpei's pristine waters",
+      "distance": 5.0,
+      "URL": "https://www.visit-micronesia.fm/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Palma",
+  "country": "Spain",
+  "airportPostcode": "07611",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Palma Cathedral (La Seu)",
+      "postcode": "07001",
+      "distanceKmFromAirport": 9,
+      "description": "Dramatic Gothic cathedral rising above the sea with Gaudi's interior modifications",
+      "distance": 1.0,
+      "URL": "https://catedraldemallorca.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Bellver Castle",
+      "postcode": "07015",
+      "distanceKmFromAirport": 10,
+      "description": "Unique circular 14th-century Gothic castle on a hill with panoramic bay views",
+      "distance": 3.0,
+      "URL": "https://www.palma.cat/portal/PALMA/"
+    },
+    {
+      "rank": 3,
+      "name": "Old Town Palma",
+      "postcode": "07001",
+      "distanceKmFromAirport": 9,
+      "description": "Winding medieval streets with Arab baths, Renaissance palaces and tapas bars",
+      "distance": 0.5,
+      "URL": "https://visitpalma.cat/"
+    },
+    {
+      "rank": 4,
+      "name": "Es Baluard Museum",
+      "postcode": "07001",
+      "distanceKmFromAirport": 9,
+      "description": "Contemporary art museum in a 16th-century bastion with sea views",
+      "distance": 1.0,
+      "URL": "https://www.esbaluard.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Arab Baths",
+      "postcode": "07001",
+      "distanceKmFromAirport": 9,
+      "description": "Remarkably preserved 10th-century Moorish hammam in the old town",
+      "distance": 1.0,
+      "URL": "https://www.banysdel.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Fundacio Pilar i Joan Miro",
+      "postcode": "07015",
+      "distanceKmFromAirport": 11,
+      "description": "Joan Miro's studio complex preserved as it was when he died, surrounded by his work",
+      "distance": 4.0,
+      "URL": "https://www.miromallorca.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Passeig des Born",
+      "postcode": "07012",
+      "distanceKmFromAirport": 9,
+      "description": "Elegant tree-lined promenade with 16th-century fountain and Art Nouveau mansions",
+      "distance": 0.5,
+      "URL": "https://www.visitmallorca.com"
+    },
+    {
+      "rank": 8,
+      "name": "Parc de la Mar",
+      "postcode": "07001",
+      "distanceKmFromAirport": 9,
+      "description": "Waterfront park with an artificial lake reflecting the cathedral facade",
+      "distance": 1.0,
+      "URL": "https://www.visitmallorca.com"
+    },
+    {
+      "rank": 9,
+      "name": "Palma Aquarium",
+      "postcode": "07609",
+      "distanceKmFromAirport": 3,
+      "description": "Impressive aquarium with Mediterranean and tropical ecosystems",
+      "distance": 9.0,
+      "URL": "https://www.palmaaquarium.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Mallorcan Villages",
+      "postcode": "07170",
+      "distanceKmFromAirport": 25,
+      "description": "Day trips to Soller, Deia, Valldemossa and Sineu's famous Wednesday market",
+      "distance": 20.0,
+      "URL": "https://www.infomallorca.net/"
+    }
+  ]
+}

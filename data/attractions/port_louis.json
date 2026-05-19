@@ -1,0 +1,98 @@
+{
+  "city": "Port Louis",
+  "country": "Mauritius",
+  "airportPostcode": "74314",
+  "airportDistanceKm": 48,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Le Morne Brabant",
+      "postcode": "90425",
+      "distanceKmFromAirport": 82,
+      "description": "UNESCO World Heritage basalt peninsula - symbol of slave resistance with stunning lagoon",
+      "distance": 50.0,
+      "URL": "https://www.tourism-mauritius.mu/"
+    },
+    {
+      "rank": 2,
+      "name": "Aapravasi Ghat",
+      "postcode": "11324",
+      "distanceKmFromAirport": 48,
+      "description": "UNESCO World Heritage immigration depot where 500,000 indentured labourers arrived",
+      "distance": 0.5,
+      "URL": "https://www.aapravasighat.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Port Louis Market (Central Market)",
+      "postcode": "11314",
+      "distanceKmFromAirport": 48,
+      "description": "Spice, textile and street food market in an 1886 Victorian iron-frame market hall",
+      "distance": 0.5,
+      "URL": "https://www.marketsmauritius.mu/"
+    },
+    {
+      "rank": 4,
+      "name": "Caudan Waterfront",
+      "postcode": "11307",
+      "distanceKmFromAirport": 48,
+      "description": "Renovated waterfront with restaurants, the Blue Penny Museum and a casino",
+      "distance": 0.5,
+      "URL": "https://www.caudan.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Blue Penny Museum",
+      "postcode": "11307",
+      "distanceKmFromAirport": 48,
+      "description": "Two of the world's rarest stamps - the original 1847 'Post Office' Mauritius issues",
+      "distance": 0.5,
+      "URL": "https://www.bluepennymuseum.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Natural History Museum",
+      "postcode": "11302",
+      "distanceKmFromAirport": 48,
+      "description": "Skeleton of the dodo bird - the extinct flightless bird endemic to Mauritius",
+      "distance": 0.5,
+      "URL": "https://www.museums.mu/"
+    },
+    {
+      "rank": 7,
+      "name": "Pamplemousses Botanical Garden",
+      "postcode": "30501",
+      "distanceKmFromAirport": 55,
+      "description": "One of the oldest botanical gardens in the Southern Hemisphere with giant Victoria water lilies",
+      "distance": 11.0,
+      "URL": "https://www.npcs.mu/"
+    },
+    {
+      "rank": 8,
+      "name": "Chamarel Coloured Earths",
+      "postcode": "91401",
+      "distanceKmFromAirport": 98,
+      "description": "Seven-coloured volcanic earth landscape with the highest waterfall on the island",
+      "distance": 55.0,
+      "URL": "https://www.chamarelcolouredearths.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Dolphin Watching at Tamarin Bay",
+      "postcode": "90521",
+      "distanceKmFromAirport": 80,
+      "description": "Swim with wild spinner dolphins in the warm turquoise waters off the west coast",
+      "distance": 40.0,
+      "URL": "https://www.mauritiuswildlife.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Dholl Puri",
+      "postcode": "11314",
+      "distanceKmFromAirport": 49,
+      "description": "Mauritius's most popular street food - split pea flatbread with rougaille sauce",
+      "distance": 1.0,
+      "URL": "https://www.tourism-mauritius.mu"
+    }
+  ]
+}

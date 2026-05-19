@@ -1,0 +1,98 @@
+{
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "airportPostcode": "3045 AP",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Markthal",
+      "postcode": "3011 PH",
+      "distanceKmFromAirport": 9,
+      "description": "Spectacular arch-shaped market hall with a giant food mosaic ceiling and 100 food stalls",
+      "distance": 0.8,
+      "URL": "https://www.markthal.nl/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Cube Houses (Kubuswoningen)",
+      "postcode": "3011 HN",
+      "distanceKmFromAirport": 9,
+      "description": "Piet Blom's iconic tilted yellow cube houses — visit the Kijk-Kubus show house inside",
+      "distance": 0.8,
+      "URL": "https://www.kubuswoning.nl/en"
+    },
+    {
+      "rank": 3,
+      "name": "Erasmus Bridge",
+      "postcode": "3072 AP",
+      "distanceKmFromAirport": 9,
+      "description": "The Swan — Rotterdam's elegant 802-metre cable-stayed bridge and symbol of the modern city",
+      "distance": 1.0,
+      "URL": "https://www.rotterdam.info/en/sights/erasmus-bridge/"
+    },
+    {
+      "rank": 4,
+      "name": "Museum Boijmans Van Beuningen",
+      "postcode": "3015 CX",
+      "distanceKmFromAirport": 11,
+      "description": "World-class art collection from Bruegel to Dali, currently shown at the Depot building",
+      "distance": 3.0,
+      "URL": "https://www.boijmans.nl/en"
+    },
+    {
+      "rank": 5,
+      "name": "Depot Boijmans Van Beuningen",
+      "postcode": "3015 CX",
+      "distanceKmFromAirport": 11,
+      "description": "Mirrored spherical building — the world's first publicly accessible art depot housing 151,000 works",
+      "distance": 3.0,
+      "URL": "https://www.depot.nl/en"
+    },
+    {
+      "rank": 6,
+      "name": "Euromast Observation Tower",
+      "postcode": "3016 GD",
+      "distanceKmFromAirport": 12,
+      "description": "185-metre tower with a rotating restaurant and optional abseil/zip-line experience",
+      "distance": 3.5,
+      "URL": "https://www.euromast.nl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Hotel New York",
+      "postcode": "3072 AD",
+      "distanceKmFromAirport": 10,
+      "description": "Grand Café in the former Holland America Line HQ — the departure point for millions of emigrants",
+      "distance": 1.5,
+      "URL": "https://www.hotelnewyork.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Rotterdam Harbour Boat Tour",
+      "postcode": "3011 AA",
+      "distanceKmFromAirport": 8,
+      "description": "Spido boat tour through Europe's largest port — past supertankers, container ships and the Maasvlakte",
+      "distance": 0.5,
+      "URL": "https://www.spido.nl/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Witte de With Cultural Quarter",
+      "postcode": "3012 BN",
+      "distanceKmFromAirport": 10,
+      "description": "Rotterdam's arts and nightlife district with galleries, museums, bars and street art",
+      "distance": 1.5,
+      "URL": "https://www.rotterdam.info/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Kinderdijk Windmills",
+      "postcode": "2961 AS",
+      "distanceKmFromAirport": 23,
+      "description": "UNESCO World Heritage site with 19 historic windmills on the polders, 15 km east of Rotterdam",
+      "distance": 15.0,
+      "URL": "https://www.kinderdijk.nl/en/"
+    }
+  ]
+}

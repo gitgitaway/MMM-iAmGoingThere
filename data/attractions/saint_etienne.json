@@ -1,0 +1,98 @@
+{
+  "city": "Saint-Etienne",
+  "country": "France",
+  "airportPostcode": "42160",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Museum of Modern and Contemporary Art",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "One of France's finest modern art museums with a world-class collection including works by Leger, Warhol and key French Modernists in a bold modern building",
+      "distance": 1.0,
+      "URL": "https://www.mamc-saintetienne.fr/"
+    },
+    {
+      "rank": 2,
+      "name": "Mine-Image Museum",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "Underground coal mining museum descending into the real galleries of the Couriot colliery; one of France's most dramatic industrial heritage experiences",
+      "distance": 2.5,
+      "URL": "https://www.musee-mine.saint-etienne.fr/"
+    },
+    {
+      "rank": 3,
+      "name": "Museum of Art and Industry",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "Museum exploring Saint-Etienne's three great industries: arms manufacture, the ribbon trade and cycling; includes the world's finest collection of bicycles",
+      "distance": 0.5,
+      "URL": "https://www.musee-art-industrie.saint-etienne.fr/"
+    },
+    {
+      "rank": 4,
+      "name": "Biennale Internationale Design",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "Saint-Etienne is France's first UNESCO City of Design; the biennial design festival transforms the city into a global showcase for contemporary industrial design",
+      "distance": 0.5,
+      "URL": "https://www.biennale-design.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Cite du Design",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "International design school and exhibition complex with a spectacular glass structure cantilevered over the restored 19th-century arms factory",
+      "distance": 1.5,
+      "URL": "https://www.citedudesign.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Saint-Etienne Cathedral",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "15th-century Gothic cathedral in the old town with a striking west facade, notable stained glass and the Bishop's Palace forming an imposing ensemble",
+      "distance": 0.5,
+      "URL": "https://www.diocese-saintetienne.fr/"
+    },
+    {
+      "rank": 7,
+      "name": "Place du Peuple",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "The main square of Saint-Etienne with its large covered market, surrounded by cafes and the daily bustle of a working industrial city",
+      "distance": 0.3,
+      "URL": "https://www.saint-etienne.fr/"
+    },
+    {
+      "rank": 8,
+      "name": "Planete Aquatique",
+      "postcode": "38291",
+      "distanceKmFromAirport": 50,
+      "description": "Large water park and leisure complex near Lyon, accessible from Saint-Etienne for a family day out with indoor and outdoor pools and water slides",
+      "distance": 45.0,
+      "URL": "https://www.planete-aquatique.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Gorges de la Loire",
+      "postcode": "42122",
+      "distanceKmFromAirport": 20,
+      "description": "Spectacular volcanic gorge carved by the Loire south of Saint-Etienne with hiking trails, rock climbing and the Grangent dam lake for water sports",
+      "distance": 15.0,
+      "URL": "https://www.saint-etienne.fr/"
+    },
+    {
+      "rank": 10,
+      "name": "Stade Geoffroy-Guichard",
+      "postcode": "42000",
+      "distanceKmFromAirport": 9,
+      "description": "The iconic Chaudron stadium, home of AS Saint-Etienne since 1931 with a 41,965 capacity; the most successful club in French football history with 10 league titles",
+      "distance": 2.0,
+      "URL": "https://www.asse.fr/en/"
+    }
+  ]
+}

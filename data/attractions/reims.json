@@ -1,0 +1,98 @@
+{
+  "city": "Reims",
+  "country": "France",
+  "airportPostcode": "51100",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Reims Cathedral (UNESCO)",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "One of the greatest Gothic cathedrals in Europe, built from 1211; the traditional coronation church of French kings with 2,303 sculptures and Chagall windows",
+      "distance": 0.5,
+      "URL": "https://www.cathedrale-reims.fr/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Palace of Tau (UNESCO)",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "UNESCO World Heritage former archbishop's palace next to the cathedral with the original statuary from the cathedral facade and royal coronation treasures",
+      "distance": 0.5,
+      "URL": "https://www.palais-tau.fr/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Champagne Cellars",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "The great Champagne houses Mumm, Taittinger, Ruinart and Pommery offer cellar tours through 10km of Roman chalk tunnels; an incomparable experience",
+      "distance": 1.0,
+      "URL": "https://www.champagne-taittinger.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Museum of Fine Arts",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "Impressive regional museum in a former abbey with outstanding collections of Flemish tapestries, Corot landscapes and works by Cranach and David",
+      "distance": 0.8,
+      "URL": "https://musees-reims.fr/en/"
+    },
+    {
+      "rank": 5,
+      "name": "World War I Surrender Room (Musee de la Reddition)",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "In this schoolroom on 7 May 1945, German officers signed the unconditional surrender ending WWII in Europe; preserved exactly as it was that historic night",
+      "distance": 1.5,
+      "URL": "https://musees-reims.fr/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Saint-Remi Basilica (UNESCO)",
+      "postcode": "51100",
+      "distanceKmFromAirport": 10,
+      "description": "UNESCO World Heritage 11th-century Romanesque basilica where St. Remigius baptised Clovis, king of the Franks; contains the saint's magnificent Gothic tomb",
+      "distance": 2.0,
+      "URL": "https://www.reims.fr/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Place Drouet d'Erlon",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "Reims's lively pedestrian boulevard with fountains, cafes and the city's main outdoor space; the social heart of the city flanked by Art Deco and Belle Epoque facades",
+      "distance": 0.5,
+      "URL": "https://www.reims.fr/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Mumm Champagne House",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "G.H. Mumm, Grand Prix winner's champagne; guided cellar tours and tastings of their prestige cuvees in the legendary chalk tunnels beneath Reims",
+      "distance": 0.8,
+      "URL": "https://www.mumm.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Carnegie Library",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "Magnificent Art Deco library funded by Andrew Carnegie in 1928 with a striking mosaic facade; one of the finest examples of post-WWI Reims reconstruction",
+      "distance": 0.8,
+      "URL": "https://www.reims.fr/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Stade Auguste-Delaune",
+      "postcode": "51100",
+      "distanceKmFromAirport": 9,
+      "description": "Home of Stade de Reims with 21,684 capacity; one of France's great historic clubs, six-time champions of France and two-time European Cup finalists in the 1950s",
+      "distance": 1.5,
+      "URL": "https://www.stade-de-reims.com/en/"
+    }
+  ]
+}

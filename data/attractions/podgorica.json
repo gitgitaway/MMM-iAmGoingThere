@@ -1,0 +1,98 @@
+{
+  "city": "Podgorica",
+  "country": "Montenegro",
+  "airportPostcode": "81000",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Millennium Bridge",
+      "postcode": "81000",
+      "distanceKmFromAirport": 13,
+      "description": "Distinctive cable-stayed bridge over the Moraca river, symbol of modern Podgorica",
+      "distance": 1.0,
+      "URL": "https://www.visit-montenegro.com"
+    },
+    {
+      "rank": 2,
+      "name": "Ostrog Monastery",
+      "postcode": "81400",
+      "distanceKmFromAirport": 87,
+      "description": "Extraordinary 17th-century monastery built into a sheer cliff face, Montenegro's holiest site",
+      "distance": 75.0,
+      "URL": "https://manastir-ostrog.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Stara Varos (Old Town)",
+      "postcode": "81000",
+      "distanceKmFromAirport": 13,
+      "description": "Ottoman old town with mosques, hammam ruins and the Sahat-Kula clock tower",
+      "distance": 1.0,
+      "URL": "https://www.nparkovi.me"
+    },
+    {
+      "rank": 4,
+      "name": "Cathedral of Christ's Resurrection",
+      "postcode": "81000",
+      "distanceKmFromAirport": 13,
+      "description": "Imposing modern Orthodox cathedral completed in 2014 with remarkable frescoes",
+      "distance": 1.0,
+      "URL": "https://www.visit-montenegro.com"
+    },
+    {
+      "rank": 5,
+      "name": "Skadar Lake National Park",
+      "postcode": "81305",
+      "distanceKmFromAirport": 22,
+      "description": "Largest lake in the Balkans, a bird sanctuary with pelicans and medieval monasteries",
+      "distance": 25.0,
+      "URL": "https://nparkovi.me/destinacije/nacionalni-park-skadarsko-jezero/"
+    },
+    {
+      "rank": 6,
+      "name": "Moraca River Canyon",
+      "postcode": "81400",
+      "distanceKmFromAirport": 32,
+      "description": "Dramatic gorge downstream from the city with crystal-clear turquoise water",
+      "distance": 20.0,
+      "URL": "https://www.visit-montenegro.com"
+    },
+    {
+      "rank": 7,
+      "name": "Gorica Hill",
+      "postcode": "81000",
+      "distanceKmFromAirport": 14,
+      "description": "Green hill park above the city with forest walks and views over Podgorica",
+      "distance": 2.0,
+      "URL": "https://www.visit-montenegro.com"
+    },
+    {
+      "rank": 8,
+      "name": "Ribnica River Confluence",
+      "postcode": "81000",
+      "distanceKmFromAirport": 13,
+      "description": "Point where Ribnica meets Moraca with the ruins of a medieval Ribnica fortress",
+      "distance": 1.0,
+      "URL": "https://www.visit-montenegro.com"
+    },
+    {
+      "rank": 9,
+      "name": "Duklja Roman Ruins",
+      "postcode": "81000",
+      "distanceKmFromAirport": 17,
+      "description": "Excavated remains of the Roman city of Docleatae on the outskirts of Podgorica",
+      "distance": 5.0,
+      "URL": "https://www.visit-montenegro.com"
+    },
+    {
+      "rank": 10,
+      "name": "Natural History Museum",
+      "postcode": "81000",
+      "distanceKmFromAirport": 13,
+      "description": "Montenegro's natural world and geology in a neoclassical building",
+      "distance": 1.0,
+      "URL": "https://www.pmcg.co.me/"
+    }
+  ]
+}

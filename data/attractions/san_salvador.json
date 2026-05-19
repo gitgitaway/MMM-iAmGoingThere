@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Santa Ana Volcano Hike",
-      "description": "Hike El Salvador's highest volcano (2,381m) with a volcanic crater lake"
+      "postcode": "2101",
+      "distanceKmFromAirport": 100,
+      "description": "Hike El Salvador's highest volcano (2,381m) with a volcanic crater lake",
+      "distance": 70.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 2,
       "name": "Parque Nacional Cerro Verde",
-      "description": "Trio of volcanoes - Santa Ana, Izalco and Cerro Verde in cloud forest"
+      "postcode": "2101",
+      "distanceKmFromAirport": 105,
+      "description": "Trio of volcanoes - Santa Ana, Izalco and Cerro Verde in cloud forest",
+      "distance": 78.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 3,
       "name": "Museo Nacional de Antropologia David J Guzman",
-      "description": "El Salvador's finest pre-Columbian artefacts including the colossal Tazumal Maya site"
+      "postcode": "1101",
+      "distanceKmFromAirport": 46,
+      "description": "El Salvador's finest pre-Columbian artefacts including the colossal Tazumal Maya site",
+      "distance": 3.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 4,
       "name": "Metropolitan Cathedral",
-      "description": "Unfinished cathedral and the tomb of Archbishop Oscar Romero - martyr and saint"
+      "postcode": "1101",
+      "distanceKmFromAirport": 44,
+      "description": "Unfinished cathedral and the tomb of Archbishop Oscar Romero - martyr and saint",
+      "distance": 0.5,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 5,
       "name": "Mercado Ex-Cuartel",
-      "description": "San Salvador's largest artisanal market with pupusas, handicrafts and hammocks"
+      "postcode": "1101",
+      "distanceKmFromAirport": 44,
+      "description": "San Salvador's largest artisanal market with pupusas, handicrafts and hammocks",
+      "distance": 1.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 6,
       "name": "Zona Rosa Restaurant District",
-      "description": "San Salvador's upscale dining quarter with the best Salvadoran cuisine"
+      "postcode": "1101",
+      "distanceKmFromAirport": 46,
+      "description": "San Salvador's upscale dining quarter with the best Salvadoran cuisine",
+      "distance": 3.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 7,
       "name": "Joya de Ceren",
-      "description": "UNESCO World Heritage Maya village buried by a volcanic eruption - the Pompeii of the Americas"
+      "postcode": "1602",
+      "distanceKmFromAirport": 60,
+      "description": "UNESCO World Heritage Maya village buried by a volcanic eruption - the Pompeii of the Americas",
+      "distance": 35.0,
+      "URL": "https://whc.unesco.org/en/list/675"
     },
     {
       "rank": 8,
       "name": "Pacific Surf Beaches (El Tunco)",
-      "description": "World-class black sand surf beach 40km from the capital"
+      "postcode": "1601",
+      "distanceKmFromAirport": 35,
+      "description": "World-class black sand surf beach 40km from the capital",
+      "distance": 40.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 9,
       "name": "El Imposible National Park",
-      "description": "El Salvador's largest national park with cloud forest and rare wildlife"
+      "postcode": "2302",
+      "distanceKmFromAirport": 165,
+      "description": "El Salvador's largest national park with cloud forest and rare wildlife",
+      "distance": 130.0,
+      "URL": "https://www.cultura.gob.sv/"
     },
     {
       "rank": 10,
       "name": "Pupusa with Curtido",
-      "description": "El Salvador's national dish - stuffed masa corn cake with loroco flower and cheese"
+      "postcode": "1101",
+      "distanceKmFromAirport": 44,
+      "description": "El Salvador's national dish - stuffed masa corn cake with loroco flower and cheese",
+      "distance": 0.0,
+      "URL": "https://www.cultura.gob.sv/"
     }
   ]
 }

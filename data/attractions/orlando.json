@@ -1,0 +1,98 @@
+{
+  "city": "Orlando",
+  "country": "USA",
+  "airportPostcode": "32827",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Walt Disney World Resort",
+      "postcode": "32830",
+      "distanceKmFromAirport": 53,
+      "description": "The world's most visited theme park resort — Magic Kingdom, EPCOT, Hollywood Studios and Animal Kingdom",
+      "distance": 35.0,
+      "URL": "https://www.disneyworld.disney.go.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Universal Studios Florida",
+      "postcode": "32819",
+      "distanceKmFromAirport": 36,
+      "description": "The Wizarding World of Harry Potter, Epic Universe (2025) and Hollywood movie-themed rides",
+      "distance": 18.0,
+      "URL": "https://www.universalorlando.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Kennedy Space Center",
+      "postcode": "32899",
+      "distanceKmFromAirport": 78,
+      "description": "Tour the launch pads, see a Space Shuttle and watch a live rocket launch — 60 km east of Orlando",
+      "distance": 60.0,
+      "URL": "https://www.kennedyspacecenter.com/"
+    },
+    {
+      "rank": 4,
+      "name": "SeaWorld Orlando",
+      "postcode": "32821",
+      "distanceKmFromAirport": 38,
+      "description": "Marine life shows, roller coasters over the lagoon and the Manta ray feeding experience",
+      "distance": 20.0,
+      "URL": "https://seaworld.com/orlando/"
+    },
+    {
+      "rank": 5,
+      "name": "ICON Park",
+      "postcode": "32819",
+      "distanceKmFromAirport": 36,
+      "description": "International Drive entertainment complex — the giant ICON Orlando 400 observation wheel and Madame Tussauds",
+      "distance": 18.0,
+      "URL": "https://iconparkorlando.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Wekiwa Springs State Park",
+      "postcode": "32703",
+      "distanceKmFromAirport": 48,
+      "description": "Natural spring swimming hole with crystal-clear 68°F water — kayaking and wildlife viewing year-round",
+      "distance": 30.0,
+      "URL": "https://www.floridastateparks.org/wekiwa-springs"
+    },
+    {
+      "rank": 7,
+      "name": "Disney Springs",
+      "postcode": "32830",
+      "distanceKmFromAirport": 53,
+      "description": "Disney's free outdoor shopping, dining and entertainment complex — the T-Rex restaurant is unforgettable",
+      "distance": 35.0,
+      "URL": "https://www.disneysprings.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Gatorland",
+      "postcode": "32837",
+      "distanceKmFromAirport": 38,
+      "description": "The Alligator Capital of the World — 2,000 alligators and crocodiles, zipline over them and wrestle shows",
+      "distance": 20.0,
+      "URL": "https://www.gatorland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Premium Outlet Shopping",
+      "postcode": "32819",
+      "distanceKmFromAirport": 36,
+      "description": "Orlando Premium Outlets on International Drive — tax-free shopping at 180 luxury and designer brand stores",
+      "distance": 18.0,
+      "URL": "https://www.premiumoutlets.com/outlet/orlando-international"
+    },
+    {
+      "rank": 10,
+      "name": "Busch Gardens Tampa Day Trip",
+      "postcode": "33612",
+      "distanceKmFromAirport": 138,
+      "description": "African safari theme park 90 minutes west — Serengeti Express train and Cheetah Hunt roller coaster",
+      "distance": 120.0,
+      "URL": "https://buschgardens.com/tampa/"
+    }
+  ]
+}

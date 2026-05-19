@@ -1,0 +1,98 @@
+{
+  "city": "Pisa",
+  "country": "Italy",
+  "airportPostcode": "56121",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Leaning Tower of Pisa",
+      "postcode": "56126",
+      "distanceKmFromAirport": 4,
+      "description": "World-famous 56-metre white marble bell tower that began leaning during construction",
+      "distance": 1.0,
+      "URL": "https://www.opapisa.it/"
+    },
+    {
+      "rank": 2,
+      "name": "Piazza dei Miracoli",
+      "postcode": "56126",
+      "distanceKmFromAirport": 4,
+      "description": "UNESCO World Heritage square containing the cathedral, baptistery, tower and camposanto",
+      "distance": 1.0,
+      "URL": "https://www.opapisa.it/"
+    },
+    {
+      "rank": 3,
+      "name": "Pisa Cathedral",
+      "postcode": "56126",
+      "distanceKmFromAirport": 4,
+      "description": "Masterpiece of Romanesque architecture housing Galileo's lamp and Giovanni Pisano's pulpit",
+      "distance": 1.0,
+      "URL": "https://www.opapisa.it/"
+    },
+    {
+      "rank": 4,
+      "name": "Baptistery",
+      "postcode": "56126",
+      "distanceKmFromAirport": 4,
+      "description": "Largest baptistery in Italy with remarkable acoustics demonstrated by the guardian",
+      "distance": 1.0,
+      "URL": "https://www.opapisa.it/"
+    },
+    {
+      "rank": 5,
+      "name": "Camposanto Monumentale",
+      "postcode": "56126",
+      "distanceKmFromAirport": 4,
+      "description": "Monumental cemetery with ancient sarcophagi and rare medieval frescoes",
+      "distance": 1.0,
+      "URL": "https://www.opapisa.it/"
+    },
+    {
+      "rank": 6,
+      "name": "Piazza dei Cavalieri",
+      "postcode": "56126",
+      "distanceKmFromAirport": 3,
+      "description": "Second most important square with Palazzo della Carovana and the Scuola Normale Superiore",
+      "distance": 0.5,
+      "URL": "https://www.turismo.pisa.it"
+    },
+    {
+      "rank": 7,
+      "name": "Lungarni Promenade",
+      "postcode": "56125",
+      "distanceKmFromAirport": 3,
+      "description": "Elegant riverside walkway along the Arno with palaces and the iconic Luminara festival",
+      "distance": 0.5,
+      "URL": "https://www.turismo.pisa.it"
+    },
+    {
+      "rank": 8,
+      "name": "Palazzo Blu",
+      "postcode": "56125",
+      "distanceKmFromAirport": 3,
+      "description": "Blue-facade palace hosting major art exhibitions on the Lungarno",
+      "distance": 0.5,
+      "URL": "https://www.palazzoblu.it/"
+    },
+    {
+      "rank": 9,
+      "name": "Museo Nazionale di Pisa",
+      "postcode": "56126",
+      "distanceKmFromAirport": 4,
+      "description": "Major art collection in the Museo Nazionale di San Matteo with medieval Pisan sculpture",
+      "distance": 1.0,
+      "URL": "https://www.museodipisasanmatteo.it/"
+    },
+    {
+      "rank": 10,
+      "name": "Certosa di Pisa",
+      "postcode": "56011",
+      "distanceKmFromAirport": 14,
+      "description": "Stunning 14th-century Carthusian monastery with remarkable cloister and Natural History Museum",
+      "distance": 12.0,
+      "URL": "https://www.certosadipisa.it/"
+    }
+  ]
+}

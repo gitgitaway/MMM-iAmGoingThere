@@ -1,0 +1,98 @@
+{
+  "city": "Salzburg",
+  "country": "Austria",
+  "airportPostcode": "5020",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hohensalzburg Fortress",
+      "postcode": "5020",
+      "distanceKmFromAirport": 6,
+      "description": "One of Europe's best-preserved medieval castles looming above the old town since 1077",
+      "distance": 1.5,
+      "URL": "https://www.salzburg-burgen.at/en/hohensalzburg-fortress/"
+    },
+    {
+      "rank": 2,
+      "name": "Mozart's Birthplace",
+      "postcode": "5020",
+      "distanceKmFromAirport": 4,
+      "description": "Museum in the house where Wolfgang Amadeus Mozart was born in 1756 on Getreidegasse",
+      "distance": 0.5,
+      "URL": "https://www.mozarteum.at/en/museums/mozarts-birthplace/"
+    },
+    {
+      "rank": 3,
+      "name": "Mirabell Palace & Gardens",
+      "postcode": "5020",
+      "distanceKmFromAirport": 5,
+      "description": "Baroque palace and formal gardens featured in The Sound of Music — do-re-mi staircase",
+      "distance": 1.0,
+      "URL": "https://www.salzburg.info/en/sights/top10/mirabell-palace"
+    },
+    {
+      "rank": 4,
+      "name": "Salzburg Old Town (Altstadt)",
+      "postcode": "5020",
+      "distanceKmFromAirport": 4,
+      "description": "UNESCO World Heritage baroque old town with the Getreidegasse shopping street and cathedral",
+      "distance": 0.3,
+      "URL": "https://www.salzburg.info/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Hallstatt Day Trip",
+      "postcode": "4830",
+      "distanceKmFromAirport": 79,
+      "description": "Impossibly picturesque lakeside village 75 km away — one of the world's most beautiful villages",
+      "distance": 75.0,
+      "URL": "https://www.hallstatt.net/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Salzburg Cathedral",
+      "postcode": "5020",
+      "distanceKmFromAirport": 5,
+      "description": "Magnificent early Baroque cathedral with three organs and a treasury of religious art",
+      "distance": 0.8,
+      "URL": "https://www.salzburger-dom.at/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Hellbrunn Palace & Trick Fountains",
+      "postcode": "5020",
+      "distanceKmFromAirport": 9,
+      "description": "17th-century pleasure palace with the world's oldest baroque trick fountain gardens",
+      "distance": 5.0,
+      "URL": "https://www.hellbrunn.at/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Sound of Music Tour",
+      "postcode": "5020",
+      "distanceKmFromAirport": 6,
+      "description": "Follow the movie locations through Salzburg city and the surrounding Salzkammergut lakes",
+      "distance": 2.0,
+      "URL": "https://www.panoramatours.com/en/salzburg/sound-of-music/"
+    },
+    {
+      "rank": 9,
+      "name": "Untersberg Mountain",
+      "postcode": "5083",
+      "distanceKmFromAirport": 19,
+      "description": "Cable car to 1,776 m on the mountain straddling Austria and Germany with panoramic alpine views",
+      "distance": 15.0,
+      "URL": "https://www.untersbergbahn.at/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Museum der Moderne Monchsberg",
+      "postcode": "5020",
+      "distanceKmFromAirport": 5,
+      "description": "Contemporary art museum perched on a cliffside above the old town with sweeping city views",
+      "distance": 1.0,
+      "URL": "https://www.museumdermoderne.at/en/"
+    }
+  ]
+}

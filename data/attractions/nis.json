@@ -1,0 +1,98 @@
+{
+  "city": "Nis",
+  "country": "Serbia",
+  "airportPostcode": "18210",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nis Fortress",
+      "postcode": "18000",
+      "distanceKmFromAirport": 3,
+      "description": "Impressive 18th-century Ottoman fortress on the Nisava river with four gates and towers",
+      "distance": 0.5,
+      "URL": "https://turistickinis.rs/"
+    },
+    {
+      "rank": 2,
+      "name": "Skull Tower (Cele Kula)",
+      "postcode": "18000",
+      "distanceKmFromAirport": 5,
+      "description": "Chilling Ottoman tower built from the skulls of Serbian rebels after the 1809 Battle of Cegar",
+      "distance": 1.5,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 3,
+      "name": "Naissus Archaeological Site",
+      "postcode": "18000",
+      "distanceKmFromAirport": 6,
+      "description": "Birthplace of Emperor Constantine the Great with Roman ruins and basilicas",
+      "distance": 3.0,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 4,
+      "name": "Nis Concentration Camp Memorial",
+      "postcode": "18000",
+      "distanceKmFromAirport": 5,
+      "description": "WWII Nazi camp where 10,000 people were executed, now a solemn memorial",
+      "distance": 2.0,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 5,
+      "name": "Cegar Hill Memorial",
+      "postcode": "18204",
+      "distanceKmFromAirport": 10,
+      "description": "Site of the Battle of Cegar with a memorial chapel on the hillside",
+      "distance": 8.0,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 6,
+      "name": "Main Pedestrian Zone (Zona)",
+      "postcode": "18000",
+      "distanceKmFromAirport": 3,
+      "description": "Lively city centre promenade with restaurants, cafes and evening atmosphere",
+      "distance": 0.5,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 7,
+      "name": "Mediana Roman Complex",
+      "postcode": "18000",
+      "distanceKmFromAirport": 6,
+      "description": "4th-century Roman villa complex near the fortress with mosaic floors",
+      "distance": 3.0,
+      "URL": "http://www.mediana.org.rs/"
+    },
+    {
+      "rank": 8,
+      "name": "Suva Planina Mountain",
+      "postcode": "18220",
+      "distanceKmFromAirport": 32,
+      "description": "National park with dramatic Sicevo Gorge and hiking in the Balkan highlands",
+      "distance": 30.0,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 9,
+      "name": "Sicevo Gorge",
+      "postcode": "18220",
+      "distanceKmFromAirport": 22,
+      "description": "Spectacular limestone gorge carved by the Nisava river with walking trails",
+      "distance": 20.0,
+      "URL": "https://www.ni.rs"
+    },
+    {
+      "rank": 10,
+      "name": "Nis Thermal Spa",
+      "postcode": "18211",
+      "distanceKmFromAirport": 12,
+      "description": "Natural thermal springs at the Niska Banja spa resort just 10km from the city",
+      "distance": 10.0,
+      "URL": "https://www.niska-banja.org/"
+    }
+  ]
+}

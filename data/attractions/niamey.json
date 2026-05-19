@@ -1,0 +1,98 @@
+{
+  "city": "Niamey",
+  "country": "Niger",
+  "airportPostcode": "BP 10099",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Niger",
+      "postcode": "BP 248",
+      "distanceKmFromAirport": 13,
+      "description": "World-class outdoor museum with dinosaur fossils, traditional crafts and a zoo",
+      "distance": 2.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Marche",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 12,
+      "description": "West African market with Tuareg silverwork, leather goods and indigo cloth",
+      "distance": 1.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 3,
+      "name": "Niger River Pirogue Cruise",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 13,
+      "description": "Sunset boat on the Niger with hippos and pelicans",
+      "distance": 2.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 4,
+      "name": "Agadez (Day Trip)",
+      "postcode": "BP 142",
+      "distanceKmFromAirport": 912,
+      "description": "UNESCO World Heritage Tuareg city in the Sahara with the famous mud-brick minaret",
+      "distance": 900.0,
+      "URL": "https://whc.unesco.org/en/list/1268"
+    },
+    {
+      "rank": 5,
+      "name": "Village Artisanal",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 14,
+      "description": "Craft village with Tuareg silversmiths making the famous Agadez Cross pendants",
+      "distance": 3.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 6,
+      "name": "Kennedy Bridge",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 13,
+      "description": "Main bridge over the Niger river with views of the capital",
+      "distance": 2.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 7,
+      "name": "Palais de Justice Cultural Events",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 12,
+      "description": "Colonial courts building hosting festivals and cultural performances",
+      "distance": 1.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 8,
+      "name": "Wadata Market",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 14,
+      "description": "Traditional market in the Hausa quarter with kola nuts, dried goods and spices",
+      "distance": 3.0,
+      "URL": "https://www.nigerembassyusa.org"
+    },
+    {
+      "rank": 9,
+      "name": "Musee de la BCEAO",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 13,
+      "description": "Economic history of the West African franc zone in a modern museum",
+      "distance": 2.0,
+      "URL": "https://www.bceao.int/"
+    },
+    {
+      "rank": 10,
+      "name": "Djerma Millet Porridge",
+      "postcode": "BP 10000",
+      "distanceKmFromAirport": 12,
+      "description": "Traditional Nigerien breakfast - millet porridge with sour milk and sugar",
+      "distance": 1.0,
+      "URL": "https://www.nigerembassyusa.org"
+    }
+  ]
+}

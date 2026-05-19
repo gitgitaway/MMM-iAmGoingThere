@@ -1,0 +1,98 @@
+{
+  "city": "San Sebastian",
+  "country": "Spain",
+  "airportPostcode": "20280",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "La Concha Beach",
+      "postcode": "20007",
+      "distanceKmFromAirport": 26,
+      "description": "Consistently voted one of Europe's finest city beaches, a perfect crescent of golden sand sheltered by the iconic bay promenade",
+      "distance": 1.5,
+      "URL": "https://www.sansebastianturismo.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Parte Vieja)",
+      "postcode": "20003",
+      "distanceKmFromAirport": 26,
+      "description": "Vibrant old quarter packed with pintxos bars, the famous food scene that has made San Sebastián Europe's culinary capital",
+      "distance": 1.0,
+      "URL": "https://www.sansebastianturismo.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Monte Igueldo",
+      "postcode": "20008",
+      "distanceKmFromAirport": 28,
+      "description": "Hilltop viewpoint reached by a historic funicular offering the most spectacular panorama over La Concha Bay and the coastline",
+      "distance": 3.5,
+      "URL": "https://www.monteigueldo.es/"
+    },
+    {
+      "rank": 4,
+      "name": "San Telmo Museum",
+      "postcode": "20003",
+      "distanceKmFromAirport": 26,
+      "description": "Outstanding Basque cultural museum in a 16th-century Dominican convent with works by El Greco and panoramic photography",
+      "distance": 1.2,
+      "URL": "https://www.santelmomuseoa.eus/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Basilica of Santa Maria del Coro",
+      "postcode": "20003",
+      "distanceKmFromAirport": 26,
+      "description": "Baroque basilica of 1774 serving as the de facto cathedral of San Sebastián, overlooking the old town's main square",
+      "distance": 0.8,
+      "URL": "https://www.sansebastianturismo.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Bretxa Market",
+      "postcode": "20003",
+      "distanceKmFromAirport": 26,
+      "description": "Traditional Basque covered market where chefs and locals shop for the world-class local produce underpinning the city's cuisine",
+      "distance": 0.9,
+      "URL": "https://www.mercadobretxa.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Miramar Palace",
+      "postcode": "20007",
+      "distanceKmFromAirport": 27,
+      "description": "Victorian summer palace of the Spanish royal family perched on a headland between La Concha and Ondarreta beaches",
+      "distance": 2.0,
+      "URL": "https://www.sansebastianturismo.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Aquarium Donostia",
+      "postcode": "20003",
+      "distanceKmFromAirport": 26,
+      "description": "Modern aquarium on the harbour with a dramatic walk-through shark tunnel and exhibits on Basque maritime history",
+      "distance": 1.0,
+      "URL": "https://www.aquariumss.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Monte Urgull",
+      "postcode": "20003",
+      "distanceKmFromAirport": 26,
+      "description": "Wooded hill above the old town topped by a giant Christ statue and the ruins of Castillo de la Mota with free views over the bay",
+      "distance": 1.5,
+      "URL": "https://www.sansebastianturismo.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Zurriola Beach and Kursaal",
+      "postcode": "20002",
+      "distanceKmFromAirport": 25,
+      "description": "Surfer's beach flanked by the twin glass cubes of the Kursaal Congress Centre, designed by Rafael Moneo and lit like lanterns at night",
+      "distance": 2.0,
+      "URL": "https://www.kursaal.eus/en/"
+    }
+  ]
+}

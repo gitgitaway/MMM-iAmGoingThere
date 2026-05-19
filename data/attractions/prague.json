@@ -1,0 +1,98 @@
+{
+  "city": "Prague",
+  "country": "Czech Republic",
+  "airportPostcode": "161 00",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Prague Castle",
+      "postcode": "119 08",
+      "distanceKmFromAirport": 20,
+      "description": "The world's largest ancient castle complex — a city within a city with St Vitus Cathedral and royal palaces",
+      "distance": 2.5,
+      "URL": "https://www.hrad.cz/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Charles Bridge",
+      "postcode": "110 00",
+      "distanceKmFromAirport": 18,
+      "description": "Magnificent 14th-century stone bridge lined with 30 Baroque saint statues spanning the Vltava",
+      "distance": 1.5,
+      "URL": "https://www.prague.eu/en/object/places/93/charles-bridge-karluv-most"
+    },
+    {
+      "rank": 3,
+      "name": "Old Town Square & Astronomical Clock",
+      "postcode": "110 00",
+      "distanceKmFromAirport": 17,
+      "description": "Europe's most beautiful medieval square with the 1410 Orloj clock and the Gothic Tyn Church",
+      "distance": 0.3,
+      "URL": "https://www.prague.eu/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Josefov Jewish Quarter",
+      "postcode": "110 00",
+      "distanceKmFromAirport": 18,
+      "description": "The former Jewish ghetto with six synagogues, Europe's oldest active Jewish cemetery and Franz Kafka's birthplace",
+      "distance": 0.8,
+      "URL": "https://www.jewishmuseum.cz/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Wenceslas Square",
+      "postcode": "110 00",
+      "distanceKmFromAirport": 18,
+      "description": "The broad commercial boulevard at the heart of the New Town — scene of the 1989 Velvet Revolution",
+      "distance": 0.8,
+      "URL": "https://www.prague.eu/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Petrin Hill & Lookout Tower",
+      "postcode": "118 00",
+      "distanceKmFromAirport": 20,
+      "description": "Prague's mini Eiffel Tower atop a wooded hill with panoramic views and a rose garden",
+      "distance": 2.5,
+      "URL": "https://www.petrin-hill.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Strahov Monastery & Library",
+      "postcode": "118 00",
+      "distanceKmFromAirport": 20,
+      "description": "Breathtakingly beautiful baroque library halls that look like something from a fantasy novel",
+      "distance": 2.5,
+      "URL": "https://www.strahovskyklaster.cz/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Czech Beer Culture",
+      "postcode": "150 00",
+      "distanceKmFromAirport": 18,
+      "description": "Czech Republic has the world's highest per-capita beer consumption — visit U Fleku brewery dating to 1499",
+      "distance": 1.0,
+      "URL": "https://www.ufleku.cz/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Museum of Communism",
+      "postcode": "110 00",
+      "distanceKmFromAirport": 18,
+      "description": "Fascinating museum documenting life in communist Czechoslovakia with genuine artefacts and exhibits",
+      "distance": 0.5,
+      "URL": "https://www.muzeumkomunismu.cz/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Kutna Hora Bone Church Day Trip",
+      "postcode": "284 01",
+      "distanceKmFromAirport": 87,
+      "description": "The extraordinary Sedlec Ossuary decorated with the bones of 40,000 people — 70 km from Prague",
+      "distance": 70.0,
+      "URL": "https://www.kostnice.cz/en/"
+    }
+  ]
+}

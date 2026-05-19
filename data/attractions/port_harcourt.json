@@ -1,0 +1,98 @@
+{
+  "city": "Port Harcourt",
+  "country": "Nigeria",
+  "airportPostcode": "500001",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Port Harcourt Pleasure Park",
+      "postcode": "500001",
+      "distanceKmFromAirport": 27,
+      "description": "Riverside amusement park with gardens and the largest Ferris wheel in Nigeria",
+      "distance": 2.0,
+      "URL": "https://www.phpleasurepark.ng/"
+    },
+    {
+      "rank": 2,
+      "name": "Isaac Boro Garden Park",
+      "postcode": "500001",
+      "distanceKmFromAirport": 27,
+      "description": "Botanical garden and recreation area named after the Niger Delta activist",
+      "distance": 2.0,
+      "URL": "https://www.riversstateparks.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Bonny Island Excursion",
+      "postcode": "500001",
+      "distanceKmFromAirport": 70,
+      "description": "Historic slave trade island with colonial-era buildings in the Niger Delta",
+      "distance": 60.0,
+      "URL": "https://www.riverstourism.ng"
+    },
+    {
+      "rank": 4,
+      "name": "Trans Amadi Area & Oil Industry",
+      "postcode": "500001",
+      "distanceKmFromAirport": 28,
+      "description": "Hub of Nigeria's oil industry - driving through the industrial heart of African oil",
+      "distance": 5.0,
+      "URL": "https://www.riverstourism.ng"
+    },
+    {
+      "rank": 5,
+      "name": "Opobo Town Day Trip",
+      "postcode": "524001",
+      "distanceKmFromAirport": 112,
+      "description": "Historic town founded by King Ja Ja - one of Nigeria's greatest trade empire builders",
+      "distance": 90.0,
+      "URL": "https://www.riverstourism.ng"
+    },
+    {
+      "rank": 6,
+      "name": "Port Harcourt Zoo",
+      "postcode": "500001",
+      "distanceKmFromAirport": 28,
+      "description": "Zoo with West African wildlife including pygmy hippos",
+      "distance": 3.0,
+      "URL": "https://www.phzoo.com.ng/"
+    },
+    {
+      "rank": 7,
+      "name": "Rivers State Museum",
+      "postcode": "500001",
+      "distanceKmFromAirport": 27,
+      "description": "Ijaw, Ogoni and Ikwerre culture of the Niger Delta peoples",
+      "distance": 2.0,
+      "URL": "https://www.riversmuseum.gov.ng/"
+    },
+    {
+      "rank": 8,
+      "name": "Rumuola & GRA Market",
+      "postcode": "500001",
+      "distanceKmFromAirport": 24,
+      "description": "City markets with fresh Niger Delta produce and street food",
+      "distance": 5.0,
+      "URL": "https://www.riverstourism.ng"
+    },
+    {
+      "rank": 9,
+      "name": "Live Music at Port Harcourt",
+      "postcode": "500001",
+      "distanceKmFromAirport": 27,
+      "description": "The Niger Delta has a rich music tradition - highlife and Afrobeats bars",
+      "distance": 2.0,
+      "URL": "https://www.riverstourism.ng"
+    },
+    {
+      "rank": 10,
+      "name": "Bole and Fish",
+      "postcode": "500001",
+      "distanceKmFromAirport": 26,
+      "description": "Port Harcourt's definitive street food - grilled plantain with smoked fish and pepper sauce",
+      "distance": 1.0,
+      "URL": "https://www.riverstourism.ng"
+    }
+  ]
+}

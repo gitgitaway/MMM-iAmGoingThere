@@ -1,0 +1,98 @@
+{
+  "city": "Nicosia",
+  "country": "Cyprus",
+  "airportPostcode": "2400",
+  "airportDistanceKm": 46,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Venetian Walls",
+      "postcode": "1016",
+      "distanceKmFromAirport": 47,
+      "description": "Magnificent 16th-century star-shaped Venetian fortifications encircle the old city; eleven heart-shaped bastions and three gates still define Nicosia's layout",
+      "distance": 0.5,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Cyprus Museum",
+      "postcode": "1097",
+      "distanceKmFromAirport": 47,
+      "description": "The island's premier archaeological museum with a breathtaking collection of Cypriot antiquities spanning 9,000 years from the Neolithic to Byzantine periods",
+      "distance": 1.0,
+      "URL": "https://www.visitcyprus.com/en/index.php/en/discovercyprus/culture/museums-and-galleries/item/5-the-cyprus-museum"
+    },
+    {
+      "rank": 3,
+      "name": "Green Line",
+      "postcode": "1011",
+      "distanceKmFromAirport": 47,
+      "description": "The UN buffer zone dividing the world's last partitioned capital; cross the Ledra Street checkpoint to visit the Turkish-Cypriot north of this unique city",
+      "distance": 0.3,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Selimiye Mosque (former St. Sophia Cathedral)",
+      "postcode": "1011",
+      "distanceKmFromAirport": 47,
+      "description": "Superb Gothic cathedral from 1326 converted to a mosque after the Ottoman conquest of 1570; the finest Gothic building in the Eastern Mediterranean",
+      "distance": 0.8,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Laiki Geitonia (Old Town)",
+      "postcode": "1011",
+      "distanceKmFromAirport": 47,
+      "description": "Restored traditional neighbourhood within the Venetian walls with craft workshops, tavernas and winding lanes full of Cypriot character",
+      "distance": 0.5,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Leventis Municipal Museum",
+      "postcode": "1011",
+      "distanceKmFromAirport": 47,
+      "description": "Award-winning museum tracing Nicosia's history from antiquity to modern times through rich artefact collections in a beautifully restored building",
+      "distance": 0.5,
+      "URL": "https://www.leventismuseum.org.cy/"
+    },
+    {
+      "rank": 7,
+      "name": "Archbishop's Palace",
+      "postcode": "1016",
+      "distanceKmFromAirport": 47,
+      "description": "Byzantine complex housing the Byzantine Museum with an extraordinary collection of icons spanning 900 years; the seat of the Cypriot Orthodox Church",
+      "distance": 0.8,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Ledra Street",
+      "postcode": "1011",
+      "distanceKmFromAirport": 47,
+      "description": "Nicosia's main pedestrian shopping street cutting through the old town to the UN checkpoint, lined with shops, cafes and street performers",
+      "distance": 0.4,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Athalassa National Forest Park",
+      "postcode": "2400",
+      "distanceKmFromAirport": 47,
+      "description": "Large forest park south of Nicosia with lakes, walking trails and a nature reserve; the lung of the capital and popular recreation area for residents",
+      "distance": 4.0,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "GSP Stadium",
+      "postcode": "2020",
+      "distanceKmFromAirport": 47,
+      "description": "Home of both APOEL FC and Omonia Nicosia, Cyprus's two most famous clubs and regular UEFA competition participants, with a 22,700 capacity",
+      "distance": 3.5,
+      "URL": "https://www.apoel.com.cy/en/"
+    }
+  ]
+}

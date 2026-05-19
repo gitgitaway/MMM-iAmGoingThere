@@ -1,0 +1,98 @@
+{
+  "city": "Rennes",
+  "country": "France",
+  "airportPostcode": "35136",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Rennes Parliament of Brittany",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Magnificent seventeenth-century palace that was the parliament of independent Brittany, with richly decorated gilded chambers",
+      "distance": 0.8,
+      "URL": "https://www.tourisme-rennes.com/en/rennes-to-see-to-do/heritage/parliament-of-brittany/"
+    },
+    {
+      "rank": 2,
+      "name": "Place des Lices",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Historic square hosting Brittany's largest Saturday market since the Middle Ages, overflowing with local produce and crafts",
+      "distance": 0.7,
+      "URL": "https://www.tourisme-rennes.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Vieux Rennes (Old Town)",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Enchanting medieval quarter of half-timbered houses that miraculously survived the great fire of 1720, now a lively dining hub",
+      "distance": 0.8,
+      "URL": "https://www.tourisme-rennes.com/en/rennes-to-see-to-do/heritage/old-rennes/"
+    },
+    {
+      "rank": 4,
+      "name": "Musée de Bretagne",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Comprehensive museum exploring Brittany's unique Celtic heritage, from prehistoric megaliths to contemporary culture",
+      "distance": 0.5,
+      "URL": "https://www.musee-bretagne.fr/en"
+    },
+    {
+      "rank": 5,
+      "name": "Les Champs Libres",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Striking contemporary cultural complex housing the museum, science gallery and regional library in one landmark building",
+      "distance": 0.5,
+      "URL": "https://www.leschampslibres.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Cathédrale Saint-Pierre",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Neoclassical cathedral completed in 1844 after 57 years of construction, with a magnificent gilded altarpiece inside",
+      "distance": 0.7,
+      "URL": "https://www.tourisme-rennes.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Parc du Thabor",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Beautifully maintained French formal garden and English park with a rose garden of over 1800 varieties in the city centre",
+      "distance": 1.2,
+      "URL": "https://metropole.rennes.fr/parc-du-thabor"
+    },
+    {
+      "rank": 8,
+      "name": "Musée des Beaux-Arts de Rennes",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Fine arts museum with 5000 works spanning antiquity to the present, including a rare Da Vinci drawing and important Breton school paintings",
+      "distance": 0.6,
+      "URL": "https://mba.rennes.fr/en"
+    },
+    {
+      "rank": 9,
+      "name": "Place de la Mairie",
+      "postcode": "35000",
+      "distanceKmFromAirport": 9,
+      "description": "Elegant central square flanked by the neoclassical town hall and opera house, the formal heart of 18th-century Rennes",
+      "distance": 0.4,
+      "URL": "https://www.tourisme-rennes.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Écomusée du Pays de Rennes",
+      "postcode": "35200",
+      "distanceKmFromAirport": 11,
+      "description": "Living farm museum on a historic country estate showing Breton rural life across the centuries with rare breed animals",
+      "distance": 4.5,
+      "URL": "https://www.ecomusee-rennes-metropole.fr/"
+    }
+  ]
+}

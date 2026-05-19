@@ -1,0 +1,98 @@
+{
+  "city": "Razgrad",
+  "country": "Bulgaria",
+  "airportPostcode": "7200",
+  "airportDistanceKm": 95,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Abritus Roman Fortress Museum",
+      "postcode": "7200",
+      "distanceKmFromAirport": 96,
+      "description": "Exceptional archaeological site of the Roman fortress Abritus where Emperor Decius was killed in 251 AD; museum with coins, weapons and inscriptions",
+      "distance": 1.0,
+      "URL": "https://www.abritus.eu/"
+    },
+    {
+      "rank": 2,
+      "name": "Ibrahim Pasha Mosque",
+      "postcode": "7200",
+      "distanceKmFromAirport": 96,
+      "description": "The largest mosque in Bulgaria and the Balkans, built in 1616 by Ibrahim Pasha, still an active place of worship and an architectural masterpiece",
+      "distance": 0.5,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 3,
+      "name": "Regional History Museum Razgrad",
+      "postcode": "7200",
+      "distanceKmFromAirport": 96,
+      "description": "Comprehensive regional museum with exhibits on the Thracian, Roman and Ottoman eras of the Razgrad area, including treasures from Abritus",
+      "distance": 0.5,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 4,
+      "name": "Beli Lom Nature Park",
+      "postcode": "7200",
+      "distanceKmFromAirport": 97,
+      "description": "Beautiful protected nature park along the Beli Lom river with riverside walking trails, rock monasteries and rich bird life in forested gorges",
+      "distance": 5.0,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 5,
+      "name": "Razgrad Town Square",
+      "postcode": "7200",
+      "distanceKmFromAirport": 96,
+      "description": "Central square with the Town Hall, the Church of the Assumption and an archaeological garden displaying Roman finds excavated in the city centre",
+      "distance": 0.3,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 6,
+      "name": "Art Gallery Razgrad",
+      "postcode": "7200",
+      "distanceKmFromAirport": 96,
+      "description": "Municipal gallery presenting Bulgarian fine art from the 19th century to the present, with a focus on regional artists from northeast Bulgaria",
+      "distance": 0.4,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 7,
+      "name": "Demir Baba Teke",
+      "postcode": "7450",
+      "distanceKmFromAirport": 110,
+      "description": "Extraordinary Alevi Muslim shrine 30km from Razgrad set among ancient oak trees, an important pilgrimage site for Bulgarian Turks and Alevi communities",
+      "distance": 30.0,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 8,
+      "name": "Samuil Fortress",
+      "postcode": "7454",
+      "distanceKmFromAirport": 105,
+      "description": "Medieval Bulgarian fortress from the 10th century near the village of Samuil, with impressive remains of towers and walls in a scenic countryside setting",
+      "distance": 25.0,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 9,
+      "name": "Kubrat (Day Trip)",
+      "postcode": "7300",
+      "distanceKmFromAirport": 110,
+      "description": "Nearby town named after the Great Khan Kubrat, founder of the first Bulgarian state, with a museum and archaeological park on the Danube plain",
+      "distance": 22.0,
+      "URL": "https://www.razgrad.bg/"
+    },
+    {
+      "rank": 10,
+      "name": "Ludogorets Arena",
+      "postcode": "7200",
+      "distanceKmFromAirport": 96,
+      "description": "Home of PFC Ludogorets Razgrad, Bulgaria's dominant club with 13 consecutive league titles and regular UEFA Champions and Europa League participant",
+      "distance": 1.5,
+      "URL": "https://www.ludogorets.com/en/"
+    }
+  ]
+}

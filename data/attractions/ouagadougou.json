@@ -1,0 +1,98 @@
+{
+  "city": "Ouagadougou",
+  "country": "Burkina Faso",
+  "airportPostcode": "BP 103",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "FESPACO African Film Festival",
+      "postcode": "12000",
+      "distanceKmFromAirport": 6,
+      "description": "Africa's largest cinema festival held every two years in February",
+      "distance": 3.0,
+      "URL": "https://www.fespaco.bf/"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Burkina Faso",
+      "postcode": "12000",
+      "distanceKmFromAirport": 5,
+      "description": "Traditional masks, bronze castings and daily life objects of the Mossi and Lobi",
+      "distance": 2.0,
+      "URL": "https://www.fespaco.bf"
+    },
+    {
+      "rank": 3,
+      "name": "Central Market (Grand Marche)",
+      "postcode": "12000",
+      "distanceKmFromAirport": 4,
+      "description": "Ouaga's main market with Burkinabe woven fabric, leather goods and food",
+      "distance": 1.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 4,
+      "name": "Mossi Royal Court",
+      "postcode": "12000",
+      "distanceKmFromAirport": 5,
+      "description": "Audience with the Mogho Naaba - the Mossi Emperor who still holds traditional power",
+      "distance": 2.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 5,
+      "name": "Maison du Peuple Cultural Centre",
+      "postcode": "12000",
+      "distanceKmFromAirport": 4,
+      "description": "Government arts centre hosting concerts and exhibitions",
+      "distance": 1.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 6,
+      "name": "Village Artisanal de Ouagadougou",
+      "postcode": "12000",
+      "distanceKmFromAirport": 6,
+      "description": "Bronze casting, leatherwork and weaving workshops in a craft village",
+      "distance": 3.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 7,
+      "name": "Laongo Sculpture Symposium",
+      "postcode": "11000",
+      "distanceKmFromAirport": 38,
+      "description": "Outdoor granite sculpture park 35km from the city",
+      "distance": 35.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 8,
+      "name": "Bangr-Weogo Urban Nature Reserve",
+      "postcode": "12000",
+      "distanceKmFromAirport": 8,
+      "description": "Urban nature park with gazelles and a botanical garden",
+      "distance": 5.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 9,
+      "name": "Temple of Enlightenment",
+      "postcode": "12000",
+      "distanceKmFromAirport": 8,
+      "description": "Syncretic temple built by a visionary with local stone and recycled materials",
+      "distance": 5.0,
+      "URL": "https://www.burkina-tourisme.com"
+    },
+    {
+      "rank": 10,
+      "name": "Riz Gras (Fat Rice)",
+      "postcode": "12000",
+      "distanceKmFromAirport": 4,
+      "description": "Burkina Faso's most popular dish - rice cooked in meat stock with vegetables",
+      "distance": 1.0,
+      "URL": "https://www.burkina-tourisme.com"
+    }
+  ]
+}

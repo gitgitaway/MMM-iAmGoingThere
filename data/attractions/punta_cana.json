@@ -1,0 +1,98 @@
+{
+  "city": "Punta Cana",
+  "country": "Dominican Republic",
+  "airportPostcode": "23301",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bavaro Beach",
+      "postcode": "23301",
+      "distanceKmFromAirport": 28,
+      "description": "35km of palm-lined white sand - one of the Caribbean's longest and most beautiful beaches",
+      "distance": 5.0,
+      "URL": "https://www.bavaro.do"
+    },
+    {
+      "rank": 2,
+      "name": "Isla Saona Day Trip",
+      "postcode": "22000",
+      "distanceKmFromAirport": 117,
+      "description": "Natural pool with starfish and deserted island beaches in a national park",
+      "distance": 95.0,
+      "URL": "https://www.islasaona.com"
+    },
+    {
+      "rank": 3,
+      "name": "Hoyo Azul Cenote",
+      "postcode": "23301",
+      "distanceKmFromAirport": 62,
+      "description": "Stunning natural turquoise swimming hole in the jungle",
+      "distance": 40.0,
+      "URL": "https://www.iguanamaniahoyo.com"
+    },
+    {
+      "rank": 4,
+      "name": "Zipline & Extreme Adventure Park",
+      "postcode": "23301",
+      "distanceKmFromAirport": 38,
+      "description": "Multiple ziplines over the jungle canopy in an eco-adventure park",
+      "distance": 15.0,
+      "URL": "https://www.ziplinepuntacana.com"
+    },
+    {
+      "rank": 5,
+      "name": "Catamaran Snorkelling Cruise",
+      "postcode": "23301",
+      "distanceKmFromAirport": 28,
+      "description": "Sailing catamaran to coral reefs with sea turtles and colourful fish",
+      "distance": 5.0,
+      "URL": "https://www.puntacanatours.com"
+    },
+    {
+      "rank": 6,
+      "name": "Buggies Safari (Dune Buggies)",
+      "postcode": "23301",
+      "distanceKmFromAirport": 33,
+      "description": "Buggy tour through villages, beaches and underground lagoons",
+      "distance": 10.0,
+      "URL": "https://www.buggieespuntacana.com"
+    },
+    {
+      "rank": 7,
+      "name": "Manatee Lagoon & Ecological Reserve",
+      "postcode": "23301",
+      "distanceKmFromAirport": 38,
+      "description": "Kayaking in mangroves and swimming with manatees in a protected reserve",
+      "distance": 15.0,
+      "URL": "https://www.manateelagon.com"
+    },
+    {
+      "rank": 8,
+      "name": "Altos de Chavon (La Romana)",
+      "postcode": "22000",
+      "distanceKmFromAirport": 122,
+      "description": "Replica 16th-century Mediterranean village with a 5,000-seat amphitheatre",
+      "distance": 100.0,
+      "URL": "https://www.casadecampo.com.do"
+    },
+    {
+      "rank": 9,
+      "name": "Cap Cana Luxury Marina",
+      "postcode": "23301",
+      "distanceKmFromAirport": 18,
+      "description": "Largest marina in the Caribbean with world-class deep sea fishing",
+      "distance": 8.0,
+      "URL": "https://www.capcana.com"
+    },
+    {
+      "rank": 10,
+      "name": "Mama Juana Rum Drink",
+      "postcode": "23301",
+      "distanceKmFromAirport": 25,
+      "description": "Dominican Republic's local spirit - rum, wine and honey infused with tree bark and herbs",
+      "distance": 0.5,
+      "URL": "https://www.drinksmama.com"
+    }
+  ]
+}

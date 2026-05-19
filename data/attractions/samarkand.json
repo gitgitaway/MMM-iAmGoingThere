@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Registan Square",
-      "description": "UNESCO World Heritage three-sided square of monumental madrassas - the heart of ancient Samarkand"
+      "postcode": "140100",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage three-sided square of monumental madrassas - the heart of ancient Samarkand",
+      "distance": 1.0,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 2,
       "name": "Gur-e-Amir (Tamerlane's Mausoleum)",
-      "description": "15th-century tomb of Tamerlane with a ribbed azure dome and jade sarcophagus"
+      "postcode": "140100",
+      "distanceKmFromAirport": 13,
+      "description": "15th-century tomb of Tamerlane with a ribbed azure dome and jade sarcophagus",
+      "distance": 1.5,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 3,
       "name": "Bibi-Khanym Mosque",
-      "description": "Tamerlane's colossal mosque - once the largest in the Islamic world, now majestically ruined"
+      "postcode": "140100",
+      "distanceKmFromAirport": 13,
+      "description": "Tamerlane's colossal mosque - once the largest in the Islamic world, now majestically ruined",
+      "distance": 1.0,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 4,
       "name": "Shah-i-Zinda Necropolis",
-      "description": "Avenue of 14 mausoleums with the most dazzling tiled facades in the Islamic world"
+      "postcode": "140100",
+      "distanceKmFromAirport": 14,
+      "description": "Avenue of 14 mausoleums with the most dazzling tiled facades in the Islamic world",
+      "distance": 2.0,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 5,
       "name": "Ulugbek Observatory",
-      "description": "15th-century astronomical observatory of astronomer-king Ulugbek with remarkable accuracy"
+      "postcode": "140100",
+      "distanceKmFromAirport": 14,
+      "description": "15th-century astronomical observatory of astronomer-king Ulugbek with remarkable accuracy",
+      "distance": 3.0,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 6,
       "name": "Afrasiab Museum",
-      "description": "Museum on the ancient hill-city of Maracanda with 7th-century frescoes"
+      "postcode": "140100",
+      "distanceKmFromAirport": 14,
+      "description": "Museum on the ancient hill-city of Maracanda with 7th-century frescoes",
+      "distance": 2.5,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 7,
       "name": "Samarkand Bazaar",
-      "description": "Silk Road market with the finest Uzbek silk suzanis, ikat robes and dried fruits"
+      "postcode": "140100",
+      "distanceKmFromAirport": 13,
+      "description": "Silk Road market with the finest Uzbek silk suzanis, ikat robes and dried fruits",
+      "distance": 1.0,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 8,
       "name": "Hazrat-Hizr Mosque",
-      "description": "19th-century blue-tiled mosque with a terrace overlooking Samarkand and the Registan"
+      "postcode": "140100",
+      "distanceKmFromAirport": 14,
+      "description": "19th-century blue-tiled mosque with a terrace overlooking Samarkand and the Registan",
+      "distance": 2.0,
+      "URL": "https://en.uzbektourism.uz/"
     },
     {
       "rank": 9,
       "name": "Samarkand Wine Tasting",
-      "description": "Soviet-era winery producing wine since 1868, still making Uzbekistan's best wines"
+      "postcode": "140100",
+      "distanceKmFromAirport": 14,
+      "description": "Soviet-era winery producing wine since 1868, still making Uzbekistan's best wines",
+      "distance": 3.0,
+      "URL": "https://www.samarkandwine.com/"
     },
     {
       "rank": 10,
       "name": "Paper Mill (Samarkand Paper)",
-      "description": "Demonstration of 2,000-year-old Samarkand paper-making techniques using mulberry bark"
+      "postcode": "140141",
+      "distanceKmFromAirport": 16,
+      "description": "Demonstration of 2,000-year-old Samarkand paper-making techniques using mulberry bark",
+      "distance": 5.0,
+      "URL": "https://en.uzbektourism.uz/"
     }
   ]
 }

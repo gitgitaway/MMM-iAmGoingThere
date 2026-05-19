@@ -1,0 +1,98 @@
+{
+  "city": "Panama City",
+  "country": "Panama",
+  "airportPostcode": "0816",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Panama Canal (Miraflores Locks)",
+      "postcode": "0816",
+      "distanceKmFromAirport": 50,
+      "description": "Watch container ships pass through one of the world's greatest engineering achievements",
+      "distance": 15.0,
+      "URL": "https://micanaldepanama.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Casco Viejo (Old Quarter)",
+      "postcode": "0843",
+      "distanceKmFromAirport": 37,
+      "description": "UNESCO World Heritage Spanish colonial quarter with French and American architecture",
+      "distance": 2.0,
+      "URL": "https://www.cascoviejo.org/"
+    },
+    {
+      "rank": 3,
+      "name": "San Blas Islands (Guna Yala)",
+      "postcode": "0000",
+      "distanceKmFromAirport": 80,
+      "description": "370 palm-fringed islands governed by the Guna indigenous people with perfect beaches",
+      "distance": 100.0,
+      "URL": "https://www.gunayala.gob.pa/"
+    },
+    {
+      "rank": 4,
+      "name": "Metropolitan Natural Park",
+      "postcode": "0816",
+      "distanceKmFromAirport": 40,
+      "description": "Tropical forest within the city limits with sloths, toucans and anteaters",
+      "distance": 5.0,
+      "URL": "https://www.parquemetropolitano.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Biomuseo",
+      "postcode": "0843",
+      "distanceKmFromAirport": 42,
+      "description": "Frank Gehry-designed museum on the continental divide and Panama's biodiversity",
+      "distance": 7.0,
+      "URL": "https://www.biomuseopanama.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Panama Viejo Archaeological Site",
+      "postcode": "0801",
+      "distanceKmFromAirport": 30,
+      "description": "Ruins of the first European city on the Pacific, razed by pirate Henry Morgan in 1671",
+      "distance": 5.0,
+      "URL": "https://www.panamaviejo.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Amador Causeway",
+      "postcode": "0843",
+      "distanceKmFromAirport": 43,
+      "description": "3km causeway of islands connected to the city with restaurants and the new Biomuseo",
+      "distance": 8.0,
+      "URL": "https://www.calzadadeamador.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Gamboa Rainforest & Monkey Island",
+      "postcode": "0816",
+      "distanceKmFromAirport": 55,
+      "description": "Boat trip on Gatun Lake to Monkey Island teeming with howler, capuchin and spider monkeys",
+      "distance": 28.0,
+      "URL": "https://www.gamboaresort.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Miraflores Visitors Centre",
+      "postcode": "0816",
+      "distanceKmFromAirport": 50,
+      "description": "Best view of the Canal locks with a museum and 3D IMAX film",
+      "distance": 15.0,
+      "URL": "https://micanaldepanama.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Mercado de Mariscos (Fish Market)",
+      "postcode": "0843",
+      "distanceKmFromAirport": 36,
+      "description": "Ceviche and fresh seafood directly from the Pacific at the historic fish market",
+      "distance": 1.0,
+      "URL": "https://www.visitpanama.com"
+    }
+  ]
+}

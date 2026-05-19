@@ -1,0 +1,98 @@
+{
+  "city": "Reggio Emilia",
+  "country": "Italy",
+  "airportPostcode": "42122",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Piazza Prampolini (Piazza del Duomo)",
+      "postcode": "42121",
+      "distanceKmFromAirport": 6,
+      "description": "Reggio Emilia's magnificent main square flanked by the Gothic Cathedral, the Bishop's Palace and the Renaissance Town Hall; a perfectly composed civic ensemble",
+      "distance": 0.5,
+      "URL": "https://www.visitreggioemilia.it/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Musei Civici",
+      "postcode": "42121",
+      "distanceKmFromAirport": 6,
+      "description": "Outstanding civic museums in the historic Palazzo dei Musei with collections of geology, natural history and an important gallery of Emilian Baroque paintings",
+      "distance": 0.5,
+      "URL": "https://www.visitreggioemilia.it/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Tricolour Museum",
+      "postcode": "42121",
+      "distanceKmFromAirport": 6,
+      "description": "Museum in the Palazzo del Capitano del Popolo where the Italian Tricolour flag was born in 1797; charts the history of Italian national identity and the Risorgimento",
+      "distance": 0.5,
+      "URL": "https://www.visitreggioemilia.it/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Calatrava Bridges",
+      "postcode": "42124",
+      "distanceKmFromAirport": 6,
+      "description": "Three striking bridges designed by Santiago Calatrava for the new high-speed rail station district; a remarkable contemporary architectural addition to the city",
+      "distance": 3.0,
+      "URL": "https://www.visitreggioemilia.it/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Reggio Children (Loris Malaguzzi Centre)",
+      "postcode": "42124",
+      "distanceKmFromAirport": 7,
+      "description": "International education centre celebrating the world-famous Reggio Emilia Approach to early childhood education, visited by educators from around the world",
+      "distance": 3.5,
+      "URL": "https://www.reggiochildren.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Parmigiano-Reggiano Dairy Visit",
+      "postcode": "42121",
+      "distanceKmFromAirport": 10,
+      "description": "Visit a working dairy producing the king of cheeses, Parmigiano-Reggiano DOP; Reggio Emilia is the co-producer with Parma of the world's greatest hard cheese",
+      "distance": 8.0,
+      "URL": "https://www.parmigianoreggiano.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Teatro Romolo Valli",
+      "postcode": "42121",
+      "distanceKmFromAirport": 6,
+      "description": "Neoclassical opera house from 1857 with an ornate interior; one of Emilia Romagna's leading performance venues hosting opera, dance and drama",
+      "distance": 0.5,
+      "URL": "https://www.teatroreggioemilia.it/"
+    },
+    {
+      "rank": 8,
+      "name": "Piazza della Vittoria",
+      "postcode": "42121",
+      "distanceKmFromAirport": 6,
+      "description": "Elegant square with the Prampolini monument and surrounded by Liberty-style early 20th-century buildings; a less-visited complement to the Cathedral Square",
+      "distance": 0.3,
+      "URL": "https://www.visitreggioemilia.it/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Bismantova Rock",
+      "postcode": "42030",
+      "distanceKmFromAirport": 45,
+      "description": "Dante described this extraordinary sandstone mesa in his Purgatorio; now a hiking and climbing destination in the Apennine foothills south of Reggio",
+      "distance": 35.0,
+      "URL": "https://www.visitreggioemilia.it/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Mapei Stadium - Citta del Tricolore",
+      "postcode": "42124",
+      "distanceKmFromAirport": 7,
+      "description": "Home of US Sassuolo, who played in the UEFA Europa League 2016-17; a modern 21,525-seat stadium shared with Reggiana and used for Italian national team games",
+      "distance": 4.0,
+      "URL": "https://www.sassuolocalcio.it/en/"
+    }
+  ]
+}

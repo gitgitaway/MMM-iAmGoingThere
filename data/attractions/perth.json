@@ -1,0 +1,98 @@
+{
+  "city": "Perth",
+  "country": "Australia",
+  "airportPostcode": "WA 6105",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kings Park & Botanic Garden",
+      "postcode": "WA 6005",
+      "distanceKmFromAirport": 20,
+      "description": "One of the world's largest city parks with wildflower displays above the Swan River",
+      "distance": 2.0,
+      "URL": "https://www.bgpa.wa.gov.au/kings-park"
+    },
+    {
+      "rank": 2,
+      "name": "Rottnest Island",
+      "postcode": "WA 6161",
+      "distanceKmFromAirport": 37,
+      "description": "Quokka-filled island paradise with car-free beaches, snorkelling and cycling",
+      "distance": 19.0,
+      "URL": "https://www.rottnestisland.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Fremantle",
+      "postcode": "WA 6160",
+      "distanceKmFromAirport": 32,
+      "description": "Maritime heritage port city with the Fremantle Prison, markets and craft beer scene",
+      "distance": 20.0,
+      "URL": "https://www.visitfremantle.com.au/"
+    },
+    {
+      "rank": 4,
+      "name": "Cottesloe Beach",
+      "postcode": "WA 6011",
+      "distanceKmFromAirport": 27,
+      "description": "Perth's premier white-sand surf beach with the Indiana Tea House and coral reef",
+      "distance": 12.0,
+      "URL": "https://www.cottesloe.wa.gov.au/"
+    },
+    {
+      "rank": 5,
+      "name": "Swan Valley Wine Region",
+      "postcode": "WA 6055",
+      "distanceKmFromAirport": 16,
+      "description": "Perth's oldest wine region with cellar doors, chocolate factories and cheese farms",
+      "distance": 25.0,
+      "URL": "https://www.swanvalley.com.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Northbridge",
+      "postcode": "WA 6003",
+      "distanceKmFromAirport": 19,
+      "description": "Cultural precinct with the Art Gallery of WA, WA Museum and Perth's best nightlife",
+      "distance": 1.0,
+      "URL": "https://northbridge.com.au/"
+    },
+    {
+      "rank": 7,
+      "name": "Pinnacles Desert",
+      "postcode": "WA 6522",
+      "distanceKmFromAirport": 250,
+      "description": "Extraordinary limestone pillars rising from yellow sand in Nambung National Park",
+      "distance": 245.0,
+      "URL": "https://parks.dpaw.wa.gov.au/park/nambung"
+    },
+    {
+      "rank": 8,
+      "name": "Perth Zoo",
+      "postcode": "WA 6151",
+      "distanceKmFromAirport": 21,
+      "description": "Compact zoo with Australian wildlife, African savannah and orangutans",
+      "distance": 3.0,
+      "URL": "https://www.perthzoo.wa.gov.au/"
+    },
+    {
+      "rank": 9,
+      "name": "Yanchep National Park",
+      "postcode": "WA 6035",
+      "distanceKmFromAirport": 58,
+      "description": "Koalas in the wild, ancient caves and beautiful bushland north of the city",
+      "distance": 51.0,
+      "URL": "https://parks.dpaw.wa.gov.au/park/yanchep"
+    },
+    {
+      "rank": 10,
+      "name": "Elizabeth Quay",
+      "postcode": "WA 6000",
+      "distanceKmFromAirport": 19,
+      "description": "Waterfront precinct on the Swan River with restaurants, art and the Bell Tower",
+      "distance": 1.0,
+      "URL": "https://elizabethquay.com.au/"
+    }
+  ]
+}

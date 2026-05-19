@@ -1,0 +1,98 @@
+{
+  "city": "Qingdao",
+  "country": "China",
+  "airportPostcode": "266108",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tsingtao Beer Festival (August)",
+      "postcode": "266031",
+      "distanceKmFromAirport": 34,
+      "description": "Asia's largest beer festival at the brewery of the world-famous Tsingtao beer",
+      "distance": 5.0,
+      "URL": "https://www.tsingtaobeerfestival.com"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Badaguan)",
+      "postcode": "266003",
+      "distanceKmFromAirport": 33,
+      "description": "German colonial villas from 1898-1914 in eight tree-lined streets named after mountain passes",
+      "distance": 4.0,
+      "URL": "https://www.qingdaotourism.gov.cn"
+    },
+    {
+      "rank": 3,
+      "name": "Qingdao Olympic Sailing Centre",
+      "postcode": "266071",
+      "distanceKmFromAirport": 37,
+      "description": "2008 Olympics sailing venue with a beautiful marina and coastal park",
+      "distance": 8.0,
+      "URL": "https://www.qingdaosailingcentre.com"
+    },
+    {
+      "rank": 4,
+      "name": "No.1 Bathing Beach",
+      "postcode": "266003",
+      "distanceKmFromAirport": 32,
+      "description": "Qingdao's most famous sandy beach below the German colonial skyline",
+      "distance": 3.0,
+      "URL": "https://www.qingdaotourism.gov.cn"
+    },
+    {
+      "rank": 5,
+      "name": "Tsingtao Brewery Museum",
+      "postcode": "266023",
+      "distanceKmFromAirport": 34,
+      "description": "1903 German brewery with a history of China's most famous beer - unlimited tasting",
+      "distance": 5.0,
+      "URL": "https://www.tsingtaomuseum.com"
+    },
+    {
+      "rank": 6,
+      "name": "Laoshan Mountain",
+      "postcode": "266100",
+      "distanceKmFromAirport": 30,
+      "description": "Taoist sacred mountain east of the city with springs, temples and coastal hiking",
+      "distance": 30.0,
+      "URL": "https://www.qingdaotourism.gov.cn"
+    },
+    {
+      "rank": 7,
+      "name": "Zhanqiao Pier & Huilan Pavilion",
+      "postcode": "266001",
+      "distanceKmFromAirport": 30,
+      "description": "Qingdao's landmark 440m pier with a pavilion at the end",
+      "distance": 1.0,
+      "URL": "https://www.qingdaotourism.gov.cn"
+    },
+    {
+      "rank": 8,
+      "name": "Zhongshan Park Cherry Blossom",
+      "postcode": "266003",
+      "distanceKmFromAirport": 34,
+      "description": "Thousands of Japanese cherry trees in bloom in late March",
+      "distance": 5.0,
+      "URL": "https://www.qingdaotourism.gov.cn"
+    },
+    {
+      "rank": 9,
+      "name": "Underwater World Qingdao",
+      "postcode": "266003",
+      "distanceKmFromAirport": 33,
+      "description": "Large aquarium focusing on Yellow Sea marine life",
+      "distance": 4.0,
+      "URL": "https://www.qingdaoaquarium.com"
+    },
+    {
+      "rank": 10,
+      "name": "Grilled Seafood on Jiaozhou Bay",
+      "postcode": "266002",
+      "distanceKmFromAirport": 35,
+      "description": "Qingdao prawns, clams and scallops grilled over coals at the harbour restaurants",
+      "distance": 6.0,
+      "URL": "https://www.qingdaotourism.gov.cn"
+    }
+  ]
+}

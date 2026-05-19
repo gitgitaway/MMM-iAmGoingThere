@@ -1,0 +1,98 @@
+{
+  "city": "Palermo",
+  "country": "Italy",
+  "airportPostcode": "90045",
+  "airportDistanceKm": 31,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Capuchin Catacombs",
+      "postcode": "90129",
+      "distanceKmFromAirport": 32,
+      "description": "Macabre corridors with 8,000 mummified monks and citizens in poses of life",
+      "distance": 3.0,
+      "URL": "https://www.catacombepalermo.it/"
+    },
+    {
+      "rank": 2,
+      "name": "Palazzo dei Normanni",
+      "postcode": "90134",
+      "distanceKmFromAirport": 31,
+      "description": "Norman Palace housing the dazzling Palatine Chapel, a UNESCO World Heritage site",
+      "distance": 1.0,
+      "URL": "https://www.federicosecondo.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Ballarò Market",
+      "postcode": "90134",
+      "distanceKmFromAirport": 31,
+      "description": "Palermo's oldest and most vibrant street market, the beating heart of the city",
+      "distance": 1.0,
+      "URL": "https://www.palermotourism.com"
+    },
+    {
+      "rank": 4,
+      "name": "Quattro Canti",
+      "postcode": "90133",
+      "distanceKmFromAirport": 31,
+      "description": "Baroque octagonal piazza where the four historic districts of the city intersect",
+      "distance": 0.5,
+      "URL": "https://www.palermotourism.com"
+    },
+    {
+      "rank": 5,
+      "name": "Palermo Cathedral",
+      "postcode": "90134",
+      "distanceKmFromAirport": 31,
+      "description": "Arab-Norman UNESCO masterpiece with royal tombs including Emperor Frederick II",
+      "distance": 1.0,
+      "URL": "https://www.cattedrale.palermo.it/"
+    },
+    {
+      "rank": 6,
+      "name": "La Martorana Church",
+      "postcode": "90133",
+      "distanceKmFromAirport": 31,
+      "description": "12th-century Byzantine church with original golden mosaics",
+      "distance": 0.5,
+      "URL": "https://www.palermotourism.com"
+    },
+    {
+      "rank": 7,
+      "name": "Teatro Massimo",
+      "postcode": "90138",
+      "distanceKmFromAirport": 31,
+      "description": "Italy's largest opera house, used for the baptism scene in The Godfather Part III",
+      "distance": 1.0,
+      "URL": "https://www.teatromassimo.it/"
+    },
+    {
+      "rank": 8,
+      "name": "Mondello Beach",
+      "postcode": "90151",
+      "distanceKmFromAirport": 40,
+      "description": "Palermo's favourite beach resort with a picturesque Liberty-style bathing establishment",
+      "distance": 11.0,
+      "URL": "https://www.palermotourism.com"
+    },
+    {
+      "rank": 9,
+      "name": "Orto Botanico",
+      "postcode": "90123",
+      "distanceKmFromAirport": 32,
+      "description": "18th-century botanical garden with rare plants from around the Mediterranean",
+      "distance": 2.0,
+      "URL": "https://www.ortobotanico.unipa.it/"
+    },
+    {
+      "rank": 10,
+      "name": "Cefalù",
+      "postcode": "90015",
+      "distanceKmFromAirport": 70,
+      "description": "Stunning medieval town with Norman cathedral and beaches just 70km from Palermo",
+      "distance": 70.0,
+      "URL": "https://www.cefaluweb.com/"
+    }
+  ]
+}

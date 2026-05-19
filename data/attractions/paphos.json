@@ -1,0 +1,98 @@
+{
+  "city": "Paphos",
+  "country": "Cyprus",
+  "airportPostcode": "8220",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Paphos Archaeological Park",
+      "postcode": "8010",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO World Heritage site with extraordinary Roman floor mosaics of Dionysus, Theseus and Orpheus",
+      "distance": 1.0,
+      "URL": "https://www.mcw.gov.cy/"
+    },
+    {
+      "rank": 2,
+      "name": "Tombs of the Kings",
+      "postcode": "8010",
+      "distanceKmFromAirport": 9,
+      "description": "UNESCO-listed underground rock-cut tombs used by Ptolemaic aristocracy from the 4th century BC",
+      "distance": 3.0,
+      "URL": "https://www.mcw.gov.cy/"
+    },
+    {
+      "rank": 3,
+      "name": "Aphrodite's Rock (Petra tou Romiou)",
+      "postcode": "8510",
+      "distanceKmFromAirport": 17,
+      "description": "Legendary birthplace of Aphrodite - a spectacular sea stack on the coastal road",
+      "distance": 15.0,
+      "URL": "https://www.visitcyprus.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Paphos Castle",
+      "postcode": "8010",
+      "distanceKmFromAirport": 8,
+      "description": "Medieval Byzantine castle at the harbour entrance, converted into a wine store by the Ottomans",
+      "distance": 1.0,
+      "URL": "https://www.mcw.gov.cy/"
+    },
+    {
+      "rank": 5,
+      "name": "Kato Paphos Harbour",
+      "postcode": "8010",
+      "distanceKmFromAirport": 8,
+      "description": "Picturesque old harbour with fishing boats, fish restaurants and the castle",
+      "distance": 1.0,
+      "URL": "https://www.visitpafos.org.cy/"
+    },
+    {
+      "rank": 6,
+      "name": "Akamas Peninsula National Park",
+      "postcode": "8830",
+      "distanceKmFromAirport": 40,
+      "description": "Wild headland with the Aphrodite Trail, Blue Lagoon at Agios Georgios and sea turtles",
+      "distance": 35.0,
+      "URL": "https://www.visitcyprus.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Kouklia (Old Paphos)",
+      "postcode": "8500",
+      "distanceKmFromAirport": 14,
+      "description": "Site of the great Sanctuary of Aphrodite and the Lusignan manor house museum",
+      "distance": 14.0,
+      "URL": "https://www.mcw.gov.cy/"
+    },
+    {
+      "rank": 8,
+      "name": "Coral Bay Beach",
+      "postcode": "8099",
+      "distanceKmFromAirport": 18,
+      "description": "Excellent sandy beach north of Paphos with watersports and beach clubs",
+      "distance": 12.0,
+      "URL": "https://www.visitpafos.org.cy/"
+    },
+    {
+      "rank": 9,
+      "name": "St Neophytos Monastery",
+      "postcode": "8040",
+      "distanceKmFromAirport": 14,
+      "description": "12th-century monastery carved into a cliff with remarkable Byzantine frescoes",
+      "distance": 9.0,
+      "URL": "https://www.neophytosmonastery.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Troodos Mountains & Kykkos Monastery",
+      "postcode": "4820",
+      "distanceKmFromAirport": 67,
+      "description": "Day trip to Cyprus's highest peaks with Byzantine painted churches and the richest monastery",
+      "distance": 60.0,
+      "URL": "https://www.kykkos-museum.cy.net/"
+    }
+  ]
+}

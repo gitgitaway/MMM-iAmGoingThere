@@ -1,0 +1,98 @@
+{
+  "city": "Praia",
+  "country": "Cape Verde",
+  "airportPostcode": "7600",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cidade Velha (Ribeira Grande)",
+      "postcode": "7610",
+      "distanceKmFromAirport": 16,
+      "description": "UNESCO World Heritage first European colonial city in the tropics - 15th-century ruins",
+      "distance": 15.0,
+      "URL": "https://www.cidadevelha.gov.cv"
+    },
+    {
+      "rank": 2,
+      "name": "Plateau District (Platô)",
+      "postcode": "7600",
+      "distanceKmFromAirport": 2,
+      "description": "Historic plateau with colonial government buildings, the Sucupira Market and cathedral",
+      "distance": 0.5,
+      "URL": "https://www.cidadevelha.gov.cv/"
+    },
+    {
+      "rank": 3,
+      "name": "Praia Beach (Quebra Canela)",
+      "postcode": "7600",
+      "distanceKmFromAirport": 3,
+      "description": "City beach for swimming with a beachside cafe culture",
+      "distance": 1.0,
+      "URL": "https://www.capeverde.com"
+    },
+    {
+      "rank": 4,
+      "name": "Ethnographic Museum of Cape Verde",
+      "postcode": "7600",
+      "distanceKmFromAirport": 2,
+      "description": "Colonial-era instruments, Creole culture and the batuque percussion tradition",
+      "distance": 0.5,
+      "URL": "https://www.capeverde.com"
+    },
+    {
+      "rank": 5,
+      "name": "Live Morna & Funaná Music",
+      "postcode": "7600",
+      "distanceKmFromAirport": 3,
+      "description": "Cape Verdean melancholy morna (Cesaria Evora's music) and lively funaná",
+      "distance": 1.0,
+      "URL": "https://www.capeverde.com"
+    },
+    {
+      "rank": 6,
+      "name": "Sucupira Market",
+      "postcode": "7600",
+      "distanceKmFromAirport": 2,
+      "description": "Largest market in Cape Verde with grogue rum, Creole textiles and fresh fish",
+      "distance": 0.5,
+      "URL": "https://www.capeverde.com"
+    },
+    {
+      "rank": 7,
+      "name": "Serra Malagueta Natural Park",
+      "postcode": "7701",
+      "distanceKmFromAirport": 36,
+      "description": "Highest point of Santiago Island with cloud forest and endemic birds",
+      "distance": 35.0,
+      "URL": "https://www.serramalagueta.cv/"
+    },
+    {
+      "rank": 8,
+      "name": "Tarrafal Beach & Prison",
+      "postcode": "7850",
+      "distanceKmFromAirport": 71,
+      "description": "Beautiful white sand bay and the former Salazar political prison on the north coast",
+      "distance": 70.0,
+      "URL": "https://www.turismo.cv/"
+    },
+    {
+      "rank": 9,
+      "name": "Fogo Island Excursion",
+      "postcode": "0",
+      "distanceKmFromAirport": 181,
+      "description": "Flight to the active volcano island producing the finest wine in West Africa",
+      "distance": 180.0,
+      "URL": "https://www.turismo.cv"
+    },
+    {
+      "rank": 10,
+      "name": "Caldo de Peixe (Fish Broth)",
+      "postcode": "7600",
+      "distanceKmFromAirport": 2,
+      "description": "Simple, perfect Cape Verdean fish soup with potatoes and fresh herbs",
+      "distance": 0.5,
+      "URL": "https://www.capeverde.com"
+    }
+  ]
+}

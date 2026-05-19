@@ -1,0 +1,98 @@
+{
+  "city": "Nuku'alofa",
+  "country": "Tonga",
+  "airportPostcode": "676",
+  "airportDistanceKm": 21,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Humpback Whale Swimming (July-October)",
+      "postcode": "676",
+      "distanceKmFromAirport": 30,
+      "description": "Tonga is the only place in the world to legally swim with humpback whales",
+      "distance": 20.0,
+      "URL": "https://www.tongaholiday.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Royal Palace of Tonga",
+      "postcode": "676",
+      "distanceKmFromAirport": 21,
+      "description": "Victorian wooden palace of the Tongan royal family surrounded by Norfolk pines",
+      "distance": 1.0,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 3,
+      "name": "Ha'amonga 'a Maui Trilithon",
+      "postcode": "676",
+      "distanceKmFromAirport": 25,
+      "description": "13th-century coral stone trilithon - Tonga's Stonehenge - aligned with the solstice",
+      "distance": 35.0,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 4,
+      "name": "Blowholes of Houma",
+      "postcode": "676",
+      "distanceKmFromAirport": 28,
+      "description": "Natural limestone blowholes shooting water 30m into the air on the south coast",
+      "distance": 16.0,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 5,
+      "name": "Anahulu Cave",
+      "postcode": "676",
+      "distanceKmFromAirport": 20,
+      "description": "Swimming in a freshwater limestone cave with stalactites and natural ceiling opening",
+      "distance": 22.0,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 6,
+      "name": "Flea Market & Talamahu Market",
+      "postcode": "676",
+      "distanceKmFromAirport": 21,
+      "description": "Tapa cloth, woven mats, vanilla beans and fresh tropical produce",
+      "distance": 0.5,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 7,
+      "name": "Royal Tombs (Mala'e Kula)",
+      "postcode": "676",
+      "distanceKmFromAirport": 21,
+      "description": "Burial ground of the Tongan royal family since the 11th century",
+      "distance": 1.0,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 8,
+      "name": "Ha'apai Islands Getaway",
+      "postcode": "676",
+      "distanceKmFromAirport": 185,
+      "description": "Pristine uninhabited island beaches and magnificent whale-watching",
+      "distance": 170.0,
+      "URL": "https://www.haapai.to/"
+    },
+    {
+      "rank": 9,
+      "name": "Tongan Feast (Ufi Puna)",
+      "postcode": "676",
+      "distanceKmFromAirport": 22,
+      "description": "Underground earth oven feast with suckling pig, taro and lu sipi (mutton flaps in coconut)",
+      "distance": 2.0,
+      "URL": "https://www.tonga-tourism.com"
+    },
+    {
+      "rank": 10,
+      "name": "Sunday Church Singing",
+      "postcode": "676",
+      "distanceKmFromAirport": 21,
+      "description": "Tonga's extraordinary choral church singing every Sunday morning",
+      "distance": 1.0,
+      "URL": "https://www.fafaisland.to"
+    }
+  ]
+}

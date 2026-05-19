@@ -1,0 +1,98 @@
+{
+  "city": "Penang",
+  "country": "Malaysia",
+  "airportPostcode": "11900",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "George Town Historic District",
+      "postcode": "10000",
+      "distanceKmFromAirport": 17,
+      "description": "UNESCO World Heritage colonial city with the finest collection of pre-war buildings in Asia",
+      "distance": 1.0,
+      "URL": "https://gtwhi.com.my/"
+    },
+    {
+      "rank": 2,
+      "name": "Penang Street Art",
+      "postcode": "10000",
+      "distanceKmFromAirport": 17,
+      "description": "Ironwork sculptures and painted murals by Ernest Zacharevic throughout George Town",
+      "distance": 1.0,
+      "URL": "https://www.penangstreetart.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Penang Hill (Bukit Bendera)",
+      "postcode": "10350",
+      "distanceKmFromAirport": 22,
+      "description": "Cable car to the summit with colonial bungalows, an owl museum and cooler temperatures",
+      "distance": 6.0,
+      "URL": "https://www.penanghill.gov.my/"
+    },
+    {
+      "rank": 4,
+      "name": "Kek Lok Si Temple",
+      "postcode": "10460",
+      "distanceKmFromAirport": 23,
+      "description": "Southeast Asia's largest Buddhist temple complex with a 36m bronze Kuan Yin statue",
+      "distance": 7.0,
+      "URL": "https://kekloksitemple.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Penang National Park",
+      "postcode": "11050",
+      "distanceKmFromAirport": 40,
+      "description": "Smallest national park in Malaysia with pristine beaches and a turtle sanctuary",
+      "distance": 25.0,
+      "URL": "https://www.forestry.gov.my/"
+    },
+    {
+      "rank": 6,
+      "name": "Clan Jetties",
+      "postcode": "10050",
+      "distanceKmFromAirport": 17,
+      "description": "Chinese clan house villages built on stilts over the water - unique heritage communities",
+      "distance": 1.5,
+      "URL": "https://www.visitpenang.gov.my/"
+    },
+    {
+      "rank": 7,
+      "name": "Penang Food Trail",
+      "postcode": "10000",
+      "distanceKmFromAirport": 17,
+      "description": "Char kway teow, assam laksa, cendol and rojak - Penang is Malaysia's food capital",
+      "distance": 1.0,
+      "URL": "https://www.visitpenang.gov.my/"
+    },
+    {
+      "rank": 8,
+      "name": "Little India (Brickfields)",
+      "postcode": "10050",
+      "distanceKmFromAirport": 17,
+      "description": "Bustling Indian quarter with temples, sari shops and the best roti canai on the island",
+      "distance": 1.0,
+      "URL": "https://www.visitpenang.gov.my/"
+    },
+    {
+      "rank": 9,
+      "name": "Cheong Fatt Tze Mansion (Blue Mansion)",
+      "postcode": "10050",
+      "distanceKmFromAirport": 17,
+      "description": "UNESCO-award winning 38-room indigo blue Victorian mansion open for tours",
+      "distance": 1.0,
+      "URL": "https://cheongfatttzemansion.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Batu Ferringhi Beach",
+      "postcode": "11100",
+      "distanceKmFromAirport": 30,
+      "description": "North coast resort beach with a famous night market and watersports",
+      "distance": 15.0,
+      "URL": "https://www.visitpenang.gov.my/"
+    }
+  ]
+}

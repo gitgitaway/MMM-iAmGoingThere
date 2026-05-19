@@ -1,0 +1,98 @@
+{
+  "city": "Port-au-Prince",
+  "country": "Haiti",
+  "airportPostcode": "HT6110",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Citadelle Laferriere",
+      "postcode": "HT1510",
+      "distanceKmFromAirport": 185,
+      "description": "UNESCO World Heritage Haiti's greatest monument - a mountaintop fortress built after independence",
+      "distance": 175.0,
+      "URL": "https://www.haiticulture.ch/Citadelle.html"
+    },
+    {
+      "rank": 2,
+      "name": "Sans-Souci Palace",
+      "postcode": "HT1510",
+      "distanceKmFromAirport": 185,
+      "description": "UNESCO World Heritage ruined palace of King Henri Christophe - the Versailles of the Caribbean",
+      "distance": 175.0,
+      "URL": "https://www.haiticulture.ch/"
+    },
+    {
+      "rank": 3,
+      "name": "Musee du Pantheon National Haiti (MUPANAH)",
+      "postcode": "HT6112",
+      "distanceKmFromAirport": 10,
+      "description": "Haiti's national museum with the anchor from Columbus's Santa Maria",
+      "distance": 1.0,
+      "URL": "https://mupanah.gouv.ht/"
+    },
+    {
+      "rank": 4,
+      "name": "Iron Market (Marche en Fer)",
+      "postcode": "HT6112",
+      "distanceKmFromAirport": 10,
+      "description": "Restored 1891 Victorian iron market - Port-au-Prince's most iconic landmark",
+      "distance": 1.0,
+      "URL": "https://www.ironmarket.ht/"
+    },
+    {
+      "rank": 5,
+      "name": "Petion-Ville Art Galleries",
+      "postcode": "HT6140",
+      "distanceKmFromAirport": 19,
+      "description": "Haiti's extraordinary naif painting tradition - some of the Caribbean's finest art",
+      "distance": 10.0,
+      "URL": "https://www.haiticulture.ch/"
+    },
+    {
+      "rank": 6,
+      "name": "Labadee Private Beach (Royal Caribbean)",
+      "postcode": "HT1510",
+      "distanceKmFromAirport": 185,
+      "description": "Beautiful north coast beach leased to Royal Caribbean ships",
+      "distance": 175.0,
+      "URL": "https://www.royalcaribbean.com/destinations/labadee"
+    },
+    {
+      "rank": 7,
+      "name": "Holy Trinity Cathedral Murals",
+      "postcode": "HT6112",
+      "distanceKmFromAirport": 10,
+      "description": "Earthquake-damaged cathedral with extraordinary Haitian naif murals in the remaining walls",
+      "distance": 1.0,
+      "URL": "https://www.haiticulture.ch/"
+    },
+    {
+      "rank": 8,
+      "name": "Jacmel Carnival",
+      "postcode": "HT8110",
+      "distanceKmFromAirport": 89,
+      "description": "Haiti's most creative carnival with papier-mache masks and traditional rara bands",
+      "distance": 80.0,
+      "URL": "https://www.haiticulture.ht/"
+    },
+    {
+      "rank": 9,
+      "name": "Bassin Bleu Waterfall",
+      "postcode": "HT8110",
+      "distanceKmFromAirport": 94,
+      "description": "Three-tiered swimming holes near Jacmel accessible by horseback",
+      "distance": 85.0,
+      "URL": "https://www.haiticulture.ht/"
+    },
+    {
+      "rank": 10,
+      "name": "Griot Pork with Pikliz",
+      "postcode": "HT6112",
+      "distanceKmFromAirport": 10,
+      "description": "Haiti's national dish - fried pork chunks with vinegary pickled vegetable relish",
+      "distance": 1.0,
+      "URL": "https://www.haititourisme.gov.ht"
+    }
+  ]
+}

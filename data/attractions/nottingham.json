@@ -1,0 +1,98 @@
+{
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "airportPostcode": "DE74 2SA",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nottingham Castle",
+      "postcode": "NG1 6EL",
+      "distanceKmFromAirport": 25,
+      "description": "Historic castle and museum on a sandstone rock with views over the city",
+      "distance": 0.5,
+      "URL": "https://www.nottinghamcastle.org.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Sherwood Forest",
+      "postcode": "NG21 9HN",
+      "distanceKmFromAirport": 40,
+      "description": "Ancient royal forest famous as the home of Robin Hood with 1,000-year-old Major Oak",
+      "distance": 22.0,
+      "URL": "https://www.sherwoodforest.org.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "City of Caves",
+      "postcode": "NG1 7LS",
+      "distanceKmFromAirport": 25,
+      "description": "Network of 500+ sandstone caves beneath the city streets with fascinating history",
+      "distance": 0.5,
+      "URL": "https://www.cityofcaves.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Wollaton Hall",
+      "postcode": "NG8 2AE",
+      "distanceKmFromAirport": 28,
+      "description": "Spectacular Elizabethan mansion in a deer park, used as Wayne Manor in The Dark Knight Rises",
+      "distance": 5.0,
+      "URL": "https://www.wollatonhall.org.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Old Market Square",
+      "postcode": "NG1 2BY",
+      "distanceKmFromAirport": 25,
+      "description": "One of the largest market squares in England, lined with cafes and hosting events year-round",
+      "distance": 0.3,
+      "URL": "https://www.wollatonhall.org.uk"
+    },
+    {
+      "rank": 6,
+      "name": "Nottingham Contemporary",
+      "postcode": "NG1 1NB",
+      "distanceKmFromAirport": 25,
+      "description": "Largest contemporary art gallery in the East Midlands with changing exhibitions",
+      "distance": 0.5,
+      "URL": "https://www.nottinghamcontemporary.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Green's Windmill",
+      "postcode": "NG2 4QB",
+      "distanceKmFromAirport": 26,
+      "description": "Restored 19th-century tower mill where mathematician George Green was born and worked",
+      "distance": 2.0,
+      "URL": "https://www.greensmill.org.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "National Ice Centre",
+      "postcode": "NG1 1LA",
+      "distanceKmFromAirport": 25,
+      "description": "Home to the Nottingham Panthers and Britain's largest twin-pad indoor ice facility",
+      "distance": 0.5,
+      "URL": "https://www.national-ice-centre.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Nottingham Arboretum",
+      "postcode": "NG1 4JB",
+      "distanceKmFromAirport": 26,
+      "description": "Victorian park and one of the oldest public parks in England",
+      "distance": 1.5,
+      "URL": "https://www.intu.co.uk/nottingham"
+    },
+    {
+      "rank": 10,
+      "name": "Tales of Robin Hood",
+      "postcode": "NG1 7LD",
+      "distanceKmFromAirport": 25,
+      "description": "Interactive attraction bringing the Robin Hood legend vividly to life",
+      "distance": 0.5,
+      "URL": "https://www.nottinghamcontemporary.org"
+    }
+  ]
+}

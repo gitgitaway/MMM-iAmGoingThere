@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Santa Maria Beach",
-      "description": "Stunning turquoise bay with white sand - Cape Verde's most popular resort beach"
+      "postcode": "7601",
+      "distanceKmFromAirport": 14,
+      "description": "Stunning turquoise bay with white sand - Cape Verde's most popular resort beach",
+      "distance": 12.0,
+      "URL": "https://www.visitcaboverde.com/"
     },
     {
       "rank": 2,
       "name": "Windsurfing & Kitesurfing",
-      "description": "Sal's constant trade winds make it one of the world's best wind sports destinations"
+      "postcode": "7601",
+      "distanceKmFromAirport": 14,
+      "description": "Sal's constant trade winds make it one of the world's best wind sports destinations",
+      "distance": 12.0,
+      "URL": "https://www.visitcaboverde.com/"
     },
     {
       "rank": 3,
       "name": "Pedra de Lume Salt Lake",
-      "description": "Crater lake of pink salt - float like the Dead Sea and have a natural salt scrub"
+      "postcode": "7600",
+      "distanceKmFromAirport": 10,
+      "description": "Crater lake of pink salt - float like the Dead Sea and have a natural salt scrub",
+      "distance": 10.0,
+      "URL": "https://www.pedrasdelume.com/"
     },
     {
       "rank": 4,
       "name": "Shark Bay Snorkelling",
-      "description": "Reef snorkelling with nurse sharks, rays and sea turtles"
+      "postcode": "7601",
+      "distanceKmFromAirport": 17,
+      "description": "Reef snorkelling with nurse sharks, rays and sea turtles",
+      "distance": 15.0,
+      "URL": "https://www.visitcaboverde.com/"
     },
     {
       "rank": 5,
       "name": "Espargos Market",
-      "description": "Sal's main town market with Cape Verdean music, grogue rum and local crafts"
+      "postcode": "7600",
+      "distanceKmFromAirport": 2,
+      "description": "Sal's main town market with Cape Verdean music, grogue rum and local crafts",
+      "distance": 0.0,
+      "URL": "https://www.visitcaboverde.com/"
     },
     {
       "rank": 6,
       "name": "Murdeira Bay",
-      "description": "Dramatic bay with sea caves, cliffs and excellent diving on the north coast"
+      "postcode": "7600",
+      "distanceKmFromAirport": 12,
+      "description": "Dramatic bay with sea caves, cliffs and excellent diving on the north coast",
+      "distance": 10.0,
+      "URL": "https://www.visitcaboverde.com/"
     },
     {
       "rank": 7,
       "name": "Baby Hatchery (Sea Turtle Project)",
-      "description": "Visit the loggerhead sea turtle hatchery - Sal has the second largest nesting site in Africa"
+      "postcode": "7601",
+      "distanceKmFromAirport": 14,
+      "description": "Visit the loggerhead sea turtle hatchery - Sal has the second largest nesting site in Africa",
+      "distance": 12.0,
+      "URL": "https://www.turtlescaboverde.com/"
     },
     {
       "rank": 8,
       "name": "Fogo Volcano Day Trip",
-      "description": "Fly to Fogo island to hike the active 2,829m volcano"
+      "postcode": "7600",
+      "distanceKmFromAirport": 220,
+      "description": "Fly to Fogo island to hike the active 2,829m volcano",
+      "distance": 0.0,
+      "URL": "https://www.visitcaboverde.com/"
     },
     {
       "rank": 9,
       "name": "Santiago Island (Cidade Velha)",
-      "description": "UNESCO World Heritage first European city in the tropics"
+      "postcode": "7600",
+      "distanceKmFromAirport": 160,
+      "description": "UNESCO World Heritage first European city in the tropics",
+      "distance": 0.0,
+      "URL": "https://whc.unesco.org/en/list/1310"
     },
     {
       "rank": 10,
       "name": "Cachupa Stew",
-      "description": "Cape Verde's national dish - slow-cooked corn, beans and whatever meat is available"
+      "postcode": "7600",
+      "distanceKmFromAirport": 2,
+      "description": "Cape Verde's national dish - slow-cooked corn, beans and whatever meat is available",
+      "distance": 0.0,
+      "URL": "https://www.visitcaboverde.com/"
     }
   ]
 }

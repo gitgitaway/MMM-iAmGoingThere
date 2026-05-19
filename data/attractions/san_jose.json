@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Arenal Volcano & Hot Springs",
-      "description": "Perfect cone volcano with lava flows and jungle hot springs 3 hours from San Jose"
+      "postcode": "21007",
+      "distanceKmFromAirport": 165,
+      "description": "Perfect cone volcano with lava flows and jungle hot springs 3 hours from San Jose",
+      "distance": 150.0,
+      "URL": "https://www.sinac.go.cr/"
     },
     {
       "rank": 2,
       "name": "Monteverde Cloud Forest",
-      "description": "Quetzals, jaguars and hanging bridges through the cloud forest canopy"
+      "postcode": "50402",
+      "distanceKmFromAirport": 148,
+      "description": "Quetzals, jaguars and hanging bridges through the cloud forest canopy",
+      "distance": 135.0,
+      "URL": "https://www.monteverdeinfo.com/"
     },
     {
       "rank": 3,
       "name": "Manuel Antonio National Park",
-      "description": "Jungle trails to white-sand Pacific beaches with white-faced capuchin monkeys"
+      "postcode": "60601",
+      "distanceKmFromAirport": 195,
+      "description": "Jungle trails to white-sand Pacific beaches with white-faced capuchin monkeys",
+      "distance": 180.0,
+      "URL": "https://www.sinac.go.cr/"
     },
     {
       "rank": 4,
       "name": "National Theatre (Teatro Nacional)",
-      "description": "1897 neoclassical theatre - the finest building in Central America"
+      "postcode": "10101",
+      "distanceKmFromAirport": 20,
+      "description": "1897 neoclassical theatre - the finest building in Central America",
+      "distance": 0.5,
+      "URL": "https://www.teatronacional.go.cr/"
     },
     {
       "rank": 5,
       "name": "Mercado Central San Jose",
-      "description": "Chaotic covered market with Costa Rican food stalls, coffee, spices and crafts"
+      "postcode": "10101",
+      "distanceKmFromAirport": 20,
+      "description": "Chaotic covered market with Costa Rican food stalls, coffee, spices and crafts",
+      "distance": 0.5,
+      "URL": "https://www.sinac.go.cr/"
     },
     {
       "rank": 6,
       "name": "Tortuguero National Park",
-      "description": "Venice of Costa Rica - canal boat to the nesting beach of the green sea turtle"
+      "postcode": "70601",
+      "distanceKmFromAirport": 265,
+      "description": "Venice of Costa Rica - canal boat to the nesting beach of the green sea turtle",
+      "distance": 250.0,
+      "URL": "https://www.sinac.go.cr/"
     },
     {
       "rank": 7,
       "name": "Gold Museum (Museo del Oro)",
-      "description": "Pre-Columbian gold artefacts of Costa Rica's indigenous people"
+      "postcode": "10101",
+      "distanceKmFromAirport": 20,
+      "description": "Pre-Columbian gold artefacts of Costa Rica's indigenous people",
+      "distance": 0.5,
+      "URL": "https://www.museosdelbancocentral.org/"
     },
     {
       "rank": 8,
       "name": "Poas Volcano National Park",
-      "description": "Drive-up active volcano with one of the world's largest volcanic craters"
+      "postcode": "20501",
+      "distanceKmFromAirport": 45,
+      "description": "Drive-up active volcano with one of the world's largest volcanic craters",
+      "distance": 58.0,
+      "URL": "https://www.sinac.go.cr/"
     },
     {
       "rank": 9,
       "name": "Sloth Sanctuary",
-      "description": "Rescue sanctuary for three-toed and two-toed sloths on the Caribbean coast"
+      "postcode": "70101",
+      "distanceKmFromAirport": 150,
+      "description": "Rescue sanctuary for three-toed and two-toed sloths on the Caribbean coast",
+      "distance": 160.0,
+      "URL": "https://www.slothsanctuary.com/"
     },
     {
       "rank": 10,
       "name": "Cafe Britt Coffee Tour",
-      "description": "Costa Rica's most famous coffee with a theatrical tour of the growing and roasting"
+      "postcode": "40901",
+      "distanceKmFromAirport": 15,
+      "description": "Costa Rica's most famous coffee with a theatrical tour of the growing and roasting",
+      "distance": 20.0,
+      "URL": "https://www.cafebritt.com/"
     }
   ]
 }

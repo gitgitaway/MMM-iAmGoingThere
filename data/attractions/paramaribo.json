@@ -1,0 +1,98 @@
+{
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "airportPostcode": "00000",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Historic Inner City (Paramaribo Old Town)",
+      "postcode": "0000",
+      "distanceKmFromAirport": 46,
+      "description": "UNESCO World Heritage Dutch colonial city with a unique Caribbean wooden architecture",
+      "distance": 0.5,
+      "URL": "https://www.surinametourism.sr/"
+    },
+    {
+      "rank": 2,
+      "name": "Saint Peter and Paul Cathedral",
+      "postcode": "0000",
+      "distanceKmFromAirport": 46,
+      "description": "One of the largest wooden structures in the Western Hemisphere built by Dutch Redemptorists",
+      "distance": 0.5,
+      "URL": "https://www.surinametourism.sr"
+    },
+    {
+      "rank": 3,
+      "name": "Central Market (Centrale Markt)",
+      "postcode": "0000",
+      "distanceKmFromAirport": 46,
+      "description": "Multi-ethnic market reflecting Suriname's extraordinary diversity - Creole, Javanese, Chinese",
+      "distance": 0.5,
+      "URL": "https://www.surinametourism.sr"
+    },
+    {
+      "rank": 4,
+      "name": "Joden Savanne Jewish Cemetery",
+      "postcode": "0000",
+      "distanceKmFromAirport": 95,
+      "description": "Ruins of the oldest synagogue in the Western Hemisphere built by Sephardic Jews in 1671",
+      "distance": 50.0,
+      "URL": "https://whc.unesco.org"
+    },
+    {
+      "rank": 5,
+      "name": "Fort Zeelandia Museum",
+      "postcode": "0000",
+      "distanceKmFromAirport": 46,
+      "description": "17th-century Dutch fort on the Suriname River now housing historical collections",
+      "distance": 0.5,
+      "URL": "https://www.surinamemuseum.sr/"
+    },
+    {
+      "rank": 6,
+      "name": "Brownsberg Nature Park",
+      "postcode": "0000",
+      "distanceKmFromAirport": 165,
+      "description": "Rainforest park above the Brokopondo reservoir with howler monkeys and toucans",
+      "distance": 120.0,
+      "URL": "https://www.stinasu.sr/"
+    },
+    {
+      "rank": 7,
+      "name": "Neveh Shalom Synagogue",
+      "postcode": "0000",
+      "distanceKmFromAirport": 46,
+      "description": "Active 1834 synagogue with a sand floor - oldest in continuous use in the Americas",
+      "distance": 0.5,
+      "URL": "https://www.surinametourism.sr"
+    },
+    {
+      "rank": 8,
+      "name": "Commewijne District Plantation Cruise",
+      "postcode": "0000",
+      "distanceKmFromAirport": 55,
+      "description": "River boat to former Dutch coffee and sugar plantations with dolphins",
+      "distance": 10.0,
+      "URL": "https://www.surinametourism.sr"
+    },
+    {
+      "rank": 9,
+      "name": "Central Suriname Nature Reserve",
+      "postcode": "0000",
+      "distanceKmFromAirport": 245,
+      "description": "UNESCO World Heritage 1.6 million hectares of pristine Amazon rainforest",
+      "distance": 200.0,
+      "URL": "https://www.surinametourism.sr"
+    },
+    {
+      "rank": 10,
+      "name": "Pom Cassava & Chicken Dish",
+      "postcode": "0000",
+      "distanceKmFromAirport": 45,
+      "description": "Suriname's national dish - pomtajer root with chicken, lemon and spices",
+      "distance": 1.0,
+      "URL": "https://www.surinametourism.sr"
+    }
+  ]
+}

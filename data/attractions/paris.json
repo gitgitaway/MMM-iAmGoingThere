@@ -1,0 +1,98 @@
+{
+  "city": "Paris",
+  "country": "France",
+  "airportPostcode": "95700",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Eiffel Tower",
+      "postcode": "75007",
+      "distanceKmFromAirport": 29,
+      "description": "Gustave Eiffel's iconic iron lattice tower, the most visited paid monument in the world",
+      "distance": 4.0,
+      "URL": "https://www.toureiffel.paris/en"
+    },
+    {
+      "rank": 2,
+      "name": "Louvre Museum",
+      "postcode": "75001",
+      "distanceKmFromAirport": 27,
+      "description": "World's largest art museum housing the Mona Lisa and 35,000 other works",
+      "distance": 2.0,
+      "URL": "https://www.louvre.fr/en"
+    },
+    {
+      "rank": 3,
+      "name": "Notre-Dame Cathedral",
+      "postcode": "75004",
+      "distanceKmFromAirport": 28,
+      "description": "Masterpiece of French Gothic architecture undergoing restoration after the 2019 fire",
+      "distance": 2.5,
+      "URL": "https://www.notredamedeparis.fr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee d'Orsay",
+      "postcode": "75007",
+      "distanceKmFromAirport": 28,
+      "description": "Impressionist and Post-Impressionist masterpieces in a stunning Beaux-Arts railway station",
+      "distance": 3.5,
+      "URL": "https://www.musee-orsay.fr/en"
+    },
+    {
+      "rank": 5,
+      "name": "Palace of Versailles",
+      "postcode": "78000",
+      "distanceKmFromAirport": 44,
+      "description": "Opulent royal palace and formal gardens, symbol of the absolute monarchy of the Ancien Regime",
+      "distance": 19.0,
+      "URL": "https://en.chateauversailles.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Sacre-Coeur Basilica",
+      "postcode": "75018",
+      "distanceKmFromAirport": 30,
+      "description": "Gleaming white Romano-Byzantine basilica atop the Montmartre hill",
+      "distance": 4.5,
+      "URL": "https://www.sacre-coeur-montmartre.com/english/"
+    },
+    {
+      "rank": 7,
+      "name": "Champs-Elysees",
+      "postcode": "75008",
+      "distanceKmFromAirport": 28,
+      "description": "World-famous avenue from the Arc de Triomphe to the Place de la Concorde",
+      "distance": 3.0,
+      "URL": "https://www.champselysees-paris.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Centre Pompidou",
+      "postcode": "75004",
+      "distanceKmFromAirport": 27,
+      "description": "Revolutionary inside-out building housing France's national museum of modern art",
+      "distance": 2.0,
+      "URL": "https://www.centrepompidou.fr/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Musee Rodin",
+      "postcode": "75007",
+      "distanceKmFromAirport": 29,
+      "description": "Sculptor's former mansion displaying The Thinker and The Kiss in beautiful gardens",
+      "distance": 3.8,
+      "URL": "https://www.musee-rodin.fr/en"
+    },
+    {
+      "rank": 10,
+      "name": "Sainte-Chapelle",
+      "postcode": "75001",
+      "distanceKmFromAirport": 27,
+      "description": "Gothic royal chapel with 15 enormous stained-glass windows covering 600 square metres",
+      "distance": 2.3,
+      "URL": "https://www.sainte-chapelle.fr/en"
+    }
+  ]
+}

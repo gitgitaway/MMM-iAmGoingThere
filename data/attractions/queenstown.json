@@ -1,0 +1,98 @@
+{
+  "city": "Queenstown",
+  "country": "New Zealand",
+  "airportPostcode": "9300",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "AJ Hackett Bungy - Kawarau Bridge",
+      "postcode": "9384",
+      "distanceKmFromAirport": 31,
+      "description": "World's first commercial bungy jump from the historic 1880 bridge over the Kawarau Gorge",
+      "distance": 23.0,
+      "URL": "https://www.bungy.co.nz/queenstown/kawarau-bridge-bungy/"
+    },
+    {
+      "rank": 2,
+      "name": "Milford Sound",
+      "postcode": "9679",
+      "distanceKmFromAirport": 298,
+      "description": "New Zealand's most famous fiord - a full-day trip through mountains to the Tasman Sea",
+      "distance": 290.0,
+      "URL": "https://www.fiordlandnz.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Queenstown Gondola & Luge",
+      "postcode": "9300",
+      "distanceKmFromAirport": 9,
+      "description": "Scenic gondola to Bob's Peak for panoramic views and the thrilling alpine luge",
+      "distance": 1.0,
+      "URL": "https://www.skyline.co.nz/queenstown/"
+    },
+    {
+      "rank": 4,
+      "name": "Skiing - Remarkables & Coronet Peak",
+      "postcode": "9371",
+      "distanceKmFromAirport": 22,
+      "description": "Two world-class ski fields within 30 minutes of Queenstown, open June to September",
+      "distance": 14.0,
+      "URL": "https://www.theremarkables.co.nz/"
+    },
+    {
+      "rank": 5,
+      "name": "Shotover Jet",
+      "postcode": "9300",
+      "distanceKmFromAirport": 11,
+      "description": "Heart-pounding jet boat ride through the narrow rocky gorges of the Shotover River",
+      "distance": 3.0,
+      "URL": "https://www.shotoverjet.com/"
+    },
+    {
+      "rank": 6,
+      "name": "TSS Earnslaw Steamship",
+      "postcode": "9300",
+      "distanceKmFromAirport": 8,
+      "description": "1912 twin-screw steamer lake cruise to Walter Peak farm on Lake Wakatipu",
+      "distance": 0.5,
+      "URL": "https://www.realjourneys.co.nz/experiences/tss-earnslaw-steamship/"
+    },
+    {
+      "rank": 7,
+      "name": "Glenorchy & Paradise",
+      "postcode": "9372",
+      "distanceKmFromAirport": 55,
+      "description": "30-minute drive to Lord of the Rings Isengard and Amon Hen filming locations",
+      "distance": 47.0,
+      "URL": "https://www.glenorchy.co.nz/"
+    },
+    {
+      "rank": 8,
+      "name": "Wine Tasting - Central Otago",
+      "postcode": "9384",
+      "distanceKmFromAirport": 30,
+      "description": "World's southernmost Pinot Noir region with world-class cellar doors in Gibbston Valley",
+      "distance": 22.0,
+      "URL": "https://www.cowa.org.nz/"
+    },
+    {
+      "rank": 9,
+      "name": "Arrowtown Gold Rush Village",
+      "postcode": "9302",
+      "distanceKmFromAirport": 28,
+      "description": "Perfectly preserved 1862 gold rush village with Chinese settlement and autumn foliage",
+      "distance": 20.0,
+      "URL": "https://www.arrowtown.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Nevis Bungy & Swing",
+      "postcode": "9372",
+      "distanceKmFromAirport": 43,
+      "description": "New Zealand's highest bungy at 134m and the Nevis Swing - the world's largest",
+      "distance": 35.0,
+      "URL": "https://www.bungy.co.nz/queenstown/nevis-bungy/"
+    }
+  ]
+}
