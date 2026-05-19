@@ -1,0 +1,98 @@
+{
+  "city": "Astana",
+  "country": "Kazakhstan",
+  "airportPostcode": "010000",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nur-Alem Pavilion (Expo 2017)",
+      "postcode": "010000",
+      "distanceKmFromAirport": 18,
+      "description": "World's largest spherical building - a glass globe housing a museum of future energy",
+      "distance": 3.5,
+      "URL": "https://www.expo2017astana.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Baiterek Tower",
+      "postcode": "010000",
+      "distanceKmFromAirport": 17,
+      "description": "105m landmark tower representing the Tree of Life with a golden orb and city views",
+      "distance": 2.0,
+      "URL": "https://www.baiterek.kz/"
+    },
+    {
+      "rank": 3,
+      "name": "Khan Shatyr Entertainment Centre",
+      "postcode": "010000",
+      "distanceKmFromAirport": 18,
+      "description": "Norman Foster's transparent tent-shaped mall with an indoor beach resort",
+      "distance": 2.5,
+      "URL": "https://www.khanshatyr.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Palace of Peace and Reconciliation",
+      "postcode": "010000",
+      "distanceKmFromAirport": 17,
+      "description": "Norman Foster's glass pyramid hosting interfaith dialogues with a 1,500-seat opera house",
+      "distance": 2.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Kazakhstan",
+      "postcode": "010000",
+      "distanceKmFromAirport": 17,
+      "description": "Kazakhstan's largest museum telling the story of the Kazakh steppe and Golden Horde",
+      "distance": 2.0,
+      "URL": "https://www.nationalmuseum.kz/"
+    },
+    {
+      "rank": 6,
+      "name": "Nur-Sultan Grand Mosque",
+      "postcode": "010000",
+      "distanceKmFromAirport": 18,
+      "description": "Gleaming new mosque - one of Central Asia's largest with 30,000 capacity",
+      "distance": 3.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Nurzhol Boulevard",
+      "postcode": "010000",
+      "distanceKmFromAirport": 16,
+      "description": "Grand central boulevard lined with Akorda Presidential Palace and government buildings",
+      "distance": 1.5,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Hazrat Sultan Mosque",
+      "postcode": "010000",
+      "distanceKmFromAirport": 18,
+      "description": "Kazakhstan's largest mosque with four minarets and gold domes",
+      "distance": 3.5,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Singing Fountain (Tsentralny Park)",
+      "postcode": "010000",
+      "distanceKmFromAirport": 16,
+      "description": "Central park with a famous musical fountain show and cable car",
+      "distance": 1.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "MEGA Shopping Mall Ice Rink",
+      "postcode": "010000",
+      "distanceKmFromAirport": 19,
+      "description": "Year-round outdoor ice rink and entertainment complex",
+      "distance": 4.0,
+      "URL": "https://www.megacenter.kz/"
+    }
+  ]
+}

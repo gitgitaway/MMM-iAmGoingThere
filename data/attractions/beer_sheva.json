@@ -1,0 +1,98 @@
+{
+  "city": "Beer Sheva",
+  "country": "Israel",
+  "airportPostcode": "8489999",
+  "airportDistanceKm": 100,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tel Be'er Sheva (UNESCO)",
+      "postcode": "8510500",
+      "distanceKmFromAirport": 105,
+      "description": "UNESCO World Heritage ancient tell at the edge of Beer Sheva; excavations have revealed an Iron Age city with a unique horned altar and sophisticated water system from biblical times",
+      "distance": 7.0,
+      "URL": "https://www.parks.org.il/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Negev Desert",
+      "postcode": "8489999",
+      "distanceKmFromAirport": 100,
+      "description": "Israel's vast southern desert covers 60% of the country; Beer Sheva is the gateway to the Makhtesh Ramon crater, Nabataean cities of Avdat and the extraordinary desert landscapes",
+      "distance": 0.0,
+      "URL": "https://www.visit-israel.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Ramon Crater (Makhtesh Ramon)",
+      "postcode": "8692800",
+      "distanceKmFromAirport": 175,
+      "description": "The world's largest erosion crater, 40km long and 500 metres deep; a geological wonder with a unique ecosystem; the Mitzpe Ramon visitor centre explains this extraordinary formation",
+      "distance": 80.0,
+      "URL": "https://www.parks.org.il/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Beer Sheva Old City",
+      "postcode": "8440000",
+      "distanceKmFromAirport": 100,
+      "description": "Ottoman-era old town with a traditional marketplace, the Abraham's Well monument and the Old City Museum; the historic core of this ancient desert crossroads city",
+      "distance": 1.0,
+      "URL": "https://www.beer-sheva.muni.il/english/"
+    },
+    {
+      "rank": 5,
+      "name": "Negev Museum of Art",
+      "postcode": "8440000",
+      "distanceKmFromAirport": 100,
+      "description": "Contemporary art museum in a beautifully converted Ottoman mosque in the old city with exhibitions of Israeli and international modern art; a striking cultural centrepiece",
+      "distance": 1.0,
+      "URL": "https://www.negev-museum.org.il/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Ben Gurion University",
+      "postcode": "8410501",
+      "distanceKmFromAirport": 101,
+      "description": "Israel's leading university in Beer Sheva, named after Israel's founding father who chose to retire to the Negev; a vibrant campus that transformed the desert city",
+      "distance": 3.0,
+      "URL": "https://in.bgu.ac.il/en/"
+    },
+    {
+      "rank": 7,
+      "name": "WWII Beersheba Cemetery",
+      "postcode": "8440000",
+      "distanceKmFromAirport": 100,
+      "description": "Commonwealth War Graves cemetery honouring the 1,240 Allied soldiers who fell in the Battle of Beersheba (1917); the light horse charge here was a turning point in the Middle Eastern campaign",
+      "distance": 2.0,
+      "URL": "https://www.cwgc.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Bedouin Market (Thursday Market)",
+      "postcode": "8489999",
+      "distanceKmFromAirport": 100,
+      "description": "Traditional weekly Bedouin market with camels, handcrafted Negev textiles, spices and antiques; an authentic experience of Negev Bedouin culture that has taken place for generations",
+      "distance": 3.0,
+      "URL": "https://www.beer-sheva.muni.il/english/"
+    },
+    {
+      "rank": 9,
+      "name": "Avdat Nabataean City (UNESCO)",
+      "postcode": "8499000",
+      "distanceKmFromAirport": 160,
+      "description": "UNESCO World Heritage Nabataean city 65km south of Beer Sheva on the Spice Route; spectacularly preserved Byzantine churches and wine presses on a dramatic hilltop",
+      "distance": 65.0,
+      "URL": "https://www.parks.org.il/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Turner Stadium",
+      "postcode": "8440000",
+      "distanceKmFromAirport": 101,
+      "description": "Home of Hapoel Beer Sheva with 16,000 capacity; the club's back-to-back Israeli championship seasons (2016, 2017) led to a remarkable UEFA Champions League group stage in 2016-17",
+      "distance": 2.5,
+      "URL": "https://www.hbs.co.il/en/"
+    }
+  ]
+}

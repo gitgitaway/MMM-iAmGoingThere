@@ -1,0 +1,98 @@
+{
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "airportPostcode": "AZ1044",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Icheri Sheher (Old City)",
+      "postcode": "AZ1000",
+      "distanceKmFromAirport": 31,
+      "description": "UNESCO World Heritage 12th-century walled city with the Maiden Tower and Shirvanshah Palace",
+      "distance": 1.0,
+      "URL": "https://www.icherisheher.gov.az/"
+    },
+    {
+      "rank": 2,
+      "name": "Flame Towers",
+      "postcode": "AZ1025",
+      "distanceKmFromAirport": 32,
+      "description": "Three iconic 182m flame-shaped skyscrapers that form the symbol of modern Baku",
+      "distance": 1.5,
+      "URL": "https://www.azerbaijantourism.az/"
+    },
+    {
+      "rank": 3,
+      "name": "Maiden Tower (Qiz Qalasi)",
+      "postcode": "AZ1000",
+      "distanceKmFromAirport": 31,
+      "description": "UNESCO-listed 12th-century circular tower of unknown purpose overlooking the Caspian Sea",
+      "distance": 1.0,
+      "URL": "https://www.icherisheher.gov.az/en/maiden-tower/"
+    },
+    {
+      "rank": 4,
+      "name": "Heydar Aliyev Centre",
+      "postcode": "AZ1065",
+      "distanceKmFromAirport": 34,
+      "description": "Zaha Hadid's undulating masterpiece - the most photographed building in Azerbaijan",
+      "distance": 4.0,
+      "URL": "https://heydaraliyevcenter.az/"
+    },
+    {
+      "rank": 5,
+      "name": "Nizami Street (Torgovaya)",
+      "postcode": "AZ1000",
+      "distanceKmFromAirport": 31,
+      "description": "Baku's elegant pedestrian shopping street with European-style 19th-century architecture",
+      "distance": 1.0,
+      "URL": "https://www.azerbaijantourism.az/"
+    },
+    {
+      "rank": 6,
+      "name": "Azerbaijan National Carpet Museum",
+      "postcode": "AZ1010",
+      "distanceKmFromAirport": 32,
+      "description": "World's largest carpet museum in a building shaped like a rolled carpet on the seafront",
+      "distance": 1.5,
+      "URL": "https://www.carpetmuseum.az/"
+    },
+    {
+      "rank": 7,
+      "name": "Baku Boulevard (Primorsky)",
+      "postcode": "AZ1010",
+      "distanceKmFromAirport": 31,
+      "description": "3.75km seafront promenade along the Caspian Sea with parks and boat rides",
+      "distance": 1.0,
+      "URL": "https://www.azerbaijantourism.az/"
+    },
+    {
+      "rank": 8,
+      "name": "Gobustan National Park",
+      "postcode": "AZ0750",
+      "distanceKmFromAirport": 95,
+      "description": "UNESCO World Heritage rock carvings dating back 40,000 years plus mud volcanoes",
+      "distance": 65.0,
+      "URL": "https://www.gobustanmuseum.az/"
+    },
+    {
+      "rank": 9,
+      "name": "Ateshgah Fire Temple",
+      "postcode": "AZ1044",
+      "distanceKmFromAirport": 60,
+      "description": "18th-century Zoroastrian fire temple built over a natural gas seepage that burned for centuries",
+      "distance": 30.0,
+      "URL": "https://www.ateshgah.az/"
+    },
+    {
+      "rank": 10,
+      "name": "Yanar Dag (Burning Mountain)",
+      "postcode": "AZ0125",
+      "distanceKmFromAirport": 57,
+      "description": "Natural hillside fire burning on the Absheron Peninsula, fed by gas seeping from underground",
+      "distance": 27.0,
+      "URL": "https://www.azerbaijantourism.az/"
+    }
+  ]
+}

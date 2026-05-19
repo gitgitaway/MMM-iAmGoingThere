@@ -1,0 +1,98 @@
+{
+  "city": "Airdrie",
+  "country": "Scotland",
+  "airportPostcode": "PA3 2ST",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Summerlee Museum of Scottish Industrial Life",
+      "postcode": "ML5 1QD",
+      "distanceKmFromAirport": 22,
+      "description": "Scotland's noisiest museum — working electric tramway, re-created mine, ironworks and cottages celebrating Lanarkshire's industrial heritage",
+      "distance": 3,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Drumpellier Country Park",
+      "postcode": "ML5 4RR",
+      "distanceKmFromAirport": 22,
+      "description": "Popular country park with two lochs, woodland walks, visitor centre and a watersports facility on the edge of Coatbridge",
+      "distance": 3,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Cairnhill Arts Centre",
+      "postcode": "ML6 6DL",
+      "distanceKmFromAirport": 25,
+      "description": "North Lanarkshire's arts hub housed in a Victorian mansion — galleries, theatre and community events in a leafy setting",
+      "distance": 0.5,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Weavers' Cottage, Kilbarchan (NTS)",
+      "postcode": "PA10 2JG",
+      "distanceKmFromAirport": 16,
+      "description": "The last remaining weaver's cottage from the 18th-century weaving industry — a working loom demonstrates traditional Paisley pattern weaving",
+      "distance": 12,
+      "URL": "https://www.nts.org.uk/visit/places/weaver-s-cottage"
+    },
+    {
+      "rank": 5,
+      "name": "Bothwell Castle (Day Trip)",
+      "postcode": "G71 8BR",
+      "distanceKmFromAirport": 20,
+      "description": "Finest 13th-century Scottish castle ruin — a massive circular keep and courtyard fortress on the high banks of the River Clyde",
+      "distance": 8,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 6,
+      "name": "Caldercruix & Hillend Reservoir",
+      "postcode": "ML6 7QS",
+      "distanceKmFromAirport": 28,
+      "description": "Scenic reservoir walk and quiet village on the edge of North Lanarkshire — good birdwatching and a pleasant escape from the town",
+      "distance": 3,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Glasgow (Day Trip)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 25,
+      "description": "Scotland's largest city just 30 minutes by train — world-class museums, food scene and the iconic Kelvingrove Gallery",
+      "distance": 12,
+      "URL": "https://www.visitglasgow.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Edinburgh (Day Trip)",
+      "postcode": "EH1 2NG",
+      "distanceKmFromAirport": 40,
+      "description": "Scotland's capital just 45 minutes away — Edinburgh Castle, the Royal Mile, National Museum and the vibrant New Town",
+      "distance": 20,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Chatelherault Country Park (Day Trip)",
+      "postcode": "ML3 7UE",
+      "distanceKmFromAirport": 28,
+      "description": "William Adam hunting lodge in a spectacular country park above the River Avon gorge",
+      "distance": 10,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "New Lanark World Heritage Site (Day Trip)",
+      "postcode": "ML11 9DB",
+      "distanceKmFromAirport": 48,
+      "description": "UNESCO-listed Robert Owen mill village in the Clyde gorge — an inspiring vision of industrial social reform",
+      "distance": 28,
+      "URL": "https://www.newlanark.org/"
+    }
+  ]
+}

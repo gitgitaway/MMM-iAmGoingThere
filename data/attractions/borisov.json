@@ -1,0 +1,98 @@
+{
+  "city": "Borisov",
+  "country": "Belarus",
+  "airportPostcode": "220054",
+  "airportDistanceKm": 75,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Borisov Town Centre",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Borisov's historic centre on the Berezina River with the Resurrection Cathedral and tree-lined promenade; a compact Belarusian town rebuilt after WWII devastation",
+      "distance": 1.0,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 2,
+      "name": "Battle of the Berezina Memorial",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Napoleon's catastrophic 1812 river crossing where the Grande Armée suffered its most devastating rearguard action; monuments mark this pivotal moment in European history",
+      "distance": 5.0,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 3,
+      "name": "Resurrection Cathedral",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Borisov's principal Orthodox church with gilded domes visible across the city; rebuilt in post-Soviet years on the foundations of the historic 19th-century cathedral",
+      "distance": 1.5,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 4,
+      "name": "Berezina River Park",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Scenic riverside park along the Berezina with walking paths, summer beach and water sports; the river gives Borisov much of its character and historical significance",
+      "distance": 1.0,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 5,
+      "name": "Local History Museum",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Borisov regional museum covering the Battle of the Berezina, WWII occupation and local Belarusian history and culture through extensive exhibits",
+      "distance": 1.0,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 6,
+      "name": "Cathedral of the Nativity of Christ",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Roman Catholic church in Borisov reflecting the town's mixed historical heritage; an attractive neo-Gothic building serving the local Catholic community",
+      "distance": 1.5,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 7,
+      "name": "Victory Park",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Soviet-era memorial park with WWII monuments and the Eternal Flame; the main civic green space of Borisov used for national celebrations and leisure",
+      "distance": 1.0,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 8,
+      "name": "Minsk (day trip)",
+      "postcode": "220050",
+      "distanceKmFromAirport": 75,
+      "description": "Belarus's capital is just 75km from Borisov; Stalin's monumental showpiece city features the sweeping Independence Avenue, National Library and vibrant old town",
+      "distance": 75.0,
+      "URL": "https://minsk.gov.by/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Borisov Market",
+      "postcode": "222512",
+      "distanceKmFromAirport": 75,
+      "description": "Central market offering traditional Belarusian produce, crafts and street food; a lively snapshot of everyday Belarusian life and a great place to sample local cuisine",
+      "distance": 1.0,
+      "URL": "https://borisov.gov.by/"
+    },
+    {
+      "rank": 10,
+      "name": "Borisov Arena",
+      "postcode": "222512",
+      "distanceKmFromAirport": 76,
+      "description": "Modern 13,126-seat stadium home of BATE Borisov, Belarus's most decorated club with 16 consecutive national titles and multiple UEFA Champions League group stage appearances",
+      "distance": 2.0,
+      "URL": "https://bate.by/"
+    }
+  ]
+}

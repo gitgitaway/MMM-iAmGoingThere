@@ -1,0 +1,98 @@
+{
+  "city": "Brno",
+  "country": "Czech Republic",
+  "airportPostcode": "627 00",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Villa Tugendhat",
+      "postcode": "602 00",
+      "distanceKmFromAirport": 10,
+      "description": "UNESCO World Heritage Mies van der Rohe modernist masterpiece, a key work of 20th-century architecture",
+      "distance": 2.5,
+      "URL": "https://www.tugendhat.eu/"
+    },
+    {
+      "rank": 2,
+      "name": "Spilberk Castle",
+      "postcode": "662 24",
+      "distanceKmFromAirport": 8,
+      "description": "Medieval fortress with panoramic views over Brno and the Museum of the City",
+      "distance": 1.5,
+      "URL": "https://www.spilberk.cz/"
+    },
+    {
+      "rank": 3,
+      "name": "Cathedral of St Peter and Paul",
+      "postcode": "602 00",
+      "distanceKmFromAirport": 8,
+      "description": "Gothic cathedral on Petrov hill dominating the skyline with its distinctive twin spires",
+      "distance": 1.0,
+      "URL": "https://www.petrov.cz/"
+    },
+    {
+      "rank": 4,
+      "name": "Ossuary at St James's Church",
+      "postcode": "602 00",
+      "distanceKmFromAirport": 8,
+      "description": "Second-largest charnel house in Europe with 50,000 skeletal remains",
+      "distance": 0.5,
+      "URL": "https://www.ticbrno.cz/"
+    },
+    {
+      "rank": 5,
+      "name": "Mendel Museum",
+      "postcode": "603 00",
+      "distanceKmFromAirport": 8,
+      "description": "Museum celebrating Gregor Mendel's pioneering genetics research in the abbey gardens",
+      "distance": 1.5,
+      "URL": "https://www.mendel-museum.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Old Town Hall",
+      "postcode": "602 00",
+      "distanceKmFromAirport": 7,
+      "description": "Gothic building with the city's beloved symbols: the Brno Dragon and the Brno Wheel",
+      "distance": 0.3,
+      "URL": "https://www.ticbrno.cz/"
+    },
+    {
+      "rank": 7,
+      "name": "Moravian Museum",
+      "postcode": "602 00",
+      "distanceKmFromAirport": 8,
+      "description": "Second-largest museum in the Czech Republic with exceptional natural history and prehistory",
+      "distance": 0.5,
+      "URL": "https://www.mzm.cz/"
+    },
+    {
+      "rank": 8,
+      "name": "Namesti Svobody",
+      "postcode": "602 00",
+      "distanceKmFromAirport": 7,
+      "description": "Freedom Square, the vibrant commercial heart of Brno's old town",
+      "distance": 0.2,
+      "URL": "https://www.ticbrno.cz/"
+    },
+    {
+      "rank": 9,
+      "name": "Augustinian Monastery",
+      "postcode": "603 00",
+      "distanceKmFromAirport": 8,
+      "description": "Where Gregor Mendel conducted his famous pea plant genetics experiments",
+      "distance": 1.5,
+      "URL": "https://www.mendel-museum.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Brno Dam & Reservoir",
+      "postcode": "635 00",
+      "distanceKmFromAirport": 14,
+      "description": "Popular lake for sailing, swimming and cycling just 15 minutes from the city",
+      "distance": 7.0,
+      "URL": "https://www.ticbrno.cz/"
+    }
+  ]
+}

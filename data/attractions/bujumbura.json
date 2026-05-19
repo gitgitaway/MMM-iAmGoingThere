@@ -1,0 +1,98 @@
+{
+  "city": "Bujumbura",
+  "country": "Burundi",
+  "airportPostcode": "BP 2061",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lake Tanganyika Beach",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 12,
+      "description": "Bujumbura sits on the world's second deepest lake - swim in crystal-clear freshwater",
+      "distance": 1.5,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Living Museum (Musee Vivant)",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 13,
+      "description": "Open-air museum with traditional Burundian architecture, crafts and a crocodile pit",
+      "distance": 3.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Drum Sanctuary (Gishora)",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 100,
+      "description": "UNESCO World Heritage Burundian royal drum tradition - unforgettable drumming performances",
+      "distance": 90.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Source du Nil Monument (Rutovu)",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 90,
+      "description": "A boulder marks the furthest source of the River Nile - 80km south of Bujumbura",
+      "distance": 80.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Rusizi National Park",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 15,
+      "description": "Hippos and crocodiles on the Rusizi River delta flowing into Lake Tanganyika",
+      "distance": 5.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Kibira National Park",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 90,
+      "description": "Mountain rainforest with chimpanzees in Burundi's largest forest reserve",
+      "distance": 80.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Saga Beach",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 14,
+      "description": "Popular swimming beach on Lake Tanganyika with fish restaurants",
+      "distance": 4.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Bujumbura Central Market",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 11,
+      "description": "Vibrant city market with Burundian baskets - among the finest woven baskets in Africa",
+      "distance": 1.0,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Regina Mundi Cathedral",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 12,
+      "description": "Belgian colonial cathedral that survived Burundi's turbulent history",
+      "distance": 1.5,
+      "URL": "https://www.burundi-tourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Boko (Brochettes)",
+      "postcode": "BP 2061",
+      "distanceKmFromAirport": 10,
+      "description": "Burundian street food - grilled goat brochettes with plantain and chilli sauce",
+      "distance": 0.5,
+      "URL": "https://www.burundi-tourism.com/"
+    }
+  ]
+}

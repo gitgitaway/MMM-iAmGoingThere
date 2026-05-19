@@ -1,0 +1,98 @@
+{
+  "city": "Bangkok",
+  "country": "Thailand",
+  "airportPostcode": "10900",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Grand Palace & Wat Phra Kaew",
+      "postcode": "10200",
+      "distanceKmFromAirport": 33,
+      "description": "Thailand's most sacred site — the dazzling Grand Palace complex with the revered Emerald Buddha",
+      "distance": 3.0,
+      "URL": "https://www.royalgrandpalace.th/en/home"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Pho (Temple of the Reclining Buddha)",
+      "postcode": "10200",
+      "distanceKmFromAirport": 33,
+      "description": "45-metre golden reclining Buddha and Bangkok's oldest temple — also home to Thailand's first massage school",
+      "distance": 3.0,
+      "URL": "https://www.watpho.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Chatuchak Weekend Market",
+      "postcode": "10900",
+      "distanceKmFromAirport": 44,
+      "description": "One of the world's largest markets with over 15,000 stalls — clothes, antiques, food and art",
+      "distance": 14.0,
+      "URL": "https://www.chatuchakmarket.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Chao Phraya River Boat Tour",
+      "postcode": "10200",
+      "distanceKmFromAirport": 32,
+      "description": "Take the express boat past temples, traditional houses and the Grand Palace for the best Bangkok perspective",
+      "distance": 2.5,
+      "URL": "https://www.chaophrayaboat.co.th/"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Arun (Temple of Dawn)",
+      "postcode": "10600",
+      "distanceKmFromAirport": 34,
+      "description": "Bangkok's most iconic riverside temple — porcelain-encrusted 82-metre tower at sunrise is unforgettable",
+      "distance": 3.5,
+      "URL": "https://www.watarun.net/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Jim Thompson House",
+      "postcode": "10330",
+      "distanceKmFromAirport": 36,
+      "description": "Six connected traditional Thai houses showcasing the American silk entrepreneur's Asian art collection",
+      "distance": 6.0,
+      "URL": "https://www.jimthompsonhouse.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Khao San Road",
+      "postcode": "10200",
+      "distanceKmFromAirport": 34,
+      "description": "Bangkok's legendary backpacker street — budget accommodation, street food, pad thai and mango sticky rice",
+      "distance": 3.5,
+      "URL": "https://www.bangkokinfo.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Damnoen Saduak Floating Market",
+      "postcode": "70130",
+      "distanceKmFromAirport": 130,
+      "description": "Colourful morning canal market where traders sell fresh produce from traditional longtail boats",
+      "distance": 100.0,
+      "URL": "https://www.tourismthailand.org/Attraction/damnoen-saduak-floating-market"
+    },
+    {
+      "rank": 9,
+      "name": "Ayutthaya Day Trip",
+      "postcode": "13000",
+      "distanceKmFromAirport": 110,
+      "description": "UNESCO World Heritage former Siamese capital with magnificent ruined temples 80 km north of Bangkok",
+      "distance": 80.0,
+      "URL": "https://www.tourismthailand.org/Attraction/ayutthaya-historical-park"
+    },
+    {
+      "rank": 10,
+      "name": "Sky Bar at Lebua (Hangover Bar)",
+      "postcode": "10500",
+      "distanceKmFromAirport": 34,
+      "description": "The world's highest alfresco bar at 820 ft — iconic from The Hangover II with panoramic city views",
+      "distance": 4.5,
+      "URL": "https://www.lebua.com/sky-bar/"
+    }
+  ]
+}

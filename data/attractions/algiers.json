@@ -1,0 +1,98 @@
+{
+  "city": "Algiers",
+  "country": "Algeria",
+  "airportPostcode": "16000",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Casbah of Algiers",
+      "postcode": "16001",
+      "distanceKmFromAirport": 26,
+      "description": "UNESCO World Heritage Ottoman-era citadel district of narrow alleyways and white houses",
+      "distance": 1.5,
+      "URL": "https://whc.unesco.org/en/list/565/"
+    },
+    {
+      "rank": 2,
+      "name": "Notre-Dame d'Afrique",
+      "postcode": "16012",
+      "distanceKmFromAirport": 30,
+      "description": "1872 basilica perched on a cliff overlooking the Bay of Algiers",
+      "distance": 5.0,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Bardo National Museum of Prehistory",
+      "postcode": "16000",
+      "distanceKmFromAirport": 26,
+      "description": "Extraordinary prehistoric rock art from the Sahara's Tassili n'Ajjer",
+      "distance": 1.0,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Martyrs' Monument (Maqam Echahid)",
+      "postcode": "16030",
+      "distanceKmFromAirport": 29,
+      "description": "Distinctive three palm frond monument commemorating the million Algerian martyrs",
+      "distance": 4.0,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Djemaa el-Djedid Mosque (New Mosque)",
+      "postcode": "16000",
+      "distanceKmFromAirport": 26,
+      "description": "Ottoman Moorish mosque from 1660 with a distinctive octagonal minaret",
+      "distance": 0.5,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 6,
+      "name": "El-Kettani Market (Marche El-Kettani)",
+      "postcode": "16000",
+      "distanceKmFromAirport": 26,
+      "description": "Algiers's main traditional market with handicrafts, spices and local produce",
+      "distance": 0.8,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of Antiquities",
+      "postcode": "16000",
+      "distanceKmFromAirport": 27,
+      "description": "Algerian Roman mosaics, Carthaginian funerary relics and Islamic art",
+      "distance": 2.0,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Riadh El Feth Cultural Complex",
+      "postcode": "16030",
+      "distanceKmFromAirport": 30,
+      "description": "1980s cultural complex with the Museum of National Arts and Crafts",
+      "distance": 4.5,
+      "URL": "https://www.visitalgeria.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Tipasa Roman Ruins",
+      "postcode": "42000",
+      "distanceKmFromAirport": 95,
+      "description": "UNESCO World Heritage Phoenician and Roman ruins on the Mediterranean coast",
+      "distance": 70.0,
+      "URL": "https://whc.unesco.org/en/list/193/"
+    },
+    {
+      "rank": 10,
+      "name": "Couscous at La Casbah Restaurant",
+      "postcode": "16001",
+      "distanceKmFromAirport": 26,
+      "description": "Traditional Friday couscous with lamb and seven vegetables in the medina",
+      "distance": 1.5,
+      "URL": "https://www.visitalgeria.com/"
+    }
+  ]
+}

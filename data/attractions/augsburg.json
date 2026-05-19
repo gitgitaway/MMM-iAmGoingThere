@@ -1,0 +1,98 @@
+{
+  "city": "Augsburg",
+  "country": "Germany",
+  "airportPostcode": "85356",
+  "airportDistanceKm": 70,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fuggerei",
+      "postcode": "86152",
+      "distanceKmFromAirport": 71,
+      "description": "The world's oldest social housing estate, built by banker Jakob Fugger in 1516; 67 houses with 140 apartments still rented for a symbolic 88 cents per year",
+      "distance": 1.0,
+      "URL": "https://www.fugger.de/en/fuggerei.html"
+    },
+    {
+      "rank": 2,
+      "name": "Augsburg Cathedral",
+      "postcode": "86150",
+      "distanceKmFromAirport": 71,
+      "description": "Magnificent Romanesque-Gothic cathedral with the world's oldest figurative stained glass windows from 1065 and a famous bronze door from the 11th century",
+      "distance": 0.5,
+      "URL": "https://www.bistum-augsburg.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Augsburg Town Hall and Perlachturm",
+      "postcode": "86150",
+      "distanceKmFromAirport": 71,
+      "description": "Elias Holl's magnificent Renaissance Town Hall from 1624 with its extraordinary Golden Hall; climb the adjacent medieval Perlachturm for panoramic views",
+      "distance": 0.3,
+      "URL": "https://www.augsburg.de/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Augsburg Water Management System (UNESCO)",
+      "postcode": "86150",
+      "distanceKmFromAirport": 71,
+      "description": "UNESCO World Heritage water management system of canals, towers and water towers built from the 13th century; some of the finest Renaissance fountains in Europe",
+      "distance": 0.5,
+      "URL": "https://www.augsburg.de/en/augsburg/world-heritage/"
+    },
+    {
+      "rank": 5,
+      "name": "Maximilian Museum",
+      "postcode": "86150",
+      "distanceKmFromAirport": 71,
+      "description": "Outstanding city history and applied arts museum in a Renaissance patrician palace with exceptional collections of goldsmithery and civic history",
+      "distance": 0.5,
+      "URL": "https://www.kunstsammlungen-museen.augsburg.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Mozart Birthplace Museum",
+      "postcode": "86150",
+      "distanceKmFromAirport": 71,
+      "description": "Museum in the house where Leopold Mozart, father of Wolfgang Amadeus, was born in 1719; a fascinating window into the musical dynasty's Augsburg roots",
+      "distance": 0.5,
+      "URL": "https://www.mozarthaus-augsburg.de/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Brechthaus",
+      "postcode": "86152",
+      "distanceKmFromAirport": 71,
+      "description": "Birthplace of playwright Bertolt Brecht in 1898, now a museum; Brecht is one of the 20th century's greatest dramatists and Augsburg's most famous native",
+      "distance": 1.0,
+      "URL": "https://www.brechthaus-augsburg.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Schaezlerpalais (Baroque Palace)",
+      "postcode": "86150",
+      "distanceKmFromAirport": 71,
+      "description": "Splendid 18th-century baroque palace with a ballroom where Mozart performed; now housing the German Baroque Gallery of Old Masters paintings",
+      "distance": 0.5,
+      "URL": "https://www.kunstsammlungen-museen.augsburg.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Augsburg Zoo",
+      "postcode": "86161",
+      "distanceKmFromAirport": 73,
+      "description": "Established zoo in parkland south of the city centre with over 1,700 animals from 280 species including jaguars, orangutans and Nile hippos",
+      "distance": 3.0,
+      "URL": "https://www.augsburger-zoo.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "WWK Arena",
+      "postcode": "86167",
+      "distanceKmFromAirport": 73,
+      "description": "Home of FC Augsburg with a 30,660 capacity; the club competed in the UEFA Europa League in 2015-16, Augsburg's first-ever European campaign",
+      "distance": 4.0,
+      "URL": "https://www.fcaugsburg.de/en/"
+    }
+  ]
+}

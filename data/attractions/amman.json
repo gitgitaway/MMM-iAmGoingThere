@@ -1,0 +1,98 @@
+{
+  "city": "Amman",
+  "country": "Jordan",
+  "airportPostcode": "11118",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Petra (The Rose City)",
+      "postcode": "71810",
+      "distanceKmFromAirport": 275,
+      "description": "UNESCO World Heritage Nabataean city - one of the New Seven Wonders of the World",
+      "distance": 240.0,
+      "URL": "https://www.visitpetra.jo/"
+    },
+    {
+      "rank": 2,
+      "name": "Amman Citadel (Jabal al-Qal'a)",
+      "postcode": "11118",
+      "distanceKmFromAirport": 36,
+      "description": "Hilltop archaeological complex with ruins from the Bronze Age to the Islamic era and panoramic views",
+      "distance": 1.5,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Roman Theatre",
+      "postcode": "11118",
+      "distanceKmFromAirport": 36,
+      "description": "Well-preserved 2nd-century Roman amphitheatre in the heart of Amman seating 6,000",
+      "distance": 1.2,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Jordan Museum",
+      "postcode": "11183",
+      "distanceKmFromAirport": 37,
+      "description": "Jordan's foremost museum with the Dead Sea Scrolls and 9,000-year-old Ain Ghazal statues",
+      "distance": 2.0,
+      "URL": "https://www.jordanmuseum.jo/"
+    },
+    {
+      "rank": 5,
+      "name": "Dead Sea",
+      "postcode": "11180",
+      "distanceKmFromAirport": 90,
+      "description": "Float effortlessly in the world's saltiest sea - the lowest point on Earth at -430m",
+      "distance": 55.0,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Wadi Rum",
+      "postcode": "77110",
+      "distanceKmFromAirport": 315,
+      "description": "UNESCO World Heritage desert of red sandstone mountains and Lawrence of Arabia landscapes",
+      "distance": 280.0,
+      "URL": "https://www.wadirum.jo/"
+    },
+    {
+      "rank": 7,
+      "name": "Rainbow Street & Jabal Amman",
+      "postcode": "11118",
+      "distanceKmFromAirport": 37,
+      "description": "Cosmopolitan neighbourhood with boutiques, art galleries, coffee shops and meze restaurants",
+      "distance": 1.8,
+      "URL": "https://www.visitamman.jo/"
+    },
+    {
+      "rank": 8,
+      "name": "Jerash Roman City",
+      "postcode": "26110",
+      "distanceKmFromAirport": 85,
+      "description": "One of the best-preserved Roman cities in the world, only 50km north of Amman",
+      "distance": 50.0,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Ajloun Castle",
+      "postcode": "26811",
+      "distanceKmFromAirport": 110,
+      "description": "12th-century Ayyubid castle built by Saladin's general to defend against Crusader attack",
+      "distance": 75.0,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 10,
+      "name": "King Abdullah I Mosque",
+      "postcode": "11183",
+      "distanceKmFromAirport": 38,
+      "description": "Blue-domed mosque with space for 3,000 worshippers and museum of Islamic art",
+      "distance": 2.5,
+      "URL": "https://www.visitamman.jo/"
+    }
+  ]
+}

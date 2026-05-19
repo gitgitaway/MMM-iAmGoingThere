@@ -1,0 +1,98 @@
+{
+  "city": "Banja Luka",
+  "country": "Bosnia and Herzegovina",
+  "airportPostcode": "78000",
+  "airportDistanceKm": 23,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kastel Fortress",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "Ancient Roman and later Ottoman fortress on the Vrbas riverbank; beautifully restored with ramparts, towers and a riverside park popular with locals",
+      "distance": 0.8,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Christ the Saviour Cathedral",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "The largest Serbian Orthodox cathedral in the Western Balkans, consecrated in 2004 after the 1990s war, with a soaring tower and rich interior mosaics",
+      "distance": 0.5,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Ferhadija Mosque",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "Rebuilt Ottoman mosque from the 16th century; the original was destroyed in the 1993 war and the painstaking reconstruction was completed in 2016",
+      "distance": 0.5,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Vrbas River Rafting",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "The emerald-green Vrbas canyon offers excellent white-water rafting through dramatic gorges just minutes from the city centre",
+      "distance": 2.0,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Museum of the Republika Srpska",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "Regional museum with natural history, archaeology and art collections covering the history of this Bosnian Serb entity and the wider Balkans region",
+      "distance": 0.8,
+      "URL": "https://www.muzejrs.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Gospodska Street",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "Main pedestrian promenade at the heart of the city, lined with outdoor cafes, shops and AustroHungarian architecture; the social pulse of Banja Luka",
+      "distance": 0.3,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Republic Square",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "The central square of Banja Luka with the Government of Republika Srpska building and the large open plaza hosting concerts and civic events",
+      "distance": 0.5,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Zoo Banja Luka",
+      "postcode": "78000",
+      "distanceKmFromAirport": 25,
+      "description": "Compact city zoo in the Mlaka area with a collection of animals from wolves and bears to exotic species, popular with families at weekends",
+      "distance": 3.0,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Krupa na Vrbasu Monastery",
+      "postcode": "78252",
+      "distanceKmFromAirport": 38,
+      "description": "Medieval Serbian Orthodox monastery set in a dramatic river gorge below Banja Luka, surrounded by lush forest and cascading waterfalls",
+      "distance": 15.0,
+      "URL": "https://www.visitbanja-luka.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Gradski Stadion Banja Luka",
+      "postcode": "78000",
+      "distanceKmFromAirport": 24,
+      "description": "Home of FK Borac Banja Luka, the city's leading club and 2024-25 UEFA Conference League group stage participants",
+      "distance": 2.0,
+      "URL": "https://www.fkborac.ba/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Boras",
+  "country": "Sweden",
+  "airportPostcode": "50462",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Boras Zoo (Djurparken)",
+      "postcode": "50454",
+      "distanceKmFromAirport": 10,
+      "description": "One of Scandinavia's most popular zoos with over 700 animals from 80 species including tigers, gorillas and Scandinavian wildlife",
+      "distance": 3.0,
+      "URL": "https://www.borasdjurpark.se/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Textile Museum (Textilmuseet)",
+      "postcode": "50490",
+      "distanceKmFromAirport": 9,
+      "description": "Museum celebrating Boras's heritage as Sweden's textile capital, with historic looms, fashion collections and the story of the Swedish textile industry",
+      "distance": 1.5,
+      "URL": "https://www.textilmuseet.se/"
+    },
+    {
+      "rank": 3,
+      "name": "Boras Museum of Art",
+      "postcode": "50490",
+      "distanceKmFromAirport": 9,
+      "description": "Municipal art museum with a strong collection of Nordic modern and contemporary art, including a significant outdoor sculpture collection in the city",
+      "distance": 1.0,
+      "URL": "https://www.borasmuseum.se/"
+    },
+    {
+      "rank": 4,
+      "name": "Ramnaparken",
+      "postcode": "50433",
+      "distanceKmFromAirport": 9,
+      "description": "Large forested city park offering walking and cycling trails around the Ramna lakes with abundant bird life and traditional Swedish woodland",
+      "distance": 2.0,
+      "URL": "https://www.boras.se/"
+    },
+    {
+      "rank": 5,
+      "name": "Sandared Sculpture Park",
+      "postcode": "51160",
+      "distanceKmFromAirport": 15,
+      "description": "Boras is famous for its public sculpture trail with over 30 major sculptures by international artists displayed throughout the city centre",
+      "distance": 0.5,
+      "URL": "https://www.boras.se/"
+    },
+    {
+      "rank": 6,
+      "name": "Boras City Church",
+      "postcode": "50301",
+      "distanceKmFromAirport": 9,
+      "description": "Baroque church from 1727 at the heart of the city centre, with an ornate interior and a tall tower that long served as a landmark for travellers",
+      "distance": 0.5,
+      "URL": "https://www.boras.se/"
+    },
+    {
+      "rank": 7,
+      "name": "Viskadalen Valley",
+      "postcode": "50000",
+      "distanceKmFromAirport": 15,
+      "description": "Scenic valley along the Viskan river south of Boras with textile mill heritage, walking trails and the historic mill town of Seglora",
+      "distance": 10.0,
+      "URL": "https://www.boras.se/"
+    },
+    {
+      "rank": 8,
+      "name": "Fristadsparken",
+      "postcode": "50333",
+      "distanceKmFromAirport": 9,
+      "description": "Central city park with the distinctive Fristadsklockstapeln bell tower and open green spaces popular with locals for relaxation",
+      "distance": 0.3,
+      "URL": "https://www.boras.se/"
+    },
+    {
+      "rank": 9,
+      "name": "Boras market (Knalleland)",
+      "postcode": "50462",
+      "distanceKmFromAirport": 8,
+      "description": "One of Sweden's largest retail and factory outlet areas, reflecting Boras's mail order and textile commerce heritage dating to the early 20th century",
+      "distance": 3.0,
+      "URL": "https://www.boras.se/"
+    },
+    {
+      "rank": 10,
+      "name": "Elfsborg Arena",
+      "postcode": "50490",
+      "distanceKmFromAirport": 9,
+      "description": "Home of IF Elfsborg, one of Sweden's most successful clubs with multiple Allsvenskan titles and European competition experience",
+      "distance": 1.5,
+      "URL": "https://www.ifkboras.se/"
+    }
+  ]
+}

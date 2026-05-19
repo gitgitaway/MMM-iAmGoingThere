@@ -1,0 +1,98 @@
+{
+  "city": "Bern",
+  "country": "Switzerland",
+  "airportPostcode": "3123",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old City of Berne (UNESCO)",
+      "postcode": "3011",
+      "distanceKmFromAirport": 11,
+      "description": "UNESCO World Heritage medieval old town with 6km of arcaded sandstone walkways — one of Europe's best-preserved medieval cities",
+      "distance": 0.5,
+      "URL": "https://www.bern.com/en/berne/old-town"
+    },
+    {
+      "rank": 2,
+      "name": "Zytglogge (Clock Tower)",
+      "postcode": "3011",
+      "distanceKmFromAirport": 11,
+      "description": "Iconic 13th-century clock tower with an elaborate astronomical clock whose mechanical figures perform four minutes before every hour",
+      "distance": 0.4,
+      "URL": "https://www.bern.com/en/detail/zytglogge-clock-tower"
+    },
+    {
+      "rank": 3,
+      "name": "Bern Minster (Cathedral)",
+      "postcode": "3011",
+      "distanceKmFromAirport": 11,
+      "description": "Switzerland's tallest cathedral with a 100-metre Gothic spire; climb 344 steps for panoramic views over the Aare river and Alps",
+      "distance": 0.5,
+      "URL": "https://www.bernermuenster.ch/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Kunstmuseum Bern",
+      "postcode": "3011",
+      "distanceKmFromAirport": 11,
+      "description": "Switzerland's oldest fine arts museum with an impressive collection from Fra Angelico to Paul Klee, Kandinsky and contemporary Swiss art",
+      "distance": 0.8,
+      "URL": "https://www.kunstmuseumbern.ch/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Rose Garden (Rosengarten)",
+      "postcode": "3006",
+      "distanceKmFromAirport": 12,
+      "description": "Hilltop garden with 200 varieties of roses and spectacular panoramic views over the UNESCO old town and the looping Aare river below",
+      "distance": 1.5,
+      "URL": "https://www.bern.com/en/detail/rosengarten"
+    },
+    {
+      "rank": 6,
+      "name": "Bear Park",
+      "postcode": "3011",
+      "distanceKmFromAirport": 11,
+      "description": "Open-air riverside park where Bern's heraldic bears live freely; the city's symbol since 1513, opposite the old town across the Aare",
+      "distance": 0.8,
+      "URL": "https://www.tierpark-bern.ch/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Paul Klee Centre",
+      "postcode": "3006",
+      "distanceKmFromAirport": 14,
+      "description": "Extraordinary wave-shaped building by Renzo Piano housing the world's largest collection of Paul Klee's colourful abstract works",
+      "distance": 5.0,
+      "URL": "https://www.zpk.org/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Einstein House",
+      "postcode": "3011",
+      "distanceKmFromAirport": 11,
+      "description": "Albert Einstein's apartment where he developed the Special Theory of Relativity in 1905, now a fascinating museum on the Kramgasse",
+      "distance": 0.5,
+      "URL": "https://www.einstein-bern.ch/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Bundeshaus (Federal Palace)",
+      "postcode": "3003",
+      "distanceKmFromAirport": 11,
+      "description": "Switzerland's parliament building with a magnificent Renaissance dome; free guided tours reveal Switzerland's unique political system",
+      "distance": 0.7,
+      "URL": "https://www.parlament.ch/en/services/visit-parliament"
+    },
+    {
+      "rank": 10,
+      "name": "Wankdorf Stadium",
+      "postcode": "3014",
+      "distanceKmFromAirport": 12,
+      "description": "Home of BSC Young Boys with a 32,000 capacity; Switzerland's largest football stadium hosted the 1954 World Cup Final",
+      "distance": 3.0,
+      "URL": "https://www.bscyb.ch/en/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Basel",
+  "country": "Switzerland",
+  "airportPostcode": "4056",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Art Basel",
+      "postcode": "4005",
+      "distanceKmFromAirport": 12,
+      "description": "World's leading contemporary art fair held annually with works by thousands of artists",
+      "distance": 1.5,
+      "URL": "https://www.artbasel.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Kunstmuseum Basel",
+      "postcode": "4051",
+      "distanceKmFromAirport": 11,
+      "description": "Switzerland's oldest public art collection and one of the finest in Europe",
+      "distance": 1.0,
+      "URL": "https://www.kunstmuseumbasel.ch/"
+    },
+    {
+      "rank": 3,
+      "name": "Fondation Beyeler",
+      "postcode": "4125",
+      "distanceKmFromAirport": 16,
+      "description": "Exceptional private art museum by Renzo Piano with Monet, Warhol and Rothko",
+      "distance": 6.0,
+      "URL": "https://www.fondationbeyeler.ch/"
+    },
+    {
+      "rank": 4,
+      "name": "Basel Minster",
+      "postcode": "4051",
+      "distanceKmFromAirport": 11,
+      "description": "Red sandstone cathedral with two Gothic towers and the tomb of Erasmus",
+      "distance": 1.0,
+      "URL": "https://www.baslermuenster.ch/"
+    },
+    {
+      "rank": 5,
+      "name": "Rhine River",
+      "postcode": "4051",
+      "distanceKmFromAirport": 11,
+      "description": "Swim with the locals across the swift-flowing Rhine using a waterproof Wickelfisch bag",
+      "distance": 1.0,
+      "URL": "https://www.basel.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Old Town (Altstadt)",
+      "postcode": "4001",
+      "distanceKmFromAirport": 10,
+      "description": "Charming medieval centre with the Renaissance town hall and Barfusserplatz",
+      "distance": 0.5,
+      "URL": "https://www.basel.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Tinguely Museum",
+      "postcode": "4058",
+      "distanceKmFromAirport": 12,
+      "description": "Museum of kinetic sculptor Jean Tinguely on the banks of the Rhine",
+      "distance": 1.5,
+      "URL": "https://www.tinguely.ch/"
+    },
+    {
+      "rank": 8,
+      "name": "Basel Zoo (Zolli)",
+      "postcode": "4054",
+      "distanceKmFromAirport": 12,
+      "description": "One of Switzerland's most popular attractions with gorillas and pygmy hippos",
+      "distance": 1.5,
+      "URL": "https://www.zoobasel.ch/"
+    },
+    {
+      "rank": 9,
+      "name": "Paper Mill Museum",
+      "postcode": "4058",
+      "distanceKmFromAirport": 12,
+      "description": "Living museum in a 15th-century paper mill with demonstrations on the riverside",
+      "distance": 2.0,
+      "URL": "https://www.papiermuseum.ch/"
+    },
+    {
+      "rank": 10,
+      "name": "Basel Carnival (Fasnacht)",
+      "postcode": "4001",
+      "distanceKmFromAirport": 10,
+      "description": "Switzerland's largest carnival with lantern processions and masked costumes",
+      "distance": 0.5,
+      "URL": "https://www.fasnacht.ch/"
+    }
+  ]
+}

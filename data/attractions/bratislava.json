@@ -1,0 +1,98 @@
+{
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "airportPostcode": "823 11",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bratislava Castle",
+      "postcode": "811 06",
+      "distanceKmFromAirport": 12,
+      "description": "Iconic four-towered castle dominating the old town above the Danube, housing the Slovak National Museum",
+      "distance": 1.5,
+      "URL": "https://www.snm.sk/?castle-bratislava"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Stare Mesto)",
+      "postcode": "811 01",
+      "distanceKmFromAirport": 10,
+      "description": "Charming compact historic centre with pastel baroque buildings, quirky statues and outdoor cafes",
+      "distance": 0.5,
+      "URL": "https://www.visitbratislava.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "St Martin's Cathedral",
+      "postcode": "811 01",
+      "distanceKmFromAirport": 11,
+      "description": "Gothic coronation cathedral where 11 Hungarian kings and queens were crowned from 1563 to 1830",
+      "distance": 0.8,
+      "URL": "https://dom.fara.sk/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Slovak National Gallery",
+      "postcode": "815 13",
+      "distanceKmFromAirport": 10,
+      "description": "Slovakia's main art museum in a complex of baroque and modern buildings on the Danube embankment",
+      "distance": 0.5,
+      "URL": "https://www.sng.sk/en"
+    },
+    {
+      "rank": 5,
+      "name": "UFO Bridge Restaurant & Observation Deck",
+      "postcode": "851 01",
+      "distanceKmFromAirport": 12,
+      "description": "Panoramic viewing platform and restaurant atop the futuristic 1972 SNP Bridge over the Danube",
+      "distance": 1.5,
+      "URL": "https://www.u-f-o.sk/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Devín Castle",
+      "postcode": "843 10",
+      "distanceKmFromAirport": 22,
+      "description": "Romantic ruined castle at the confluence of the Danube and Morava rivers with views into Austria",
+      "distance": 12.0,
+      "URL": "https://www.snm.sk/?devin-castle"
+    },
+    {
+      "rank": 7,
+      "name": "Cumil Statue (Man at Work)",
+      "postcode": "811 01",
+      "distanceKmFromAirport": 10,
+      "description": "Bratislava's most photographed quirky statue — a sewage worker peeking from a manhole",
+      "distance": 0.3,
+      "URL": "https://www.visitbratislava.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Slavin War Memorial",
+      "postcode": "811 03",
+      "distanceKmFromAirport": 12,
+      "description": "WWII memorial and cemetery for Soviet soldiers with outstanding views over the Danube and city",
+      "distance": 2.5,
+      "URL": "https://www.visitbratislava.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Michael's Gate (Michalska brana)",
+      "postcode": "811 03",
+      "distanceKmFromAirport": 10,
+      "description": "The only surviving medieval gate tower (1300s) — climb to the Museum of Arms for city views",
+      "distance": 0.5,
+      "URL": "https://www.visitbratislava.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Vienna Day Trip",
+      "postcode": "1010",
+      "distanceKmFromAirport": 90,
+      "description": "Austria's imperial capital is just 1 hour by boat or 75 minutes by bus — Europe's closest capital pair",
+      "distance": 80.0,
+      "URL": "https://www.wien.info/en"
+    }
+  ]
+}

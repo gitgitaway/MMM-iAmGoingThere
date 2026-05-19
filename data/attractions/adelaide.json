@@ -1,0 +1,98 @@
+{
+  "city": "Adelaide",
+  "country": "Australia",
+  "airportPostcode": "SA 5950",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Adelaide Central Market",
+      "postcode": "SA 5000",
+      "distanceKmFromAirport": 8,
+      "description": "One of the largest undercover fresh produce markets in the Southern Hemisphere",
+      "distance": 0.8,
+      "URL": "https://www.adelaidecentralmarket.com.au/"
+    },
+    {
+      "rank": 2,
+      "name": "Barossa Valley",
+      "postcode": "SA 5352",
+      "distanceKmFromAirport": 72,
+      "description": "World-famous wine region just an hour from the city with Shiraz and cellar doors",
+      "distance": 65.0,
+      "URL": "https://www.barossa.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Adelaide Oval",
+      "postcode": "SA 5000",
+      "distanceKmFromAirport": 8,
+      "description": "Iconic cricket and AFL stadium with the legendary Hill, rooftop walk and museum",
+      "distance": 1.0,
+      "URL": "https://www.adelaideoval.com.au/"
+    },
+    {
+      "rank": 4,
+      "name": "Rundle Mall & Street",
+      "postcode": "SA 5000",
+      "distanceKmFromAirport": 8,
+      "description": "Adelaide's premier shopping mall and bohemian street arts scene",
+      "distance": 0.5,
+      "URL": "https://rundlemall.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Art Gallery of South Australia",
+      "postcode": "SA 5000",
+      "distanceKmFromAirport": 8,
+      "description": "State art museum with Australian and international art in a grand Victorian building",
+      "distance": 1.2,
+      "URL": "https://www.agsa.sa.gov.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Hahndorf German Village",
+      "postcode": "SA 5245",
+      "distanceKmFromAirport": 35,
+      "description": "Australia's oldest surviving German settlement with traditional food and wine",
+      "distance": 28.0,
+      "URL": "https://www.visithahndorf.com.au/"
+    },
+    {
+      "rank": 7,
+      "name": "Gorge Wildlife Park",
+      "postcode": "SA 5157",
+      "distanceKmFromAirport": 29,
+      "description": "Australian wildlife sanctuary with koalas, wombats and Tasmanian devils",
+      "distance": 22.0,
+      "URL": "https://www.gorgewildlifepark.com.au/"
+    },
+    {
+      "rank": 8,
+      "name": "Kangaroo Island",
+      "postcode": "SA 5223",
+      "distanceKmFromAirport": 117,
+      "description": "Wildlife paradise with sea lions, koalas, penguins and Remarkable Rocks",
+      "distance": 110.0,
+      "URL": "https://www.tourkangarooisland.com.au/"
+    },
+    {
+      "rank": 9,
+      "name": "Adelaide Hills",
+      "postcode": "SA 5152",
+      "distanceKmFromAirport": 25,
+      "description": "Rolling hills with historic Stirling village, wildlife parks and panoramic views",
+      "distance": 18.0,
+      "URL": "https://www.adelaidehills.org.au/"
+    },
+    {
+      "rank": 10,
+      "name": "South Australian Museum",
+      "postcode": "SA 5000",
+      "distanceKmFromAirport": 8,
+      "description": "World's largest collection of Pacific artefacts and Aboriginal cultural material",
+      "distance": 1.2,
+      "URL": "https://www.samuseum.sa.gov.au/"
+    }
+  ]
+}

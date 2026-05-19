@@ -1,0 +1,98 @@
+{
+  "city": "Almaty",
+  "country": "Kazakhstan",
+  "airportPostcode": "050039",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Medeu Skating Rink & Shymbulak Ski Resort",
+      "postcode": "050059",
+      "distanceKmFromAirport": 31,
+      "description": "World's highest skating rink at 1,691m in a spectacular mountain bowl above the city",
+      "distance": 16.0,
+      "URL": "https://shymbulak.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Kok-Tobe Hill",
+      "postcode": "050020",
+      "distanceKmFromAirport": 20,
+      "description": "Cable car to hill with panoramic views over Almaty and the Tian Shan mountains",
+      "distance": 5.0,
+      "URL": "https://koktobe.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Panfilov Park & Ascension Cathedral",
+      "postcode": "050000",
+      "distanceKmFromAirport": 17,
+      "description": "Cathedral Square with Kazakhstan's most beautiful wooden Russian Orthodox church",
+      "distance": 2.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Central State Museum of Kazakhstan",
+      "postcode": "050010",
+      "distanceKmFromAirport": 18,
+      "description": "Kazakhstan's national museum with a 5,000-year-old Golden Man Scythian warrior costume",
+      "distance": 3.0,
+      "URL": "https://www.csmrk.kz/"
+    },
+    {
+      "rank": 5,
+      "name": "Green Bazaar (Zelyony Bazar)",
+      "postcode": "050000",
+      "distanceKmFromAirport": 16,
+      "description": "Almaty's most colourful market with Central Asian dried fruits, horse sausage and kumiss",
+      "distance": 1.5,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Big Almaty Lake (Bolshoe Almatinskoe)",
+      "postcode": "050060",
+      "distanceKmFromAirport": 40,
+      "description": "Turquoise glacial lake at 2,511m surrounded by snow-capped peaks",
+      "distance": 25.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Charyn Canyon",
+      "postcode": "040900",
+      "distanceKmFromAirport": 215,
+      "description": "Kazakhstan's Grand Canyon - a 150m deep red-rock gorge 200km from Almaty",
+      "distance": 200.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Museum of Folk Musical Instruments",
+      "postcode": "050000",
+      "distanceKmFromAirport": 18,
+      "description": "Collection of traditional Kazakh instruments including dombra, kobyz and zhetygen",
+      "distance": 2.5,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Ile-Alatau National Park",
+      "postcode": "050059",
+      "distanceKmFromAirport": 27,
+      "description": "Mountain national park directly behind Almaty with glaciers and alpine meadows",
+      "distance": 12.0,
+      "URL": "https://www.kazakhstan.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Arbat (Jibek Joly Street)",
+      "postcode": "050000",
+      "distanceKmFromAirport": 16,
+      "description": "Almaty's pedestrian shopping street with fountains, restaurants and the central mosque",
+      "distance": 1.0,
+      "URL": "https://www.kazakhstan.travel/"
+    }
+  ]
+}

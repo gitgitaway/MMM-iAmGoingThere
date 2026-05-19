@@ -1,0 +1,98 @@
+{
+  "city": "Baghdad",
+  "country": "Iraq",
+  "airportPostcode": "10003",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Iraqi Museum",
+      "postcode": "10003",
+      "distanceKmFromAirport": 21,
+      "description": "One of the world's greatest archaeology museums with Sumerian, Babylonian and Assyrian treasures",
+      "distance": 3.0,
+      "URL": "https://www.theiraqimuseum.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Al-Mutanabbi Street",
+      "postcode": "10001",
+      "distanceKmFromAirport": 20,
+      "description": "Legendary book market street named after Iraq's greatest poet, rebuilt after car bombing",
+      "distance": 2.0,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Al-Kadhimiya Shrine",
+      "postcode": "10073",
+      "distanceKmFromAirport": 26,
+      "description": "One of Shia Islam's holiest shrines with stunning golden domes and minarets",
+      "distance": 8.0,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Abbasid Palace",
+      "postcode": "10001",
+      "distanceKmFromAirport": 20,
+      "description": "12th-century Abbasid-era palace complex in the Rusafa district",
+      "distance": 2.5,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Al-Mustansiriya University",
+      "postcode": "10001",
+      "distanceKmFromAirport": 20,
+      "description": "13th-century madrasa - one of the oldest universities in the world",
+      "distance": 2.0,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Ctesiphon (Taq Kisra)",
+      "postcode": "10007",
+      "distanceKmFromAirport": 53,
+      "description": "Ruins of the world's largest unsupported brick arch, capital of the Sasanian Empire",
+      "distance": 35.0,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon Ruins",
+      "postcode": "51001",
+      "distanceKmFromAirport": 108,
+      "description": "Day trip to the ancient site of Nebuchadnezzar's Babylon with the Ishtar Gate reconstruction",
+      "distance": 90.0,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Green Zone & Hands of Victory",
+      "postcode": "10004",
+      "distanceKmFromAirport": 20,
+      "description": "Saddam Hussein's crossed swords monument built to celebrate the Iran-Iraq War victory",
+      "distance": 2.0,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Al-Rashid Street",
+      "postcode": "10001",
+      "distanceKmFromAirport": 20,
+      "description": "Baghdad's historic main street with Ottoman and Art Deco architecture",
+      "distance": 1.5,
+      "URL": "https://www.visitiraq.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Abu Hanifa Mosque",
+      "postcode": "10073",
+      "distanceKmFromAirport": 25,
+      "description": "Sunni Islam's most important mosque in Iraq, housing the tomb of Abu Hanifa",
+      "distance": 7.0,
+      "URL": "https://www.visitiraq.com/"
+    }
+  ]
+}

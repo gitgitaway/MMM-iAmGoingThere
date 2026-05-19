@@ -1,0 +1,98 @@
+{
+  "city": "Arnhem",
+  "country": "Netherlands",
+  "airportPostcode": "6199",
+  "airportDistanceKm": 95,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Airborne Museum Hartenstein",
+      "postcode": "6861",
+      "distanceKmFromAirport": 99,
+      "description": "Outstanding WWII museum in the former British headquarters during Operation Market Garden (1944); tells the story of the Battle of Arnhem with remarkable immersive exhibits",
+      "distance": 6.0,
+      "URL": "https://www.airbornemuseum.nl/en/"
+    },
+    {
+      "rank": 2,
+      "name": "John Frost Bridge",
+      "postcode": "6811",
+      "distanceKmFromAirport": 96,
+      "description": "The famous A Bridge Too Far; the Rhine road bridge that British paratroopers held for four days in September 1944; now a symbol of heroism and sacrifice",
+      "distance": 1.5,
+      "URL": "https://www.visitarnhem.nl/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Open Air Museum (Openluchtmuseum)",
+      "postcode": "6816",
+      "distanceKmFromAirport": 97,
+      "description": "One of Europe's finest open-air museums with 100 authentic historic buildings relocated from across the Netherlands, spanning 400 years of Dutch rural life",
+      "distance": 3.5,
+      "URL": "https://www.openluchtmuseum.nl/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Burgers' Zoo",
+      "postcode": "6816",
+      "distanceKmFromAirport": 97,
+      "description": "One of Europe's most innovative zoos with vast indoor tropical habitats including a rainforest, mangrove swamp and safari savannah for free-ranging animals",
+      "distance": 4.0,
+      "URL": "https://www.burgerszoo.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Museum Arnhem",
+      "postcode": "6814",
+      "distanceKmFromAirport": 97,
+      "description": "Regional art museum with a strong collection of Dutch Impressionism and the modern art of the Gelderland region in a restored historic building",
+      "distance": 2.0,
+      "URL": "https://www.museumarnhem.nl/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Gelderland Countryside",
+      "postcode": "6800",
+      "distanceKmFromAirport": 96,
+      "description": "The Veluwe, Europe's largest inland sand drift area, surrounds Arnhem with heathland, forests and dunes; excellent for cycling through De Hoge Veluwe National Park",
+      "distance": 8.0,
+      "URL": "https://www.hogeveluwe.nl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Kroller-Muller Museum",
+      "postcode": "6731",
+      "distanceKmFromAirport": 100,
+      "description": "World-class museum in the Hoge Veluwe National Park with the world's second-largest Van Gogh collection and an extraordinary sculpture garden",
+      "distance": 18.0,
+      "URL": "https://www.krollermuller.nl/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Oosterbeek War Cemetery",
+      "postcode": "6862",
+      "distanceKmFromAirport": 99,
+      "description": "Moving CWGC cemetery containing 1,754 Allied soldiers who fell in Operation Market Garden; the Last Post is sounded here every year on Remembrance Sunday",
+      "distance": 6.0,
+      "URL": "https://www.cwgc.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Arnhem City Centre",
+      "postcode": "6811",
+      "distanceKmFromAirport": 96,
+      "description": "Post-war rebuilt city centre with the fashion district around Korenmarkt, the historic Sabelspoort city gate and the lively Saturday market",
+      "distance": 0.5,
+      "URL": "https://www.visitarnhem.nl/en/"
+    },
+    {
+      "rank": 10,
+      "name": "GelreDome",
+      "postcode": "6842",
+      "distanceKmFromAirport": 97,
+      "description": "Home of Vitesse Arnhem with 26,600 capacity and a retractable roof; one of the Eredivisie's most atmospheric grounds with a passionate Yellow-and-Black support",
+      "distance": 4.5,
+      "URL": "https://www.vitesse.nl/en/"
+    }
+  ]
+}

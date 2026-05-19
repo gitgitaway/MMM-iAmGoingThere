@@ -1,0 +1,98 @@
+{
+  "city": "Banjul",
+  "country": "Gambia",
+  "airportPostcode": "00220",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kachikally Crocodile Pool",
+      "postcode": "00220",
+      "distanceKmFromAirport": 54,
+      "description": "Sacred crocodile pool where 80+ Nile crocodiles live alongside humans - you can touch them",
+      "distance": 27.0,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 2,
+      "name": "Kunta Kinteh Island (James Island)",
+      "postcode": "00220",
+      "distanceKmFromAirport": 87,
+      "description": "UNESCO World Heritage slave fort - birthplace of Alex Haley's Roots",
+      "distance": 60.0,
+      "URL": "https://whc.unesco.org/en/list/1226/"
+    },
+    {
+      "rank": 3,
+      "name": "Abuko Nature Reserve",
+      "postcode": "00220",
+      "distanceKmFromAirport": 47,
+      "description": "West Africa's smallest but most accessible nature reserve with monitor lizards and bushbuck",
+      "distance": 20.0,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 4,
+      "name": "Albert Market, Banjul",
+      "postcode": "00220",
+      "distanceKmFromAirport": 28,
+      "description": "Gambia's oldest market with batik fabric, carved masks and groundnut products",
+      "distance": 0.5,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 5,
+      "name": "Bijilo Forest Park",
+      "postcode": "00220",
+      "distanceKmFromAirport": 57,
+      "description": "Coastal forest with red colobus monkeys and 300+ bird species",
+      "distance": 30.0,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 6,
+      "name": "Arch 22 Monument",
+      "postcode": "00220",
+      "distanceKmFromAirport": 28,
+      "description": "Triumph arch marking the 1994 coup with panoramic views from the top",
+      "distance": 0.5,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 7,
+      "name": "Serekunda Market",
+      "postcode": "00220",
+      "distanceKmFromAirport": 52,
+      "description": "The biggest market in Gambia - an assault on all senses",
+      "distance": 25.0,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 8,
+      "name": "River Gambia Boat Trip",
+      "postcode": "00220",
+      "distanceKmFromAirport": 28,
+      "description": "Cruise the River Gambia to see hippos, baboons and extraordinary bird life",
+      "distance": 1.0,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 9,
+      "name": "Senegambia Strip (Kololi)",
+      "postcode": "00220",
+      "distanceKmFromAirport": 54,
+      "description": "The Gambia's tourist strip of beach bars, live African music and craft markets",
+      "distance": 27.0,
+      "URL": "https://www.visitthegambia.gm/"
+    },
+    {
+      "rank": 10,
+      "name": "Domoda (Groundnut Stew)",
+      "postcode": "00220",
+      "distanceKmFromAirport": 28,
+      "description": "The national dish - chicken or beef in a rich groundnut (peanut) paste",
+      "distance": 0.5,
+      "URL": "https://www.visitthegambia.gm/"
+    }
+  ]
+}

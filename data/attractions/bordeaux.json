@@ -1,0 +1,98 @@
+{
+  "city": "Bordeaux",
+  "country": "France",
+  "airportPostcode": "33700",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cite du Vin",
+      "postcode": "33300",
+      "distanceKmFromAirport": 15,
+      "description": "Extraordinary wine museum dedicated to world wine culture with sweeping river views",
+      "distance": 4.0,
+      "URL": "https://www.laciteduvin.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Place de la Bourse",
+      "postcode": "33000",
+      "distanceKmFromAirport": 12,
+      "description": "Stunning 18th-century square reflected in the Miroir d'Eau water mirror",
+      "distance": 1.5,
+      "URL": "https://www.bordeaux-tourism.co.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Miroir d'Eau",
+      "postcode": "33000",
+      "distanceKmFromAirport": 12,
+      "description": "World's largest reflecting pool creating mesmerising mirror effects on the quayside",
+      "distance": 1.5,
+      "URL": "https://www.bordeaux-tourism.co.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Saint-Andre Cathedral",
+      "postcode": "33000",
+      "distanceKmFromAirport": 12,
+      "description": "Gothic UNESCO-listed cathedral with twin towers and separate Pey-Berland bell tower",
+      "distance": 0.8,
+      "URL": "https://www.bordeaux-tourism.co.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Wine Chateaux Tours",
+      "postcode": "33330",
+      "distanceKmFromAirport": 51,
+      "description": "Day trips to legendary estates of Saint-Emilion, Medoc and Pomerol wine regions",
+      "distance": 40.0,
+      "URL": "https://www.saint-emilion-tourisme.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Grand Theatre de Bordeaux",
+      "postcode": "33000",
+      "distanceKmFromAirport": 12,
+      "description": "Magnificent 18th-century neoclassical theatre, inspiration for the Paris Opera Garnier",
+      "distance": 1.0,
+      "URL": "https://www.opera-bordeaux.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Jardin Public",
+      "postcode": "33000",
+      "distanceKmFromAirport": 13,
+      "description": "Elegant 18th-century garden with botanical collections, puppet theatre and bandstand",
+      "distance": 2.0,
+      "URL": "https://www.bordeaux-tourism.co.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Darwin Ecosystem",
+      "postcode": "33100",
+      "distanceKmFromAirport": 14,
+      "description": "Pioneering sustainable complex in former military barracks with skate park and organic market",
+      "distance": 3.0,
+      "URL": "https://www.darwinecosystem.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Pont de Pierre",
+      "postcode": "33000",
+      "distanceKmFromAirport": 12,
+      "description": "Napoleon's elegant 17-arch stone bridge crossing the Garonne river",
+      "distance": 1.5,
+      "URL": "https://www.bordeaux-tourism.co.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Rue Sainte-Catherine",
+      "postcode": "33000",
+      "distanceKmFromAirport": 12,
+      "description": "One of Europe's longest pedestrian shopping streets lined with boutiques and cafes",
+      "distance": 1.0,
+      "URL": "https://www.bordeaux-tourism.co.uk/"
+    }
+  ]
+}

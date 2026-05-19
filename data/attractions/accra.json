@@ -1,0 +1,98 @@
+{
+  "city": "Accra",
+  "country": "Ghana",
+  "airportPostcode": "GA-031-5009",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cape Coast Castle & Slave Dungeons",
+      "postcode": "CE-0064-0483",
+      "distanceKmFromAirport": 149,
+      "description": "UNESCO World Heritage fortress where enslaved Africans passed through the Door of No Return",
+      "distance": 140.0,
+      "URL": "https://www.ghanamuseums.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Kwame Nkrumah Memorial Park & Mausoleum",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 12,
+      "description": "Memorial to Africa's greatest independence leader on the site where he declared independence",
+      "distance": 2.5,
+      "URL": "https://www.visitghana.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Makola Market",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 10,
+      "description": "West Africa's most vibrant market with kente cloth, drums, shea butter and street food",
+      "distance": 1.5,
+      "URL": "https://www.visitghana.com/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Ghana",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 11,
+      "description": "Ghana's history from Akan kingdoms through the slave trade to independence",
+      "distance": 2.0,
+      "URL": "https://www.ghanamuseums.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Labadi Beach (La Pleasure Beach)",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 19,
+      "description": "Most popular beach in Accra with live music, dancing and fresh coconuts",
+      "distance": 10.0,
+      "URL": "https://www.visitghana.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Elmina Castle",
+      "postcode": "CE-0064-0484",
+      "distanceKmFromAirport": 159,
+      "description": "UNESCO World Heritage oldest European building in sub-Saharan Africa, built by the Portuguese",
+      "distance": 150.0,
+      "URL": "https://www.ghanamuseums.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Arts Centre (Centre for National Culture)",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 11,
+      "description": "Wood carvers, kente weavers, jewellers and craftsmen at work and for sale",
+      "distance": 2.0,
+      "URL": "https://www.visitghana.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Aburi Botanical Gardens",
+      "postcode": "ER-0271-4791",
+      "distanceKmFromAirport": 44,
+      "description": "1890 botanical garden in the cool Akuapem Hills 35km from Accra",
+      "distance": 35.0,
+      "URL": "https://www.visitghana.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Teshie-Nungua Fantasy Coffin Makers",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 21,
+      "description": "Unique Ghanaian tradition of being buried in a coffin shaped like your passion",
+      "distance": 12.0,
+      "URL": "https://www.visitghana.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Jollof Rice Rivalry",
+      "postcode": "GA-031-5009",
+      "distanceKmFromAirport": 10,
+      "description": "Try Ghana's jollof rice - superior to Nigeria's according to Ghanaians everywhere",
+      "distance": 1.0,
+      "URL": "https://www.visitghana.com/"
+    }
+  ]
+}

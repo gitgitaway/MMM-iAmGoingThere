@@ -1,0 +1,98 @@
+{
+  "city": "Budapest",
+  "country": "Hungary",
+  "airportPostcode": "1185",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Parliament Building",
+      "postcode": "1055",
+      "distanceKmFromAirport": 22,
+      "description": "Stunning neo-Gothic parliament on the Danube — the world's third largest parliament building",
+      "distance": 1.5,
+      "URL": "https://www.parlament.hu/en/web/visitors"
+    },
+    {
+      "rank": 2,
+      "name": "Buda Castle & Castle Hill",
+      "postcode": "1014",
+      "distanceKmFromAirport": 22,
+      "description": "UNESCO-listed castle complex housing the Hungarian National Gallery with sweeping city views",
+      "distance": 2.0,
+      "URL": "https://budacastlebudapest.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Szechenyi Thermal Baths",
+      "postcode": "1146",
+      "distanceKmFromAirport": 24,
+      "description": "Magnificent neo-Baroque thermal bath complex in City Park, one of Europe's largest public spas",
+      "distance": 4.5,
+      "URL": "https://szechenyibath.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Fisherman's Bastion",
+      "postcode": "1014",
+      "distanceKmFromAirport": 22,
+      "description": "Fairytale neo-Romanesque terrace with seven towers offering the finest views across the Danube",
+      "distance": 2.5,
+      "URL": "https://www.fishermansbastion.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Great Market Hall",
+      "postcode": "1093",
+      "distanceKmFromAirport": 21,
+      "description": "Budapest's largest and oldest indoor market (1897) with paprika, salami and Hungarian folk crafts",
+      "distance": 1.0,
+      "URL": "https://www.piaconline.hu/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Hungarian State Opera House",
+      "postcode": "1061",
+      "distanceKmFromAirport": 22,
+      "description": "Opulent neo-Renaissance opera house considered one of the most beautiful in the world",
+      "distance": 1.5,
+      "URL": "https://www.opera.hu/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Ruin Bars of the Jewish Quarter",
+      "postcode": "1075",
+      "distanceKmFromAirport": 21,
+      "description": "Szimpla Kert and other iconic ruin bars in crumbling pre-war buildings in the 7th district",
+      "distance": 1.0,
+      "URL": "https://szimpla.hu/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Heroes Square & City Park",
+      "postcode": "1146",
+      "distanceKmFromAirport": 24,
+      "description": "UNESCO-listed millennium monument with statues of Hungary's greatest historical figures",
+      "distance": 4.0,
+      "URL": "https://www.budapest.com/en/sights/heroes_square/"
+    },
+    {
+      "rank": 9,
+      "name": "Dohany Street Synagogue",
+      "postcode": "1074",
+      "distanceKmFromAirport": 21,
+      "description": "Europe's largest synagogue (1859) with a memorial garden and the Hungarian Jewish Museum",
+      "distance": 1.0,
+      "URL": "https://www.dohanystreetsynagogue.hu/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Danube Bend Day Trip",
+      "postcode": "2025",
+      "distanceKmFromAirport": 65,
+      "description": "Scenic curve of the Danube north of Budapest with Visegrad Castle and charming Szentendre",
+      "distance": 45.0,
+      "URL": "https://www.visitdanuberegion.com/"
+    }
+  ]
+}

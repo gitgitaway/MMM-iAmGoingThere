@@ -1,0 +1,98 @@
+{
+  "city": "Brest",
+  "country": "France",
+  "airportPostcode": "29490",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Château de Brest",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Ancient maritime fortress at the mouth of the River Penfeld, one of France's oldest castles housing the National Marine Museum",
+      "distance": 1.2,
+      "URL": "https://www.musee-marine.fr/brest"
+    },
+    {
+      "rank": 2,
+      "name": "Océanopolis",
+      "postcode": "29200",
+      "distanceKmFromAirport": 14,
+      "description": "Europe's finest marine discovery park with three pavilions recreating polar, tropical and temperate ocean environments",
+      "distance": 4.0,
+      "URL": "https://www.oceanopolis.com/en"
+    },
+    {
+      "rank": 3,
+      "name": "Pont de Recouvrance",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Europe's largest vertical-lift bridge spanning the River Penfeld, an engineering landmark of the postwar rebuilding era",
+      "distance": 1.5,
+      "URL": "https://tourisme.brest.fr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Rue de Siam",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Brest's celebrated commercial boulevard commemorating the visit of Siamese ambassadors in 1686, lined with shops and cafes",
+      "distance": 0.8,
+      "URL": "https://tourisme.brest.fr/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Musée des Beaux-Arts de Brest",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Fine arts museum with collections spanning the 16th to 20th centuries, including strong Pont-Aven School and Symbolist holdings",
+      "distance": 0.7,
+      "URL": "https://www.musee-beaux-arts.brest.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Place de la Liberté",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Central square of rebuilt Brest with the Town Hall, fountain and vibrant street life at the heart of the modern city",
+      "distance": 0.5,
+      "URL": "https://tourisme.brest.fr/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Conservatoire Botanique National de Brest",
+      "postcode": "29200",
+      "distanceKmFromAirport": 13,
+      "description": "Internationally renowned botanical garden specialising in threatened island species with extensive glasshouses and wild gardens",
+      "distance": 3.0,
+      "URL": "https://www.cbnbrest.fr/"
+    },
+    {
+      "rank": 8,
+      "name": "Presqu'île de Crozon",
+      "postcode": "29160",
+      "distanceKmFromAirport": 40,
+      "description": "Spectacular Atlantic peninsula of dramatic cliffs and wild beaches near Brest, among Brittany's most beautiful coastline",
+      "distance": 35.0,
+      "URL": "https://www.presqu-ile-de-crozon.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Tour Tanguy Museum",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Medieval tower beside the Penfeld showing dioramas of old Brest before its wartime destruction in a charming historic setting",
+      "distance": 1.8,
+      "URL": "https://tourisme.brest.fr/en/see-and-do/monuments/tour-tanguy"
+    },
+    {
+      "rank": 10,
+      "name": "Les Ateliers des Capucins",
+      "postcode": "29200",
+      "distanceKmFromAirport": 12,
+      "description": "Enormous repurposed naval workshop of 1863 now a dynamic cultural venue with a skatepark, market, cinema and exhibitions",
+      "distance": 1.5,
+      "URL": "https://www.brest.fr/les-capucins"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Ayrshire",
+  "country": "United Kingdom",
+  "airportPostcode": "KA9 2PL",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Culzean Castle & Country Park",
+      "postcode": "KA19 8LE",
+      "distanceKmFromAirport": 27,
+      "description": "Magnificent clifftop castle by Robert Adam with stunning coastal views and 260 acres of parkland",
+      "distance": 22.0,
+      "URL": "https://www.nts.org.uk/visit/places/culzean-castle-and-country-park"
+    },
+    {
+      "rank": 2,
+      "name": "Burns Cottage & Museum",
+      "postcode": "KA7 4PQ",
+      "distanceKmFromAirport": 10,
+      "description": "Birthplace of Scotland's national poet Robert Burns in Alloway",
+      "distance": 5.0,
+      "URL": "https://www.burnscottage.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Alloway Old Kirk",
+      "postcode": "KA7 4PQ",
+      "distanceKmFromAirport": 10,
+      "description": "Ruined church where Tam o' Shanter encountered witches in Burns's famous poem",
+      "distance": 5.0,
+      "URL": "https://www.robertburns.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Robert Burns Birthplace Museum",
+      "postcode": "KA7 4PQ",
+      "distanceKmFromAirport": 10,
+      "description": "Award-winning museum celebrating the life and works of Scotland's bard",
+      "distance": 5.0,
+      "URL": "https://www.nts.org.uk/visit/places/robert-burns-birthplace-museum"
+    },
+    {
+      "rank": 5,
+      "name": "Ailsa Craig",
+      "postcode": "KA26 9JB",
+      "distanceKmFromAirport": 40,
+      "description": "Dramatic volcanic island bird sanctuary producing the world's finest curling stones",
+      "distance": 35.0,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Royal Troon Golf Club",
+      "postcode": "KA10 6EP",
+      "distanceKmFromAirport": 17,
+      "description": "One of Scotland's most prestigious links courses, host of The Open Championship",
+      "distance": 12.0,
+      "URL": "https://www.royaltroon.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Crossraguel Abbey",
+      "postcode": "KA19 8HQ",
+      "distanceKmFromAirport": 25,
+      "description": "Impressive ruins of a 13th-century Cluniac monastery",
+      "distance": 20.0,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 8,
+      "name": "Electric Brae",
+      "postcode": "KA19 8JS",
+      "distanceKmFromAirport": 27,
+      "description": "Mysterious stretch of road where cars appear to roll uphill due to an optical illusion",
+      "distance": 22.0,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Heads of Ayr Farm Park",
+      "postcode": "KA7 4LD",
+      "distanceKmFromAirport": 10,
+      "description": "Family-friendly farm park with animals and outdoor play areas",
+      "distance": 5.0,
+      "URL": "https://www.headsofayr.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Scottish Maritime Museum",
+      "postcode": "KA12 8QE",
+      "distanceKmFromAirport": 15,
+      "description": "Celebrating Scotland's shipbuilding heritage in Irvine harbour",
+      "distance": 10.0,
+      "URL": "https://www.scottishmaritimemuseum.org/"
+    }
+  ]
+}

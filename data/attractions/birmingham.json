@@ -1,0 +1,98 @@
+{
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "airportPostcode": "B26 3QJ",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cadbury World",
+      "postcode": "B30 2LU",
+      "distanceKmFromAirport": 18,
+      "description": "Immersive experience exploring the history of chocolate and the Cadbury brand",
+      "distance": 6.0,
+      "URL": "https://www.cadburyworld.co.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Birmingham Museum & Art Gallery",
+      "postcode": "B3 3DH",
+      "distanceKmFromAirport": 12,
+      "description": "Outstanding collection of Pre-Raphaelite art and decorative arts in the city centre",
+      "distance": 0.5,
+      "URL": "https://www.birminghammuseums.org.uk/bmag"
+    },
+    {
+      "rank": 3,
+      "name": "Jewellery Quarter",
+      "postcode": "B18 6QU",
+      "distanceKmFromAirport": 14,
+      "description": "Historic district producing a third of all UK jewellery with museums and boutiques",
+      "distance": 1.5,
+      "URL": "https://www.jewelleryquarter.net/"
+    },
+    {
+      "rank": 4,
+      "name": "Bullring & Grand Central",
+      "postcode": "B5 4BU",
+      "distanceKmFromAirport": 12,
+      "description": "Major city-centre shopping complex featuring the iconic Selfridges blob building",
+      "distance": 0.4,
+      "URL": "https://www.bullring.co.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Brindleyplace",
+      "postcode": "B1 2JB",
+      "distanceKmFromAirport": 13,
+      "description": "Award-winning canalside development with restaurants, bars and galleries",
+      "distance": 0.9,
+      "URL": "https://www.brindleyplace.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Thinktank Science Museum",
+      "postcode": "B4 7XG",
+      "distanceKmFromAirport": 13,
+      "description": "Interactive science museum with planetarium and fascinating exhibits",
+      "distance": 1.2,
+      "URL": "https://www.birminghammuseums.org.uk/thinktank"
+    },
+    {
+      "rank": 7,
+      "name": "Birmingham Back to Backs",
+      "postcode": "B5 4TE",
+      "distanceKmFromAirport": 13,
+      "description": "National Trust-managed last surviving court of back-to-back houses in the city",
+      "distance": 0.7,
+      "URL": "https://www.nationaltrust.org.uk/birmingham-back-to-backs"
+    },
+    {
+      "rank": 8,
+      "name": "Birmingham Botanical Gardens",
+      "postcode": "B15 3TR",
+      "distanceKmFromAirport": 15,
+      "description": "15 acres of beautiful themed gardens including glasshouses and a national bonsai collection",
+      "distance": 3.0,
+      "URL": "https://www.birminghambotanicalgardens.org.uk/"
+    },
+    {
+      "rank": 9,
+      "name": "Barber Institute of Fine Arts",
+      "postcode": "B15 2TS",
+      "distanceKmFromAirport": 16,
+      "description": "Hidden gem housing a world-class art collection on the University of Birmingham campus",
+      "distance": 4.0,
+      "URL": "https://www.barber.org.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Gas Street Basin",
+      "postcode": "B1 2JT",
+      "distanceKmFromAirport": 13,
+      "description": "Historic canal hub at the centre of England's extensive waterway network",
+      "distance": 1.0,
+      "URL": "https://www.visitbirmingham.com/"
+    }
+  ]
+}

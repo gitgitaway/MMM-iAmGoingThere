@@ -1,0 +1,98 @@
+{
+  "city": "Belize City",
+  "country": "Belize",
+  "airportPostcode": "00000",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Great Blue Hole Dive",
+      "postcode": "00000",
+      "distanceKmFromAirport": 116,
+      "description": "UNESCO World Heritage underwater sinkhole 300m wide and 125m deep - world's greatest dive",
+      "distance": 100.0,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Belize Barrier Reef Snorkelling",
+      "postcode": "00000",
+      "distanceKmFromAirport": 36,
+      "description": "UNESCO World Heritage second largest barrier reef in the world with nurse sharks and rays",
+      "distance": 20.0,
+      "URL": "https://whc.unesco.org/en/list/764/"
+    },
+    {
+      "rank": 3,
+      "name": "Caracol Maya Ruins",
+      "postcode": "00000",
+      "distanceKmFromAirport": 186,
+      "description": "Largest Maya site in Belize with the tallest man-made structure in the country",
+      "distance": 170.0,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Actun Tunichil Muknal Cave",
+      "postcode": "00000",
+      "distanceKmFromAirport": 116,
+      "description": "Swim into a cave containing Maya skeletal remains and sacrificial artefacts",
+      "distance": 100.0,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Tikal Day Trip (Guatemala)",
+      "postcode": "17001",
+      "distanceKmFromAirport": 156,
+      "description": "The greatest Maya city accessible in 2 hours from Belize",
+      "distance": 140.0,
+      "URL": "https://www.visitguatemala.com/destination/tikal/"
+    },
+    {
+      "rank": 6,
+      "name": "Xunantunich Maya Site",
+      "postcode": "00000",
+      "distanceKmFromAirport": 146,
+      "description": "Maya temple with a frieze depicting the solar system - panoramic views from the top",
+      "distance": 130.0,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Community Baboon Sanctuary",
+      "postcode": "00000",
+      "distanceKmFromAirport": 66,
+      "description": "Black howler monkey conservation with local Creole villagers as guides",
+      "distance": 50.0,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Lamanai Ruins Boat Tour",
+      "postcode": "00000",
+      "distanceKmFromAirport": 111,
+      "description": "Boat journey through jungle waterways to a spectacular Maya temple complex",
+      "distance": 95.0,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Museum of Belize",
+      "postcode": "00000",
+      "distanceKmFromAirport": 18,
+      "description": "Former colonial prison with Maya jade artefacts and Belize natural history",
+      "distance": 1.5,
+      "URL": "https://www.belizetourism.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Fry Jack with Stew Chicken",
+      "postcode": "00000",
+      "distanceKmFromAirport": 16,
+      "description": "Belize's favourite breakfast - fried dough pillows with stewed chicken and coconut rice",
+      "distance": 0.5,
+      "URL": "https://www.belizetourism.org/"
+    }
+  ]
+}

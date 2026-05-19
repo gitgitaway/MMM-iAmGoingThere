@@ -1,0 +1,98 @@
+{
+  "city": "Alicante",
+  "country": "Spain",
+  "airportPostcode": "03195",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Santa Barbara Castle",
+      "postcode": "03001",
+      "distanceKmFromAirport": 14,
+      "description": "Imposing 9th-century castle on Mount Benacantil with panoramic city and sea views",
+      "distance": 1.5,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Explanada de Espana",
+      "postcode": "03002",
+      "distanceKmFromAirport": 14,
+      "description": "Elegant palm-lined promenade with a mosaic pavement of 6.5 million marble tiles",
+      "distance": 0.5,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 3,
+      "name": "El Postiguet Beach",
+      "postcode": "03001",
+      "distanceKmFromAirport": 14,
+      "description": "Central city beach with fine sand and views up to the castle",
+      "distance": 1.0,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 4,
+      "name": "MARQ Archaeological Museum",
+      "postcode": "03013",
+      "distanceKmFromAirport": 15,
+      "description": "Award-winning museum of Alicante's prehistoric and Roman heritage",
+      "distance": 2.0,
+      "URL": "https://www.marqalicante.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Old Town (El Barrio)",
+      "postcode": "03001",
+      "distanceKmFromAirport": 14,
+      "description": "Charming quarter of narrow streets below the castle with tapas bars and nightlife",
+      "distance": 1.0,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Tabarca Island",
+      "postcode": "03138",
+      "distanceKmFromAirport": 35,
+      "description": "Spain's only inhabited fortified island with a marine reserve for snorkelling",
+      "distance": 22.0,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 7,
+      "name": "San Juan Beach",
+      "postcode": "03540",
+      "distanceKmFromAirport": 21,
+      "description": "One of Spain's finest city beaches stretching 7km along the Costa Blanca",
+      "distance": 8.0,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Santa Cruz Quarter",
+      "postcode": "03001",
+      "distanceKmFromAirport": 14,
+      "description": "Colourful hillside neighbourhood with flower-filled balconies and viewpoints",
+      "distance": 1.5,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Alicante City Hall",
+      "postcode": "03002",
+      "distanceKmFromAirport": 13,
+      "description": "Baroque facade with the zero sea level reference point for Spanish altitudes",
+      "distance": 0.3,
+      "URL": "https://www.alicanteturismo.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Hogueras de San Juan",
+      "postcode": "03001",
+      "distanceKmFromAirport": 14,
+      "description": "Spectacular Midsummer bonfire festival with giant papier-mache figures",
+      "distance": 1.0,
+      "URL": "https://www.alicanteturismo.com/"
+    }
+  ]
+}

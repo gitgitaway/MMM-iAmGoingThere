@@ -1,0 +1,98 @@
+{
+  "city": "Bali",
+  "country": "Indonesia",
+  "airportPostcode": "80361",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ubud Sacred Monkey Forest",
+      "postcode": "80571",
+      "distanceKmFromAirport": 38,
+      "description": "Ancient jungle sanctuary housing three Hindu temples and 700 long-tailed macaques",
+      "distance": 25.0,
+      "URL": "https://www.monkeyforestubud.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Tanah Lot Temple",
+      "postcode": "82171",
+      "distanceKmFromAirport": 33,
+      "description": "Iconic sea temple perched on a dramatic offshore rock — one of Bali's most photographed sunsets",
+      "distance": 20.0,
+      "URL": "https://www.bali.com/places-to-visit/tanah-lot/"
+    },
+    {
+      "rank": 3,
+      "name": "Tegalalang Rice Terraces",
+      "postcode": "80517",
+      "distanceKmFromAirport": 43,
+      "description": "UNESCO-listed stunning stepped emerald rice paddies north of Ubud with traditional irrigation system",
+      "distance": 30.0,
+      "URL": "https://www.bali.com/places-to-visit/tegalalang-rice-terrace/"
+    },
+    {
+      "rank": 4,
+      "name": "Uluwatu Temple & Kecak Fire Dance",
+      "postcode": "80362",
+      "distanceKmFromAirport": 38,
+      "description": "Clifftop sea temple 70m above the Indian Ocean — evening Kecak fire dance at sunset is spectacular",
+      "distance": 25.0,
+      "URL": "https://www.bali.com/places-to-visit/uluwatu-temple/"
+    },
+    {
+      "rank": 5,
+      "name": "Seminyak Beach & Sunset",
+      "postcode": "80361",
+      "distanceKmFromAirport": 18,
+      "description": "Bali's most fashionable beach strip — surf, beach clubs, luxury villas and legendary sunsets",
+      "distance": 5.0,
+      "URL": "https://www.bali.com/places-to-visit/seminyak/"
+    },
+    {
+      "rank": 6,
+      "name": "Mount Batur Sunrise Trek",
+      "postcode": "80652",
+      "distanceKmFromAirport": 73,
+      "description": "Active volcano hike departing at 4am to reach the rim for a breathtaking sunrise above the clouds",
+      "distance": 60.0,
+      "URL": "https://www.bali.com/places-to-visit/mount-batur/"
+    },
+    {
+      "rank": 7,
+      "name": "Ubud Art Market & Palace",
+      "postcode": "80571",
+      "distanceKmFromAirport": 38,
+      "description": "Traditional crafts, batik, silver and wood carvings in the market opposite the Royal Ubud Palace",
+      "distance": 25.0,
+      "URL": "https://www.bali.com/places-to-visit/ubud/"
+    },
+    {
+      "rank": 8,
+      "name": "Besakih Mother Temple",
+      "postcode": "80952",
+      "distanceKmFromAirport": 78,
+      "description": "Bali's holiest and largest temple complex on the slopes of sacred Mount Agung",
+      "distance": 65.0,
+      "URL": "https://www.bali.com/places-to-visit/besakih-temple/"
+    },
+    {
+      "rank": 9,
+      "name": "Nusa Penida Island",
+      "postcode": "80771",
+      "distanceKmFromAirport": 33,
+      "description": "Fast boat to the stunning Kelingking T-Rex cliff, Angel's Billabong and pristine diving reefs",
+      "distance": 20.0,
+      "URL": "https://www.bali.com/places-to-visit/nusa-penida/"
+    },
+    {
+      "rank": 10,
+      "name": "Traditional Balinese Cooking Class",
+      "postcode": "80571",
+      "distanceKmFromAirport": 38,
+      "description": "Morning market visit then hands-on class learning to cook nasi goreng, satay and black rice pudding",
+      "distance": 25.0,
+      "URL": "https://www.cookinbali.com/"
+    }
+  ]
+}

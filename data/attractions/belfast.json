@@ -1,0 +1,98 @@
+{
+  "city": "Belfast",
+  "country": "United Kingdom",
+  "airportPostcode": "BT29 4AB",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Titanic Belfast",
+      "postcode": "BT3 9EP",
+      "distanceKmFromAirport": 32,
+      "description": "World-class visitor experience telling the story of the Titanic, built in Belfast",
+      "distance": 1.8,
+      "URL": "https://www.titanicbelfast.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Giant's Causeway",
+      "postcode": "BT57 8SU",
+      "distanceKmFromAirport": 115,
+      "description": "UNESCO World Heritage site of 40,000 interlocking basalt columns on the Antrim coast",
+      "distance": 85.0,
+      "URL": "https://www.nationaltrust.org.uk/giants-causeway"
+    },
+    {
+      "rank": 3,
+      "name": "Cathedral Quarter",
+      "postcode": "BT1 2LA",
+      "distanceKmFromAirport": 30,
+      "description": "Vibrant cultural district with art galleries, theatres and Belfast's best nightlife",
+      "distance": 0.5,
+      "URL": "https://www.visitbelfast.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Ulster Museum",
+      "postcode": "BT9 5AB",
+      "distanceKmFromAirport": 33,
+      "description": "Fascinating collection covering art, history and natural sciences",
+      "distance": 3.0,
+      "URL": "https://www.nmni.com/our-museums/ulster-museum"
+    },
+    {
+      "rank": 5,
+      "name": "Crown Liquor Saloon",
+      "postcode": "BT2 7BA",
+      "distanceKmFromAirport": 31,
+      "description": "Ornate Victorian gin palace - the most flamboyant pub in Ireland",
+      "distance": 0.6,
+      "URL": "https://www.nationaltrust.org.uk/crown-bar"
+    },
+    {
+      "rank": 6,
+      "name": "Belfast Botanic Gardens",
+      "postcode": "BT9 5AB",
+      "distanceKmFromAirport": 33,
+      "description": "Victorian gardens with the stunning Palm House and Tropical Ravine",
+      "distance": 2.8,
+      "URL": "https://www.visitbelfast.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Cave Hill Country Park",
+      "postcode": "BT36 7AT",
+      "distanceKmFromAirport": 36,
+      "description": "Landmark hill with Napoleon's Nose promontory and panoramic city views",
+      "distance": 5.5,
+      "URL": "https://www.belfastcity.gov.uk/cavehill"
+    },
+    {
+      "rank": 8,
+      "name": "Black Taxi Tour",
+      "postcode": "BT12 6FB",
+      "distanceKmFromAirport": 32,
+      "description": "Fascinating tour of the political murals and Peace Walls of Belfast",
+      "distance": 1.5,
+      "URL": "https://www.belfastblackcabtours.co.uk/"
+    },
+    {
+      "rank": 9,
+      "name": "St Anne's Cathedral",
+      "postcode": "BT1 2HB",
+      "distanceKmFromAirport": 30,
+      "description": "Early 20th-century Hiberno-Romanesque cathedral in the Cathedral Quarter",
+      "distance": 0.4,
+      "URL": "https://www.belfastcathedral.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Carrickfergus Castle",
+      "postcode": "BT38 7BG",
+      "distanceKmFromAirport": 48,
+      "description": "Best-preserved Norman castle in Ireland on the shores of Belfast Lough",
+      "distance": 18.0,
+      "URL": "https://www.niea.gov.uk/carrickfergus-castle"
+    }
+  ]
+}

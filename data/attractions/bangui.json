@@ -1,0 +1,98 @@
+{
+  "city": "Bangui",
+  "country": "Central African Republic",
+  "airportPostcode": "BP 54",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Notre-Dame de Bangui Cathedral",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 9,
+      "description": "French colonial cathedral overlooking the Oubangui River",
+      "distance": 2.0,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 2,
+      "name": "Bangui Central Market (Marche Central)",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 8,
+      "description": "Vibrant market with extraordinary diamonds, gold and tropical produce",
+      "distance": 1.0,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 3,
+      "name": "Presidential Palace & Oubangui River",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 8,
+      "description": "Walk along the Congo River that marks the border with DR Congo",
+      "distance": 1.5,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 4,
+      "name": "Musee de Boganda",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 9,
+      "description": "Named after CAR's founding father - collections of traditional Banda and Baya art",
+      "distance": 2.0,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 5,
+      "name": "Les Rapides de Bangui",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 12,
+      "description": "Scenic Oubangui River rapids south of the city",
+      "distance": 5.0,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 6,
+      "name": "Village Artisanal",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 10,
+      "description": "Craft village with carvers, weavers and potters making traditional crafts",
+      "distance": 3.0,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 7,
+      "name": "Dzanga-Sangha Reserve Day Trip",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 707,
+      "description": "World-famous western lowland gorilla and forest elephant clearing - one of Africa's great wildlife experiences",
+      "distance": 700.0,
+      "URL": "https://www.dzanga-sangha.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Chinko Nature Reserve",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 657,
+      "description": "Remote wilderness reserve with the last large populations of giant eland",
+      "distance": 650.0,
+      "URL": "https://www.africaparks.org/the-parks/chinko/"
+    },
+    {
+      "rank": 9,
+      "name": "French Colonial Quarter",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 8,
+      "description": "Tree-lined avenues of the old French administrative quarter",
+      "distance": 1.0,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    },
+    {
+      "rank": 10,
+      "name": "Gozo (Cassava Porridge)",
+      "postcode": "BP 54",
+      "distanceKmFromAirport": 8,
+      "description": "CAR staple - thick cassava porridge eaten with grilled meat or fish",
+      "distance": 0.5,
+      "URL": "https://www.lonelyplanet.com/central-african-republic/bangui"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Barcelona",
+  "country": "Spain",
+  "airportPostcode": "08820",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sagrada Familia",
+      "postcode": "08013",
+      "distanceKmFromAirport": 16,
+      "description": "Antoni Gaudi's extraordinary UNESCO-listed basilica still under construction since 1882",
+      "distance": 2.5,
+      "URL": "https://www.sagradafamilia.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Park Guell",
+      "postcode": "08024",
+      "distanceKmFromAirport": 18,
+      "description": "Gaudi's colourful UNESCO hilltop park with mosaic terraces and gingerbread gatehouses",
+      "distance": 4.5,
+      "URL": "https://parkguell.barcelona/"
+    },
+    {
+      "rank": 3,
+      "name": "Casa Batllo",
+      "postcode": "08007",
+      "distanceKmFromAirport": 15,
+      "description": "Gaudi's dragon-spine building on the Passeig de Gracia, a masterpiece of organic design",
+      "distance": 0.8,
+      "URL": "https://www.casabatllo.es/"
+    },
+    {
+      "rank": 4,
+      "name": "La Rambla",
+      "postcode": "08002",
+      "distanceKmFromAirport": 15,
+      "description": "Barcelona's famous tree-lined pedestrian boulevard from Plaza Catalunya to the sea",
+      "distance": 0.7,
+      "URL": "https://www.barcelona.cat/en/what-to-do-in-bcn/la-rambla"
+    },
+    {
+      "rank": 5,
+      "name": "Gothic Quarter",
+      "postcode": "08002",
+      "distanceKmFromAirport": 15,
+      "description": "Labyrinthine medieval centre with the Barcelona Cathedral and Roman remains",
+      "distance": 0.8,
+      "URL": "https://www.barcelonaturisme.com/wv3/en/page/1122/the-gothic-quarter.html"
+    },
+    {
+      "rank": 6,
+      "name": "Barceloneta Beach",
+      "postcode": "08003",
+      "distanceKmFromAirport": 16,
+      "description": "City beach backed by seafood restaurants stretching along the Mediterranean coast",
+      "distance": 2.0,
+      "URL": "https://www.barcelona.cat/en/what-to-do-in-bcn/beaches/barceloneta-beach"
+    },
+    {
+      "rank": 7,
+      "name": "Palau de la Musica Catalana",
+      "postcode": "08003",
+      "distanceKmFromAirport": 15,
+      "description": "Extraordinary UNESCO Art Nouveau concert hall by Lluís Domènech i Montaner",
+      "distance": 1.2,
+      "URL": "https://www.palaumusica.cat/"
+    },
+    {
+      "rank": 8,
+      "name": "Camp Nou",
+      "postcode": "08028",
+      "distanceKmFromAirport": 20,
+      "description": "Home of FC Barcelona, one of the world's largest football stadiums",
+      "distance": 5.5,
+      "URL": "https://www.fcbarcelona.com/en/camp-nou-experience"
+    },
+    {
+      "rank": 9,
+      "name": "Montjuic",
+      "postcode": "08038",
+      "distanceKmFromAirport": 17,
+      "description": "Hilltop park with the 1992 Olympic stadium, castle and Miro Foundation",
+      "distance": 3.0,
+      "URL": "https://www.barcelona.cat/en/what-to-do-in-bcn/montjuic"
+    },
+    {
+      "rank": 10,
+      "name": "La Boqueria Market",
+      "postcode": "08001",
+      "distanceKmFromAirport": 15,
+      "description": "Legendary covered market on La Rambla bursting with fresh produce and tapas bars",
+      "distance": 0.7,
+      "URL": "https://www.boqueria.barcelona/"
+    }
+  ]
+}

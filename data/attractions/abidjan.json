@@ -1,0 +1,98 @@
+{
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "airportPostcode": "BP 345",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tai National Park",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 459,
+      "description": "UNESCO World Heritage last remaining primary forest in West Africa",
+      "distance": 450.0,
+      "URL": "https://whc.unesco.org/en/list/195/"
+    },
+    {
+      "rank": 2,
+      "name": "Basilique Notre-Dame de la Paix (Yamoussoukro)",
+      "postcode": "00225",
+      "distanceKmFromAirport": 249,
+      "description": "The world's largest church - larger than St Peter's in Rome, 3 hours from Abidjan",
+      "distance": 240.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 3,
+      "name": "Banco National Park",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 14,
+      "description": "Urban rainforest park within the city boundaries",
+      "distance": 5.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee des Civilisations de Cote d'Ivoire",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 16,
+      "description": "West African masks, Senufo bronzes and Dan tribe sculptures",
+      "distance": 7.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 5,
+      "name": "Plateau Business District",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 12,
+      "description": "West Africa's most impressive skyline with the Houphouet-Boigny Bridge",
+      "distance": 3.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 6,
+      "name": "Le Village Artisanal de la Pyramide",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 13,
+      "description": "Arts and crafts market with Kente cloth, masks, ivory and bronze",
+      "distance": 4.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 7,
+      "name": "Assinie Beach",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 94,
+      "description": "Atlantic beach 85km east of Abidjan with lagoons and resort hotels",
+      "distance": 85.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 8,
+      "name": "Grand-Bassam",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 49,
+      "description": "UNESCO World Heritage former colonial capital on a lagoon - Art Nouveau buildings",
+      "distance": 40.0,
+      "URL": "https://whc.unesco.org/en/list/1322/"
+    },
+    {
+      "rank": 9,
+      "name": "Marche de Cocody",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 15,
+      "description": "Vibrant neighbourhood market with fresh produce and street food",
+      "distance": 6.0,
+      "URL": "https://www.tourisme.ci/"
+    },
+    {
+      "rank": 10,
+      "name": "Attieke with Grilled Fish",
+      "postcode": "BP 345",
+      "distanceKmFromAirport": 12,
+      "description": "Ivory Coast's national dish - cassava couscous with grilled tilapia and alloco fried plantains",
+      "distance": 3.0,
+      "URL": "https://www.tourisme.ci/"
+    }
+  ]
+}

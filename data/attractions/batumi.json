@@ -1,0 +1,98 @@
+{
+  "city": "Batumi",
+  "country": "Georgia",
+  "airportPostcode": "6000",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Batumi Boulevard",
+      "postcode": "6010",
+      "distanceKmFromAirport": 2,
+      "description": "6km Black Sea promenade with fountains, sculptures, a Ferris wheel and a unique dancing fountain",
+      "distance": 0.5,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Batha)",
+      "postcode": "6000",
+      "distanceKmFromAirport": 3,
+      "description": "Historic quarter with colourful balconied houses, the piazza and Orta Jame Mosque",
+      "distance": 0.8,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 3,
+      "name": "Batumi Tower & Alphabetic Tower",
+      "postcode": "6010",
+      "distanceKmFromAirport": 4,
+      "description": "Georgia's unique 130m rotating hotel tower and the twisted Alphabetic Tower",
+      "distance": 1.5,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 4,
+      "name": "Botanical Garden",
+      "postcode": "6010",
+      "distanceKmFromAirport": 11,
+      "description": "130-hectare hillside garden above the sea with plants from around the world",
+      "distance": 9.0,
+      "URL": "https://garden.ge/"
+    },
+    {
+      "rank": 5,
+      "name": "Batumi Archaeological Museum",
+      "postcode": "6000",
+      "distanceKmFromAirport": 3,
+      "description": "Greek and Roman artefacts from the ancient Colchis region, home of the Golden Fleece",
+      "distance": 0.6,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 6,
+      "name": "Gonio Apsaros Fortress",
+      "postcode": "6035",
+      "distanceKmFromAirport": 16,
+      "description": "2nd-century Roman fortress said to hold the tomb of the Apostle Matthias",
+      "distance": 14.0,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 7,
+      "name": "Mtirala National Park",
+      "postcode": "6000",
+      "distanceKmFromAirport": 27,
+      "description": "Subtropical rainforest in the Caucasus mountains with waterfalls and rare flora",
+      "distance": 25.0,
+      "URL": "https://apa.gov.ge/en/mtirala-national-park"
+    },
+    {
+      "rank": 8,
+      "name": "Piazza Batumi",
+      "postcode": "6000",
+      "distanceKmFromAirport": 3,
+      "description": "Italian-inspired pedestrian piazza with bell tower, restaurants and a lively atmosphere",
+      "distance": 0.7,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 9,
+      "name": "Europe Square",
+      "postcode": "6000",
+      "distanceKmFromAirport": 2,
+      "description": "Colourful central square with a giant chessboard, Neptune fountain and city hall",
+      "distance": 0.5,
+      "URL": "https://www.visitbatumi.ge/"
+    },
+    {
+      "rank": 10,
+      "name": "Black Sea Beaches",
+      "postcode": "6010",
+      "distanceKmFromAirport": 3,
+      "description": "Pebble beaches along the Adjaran Black Sea coast with warm summer water",
+      "distance": 1.0,
+      "URL": "https://www.visitbatumi.ge/"
+    }
+  ]
+}

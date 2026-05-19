@@ -1,0 +1,98 @@
+{
+  "city": "Aberdeen",
+  "country": "United Kingdom",
+  "airportPostcode": "AB21 7DU",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Dunnottar Castle",
+      "postcode": "AB39 2TL",
+      "distanceKmFromAirport": 35,
+      "description": "Dramatic ruined clifftop fortress 15 miles south of Aberdeen, backdrop for many films",
+      "distance": 24.0,
+      "URL": "https://www.dunnottarcastle.co.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Aberdeen Art Gallery",
+      "postcode": "AB10 1FQ",
+      "distanceKmFromAirport": 12,
+      "description": "Newly refurbished gallery with an outstanding collection including Impressionist works",
+      "distance": 1.0,
+      "URL": "https://www.aberdeencity.gov.uk/ACMS/Aberdeen-Art-Gallery/"
+    },
+    {
+      "rank": 3,
+      "name": "Marischal College",
+      "postcode": "AB10 1AB",
+      "distanceKmFromAirport": 12,
+      "description": "Stunning silver granite building and one of the world's largest granite structures",
+      "distance": 0.8,
+      "URL": "https://www.visitabdn.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Maritime Museum",
+      "postcode": "AB11 5BY",
+      "distanceKmFromAirport": 12,
+      "description": "Free museum charting Aberdeen's seafaring and North Sea oil heritage",
+      "distance": 0.9,
+      "URL": "https://www.aberdeencity.gov.uk/ACMS/Aberdeen-Maritime-Museum/"
+    },
+    {
+      "rank": 5,
+      "name": "Duthie Park",
+      "postcode": "AB11 7TH",
+      "distanceKmFromAirport": 13,
+      "description": "Expansive park featuring the renowned David Welch Winter Gardens",
+      "distance": 2.0,
+      "URL": "https://www.visitabdn.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Union Street",
+      "postcode": "AB10 1EE",
+      "distanceKmFromAirport": 12,
+      "description": "Historic granite mile with shops, bars and stunning Victorian architecture",
+      "distance": 0.5,
+      "URL": "https://www.visitabdn.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Footdee Village",
+      "postcode": "AB11 5QT",
+      "distanceKmFromAirport": 14,
+      "description": "Picturesque 19th-century fishing village at the mouth of the River Dee",
+      "distance": 2.5,
+      "URL": "https://www.visitabdn.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Royal Deeside",
+      "postcode": "AB35 5TB",
+      "distanceKmFromAirport": 81,
+      "description": "Spectacular valley leading to Balmoral Castle and the heart of Scotland",
+      "distance": 70.0,
+      "URL": "https://www.visitscotland.com/destinations-maps/royal-deeside/"
+    },
+    {
+      "rank": 9,
+      "name": "Aberdeen Beach",
+      "postcode": "AB24 5NR",
+      "distanceKmFromAirport": 13,
+      "description": "Two-mile sandy beach with an amusement park and leisure facilities",
+      "distance": 2.0,
+      "URL": "https://www.visitabdn.com/"
+    },
+    {
+      "rank": 10,
+      "name": "St Machar's Cathedral",
+      "postcode": "AB24 1RQ",
+      "distanceKmFromAirport": 13,
+      "description": "14th-century cathedral with a remarkable heraldic ceiling in Old Aberdeen",
+      "distance": 2.2,
+      "URL": "https://www.stmachar.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Aarhus",
+  "country": "Denmark",
+  "airportPostcode": "8560",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "ARoS Art Museum",
+      "postcode": "8000",
+      "distanceKmFromAirport": 46,
+      "description": "World-class art museum topped by Olafur Eliasson's rainbow panorama walkway",
+      "distance": 1.2,
+      "URL": "https://www.aros.dk/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Den Gamle By (The Old Town)",
+      "postcode": "8000",
+      "distanceKmFromAirport": 46,
+      "description": "Denmark's national open-air museum with 75 historic buildings relocated from across Denmark",
+      "distance": 1.5,
+      "URL": "https://www.dengamleby.dk/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Moesgaard Museum",
+      "postcode": "8270",
+      "distanceKmFromAirport": 53,
+      "description": "Award-winning museum of archaeology and ethnography with the Grauballe Man bog body",
+      "distance": 8.0,
+      "URL": "https://www.moesgaardmuseum.dk/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Aarhus Cathedral",
+      "postcode": "8000",
+      "distanceKmFromAirport": 46,
+      "description": "Denmark's longest church, a Gothic masterpiece with remarkable medieval frescoes",
+      "distance": 0.5,
+      "URL": "https://www.visitaarhus.com/ln-int/denmark/aarhus-cathedral-gdk614281"
+    },
+    {
+      "rank": 5,
+      "name": "Dokk1",
+      "postcode": "8000",
+      "distanceKmFromAirport": 46,
+      "description": "Striking harbour-front library and citizens' service centre, Denmark's largest public library",
+      "distance": 0.8,
+      "URL": "https://dokk1.dk/english"
+    },
+    {
+      "rank": 6,
+      "name": "Latin Quarter",
+      "postcode": "8000",
+      "distanceKmFromAirport": 45,
+      "description": "Vibrant neighbourhood of cafes, boutiques and restaurants around the old cathedral school",
+      "distance": 0.4,
+      "URL": "https://www.visitaarhus.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Tivoli Friheden",
+      "postcode": "8000",
+      "distanceKmFromAirport": 48,
+      "description": "Charming 19th-century amusement park within the city's beech forest",
+      "distance": 2.5,
+      "URL": "https://www.friheden.dk/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Marselisborg Palace & Deer Park",
+      "postcode": "8000",
+      "distanceKmFromAirport": 48,
+      "description": "Summer residence of the Danish royal family with public rose garden and deer park",
+      "distance": 3.5,
+      "URL": "https://www.visitaarhus.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Botanical Garden",
+      "postcode": "8000",
+      "distanceKmFromAirport": 47,
+      "description": "The largest botanical garden in Denmark with impressive rock garden and glasshouses",
+      "distance": 1.8,
+      "URL": "https://www.visitaarhus.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Risskov Beech Forest",
+      "postcode": "8240",
+      "distanceKmFromAirport": 49,
+      "description": "Ancient beech forest stretching along the Aarhus Bay coastline",
+      "distance": 4.0,
+      "URL": "https://www.visitaarhus.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Bremen",
+  "country": "Germany",
+  "airportPostcode": "28199",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bottcherstrasse",
+      "postcode": "28195",
+      "distanceKmFromAirport": 8,
+      "description": "Extraordinary Art Nouveau and Expressionist alley built by coffee merchant Ludwig Roselius in the 1920s; a UNESCO-nominated lane of gilded facades and unique museums",
+      "distance": 0.8,
+      "URL": "https://www.boettcherstrasse.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Schnoorviertel",
+      "postcode": "28195",
+      "distanceKmFromAirport": 8,
+      "description": "Bremen's perfectly preserved medieval fishermen's quarter of 15th and 16th-century gabled houses, now full of artisan craft shops, galleries and cafes",
+      "distance": 1.0,
+      "URL": "https://www.bremen-tourism.de/en/schnoorviertel"
+    },
+    {
+      "rank": 3,
+      "name": "Bremen Market Square and Roland Statue",
+      "postcode": "28195",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO World Heritage market square with the 1404 Roland statue, the ornate Renaissance Town Hall and the stunning Gothic St. Peter's Cathedral",
+      "distance": 0.7,
+      "URL": "https://www.bremen-tourism.de/en/market-square"
+    },
+    {
+      "rank": 4,
+      "name": "Bremen Town Musicians Statue",
+      "postcode": "28195",
+      "distanceKmFromAirport": 8,
+      "description": "The beloved 1953 Gerhard Marcks sculpture of the Brothers Grimm Town Musicians of Bremen; rub the donkey's hooves for good luck",
+      "distance": 0.7,
+      "URL": "https://www.bremen-tourism.de/en/town-musicians-of-bremen"
+    },
+    {
+      "rank": 5,
+      "name": "Kunsthalle Bremen",
+      "postcode": "28203",
+      "distanceKmFromAirport": 8,
+      "description": "One of Germany's most important art museums with a superb collection of French Impressionists, Dutch Old Masters and German Romanticism",
+      "distance": 1.2,
+      "URL": "https://www.kunsthalle-bremen.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Universum Science Centre",
+      "postcode": "28359",
+      "distanceKmFromAirport": 10,
+      "description": "Striking shell-shaped science museum with 300 interactive exhibits exploring the human body, nature and the cosmos; one of Germany's top science venues",
+      "distance": 5.0,
+      "URL": "https://www.universum-bremen.de/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Wallanlagen Park",
+      "postcode": "28195",
+      "distanceKmFromAirport": 8,
+      "description": "Beautiful parkland following the moat of Bremen's medieval walls with mature trees, windmills, a rose garden and the Stadtgraben canal",
+      "distance": 1.0,
+      "URL": "https://www.bremen-tourism.de/en/wallanlagen"
+    },
+    {
+      "rank": 8,
+      "name": "Weser Promenade (Schlachte)",
+      "postcode": "28195",
+      "distanceKmFromAirport": 8,
+      "description": "Lively riverside promenade along the Weser with outdoor bars, restaurants and boat trips; the historic loading quay of the Hanseatic city",
+      "distance": 0.5,
+      "URL": "https://www.bremen-tourism.de/en/schlachte"
+    },
+    {
+      "rank": 9,
+      "name": "Weser Stadium (wohninvest WESERSTADION)",
+      "postcode": "28199",
+      "distanceKmFromAirport": 6,
+      "description": "Home of Werder Bremen with a 42,000 capacity on the Weser riverbank; the Green-Whites have won four Bundesliga titles and the 1992 UEFA Cup",
+      "distance": 4.0,
+      "URL": "https://www.werder.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Focke Museum",
+      "postcode": "28213",
+      "distanceKmFromAirport": 9,
+      "description": "Bremen's regional history museum in a park setting with extensive collections on the city's Hanseatic trading history and maritime heritage",
+      "distance": 3.5,
+      "URL": "https://www.fockemuseum.de/en/"
+    }
+  ]
+}

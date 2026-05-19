@@ -1,0 +1,98 @@
+{
+  "city": "Agadir",
+  "country": "Morocco",
+  "airportPostcode": "80000",
+  "airportDistanceKm": 28,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Agadir Beach",
+      "postcode": "80000",
+      "distanceKmFromAirport": 30,
+      "description": "10km of golden sand beach on the Atlantic - Morocco's finest resort beach",
+      "distance": 1.5,
+      "URL": "https://www.agadir.ma/"
+    },
+    {
+      "rank": 2,
+      "name": "Agadir Oufella Ruins",
+      "postcode": "80000",
+      "distanceKmFromAirport": 32,
+      "description": "Ruins of the 1573 Kasbah on the hill - destroyed by earthquake in 1960 but the view remains",
+      "distance": 3.5,
+      "URL": "https://www.agadir.ma/"
+    },
+    {
+      "rank": 3,
+      "name": "Souk El Had",
+      "postcode": "80000",
+      "distanceKmFromAirport": 30,
+      "description": "One of the largest traditional markets in Morocco with everything from spices to carpets",
+      "distance": 2.0,
+      "URL": "https://www.agadir.ma/"
+    },
+    {
+      "rank": 4,
+      "name": "La Medina d'Agadir",
+      "postcode": "80000",
+      "distanceKmFromAirport": 33,
+      "description": "Reconstruction of a traditional Moroccan medina - newly built but artfully crafted",
+      "distance": 5.0,
+      "URL": "https://www.medinapolizzi.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Paradis Plage Surf Resort",
+      "postcode": "80100",
+      "distanceKmFromAirport": 40,
+      "description": "World-class surfing beach south of Agadir with a famous surf school",
+      "distance": 12.0,
+      "URL": "https://www.paradis-plage.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Crocoparc",
+      "postcode": "80000",
+      "distanceKmFromAirport": 34,
+      "description": "Park with 300 Nile crocodiles and exotic gardens",
+      "distance": 6.0,
+      "URL": "https://www.crocoparc.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Musee Municipal du Patrimoine Amazigh",
+      "postcode": "80000",
+      "distanceKmFromAirport": 30,
+      "description": "Museum of Berber culture with traditional jewellery, textiles and instruments",
+      "distance": 1.5,
+      "URL": "https://www.agadir.ma/"
+    },
+    {
+      "rank": 8,
+      "name": "Taghazout Village",
+      "postcode": "80700",
+      "distanceKmFromAirport": 48,
+      "description": "Fishing village 20km north transformed into a surf mecca with blue-painted boats",
+      "distance": 20.0,
+      "URL": "https://www.agadir.ma/"
+    },
+    {
+      "rank": 9,
+      "name": "Sous-Massa National Park",
+      "postcode": "85000",
+      "distanceKmFromAirport": 63,
+      "description": "Flamingos, bald ibis and gazelles in a coastal national park south of Agadir",
+      "distance": 35.0,
+      "URL": "https://www.agadir.ma/"
+    },
+    {
+      "rank": 10,
+      "name": "Argan Oil Cooperative",
+      "postcode": "80000",
+      "distanceKmFromAirport": 48,
+      "description": "Visit Berber women's cooperatives hand-pressing the rare and precious argan oil",
+      "distance": 20.0,
+      "URL": "https://www.agadir.ma/"
+    }
+  ]
+}

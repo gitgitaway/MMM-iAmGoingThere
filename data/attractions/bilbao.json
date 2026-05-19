@@ -1,0 +1,98 @@
+{
+  "city": "Bilbao",
+  "country": "Spain",
+  "airportPostcode": "48180",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Guggenheim Museum Bilbao",
+      "postcode": "48001",
+      "distanceKmFromAirport": 14,
+      "description": "Frank Gehry's titanium-clad masterpiece that transformed the city and modern architecture",
+      "distance": 1.5,
+      "URL": "https://www.guggenheim-bilbao.eus/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Casco Viejo (Old Town)",
+      "postcode": "48005",
+      "distanceKmFromAirport": 13,
+      "description": "Charming medieval quarter of seven streets with pintxos bars and local character",
+      "distance": 1.0,
+      "URL": "https://www.bilbaoturismo.net/BilbaoTurismo/en/"
+    },
+    {
+      "rank": 3,
+      "name": "San Mames Stadium",
+      "postcode": "48013",
+      "distanceKmFromAirport": 14,
+      "description": "Magnificent home of Athletic Club Bilbao with stadium tours and football museum",
+      "distance": 2.0,
+      "URL": "https://www.athletic-club.eus/en/san-mames"
+    },
+    {
+      "rank": 4,
+      "name": "Euskalduna Conference Centre",
+      "postcode": "48011",
+      "distanceKmFromAirport": 14,
+      "description": "Striking ship-shaped concert hall on the Nervion river",
+      "distance": 2.5,
+      "URL": "https://www.euskalduna.eus/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Fine Arts Museum Bilbao",
+      "postcode": "48009",
+      "distanceKmFromAirport": 14,
+      "description": "Spain's second most important art museum with El Greco, Goya and Basque masters",
+      "distance": 1.8,
+      "URL": "https://www.museobilbao.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Artxanda Funicular",
+      "postcode": "48015",
+      "distanceKmFromAirport": 15,
+      "description": "Funicular railway to the Artxanda hill with sweeping views over the city",
+      "distance": 3.0,
+      "URL": "https://www.bilbaoturismo.net/BilbaoTurismo/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Azkuna Zentroa",
+      "postcode": "48009",
+      "distanceKmFromAirport": 14,
+      "description": "Former wine warehouse transformed into a spectacular cultural and leisure centre",
+      "distance": 1.5,
+      "URL": "https://www.azkunazentroa.eus/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Ribera Market",
+      "postcode": "48005",
+      "distanceKmFromAirport": 13,
+      "description": "Europe's largest covered market with the best pintxos and Basque produce",
+      "distance": 0.8,
+      "URL": "https://www.mercadodelaribera.net/"
+    },
+    {
+      "rank": 9,
+      "name": "Nervion River Walk",
+      "postcode": "48001",
+      "distanceKmFromAirport": 14,
+      "description": "Regenerated riverside promenade from Deusto to Abandoibarra",
+      "distance": 1.5,
+      "URL": "https://www.bilbaoturismo.net/BilbaoTurismo/en/"
+    },
+    {
+      "rank": 10,
+      "name": "San Juan de Gaztelugatxe",
+      "postcode": "48370",
+      "distanceKmFromAirport": 47,
+      "description": "Dramatic hermitage on a rocky islet connected by a winding stone staircase",
+      "distance": 35.0,
+      "URL": "https://www.euskadi.eus/gaztelugatxe/"
+    }
+  ]
+}

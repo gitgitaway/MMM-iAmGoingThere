@@ -1,0 +1,98 @@
+{
+  "city": "Bangalore",
+  "country": "India",
+  "airportPostcode": "562149",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lalbagh Botanical Garden",
+      "postcode": "560027",
+      "distanceKmFromAirport": 48,
+      "description": "240-acre garden commissioned by Hyder Ali in 1760 — home to a 3,000-million-year-old rock and a 200-year-old glass house",
+      "distance": 8.0,
+      "URL": "https://horticulture.kar.nic.in/lalbagh.html"
+    },
+    {
+      "rank": 2,
+      "name": "Bangalore Palace",
+      "postcode": "560052",
+      "distanceKmFromAirport": 47,
+      "description": "Tudor-inspired 1887 palace of the Mysore royal family — fortified towers, carved wood interiors and lawns",
+      "distance": 7.0,
+      "URL": "https://www.bangalorepalace.in/"
+    },
+    {
+      "rank": 3,
+      "name": "Mysore Day Trip",
+      "postcode": "570001",
+      "distanceKmFromAirport": 185,
+      "description": "The City of Palaces — the magnificent Mysore Palace illuminated by 100,000 bulbs on Sunday evenings",
+      "distance": 145.0,
+      "URL": "https://mysore.mrc.gov.in/"
+    },
+    {
+      "rank": 4,
+      "name": "Cubbon Park",
+      "postcode": "560001",
+      "distanceKmFromAirport": 44,
+      "description": "300-acre Victorian-era park in the heart of the city — the green lungs of Bangalore with statues and library",
+      "distance": 4.0,
+      "URL": "https://horticulture.kar.nic.in/cubbon.html"
+    },
+    {
+      "rank": 5,
+      "name": "ISKCON Temple",
+      "postcode": "560010",
+      "distanceKmFromAirport": 50,
+      "description": "One of the world's largest ISKCON temples — stunning marble structure with nightly cultural programmes",
+      "distance": 10.0,
+      "URL": "https://www.iskconbangalore.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Commercial Street Shopping",
+      "postcode": "560001",
+      "distanceKmFromAirport": 44,
+      "description": "Bangalore's most famous shopping street — textiles, handicrafts, silver jewellery and fashion at bargain prices",
+      "distance": 4.0,
+      "URL": "https://www.karnatakatourism.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Vidhana Soudha",
+      "postcode": "560001",
+      "distanceKmFromAirport": 44,
+      "description": "India's largest state legislature building — grandiose neo-Dravidian architecture best seen floodlit at night",
+      "distance": 3.5,
+      "URL": "https://www.karnatakatourism.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Nandi Hills",
+      "postcode": "562164",
+      "distanceKmFromAirport": 100,
+      "description": "Ancient hilltop fort 60 km north — sunrise views above the clouds and Tipu Sultan's summer palace",
+      "distance": 60.0,
+      "URL": "https://www.karnatakatourism.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Craft Beer & Pub Culture",
+      "postcode": "560001",
+      "distanceKmFromAirport": 45,
+      "description": "India's craft beer capital — Toit, Windmills and Arbor Brewing Company are among India's finest brew pubs",
+      "distance": 5.0,
+      "URL": "https://www.toit.in/"
+    },
+    {
+      "rank": 10,
+      "name": "Bull Temple (Dodda Ganesha)",
+      "postcode": "560019",
+      "distanceKmFromAirport": 47,
+      "description": "Massive 4.5-metre granite Nandi bull shrine dating to the 16th century — active local pilgrimage site",
+      "distance": 7.0,
+      "URL": "https://www.karnatakatourism.org/"
+    }
+  ]
+}

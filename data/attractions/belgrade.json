@@ -1,0 +1,98 @@
+{
+  "city": "Belgrade",
+  "country": "Serbia",
+  "airportPostcode": "11180",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Belgrade Fortress & Kalemegdan Park",
+      "postcode": "11000",
+      "distanceKmFromAirport": 19,
+      "description": "Massive 2,000-year-old fortress at the confluence of the Sava and Danube rivers with sweeping views",
+      "distance": 1.0,
+      "URL": "https://www.kalemegdan.rs/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Skadarlija Bohemian Quarter",
+      "postcode": "11000",
+      "distanceKmFromAirport": 19,
+      "description": "Cobblestone 19th-century artist quarter with traditional kafanas, live music and Serbian cuisine",
+      "distance": 0.8,
+      "URL": "https://www.tob.rs/en/explore/skadarlija/"
+    },
+    {
+      "rank": 3,
+      "name": "Saint Sava Temple",
+      "postcode": "11000",
+      "distanceKmFromAirport": 20,
+      "description": "One of the world's largest Orthodox churches with a glittering Byzantine mosaic interior",
+      "distance": 2.0,
+      "URL": "https://www.spc.rs/eng/"
+    },
+    {
+      "rank": 4,
+      "name": "Nikola Tesla Museum",
+      "postcode": "11000",
+      "distanceKmFromAirport": 20,
+      "description": "Unique museum dedicated to the inventor genius, housing his ashes and original AC motor",
+      "distance": 1.5,
+      "URL": "https://www.tesla-museum.org/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Ada Ciganlija River Beach",
+      "postcode": "11070",
+      "distanceKmFromAirport": 23,
+      "description": "Artificial island on the Sava known as Belgrade's Sea — beaches, sports and summer culture",
+      "distance": 5.0,
+      "URL": "https://www.adaciganlija.rs/en/"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of Serbia",
+      "postcode": "11000",
+      "distanceKmFromAirport": 18,
+      "description": "The country's largest museum with Serbian medieval art, the Miroslav Gospel and Roman artefacts",
+      "distance": 0.5,
+      "URL": "https://narodnimuzej.rs/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Zemun Old Town",
+      "postcode": "11080",
+      "distanceKmFromAirport": 28,
+      "description": "Former Austro-Hungarian town on the Danube with the Gardos Tower and excellent fish restaurants",
+      "distance": 10.0,
+      "URL": "https://www.tob.rs/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Knez Mihailova Street",
+      "postcode": "11000",
+      "distanceKmFromAirport": 18,
+      "description": "The main pedestrian boulevard lined with 19th-century buildings, street performers and shops",
+      "distance": 0.5,
+      "URL": "https://www.tob.rs/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Museum of Yugoslav History",
+      "postcode": "11040",
+      "distanceKmFromAirport": 23,
+      "description": "Tito's tomb and fascinating museum on Yugoslavia with the Blue Train and gifts from world leaders",
+      "distance": 5.0,
+      "URL": "https://www.mij.rs/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Novi Sad Day Trip",
+      "postcode": "21000",
+      "distanceKmFromAirport": 108,
+      "description": "Vibrant Danube city 90 km away with the Petrovaradin Fortress and the EXIT music festival site",
+      "distance": 90.0,
+      "URL": "https://www.turizamns.rs/en/"
+    }
+  ]
+}

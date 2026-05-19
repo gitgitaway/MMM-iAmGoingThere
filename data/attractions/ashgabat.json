@@ -1,0 +1,98 @@
+{
+  "city": "Ashgabat",
+  "country": "Turkmenistan",
+  "airportPostcode": "744000",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Neutrality Monument",
+      "postcode": "744000",
+      "distanceKmFromAirport": 13,
+      "description": "Tripod tower topped with a golden rotating statue of Turkmenbashi revolving to face the sun",
+      "distance": 3.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Turkmenistan",
+      "postcode": "744000",
+      "distanceKmFromAirport": 12,
+      "description": "Largest museum in Central Asia with Parthian gold and Silk Road artefacts",
+      "distance": 2.5,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 3,
+      "name": "Darvaza Gas Crater (Door to Hell)",
+      "postcode": "745380",
+      "distanceKmFromAirport": 270,
+      "description": "Burning natural gas crater in the Karakum Desert - an otherworldly sight 260km from Ashgabat",
+      "distance": 260.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 4,
+      "name": "Tolkuchka Bazaar",
+      "postcode": "744000",
+      "distanceKmFromAirport": 16,
+      "description": "One of Central Asia's largest open-air markets with camels, carpets and traditional dress",
+      "distance": 6.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 5,
+      "name": "Turkmenbashi Ruhy Mosque",
+      "postcode": "745400",
+      "distanceKmFromAirport": 45,
+      "description": "Central Asia's largest mosque accommodating 10,000 worshippers with golden domes",
+      "distance": 35.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 6,
+      "name": "Olympic Stadium & Sports Complex",
+      "postcode": "744000",
+      "distanceKmFromAirport": 14,
+      "description": "2017 Asian Indoor Games complex - one of the world's most extravagant sports venues",
+      "distance": 4.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 7,
+      "name": "Carpet Museum",
+      "postcode": "744000",
+      "distanceKmFromAirport": 12,
+      "description": "World's largest collection of hand-woven Turkmen carpets including the world's largest rug",
+      "distance": 2.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 8,
+      "name": "Ahal Teke Horse Stud",
+      "postcode": "744000",
+      "distanceKmFromAirport": 25,
+      "description": "Legendary Akhal-Teke horses - the world's most beautiful breed with metallic sheen",
+      "distance": 15.0,
+      "URL": "https://www.tourism.gov.tm/"
+    },
+    {
+      "rank": 9,
+      "name": "Ancient Merv (Mary)",
+      "postcode": "745700",
+      "distanceKmFromAirport": 360,
+      "description": "UNESCO World Heritage Silk Road oasis city - once the world's largest city in the 12th century",
+      "distance": 350.0,
+      "URL": "https://whc.unesco.org/en/list/886/"
+    },
+    {
+      "rank": 10,
+      "name": "Parthian Fortress of Nisa",
+      "postcode": "744028",
+      "distanceKmFromAirport": 28,
+      "description": "UNESCO World Heritage capital of the ancient Parthian Empire near Ashgabat",
+      "distance": 18.0,
+      "URL": "https://whc.unesco.org/en/list/1199/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Aqaba",
+  "country": "Jordan",
+  "airportPostcode": "77110",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Red Sea Snorkelling & Diving",
+      "postcode": "77110",
+      "distanceKmFromAirport": 13,
+      "description": "World-class coral reefs with colourful fish and the famous underwater military tank",
+      "distance": 3.0,
+      "URL": "https://www.visitjordan.com/Destinations/aqaba"
+    },
+    {
+      "rank": 2,
+      "name": "Wadi Rum Desert",
+      "postcode": "77310",
+      "distanceKmFromAirport": 70,
+      "description": "40-minute drive to the UNESCO moonscape desert for jeep safaris and Bedouin camping",
+      "distance": 60.0,
+      "URL": "https://www.wadirum.jo/"
+    },
+    {
+      "rank": 3,
+      "name": "Aqaba Fort & Museum",
+      "postcode": "77110",
+      "distanceKmFromAirport": 10,
+      "description": "Early 16th-century fort built by Mamluk sultans with the Hashemite coat of arms",
+      "distance": 0.5,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Aqaba Marine Park",
+      "postcode": "77110",
+      "distanceKmFromAirport": 15,
+      "description": "Protected marine reserve with 110 species of coral and 1,000 species of fish",
+      "distance": 5.0,
+      "URL": "https://www.rscn.org.jo/"
+    },
+    {
+      "rank": 5,
+      "name": "South Beach (Al-Ghandour)",
+      "postcode": "77110",
+      "distanceKmFromAirport": 16,
+      "description": "Long sandy beach with clear shallow water suitable for swimming and watersports",
+      "distance": 6.0,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Ayla Old Town",
+      "postcode": "77110",
+      "distanceKmFromAirport": 12,
+      "description": "Early Islamic city from the 7th century - the oldest Islamic city in the region",
+      "distance": 1.5,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Aqaba Flagpole",
+      "postcode": "77110",
+      "distanceKmFromAirport": 11,
+      "description": "One of the world's tallest flagpoles at 130m, visible from Israel, Egypt and Saudi Arabia",
+      "distance": 1.0,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Glass-bottom Boat Trips",
+      "postcode": "77110",
+      "distanceKmFromAirport": 11,
+      "description": "View coral and marine life without getting wet on glass-bottom boat tours",
+      "distance": 1.0,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 9,
+      "name": "King Hussein Bin Talal Mosque",
+      "postcode": "77110",
+      "distanceKmFromAirport": 10,
+      "description": "Modern mosque on the waterfront with a distinctive minaret and marble interior",
+      "distance": 0.5,
+      "URL": "https://www.visitjordan.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Aqaba Waterfront Promenade",
+      "postcode": "77110",
+      "distanceKmFromAirport": 10,
+      "description": "Seafront corniche with restaurants and views across to Israel, Egypt and Saudi Arabia",
+      "distance": 0.5,
+      "URL": "https://www.visitjordan.com/"
+    }
+  ]
+}

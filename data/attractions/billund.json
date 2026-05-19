@@ -1,0 +1,98 @@
+{
+  "city": "Billund",
+  "country": "Denmark",
+  "airportPostcode": "7190",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Legoland Billund",
+      "postcode": "7190",
+      "distanceKmFromAirport": 4,
+      "description": "Original LEGO theme park with Miniland, rides and LEGO builds for all ages",
+      "distance": 0.8,
+      "URL": "https://www.legoland.dk/en/"
+    },
+    {
+      "rank": 2,
+      "name": "LEGO House",
+      "postcode": "7190",
+      "distanceKmFromAirport": 4,
+      "description": "Home of the LEGO Brick - an architectural masterpiece with interactive LEGO experiences",
+      "distance": 0.5,
+      "URL": "https://www.legohouse.com/en-gb/"
+    },
+    {
+      "rank": 3,
+      "name": "Givskud Zoo (Lion Park)",
+      "postcode": "7323",
+      "distanceKmFromAirport": 23,
+      "description": "Drive-through safari park with lions, giraffes and white rhinos",
+      "distance": 20.0,
+      "URL": "https://givskudzoo.dk/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Jelling Monuments",
+      "postcode": "7300",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage Viking royal burial mounds and runic stones of Harald Bluetooth",
+      "distance": 10.0,
+      "URL": "https://www.kongernes-jelling.dk/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Vejle Art Museum",
+      "postcode": "7100",
+      "distanceKmFromAirport": 28,
+      "description": "Contemporary art museum overlooking the Vejle Fjord nearby",
+      "distance": 25.0,
+      "URL": "https://vejlemuseerne.dk/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Sculpture Park Billund",
+      "postcode": "7190",
+      "distanceKmFromAirport": 4,
+      "description": "Outdoor sculpture park celebrating Danish and international contemporary art",
+      "distance": 0.5,
+      "URL": "https://www.visitlego.com/en-gb/"
+    },
+    {
+      "rank": 7,
+      "name": "Grindsted Museum",
+      "postcode": "7200",
+      "distanceKmFromAirport": 13,
+      "description": "Local history museum in the nearby town with exhibits on the region",
+      "distance": 10.0,
+      "URL": "https://www.vardemuseerne.dk/"
+    },
+    {
+      "rank": 8,
+      "name": "Randbøl Heath",
+      "postcode": "7183",
+      "distanceKmFromAirport": 11,
+      "description": "Wild heathland nature reserve with orchids, deer and ancient burial mounds",
+      "distance": 8.0,
+      "URL": "https://www.visitvejle.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "LEGO Factory Tour",
+      "postcode": "7190",
+      "distanceKmFromAirport": 4,
+      "description": "Behind-the-scenes look at LEGO production in the world's largest LEGO factory",
+      "distance": 1.0,
+      "URL": "https://www.lego.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Vejle Fjord",
+      "postcode": "7100",
+      "distanceKmFromAirport": 28,
+      "description": "Beautiful narrow fjord with hiking trails and the famous Viking ship Ravningbroen bridge",
+      "distance": 25.0,
+      "URL": "https://www.visitvejle.com/en/"
+    }
+  ]
+}

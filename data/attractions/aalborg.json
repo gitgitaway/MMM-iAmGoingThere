@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Aalborg Castle (Aalborghus)",
-      "description": "16th-century royal fortress with dungeons and scenic ramparts over the Limfjord"
+      "postcode": "9000",
+      "distanceKmFromAirport": 13,
+      "description": "16th-century royal fortress with dungeons and scenic ramparts over the Limfjord",
+      "distance": 6.4,
+      "URL": "https://www.visitaalborg.com/aalborg/aalborghus-castle-gdk595874"
     },
     {
       "rank": 2,
       "name": "Lindholm Hoje",
-      "description": "UNESCO candidate Viking burial ground with 682 graves and open-air museum"
+      "postcode": "9400",
+      "distanceKmFromAirport": 11,
+      "description": "UNESCO candidate Viking burial ground with 682 graves and open-air museum",
+      "distance": 4.0,
+      "URL": "https://nordmus.dk/lindholm-gb"
     },
     {
       "rank": 3,
       "name": "Utzon Center",
-      "description": "Cultural centre designed by Jorn Utzon, architect of the Sydney Opera House"
+      "postcode": "9000",
+      "distanceKmFromAirport": 14,
+      "description": "Cultural centre designed by Jorn Utzon, architect of the Sydney Opera House",
+      "distance": 6.6,
+      "URL": "https://utzoncenter.dk/en"
     },
     {
       "rank": 4,
       "name": "Aalborg Museum of History",
-      "description": "Local history from Viking times in the preserved medieval quarter"
+      "postcode": "9000",
+      "distanceKmFromAirport": 13,
+      "description": "Local history from Viking times in the preserved medieval quarter",
+      "distance": 6.3,
+      "URL": "https://nordmus.dk/histmus-gb"
     },
     {
       "rank": 5,
       "name": "Budolfi Church",
-      "description": "Baroque white church with a carillon playing Danish folk tunes"
+      "postcode": "9000",
+      "distanceKmFromAirport": 13,
+      "description": "Baroque white church with a carillon playing Danish folk tunes",
+      "distance": 6.4,
+      "URL": "https://aalborgdomkirke.dk/"
     },
     {
       "rank": 6,
       "name": "Aalborg Zoo",
-      "description": "Popular zoo with over 1,200 animals in naturalistic habitats"
+      "postcode": "9000",
+      "distanceKmFromAirport": 14,
+      "description": "Popular zoo with over 1,200 animals in naturalistic habitats",
+      "distance": 6.7,
+      "URL": "https://aalborgzoo.dk/en"
     },
     {
       "rank": 7,
       "name": "Rebild National Park",
-      "description": "Denmark's only national park with heathland, forests and the world's largest 4 July celebration"
+      "postcode": "9520",
+      "distanceKmFromAirport": 36,
+      "description": "Denmark's only national park with heathland, forests and the world's largest 4 July celebration",
+      "distance": 28.8,
+      "URL": "https://www.rebildbakker.dk/"
     },
     {
       "rank": 8,
       "name": "Nordkraft",
-      "description": "Regenerated power station converted to cultural centre with concerts and art"
+      "postcode": "9000",
+      "distanceKmFromAirport": 14,
+      "description": "Regenerated power station converted to cultural centre with concerts and art",
+      "distance": 7.1,
+      "URL": "https://www.nordkraft.dk/"
     },
     {
       "rank": 9,
       "name": "Aalborg Old Town",
-      "description": "Historic core with half-timbered houses and the old merchant street Ostergade"
+      "postcode": "9000",
+      "distanceKmFromAirport": 14,
+      "description": "Historic core with half-timbered houses and the old merchant street Ostergade",
+      "distance": 6.5,
+      "URL": "https://www.visitaalborg.com/aalborg/old-town-aalborg-gdk595875"
     },
     {
       "rank": 10,
       "name": "Jungle World",
-      "description": "Year-round tropical environment with exotic plants and animals"
+      "postcode": "9000",
+      "distanceKmFromAirport": 14,
+      "description": "Year-round tropical environment with exotic plants and animals",
+      "distance": 6.7,
+      "URL": "https://aalborgzoo.dk/en"
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "city": "A Coruna",
+  "country": "Spain",
+  "airportPostcode": "15180",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tower of Hercules",
+      "postcode": "15002",
+      "distanceKmFromAirport": 12,
+      "description": "The world's only working Roman lighthouse in continuous use since the 2nd century AD; a UNESCO World Heritage site with 242 steps to ocean panoramas",
+      "distance": 2.5,
+      "URL": "https://www.turismocoruna.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Ciudad Vieja)",
+      "postcode": "15001",
+      "distanceKmFromAirport": 11,
+      "description": "A Coruna's medieval old town on the promontory with the collegiate Church of Santa Maria del Campo, Romanesque architecture and a charming maze of lanes",
+      "distance": 1.5,
+      "URL": "https://www.turismocoruna.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Crystal Galleries (Galerias de Cristal)",
+      "postcode": "15001",
+      "distanceKmFromAirport": 11,
+      "description": "The city's iconic enclosed glass balconies lining the seafront promenade; a unique architectural feature that gave A Coruna the nickname Crystal City",
+      "distance": 0.5,
+      "URL": "https://www.turismocoruna.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Aquarium Finisterrae",
+      "postcode": "15002",
+      "distanceKmFromAirport": 12,
+      "description": "Award-winning aquarium exploring the marine biodiversity of Galicia's wild Atlantic coast, with impressive tanks of local sea life including conger eels and rays",
+      "distance": 2.5,
+      "URL": "https://www.coruna.gal/aquarium/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Museum of Fine Arts",
+      "postcode": "15001",
+      "distanceKmFromAirport": 11,
+      "description": "Galicia's oldest art museum with an impressive collection of Spanish art from the 16th century onwards, including notable works by Goya and Rubens",
+      "distance": 1.0,
+      "URL": "https://www.museobelasartescoruna.xunta.es/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Orzan Beach and Riazor Beach",
+      "postcode": "15001",
+      "distanceKmFromAirport": 11,
+      "description": "Two fine city beaches with Atlantic surf backed by the seafront promenade; Riazor hosts a section of the famous Camino Ingles pilgrimage route",
+      "distance": 1.0,
+      "URL": "https://www.turismocoruna.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Domus (Man Museum)",
+      "postcode": "15002",
+      "distanceKmFromAirport": 12,
+      "description": "Arata Isozaki-designed interactive museum exploring human biology, genetics and the senses; a bold sail-shaped landmark on the seafront promenade",
+      "distance": 2.0,
+      "URL": "https://www.coruna.gal/domus/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Monte de San Pedro Park",
+      "postcode": "15011",
+      "distanceKmFromAirport": 12,
+      "description": "Hilltop park with a glass-domed pergola offering 360-degree panoramas over the estuary, city and Atlantic Ocean; reached by a free outdoor lift",
+      "distance": 3.0,
+      "URL": "https://www.turismocoruna.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Camino Ingles (English Way)",
+      "postcode": "15001",
+      "distanceKmFromAirport": 11,
+      "description": "The starting point of the English Way pilgrimage to Santiago de Compostela; medieval pilgrims from Britain and Northern Europe landed here to begin their walk",
+      "distance": 1.5,
+      "URL": "https://www.caminodesantiago.gal/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Estadio Abanca-Riazor",
+      "postcode": "15011",
+      "distanceKmFromAirport": 12,
+      "description": "Home of RC Deportivo de La Coruna; scene of the club's legendary 4-0 defeat of AC Milan in the 2004 Champions League quarter-final comeback",
+      "distance": 3.0,
+      "URL": "https://www.rcdeportivo.es/en/"
+    }
+  ]
+}

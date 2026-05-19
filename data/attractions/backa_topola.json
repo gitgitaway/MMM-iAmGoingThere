@@ -1,0 +1,98 @@
+{
+  "city": "Backa Topola",
+  "country": "Serbia",
+  "airportPostcode": "24300",
+  "airportDistanceKm": 80,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Backa Topola Town Square",
+      "postcode": "24300",
+      "distanceKmFromAirport": 81,
+      "description": "The central square of this Vojvodina market town with its neo-baroque Town Hall, surrounded by cafes and the daily social life of the community",
+      "distance": 0.2,
+      "URL": "https://www.serbia.travel/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Vojvodina Plains Cycling Route",
+      "postcode": "24300",
+      "distanceKmFromAirport": 81,
+      "description": "The flat Vojvodina plain around Backa Topola offers excellent cycling through sunflower fields, vineyards and traditional Serbian village landscapes",
+      "distance": 2.0,
+      "URL": "https://www.vojvodinaonline.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Local Harvest Festival",
+      "postcode": "24300",
+      "distanceKmFromAirport": 81,
+      "description": "Annual harvest and folk culture festival celebrating the agricultural traditions of the Backa region with music, dance and traditional Vojvodina cuisine",
+      "distance": 0.5,
+      "URL": "https://www.vojvodinaonline.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Subotica (Day Trip)",
+      "postcode": "24000",
+      "distanceKmFromAirport": 60,
+      "description": "The magnificent Art Nouveau city of Subotica with its extraordinary Town Hall and Synagogue is just 30km from Backa Topola; essential visiting",
+      "distance": 30.0,
+      "URL": "https://www.visitsubotica.rs/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Palic Lake",
+      "postcode": "24413",
+      "distanceKmFromAirport": 65,
+      "description": "Beautiful lake resort 35km from Backa Topola with swimming beaches, a casino, the famous Palic Film Festival venue and Art Nouveau architecture",
+      "distance": 35.0,
+      "URL": "https://www.visitpalic.rs/"
+    },
+    {
+      "rank": 6,
+      "name": "Reformed Church Backa Topola",
+      "postcode": "24300",
+      "distanceKmFromAirport": 81,
+      "description": "Historic Reformed (Calvinist) church reflecting the significant Hungarian community of the Backa Topola area in northern Vojvodina",
+      "distance": 0.3,
+      "URL": "https://www.serbia.travel/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Local Market",
+      "postcode": "24300",
+      "distanceKmFromAirport": 81,
+      "description": "Weekly open-air market selling fresh local produce, traditional Vojvodina cheeses, paprika products and homemade rakija from local distillers",
+      "distance": 0.4,
+      "URL": "https://www.vojvodinaonline.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Novo Orahovo Winery",
+      "postcode": "24300",
+      "distanceKmFromAirport": 83,
+      "description": "One of the Vojvodina wine estates near Backa Topola producing quality local wines from varieties adapted to the continental climate of the Pannonian plain",
+      "distance": 5.0,
+      "URL": "https://www.vojvodinaonline.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Kanjiza and Tisa River",
+      "postcode": "24420",
+      "distanceKmFromAirport": 90,
+      "description": "The Tisa river flows through the Vojvodina countryside 40km from Backa Topola, with beaches, fishing and summer recreation along its wide, lazy banks",
+      "distance": 40.0,
+      "URL": "https://www.vojvodinaonline.com/"
+    },
+    {
+      "rank": 10,
+      "name": "TSC Backa Topola Stadium",
+      "postcode": "24300",
+      "distanceKmFromAirport": 81,
+      "description": "Home of TSC Backa Topola, who made history in 2023 by reaching the UEFA Conference League group stage as a newly promoted Serbian club",
+      "distance": 1.5,
+      "URL": "https://www.tsc.rs/"
+    }
+  ]
+}

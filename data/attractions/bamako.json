@@ -1,0 +1,98 @@
+{
+  "city": "Bamako",
+  "country": "Mali",
+  "airportPostcode": "BP 60",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Djenne Great Mosque",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 585,
+      "description": "UNESCO World Heritage world's largest mud-brick building - the crown of Saharan architecture",
+      "distance": 570.0,
+      "URL": "https://whc.unesco.org/en/list/116/"
+    },
+    {
+      "rank": 2,
+      "name": "Timbuktu Day Trip",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 1015,
+      "description": "UNESCO World Heritage legendary Saharan city with 16th-century Islamic manuscripts",
+      "distance": 1000.0,
+      "URL": "https://whc.unesco.org/en/list/119/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of Mali",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 19,
+      "description": "Dogon tribe masks, Bamana art and Saharan artefacts in beautiful outdoor gardens",
+      "distance": 4.0,
+      "URL": "https://www.musee-national-mali.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Bamako Grand Marche",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 16,
+      "description": "Largest market in West Africa with Malian cloth, gold jewellery and calabash bowls",
+      "distance": 1.5,
+      "URL": "https://www.malitourisme.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Point G Hill & Petroglyphs",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 21,
+      "description": "Sacred hill above the city with prehistoric rock engravings",
+      "distance": 6.0,
+      "URL": "https://www.malitourisme.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Malian Music at Hogon",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 17,
+      "description": "World-class live music - Mali produces Oumou Sangare, Ali Farka Toure and Salif Keita",
+      "distance": 2.0,
+      "URL": "https://www.malitourisme.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Niger River Pirogue Trip",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 16,
+      "description": "Sunset boat trip on the Niger passing fishing villages and hippos",
+      "distance": 1.0,
+      "URL": "https://www.malitourisme.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Musee Muso Kunda (Women's Museum)",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 18,
+      "description": "Museum of traditional Malian women's arts and daily life",
+      "distance": 3.0,
+      "URL": "https://www.malitourisme.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Dogon Country Trekking",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 715,
+      "description": "7-day trek through the Bandiagara Escarpment villages - one of Africa's greatest walks",
+      "distance": 700.0,
+      "URL": "https://www.malitourisme.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Tô with Sauce (Pearl Millet Porridge)",
+      "postcode": "BP 60",
+      "distanceKmFromAirport": 16,
+      "description": "Mali's staple dish - stiff millet paste with peanut sauce and dried fish",
+      "distance": 0.5,
+      "URL": "https://www.malitourisme.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Bodo",
+  "country": "Norway",
+  "airportPostcode": "8092",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Norwegian Aviation Museum",
+      "postcode": "8005",
+      "distanceKmFromAirport": 4,
+      "description": "Norway's national aviation museum shaped like a propeller, with historic aircraft, flight simulators and exhibits on Arctic aviation history",
+      "distance": 2.0,
+      "URL": "https://luftfartsmuseum.no/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Saltstraumen Maelstrom",
+      "postcode": "8056",
+      "distanceKmFromAirport": 36,
+      "description": "The world's strongest tidal current with 400 million cubic metres of water rushing through a 150-metre strait four times daily, creating powerful whirlpools",
+      "distance": 33.0,
+      "URL": "https://www.visitnorway.com/listings/saltstraumen-maelstrom/183384/"
+    },
+    {
+      "rank": 3,
+      "name": "Midnight Sun viewpoints",
+      "postcode": "8000",
+      "distanceKmFromAirport": 3,
+      "description": "Bodo sits above the Arctic Circle; from late May to mid-July the sun never sets, offering extraordinary views of the midnight sun over the fjords",
+      "distance": 1.0,
+      "URL": "https://www.visitbodo.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Bodo Cathedral",
+      "postcode": "8006",
+      "distanceKmFromAirport": 3,
+      "description": "Post-war cathedral rebuilt after WWII bombing in 1956 with striking stained glass by Aage Storstein and a distinctive copper-clad tower",
+      "distance": 0.8,
+      "URL": "https://www.kirken.no/"
+    },
+    {
+      "rank": 5,
+      "name": "Nordland Museum",
+      "postcode": "8006",
+      "distanceKmFromAirport": 3,
+      "description": "Regional museum with collections on Sami culture, fishing traditions, coastal life and the dramatic history of Nordland county",
+      "distance": 1.0,
+      "URL": "https://www.nordlandsmuseet.no/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Kjerringoy Trading Post",
+      "postcode": "8118",
+      "distanceKmFromAirport": 43,
+      "description": "Beautifully preserved 19th-century Arctic trading post with original buildings set against dramatic fjord and mountain scenery, a living museum of coastal life",
+      "distance": 40.0,
+      "URL": "https://www.nordlandsmuseet.no/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Rønvik Church",
+      "postcode": "8012",
+      "distanceKmFromAirport": 5,
+      "description": "Historic church with a notable position overlooking the city; one of Bodo's oldest buildings dating from the early 20th century",
+      "distance": 3.0,
+      "URL": "https://www.visitbodo.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Bodo City Centre",
+      "postcode": "8006",
+      "distanceKmFromAirport": 3,
+      "description": "Compact, walkable city centre rebuilt entirely after WWII, with a lively harbour, fish market and views to the Lofoten Islands on clear days",
+      "distance": 0.5,
+      "URL": "https://www.visitbodo.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Beiaren Valley",
+      "postcode": "8130",
+      "distanceKmFromAirport": 80,
+      "description": "Stunning protected wilderness valley south of Bodo with glaciers, waterfalls and some of Norway's most dramatic Arctic mountain scenery",
+      "distance": 77.0,
+      "URL": "https://www.visitnorway.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Aspmyra Stadion",
+      "postcode": "8009",
+      "distanceKmFromAirport": 4,
+      "description": "Home of FK Bodo/Glimt, Norway's dominant club and UEFA Conference League quarter-finalists; known for the devoted Yellow Army supporters",
+      "distance": 2.0,
+      "URL": "https://www.glimt.no/en/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Asuncion",
+  "country": "Paraguay",
+  "airportPostcode": "1812",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Panteón Nacional de los Heroes",
+      "postcode": "1209",
+      "distanceKmFromAirport": 16,
+      "description": "Neo-classical pantheon modelled on the Pantheon in Paris - heart of Paraguayan patriotism",
+      "distance": 0.5,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 2,
+      "name": "Historic Centre & Manzana de la Rivera",
+      "postcode": "1209",
+      "distanceKmFromAirport": 15,
+      "description": "Colonial city blocks with restored 19th-century houses and a cultural museum",
+      "distance": 0.3,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 3,
+      "name": "Palacio de los Lopez (Government Palace)",
+      "postcode": "1209",
+      "distanceKmFromAirport": 16,
+      "description": "Neoclassical presidential palace on the riverside - the most photographed building in Paraguay",
+      "distance": 0.5,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 4,
+      "name": "Museo del Barro",
+      "postcode": "2160",
+      "distanceKmFromAirport": 22,
+      "description": "Paraguay's finest art museum with pre-Columbian ceramics, folk art and contemporary work",
+      "distance": 7.0,
+      "URL": "https://www.museoelbarro.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Botanical Garden & Zoo",
+      "postcode": "1619",
+      "distanceKmFromAirport": 23,
+      "description": "Former Carlos Antonio Lopez presidential estate with a natural history museum",
+      "distance": 8.0,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 6,
+      "name": "Areguá Strawberry Town",
+      "postcode": "1720",
+      "distanceKmFromAirport": 45,
+      "description": "Colonial town on Lake Ypacarai famous for ceramics, strawberries and art galleries",
+      "distance": 30.0,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 7,
+      "name": "Ruinas Jesuitas de San Cosme y Damian",
+      "postcode": "6950",
+      "distanceKmFromAirport": 365,
+      "description": "UNESCO World Heritage Jesuit reduction ruins 350km from Asuncion",
+      "distance": 350.0,
+      "URL": "https://whc.unesco.org/en/list/648/"
+    },
+    {
+      "rank": 8,
+      "name": "Catedral Metropolitana",
+      "postcode": "1209",
+      "distanceKmFromAirport": 15,
+      "description": "Simple colonial cathedral on the Plaza de la Independencia",
+      "distance": 0.3,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 9,
+      "name": "Mercado 4",
+      "postcode": "1209",
+      "distanceKmFromAirport": 16,
+      "description": "Asuncion's largest and most chaotic traditional market",
+      "distance": 1.5,
+      "URL": "https://www.senatur.gov.py/"
+    },
+    {
+      "rank": 10,
+      "name": "Chipa and Sopa Paraguaya",
+      "postcode": "1209",
+      "distanceKmFromAirport": 16,
+      "description": "Cheesy tapioca rolls and Paraguay's famous cornbread with cheese - the national foods",
+      "distance": 0.5,
+      "URL": "https://www.senatur.gov.py/"
+    }
+  ]
+}

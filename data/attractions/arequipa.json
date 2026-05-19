@@ -1,0 +1,98 @@
+{
+  "city": "Arequipa",
+  "country": "Peru",
+  "airportPostcode": "04006",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Colca Canyon",
+      "postcode": "04611",
+      "distanceKmFromAirport": 163,
+      "description": "World's second deepest canyon - watch Andean condors soar on thermals at Cruz del Condor",
+      "distance": 155.0,
+      "URL": "https://www.colcaperu.gob.pe/"
+    },
+    {
+      "rank": 2,
+      "name": "Santa Catalina Monastery",
+      "postcode": "04001",
+      "distanceKmFromAirport": 8,
+      "description": "A city within a city - 16th-century convent occupied by cloistered nuns for 400 years",
+      "distance": 0.5,
+      "URL": "https://www.santacatalina.org.pe/"
+    },
+    {
+      "rank": 3,
+      "name": "Plaza de Armas",
+      "postcode": "04001",
+      "distanceKmFromAirport": 8,
+      "description": "The finest colonial square in Peru framed by the sillar white volcanic stone cathedral",
+      "distance": 0.1,
+      "URL": "https://www.peru.travel/en/attractions/plaza-de-armas-de-arequipa"
+    },
+    {
+      "rank": 4,
+      "name": "Juanita (Lady of Ampato) Museum",
+      "postcode": "04001",
+      "distanceKmFromAirport": 8,
+      "description": "500-year-old Inca ice maiden sacrificed on Ampato volcano - perfectly preserved",
+      "distance": 0.3,
+      "URL": "https://museosanagustinarequipa.pe/"
+    },
+    {
+      "rank": 5,
+      "name": "Yanahuara Viewpoint",
+      "postcode": "04001",
+      "distanceKmFromAirport": 10,
+      "description": "Colonial arched viewpoint with Arequipa and the El Misti volcano backdrop",
+      "distance": 2.5,
+      "URL": "https://www.peru.travel/en/attractions/yanahuara-viewpoint"
+    },
+    {
+      "rank": 6,
+      "name": "Sabandía Mill Countryside",
+      "postcode": "04014",
+      "distanceKmFromAirport": 16,
+      "description": "18th-century water mill in Sabandía valley 8km from the city",
+      "distance": 8.0,
+      "URL": "https://www.peru.travel/en/attractions/sabandia-mill"
+    },
+    {
+      "rank": 7,
+      "name": "Molino de Sabandia & Picanteria",
+      "postcode": "04014",
+      "distanceKmFromAirport": 16,
+      "description": "Traditional Arequipan restaurant in the countryside with guinea pig roasting",
+      "distance": 8.0,
+      "URL": "https://www.peru.travel/en/attractions/arequipa"
+    },
+    {
+      "rank": 8,
+      "name": "Toro Muerto Petroglyphs",
+      "postcode": "04400",
+      "distanceKmFromAirport": 178,
+      "description": "World's largest concentration of petroglyphs in a volcanic ash desert",
+      "distance": 170.0,
+      "URL": "https://www.peru.travel/en/attractions/toro-muerto"
+    },
+    {
+      "rank": 9,
+      "name": "El Misti Volcano Trek",
+      "postcode": "04001",
+      "distanceKmFromAirport": 25,
+      "description": "Two-day climb of the 5,822m perfect cone volcano overlooking the city",
+      "distance": 17.0,
+      "URL": "https://www.peru.travel/en/attractions/el-misti"
+    },
+    {
+      "rank": 10,
+      "name": "Rocoto Relleno",
+      "postcode": "04001",
+      "distanceKmFromAirport": 8,
+      "description": "Arequipa's signature dish - stuffed rocoto pepper with beef and cheese, baked in oven",
+      "distance": 0.5,
+      "URL": "https://www.peru.travel/en/gastronomy/arequipa"
+    }
+  ]
+}

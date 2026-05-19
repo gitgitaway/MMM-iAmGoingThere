@@ -1,0 +1,98 @@
+{
+  "city": "Bruges",
+  "country": "Belgium",
+  "airportPostcode": "8400",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Markt Square",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Bruges' grand central square lined with guild houses, horse-drawn carriages and the iconic Belfry tower",
+      "distance": 0.1,
+      "URL": "https://www.visitbruges.be/en/the-market-square"
+    },
+    {
+      "rank": 2,
+      "name": "Belfry of Bruges",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Medieval bell tower soaring 83 metres above the Markt, with 366 steps to panoramic views over the city",
+      "distance": 0.1,
+      "URL": "https://www.museabrugge.be/en/visit-our-museums/our-museums-and-sites/belfry"
+    },
+    {
+      "rank": 3,
+      "name": "Basilica of the Holy Blood",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Twelfth-century chapel housing a venerated relic believed to contain blood of Christ, a UNESCO masterpiece",
+      "distance": 0.3,
+      "URL": "https://www.holyblood.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Canal Boat Tours",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Glide through Bruges' UNESCO-listed medieval waterways past weeping willows and chocolate-box merchant houses",
+      "distance": 0.3,
+      "URL": "https://www.visitbruges.be/en/boat-trips"
+    },
+    {
+      "rank": 5,
+      "name": "Groeningemuseum",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "World-class collection of Flemish Primitive and Belgian art spanning six centuries from Jan van Eyck onwards",
+      "distance": 0.5,
+      "URL": "https://www.museabrugge.be/en/visit-our-museums/our-museums-and-sites/groeninge-museum"
+    },
+    {
+      "rank": 6,
+      "name": "Church of Our Lady",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Gothic brick church with the tallest brick spire in the world, housing Michelangelo's Madonna and Child sculpture",
+      "distance": 0.6,
+      "URL": "https://www.museabrugge.be/en/visit-our-museums/our-museums-and-sites/church-of-our-lady"
+    },
+    {
+      "rank": 7,
+      "name": "Begijnhof",
+      "postcode": "8000",
+      "distanceKmFromAirport": 26,
+      "description": "UNESCO-listed tranquil enclave of whitewashed houses founded in 1245 as a religious community for women",
+      "distance": 0.9,
+      "URL": "https://www.visitbruges.be/en/the-beguinage"
+    },
+    {
+      "rank": 8,
+      "name": "Minnewater",
+      "postcode": "8000",
+      "distanceKmFromAirport": 26,
+      "description": "Romantic 'Lake of Love' at the edge of the Begijnhof, where swans glide beneath willow trees",
+      "distance": 1.0,
+      "URL": "https://www.visitbruges.be/en/minnewater-lake"
+    },
+    {
+      "rank": 9,
+      "name": "Halve Maan Brewery",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Family-owned brewery dating to 1856 producing Brugse Zot beer, with tours through the historic cellars",
+      "distance": 0.7,
+      "URL": "https://www.halvemaan.be/en"
+    },
+    {
+      "rank": 10,
+      "name": "Jan van Eyckplein",
+      "postcode": "8000",
+      "distanceKmFromAirport": 25,
+      "description": "Historic trading heart of medieval Bruges where Flemish merchants once gathered, now a picturesque canal-side square",
+      "distance": 0.4,
+      "URL": "https://www.visitbruges.be/en/jan-van-eyckplein"
+    }
+  ]
+}

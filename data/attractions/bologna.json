@@ -1,0 +1,98 @@
+{
+  "city": "Bologna",
+  "country": "Italy",
+  "airportPostcode": "40132",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Piazza Maggiore",
+      "postcode": "40124",
+      "distanceKmFromAirport": 9,
+      "description": "Bologna's magnificent main square flanked by the Basilica di San Petronio and Palazzo d'Accursio",
+      "distance": 0.2,
+      "URL": "https://www.bolognawelcome.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Two Towers (Le Due Torri)",
+      "postcode": "40125",
+      "distanceKmFromAirport": 10,
+      "description": "Medieval twin towers Asinelli and Garisenda — climb the 498-step Asinelli for breathtaking views",
+      "distance": 0.5,
+      "URL": "https://www.bolognawelcome.com/en/places/churches-and-monuments/le-due-torri"
+    },
+    {
+      "rank": 3,
+      "name": "Porticoes of Bologna",
+      "postcode": "40121",
+      "distanceKmFromAirport": 9,
+      "description": "UNESCO World Heritage 40 km of medieval arcaded walkways that define the city's character",
+      "distance": 0.3,
+      "URL": "https://www.bolognawelcome.com/"
+    },
+    {
+      "rank": 4,
+      "name": "National Art Gallery (Pinacoteca Nazionale)",
+      "postcode": "40126",
+      "distanceKmFromAirport": 10,
+      "description": "Outstanding collection of Bolognese and Italian paintings from the 14th to 18th centuries",
+      "distance": 1.0,
+      "URL": "https://pinacotecabologna.cultura.gov.it/"
+    },
+    {
+      "rank": 5,
+      "name": "Sanctuary of San Luca",
+      "postcode": "40136",
+      "distanceKmFromAirport": 13,
+      "description": "Hilltop baroque basilica connected to the city by the world's longest portico (3.8 km, 666 arches)",
+      "distance": 4.0,
+      "URL": "https://www.santuariodisanluca.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Bologna Food Market Tour",
+      "postcode": "40124",
+      "distanceKmFromAirport": 9,
+      "description": "Mercato delle Erbe and Quadrilatero quarter — the food capital of Italy with tagliatelle, tortellini and mortadella",
+      "distance": 0.3,
+      "URL": "https://www.bolognawelcome.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Archiginnasio Anatomical Theatre",
+      "postcode": "40124",
+      "distanceKmFromAirport": 9,
+      "description": "Spectacular 17th-century wooden anatomy theatre in the oldest European university's original building",
+      "distance": 0.3,
+      "URL": "https://www.archiginnasio.it/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Santo Stefano Complex",
+      "postcode": "40125",
+      "distanceKmFromAirport": 10,
+      "description": "Fascinating interlinked complex of seven medieval churches spanning 1,500 years of history",
+      "distance": 0.6,
+      "URL": "https://www.bolognawelcome.com/"
+    },
+    {
+      "rank": 9,
+      "name": "MAST Museum",
+      "postcode": "40129",
+      "distanceKmFromAirport": 12,
+      "description": "Stunning contemporary industrial arts and photography foundation with free entry",
+      "distance": 3.5,
+      "URL": "https://www.mast.org/en"
+    },
+    {
+      "rank": 10,
+      "name": "Ferrari Museum, Modena Day Trip",
+      "postcode": "41121",
+      "distanceKmFromAirport": 49,
+      "description": "Drive 40 minutes to Modena for the Ferrari Museum and the Enzo Ferrari birthplace museum",
+      "distance": 40.0,
+      "URL": "https://www.ferrari.com/en-EN/museums"
+    }
+  ]
+}

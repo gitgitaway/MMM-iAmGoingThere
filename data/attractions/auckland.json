@@ -1,0 +1,98 @@
+{
+  "city": "Auckland",
+  "country": "New Zealand",
+  "airportPostcode": "2022",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sky Tower",
+      "postcode": "1010",
+      "distanceKmFromAirport": 24,
+      "description": "New Zealand's tallest structure at 328m with observation deck and SkyWalk/SkyJump",
+      "distance": 0.3,
+      "URL": "https://www.skycityauckland.co.nz/attractions/sky-tower/"
+    },
+    {
+      "rank": 2,
+      "name": "Waiheke Island",
+      "postcode": "1081",
+      "distanceKmFromAirport": 46,
+      "description": "Ferry to the 'Island of Wine' with boutique vineyards, beaches and olive groves",
+      "distance": 22.0,
+      "URL": "https://www.waiheke.co.nz/"
+    },
+    {
+      "rank": 3,
+      "name": "Auckland Museum",
+      "postcode": "1010",
+      "distanceKmFromAirport": 26,
+      "description": "War Memorial Museum with the world's finest Maori and Pacific collections",
+      "distance": 1.5,
+      "URL": "https://www.aucklandmuseum.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Rangitoto Island",
+      "postcode": "1140",
+      "distanceKmFromAirport": 36,
+      "description": "Ferry to Auckland's youngest volcano rising from the Hauraki Gulf for summit walks",
+      "distance": 12.0,
+      "URL": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/hauraki-gulf-marine-park/rangitoto-island/"
+    },
+    {
+      "rank": 5,
+      "name": "Waitematā Harbour Bridge",
+      "postcode": "0626",
+      "distanceKmFromAirport": 26,
+      "description": "Bridge walk or bike with panoramic harbour views, AJ Hackett bungy also available",
+      "distance": 2.0,
+      "URL": "https://www.nzta.govt.nz/roads-and-rail/bridges/auckland-harbour-bridge/"
+    },
+    {
+      "rank": 6,
+      "name": "Devonport Ferry & Village",
+      "postcode": "0624",
+      "distanceKmFromAirport": 28,
+      "description": "Historic naval town across the harbour with two volcanic summits and beaches",
+      "distance": 3.5,
+      "URL": "https://www.devonport.co.nz/"
+    },
+    {
+      "rank": 7,
+      "name": "Auckland Art Gallery Toi o Tamaki",
+      "postcode": "1010",
+      "distanceKmFromAirport": 24,
+      "description": "New Zealand's largest art collection spanning Maori, Pacific and European art",
+      "distance": 0.4,
+      "URL": "https://www.aucklandartgallery.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Ponsonby & Grey Lynn",
+      "postcode": "1011",
+      "distanceKmFromAirport": 26,
+      "description": "Auckland's most fashionable eating and shopping streets with world-class restaurants",
+      "distance": 2.5,
+      "URL": "https://www.ponsonby.co.nz/"
+    },
+    {
+      "rank": 9,
+      "name": "Piha Beach & Lion Rock",
+      "postcode": "0772",
+      "distanceKmFromAirport": 64,
+      "description": "Wild west coast black-sand surf beach with the iconic Lion Rock landmark",
+      "distance": 40.0,
+      "URL": "https://www.piha.co.nz/"
+    },
+    {
+      "rank": 10,
+      "name": "Hobbiton Movie Set",
+      "postcode": "3472",
+      "distanceKmFromAirport": 194,
+      "description": "Walk-through tour of the Shire from Peter Jackson's Lord of the Rings and The Hobbit",
+      "distance": 170.0,
+      "URL": "https://www.hobbitontours.com/"
+    }
+  ]
+}

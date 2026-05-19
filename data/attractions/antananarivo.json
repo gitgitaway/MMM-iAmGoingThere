@@ -1,0 +1,98 @@
+{
+  "city": "Antananarivo",
+  "country": "Madagascar",
+  "airportPostcode": "101",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Avenue of the Baobabs (Morondava)",
+      "postcode": "615",
+      "distanceKmFromAirport": 717,
+      "description": "Madagascar's most iconic image - ancient baobab trees lining a dirt road at sunset",
+      "distance": 700.0,
+      "URL": "https://www.madagascar-tourisme.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Rova of Antananarivo (Queen's Palace)",
+      "postcode": "101",
+      "distanceKmFromAirport": 18,
+      "description": "Royal palace complex on the highest hill overlooking the capital",
+      "distance": 1.5,
+      "URL": "https://www.madagascar-tourisme.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Lemur Watching",
+      "postcode": "101",
+      "distanceKmFromAirport": 57,
+      "description": "Madagascar's unique lemurs - see ring-tailed, sifaka and aye-aye",
+      "distance": 40.0,
+      "URL": "https://www.madagascar-tourisme.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Tsimbazaza Botanical and Zoological Park",
+      "postcode": "101",
+      "distanceKmFromAirport": 20,
+      "description": "Lemurs, fossas and chameleons in the city zoo with Madagascar natural history",
+      "distance": 2.5,
+      "URL": "https://www.madagascar-tourisme.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Analakely Market",
+      "postcode": "101",
+      "distanceKmFromAirport": 18,
+      "description": "Antananarivo's largest and most colourful traditional market",
+      "distance": 1.0,
+      "URL": "https://www.madagascar-tourisme.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Andringitra National Park Trekking",
+      "postcode": "312",
+      "distanceKmFromAirport": 467,
+      "description": "Dramatic granite peaks and lemur-filled forest in the southern highlands",
+      "distance": 450.0,
+      "URL": "https://www.parcs-madagascar.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Ranomafana National Park",
+      "postcode": "312",
+      "distanceKmFromAirport": 437,
+      "description": "Rare golden bamboo lemur and endangered greater bamboo lemur in rainforest",
+      "distance": 420.0,
+      "URL": "https://www.parcs-madagascar.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Artisan Centre (Ambatoroka)",
+      "postcode": "101",
+      "distanceKmFromAirport": 20,
+      "description": "Madagascar's unique raffia, silk and gemstone handicrafts",
+      "distance": 3.0,
+      "URL": "https://www.madagascar-tourisme.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Tsingy de Bemaraha",
+      "postcode": "615",
+      "distanceKmFromAirport": 717,
+      "description": "UNESCO World Heritage razor-sharp limestone pinnacles - one of Earth's strangest landscapes",
+      "distance": 700.0,
+      "URL": "https://whc.unesco.org/en/list/494/"
+    },
+    {
+      "rank": 10,
+      "name": "Romazava Meat and Greens Stew",
+      "postcode": "101",
+      "distanceKmFromAirport": 18,
+      "description": "Madagascar's national dish - mixed meat stew with moringa leaves and broth",
+      "distance": 0.5,
+      "URL": "https://www.madagascar-tourisme.com/"
+    }
+  ]
+}

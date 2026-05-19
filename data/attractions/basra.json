@@ -1,0 +1,98 @@
+{
+  "city": "Basra",
+  "country": "Iraq",
+  "airportPostcode": "61001",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Basra Old City & Corniche",
+      "postcode": "61001",
+      "distanceKmFromAirport": 27,
+      "description": "Historic waterways and Corniche promenade along the Shatt al-Arab waterway",
+      "distance": 2.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 2,
+      "name": "Basra Museum",
+      "postcode": "61001",
+      "distanceKmFromAirport": 30,
+      "description": "Former Uday Hussein palace converted to a museum of Basra's history and culture",
+      "distance": 5.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 3,
+      "name": "Sinbad Island",
+      "postcode": "61001",
+      "distanceKmFromAirport": 29,
+      "description": "Island in the Shatt al-Arab, legendary home of Sinbad the Sailor of Arabian Nights fame",
+      "distance": 4.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 4,
+      "name": "Corniche Hotel Clock Tower",
+      "postcode": "61001",
+      "distanceKmFromAirport": 26,
+      "description": "Landmark of the Basra waterfront, the social heart of the city",
+      "distance": 1.5,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 5,
+      "name": "Central Basra Souq",
+      "postcode": "61001",
+      "distanceKmFromAirport": 26,
+      "description": "Traditional market with spices, gold, textiles and the famous Basra dates",
+      "distance": 1.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 6,
+      "name": "Basra International Port",
+      "postcode": "61001",
+      "distanceKmFromAirport": 35,
+      "description": "Iraq's only major seaport - a historically significant Persian Gulf trading hub",
+      "distance": 10.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 7,
+      "name": "Imam Ali Shrine (Najaf)",
+      "postcode": "54001",
+      "distanceKmFromAirport": 305,
+      "description": "Day trip to Najaf, site of the most important Shia shrine in the world",
+      "distance": 280.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    },
+    {
+      "rank": 8,
+      "name": "Iraqi Marshlands (Ahwar)",
+      "postcode": "61001",
+      "distanceKmFromAirport": 95,
+      "description": "UNESCO World Heritage Garden of Eden marshlands with Marsh Arab culture",
+      "distance": 70.0,
+      "URL": "https://whc.unesco.org/en/list/1481/"
+    },
+    {
+      "rank": 9,
+      "name": "Basra University Campus",
+      "postcode": "61001",
+      "distanceKmFromAirport": 33,
+      "description": "Sprawling university campus with a botanical garden on the city outskirts",
+      "distance": 8.0,
+      "URL": "https://www.uobasrah.edu.iq/"
+    },
+    {
+      "rank": 10,
+      "name": "Abu Al-Khasib Date Palm Groves",
+      "postcode": "61001",
+      "distanceKmFromAirport": 40,
+      "description": "Iraq's finest date palm orchards producing the world-famous Basra dates",
+      "distance": 15.0,
+      "URL": "https://www.iraqitourism.gov.iq/"
+    }
+  ]
+}

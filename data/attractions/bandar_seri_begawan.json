@@ -1,0 +1,98 @@
+{
+  "city": "Bandar Seri Begawan",
+  "country": "Brunei",
+  "airportPostcode": "BB2513",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sultan Omar Ali Saifuddien Mosque",
+      "postcode": "BS8711",
+      "distanceKmFromAirport": 10,
+      "description": "The most beautiful mosque in Southeast Asia - white marble dome reflected in a lagoon",
+      "distance": 1.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Kampong Ayer (Water Village)",
+      "postcode": "BA1718",
+      "distanceKmFromAirport": 10,
+      "description": "World's largest water village - 39,000 people live on stilts over the river",
+      "distance": 1.5,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Jame'Asr Hassanil Bolkiah Mosque",
+      "postcode": "BE3519",
+      "distanceKmFromAirport": 14,
+      "description": "Brunei's largest mosque with 29 golden domes - one for each Sultan in the dynasty",
+      "distance": 5.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Royal Regalia Museum",
+      "postcode": "BS8711",
+      "distanceKmFromAirport": 10,
+      "description": "Museum of the Sultan's coronation regalia with a gilded ceremonial chariot",
+      "distance": 0.8,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Ulu Temburong National Park",
+      "postcode": "TU1441",
+      "distanceKmFromAirport": 84,
+      "description": "Pristine primary rainforest - the green jewel of Brunei - reached only by longboat",
+      "distance": 75.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Istana Nurul Iman (Sultan's Palace)",
+      "postcode": "BA1000",
+      "distanceKmFromAirport": 12,
+      "description": "World's largest residential palace with 1,788 rooms - visible from the river",
+      "distance": 3.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Brunei Museum",
+      "postcode": "BT2328",
+      "distanceKmFromAirport": 13,
+      "description": "Natural history, Islamic art and Brunei's oil industry heritage",
+      "distance": 4.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Tasek Merimbun Heritage Park",
+      "postcode": "TE1728",
+      "distanceKmFromAirport": 89,
+      "description": "Brunei's largest freshwater lake in a ASEAN Heritage Park with proboscis monkeys",
+      "distance": 80.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Jerudong Park Playground",
+      "postcode": "BG3122",
+      "distanceKmFromAirport": 19,
+      "description": "Vast free amusement park once used by the Sultan for private entertainment",
+      "distance": 10.0,
+      "URL": "https://www.bruneitourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Ambuyat (Sago Paste)",
+      "postcode": "BS8711",
+      "distanceKmFromAirport": 10,
+      "description": "Brunei's national dish - glutinous sago paste twirled on a bamboo fork and dipped in sauces",
+      "distance": 0.5,
+      "URL": "https://www.bruneitourism.com/"
+    }
+  ]
+}

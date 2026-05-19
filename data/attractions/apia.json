@@ -1,0 +1,98 @@
+{
+  "city": "Apia",
+  "country": "Samoa",
+  "airportPostcode": "685",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "To Sua Ocean Trench",
+      "postcode": "685",
+      "distanceKmFromAirport": 75,
+      "description": "30m deep turquoise swimming hole connected to the sea through lava tubes",
+      "distance": 40.0,
+      "URL": "https://www.samoa.travel/listing/to-sua-ocean-trench/"
+    },
+    {
+      "rank": 2,
+      "name": "Piula Cave Pool",
+      "postcode": "685",
+      "distanceKmFromAirport": 60,
+      "description": "Freshwater spring under the sea accessed through an underwater arch",
+      "distance": 25.0,
+      "URL": "https://www.samoa.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Robert Louis Stevenson Museum (Vailima)",
+      "postcode": "685",
+      "distanceKmFromAirport": 41,
+      "description": "Stevenson's final home preserved as a museum - buried on the hilltop above",
+      "distance": 6.0,
+      "URL": "https://www.samoa.travel/listing/robert-louis-stevenson-museum/"
+    },
+    {
+      "rank": 4,
+      "name": "Faleolo Beach & Palm-Lined Coast",
+      "postcode": "685",
+      "distanceKmFromAirport": 70,
+      "description": "Samoa's finest beach drive with stunning tropical scenery",
+      "distance": 35.0,
+      "URL": "https://www.samoa.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Apia Market",
+      "postcode": "685",
+      "distanceKmFromAirport": 36,
+      "description": "Fresh fish, taro, palusami and oka (raw fish marinated in coconut cream)",
+      "distance": 0.5,
+      "URL": "https://www.samoa.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Papapapaitai Falls",
+      "postcode": "685",
+      "distanceKmFromAirport": 57,
+      "description": "One of Samoa's most spectacular waterfalls plunging into the forest below",
+      "distance": 22.0,
+      "URL": "https://www.samoa.travel/listing/papapapaitai-falls/"
+    },
+    {
+      "rank": 7,
+      "name": "O Le Pupu-Pu'e National Park",
+      "postcode": "685",
+      "distanceKmFromAirport": 65,
+      "description": "Lava tubes, dense jungle and the south coast lava flows to the sea",
+      "distance": 30.0,
+      "URL": "https://www.samoa.travel/listing/o-le-pupu-pue-national-park/"
+    },
+    {
+      "rank": 8,
+      "name": "Falealupo Canopy Walk",
+      "postcode": "685",
+      "distanceKmFromAirport": 165,
+      "description": "Treetop walkway in the last intact lowland rainforest on Savai'i",
+      "distance": 130.0,
+      "URL": "https://www.samoa.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Manono Island Day Trip",
+      "postcode": "685",
+      "distanceKmFromAirport": 90,
+      "description": "Car-free island with a 3km village walk past traditional fale houses",
+      "distance": 55.0,
+      "URL": "https://www.samoa.travel/listing/manono-island/"
+    },
+    {
+      "rank": 10,
+      "name": "Sa (Evening Prayers) Ceremony",
+      "postcode": "685",
+      "distanceKmFromAirport": 36,
+      "description": "Every village rings a bell at 6pm for mandatory family prayers - visitors must stop",
+      "distance": 0.5,
+      "URL": "https://www.samoa.travel/"
+    }
+  ]
+}

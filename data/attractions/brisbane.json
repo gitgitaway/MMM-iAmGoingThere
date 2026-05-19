@@ -1,0 +1,98 @@
+{
+  "city": "Brisbane",
+  "country": "Australia",
+  "airportPostcode": "4008",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "South Bank Parklands",
+      "postcode": "4101",
+      "distanceKmFromAirport": 17,
+      "description": "16-hectare cultural precinct with Streets Beach (inner-city lagoon), market, galleries and river walk",
+      "distance": 3.0,
+      "URL": "https://www.visitsouthbank.com.au/"
+    },
+    {
+      "rank": 2,
+      "name": "Lone Pine Koala Sanctuary",
+      "postcode": "4069",
+      "distanceKmFromAirport": 26,
+      "description": "World's first and largest koala sanctuary — cuddle a koala, hand-feed kangaroos and meet platypuses",
+      "distance": 12.0,
+      "URL": "https://www.koala.net/"
+    },
+    {
+      "rank": 3,
+      "name": "Story Bridge Adventure Climb",
+      "postcode": "4169",
+      "distanceKmFromAirport": 16,
+      "description": "Scale the iconic 1940 steel bridge for 360° panoramic views of Brisbane — day, twilight or night climbs",
+      "distance": 2.0,
+      "URL": "https://www.storybridgeadventureclimb.com.au/"
+    },
+    {
+      "rank": 4,
+      "name": "Gold Coast Day Trip",
+      "postcode": "4217",
+      "distanceKmFromAirport": 92,
+      "description": "Australia's surf capital just 1 hour south — theme parks, Surfers Paradise Beach and the hinterland rainforest",
+      "distance": 78.0,
+      "URL": "https://www.destinationgoldcoast.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Queensland Museum",
+      "postcode": "4101",
+      "distanceKmFromAirport": 17,
+      "description": "Natural history and science museum with the famous whale skeleton and extensive dinosaur gallery",
+      "distance": 3.0,
+      "URL": "https://www.museum.qld.gov.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Mount Coot-tha Lookout",
+      "postcode": "4066",
+      "distanceKmFromAirport": 22,
+      "description": "Best panoramic view of the Brisbane city skyline and Moreton Bay — summit accessible by bus or car",
+      "distance": 8.0,
+      "URL": "https://www.brisbane.qld.gov.au/"
+    },
+    {
+      "rank": 7,
+      "name": "GOMA (Gallery of Modern Art)",
+      "postcode": "4101",
+      "distanceKmFromAirport": 17,
+      "description": "Australia's largest contemporary art museum — outstanding collection and free admission to the permanent collection",
+      "distance": 3.0,
+      "URL": "https://www.qagoma.qld.gov.au/"
+    },
+    {
+      "rank": 8,
+      "name": "Moreton Island Day Trip",
+      "postcode": "4025",
+      "distanceKmFromAirport": 54,
+      "description": "The world's third-largest sand island — sandboarding down the Tangalooma desert, snorkelling wrecks",
+      "distance": 40.0,
+      "URL": "https://www.moretonisland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Fortitude Valley",
+      "postcode": "4006",
+      "distanceKmFromAirport": 16,
+      "description": "Brisbane's nightlife and live music hub — the Valley has hosted Springsteen, U2 and the Rolling Stones",
+      "distance": 2.0,
+      "URL": "https://www.visitbrisbane.com.au/"
+    },
+    {
+      "rank": 10,
+      "name": "Brisbane City Botanic Gardens",
+      "postcode": "4000",
+      "distanceKmFromAirport": 16,
+      "description": "Queensland's oldest garden (1855) on a river peninsula — figs, bamboo groves and free outdoor cinema",
+      "distance": 1.5,
+      "URL": "https://www.brisbane.qld.gov.au/"
+    }
+  ]
+}

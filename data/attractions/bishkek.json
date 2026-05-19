@@ -1,0 +1,98 @@
+{
+  "city": "Bishkek",
+  "country": "Kyrgyzstan",
+  "airportPostcode": "720061",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ala-Archa National Park",
+      "postcode": "720000",
+      "distanceKmFromAirport": 65,
+      "description": "Stunning Alpine gorge 40km from Bishkek with glaciers, hiking and rafting in the Tian Shan",
+      "distance": 40.0,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Osh Bazaar",
+      "postcode": "720000",
+      "distanceKmFromAirport": 26,
+      "description": "Central Asia's most colourful market with kumiss (fermented mare's milk), dried fruits and herbs",
+      "distance": 1.5,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "State History Museum",
+      "postcode": "720000",
+      "distanceKmFromAirport": 26,
+      "description": "Soviet murals and Kyrgyz history from the Manas epic to Soviet collectivisation",
+      "distance": 0.5,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Ala-Too Square",
+      "postcode": "720000",
+      "distanceKmFromAirport": 26,
+      "description": "Central square with the White House, changing of the guard and the Manas statue",
+      "distance": 0.5,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Burana Tower & Balbal Stones",
+      "postcode": "722800",
+      "distanceKmFromAirport": 100,
+      "description": "11th-century minaret remnant with a field of Turkic stone warrior figures",
+      "distance": 75.0,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Issyk-Kul Lake",
+      "postcode": "722200",
+      "distanceKmFromAirport": 290,
+      "description": "World's second largest alpine lake - warm enough to swim in, ringed by snow mountains",
+      "distance": 265.0,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Nomadic Games Festival",
+      "postcode": "722200",
+      "distanceKmFromAirport": 295,
+      "description": "World Nomad Games festival with eagle hunting, kok-boru (horseback polo) and yurt competitions",
+      "distance": 270.0,
+      "URL": "https://www.worldnomadgames.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Erkindik Boulevard",
+      "postcode": "720000",
+      "distanceKmFromAirport": 26,
+      "description": "Tree-lined central boulevard with the Russian Orthodox cathedral and White House",
+      "distance": 0.8,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Central Asian Eagle Hunting",
+      "postcode": "720000",
+      "distanceKmFromAirport": 85,
+      "description": "Day trips to witness traditional Kazakh eagle hunters in the mountains",
+      "distance": 60.0,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Panfilov Park",
+      "postcode": "720000",
+      "distanceKmFromAirport": 26,
+      "description": "City park with a Soviet-era Ferris wheel and the Manas epic mural",
+      "distance": 1.0,
+      "URL": "https://www.visitkyrgyzstan.travel/"
+    }
+  ]
+}

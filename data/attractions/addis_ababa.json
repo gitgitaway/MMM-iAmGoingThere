@@ -1,0 +1,98 @@
+{
+  "city": "Addis Ababa",
+  "country": "Ethiopia",
+  "airportPostcode": "1000",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Ethiopia",
+      "postcode": "1110",
+      "distanceKmFromAirport": 13,
+      "description": "Home to Lucy - the 3.2-million-year-old Australopithecus fossil that rewrote human history",
+      "distance": 3.0,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 2,
+      "name": "Ethnological Museum (Haile Selassie Palace)",
+      "postcode": "1110",
+      "distanceKmFromAirport": 14,
+      "description": "Emperor's former bedroom and throne room in a museum of Ethiopian culture",
+      "distance": 3.5,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 3,
+      "name": "Lalibela Rock Churches Day Trip",
+      "postcode": "1231",
+      "distanceKmFromAirport": 710,
+      "description": "UNESCO World Heritage 13 rock-hewn churches carved from solid rock in the 12th century",
+      "distance": 700.0,
+      "URL": "https://whc.unesco.org/en/list/18/"
+    },
+    {
+      "rank": 4,
+      "name": "Holy Trinity Cathedral",
+      "postcode": "1000",
+      "distanceKmFromAirport": 12,
+      "description": "Ethiopia's most important Orthodox church with the tombs of Haile Selassie and his wife",
+      "distance": 1.5,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 5,
+      "name": "Merkato Market",
+      "postcode": "1000",
+      "distanceKmFromAirport": 12,
+      "description": "Africa's largest open-air market covering several square kilometres",
+      "distance": 2.5,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 6,
+      "name": "African Union Headquarters",
+      "postcode": "3243",
+      "distanceKmFromAirport": 15,
+      "description": "Controversial China-built headquarters of the AU with free tours of the main hall",
+      "distance": 5.0,
+      "URL": "https://au.int/"
+    },
+    {
+      "rank": 7,
+      "name": "Axum Day Trip",
+      "postcode": "1203",
+      "distanceKmFromAirport": 1010,
+      "description": "Ancient obelisks and the claimed home of the Ark of the Covenant",
+      "distance": 1000.0,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 8,
+      "name": "Ethiopian Coffee Ceremony",
+      "postcode": "1000",
+      "distanceKmFromAirport": 11,
+      "description": "Roasting, grinding and brewing coffee in the ritual three-round ceremony",
+      "distance": 1.0,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 9,
+      "name": "Addis Ababa Entoto Hills",
+      "postcode": "1110",
+      "distanceKmFromAirport": 22,
+      "description": "Forest and church on the hills above the city where Menelik II established his capital",
+      "distance": 12.0,
+      "URL": "https://www.tourismethiopia.gov.et/"
+    },
+    {
+      "rank": 10,
+      "name": "Injera and Tibs at Yod Abyssinia",
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "Traditional Ethiopian feast with sour injera flatbread and spiced lamb tibs with cultural show",
+      "distance": 3.0,
+      "URL": "https://www.yodabyssinia.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Beauvais",
+  "country": "France",
+  "airportPostcode": "60550",
+  "airportDistanceKm": 1,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Beauvais Cathedral",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Highest Gothic choir in the world at 48.5 metres, a masterpiece of medieval ambition",
+      "distance": 3.5,
+      "URL": "https://www.cathedrale-beauvais.fr/"
+    },
+    {
+      "rank": 2,
+      "name": "Astronomical Clock",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Monumental 19th-century clock with 90,000 parts and 52 dials inside the cathedral",
+      "distance": 3.5,
+      "URL": "https://www.cathedrale-beauvais.fr/"
+    },
+    {
+      "rank": 3,
+      "name": "Galerie Nationale de la Tapisserie",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "National gallery showcasing the finest Beauvais tapestries from the 17th to 20th century",
+      "distance": 3.5,
+      "URL": "https://www.musees-hautsdefrance.fr/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee Departemental de l'Oise",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Departmental museum in a former bishop's palace with art and archaeology collections",
+      "distance": 3.5,
+      "URL": "https://www.oise.fr/musee-de-loise"
+    },
+    {
+      "rank": 5,
+      "name": "Aeroscopia Aviation Museum",
+      "postcode": "60550",
+      "distanceKmFromAirport": 3,
+      "description": "Nearby aerospace museum celebrating Beauvais's aviation heritage",
+      "distance": 2.0,
+      "URL": "https://www.aeroscopia.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Eglise Saint-Etienne",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Remarkable church blending Romanesque and Flamboyant Gothic styles",
+      "distance": 3.5,
+      "URL": "https://www.beauvaistourisme.fr/"
+    },
+    {
+      "rank": 7,
+      "name": "Old Town Centre",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Medieval town centre with timber-framed houses and lively market square",
+      "distance": 3.0,
+      "URL": "https://www.beauvaistourisme.fr/"
+    },
+    {
+      "rank": 8,
+      "name": "Theatre du Beauvaisis",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Regional cultural centre hosting theatre, dance and music performances",
+      "distance": 3.5,
+      "URL": "https://www.theatredubeauvaisis.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Parc Saint-Jean",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Peaceful municipal park ideal for relaxing walks in the city centre",
+      "distance": 3.2,
+      "URL": "https://www.beauvaistourisme.fr/"
+    },
+    {
+      "rank": 10,
+      "name": "Hotel de Ville",
+      "postcode": "60000",
+      "distanceKmFromAirport": 4,
+      "description": "Renaissance town hall reflecting Beauvais's prosperous cloth-trading history",
+      "distance": 3.5,
+      "URL": "https://www.beauvaistourisme.fr/"
+    }
+  ]
+}

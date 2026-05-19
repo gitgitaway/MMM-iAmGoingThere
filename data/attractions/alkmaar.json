@@ -1,0 +1,98 @@
+{
+  "city": "Alkmaar",
+  "country": "Netherlands",
+  "airportPostcode": "1118",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Alkmaar Cheese Market",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "The Netherlands' most famous traditional cheese market, held on Friday mornings from April to September in the historic Waagplein",
+      "distance": 0.5,
+      "URL": "https://www.kaasmarkt.nl/en"
+    },
+    {
+      "rank": 2,
+      "name": "National Beer Museum De Boom",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "Fascinating brewery museum in a historic building with exhibits on Dutch brewing history and regular tastings",
+      "distance": 0.5,
+      "URL": "https://www.biermuseum.nl/"
+    },
+    {
+      "rank": 3,
+      "name": "Alkmaar Old Town",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "Well-preserved 16th-17th century town centre with tree-lined canals, historic gabled houses and the iconic medieval skyline",
+      "distance": 0.5,
+      "URL": "https://www.visitalkmaar.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Stedelijk Museum Alkmaar",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "Municipal museum in a 16th-century house with Dutch Golden Age paintings and exhibits on Alkmaar's famous 1573 Spanish siege",
+      "distance": 0.6,
+      "URL": "https://www.stedelijkmuseumalkmaar.nl/en"
+    },
+    {
+      "rank": 5,
+      "name": "Grote Kerk (St Lawrence Church)",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "Impressive Gothic church with Alkmaar's celebrated 17th-century organ, one of the finest historic instruments in the Netherlands",
+      "distance": 0.4,
+      "URL": "https://www.grotekerk-alkmaar.nl/"
+    },
+    {
+      "rank": 6,
+      "name": "AFAS Stadion",
+      "postcode": "1823",
+      "distanceKmFromAirport": 47,
+      "description": "Modern 17,000-capacity stadium of AZ Alkmaar with a striking wave-shaped roof, home of one of Dutch football's leading clubs",
+      "distance": 3.5,
+      "URL": "https://www.az.nl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Alkmaar Canal Boat Tour",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "Guided boat tours through Alkmaar's historic canal network offering an unhurried view of the medieval city from the water",
+      "distance": 0.5,
+      "URL": "https://www.visitalkmaar.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Hortus Alkmaar",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "The city's historic botanical garden established in 1646, with medicinal herb collections and peaceful walled garden settings",
+      "distance": 0.7,
+      "URL": "https://www.hortusalkmaar.nl/"
+    },
+    {
+      "rank": 9,
+      "name": "Waaggebouw",
+      "postcode": "1811",
+      "distanceKmFromAirport": 45,
+      "description": "The iconic 14th-century weighhouse at the heart of the cheese market, housing the Cheese Museum and an observation tower",
+      "distance": 0.5,
+      "URL": "https://www.kaasmarkt.nl/en/visit-the-cheese-museum"
+    },
+    {
+      "rank": 10,
+      "name": "Bergen aan Zee Beach",
+      "postcode": "1865",
+      "distanceKmFromAirport": 53,
+      "description": "Stunning North Sea dune coast just 10km from Alkmaar, with wide sandy beaches and the charming artist village of Bergen",
+      "distance": 10.0,
+      "URL": "https://www.visitalkmaar.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Beirut",
+  "country": "Lebanon",
+  "airportPostcode": "1100",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Beirut",
+      "postcode": "1100",
+      "distanceKmFromAirport": 12,
+      "description": "Lebanon's finest archaeological collection spanning Phoenician, Roman and Byzantine eras",
+      "distance": 2.5,
+      "URL": "https://www.national-museum-beirut.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Jeita Grotto",
+      "postcode": "1202",
+      "distanceKmFromAirport": 31,
+      "description": "Spectacular system of interconnected limestone caves with the world's largest stalactite",
+      "distance": 22.0,
+      "URL": "https://www.jeitagrotto.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Downtown Beirut (Central District)",
+      "postcode": "2038",
+      "distanceKmFromAirport": 10,
+      "description": "Restored Ottoman and French Mandate architecture around Martyrs' Square and Nejmeh Square",
+      "distance": 1.0,
+      "URL": "https://www.visitbeirut.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Baalbek Roman Temples",
+      "postcode": "1201",
+      "distanceKmFromAirport": 94,
+      "description": "UNESCO World Heritage largest Roman temples ever built - the Temple of Jupiter is the biggest",
+      "distance": 85.0,
+      "URL": "https://whc.unesco.org/en/list/294/"
+    },
+    {
+      "rank": 5,
+      "name": "Gemmayzeh & Mar Mikhael",
+      "postcode": "2066",
+      "distanceKmFromAirport": 10,
+      "description": "Beirut's most vibrant street art and nightlife neighbourhoods with legendary bar scene",
+      "distance": 1.5,
+      "URL": "https://www.visitbeirut.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Corniche Promenade",
+      "postcode": "2038",
+      "distanceKmFromAirport": 11,
+      "description": "Seaside promenade from Raouche Rocks to the lighthouse, beloved for evening strolls",
+      "distance": 2.0,
+      "URL": "https://www.visitbeirut.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Sursock Museum",
+      "postcode": "1100",
+      "distanceKmFromAirport": 10,
+      "description": "Lebanese contemporary art in a beautifully restored 1912 Italian-style mansion",
+      "distance": 1.5,
+      "URL": "https://www.sursock.museum/"
+    },
+    {
+      "rank": 8,
+      "name": "Byblos (Jbeil)",
+      "postcode": "1300",
+      "distanceKmFromAirport": 49,
+      "description": "UNESCO World Heritage Phoenician city - possibly the oldest continuously inhabited city in the world",
+      "distance": 40.0,
+      "URL": "https://whc.unesco.org/en/list/295/"
+    },
+    {
+      "rank": 9,
+      "name": "Hamra Street",
+      "postcode": "1103",
+      "distanceKmFromAirport": 11,
+      "description": "Beirut's cosmopolitan street with bookshops, cafes and the cultural pulse of West Beirut",
+      "distance": 2.0,
+      "URL": "https://www.visitbeirut.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Mleeta Resistance Tourist Landmark",
+      "postcode": "1601",
+      "distanceKmFromAirport": 69,
+      "description": "Hezbollah museum in the hills showing military equipment from the resistance to Israeli occupation",
+      "distance": 60.0,
+      "URL": "https://www.mleeta.com/"
+    }
+  ]
+}

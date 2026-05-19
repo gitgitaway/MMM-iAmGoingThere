@@ -1,0 +1,98 @@
+{
+  "city": "Berlin",
+  "country": "Germany",
+  "airportPostcode": "12529",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Brandenburg Gate",
+      "postcode": "10117",
+      "distanceKmFromAirport": 35,
+      "description": "Neoclassical monument and symbol of German reunification at the heart of the capital",
+      "distance": 0.1,
+      "URL": "https://www.berlin.de/en/attractions-and-sights/3560965-3104052-brandenburger-tor.en.html"
+    },
+    {
+      "rank": 2,
+      "name": "Holocaust Memorial",
+      "postcode": "10117",
+      "distanceKmFromAirport": 36,
+      "description": "Peter Eisenman's profound 2,711-slab memorial to the murdered Jews of Europe",
+      "distance": 0.5,
+      "URL": "https://www.stiftung-denkmal.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "East Side Gallery",
+      "postcode": "10243",
+      "distanceKmFromAirport": 38,
+      "description": "1.3km stretch of the Berlin Wall covered in murals by international artists",
+      "distance": 3.5,
+      "URL": "https://www.eastsidegallery-berlin.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Reichstag Building",
+      "postcode": "11011",
+      "distanceKmFromAirport": 35,
+      "description": "Seat of the German parliament with Norman Foster's iconic glass dome, free entry",
+      "distance": 0.3,
+      "URL": "https://www.bundestag.de/en/visitthebundestag/dome"
+    },
+    {
+      "rank": 5,
+      "name": "Museum Island",
+      "postcode": "10178",
+      "distanceKmFromAirport": 37,
+      "description": "UNESCO World Heritage island with five world-class museums including the Pergamon",
+      "distance": 1.8,
+      "URL": "https://www.smb.museum/en/museums-institutions/museumsinsel-berlin/"
+    },
+    {
+      "rank": 6,
+      "name": "Checkpoint Charlie",
+      "postcode": "10117",
+      "distanceKmFromAirport": 36,
+      "description": "Famous Cold War crossing point between East and West Berlin",
+      "distance": 1.5,
+      "URL": "https://www.mauermuseum.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Alexanderplatz",
+      "postcode": "10178",
+      "distanceKmFromAirport": 37,
+      "description": "Iconic East Berlin square with the TV Tower offering 360-degree city views",
+      "distance": 1.8,
+      "URL": "https://www.tv-turm.de/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Potsdamer Platz",
+      "postcode": "10785",
+      "distanceKmFromAirport": 36,
+      "description": "Rebuilt hub of reunified Berlin with striking modern architecture and Sony Center",
+      "distance": 1.2,
+      "URL": "https://www.potsdamerplatz.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Tempelhof Field",
+      "postcode": "12101",
+      "distanceKmFromAirport": 38,
+      "description": "Former airport converted to a huge public park and venue for urban sports",
+      "distance": 3.5,
+      "URL": "https://www.tempelhoferfeld.de/"
+    },
+    {
+      "rank": 10,
+      "name": "Charlottenburg Palace",
+      "postcode": "14059",
+      "distanceKmFromAirport": 44,
+      "description": "Prussia's largest palace with Baroque gardens and exceptional art collections",
+      "distance": 8.5,
+      "URL": "https://www.spsg.de/en/palaces-gardens/object/charlottenburg-palace/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Braga",
+  "country": "Portugal",
+  "airportPostcode": "4470-558",
+  "airportDistanceKm": 55,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bom Jesus do Monte",
+      "postcode": "4715",
+      "distanceKmFromAirport": 57,
+      "description": "UNESCO World Heritage baroque hilltop sanctuary reached via a spectacular monumental staircase of 577 steps or a funicular railway",
+      "distance": 5.0,
+      "URL": "https://www.bornjesus.pt/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Braga Cathedral (Sé de Braga)",
+      "postcode": "4700",
+      "distanceKmFromAirport": 55,
+      "description": "Portugal's oldest cathedral founded in 1089 in Romanesque style, with the tomb of Henry of Burgundy and stunning baroque pipe organs",
+      "distance": 0.5,
+      "URL": "https://www.se-braga.pt/"
+    },
+    {
+      "rank": 3,
+      "name": "Theatro Circo",
+      "postcode": "4700",
+      "distanceKmFromAirport": 55,
+      "description": "Magnificent belle époque theatre of 1915 fully restored and hosting world-class concerts, opera and international festivals",
+      "distance": 0.3,
+      "URL": "https://www.theatrocirco.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Museu dos Biscainhos",
+      "postcode": "4700",
+      "distanceKmFromAirport": 55,
+      "description": "Elegant 18th-century baroque palace with Roman archaeological finds, period furniture and a formal garden with azulejo fountains",
+      "distance": 0.6,
+      "URL": "https://www.museu.cm-braga.pt/"
+    },
+    {
+      "rank": 5,
+      "name": "Estádio Municipal de Braga",
+      "postcode": "4715",
+      "distanceKmFromAirport": 57,
+      "description": "One of Europe's most dramatic football stadiums, carved into a quarry face with only two stands and sheer rock behind the goal",
+      "distance": 4.5,
+      "URL": "https://www.scbraga.pt/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Largo Carlos Amarante",
+      "postcode": "4700",
+      "distanceKmFromAirport": 55,
+      "description": "Braga's liveliest square surrounded by baroque architecture and outdoor cafes, perfect for watching city life over a coffee",
+      "distance": 0.4,
+      "URL": "https://www.cm-braga.pt/"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of the Nogueira da Silva",
+      "postcode": "4710",
+      "distanceKmFromAirport": 55,
+      "description": "Decorative arts museum in a neoclassical villa with silver, faience, paintings and furniture from a distinguished private collection",
+      "distance": 1.0,
+      "URL": "https://museusbraga.uminho.pt/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Sameiro Sanctuary",
+      "postcode": "4715",
+      "distanceKmFromAirport": 57,
+      "description": "Neoclassical Marian sanctuary above Braga with sweeping views over the Minho valley and across to the Serra do Gerês mountains",
+      "distance": 5.5,
+      "URL": "https://www.santuariosameiro.pt/"
+    },
+    {
+      "rank": 9,
+      "name": "Rua do Souto",
+      "postcode": "4700",
+      "distanceKmFromAirport": 55,
+      "description": "Braga's main pedestrian shopping street lined with historic facades, jewellers and pastry shops celebrating the city's confectionery heritage",
+      "distance": 0.3,
+      "URL": "https://www.cm-braga.pt/"
+    },
+    {
+      "rank": 10,
+      "name": "Guimarães Day Trip",
+      "postcode": "4810",
+      "distanceKmFromAirport": 70,
+      "description": "UNESCO-listed historic city 25km from Braga, birthplace of the Portuguese nation, with its magnificent medieval castle",
+      "distance": 25.0,
+      "URL": "https://www.guimaraesturismo.com/"
+    }
+  ]
+}

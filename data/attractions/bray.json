@@ -1,0 +1,98 @@
+{
+  "city": "Bray",
+  "country": "Ireland",
+  "airportPostcode": "K67 E5X7",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bray Promenade & Beach",
+      "postcode": "A98 FX88",
+      "distanceKmFromAirport": 22,
+      "description": "Bray's Victorian promenade stretching along a shingle beach below the iconic Bray Head — the classic Irish seaside experience",
+      "distance": 0.5,
+      "URL": "https://www.visitwicklow.ie/"
+    },
+    {
+      "rank": 2,
+      "name": "Bray Head Cliff Walk to Greystones",
+      "postcode": "A98 EC25",
+      "distanceKmFromAirport": 23,
+      "description": "One of Ireland's finest coastal cliff walks — 7km along the cliffs from Bray Head to the pretty harbour village of Greystones",
+      "distance": 1,
+      "URL": "https://www.visitwicklow.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "Killruddery House & Gardens",
+      "postcode": "A98 HR25",
+      "distanceKmFromAirport": 24,
+      "description": "17th-century Brabazon estate with Ireland's oldest landscaped garden featuring a remarkable 17th-century twin canals and beech hedge theatre",
+      "distance": 2,
+      "URL": "https://www.killruddery.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Powerscourt Estate & Gardens (Day Trip)",
+      "postcode": "A98 AX20",
+      "distanceKmFromAirport": 30,
+      "description": "Ireland's finest demesne — magnificent Italianate gardens, Powerscourt Waterfall (Ireland's highest), the Wicklow Mountains backdrop",
+      "distance": 10,
+      "URL": "https://www.powerscourt.com/"
+    },
+    {
+      "rank": 5,
+      "name": "National Sealife Centre Bray",
+      "postcode": "A98 FX88",
+      "distanceKmFromAirport": 22,
+      "description": "Family-friendly aquarium on the seafront with sharks, rays and tropical fish — an entertaining introduction to ocean life",
+      "distance": 0.5,
+      "URL": "https://www.sealife.com/bray/"
+    },
+    {
+      "rank": 6,
+      "name": "Wicklow Mountains National Park (Day Trip)",
+      "postcode": "A98 A098",
+      "distanceKmFromAirport": 40,
+      "description": "Ireland's largest national park — Glendalough's monastic ruins and two glacial lakes set in wild mountain scenery",
+      "distance": 25,
+      "URL": "https://www.wicklowmountainsnationalpark.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Glendalough Monastic Site (Day Trip)",
+      "postcode": "A98 T652",
+      "distanceKmFromAirport": 55,
+      "description": "6th-century monastic settlement founded by St Kevin — two mountain lakes, a round tower and a collection of early medieval churches",
+      "distance": 35,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Ardmore Studios (Film Studios)",
+      "postcode": "A98 EH54",
+      "distanceKmFromAirport": 26,
+      "description": "Ireland's national film studios where Braveheart, My Left Foot and many Hollywood productions were filmed — occasional open events",
+      "distance": 6,
+      "URL": "https://www.ardmore.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Avoca Handweavers (Day Trip)",
+      "postcode": "A67 TX25",
+      "distanceKmFromAirport": 50,
+      "description": "The world's oldest surviving woollen mill in the Avoca valley — famous for distinctive colourful blankets, scarves and knitwear",
+      "distance": 30,
+      "URL": "https://www.avoca.com/"
+    },
+    {
+      "rank": 10,
+      "name": "DART Train to Dublin City (30 min)",
+      "postcode": "D02 Y754",
+      "distanceKmFromAirport": 25,
+      "description": "Bray is the southern terminus of the DART coastal railway — 30 minutes brings you to Dublin city centre, Sandymount and Dalkey",
+      "distance": 0.5,
+      "URL": "https://www.irishrail.ie/"
+    }
+  ]
+}

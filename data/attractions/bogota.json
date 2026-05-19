@@ -1,0 +1,98 @@
+{
+  "city": "Bogota",
+  "country": "Colombia",
+  "airportPostcode": "110931",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gold Museum (Museo del Oro)",
+      "postcode": "110311",
+      "distanceKmFromAirport": 17,
+      "description": "The world's finest pre-Columbian gold collection — 55,000 pieces including the El Dorado ceremonial raft",
+      "distance": 2.0,
+      "URL": "https://www.banrepcultural.org/bogota/museo-del-oro"
+    },
+    {
+      "rank": 2,
+      "name": "Monserrate Sanctuary",
+      "postcode": "111011",
+      "distanceKmFromAirport": 19,
+      "description": "3,152-metre hilltop shrine above Bogotá — cable car or funicular with panoramic city views",
+      "distance": 4.0,
+      "URL": "https://www.cerromonserrate.com/"
+    },
+    {
+      "rank": 3,
+      "name": "La Candelaria Historic Centre",
+      "postcode": "111611",
+      "distanceKmFromAirport": 16,
+      "description": "Colonial quarter of cobbled streets, street art, emerald sellers and the historic Primatial Cathedral",
+      "distance": 1.5,
+      "URL": "https://www.bogota.gov.co/"
+    },
+    {
+      "rank": 4,
+      "name": "Ciclovía Sunday",
+      "postcode": "110311",
+      "distanceKmFromAirport": 17,
+      "description": "Every Sunday 121 km of roads close to cars — millions of Bogotans cycle, skate and jog through the city",
+      "distance": 2.0,
+      "URL": "https://www.bogota.gov.co/"
+    },
+    {
+      "rank": 5,
+      "name": "Coffee Region (Eje Cafetero)",
+      "postcode": "660001",
+      "distanceKmFromAirport": 255,
+      "description": "UNESCO World Heritage coffee landscape — jeep tours through the wax palm valleys and coffee farm visits",
+      "distance": 240.0,
+      "URL": "https://www.colombia.travel/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Botero Museum",
+      "postcode": "111611",
+      "distanceKmFromAirport": 16,
+      "description": "Free museum of Fernando Botero's famously rounded figures — also houses his impressive Impressionist collection",
+      "distance": 1.5,
+      "URL": "https://www.banrepcultural.org/bogota/museo-botero"
+    },
+    {
+      "rank": 7,
+      "name": "Usaquén Flea Market",
+      "postcode": "110121",
+      "distanceKmFromAirport": 27,
+      "description": "Sunday artisan market in the cobblestone colonial neighbourhood of Usaquén — antiques, food and live music",
+      "distance": 12.0,
+      "URL": "https://www.bogota.gov.co/"
+    },
+    {
+      "rank": 8,
+      "name": "Salt Cathedral of Zipaquirá",
+      "postcode": "250251",
+      "distanceKmFromAirport": 65,
+      "description": "Underground cathedral carved inside an active salt mine — one of the most spectacular churches in the world",
+      "distance": 50.0,
+      "URL": "https://catedraldesal.gov.co/"
+    },
+    {
+      "rank": 9,
+      "name": "Andrés Carne de Res",
+      "postcode": "250040",
+      "distanceKmFromAirport": 40,
+      "description": "Colombia's most famous restaurant and nightclub — a mind-blowing sensory experience in the town of Chía",
+      "distance": 25.0,
+      "URL": "https://www.andrescarnederes.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Paloquemao Flower Market",
+      "postcode": "111021",
+      "distanceKmFromAirport": 18,
+      "description": "Daily wholesale flower market — Colombia is the world's second largest flower exporter and the colours are extraordinary",
+      "distance": 3.0,
+      "URL": "https://www.bogota.gov.co/"
+    }
+  ]
+}

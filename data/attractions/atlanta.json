@@ -1,0 +1,98 @@
+{
+  "city": "Atlanta",
+  "country": "USA",
+  "airportPostcode": "30337",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Georgia Aquarium",
+      "postcode": "30313",
+      "distanceKmFromAirport": 16,
+      "description": "One of the world's largest aquariums with whale sharks",
+      "distance": 1.0,
+      "URL": "https://www.georgiaaquarium.org/"
+    },
+    {
+      "rank": 2,
+      "name": "World of Coca-Cola",
+      "postcode": "30313",
+      "distanceKmFromAirport": 16,
+      "description": "Interactive museum dedicated to the world's most famous beverage",
+      "distance": 1.0,
+      "URL": "https://www.worldofcoca-cola.com/"
+    },
+    {
+      "rank": 3,
+      "name": "National Center for Civil and Human Rights",
+      "postcode": "30313",
+      "distanceKmFromAirport": 16,
+      "description": "Powerful museum on the US civil rights movement",
+      "distance": 1.2,
+      "URL": "https://www.civilandhumanrights.org/"
+    },
+    {
+      "rank": 4,
+      "name": "MLK Jr. National Historic Site",
+      "postcode": "30312",
+      "distanceKmFromAirport": 18,
+      "description": "Birthplace, church and tomb of Dr. Martin Luther King Jr.",
+      "distance": 2.5,
+      "URL": "https://www.nps.gov/malu/index.htm"
+    },
+    {
+      "rank": 5,
+      "name": "Piedmont Park",
+      "postcode": "30309",
+      "distanceKmFromAirport": 18,
+      "description": "185-acre urban park with stunning skyline views",
+      "distance": 3.5,
+      "URL": "https://www.piedmontpark.org/"
+    },
+    {
+      "rank": 6,
+      "name": "High Museum of Art",
+      "postcode": "30309",
+      "distanceKmFromAirport": 18,
+      "description": "The American Southeast's leading art museum",
+      "distance": 3.5,
+      "URL": "https://www.high.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Atlanta BeltLine",
+      "postcode": "30316",
+      "distanceKmFromAirport": 19,
+      "description": "Award-winning urban trail system connecting 45 neighbourhoods",
+      "distance": 4.0,
+      "URL": "https://beltline.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Centennial Olympic Park",
+      "postcode": "30313",
+      "distanceKmFromAirport": 16,
+      "description": "22-acre park built for the 1996 Summer Olympics",
+      "distance": 1.0,
+      "URL": "https://www.gwcca.org/centennial-olympic-park"
+    },
+    {
+      "rank": 9,
+      "name": "Zoo Atlanta",
+      "postcode": "30315",
+      "distanceKmFromAirport": 18,
+      "description": "Home to giant pandas and rare Sumatran orangutans",
+      "distance": 3.5,
+      "URL": "https://zooatlanta.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Stone Mountain Park",
+      "postcode": "30083",
+      "distanceKmFromAirport": 39,
+      "description": "Massive granite dome with laser shows and walking trails",
+      "distance": 24.0,
+      "URL": "https://stonemountainpark.com/"
+    }
+  ]
+}

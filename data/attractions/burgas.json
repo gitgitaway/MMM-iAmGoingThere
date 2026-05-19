@@ -1,0 +1,98 @@
+{
+  "city": "Burgas",
+  "country": "Bulgaria",
+  "airportPostcode": "8025",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Burgas Lakes",
+      "postcode": "8010",
+      "distanceKmFromAirport": 12,
+      "description": "Four interconnected lakes - a Ramsar wetland site with flamingos and rare bird species",
+      "distance": 1.5,
+      "URL": "https://www.burgasmuzeumi.bg/"
+    },
+    {
+      "rank": 2,
+      "name": "Sea Garden (Morska Gradina)",
+      "postcode": "8000",
+      "distanceKmFromAirport": 11,
+      "description": "Beautiful park along the coast with aquarium, open-air theatre and beach access",
+      "distance": 0.8,
+      "URL": "https://www.burgas.bg/"
+    },
+    {
+      "rank": 3,
+      "name": "Nesebar Old Town",
+      "postcode": "8230",
+      "distanceKmFromAirport": 45,
+      "description": "UNESCO World Heritage ancient city on a peninsula with Byzantine churches",
+      "distance": 35.0,
+      "URL": "https://www.nesebar.bg/"
+    },
+    {
+      "rank": 4,
+      "name": "Sozopol",
+      "postcode": "8130",
+      "distanceKmFromAirport": 40,
+      "description": "Charming Black Sea resort town with wooden houses and ancient Apollonia heritage",
+      "distance": 30.0,
+      "URL": "https://www.sozopol.bg/"
+    },
+    {
+      "rank": 5,
+      "name": "Burgas Archaeological Museum",
+      "postcode": "8000",
+      "distanceKmFromAirport": 10,
+      "description": "Fine collection of Thracian and Greek artefacts from the region",
+      "distance": 0.5,
+      "URL": "https://www.burgasmuzeumi.bg/"
+    },
+    {
+      "rank": 6,
+      "name": "Burgas Art Gallery",
+      "postcode": "8000",
+      "distanceKmFromAirport": 10,
+      "description": "Regional art gallery with Bulgarian paintings from the 19th century onwards",
+      "distance": 0.5,
+      "URL": "https://www.burgas.bg/"
+    },
+    {
+      "rank": 7,
+      "name": "St Anastasia Island",
+      "postcode": "8001",
+      "distanceKmFromAirport": 14,
+      "description": "Small Black Sea island with a monastery, lighthouse and summer restaurant",
+      "distance": 4.0,
+      "URL": "https://ostrov-anastasia.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Ethnographic Museum",
+      "postcode": "8000",
+      "distanceKmFromAirport": 10,
+      "description": "Traditional Bulgarian crafts and costumes in a 19th-century house",
+      "distance": 0.5,
+      "URL": "https://www.burgasmuzeumi.bg/"
+    },
+    {
+      "rank": 9,
+      "name": "Pomorie Salt Museum",
+      "postcode": "8200",
+      "distanceKmFromAirport": 30,
+      "description": "Unique open-air museum at Europe's oldest working salt pans",
+      "distance": 20.0,
+      "URL": "https://www.muzeysolnica.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Primorsko Beach",
+      "postcode": "8291",
+      "distanceKmFromAirport": 58,
+      "description": "Pristine sandy beach at a nature reserve south of Burgas",
+      "distance": 48.0,
+      "URL": "https://www.bulgariatravel.org/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Bergamo",
+  "country": "Italy",
+  "airportPostcode": "24052",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Citta Alta (Upper City)",
+      "postcode": "24129",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO World Heritage medieval hilltop city enclosed by Venetian walls",
+      "distance": 3.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Venetian Walls",
+      "postcode": "24129",
+      "distanceKmFromAirport": 8,
+      "description": "16th-century UNESCO-listed walls encircling the upper city with walking path and views",
+      "distance": 3.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Piazza Vecchia",
+      "postcode": "24129",
+      "distanceKmFromAirport": 8,
+      "description": "Stunning central square of the upper city called the most beautiful square in Italy by Le Corbusier",
+      "distance": 3.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Basilica di Santa Maria Maggiore",
+      "postcode": "24129",
+      "distanceKmFromAirport": 8,
+      "description": "Romanesque basilica with extraordinary Baroque interior and Donizetti's tomb",
+      "distance": 3.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Carrara Academy",
+      "postcode": "24121",
+      "distanceKmFromAirport": 8,
+      "description": "Outstanding art collection with Raphael, Botticelli and Mantegna",
+      "distance": 2.5,
+      "URL": "https://www.lacarrara.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Colleoni Chapel",
+      "postcode": "24129",
+      "distanceKmFromAirport": 8,
+      "description": "Flamboyant Renaissance mausoleum of condottiere Bartolomeo Colleoni",
+      "distance": 3.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Funicular Railway",
+      "postcode": "24121",
+      "distanceKmFromAirport": 8,
+      "description": "Two funicular lines connecting the lower and upper cities",
+      "distance": 2.5,
+      "URL": "https://www.atb.bergamo.it/"
+    },
+    {
+      "rank": 8,
+      "name": "Donizetti Museum",
+      "postcode": "24129",
+      "distanceKmFromAirport": 8,
+      "description": "Birthplace museum of opera composer Gaetano Donizetti with scores and memorabilia",
+      "distance": 3.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Citta Bassa (Lower City)",
+      "postcode": "24121",
+      "distanceKmFromAirport": 6,
+      "description": "Elegant early 20th-century lower city with Piazza Matteotti and Via XX Settembre",
+      "distance": 1.0,
+      "URL": "https://www.visitbergamo.net/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Castel San Vigilio",
+      "postcode": "24129",
+      "distanceKmFromAirport": 10,
+      "description": "14th-century hilltop castle above the upper city with stunning panoramic views",
+      "distance": 4.5,
+      "URL": "https://www.visitbergamo.net/en/"
+    }
+  ]
+}

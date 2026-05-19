@@ -1,0 +1,98 @@
+{
+  "city": "Boston",
+  "country": "USA",
+  "airportPostcode": "02128",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Freedom Trail",
+      "postcode": "02108",
+      "distanceKmFromAirport": 9,
+      "description": "2.5-mile walking tour linking 16 Revolutionary-era sites from Boston Common to Bunker Hill",
+      "distance": 0.5,
+      "URL": "https://www.thefreedomtrail.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Fenway Park Tour",
+      "postcode": "02215",
+      "distanceKmFromAirport": 8,
+      "description": "Baseball's oldest active park (1912), home of the Red Sox – tours run daily year-round",
+      "distance": 3.2,
+      "URL": "https://www.mlb.com/redsox/ballpark"
+    },
+    {
+      "rank": 3,
+      "name": "Harvard & MIT Campus Walk",
+      "postcode": "02138",
+      "distanceKmFromAirport": 9,
+      "description": "Stroll the storied Ivy League & tech campuses in Cambridge, just one T-stop away",
+      "distance": 5.0,
+      "URL": "https://www.harvard.edu/"
+    },
+    {
+      "rank": 4,
+      "name": "Boston Tea Party Ships & Museum",
+      "postcode": "02127",
+      "distanceKmFromAirport": 10,
+      "description": "Fully immersive re-enactment of the 1773 protest on Griffin's Wharf",
+      "distance": 1.2,
+      "URL": "https://www.bostonteapartyship.com/"
+    },
+    {
+      "rank": 5,
+      "name": "New England Aquarium",
+      "postcode": "02110",
+      "distanceKmFromAirport": 10,
+      "description": "Giant four-storey ocean tank, daily shark feedings and penguin colony on the waterfront",
+      "distance": 1.0,
+      "URL": "https://www.neaq.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Quincy Market & Faneuil Hall",
+      "postcode": "02109",
+      "distanceKmFromAirport": 10,
+      "description": "1742 marketplace packed with food stalls, street performers and live music every evening",
+      "distance": 0.8,
+      "URL": "https://www.faneuilhallmarketplace.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of Fine Arts",
+      "postcode": "02115",
+      "distanceKmFromAirport": 9,
+      "description": "One of the largest art museums in the USA – 450,000 works from ancient Egypt to today",
+      "distance": 4.0,
+      "URL": "https://www.mfa.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Salem Witch Trials Day Trip",
+      "postcode": "01970",
+      "distanceKmFromAirport": 32,
+      "description": "30-minute train ride to Salem – haunted history, Peabody Essex Museum and excellent seafood",
+      "distance": 32.0,
+      "URL": "https://www.salem.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Isabella Stewart Gardner Museum",
+      "postcode": "02115",
+      "distanceKmFromAirport": 9,
+      "description": "Personal art collection displayed in a stunning Venetian palazzo with a flower-filled courtyard",
+      "distance": 3.8,
+      "URL": "https://www.gardnermuseum.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Cape Cod Weekend Excursion",
+      "postcode": "02601",
+      "distanceKmFromAirport": 100,
+      "description": "Rent a car for a classic New England road trip: beaches, lobster shacks and lighthouses",
+      "distance": 100.0,
+      "URL": "https://www.capecodchamber.org/"
+    }
+  ]
+}

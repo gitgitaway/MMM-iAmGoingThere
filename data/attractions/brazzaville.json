@@ -1,0 +1,98 @@
+{
+  "city": "Brazzaville",
+  "country": "Republic of Congo",
+  "airportPostcode": "BP 2075",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Basilique Sainte-Anne du Congo",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 7,
+      "description": "Striking 1949 colonial basilica with a pyramid-like facade built of red bricks",
+      "distance": 3.0,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 2,
+      "name": "Poto-Poto Painting School",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 8,
+      "description": "Legendary 1951 African art school that launched the Poto-Poto style of painting",
+      "distance": 4.0,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 3,
+      "name": "Brazzaville – Kinshasa Ferry",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 6,
+      "description": "Cross the Congo River to Kinshasa - the two closest capital cities in the world",
+      "distance": 2.0,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 4,
+      "name": "Marché Total (Total Market)",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 6,
+      "description": "Brazzaville's main market with extraordinary Central African textiles and handicrafts",
+      "distance": 2.5,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 5,
+      "name": "Musee National des Arts et Traditions du Congo",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 7,
+      "description": "Traditional Kongo, Teke and Mbochi art, masks and musical instruments",
+      "distance": 3.0,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 6,
+      "name": "Corniche Riverside Walk",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 5,
+      "description": "Scenic walk along the Congo River with views of Kinshasa's skyline",
+      "distance": 1.0,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 7,
+      "name": "Centre Culturel Francais (Institut Francais)",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 6,
+      "description": "Active arts and performance venue - check for concerts and exhibitions",
+      "distance": 2.0,
+      "URL": "https://www.institutfrancais.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Lesio-Louna Gorilla Reserve",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 154,
+      "description": "Rescued western lowland gorillas in a forest reserve north of the city",
+      "distance": 150.0,
+      "URL": "https://www.africaparks.org/the-parks/lesio-louna/"
+    },
+    {
+      "rank": 9,
+      "name": "La Corniche Night Life",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 5,
+      "description": "Vibrant nightlife strip along the Congo riverbank - rumba music capital of Central Africa",
+      "distance": 1.0,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    },
+    {
+      "rank": 10,
+      "name": "Saka-Saka (Cassava Leaves)",
+      "postcode": "BP 2075",
+      "distanceKmFromAirport": 4,
+      "description": "National dish of pounded cassava leaves slow-cooked with smoked fish and palm oil",
+      "distance": 0.5,
+      "URL": "https://www.lonelyplanet.com/republic-of-congo/brazzaville"
+    }
+  ]
+}

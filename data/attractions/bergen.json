@@ -1,0 +1,98 @@
+{
+  "city": "Bergen",
+  "country": "Norway",
+  "airportPostcode": "5258",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bryggen Wharf",
+      "postcode": "5003",
+      "distanceKmFromAirport": 17,
+      "description": "UNESCO World Heritage row of Hanseatic timber buildings on the harbour front",
+      "distance": 0.3,
+      "URL": "https://www.bryggen.no/"
+    },
+    {
+      "rank": 2,
+      "name": "Floibanen Funicular",
+      "postcode": "5014",
+      "distanceKmFromAirport": 18,
+      "description": "Funicular to Mount Floyen at 320m with panoramic views and forest walks",
+      "distance": 0.8,
+      "URL": "https://www.floibanen.no/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Fish Market (Fisketorget)",
+      "postcode": "5014",
+      "distanceKmFromAirport": 17,
+      "description": "Bustling outdoor market with fresh Norwegian seafood and local produce",
+      "distance": 0.4,
+      "URL": "https://www.visitbergen.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Bergenhus Fortress",
+      "postcode": "5003",
+      "distanceKmFromAirport": 18,
+      "description": "One of Norway's oldest and best-preserved medieval fortresses from the 13th century",
+      "distance": 0.5,
+      "URL": "https://www.visitbergen.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "KODE Art Museums",
+      "postcode": "5015",
+      "distanceKmFromAirport": 18,
+      "description": "Four museums with outstanding art by Munch, Picasso, Monet and Norwegian masters",
+      "distance": 0.6,
+      "URL": "https://www.kodebergen.no/en"
+    },
+    {
+      "rank": 6,
+      "name": "Hanseatic Museum",
+      "postcode": "5003",
+      "distanceKmFromAirport": 17,
+      "description": "Authentic 14th-century Bryggen merchant house preserved as a living history museum",
+      "distance": 0.4,
+      "URL": "https://www.bymuseet.no/en/museums/the-hanseatic-museum-and-schøtstuene/"
+    },
+    {
+      "rank": 7,
+      "name": "Ulriken Mountain",
+      "postcode": "5009",
+      "distanceKmFromAirport": 20,
+      "description": "Bergen's highest mountain at 643m, accessible by cable car with spectacular views",
+      "distance": 3.5,
+      "URL": "https://ulriken643.no/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Edvard Grieg Museum (Troldhaugen)",
+      "postcode": "5232",
+      "distanceKmFromAirport": 25,
+      "description": "Home and studio of composer Edvard Grieg with regular summer concerts",
+      "distance": 8.0,
+      "URL": "https://griegmuseum.no/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Gamle Bergen Museum",
+      "postcode": "5005",
+      "distanceKmFromAirport": 20,
+      "description": "Open-air museum of 55 wooden buildings recreating 18th and 19th-century Bergen",
+      "distance": 3.0,
+      "URL": "https://www.bymuseet.no/en/museums/old-bergen-museum/"
+    },
+    {
+      "rank": 10,
+      "name": "Fjord Cruises to Sognefjord",
+      "postcode": "5700",
+      "distanceKmFromAirport": 167,
+      "description": "Day trips to the world's deepest fjord and the spectacular Naeroyfjord UNESCO site",
+      "distance": 150.0,
+      "URL": "https://www.fjordtours.com/"
+    }
+  ]
+}

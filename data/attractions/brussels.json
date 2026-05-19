@@ -1,0 +1,98 @@
+{
+  "city": "Brussels",
+  "country": "Belgium",
+  "airportPostcode": "1930",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Grand Place",
+      "postcode": "1000",
+      "distanceKmFromAirport": 14,
+      "description": "UNESCO World Heritage medieval square, one of Europe's most beautiful, with gilded guild houses",
+      "distance": 0.1,
+      "URL": "https://www.brussels.be/grand-place"
+    },
+    {
+      "rank": 2,
+      "name": "Atomium",
+      "postcode": "1020",
+      "distanceKmFromAirport": 23,
+      "description": "Iconic 102-metre structure built for Expo 58 with nine interconnected spheres and panoramic views",
+      "distance": 9.0,
+      "URL": "https://atomium.be/"
+    },
+    {
+      "rank": 3,
+      "name": "Manneken Pis",
+      "postcode": "1000",
+      "distanceKmFromAirport": 14,
+      "description": "Brussels's beloved and irreverent 17th-century bronze statue with hundreds of costumes",
+      "distance": 0.3,
+      "URL": "https://www.brussels.be/manneken-pis"
+    },
+    {
+      "rank": 4,
+      "name": "Royal Museums of Fine Arts",
+      "postcode": "1000",
+      "distanceKmFromAirport": 15,
+      "description": "Outstanding collection of Belgian and international art including Bruegel and Magritte",
+      "distance": 0.8,
+      "URL": "https://www.fine-arts-museum.be/en"
+    },
+    {
+      "rank": 5,
+      "name": "Musee Magritte",
+      "postcode": "1000",
+      "distanceKmFromAirport": 15,
+      "description": "World's largest collection of works by Surrealist painter Rene Magritte",
+      "distance": 0.8,
+      "URL": "https://www.magritte.be/"
+    },
+    {
+      "rank": 6,
+      "name": "European Quarter",
+      "postcode": "1040",
+      "distanceKmFromAirport": 16,
+      "description": "Heart of the European Union with the European Parliament and Council buildings",
+      "distance": 2.5,
+      "URL": "https://www.europarl.europa.eu/visiting/en/brussels"
+    },
+    {
+      "rank": 7,
+      "name": "Galeries Royales Saint-Hubert",
+      "postcode": "1000",
+      "distanceKmFromAirport": 14,
+      "description": "Europe's oldest covered shopping arcade from 1847 with chocolatiers and boutiques",
+      "distance": 0.2,
+      "URL": "https://www.grsh.be/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Belgian Chocolate & Beer",
+      "postcode": "1000",
+      "distanceKmFromAirport": 14,
+      "description": "Tasting tours of Belgium's world-famous chocolate makers and Trappist breweries",
+      "distance": 0.5,
+      "URL": "https://www.brussels.be/chocolate-beer"
+    },
+    {
+      "rank": 9,
+      "name": "Cinquantenaire Park & Museums",
+      "postcode": "1040",
+      "distanceKmFromAirport": 16,
+      "description": "Grand triumphal arch with art and military history museums in a magnificent park",
+      "distance": 2.5,
+      "URL": "https://www.kmkg-mrah.be/en"
+    },
+    {
+      "rank": 10,
+      "name": "Mini-Europe",
+      "postcode": "1020",
+      "distanceKmFromAirport": 23,
+      "description": "1:25 scale reproductions of 350 famous European monuments next to the Atomium",
+      "distance": 9.0,
+      "URL": "https://www.minieurope.com/"
+    }
+  ]
+}

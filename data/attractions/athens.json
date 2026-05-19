@@ -1,0 +1,98 @@
+{
+  "city": "Athens",
+  "country": "Greece",
+  "airportPostcode": "190 04",
+  "airportDistanceKm": 37,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Acropolis & Parthenon",
+      "postcode": "105 58",
+      "distanceKmFromAirport": 38,
+      "description": "UNESCO World Heritage hilltop citadel with the 2,500-year-old Parthenon temple",
+      "distance": 0.8,
+      "URL": "https://www.theacropolismuseum.gr/"
+    },
+    {
+      "rank": 2,
+      "name": "Acropolis Museum",
+      "postcode": "117 42",
+      "distanceKmFromAirport": 38,
+      "description": "World-class museum displaying the Parthenon sculptures with views up to the rock",
+      "distance": 0.9,
+      "URL": "https://www.theacropolismuseum.gr/"
+    },
+    {
+      "rank": 3,
+      "name": "National Archaeological Museum",
+      "postcode": "106 82",
+      "distanceKmFromAirport": 39,
+      "description": "World's finest collection of ancient Greek art including the Antikythera Mechanism",
+      "distance": 1.8,
+      "URL": "https://www.namuseum.gr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Ancient Agora",
+      "postcode": "105 55",
+      "distanceKmFromAirport": 38,
+      "description": "Ancient marketplace with the remarkably preserved Temple of Hephaestus",
+      "distance": 0.9,
+      "URL": "https://www.agathe.gr/"
+    },
+    {
+      "rank": 5,
+      "name": "Monastiraki",
+      "postcode": "105 55",
+      "distanceKmFromAirport": 38,
+      "description": "Vibrant flea market district at the foot of the Acropolis with cafes and bazaars",
+      "distance": 0.7,
+      "URL": "https://www.visitgreece.gr/experiences/culture/monastiraki/"
+    },
+    {
+      "rank": 6,
+      "name": "Plaka",
+      "postcode": "105 57",
+      "distanceKmFromAirport": 38,
+      "description": "Charming old neighbourhood of neoclassical houses at the base of the Acropolis",
+      "distance": 0.6,
+      "URL": "https://www.visitgreece.gr/experiences/culture/plaka/"
+    },
+    {
+      "rank": 7,
+      "name": "Temple of Olympian Zeus",
+      "postcode": "105 57",
+      "distanceKmFromAirport": 38,
+      "description": "Colossal ruins of the ancient world's largest temple, begun in 515 BC",
+      "distance": 1.2,
+      "URL": "https://www.visitgreece.gr/experiences/culture/temple-of-olympian-zeus/"
+    },
+    {
+      "rank": 8,
+      "name": "Syntagma Square",
+      "postcode": "105 57",
+      "distanceKmFromAirport": 37,
+      "description": "Central square with the Parliament and the Changing of the Evzone Guards ceremony",
+      "distance": 0.1,
+      "URL": "https://www.visitathens.gr/discover/neighborhoods/center/syntagma/"
+    },
+    {
+      "rank": 9,
+      "name": "Panathenaic Stadium",
+      "postcode": "116 36",
+      "distanceKmFromAirport": 38,
+      "description": "Marble stadium that hosted the first modern Olympic Games in 1896",
+      "distance": 1.5,
+      "URL": "https://www.panathenaicstadium.gr/en"
+    },
+    {
+      "rank": 10,
+      "name": "Cape Sounion & Temple of Poseidon",
+      "postcode": "195 00",
+      "distanceKmFromAirport": 102,
+      "description": "Dramatic clifftop temple at the southernmost tip of Attica with Aegean Sea views",
+      "distance": 65.0,
+      "URL": "https://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2442"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Bissau",
+  "country": "Guinea-Bissau",
+  "airportPostcode": "1000",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bijagos Archipelago UNESCO Reserve",
+      "postcode": "1000",
+      "distanceKmFromAirport": 62,
+      "description": "UNESCO Biosphere Reserve of 88 islands with the last pristine West African coastal ecosystem",
+      "distance": 50.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau"
+    },
+    {
+      "rank": 2,
+      "name": "Fortaleza d'Amura (Portuguese Fort)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "18th-century Portuguese fort in the centre of Bissau",
+      "distance": 1.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau/bissau"
+    },
+    {
+      "rank": 3,
+      "name": "Bissau Old Town (Bissau Velho)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "Portuguese colonial quarter with a spectacular ruined presidential palace",
+      "distance": 1.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau/bissau"
+    },
+    {
+      "rank": 4,
+      "name": "Central Market (Mercado de Bandim)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 14,
+      "description": "Vibrant market with kola nuts, cashews and traditional Mandinga and Balanta crafts",
+      "distance": 2.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau/bissau"
+    },
+    {
+      "rank": 5,
+      "name": "Parque Nacional das Lagoas de Cufada",
+      "postcode": "1000",
+      "distanceKmFromAirport": 92,
+      "description": "West Africa's most important hippo habitat in pristine coastal lagoons",
+      "distance": 80.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau"
+    },
+    {
+      "rank": 6,
+      "name": "Rubane Island (Bijagos)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 72,
+      "description": "Ferry to the most beautiful of the Bijagos Islands with sea turtles and manatees",
+      "distance": 60.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau"
+    },
+    {
+      "rank": 7,
+      "name": "Cacheu Fort (Cacheu Town)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 97,
+      "description": "15th-century Portuguese fort in the oldest European town on mainland West Africa",
+      "distance": 85.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau"
+    },
+    {
+      "rank": 8,
+      "name": "Bafata Town Day Trip",
+      "postcode": "1000",
+      "distanceKmFromAirport": 192,
+      "description": "Interior market town with Fula and Mandinga culture",
+      "distance": 180.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau"
+    },
+    {
+      "rank": 9,
+      "name": "Pelican Island Bird Sanctuary",
+      "postcode": "1000",
+      "distanceKmFromAirport": 62,
+      "description": "Bird Island in Bijagos with pelicans, flamingos and rare coastal birds",
+      "distance": 50.0,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau"
+    },
+    {
+      "rank": 10,
+      "name": "Caldo de Mancarra (Groundnut Soup)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 12,
+      "description": "Guinea-Bissau's signature dish - rich groundnut and palm oil soup with chicken or fish",
+      "distance": 0.5,
+      "URL": "https://www.lonelyplanet.com/guinea-bissau/bissau"
+    }
+  ]
+}

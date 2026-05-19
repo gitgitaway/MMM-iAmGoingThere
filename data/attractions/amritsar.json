@@ -1,0 +1,98 @@
+{
+  "city": "Amritsar",
+  "country": "India",
+  "airportPostcode": "143001",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Golden Temple (Harmandir Sahib)",
+      "postcode": "143006",
+      "distanceKmFromAirport": 12,
+      "description": "Sikhism's most sacred shrine - gold-plated temple on a sacred lake open 24 hours",
+      "distance": 1.0,
+      "URL": "https://www.goldentempleamritsar.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Langar (Golden Temple Free Kitchen)",
+      "postcode": "143006",
+      "distanceKmFromAirport": 12,
+      "description": "World's largest free community kitchen serving 100,000 people daily - volunteer and eat",
+      "distance": 1.0,
+      "URL": "https://www.goldentempleamritsar.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Wagah Border Ceremony",
+      "postcode": "143107",
+      "distanceKmFromAirport": 39,
+      "description": "Theatrical flag-lowering ceremony at the India-Pakistan border every sunset",
+      "distance": 28.0,
+      "URL": "https://www.incredibleindia.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Jallianwala Bagh Memorial",
+      "postcode": "143006",
+      "distanceKmFromAirport": 12,
+      "description": "Garden where British troops massacred 379 unarmed civilians in 1919 - bullet holes remain",
+      "distance": 1.0,
+      "URL": "https://www.jallianwalabagh.org.in/"
+    },
+    {
+      "rank": 5,
+      "name": "Partition Museum",
+      "postcode": "143001",
+      "distanceKmFromAirport": 12,
+      "description": "World's first museum dedicated to the 1947 India-Pakistan Partition",
+      "distance": 0.8,
+      "URL": "https://www.partitionmuseum.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Durgiana Temple",
+      "postcode": "143001",
+      "distanceKmFromAirport": 13,
+      "description": "Hindu temple on a sacred lake modelled on the Golden Temple",
+      "distance": 2.0,
+      "URL": "https://www.incredibleindia.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Ram Bagh Garden & Museum",
+      "postcode": "143001",
+      "distanceKmFromAirport": 12,
+      "description": "Summer palace and gardens of Maharaja Ranjit Singh with his weapons",
+      "distance": 1.5,
+      "URL": "https://www.incredibleindia.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Old City Heritage Walk",
+      "postcode": "143006",
+      "distanceKmFromAirport": 12,
+      "description": "Narrow lanes of the walled city with textile merchants and haveli architecture",
+      "distance": 1.2,
+      "URL": "https://www.incredibleindia.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Akal Takht (Throne of the Timeless)",
+      "postcode": "143006",
+      "distanceKmFromAirport": 12,
+      "description": "Seat of temporal authority of the Sikh religion opposite the Golden Temple",
+      "distance": 1.0,
+      "URL": "https://www.goldentempleamritsar.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Amritsari Kulcha & Lassi at Kesar da Dhaba",
+      "postcode": "143001",
+      "distanceKmFromAirport": 12,
+      "description": "Stuffed bread baked in a tandoor with chickpea curry and a tall glass of sweet lassi",
+      "distance": 0.5,
+      "URL": "https://www.incredibleindia.org/"
+    }
+  ]
+}

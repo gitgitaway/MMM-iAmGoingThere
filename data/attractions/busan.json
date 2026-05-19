@@ -1,0 +1,98 @@
+{
+  "city": "Busan",
+  "country": "South Korea",
+  "airportPostcode": "47050",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Haeundae Beach",
+      "postcode": "48094",
+      "distanceKmFromAirport": 40,
+      "description": "Korea's most popular beach — 1.8-km arc of white sand backed by skyscrapers and beach clubs",
+      "distance": 15.0,
+      "URL": "https://www.visitbusan.net/"
+    },
+    {
+      "rank": 2,
+      "name": "Haedong Yonggungsa Temple",
+      "postcode": "46057",
+      "distanceKmFromAirport": 45,
+      "description": "Spectacular coastal Buddhist temple built on rocky cliffs overlooking the East Sea — Korea's most photogenic",
+      "distance": 20.0,
+      "URL": "https://www.yongkungsa.or.kr/"
+    },
+    {
+      "rank": 3,
+      "name": "Jagalchi Fish Market",
+      "postcode": "48931",
+      "distanceKmFromAirport": 28,
+      "description": "Korea's largest seafood market — pick your live fish, have it cooked upstairs for a fresh-as-it-gets meal",
+      "distance": 3.5,
+      "URL": "https://www.visitbusan.net/"
+    },
+    {
+      "rank": 4,
+      "name": "Gamcheon Culture Village",
+      "postcode": "49132",
+      "distanceKmFromAirport": 31,
+      "description": "Busan's hillside rainbow village — colourful houses with murals, art installations and quirky cafes",
+      "distance": 6.0,
+      "URL": "https://www.visitbusan.net/"
+    },
+    {
+      "rank": 5,
+      "name": "Beomeosa Temple",
+      "postcode": "46212",
+      "distanceKmFromAirport": 45,
+      "description": "1,300-year-old Buddhist mountain temple at the foot of Geumjeongsan — peaceful forest hiking trails",
+      "distance": 20.0,
+      "URL": "https://www.beomeosa.co.kr/en/"
+    },
+    {
+      "rank": 6,
+      "name": "BIFF Square & Nampodong",
+      "postcode": "48931",
+      "distanceKmFromAirport": 28,
+      "description": "Busan International Film Festival's home street — handprints of Korean cinema legends and street food",
+      "distance": 3.5,
+      "URL": "https://www.visitbusan.net/"
+    },
+    {
+      "rank": 7,
+      "name": "Taejongdae Resort Park",
+      "postcode": "49119",
+      "distanceKmFromAirport": 36,
+      "description": "Dramatic cliff walk on the south tip of Yeongdo Island with rocky coves, lighthouse and migratory birds",
+      "distance": 11.0,
+      "URL": "https://www.bisco.or.kr/taejongdae/"
+    },
+    {
+      "rank": 8,
+      "name": "Gwangalli Beach & Diamond Bridge",
+      "postcode": "48313",
+      "distanceKmFromAirport": 37,
+      "description": "Busan's nightlife beach — Gwangan Bridge lights up spectacularly at night, with bars and restaurants along the shore",
+      "distance": 12.0,
+      "URL": "https://www.visitbusan.net/"
+    },
+    {
+      "rank": 9,
+      "name": "Busan Museum of Art",
+      "postcode": "48100",
+      "distanceKmFromAirport": 40,
+      "description": "Major contemporary art museum in Centum City — diverse collection of Korean and international modern art",
+      "distance": 15.0,
+      "URL": "https://art.busan.go.kr/eng/"
+    },
+    {
+      "rank": 10,
+      "name": "Shinsegae Centum City (World's Largest Dept Store)",
+      "postcode": "48058",
+      "distanceKmFromAirport": 40,
+      "description": "Guinness-certified world's largest department store — also has an ice rink, golf course and spa inside",
+      "distance": 15.0,
+      "URL": "https://www.shinsegae.com/"
+    }
+  ]
+}

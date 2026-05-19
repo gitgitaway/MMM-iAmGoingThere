@@ -1,0 +1,98 @@
+{
+  "city": "Biarritz",
+  "country": "France",
+  "airportPostcode": "64600",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Grande Plage",
+      "postcode": "64200",
+      "distanceKmFromAirport": 4,
+      "description": "Biarritz's famous main beach overlooked by the palatial Casino Municipal",
+      "distance": 0.5,
+      "URL": "https://www.biarritz.fr/tourisme/"
+    },
+    {
+      "rank": 2,
+      "name": "Rocher de la Vierge",
+      "postcode": "64200",
+      "distanceKmFromAirport": 5,
+      "description": "Dramatic rock connected to the mainland by a metal footbridge with a Virgin Mary statue",
+      "distance": 0.8,
+      "URL": "https://www.tourisme.fr/office-de-tourisme/biarritz.htm"
+    },
+    {
+      "rank": 3,
+      "name": "Cite de l'Ocean",
+      "postcode": "64200",
+      "distanceKmFromAirport": 6,
+      "description": "Interactive museum exploring the world's oceans with wave simulator",
+      "distance": 1.5,
+      "URL": "https://www.citedelocean.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee de la Mer",
+      "postcode": "64200",
+      "distanceKmFromAirport": 5,
+      "description": "Aquarium and marine museum with seals and sharks in a 1930s Art Deco building",
+      "distance": 0.6,
+      "URL": "https://www.museedela mer.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Phare de Biarritz",
+      "postcode": "64200",
+      "distanceKmFromAirport": 5,
+      "description": "Lighthouse offering sweeping views of the Basque coastline from its 73-metre tower",
+      "distance": 1.0,
+      "URL": "https://www.biarritz.fr/tourisme/"
+    },
+    {
+      "rank": 6,
+      "name": "Surfing the Cote Basque",
+      "postcode": "64200",
+      "distanceKmFromAirport": 6,
+      "description": "World-class surf breaks from Biarritz to Hossegor on the wild Atlantic coast",
+      "distance": 2.0,
+      "URL": "https://www.biarritz.fr/tourisme/"
+    },
+    {
+      "rank": 7,
+      "name": "Musee Asiatica",
+      "postcode": "64200",
+      "distanceKmFromAirport": 5,
+      "description": "Exceptional collection of Asian art from India, Tibet, China and Nepal",
+      "distance": 0.8,
+      "URL": "https://www.musee-asiatica.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Port des Pecheurs",
+      "postcode": "64200",
+      "distanceKmFromAirport": 4,
+      "description": "Charming old fishing harbour with seafood restaurants and local atmosphere",
+      "distance": 0.5,
+      "URL": "https://www.biarritz.fr/tourisme/"
+    },
+    {
+      "rank": 9,
+      "name": "Basque Country Villages",
+      "postcode": "64100",
+      "distanceKmFromAirport": 12,
+      "description": "Day trips to Bayonne, Saint-Jean-de-Luz and the Basque interior",
+      "distance": 8.0,
+      "URL": "https://www.tourisme64.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Les Halles de Biarritz",
+      "postcode": "64200",
+      "distanceKmFromAirport": 4,
+      "description": "Covered market with local Basque produce, pintxos and artisan food products",
+      "distance": 0.4,
+      "URL": "https://www.biarritz.fr/tourisme/"
+    }
+  ]
+}

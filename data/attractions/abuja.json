@@ -1,0 +1,98 @@
+{
+  "city": "Abuja",
+  "country": "Nigeria",
+  "airportPostcode": "900281",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Aso Rock (Presidential Villa)",
+      "postcode": "900103",
+      "distanceKmFromAirport": 38,
+      "description": "800m granite monolith that dominates the capital with the presidential palace at its base",
+      "distance": 3.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 2,
+      "name": "Nigerian National Mosque",
+      "postcode": "900103",
+      "distanceKmFromAirport": 36,
+      "description": "One of Africa's largest mosques with four 120m minarets and a blue dome",
+      "distance": 1.5,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum Abuja",
+      "postcode": "900103",
+      "distanceKmFromAirport": 36,
+      "description": "Nigeria's arts and crafts from the Benin bronzes to contemporary Naija culture",
+      "distance": 1.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 4,
+      "name": "Zuma Rock",
+      "postcode": "912102",
+      "distanceKmFromAirport": 75,
+      "description": "Imposing 725m monolith 40km north of Abuja - the Gateway to Abuja",
+      "distance": 40.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 5,
+      "name": "Millennium Tower",
+      "postcode": "900103",
+      "distanceKmFromAirport": 37,
+      "description": "Nigeria's iconic 170m symbol of modern democracy and African renaissance",
+      "distance": 2.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 6,
+      "name": "Jabi Lake Mall",
+      "postcode": "900108",
+      "distanceKmFromAirport": 40,
+      "description": "Mall built on the shores of Jabi Lake with restaurants on the water",
+      "distance": 5.0,
+      "URL": "https://www.jabilakemall.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Arts and Craft Village (Wuse Market)",
+      "postcode": "900213",
+      "distanceKmFromAirport": 38,
+      "description": "Hausa leatherwork, Yoruba beadwork and Igbo carvings in the city craft market",
+      "distance": 3.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 8,
+      "name": "National Children's Park and Zoo",
+      "postcode": "900103",
+      "distanceKmFromAirport": 39,
+      "description": "Wildlife including hippos, lions and giraffes in the purpose-built federal capital",
+      "distance": 4.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 9,
+      "name": "Gwagwa Hills Nature Walk",
+      "postcode": "900103",
+      "distanceKmFromAirport": 43,
+      "description": "Hiking in the granite hills surrounding Abuja with wildlife and city views",
+      "distance": 8.0,
+      "URL": "https://www.nigeriatourism.net/"
+    },
+    {
+      "rank": 10,
+      "name": "Pepper Soup at Transcorp Hilton",
+      "postcode": "900103",
+      "distanceKmFromAirport": 37,
+      "description": "Nigeria's legendary spicy goat offal soup - the definitive Abuja late-night dining experience",
+      "distance": 2.0,
+      "URL": "https://www.transcorphilton.com/"
+    }
+  ]
+}

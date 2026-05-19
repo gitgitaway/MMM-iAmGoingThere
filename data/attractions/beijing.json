@@ -1,0 +1,98 @@
+{
+  "city": "Beijing",
+  "country": "China",
+  "airportPostcode": "101318",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Great Wall of China (Mutianyu)",
+      "postcode": "101512",
+      "distanceKmFromAirport": 95,
+      "description": "One of the world's greatest wonders — Mutianyu section has a cable car and toboggan run, 70 km from Beijing",
+      "distance": 70.0,
+      "URL": "https://www.mutianyugreatwall.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Forbidden City (Palace Museum)",
+      "postcode": "100009",
+      "distanceKmFromAirport": 26,
+      "description": "The world's largest palace complex — 980 buildings and 9,999 rooms housing 1.8 million imperial artefacts",
+      "distance": 1.0,
+      "URL": "https://en.dpm.org.cn/"
+    },
+    {
+      "rank": 3,
+      "name": "Tiananmen Square",
+      "postcode": "100006",
+      "distanceKmFromAirport": 26,
+      "description": "The world's largest public square — witness the daily flag-raising ceremony at sunrise",
+      "distance": 1.0,
+      "URL": "https://www.visitbeijing.com.cn/"
+    },
+    {
+      "rank": 4,
+      "name": "Temple of Heaven",
+      "postcode": "100061",
+      "distanceKmFromAirport": 29,
+      "description": "Imperial temple complex where emperors prayed for good harvests — surrounded by beautiful parkland",
+      "distance": 4.0,
+      "URL": "https://www.tiantanpark.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Summer Palace",
+      "postcode": "100091",
+      "distanceKmFromAirport": 41,
+      "description": "Vast imperial garden with Kunming Lake, the Marble Boat and the Long Corridor with 14,000 paintings",
+      "distance": 16.0,
+      "URL": "https://www.summerpalace-china.com/"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of China",
+      "postcode": "100006",
+      "distanceKmFromAirport": 26,
+      "description": "The world's most visited museum with the complete history of Chinese civilization over 5,000 years",
+      "distance": 1.5,
+      "URL": "https://en.chnmuseum.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Hutong Tour (Nanluoguxiang)",
+      "postcode": "100009",
+      "distanceKmFromAirport": 28,
+      "description": "Explore ancient alleyway neighbourhoods by rickshaw — traditional courtyard houses and local street food",
+      "distance": 2.5,
+      "URL": "https://www.visitbeijing.com.cn/"
+    },
+    {
+      "rank": 8,
+      "name": "798 Art District",
+      "postcode": "100015",
+      "distanceKmFromAirport": 39,
+      "description": "Former military factory complex transformed into China's most vibrant contemporary art and design district",
+      "distance": 14.0,
+      "URL": "https://www.798artzone.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Peking Duck Dinner",
+      "postcode": "100006",
+      "distanceKmFromAirport": 27,
+      "description": "Beijing's most famous dish — visit Quanjude (since 1864) or the Duck de Chine for the authentic experience",
+      "distance": 2.0,
+      "URL": "https://www.quanjude.com.cn/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Ming Tombs",
+      "postcode": "102209",
+      "distanceKmFromAirport": 75,
+      "description": "Sacred burial valley of 13 Ming Dynasty emperors — 50 km north with the magnificent Spirit Way approach",
+      "distance": 50.0,
+      "URL": "https://www.visitbeijing.com.cn/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Ahmedabad",
+  "country": "India",
+  "airportPostcode": "382475",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Adalaj Stepwell (Vav)",
+      "postcode": "382421",
+      "distanceKmFromAirport": 31,
+      "description": "Exquisitely carved 15th-century stepwell - one of Gujarat's greatest treasures",
+      "distance": 18.0,
+      "URL": "https://www.gujarattourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Sabarmati Ashram (Gandhi's Ashram)",
+      "postcode": "380027",
+      "distanceKmFromAirport": 18,
+      "description": "Gandhi's home from 1917-1930 - where he launched the Salt March to Dandi",
+      "distance": 5.0,
+      "URL": "https://www.gandhiashramsabarmati.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Old City Pols & Heritage Walk",
+      "postcode": "380001",
+      "distanceKmFromAirport": 14,
+      "description": "UNESCO World Heritage medieval walled city with carved wooden havelis",
+      "distance": 0.5,
+      "URL": "https://www.ahmedabadheritage.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Sidi Saiyyed Mosque",
+      "postcode": "380001",
+      "distanceKmFromAirport": 14,
+      "description": "1572 mosque with the most intricate stone jaali latticework - the Tree of Life",
+      "distance": 0.5,
+      "URL": "https://www.gujarattourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Rann of Kutch (Salt Desert)",
+      "postcode": "370001",
+      "distanceKmFromAirport": 333,
+      "description": "World's largest salt desert - spectacular full moon Rann Utsav festival",
+      "distance": 320.0,
+      "URL": "https://www.rannutsav.com/"
+    },
+    {
+      "rank": 6,
+      "name": "CEPT University Architecture",
+      "postcode": "380009",
+      "distanceKmFromAirport": 16,
+      "description": "Campus designed by Balkrishna Doshi - India's finest modernist architect",
+      "distance": 3.0,
+      "URL": "https://cept.ac.in/"
+    },
+    {
+      "rank": 7,
+      "name": "Calico Museum of Textiles",
+      "postcode": "380009",
+      "distanceKmFromAirport": 16,
+      "description": "World's finest collection of Indian textiles from the Mughal era",
+      "distance": 3.5,
+      "URL": "https://www.calicomuseum.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Rani no Hajiro (Queen's Tomb)",
+      "postcode": "380001",
+      "distanceKmFromAirport": 14,
+      "description": "Tombs of Mughal queens with superb carved stone screens",
+      "distance": 0.8,
+      "URL": "https://www.gujarattourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Vishala Village Museum Restaurant",
+      "postcode": "380037",
+      "distanceKmFromAirport": 19,
+      "description": "Dinner in a recreated Gujarati village with folk performances and thali dining",
+      "distance": 6.0,
+      "URL": "https://www.vishala.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Gujarati Thali",
+      "postcode": "380001",
+      "distanceKmFromAirport": 14,
+      "description": "India's most elaborate meal - 20+ small dishes covering sweet, sour, spicy and savoury",
+      "distance": 0.5,
+      "URL": "https://www.gujarattourism.com/"
+    }
+  ]
+}

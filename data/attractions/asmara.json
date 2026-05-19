@@ -1,0 +1,98 @@
+{
+  "city": "Asmara",
+  "country": "Eritrea",
+  "airportPostcode": "163",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fiat Tagliero Building",
+      "postcode": "163",
+      "distanceKmFromAirport": 6,
+      "description": "UNESCO World Heritage 1938 cantilevered modernist fuel station - a marvel of Italian Futurism",
+      "distance": 1.5,
+      "URL": "https://whc.unesco.org/en/list/1550/"
+    },
+    {
+      "rank": 2,
+      "name": "Italian Modernist Architecture Walk",
+      "postcode": "163",
+      "distanceKmFromAirport": 6,
+      "description": "UNESCO World Heritage city with the world's finest collection of 1930s Italian architecture",
+      "distance": 0.5,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 3,
+      "name": "Asmara Cathedral",
+      "postcode": "163",
+      "distanceKmFromAirport": 5,
+      "description": "1922 Lombard Romanesque Catholic cathedral built by Italian Capuchin missionaries",
+      "distance": 0.3,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 4,
+      "name": "Cinema Impero",
+      "postcode": "163",
+      "distanceKmFromAirport": 5,
+      "description": "1937 Art Deco cinema still showing films - a perfectly preserved capsule of the 1930s",
+      "distance": 0.4,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 5,
+      "name": "Asmara Market",
+      "postcode": "163",
+      "distanceKmFromAirport": 6,
+      "description": "Lively traditional Eritrean market with spices, injera bread and traditional crafts",
+      "distance": 0.6,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 6,
+      "name": "Enda Mariam Orthodox Cathedral",
+      "postcode": "163",
+      "distanceKmFromAirport": 5,
+      "description": "Eritrean Orthodox cathedral built in 1921 - heart of the Eritrean church",
+      "distance": 0.3,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 7,
+      "name": "Tank Graveyard",
+      "postcode": "163",
+      "distanceKmFromAirport": 9,
+      "description": "Open-air museum of tanks and military vehicles from the independence war",
+      "distance": 4.0,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 8,
+      "name": "Massawa Red Sea Port Day Trip",
+      "postcode": "111",
+      "distanceKmFromAirport": 120,
+      "description": "Ancient coral stone town and Red Sea beaches 2 hours by train or car",
+      "distance": 115.0,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 9,
+      "name": "Filfil Solomuna Jungle",
+      "postcode": "163",
+      "distanceKmFromAirport": 75,
+      "description": "Montane juniper forest with green monkeys and endemic birds",
+      "distance": 70.0,
+      "URL": "https://www.eritreatourism.gov.er/"
+    },
+    {
+      "rank": 10,
+      "name": "Zigni (Lamb & Chilli Stew)",
+      "postcode": "163",
+      "distanceKmFromAirport": 6,
+      "description": "Eritrea's signature dish - lamb stewed with the pungent berbere chilli paste on injera",
+      "distance": 0.5,
+      "URL": "https://www.eritreatourism.gov.er/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Bialystok",
+  "country": "Poland",
+  "airportPostcode": "15-680",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Branicki Palace",
+      "postcode": "15-085",
+      "distanceKmFromAirport": 13,
+      "description": "Magnificent baroque palace from the 18th century known as the Versailles of Poland, with beautifully restored formal French gardens and state rooms",
+      "distance": 1.0,
+      "URL": "https://branickipalace.pl/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Bialystok Cathedral (St. Mary's Basilica)",
+      "postcode": "15-087",
+      "distanceKmFromAirport": 13,
+      "description": "Baroque basilica from the early 18th century with a magnificent interior, twin towers and status as the spiritual centre of the Bialystok archdiocese",
+      "distance": 0.8,
+      "URL": "https://www.bialystok.pl/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Bialystok Market Square (Rynek Kosciuszki)",
+      "postcode": "15-001",
+      "distanceKmFromAirport": 13,
+      "description": "Historic main square with the 19th-century Town Hall and surrounding period buildings; the social heart of the city with cafes and seasonal events",
+      "distance": 0.5,
+      "URL": "https://www.bialystok.pl/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Bialystok Opera and Philharmonic",
+      "postcode": "15-222",
+      "distanceKmFromAirport": 13,
+      "description": "Modern opera house and concert hall designed by Stefan Muller, hosting first-class opera, ballet and symphony performances throughout the year",
+      "distance": 0.8,
+      "URL": "https://www.opbt.pl/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Podlaskie Museum",
+      "postcode": "15-003",
+      "distanceKmFromAirport": 13,
+      "description": "Regional museum housed in the Branicki Palace complex with collections of fine art, archaeology and the cultural heritage of the Podlaskie region",
+      "distance": 1.0,
+      "URL": "https://muzeum.bialystok.pl/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Planty Park",
+      "postcode": "15-001",
+      "distanceKmFromAirport": 13,
+      "description": "Linear parkway encircling the old town with mature trees, fountains and promenading locals; a green buffer between the historic centre and modern city",
+      "distance": 0.5,
+      "URL": "https://www.bialystok.pl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of the Bialystok Medical Academy",
+      "postcode": "15-222",
+      "distanceKmFromAirport": 13,
+      "description": "Unique museum telling the story of Ludwik Zamenhof, inventor of Esperanto, who was born in Bialystok in 1859; a fascinating linguistic pilgrimage",
+      "distance": 1.2,
+      "URL": "https://www.bialystok.pl/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Suprasl Village",
+      "postcode": "16-030",
+      "distanceKmFromAirport": 24,
+      "description": "Charming village 15km east of Bialystok with an Orthodox monastery, wooden architecture and the Knyszynska Forest, ideal for a day trip",
+      "distance": 15.0,
+      "URL": "https://www.bialystok.pl/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Gallery Arsenal",
+      "postcode": "15-062",
+      "distanceKmFromAirport": 13,
+      "description": "Contemporary art gallery in a renovated historic arsenal building presenting rotating exhibitions of Polish and international modern art",
+      "distance": 0.7,
+      "URL": "https://galeriaarsenal.pl/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Miejski Stadion (Bialystok Stadium)",
+      "postcode": "15-950",
+      "distanceKmFromAirport": 14,
+      "description": "Home of Jagiellonia Bialystok, 2023-24 Polish Ekstraklasa champions and UEFA Conference League group stage participants",
+      "distance": 2.0,
+      "URL": "https://www.jagiellonia.pl/en/"
+    }
+  ]
+}

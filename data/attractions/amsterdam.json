@@ -1,0 +1,98 @@
+{
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "airportPostcode": "1118 ZG",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Rijksmuseum",
+      "postcode": "1071 XX",
+      "distanceKmFromAirport": 20,
+      "description": "Netherlands' national museum housing Rembrandt's Night Watch and Vermeer masterpieces",
+      "distance": 1.8,
+      "URL": "https://www.rijksmuseum.nl/en"
+    },
+    {
+      "rank": 2,
+      "name": "Anne Frank House",
+      "postcode": "1016 GV",
+      "distanceKmFromAirport": 19,
+      "description": "Secret annex where Anne Frank wrote her diary during the Nazi occupation",
+      "distance": 1.2,
+      "URL": "https://www.annefrank.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Van Gogh Museum",
+      "postcode": "1071 AA",
+      "distanceKmFromAirport": 20,
+      "description": "World's largest collection of Van Gogh paintings, drawings and letters",
+      "distance": 1.9,
+      "URL": "https://www.vangoghmuseum.nl/en"
+    },
+    {
+      "rank": 4,
+      "name": "Canal Ring",
+      "postcode": "1015 BK",
+      "distanceKmFromAirport": 18,
+      "description": "UNESCO World Heritage 17th-century canal belt with over 1,500 historic bridges",
+      "distance": 0.5,
+      "URL": "https://www.iamsterdam.com/en/see-and-do/things-to-do/sightseeing/amsterdam-canals"
+    },
+    {
+      "rank": 5,
+      "name": "Heineken Experience",
+      "postcode": "1072 AH",
+      "distanceKmFromAirport": 20,
+      "description": "Interactive tour of the original Heineken brewery with tastings",
+      "distance": 2.0,
+      "URL": "https://www.heinekenexperience.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Vondelpark",
+      "postcode": "1054 GM",
+      "distanceKmFromAirport": 20,
+      "description": "Beloved city park with open-air theatre, cafes and events in the summer",
+      "distance": 2.5,
+      "URL": "https://www.hetvondelpark.net/"
+    },
+    {
+      "rank": 7,
+      "name": "Stedelijk Museum",
+      "postcode": "1071 AC",
+      "distanceKmFromAirport": 20,
+      "description": "Leading museum of modern and contemporary art and design",
+      "distance": 1.8,
+      "URL": "https://www.stedelijk.nl/en"
+    },
+    {
+      "rank": 8,
+      "name": "NEMO Science Museum",
+      "postcode": "1011 PX",
+      "distanceKmFromAirport": 19,
+      "description": "Hands-on science museum in a stunning ship-shaped building by Renzo Piano",
+      "distance": 1.2,
+      "URL": "https://www.nemosciencemuseum.nl/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Jordaan District",
+      "postcode": "1016 BK",
+      "distanceKmFromAirport": 19,
+      "description": "Bohemian neighbourhood of narrow canals, galleries, markets and independent cafes",
+      "distance": 0.8,
+      "URL": "https://www.iamsterdam.com/en/see-and-do/things-to-do/sightseeing/neighbourhoods/jordaan"
+    },
+    {
+      "rank": 10,
+      "name": "Royal Palace Amsterdam",
+      "postcode": "1012 JS",
+      "distanceKmFromAirport": 18,
+      "description": "17th-century masterpiece of Dutch classicism on Dam Square",
+      "distance": 0.1,
+      "URL": "https://www.paleisamsterdam.nl/en/"
+    }
+  ]
+}

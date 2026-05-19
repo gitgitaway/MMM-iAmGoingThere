@@ -1,0 +1,98 @@
+{
+  "city": "Antwerp",
+  "country": "Belgium",
+  "airportPostcode": "2100",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Antwerp Cathedral",
+      "postcode": "2000",
+      "distanceKmFromAirport": 7,
+      "description": "Gothic Cathedral of Our Lady with the world's tallest spire housing four Rubens masterpieces including the Descent from the Cross",
+      "distance": 1.5,
+      "URL": "https://www.dekathedraal.be/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Grote Markt",
+      "postcode": "2000",
+      "distanceKmFromAirport": 7,
+      "description": "Stunning medieval market square with the ornate Renaissance town hall and guild houses overlooking the Brabo Fountain",
+      "distance": 1.5,
+      "URL": "https://visit.antwerpen.be/en/see-and-do/sight/grote-markt"
+    },
+    {
+      "rank": 3,
+      "name": "Rubenshuis",
+      "postcode": "2000",
+      "distanceKmFromAirport": 7,
+      "description": "Former home and studio of Baroque master Peter Paul Rubens, restored to its 17th-century grandeur with original artworks",
+      "distance": 1.8,
+      "URL": "https://www.rubenshuis.be/en"
+    },
+    {
+      "rank": 4,
+      "name": "Museum aan de Stroom (MAS)",
+      "postcode": "2000",
+      "distanceKmFromAirport": 7,
+      "description": "Striking spiral tower museum tracing Antwerp's history as one of the world's greatest trading ports",
+      "distance": 1.2,
+      "URL": "https://mas.be/en"
+    },
+    {
+      "rank": 5,
+      "name": "Antwerp Central Station",
+      "postcode": "2018",
+      "distanceKmFromAirport": 8,
+      "description": "Breathtaking Belle Époque railway station of 1905 nicknamed the railway cathedral for its soaring dome and arches",
+      "distance": 2.5,
+      "URL": "https://visit.antwerpen.be/en/see-and-do/sight/antwerp-central-station"
+    },
+    {
+      "rank": 6,
+      "name": "Het Steen",
+      "postcode": "2000",
+      "distanceKmFromAirport": 7,
+      "description": "Antwerp's oldest building, a medieval fortress on the Scheldt waterfront, now a visitor centre for city tourism",
+      "distance": 1.2,
+      "URL": "https://visit.antwerpen.be/en/see-and-do/sight/het-steen"
+    },
+    {
+      "rank": 7,
+      "name": "Royal Museum of Fine Arts",
+      "postcode": "2000",
+      "distanceKmFromAirport": 8,
+      "description": "Magnificent collection of Flemish Primitive and Baroque art including 20 Rubens paintings in a restored neoclassical palace",
+      "distance": 2.2,
+      "URL": "https://kmska.be/en"
+    },
+    {
+      "rank": 8,
+      "name": "Diamond Quarter",
+      "postcode": "2018",
+      "distanceKmFromAirport": 8,
+      "description": "Heart of the global diamond trade with over 1500 companies, jewellery shops and the Antwerp Diamond Museum",
+      "distance": 2.5,
+      "URL": "https://www.antwerpdiamond.be/"
+    },
+    {
+      "rank": 9,
+      "name": "Plantin-Moretus Museum",
+      "postcode": "2000",
+      "distanceKmFromAirport": 7,
+      "description": "UNESCO World Heritage printing house with the world's oldest printing presses and archive of Christophe Plantin's 16th-century empire",
+      "distance": 1.7,
+      "URL": "https://www.museumplantinmoretus.be/en"
+    },
+    {
+      "rank": 10,
+      "name": "Stadspark",
+      "postcode": "2018",
+      "distanceKmFromAirport": 8,
+      "description": "Elegant Victorian city park with sculpted gardens, ponds and the Royal Academy of Fine Arts, ideal for a relaxing stroll",
+      "distance": 2.8,
+      "URL": "https://visit.antwerpen.be/en/see-and-do/sight/stadspark"
+    }
+  ]
+}

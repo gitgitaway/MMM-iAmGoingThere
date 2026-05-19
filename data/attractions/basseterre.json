@@ -1,0 +1,98 @@
+{
+  "city": "Basseterre",
+  "country": "Saint Kitts and Nevis",
+  "airportPostcode": "KN0101",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Brimstone Hill Fortress (UNESCO)",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 17,
+      "description": "UNESCO World Heritage 18th-century British fortress called the Gibraltar of the West Indies",
+      "distance": 14.0,
+      "URL": "https://www.brimstonehillfortress.org/"
+    },
+    {
+      "rank": 2,
+      "name": "St Kitts Scenic Railway",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 8,
+      "description": "The last working railway in the Caribbean - a narrow-gauge loop built for sugar cane",
+      "distance": 5.0,
+      "URL": "https://stkittsscenicrailway.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Nevis Island Day Trip",
+      "postcode": "KN0201",
+      "distanceKmFromAirport": 15,
+      "description": "Sister island with Alexander Hamilton's birthplace, plantation hotels and black sand beaches",
+      "distance": 12.0,
+      "URL": "https://www.nevisisland.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Black Rocks Volcanic Coast",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 21,
+      "description": "Dramatic lava formations where a volcano pushed into the Atlantic Ocean",
+      "distance": 18.0,
+      "URL": "https://www.stkittstourism.kn/"
+    },
+    {
+      "rank": 5,
+      "name": "Independence Square, Basseterre",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 3,
+      "description": "The historic heart of Basseterre with Georgian colonial architecture",
+      "distance": 0.3,
+      "URL": "https://www.stkittstourism.kn/"
+    },
+    {
+      "rank": 6,
+      "name": "Frigate Bay Beaches",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 8,
+      "description": "Atlantic and Caribbean beaches separated by a narrow isthmus - the strip of beach bars",
+      "distance": 5.0,
+      "URL": "https://www.stkittstourism.kn/"
+    },
+    {
+      "rank": 7,
+      "name": "Mount Liamuiga Volcano Hike",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 25,
+      "description": "Hike the dormant volcano to a rainforest-lined crater at 1,156m",
+      "distance": 22.0,
+      "URL": "https://www.stkittstourism.kn/"
+    },
+    {
+      "rank": 8,
+      "name": "Timothy Hill Lookout",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 10,
+      "description": "Best viewpoint to see both the Atlantic Ocean and Caribbean Sea simultaneously",
+      "distance": 7.0,
+      "URL": "https://www.stkittstourism.kn/"
+    },
+    {
+      "rank": 9,
+      "name": "National Museum of St Kitts",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 3,
+      "description": "In the historic treasury building - the story of Amerindian and colonial St Kitts",
+      "distance": 0.3,
+      "URL": "https://www.stkittstourism.kn/"
+    },
+    {
+      "rank": 10,
+      "name": "Goat Water (National Dish)",
+      "postcode": "KN0101",
+      "distanceKmFromAirport": 4,
+      "description": "Saint Kitts national dish - a hearty stew of goat meat, breadfruit and spices",
+      "distance": 0.5,
+      "URL": "https://www.stkittstourism.kn/"
+    }
+  ]
+}
