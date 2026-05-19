@@ -1,0 +1,98 @@
+{
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "airportPostcode": "84320",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ang Thong National Marine Park",
+      "postcode": "84280",
+      "distanceKmFromAirport": 35,
+      "description": "Speedboat to 42 pristine islands - emerald lake, sea caves and coral reefs",
+      "distance": 30,
+      "URL": "https://www.thainationalparks.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Chaweng Beach",
+      "postcode": "84320",
+      "distanceKmFromAirport": 13,
+      "description": "Koh Samui's most popular beach with beach clubs, restaurants and nightlife",
+      "distance": 8,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Big Buddha Temple (Wat Phra Yai)",
+      "postcode": "84320",
+      "distanceKmFromAirport": 17,
+      "description": "12m golden Buddha on a small island connected by a causeway",
+      "distance": 12,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Hin Ta & Hin Yai Rocks",
+      "postcode": "84310",
+      "distanceKmFromAirport": 18,
+      "description": "Grandfather and Grandmother Rocks - famous naturally shaped male and female rocks",
+      "distance": 13,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Secret Buddha Garden",
+      "postcode": "84320",
+      "distanceKmFromAirport": 22,
+      "description": "Magical garden of Buddhist statues hidden in the hills above Samui",
+      "distance": 17,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Lamai Beach",
+      "postcode": "84310",
+      "distanceKmFromAirport": 18,
+      "description": "Beautiful quieter beach with traditional fishing villages at each end",
+      "distance": 13,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Nathon Old Town Market",
+      "postcode": "84320",
+      "distanceKmFromAirport": 5,
+      "description": "Old Samui trading town with Sino-Thai architecture and morning market",
+      "distance": 0,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Phangan Full Moon Party",
+      "postcode": "84280",
+      "distanceKmFromAirport": 25,
+      "description": "30-minute ferry to the world's most famous beach party",
+      "distance": 20,
+      "URL": "https://www.kohphangannightlife.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Thai Cooking Class",
+      "postcode": "84320",
+      "distanceKmFromAirport": 10,
+      "description": "Market visit and learn to make green curry, pad thai and mango sticky rice",
+      "distance": 5,
+      "URL": "https://www.tourismthailand.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Hae River Prawn Fishing Village",
+      "postcode": "84320",
+      "distanceKmFromAirport": 15,
+      "description": "Working fishing village on the estuary with fresh prawn restaurants",
+      "distance": 10,
+      "URL": "https://www.tourismthailand.org/"
+    }
+  ]
+}

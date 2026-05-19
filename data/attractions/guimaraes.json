@@ -1,0 +1,98 @@
+{
+  "city": "Guimaraes",
+  "country": "Portugal",
+  "airportPostcode": "4470-558",
+  "airportDistanceKm": 60,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Guimarães Castle",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "Birthplace of Portugal's founding king Afonso Henriques in 1109, a magnificent medieval keep with towers and ramparts to explore",
+      "distance": 0.8,
+      "URL": "https://www.patrimoniocultural.gov.pt/en/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/72361/"
+    },
+    {
+      "rank": 2,
+      "name": "Palace of the Dukes of Braganza",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "Imposing 15th-century ducal palace fully restored to its medieval glory with tapestries, armour, porcelain and royal portraits",
+      "distance": 0.7,
+      "URL": "https://www.patrimoniocultural.gov.pt/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Historic Centre of Guimarães (UNESCO)",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "UNESCO World Heritage medieval city centre of exceptional integrity, the cradle of Portuguese nationhood and identity",
+      "distance": 0.5,
+      "URL": "https://www.guimaraesturismo.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Largo da Oliveira",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "Magnificent medieval square with the Gothic Padrão do Salado monument and the Romanesque collegiate church of Nossa Senhora da Oliveira",
+      "distance": 0.4,
+      "URL": "https://www.guimaraesturismo.com/"
+    },
+    {
+      "rank": 5,
+      "name": "CIAJG Contemporary Art Centre",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "Striking contemporary arts centre by Pritzker Prize architect Álvaro Siza Vieira, presenting international exhibitions",
+      "distance": 0.8,
+      "URL": "https://www.ciajg.pt/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Monte Latito Cable Car",
+      "postcode": "4810",
+      "distanceKmFromAirport": 61,
+      "description": "Scenic cable car ascending to Monte Latito sanctuary with panoramic views over Guimarães old town and the Minho hills",
+      "distance": 1.5,
+      "URL": "https://www.guimaraesturismo.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Santa Marinha da Costa Monastery",
+      "postcode": "4810",
+      "distanceKmFromAirport": 61,
+      "description": "Twelfth-century monastery converted into a magnificent pousada hotel, with cloisters, gardens and hilltop views over the city",
+      "distance": 2.0,
+      "URL": "https://www.guimaraesturismo.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Alberto Sampaio Museum",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "Sacred art museum in a medieval cloister displaying treasures including the tunic worn by King João I at the Battle of Aljubarrota",
+      "distance": 0.4,
+      "URL": "https://www.museualbertosampayo.pt/"
+    },
+    {
+      "rank": 9,
+      "name": "Rua de Santa Maria",
+      "postcode": "4810",
+      "distanceKmFromAirport": 60,
+      "description": "Guimarães' most beautiful medieval street connecting the castle to the old town square, lined with arcaded stone buildings",
+      "distance": 0.6,
+      "URL": "https://www.guimaraesturismo.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Citânia de Briteiros",
+      "postcode": "4810",
+      "distanceKmFromAirport": 65,
+      "description": "Remarkable hilltop Iron Age Celtic settlement with hundreds of circular stone house foundations visible in the Minho countryside",
+      "distance": 12.0,
+      "URL": "https://www.csarmento.uminho.pt/en/"
+    }
+  ]
+}

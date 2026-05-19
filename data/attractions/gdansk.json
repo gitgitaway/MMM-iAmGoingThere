@@ -1,0 +1,98 @@
+{
+  "city": "Gdansk",
+  "country": "Poland",
+  "airportPostcode": "80-298",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Town (Glowne Miasto)",
+      "postcode": "80-831",
+      "distanceKmFromAirport": 14,
+      "description": "Magnificently restored Hanseatic old town with the Royal Road and merchant houses",
+      "distance": 0.5,
+      "URL": "https://www.visitgdansk.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Westerplatte",
+      "postcode": "80-601",
+      "distanceKmFromAirport": 21,
+      "description": "Where WWII began on 1 September 1939 - monument and museum on the peninsula",
+      "distance": 7.0,
+      "URL": "https://www.visitgdansk.com/"
+    },
+    {
+      "rank": 3,
+      "name": "European Solidarity Centre",
+      "postcode": "80-863",
+      "distanceKmFromAirport": 14,
+      "description": "Museum and library dedicated to the Solidarity movement that ended Communism in Poland",
+      "distance": 0.5,
+      "URL": "https://www.ecs.gda.pl/"
+    },
+    {
+      "rank": 4,
+      "name": "St Mary's Church",
+      "postcode": "80-830",
+      "distanceKmFromAirport": 14,
+      "description": "One of the world's largest Gothic brick churches with 25 chapels",
+      "distance": 0.5,
+      "URL": "https://www.bazylikamariacka.pl/"
+    },
+    {
+      "rank": 5,
+      "name": "Long Market (Dlugi Targ)",
+      "postcode": "80-831",
+      "distanceKmFromAirport": 14,
+      "description": "Elegant main street with the Neptune Fountain and Golden Gate",
+      "distance": 0.3,
+      "URL": "https://www.visitgdansk.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Amber Museum",
+      "postcode": "80-830",
+      "distanceKmFromAirport": 14,
+      "description": "World's finest amber collection in the Gothic Great Mill",
+      "distance": 0.5,
+      "URL": "https://www.mhmg.pl/"
+    },
+    {
+      "rank": 7,
+      "name": "Gdansk Crane (Zuraw)",
+      "postcode": "80-755",
+      "distanceKmFromAirport": 15,
+      "description": "Massive 15th-century medieval harbour crane, symbol of Gdansk's mercantile past",
+      "distance": 1.0,
+      "URL": "https://www.nmm.pl/"
+    },
+    {
+      "rank": 8,
+      "name": "Artus Court",
+      "postcode": "80-831",
+      "distanceKmFromAirport": 14,
+      "description": "Gothic merchants' meeting house with the world's tallest Renaissance tiled stove",
+      "distance": 0.3,
+      "URL": "https://www.mhmg.pl/"
+    },
+    {
+      "rank": 9,
+      "name": "Museum of World War II",
+      "postcode": "80-862",
+      "distanceKmFromAirport": 15,
+      "description": "One of the world's most comprehensive WWII museums opened in 2017",
+      "distance": 0.8,
+      "URL": "https://www.muzeum1939.pl/"
+    },
+    {
+      "rank": 10,
+      "name": "Sopot Beach & Pier",
+      "postcode": "81-703",
+      "distanceKmFromAirport": 26,
+      "description": "Europe's longest wooden pier and Poland's most famous Baltic Sea resort",
+      "distance": 12.0,
+      "URL": "https://www.visitgdansk.com/"
+    }
+  ]
+}

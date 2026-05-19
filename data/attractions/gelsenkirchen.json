@@ -1,0 +1,98 @@
+{
+  "city": "Gelsenkirchen",
+  "country": "Germany",
+  "airportPostcode": "40474",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "VELTINS-Arena (Schalke Arena)",
+      "postcode": "45891",
+      "distanceKmFromAirport": 36,
+      "description": "Iconic 62,000-capacity arena of Schalke 04 and Shakhtar Donetsk's UEFA venue, one of Germany's most impressive stadiums",
+      "distance": 4.0,
+      "URL": "https://www.schalke04.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Zoom Erlebniswelt",
+      "postcode": "45897",
+      "distanceKmFromAirport": 37,
+      "description": "Large zoological garden with 900 animals in naturalistic habitats spanning themed zones from Alaska to Africa",
+      "distance": 6.0,
+      "URL": "https://zoom-erlebniswelt.de/"
+    },
+    {
+      "rank": 3,
+      "name": "Nordsternpark",
+      "postcode": "45899",
+      "distanceKmFromAirport": 37,
+      "description": "Award-winning landscape park on the former Nordstern colliery site with gardens, climbing structures and art installations",
+      "distance": 5.0,
+      "URL": "https://www.nordsternpark.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Musiktheater im Revier",
+      "postcode": "45879",
+      "distanceKmFromAirport": 35,
+      "description": "Renowned opera and ballet theatre opened in 1959, a modernist architectural gem at the heart of Gelsenkirchen's cultural life",
+      "distance": 1.0,
+      "URL": "https://www.musiktheater-im-revier.de/"
+    },
+    {
+      "rank": 5,
+      "name": "Schloß Horst",
+      "postcode": "45899",
+      "distanceKmFromAirport": 36,
+      "description": "Early Renaissance moated castle ruin of 1578 set in a park, one of the finest Renaissance buildings in Westphalia",
+      "distance": 5.0,
+      "URL": "https://schlosshorst.info/"
+    },
+    {
+      "rank": 6,
+      "name": "Wissenschaftspark Gelsenkirchen",
+      "postcode": "45897",
+      "distanceKmFromAirport": 37,
+      "description": "Striking post-industrial science and business park in a glass palace designed by Kaup, Scholz and Wilken on a former colliery",
+      "distance": 6.0,
+      "URL": "https://www.wipage.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Gelsenkirchen City Centre",
+      "postcode": "45879",
+      "distanceKmFromAirport": 35,
+      "description": "Postwar city centre rebuilt after wartime bombing with Heinrich-König-Platz and the pedestrianised shopping zone",
+      "distance": 0.5,
+      "URL": "https://www.gelsenkirchen.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Consol Theater",
+      "postcode": "45899",
+      "distanceKmFromAirport": 37,
+      "description": "Experimental theatre and cabaret venue occupying the beautifully preserved winding tower of the former Consolidation colliery",
+      "distance": 6.0,
+      "URL": "https://www.consoltheater.de/"
+    },
+    {
+      "rank": 9,
+      "name": "LWL-Industriemuseum Zeche Hannover",
+      "postcode": "44793",
+      "distanceKmFromAirport": 40,
+      "description": "Ruhr industrial heritage museum at the Hannover colliery in nearby Bochum, part of the European Route of Industrial Heritage",
+      "distance": 15.0,
+      "URL": "https://www.lwl-industriemuseum.de/en/zeche-hannover"
+    },
+    {
+      "rank": 10,
+      "name": "Emscherkunst Outdoor Art Trail",
+      "postcode": "45879",
+      "distanceKmFromAirport": 35,
+      "description": "Open-air contemporary art trail along the Emscher River linking Gelsenkirchen with neighbouring Ruhr cities through post-industrial landscapes",
+      "distance": 3.0,
+      "URL": "https://www.emscherkunst.de/"
+    }
+  ]
+}

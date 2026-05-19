@@ -1,0 +1,98 @@
+{
+  "city": "Kano",
+  "country": "Nigeria",
+  "airportPostcode": "700001",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kofar Mata Dye Pits",
+      "postcode": "700001",
+      "distanceKmFromAirport": 11,
+      "description": "500-year-old indigo dye pits still operating using traditional West African methods",
+      "distance": 0.8,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 2,
+      "name": "Kurmi Market",
+      "postcode": "700001",
+      "distanceKmFromAirport": 10,
+      "description": "One of West Africa's oldest and largest markets dating back to the 15th century",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 3,
+      "name": "Gidan Makama Museum",
+      "postcode": "700001",
+      "distanceKmFromAirport": 10,
+      "description": "Emir's historic palace complex turned museum of Kano's history",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 4,
+      "name": "Kano City Walls (Old City)",
+      "postcode": "700001",
+      "distanceKmFromAirport": 11,
+      "description": "Medieval earthen walls up to 14m high surrounding one of Africa's oldest cities",
+      "distance": 1.0,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 5,
+      "name": "Emir's Palace (Gidan Rumfa)",
+      "postcode": "700001",
+      "distanceKmFromAirport": 10,
+      "description": "15th-century Hausa palace of the Emir of Kano with mud-brick architecture",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 6,
+      "name": "Central Mosque of Kano",
+      "postcode": "700001",
+      "distanceKmFromAirport": 10,
+      "description": "Largest mosque in West Africa built in 1951",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 7,
+      "name": "Crafts Village (Kofar Wambai)",
+      "postcode": "700001",
+      "distanceKmFromAirport": 11,
+      "description": "Traditional leather working, weaving and blacksmithing",
+      "distance": 1.0,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 8,
+      "name": "Kano Museum",
+      "postcode": "700001",
+      "distanceKmFromAirport": 12,
+      "description": "Artefacts from the ancient Hausa and Kanuri kingdoms of northern Nigeria",
+      "distance": 1.5,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 9,
+      "name": "Dala Hill",
+      "postcode": "700001",
+      "distanceKmFromAirport": 12,
+      "description": "Sacred hill at the centre of the ancient city with spiritual significance",
+      "distance": 2.0,
+      "URL": "https://www.tourism.gov.ng/"
+    },
+    {
+      "rank": 10,
+      "name": "Tuwo Shinkafa & Miyan Kuka",
+      "postcode": "700001",
+      "distanceKmFromAirport": 10,
+      "description": "Kano's staple - rice porridge with baobab leaf soup and dried fish",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.ng/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Fez",
+  "country": "Morocco",
+  "airportPostcode": "30000",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fes el-Bali Medina",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "UNESCO World Heritage world's largest living medieval city - 9,400 alleyways within the walls",
+      "distance": 0.5,
+      "URL": "https://www.visitmorocco.com/fes"
+    },
+    {
+      "rank": 2,
+      "name": "Chouara Tannery",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "Ancient leather dyeing pits - view the rainbow of vats from surrounding leather shop balconies",
+      "distance": 1.5,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 3,
+      "name": "University of Al-Qarawiyyin",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "Oldest continually operating university in the world, founded 859 AD",
+      "distance": 1,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 4,
+      "name": "Bou Inania Madrasa",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "14th-century Quranic school with the finest Marinid plasterwork and tilework in Morocco",
+      "distance": 0.5,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 5,
+      "name": "Medersa Attarine",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "14th-century madrasa adjacent to the Karaouyine mosque with exquisite stucco decoration",
+      "distance": 1,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 6,
+      "name": "Borj Nord Fortification",
+      "postcode": "30000",
+      "distanceKmFromAirport": 17,
+      "description": "16th-century fortress with panoramic views over the ancient medina",
+      "distance": 2,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 7,
+      "name": "Fes el-Jdid (New Fez)",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "Merenid royal city and the largest Jewish mellah in Morocco",
+      "distance": 1,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 8,
+      "name": "Nejjarine Fountain & Fondouq",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "Restored 18th-century caravanserai with a wood arts museum",
+      "distance": 1,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 9,
+      "name": "Bab Bou Jeloud (Blue Gate)",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "Ornate 1913 gateway into the medina - the iconic entrance to Fes el-Bali",
+      "distance": 0.5,
+      "URL": "https://www.visitmorocco.com"
+    },
+    {
+      "rank": 10,
+      "name": "Pastilla at Dar Roumana",
+      "postcode": "30000",
+      "distanceKmFromAirport": 16,
+      "description": "Fez's signature pigeon or chicken pie in sweet-savoury pastry dusted with sugar",
+      "distance": 1,
+      "URL": "https://www.darroumana.com"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Hamburg",
+  "country": "Germany",
+  "airportPostcode": "22335",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Miniatur Wunderland",
+      "postcode": "20457",
+      "distanceKmFromAirport": 14,
+      "description": "The world's largest model railway exhibition with over 15,000 metres of track and 1,040 trains",
+      "distance": 1.5,
+      "URL": "https://www.miniatur-wunderland.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Elbphilharmonie",
+      "postcode": "20457",
+      "distanceKmFromAirport": 14,
+      "description": "Stunningly beautiful concert hall on the Elbe with a unique wave-shaped roof and public viewing plaza",
+      "distance": 1.5,
+      "URL": "https://www.elbphilharmonie.de/en"
+    },
+    {
+      "rank": 3,
+      "name": "Speicherstadt Warehouse District",
+      "postcode": "20457",
+      "distanceKmFromAirport": 14,
+      "description": "UNESCO World Heritage red-brick canal warehouse district from the 1880s — now galleries and museums",
+      "distance": 1.5,
+      "URL": "https://www.speicherstadt.info/"
+    },
+    {
+      "rank": 4,
+      "name": "Reeperbahn & St Pauli",
+      "postcode": "20359",
+      "distanceKmFromAirport": 16,
+      "description": "Hamburg's famous red-light entertainment district where the Beatles began — clubs, music and theatre",
+      "distance": 2.5,
+      "URL": "https://www.hamburg-tourism.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Hamburg Harbour & Landungsbrucken",
+      "postcode": "20457",
+      "distanceKmFromAirport": 15,
+      "description": "Germany's largest port with harbour cruises, the historic Cap San Diego ship and Sunday fish market",
+      "distance": 2.0,
+      "URL": "https://www.hamburg-tourismus.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Planten un Blomen",
+      "postcode": "20355",
+      "distanceKmFromAirport": 15,
+      "description": "Beautiful 47-hectare inner-city park with Japanese garden, tropical greenhouse and summer water-light shows",
+      "distance": 2.0,
+      "URL": "https://www.plantenunblomen.hamburg.de/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Alster Lakes",
+      "postcode": "20148",
+      "distanceKmFromAirport": 14,
+      "description": "Inner and Outer Alster lakes at the city's heart — boat hire, waterfront cafes and the Jungfernstieg promenade",
+      "distance": 1.0,
+      "URL": "https://www.hamburg-tourism.de/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Hamburger Kunsthalle",
+      "postcode": "20095",
+      "distanceKmFromAirport": 14,
+      "description": "One of Germany's largest art museums covering Old Masters through to contemporary art across three buildings",
+      "distance": 0.8,
+      "URL": "https://www.hamburger-kunsthalle.de/en"
+    },
+    {
+      "rank": 9,
+      "name": "Blankenese Elbhang Villas",
+      "postcode": "22587",
+      "distanceKmFromAirport": 29,
+      "description": "Charming historic village suburb on the Elbe with steep lanes, boat trips and riverside dining",
+      "distance": 16.0,
+      "URL": "https://www.hamburg-tourism.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Hamburg Rathaus (City Hall)",
+      "postcode": "20095",
+      "distanceKmFromAirport": 14,
+      "description": "Magnificent 1897 neo-Renaissance city hall with 647 rooms and a striking copper-roof tower",
+      "distance": 0.5,
+      "URL": "https://www.hamburg.de/rathaus/4792702/besichtigungen-von-rathaus-und-rathaussaal/"
+    }
+  ]
+}

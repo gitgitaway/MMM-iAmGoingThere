@@ -1,0 +1,98 @@
+{
+  "city": "Granada",
+  "country": "Spain",
+  "airportPostcode": "18329",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Alhambra Palace",
+      "postcode": "18009",
+      "distanceKmFromAirport": 19,
+      "description": "Spain's most visited monument; the extraordinary 13th-14th century Nasrid palace complex with the Palacios Nazaries, Generalife gardens and Alcazaba fortress",
+      "distance": 1.5,
+      "URL": "https://www.alhambra-patronato.es/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Generalife Gardens",
+      "postcode": "18009",
+      "distanceKmFromAirport": 19,
+      "description": "The summer palace and garden retreat of the Nasrid sultans with ornate water channels, rose gardens and panoramic views across the Alhambra and Sierra Nevada",
+      "distance": 2.0,
+      "URL": "https://www.alhambra-patronato.es/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Albaicin Quarter (UNESCO)",
+      "postcode": "18010",
+      "distanceKmFromAirport": 19,
+      "description": "UNESCO World Heritage Moorish old quarter of whitewashed carmenes (villas) climbing the hillside opposite the Alhambra with labyrinthine medieval streets",
+      "distance": 1.0,
+      "URL": "https://www.granadatur.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Granada Cathedral and Royal Chapel",
+      "postcode": "18001",
+      "distanceKmFromAirport": 18,
+      "description": "Spain's finest Renaissance cathedral (1523) with the adjacent Royal Chapel housing the tombs of Ferdinand and Isabella, unifiers of modern Spain",
+      "distance": 0.5,
+      "URL": "https://www.catedraldegaranada.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Sacromonte",
+      "postcode": "18010",
+      "distanceKmFromAirport": 19,
+      "description": "Granada's cave district hewn into the hillside above the Albaicin; the birthplace of flamenco in its most raw form; evening zambra performances are unmissable",
+      "distance": 2.0,
+      "URL": "https://www.granadatur.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Banuelo Arab Baths",
+      "postcode": "18010",
+      "distanceKmFromAirport": 19,
+      "description": "The best-preserved Moorish bathhouse in Spain, dating from the 11th century; star-shaped skylights create pools of light over the vaulted stone chambers",
+      "distance": 1.2,
+      "URL": "https://www.granadatur.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Science Park (Parque de las Ciencias)",
+      "postcode": "18006",
+      "distanceKmFromAirport": 18,
+      "description": "Andalusia's largest interactive science museum with a planetarium, butterfly house, observatory and extensive hands-on exhibits for all ages",
+      "distance": 2.5,
+      "URL": "https://www.parqueciencias.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Sierra Nevada National Park",
+      "postcode": "18196",
+      "distanceKmFromAirport": 40,
+      "description": "Europe's southernmost ski resort and Spain's highest mountain range just 30km from Granada; hiking, skiing and the Veleta summit at 3,396m",
+      "distance": 32.0,
+      "URL": "https://www.sierranevada.es/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Mirador de San Nicolas",
+      "postcode": "18010",
+      "distanceKmFromAirport": 19,
+      "description": "The most celebrated viewpoint in Granada, offering the classic postcard view of the Alhambra framed by the Sierra Nevada at sunset",
+      "distance": 1.5,
+      "URL": "https://www.granadatur.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Estadio Nuevo Los Carmenes",
+      "postcode": "18013",
+      "distanceKmFromAirport": 18,
+      "description": "Home of Granada CF with 19,336 capacity; the club's remarkable story included reaching the UEFA Europa League quarter-finals in 2020-21",
+      "distance": 2.5,
+      "URL": "https://www.granadacf.es/en/"
+    }
+  ]
+}

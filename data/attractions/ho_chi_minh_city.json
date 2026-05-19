@@ -1,0 +1,98 @@
+{
+  "city": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "airportPostcode": "700000",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cu Chi Tunnels",
+      "postcode": "822000",
+      "distanceKmFromAirport": 78,
+      "description": "Extraordinary 250-km underground wartime network used by Viet Cong — crawl through actual tunnels",
+      "distance": 70.0,
+      "URL": "https://vietnam.travel/en/"
+    },
+    {
+      "rank": 2,
+      "name": "War Remnants Museum",
+      "postcode": "700000",
+      "distanceKmFromAirport": 11,
+      "description": "Powerful and sobering museum documenting the Vietnam War from a Vietnamese perspective",
+      "distance": 3.0,
+      "URL": "https://warremnantsmuseum.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Ben Thanh Market",
+      "postcode": "700000",
+      "distanceKmFromAirport": 10,
+      "description": "Saigon's most iconic market with stalls of Vietnamese food, silk, lacquerware and souvenirs",
+      "distance": 2.0,
+      "URL": "https://saigon.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Reunification Palace",
+      "postcode": "700000",
+      "distanceKmFromAirport": 10,
+      "description": "The former South Vietnamese presidential palace where tanks crashed through the gates in April 1975",
+      "distance": 2.5,
+      "URL": "https://www.dinhdoclap.gov.vn/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Notre-Dame Cathedral & Central Post Office",
+      "postcode": "700000",
+      "distanceKmFromAirport": 10,
+      "description": "Twin red-brick French colonial icons from the 1880s in the heart of District 1",
+      "distance": 2.5,
+      "URL": "https://saigon.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Mekong Delta Day Trip",
+      "postcode": "860000",
+      "distanceKmFromAirport": 93,
+      "description": "Boat through the waterways of the rice basket of Vietnam — floating markets, coconut factories and village life",
+      "distance": 85.0,
+      "URL": "https://vietnam.travel/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Pho & Banh Mi Food Trail",
+      "postcode": "700000",
+      "distanceKmFromAirport": 10,
+      "description": "Eat your way through District 1 — pho bo at dawn, banh mi at lunch and bun bo hue for dinner",
+      "distance": 1.5,
+      "URL": "https://saigon.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Fine Arts Museum",
+      "postcode": "700000",
+      "distanceKmFromAirport": 10,
+      "description": "Beautiful 1929 French colonial building housing Vietnamese art from the pre-Doi Moi era to today",
+      "distance": 2.5,
+      "URL": "https://baotangmythuattp.vn/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Rooftop Bar at Bitexco Tower",
+      "postcode": "700000",
+      "distanceKmFromAirport": 10,
+      "description": "Helipad-topped skyscraper with the Chill Sky Bar on the 26th floor — panoramic Saigon River views",
+      "distance": 2.0,
+      "URL": "https://www.bitexcofinancial.vn/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Jade Emperor Pagoda",
+      "postcode": "700000",
+      "distanceKmFromAirport": 12,
+      "description": "Taoist temple (1909) with extraordinary carved wooden figures — possibly the most atmospheric temple in Vietnam",
+      "distance": 3.5,
+      "URL": "https://saigon.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Freiburg",
+  "country": "Germany",
+  "airportPostcode": "68302",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Freiburg Minster",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Magnificent Gothic cathedral of the 13th-16th centuries with an ornately carved portal and the finest medieval spire in Germany",
+      "distance": 0.5,
+      "URL": "https://www.freiburgermuenster.info/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Münsterplatz Market",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Daily farmers market around the cathedral offering Black Forest produce, local cheeses, sausages and artisan goods",
+      "distance": 0.5,
+      "URL": "https://www.freiburg.de/"
+    },
+    {
+      "rank": 3,
+      "name": "Schlossberg",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Forested hill rising steeply above the old town with a hilltop restaurant and sweeping views over Freiburg and the Black Forest",
+      "distance": 0.8,
+      "URL": "https://www.freiburg.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Augustinermuseum",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Outstanding collection of Upper Rhine medieval art in a beautifully converted Augustinian monastery in the heart of the old town",
+      "distance": 0.5,
+      "URL": "https://www.freiburg.de/pb/213048.html"
+    },
+    {
+      "rank": 5,
+      "name": "Bächle",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Freiburg's unique network of medieval water channels running through the city streets, fed by the Dreisam river year-round",
+      "distance": 0.3,
+      "URL": "https://www.freiburg.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Historisches Kaufhaus",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Striking Gothic mercantile hall of 1520 with crimson facade and imperial Habsburg crests overlooking the Münsterplatz",
+      "distance": 0.5,
+      "URL": "https://www.freiburg.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Black Forest (Schwarzwald)",
+      "postcode": "79856",
+      "distanceKmFromAirport": 60,
+      "description": "Germany's most beloved natural landscape of dense fir forests, cuckoo clocks, hot springs and fairy-tale villages, on Freiburg's doorstep",
+      "distance": 15.0,
+      "URL": "https://www.schwarzwald-tourismus.info/en"
+    },
+    {
+      "rank": 8,
+      "name": "Stadtgarten Freiburg",
+      "postcode": "79102",
+      "distanceKmFromAirport": 51,
+      "description": "Victorian public park with a rose garden, ponds and sculptures providing a green oasis in the heart of the city",
+      "distance": 1.5,
+      "URL": "https://www.freiburg.de/"
+    },
+    {
+      "rank": 9,
+      "name": "SC Freiburg Stadion",
+      "postcode": "79100",
+      "distanceKmFromAirport": 53,
+      "description": "State-of-the-art Europa-Park Stadion opened 2021, home of SC Freiburg and one of the greenest football venues in Europe",
+      "distance": 4.0,
+      "URL": "https://www.scfreiburg.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Natural History Museum Freiburg",
+      "postcode": "79098",
+      "distanceKmFromAirport": 50,
+      "description": "Engaging natural history collections spanning geology, palaeontology and zoology with strong Black Forest regional exhibits",
+      "distance": 0.6,
+      "URL": "https://www.freiburg.de/"
+    }
+  ]
+}

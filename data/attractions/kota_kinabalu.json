@@ -1,0 +1,98 @@
+{
+  "city": "Kota Kinabalu",
+  "country": "Malaysia",
+  "airportPostcode": "88100",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mount Kinabalu Climb",
+      "postcode": "89308",
+      "distanceKmFromAirport": 96,
+      "description": "UNESCO World Heritage Borneo's highest peak at 4,095m with a guided overnight summit climb",
+      "distance": 88,
+      "URL": "https://www.sabahtourism.com/destination/mount-kinabalu"
+    },
+    {
+      "rank": 2,
+      "name": "Sipadan Island Diving",
+      "postcode": "91000",
+      "distanceKmFromAirport": 368,
+      "description": "One of the world's top dive sites with sea turtles, sharks and barracuda tornados",
+      "distance": 360,
+      "URL": "https://www.sabahtourism.com/destination/sipadan-island"
+    },
+    {
+      "rank": 3,
+      "name": "Orang-utan Sanctuary (Sepilok)",
+      "postcode": "90000",
+      "distanceKmFromAirport": 388,
+      "description": "Rehabilitation centre where orphaned orang-utans learn to return to the wild",
+      "distance": 380,
+      "URL": "https://www.wildlife.com.my/sepilok-orang-utan-rehabilitation-centre"
+    },
+    {
+      "rank": 4,
+      "name": "Sunset at the Filipino Market",
+      "postcode": "88000",
+      "distanceKmFromAirport": 9,
+      "description": "Evening market with fresh barbecued seafood on the Kota Kinabalu waterfront",
+      "distance": 1,
+      "URL": "https://www.sabahtourism.com/destination/kk-waterfront"
+    },
+    {
+      "rank": 5,
+      "name": "Tunku Abdul Rahman Marine Park",
+      "postcode": "88000",
+      "distanceKmFromAirport": 14,
+      "description": "Five island marine park with snorkelling 10 minutes by boat from the city",
+      "distance": 6,
+      "URL": "https://www.sabahtourism.com/destination/tunku-abdul-rahman-park"
+    },
+    {
+      "rank": 6,
+      "name": "Rafflesia Viewing (Poring Hot Springs)",
+      "postcode": "89308",
+      "distanceKmFromAirport": 103,
+      "description": "See the world's largest flower - the Rafflesia arnoldii blooms 100cm across",
+      "distance": 95,
+      "URL": "https://www.sabahtourism.com/destination/poring-hot-springs"
+    },
+    {
+      "rank": 7,
+      "name": "Kinabalu Park & Canopy Walkway",
+      "postcode": "89308",
+      "distanceKmFromAirport": 96,
+      "description": "UNESCO World Heritage lowland rainforest with pitcher plants and hornbills",
+      "distance": 88,
+      "URL": "https://www.sabahparks.org.my"
+    },
+    {
+      "rank": 8,
+      "name": "Monsopiad Cultural Village",
+      "postcode": "88450",
+      "distanceKmFromAirport": 21,
+      "description": "Kadazan-Dusun village with headhunting history and traditional dancing",
+      "distance": 13,
+      "URL": "https://www.monsopiad.com"
+    },
+    {
+      "rank": 9,
+      "name": "Gaya Island Snorkelling",
+      "postcode": "88000",
+      "distanceKmFromAirport": 14,
+      "description": "Coral reef snorkelling and the Garama River firefly cruise",
+      "distance": 6,
+      "URL": "https://www.sabahtourism.com/destination/gaya-island"
+    },
+    {
+      "rank": 10,
+      "name": "Hinava (Raw Fish Salad)",
+      "postcode": "88000",
+      "distanceKmFromAirport": 9,
+      "description": "KK's signature Kadazan-Dusun dish - raw fish marinated in bitter gourd and lime",
+      "distance": 1,
+      "URL": "https://www.sabahtourism.com"
+    }
+  ]
+}

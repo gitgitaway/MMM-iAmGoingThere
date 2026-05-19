@@ -1,0 +1,98 @@
+{
+  "city": "Khartoum",
+  "country": "Sudan",
+  "airportPostcode": "11111",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Meroe Pyramids",
+      "postcode": "11111",
+      "distanceKmFromAirport": 204,
+      "description": "Over 200 ancient Nubian pyramids in the desert - Sudan's most spectacular ancient site",
+      "distance": 200,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Sudan National Museum",
+      "postcode": "11111",
+      "distanceKmFromAirport": 6,
+      "description": "Africa's finest collection of Nubian antiquities including reconstructed temples",
+      "distance": 2,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Confluence of the Niles",
+      "postcode": "11111",
+      "distanceKmFromAirport": 7,
+      "description": "The dramatic meeting point of the Blue and White Nile rivers",
+      "distance": 3,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Whirling Dervishes of Omdurman",
+      "postcode": "11111",
+      "distanceKmFromAirport": 9,
+      "description": "Friday afternoon Sufi ceremony with drumming and the spinning of the Qadiriyya order",
+      "distance": 5,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Omdurman Camel Market",
+      "postcode": "11111",
+      "distanceKmFromAirport": 12,
+      "description": "One of Africa's largest camel markets - held weekly on the edge of the desert",
+      "distance": 8,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Naqa & Musawwarat Temples",
+      "postcode": "11111",
+      "distanceKmFromAirport": 174,
+      "description": "Remote Meroitic temples including the Lion Temple of Apademak",
+      "distance": 170,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Khalifa's House Museum",
+      "postcode": "11111",
+      "distanceKmFromAirport": 9,
+      "description": "Home of the Mahdi's successor - museum of the Mahdist state",
+      "distance": 5,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Nuri Pyramids",
+      "postcode": "11111",
+      "distanceKmFromAirport": 354,
+      "description": "Ancient Nubian royal cemetery of 19 kings and 52 queens",
+      "distance": 350,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Souk Omdurman",
+      "postcode": "11111",
+      "distanceKmFromAirport": 9,
+      "description": "Largest market in Sudan with gold, spices, textiles and traditional crafts",
+      "distance": 5,
+      "URL": "https://www.visitsudan.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Tuti Island",
+      "postcode": "11111",
+      "distanceKmFromAirport": 7,
+      "description": "Idyllic farming island at the confluence of the Niles - accessible by ferry",
+      "distance": 3,
+      "URL": "https://www.visitsudan.com/"
+    }
+  ]
+}

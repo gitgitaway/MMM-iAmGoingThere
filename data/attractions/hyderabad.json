@@ -1,0 +1,98 @@
+{
+  "city": "Hyderabad",
+  "country": "India",
+  "airportPostcode": "500108",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Charminar",
+      "postcode": "500002",
+      "distanceKmFromAirport": 35,
+      "description": "1591 four-minaret triumphal arch and mosque at the heart of the old city",
+      "distance": 10,
+      "URL": "https://www.telangamatourism.gov.in"
+    },
+    {
+      "rank": 2,
+      "name": "Golconda Fort",
+      "postcode": "500008",
+      "distanceKmFromAirport": 36,
+      "description": "16th-century Qutb Shahi fortress with acoustic signalling and the Koh-i-Noor diamond heritage",
+      "distance": 11,
+      "URL": "https://www.telangamatourism.gov.in"
+    },
+    {
+      "rank": 3,
+      "name": "Qutb Shahi Tombs",
+      "postcode": "500008",
+      "distanceKmFromAirport": 36,
+      "description": "Seven spectacular Qutb Shahi dynasty tombs in restored gardens",
+      "distance": 11,
+      "URL": "https://www.agakhanheritage.org"
+    },
+    {
+      "rank": 4,
+      "name": "Salar Jung Museum",
+      "postcode": "500002",
+      "distanceKmFromAirport": 33,
+      "description": "World's largest one-person art collection with the famous split-second Veiled Rebecca statue",
+      "distance": 8,
+      "URL": "https://www.salarjungmuseum.in"
+    },
+    {
+      "rank": 5,
+      "name": "Laad Bazaar (Chudi Bazaar)",
+      "postcode": "500002",
+      "distanceKmFromAirport": 35,
+      "description": "Hyderabad's famous bangle market next to Charminar - glass, lac and precious stone bangles",
+      "distance": 10,
+      "URL": "https://www.telangamatourism.gov.in"
+    },
+    {
+      "rank": 6,
+      "name": "Ramoji Film City",
+      "postcode": "501512",
+      "distanceKmFromAirport": 55,
+      "description": "World's largest film studio complex with Bollywood sets open for tours",
+      "distance": 30,
+      "URL": "https://www.ramojifilmcity.com"
+    },
+    {
+      "rank": 7,
+      "name": "Hussain Sagar Lake",
+      "postcode": "500004",
+      "distanceKmFromAirport": 29,
+      "description": "Artificial lake with India's largest monolithic Buddha statue on an island",
+      "distance": 4,
+      "URL": "https://www.telangamatourism.gov.in"
+    },
+    {
+      "rank": 8,
+      "name": "Birla Mandir",
+      "postcode": "500004",
+      "distanceKmFromAirport": 29,
+      "description": "White marble hilltop temple with city views and fine Nalgonda white marble sculpture",
+      "distance": 4,
+      "URL": "https://www.telangamatourism.gov.in"
+    },
+    {
+      "rank": 9,
+      "name": "Nizam's Museum",
+      "postcode": "500004",
+      "distanceKmFromAirport": 30,
+      "description": "Royal artefacts of the world's wealthiest man - the Nizam of Hyderabad",
+      "distance": 5,
+      "URL": "https://www.telangamatourism.gov.in"
+    },
+    {
+      "rank": 10,
+      "name": "Dum Biryani at Paradise",
+      "postcode": "500003",
+      "distanceKmFromAirport": 31,
+      "description": "Hyderabadi biryani - slow-cooked with saffron in sealed clay pots - the finest in India",
+      "distance": 6,
+      "URL": "https://www.paradisebiryani.com"
+    }
+  ]
+}

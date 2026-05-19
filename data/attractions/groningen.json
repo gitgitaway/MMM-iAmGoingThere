@@ -1,0 +1,98 @@
+{
+  "city": "Groningen",
+  "country": "Netherlands",
+  "airportPostcode": "9765 AD",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Groningen Museum",
+      "postcode": "9712 EN",
+      "distanceKmFromAirport": 10,
+      "description": "Striking postmodern museum on a canal island with art, design and local history",
+      "distance": 0.5,
+      "URL": "https://www.groningermuseum.nl"
+    },
+    {
+      "rank": 2,
+      "name": "Martinitoren",
+      "postcode": "9712 JH",
+      "distanceKmFromAirport": 10,
+      "description": "97-metre medieval tower offering the finest views over the city and surrounding landscape",
+      "distance": 0.3,
+      "URL": "https://www.martinitoren.nl"
+    },
+    {
+      "rank": 3,
+      "name": "Forum Groningen",
+      "postcode": "9712 AK",
+      "distanceKmFromAirport": 10,
+      "description": "Dynamic cultural centre with cinema, library, rooftop terrace and panoramic views",
+      "distance": 0.3,
+      "URL": "https://www.forum.nl"
+    },
+    {
+      "rank": 4,
+      "name": "Prinsentuin",
+      "postcode": "9712 KZ",
+      "distanceKmFromAirport": 10,
+      "description": "Formal Renaissance garden in the grounds of the Prinsenhof hotel and museum",
+      "distance": 0.5,
+      "URL": "https://www.prinsenhof-groningen.nl"
+    },
+    {
+      "rank": 5,
+      "name": "Noorderplantsoen",
+      "postcode": "9717 DB",
+      "distanceKmFromAirport": 11,
+      "description": "Beloved 19th-century English landscape park, heart of the city's social life",
+      "distance": 1,
+      "URL": "https://www.groningen.nl"
+    },
+    {
+      "rank": 6,
+      "name": "Aa-Kerk",
+      "postcode": "9712 CH",
+      "distanceKmFromAirport": 10,
+      "description": "Gothic church housing the remarkable Aa-Kerk organ and modern art exhibitions",
+      "distance": 0.3,
+      "URL": "https://www.aa-kerk.nl"
+    },
+    {
+      "rank": 7,
+      "name": "Vismarkt",
+      "postcode": "9711 KX",
+      "distanceKmFromAirport": 10,
+      "description": "Historic market square with surrounding cafes and the Korenbeurs building",
+      "distance": 0.2,
+      "URL": "https://www.visitgroningen.nl"
+    },
+    {
+      "rank": 8,
+      "name": "University of Groningen",
+      "postcode": "9712 CP",
+      "distanceKmFromAirport": 10,
+      "description": "One of Europe's oldest universities with a beautiful academy building and botanical garden",
+      "distance": 0.5,
+      "URL": "https://www.rug.nl"
+    },
+    {
+      "rank": 9,
+      "name": "Hortus Botanicus Haren",
+      "postcode": "9750 AA",
+      "distanceKmFromAirport": 18,
+      "description": "Spectacular botanical garden with Chinese garden and tropical glasshouses",
+      "distance": 8,
+      "URL": "https://www.hortus.nl"
+    },
+    {
+      "rank": 10,
+      "name": "Lauwersoog & Wadden Sea",
+      "postcode": "9976 VS",
+      "distanceKmFromAirport": 60,
+      "description": "UNESCO World Heritage tidal flats and nature reserve with seal watching",
+      "distance": 50,
+      "URL": "https://www.waddenzee.nl"
+    }
+  ]
+}

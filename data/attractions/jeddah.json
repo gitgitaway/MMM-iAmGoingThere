@@ -1,0 +1,98 @@
+{
+  "city": "Jeddah",
+  "country": "Saudi Arabia",
+  "airportPostcode": "21577",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Al-Balad Historic District",
+      "postcode": "21411",
+      "distanceKmFromAirport": 28,
+      "description": "UNESCO World Heritage old city with coral-stone tower houses and mashrabiya wooden latticework",
+      "distance": 2,
+      "URL": "https://albalad.sa/"
+    },
+    {
+      "rank": 2,
+      "name": "King Fahd Fountain",
+      "postcode": "21577",
+      "distanceKmFromAirport": 29,
+      "description": "World's tallest fountain at 312m shooting water into the Red Sea - spectacular at night",
+      "distance": 3,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Red Sea Snorkelling & Diving",
+      "postcode": "21577",
+      "distanceKmFromAirport": 31,
+      "description": "World-class Red Sea coral reefs with incredible marine biodiversity just offshore",
+      "distance": 5,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Corniche Promenade",
+      "postcode": "21577",
+      "distanceKmFromAirport": 29,
+      "description": "30km seafront promenade along the Red Sea with parks, sculptures and the famous globe",
+      "distance": 3,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Floating Mosque (Al-Rahma)",
+      "postcode": "21411",
+      "distanceKmFromAirport": 29,
+      "description": "Unique mosque built on stilts over the Red Sea, appearing to float at high tide",
+      "distance": 3,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Al-Shallal Theme Park",
+      "postcode": "21411",
+      "distanceKmFromAirport": 36,
+      "description": "Amusement and water park on the Red Sea coast",
+      "distance": 10,
+      "URL": "https://www.al-shallal.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Souq Al-Alawi",
+      "postcode": "21411",
+      "distanceKmFromAirport": 28,
+      "description": "Traditional market in Al-Balad selling gold, spices, incense and authentic Saudi goods",
+      "distance": 2,
+      "URL": "https://albalad.sa/"
+    },
+    {
+      "rank": 8,
+      "name": "Fakieh Aquarium",
+      "postcode": "21411",
+      "distanceKmFromAirport": 36,
+      "description": "Marine life of the Red Sea with dolphin shows and the largest shark tank in the region",
+      "distance": 10,
+      "URL": "https://www.fakiehaquarium.com/"
+    },
+    {
+      "rank": 9,
+      "name": "King Abdulaziz International Stadium",
+      "postcode": "21577",
+      "distanceKmFromAirport": 34,
+      "description": "Distinctive 62,000-seat football stadium with an innovative translucent polymer roof",
+      "distance": 8,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Taif Rose Festival",
+      "postcode": "21944",
+      "distanceKmFromAirport": 116,
+      "description": "Day trip to the cool mountain city famous for its rose distilleries and honey",
+      "distance": 90,
+      "URL": "https://www.visitsaudi.com/"
+    }
+  ]
+}

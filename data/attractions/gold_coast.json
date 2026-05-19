@@ -1,0 +1,98 @@
+{
+  "city": "Gold Coast",
+  "country": "Australia",
+  "airportPostcode": "QLD 4225",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Surfers Paradise Beach",
+      "postcode": "QLD 4217",
+      "distanceKmFromAirport": 24,
+      "description": "Iconic golden sand beach backed by a glittering skyline, the heart of the Gold Coast",
+      "distance": 0.5,
+      "URL": "https://www.destinationgoldcoast.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Theme Parks",
+      "postcode": "QLD 4210",
+      "distanceKmFromAirport": 49,
+      "description": "Movie World, Dreamworld, Sea World and Wet'n'Wild - Australia's theme park capital",
+      "distance": 25.0,
+      "URL": "https://www.movieworld.com.au/"
+    },
+    {
+      "rank": 3,
+      "name": "Lamington National Park",
+      "postcode": "QLD 4285",
+      "distanceKmFromAirport": 99,
+      "description": "UNESCO World Heritage subtropical rainforest with ancient hoop pines and waterfalls",
+      "distance": 75.0,
+      "URL": "https://parks.des.qld.gov.au/parks/lamington"
+    },
+    {
+      "rank": 4,
+      "name": "Burleigh Heads National Park",
+      "postcode": "QLD 4220",
+      "distanceKmFromAirport": 39,
+      "description": "Volcanic headland park with rainforest walk and world-class point break surfing",
+      "distance": 15.0,
+      "URL": "https://parks.des.qld.gov.au/parks/burleigh-head"
+    },
+    {
+      "rank": 5,
+      "name": "Currumbin Wildlife Sanctuary",
+      "postcode": "QLD 4223",
+      "distanceKmFromAirport": 49,
+      "description": "Wildlife park famous for rainbow lorikeet feeding and koala encounters",
+      "distance": 25.0,
+      "URL": "https://www.cws.org.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Main Beach & Marina Mirage",
+      "postcode": "QLD 4217",
+      "distanceKmFromAirport": 27,
+      "description": "Exclusive shopping and dining district at the gateway to the Broadwater",
+      "distance": 3.0,
+      "URL": "https://www.destinationgoldcoast.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Q1 Tower SkyPoint",
+      "postcode": "QLD 4217",
+      "distanceKmFromAirport": 24,
+      "description": "Observation deck on the 77th floor of the Southern Hemisphere's tallest residential tower",
+      "distance": 0.5,
+      "URL": "https://www.skypoint.com.au/"
+    },
+    {
+      "rank": 8,
+      "name": "Coolangatta",
+      "postcode": "QLD 4225",
+      "distanceKmFromAirport": 54,
+      "description": "Laid-back surf town on the NSW border with the legendary Snapper Rocks point break",
+      "distance": 30.0,
+      "URL": "https://www.destinationgoldcoast.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Springbrook National Park",
+      "postcode": "QLD 4213",
+      "distanceKmFromAirport": 79,
+      "description": "Ancient Gondwana rainforest with Natural Bridge glowworm cave and waterfalls",
+      "distance": 55.0,
+      "URL": "https://parks.des.qld.gov.au/parks/springbrook"
+    },
+    {
+      "rank": 10,
+      "name": "Broadwater Parklands",
+      "postcode": "QLD 4218",
+      "distanceKmFromAirport": 32,
+      "description": "Waterfront park with kayaking, stand-up paddle boarding and Gold Coast Aquatic Centre",
+      "distance": 8.0,
+      "URL": "https://www.destinationgoldcoast.com/"
+    }
+  ]
+}

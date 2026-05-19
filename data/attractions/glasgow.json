@@ -1,0 +1,98 @@
+{
+  "city": "Glasgow",
+  "country": "United Kingdom",
+  "airportPostcode": "PA3 2SW",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kelvingrove Art Gallery & Museum",
+      "postcode": "G3 8AG",
+      "distanceKmFromAirport": 16,
+      "description": "Scotland's most visited museum with 22 themed galleries including armour and Dali's Christ",
+      "distance": 3.5,
+      "URL": "https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum"
+    },
+    {
+      "rank": 2,
+      "name": "Burrell Collection",
+      "postcode": "G43 1AT",
+      "distanceKmFromAirport": 19,
+      "description": "Internationally renowned art collection of 9,000 objects in a stunning park setting",
+      "distance": 6.0,
+      "URL": "https://www.glasgowlife.org.uk/museums/venues/the-burrell-collection"
+    },
+    {
+      "rank": 3,
+      "name": "Glasgow Cathedral",
+      "postcode": "G4 0QZ",
+      "distanceKmFromAirport": 14,
+      "description": "Finest example of medieval Gothic architecture in Scotland, dating to 1136",
+      "distance": 1.5,
+      "URL": "https://www.glasgowcathedral.org.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Riverside Museum",
+      "postcode": "G3 8RS",
+      "distanceKmFromAirport": 18,
+      "description": "Zaha Hadid-designed transport museum on the banks of the Clyde",
+      "distance": 4.5,
+      "URL": "https://www.glasgowlife.org.uk/museums/venues/riverside-museum"
+    },
+    {
+      "rank": 5,
+      "name": "George Square",
+      "postcode": "G2 1DU",
+      "distanceKmFromAirport": 14,
+      "description": "City's main civic square surrounded by Victorian architecture and statues",
+      "distance": 0.5,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Necropolis",
+      "postcode": "G4 0UZ",
+      "distanceKmFromAirport": 14,
+      "description": "Victorian cemetery on a hill overlooking the cathedral with panoramic city views",
+      "distance": 1.5,
+      "URL": "https://www.glasgownecropolis.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Glasgow Science Centre",
+      "postcode": "G51 1EA",
+      "distanceKmFromAirport": 16,
+      "description": "Award-winning science centre with IMAX and a rotating observation tower",
+      "distance": 3.5,
+      "URL": "https://www.glasgowsciencecentre.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Pollok House",
+      "postcode": "G43 1AT",
+      "distanceKmFromAirport": 20,
+      "description": "Exquisite Edwardian country house with a superb collection of Spanish paintings",
+      "distance": 6.5,
+      "URL": "https://www.nts.org.uk/visit/places/pollok-house"
+    },
+    {
+      "rank": 9,
+      "name": "Botanic Gardens",
+      "postcode": "G12 0UE",
+      "distanceKmFromAirport": 17,
+      "description": "Victorian gardens with the stunning Kibble Palace glasshouse on the River Kelvin",
+      "distance": 4.0,
+      "URL": "https://www.glasgowbotanicgardens.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Mackintosh at the Willow",
+      "postcode": "G2 3NX",
+      "distanceKmFromAirport": 14,
+      "description": "Beautifully restored tearoom designed by Charles Rennie Mackintosh",
+      "distance": 0.8,
+      "URL": "https://www.mackintoshatthewillow.com/"
+    }
+  ]
+}

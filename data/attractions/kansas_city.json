@@ -1,0 +1,98 @@
+{
+  "city": "Kansas City",
+  "country": "USA",
+  "airportPostcode": "64153",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National WWI Museum and Memorial",
+      "postcode": "64108",
+      "distanceKmFromAirport": 26,
+      "description": "America's leading museum dedicated to the First World War with a stunning memorial tower",
+      "distance": 2.0,
+      "URL": "https://www.theworldwar.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Country Club Plaza",
+      "postcode": "64112",
+      "distanceKmFromAirport": 30,
+      "description": "America's first outdoor shopping center with Spanish architecture and fountains",
+      "distance": 5.5,
+      "URL": "https://www.countryclubplaza.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Nelson-Atkins Museum of Art",
+      "postcode": "64111",
+      "distanceKmFromAirport": 28,
+      "description": "World-class art museum famous for its shuttlecock sculptures on the lawn",
+      "distance": 4.5,
+      "URL": "https://www.nelson-atkins.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Kansas City Power & Light District",
+      "postcode": "64105",
+      "distanceKmFromAirport": 24,
+      "description": "Vibrant entertainment district with bars, restaurants and live music in the heart of downtown",
+      "distance": 0.5,
+      "URL": "https://www.powerandlightdistrict.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Kansas City Zoo",
+      "postcode": "64132",
+      "distanceKmFromAirport": 32,
+      "description": "202-acre zoo home to over 1,700 animals including African and Australian sections",
+      "distance": 8.0,
+      "URL": "https://www.kansascityzoo.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Arrowhead Stadium",
+      "postcode": "64129",
+      "distanceKmFromAirport": 34,
+      "description": "Home of the Kansas City Chiefs NFL team, one of the loudest stadiums in the world",
+      "distance": 10.0,
+      "URL": "https://www.chiefs.com/arrowhead/"
+    },
+    {
+      "rank": 7,
+      "name": "Arabia Steamboat Museum",
+      "postcode": "64106",
+      "distanceKmFromAirport": 26,
+      "description": "1856 steamboat excavated from a Missouri cornfield displaying 200 tons of pioneer cargo",
+      "distance": 1.5,
+      "URL": "https://www.1856.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Kansas City BBQ Trail",
+      "postcode": "64108",
+      "distanceKmFromAirport": 26,
+      "description": "World-famous barbecue scene with iconic joints like Joe's, Arthur Bryant's and Gates",
+      "distance": 2.0,
+      "URL": "https://www.visitkc.com/things-to-do/food-drink/barbecue"
+    },
+    {
+      "rank": 9,
+      "name": "Kemper Museum of Contemporary Art",
+      "postcode": "64111",
+      "distanceKmFromAirport": 29,
+      "description": "Free contemporary art museum with rotating exhibitions and a sculpture garden",
+      "distance": 5.0,
+      "URL": "https://www.kemperart.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Union Station Kansas City",
+      "postcode": "64108",
+      "distanceKmFromAirport": 26,
+      "description": "Beautifully restored 1914 Beaux-Arts train station housing science exhibits and restaurants",
+      "distance": 2.0,
+      "URL": "https://www.unionstation.org/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Kinshasa",
+  "country": "DR Congo",
+  "airportPostcode": "BP 2401",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Rumba Music at L'Atmosphère",
+      "postcode": "243",
+      "distanceKmFromAirport": 27,
+      "description": "Kinshasa is the home of Congo rumba - UNESCO Intangible Heritage performed nightly",
+      "distance": 2,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Congo River Ferry to Brazzaville",
+      "postcode": "243",
+      "distanceKmFromAirport": 26,
+      "description": "Cross the world's deepest river between Africa's two closest capitals",
+      "distance": 1,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of Congo",
+      "postcode": "243",
+      "distanceKmFromAirport": 28,
+      "description": "Kuba Kingdom masks, Luba ceremonial objects and Congolese natural history",
+      "distance": 3,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Marche de la Liberte",
+      "postcode": "243",
+      "distanceKmFromAirport": 27,
+      "description": "Kinshasa's main market with authentic Congolese wax prints, wood carvings and masks",
+      "distance": 2,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Virunga National Park",
+      "postcode": "243",
+      "distanceKmFromAirport": 1505,
+      "description": "UNESCO World Heritage Africa's oldest park - gorilla trekking and active volcano Nyiragongo",
+      "distance": 1480,
+      "URL": "https://www.virunga.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Académie des Beaux-Arts de Kinshasa",
+      "postcode": "243",
+      "distanceKmFromAirport": 28,
+      "description": "Africa's leading art school with extraordinary contemporary Congolese painting",
+      "distance": 3,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Lola ya Bonobo Sanctuary",
+      "postcode": "243",
+      "distanceKmFromAirport": 55,
+      "description": "World's only bonobo sanctuary - meet the closest relative to human DNA",
+      "distance": 30,
+      "URL": "https://www.lolayabonobo.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Boulevard du 30 Juin",
+      "postcode": "243",
+      "distanceKmFromAirport": 26,
+      "description": "Kinshasa's grand colonial-era boulevard with the 1960 independence monument",
+      "distance": 1,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Cité de l'Union Africaine Quarter",
+      "postcode": "243",
+      "distanceKmFromAirport": 30,
+      "description": "Where Africa's movers and shakers meet - restaurants and bars of high Kinshasa",
+      "distance": 5,
+      "URL": "https://www.visitdrc.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Pondu ya Madesu (Cassava Leaves & Beans)",
+      "postcode": "243",
+      "distanceKmFromAirport": 26,
+      "description": "Congolese staple - cassava leaves pounded with palm oil and black-eyed beans",
+      "distance": 1,
+      "URL": "https://www.visitdrc.com/"
+    }
+  ]
+}

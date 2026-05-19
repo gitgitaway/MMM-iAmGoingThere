@@ -1,0 +1,98 @@
+{
+  "city": "Jerusalem",
+  "country": "Israel",
+  "airportPostcode": "7019900",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old City and Western Wall (UNESCO)",
+      "postcode": "9411801",
+      "distanceKmFromAirport": 51,
+      "description": "UNESCO World Heritage walled city sacred to three Abrahamic faiths; the Western Wall, Temple Mount and Church of the Holy Sepulchre are among the most venerated sites on earth",
+      "distance": 1.0,
+      "URL": "https://www.itraveljerusalem.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Dome of the Rock and Temple Mount",
+      "postcode": "9411801",
+      "distanceKmFromAirport": 51,
+      "description": "Iconic golden-domed Islamic shrine built in 692 AD on the holiest site in Judaism; the Mount is where Abraham's sacrifice took place and from where Muhammad ascended to heaven",
+      "distance": 1.0,
+      "URL": "https://www.itraveljerusalem.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Yad Vashem Holocaust Memorial",
+      "postcode": "9103401",
+      "distanceKmFromAirport": 52,
+      "description": "Israel's official memorial to the Holocaust on Mount Herzl; the stunning triangular museum traces the lives of six million Jewish victims with deeply moving exhibits",
+      "distance": 5.0,
+      "URL": "https://www.yadvashem.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Israel Museum",
+      "postcode": "9119004",
+      "distanceKmFromAirport": 51,
+      "description": "Israel's national museum with the Dead Sea Scrolls in the Shrine of the Book; the comprehensive collections of archaeology, Judaica and fine art make this one of the world's great museums",
+      "distance": 3.0,
+      "URL": "https://www.imj.org.il/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Church of the Holy Sepulchre",
+      "postcode": "9411801",
+      "distanceKmFromAirport": 51,
+      "description": "The holiest site in Christianity, built over the sites of Jesus's crucifixion, burial and resurrection; shared by six Christian denominations in a medieval labyrinth of chapels",
+      "distance": 1.0,
+      "URL": "https://www.itraveljerusalem.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Mahane Yehuda Market",
+      "postcode": "9422205",
+      "distanceKmFromAirport": 51,
+      "description": "Jerusalem's legendary market known as The Shuk with 250 stalls of fresh produce, street food, bakeries and restaurants; by night it transforms into a vibrant bar and nightlife scene",
+      "distance": 2.0,
+      "URL": "https://www.machne.co.il/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Mount of Olives",
+      "postcode": "9384601",
+      "distanceKmFromAirport": 51,
+      "description": "Sacred hill east of the Old City with panoramic views over Jerusalem; the Garden of Gethsemane, the Church of All Nations and a Jewish cemetery with 150,000 graves",
+      "distance": 2.0,
+      "URL": "https://www.itraveljerusalem.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Tower of David Museum",
+      "postcode": "9411501",
+      "distanceKmFromAirport": 51,
+      "description": "Citadel near the Jaffa Gate with 4,000 years of Jerusalem history told through stunning exhibits; the nightly Night Spectacular light show projected on the ancient walls is unmissable",
+      "distance": 1.0,
+      "URL": "https://www.tod.org.il/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Ben Yehuda Street and City Centre",
+      "postcode": "9423301",
+      "distanceKmFromAirport": 51,
+      "description": "Jerusalem's pedestrian shopping street and modern city centre with cafes, restaurants, street musicians and the pulse of modern Jewish Israeli life contrasting with the ancient Old City",
+      "distance": 1.5,
+      "URL": "https://www.itraveljerusalem.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Teddy Stadium",
+      "postcode": "9546200",
+      "distanceKmFromAirport": 52,
+      "description": "Home of Beitar Jerusalem with 31,733 capacity; one of Israel's most popular and colourful clubs, the team participated in the UEFA Europa League in 2019-20",
+      "distance": 4.0,
+      "URL": "https://www.beitarfc.co.il/en/"
+    }
+  ]
+}

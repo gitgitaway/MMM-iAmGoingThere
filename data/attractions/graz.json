@@ -1,0 +1,98 @@
+{
+  "city": "Graz",
+  "country": "Austria",
+  "airportPostcode": "8073",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Schlossberg",
+      "postcode": "8010",
+      "distanceKmFromAirport": 11,
+      "description": "Forested hilltop fortress rising 123m above the old town with the iconic 16th-century Clock Tower, Graz's most beloved symbol",
+      "distance": 0.8,
+      "URL": "https://www.graztourismus.at/en/see-and-do/attractions/schlossberg"
+    },
+    {
+      "rank": 2,
+      "name": "Historic Centre of Graz (UNESCO)",
+      "postcode": "8010",
+      "distanceKmFromAirport": 11,
+      "description": "UNESCO World Heritage old town with an extraordinary concentration of Renaissance and Baroque architecture in Central Europe",
+      "distance": 0.5,
+      "URL": "https://www.graztourismus.at/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Kunsthaus Graz",
+      "postcode": "8010",
+      "distanceKmFromAirport": 11,
+      "description": "Extraordinary biomorphic contemporary art museum nicknamed the Friendly Alien, a bold landmark on the Mur riverbank",
+      "distance": 0.8,
+      "URL": "https://www.museum-joanneum.at/en/kunsthaus-graz"
+    },
+    {
+      "rank": 4,
+      "name": "Murinsel",
+      "postcode": "8020",
+      "distanceKmFromAirport": 11,
+      "description": "Futuristic floating island café and event space in the middle of the Mur River, designed by Vito Acconci for Graz 2003 Cultural Capital",
+      "distance": 1.0,
+      "URL": "https://www.graztourismus.at/en/see-and-do/attractions/murinsel"
+    },
+    {
+      "rank": 5,
+      "name": "Eggenberg Palace",
+      "postcode": "8020",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage baroque palace of 1635 with 24 state apartments, hunting museum and a deer park on the city's western edge",
+      "distance": 4.0,
+      "URL": "https://www.museum-joanneum.at/en/schloss-eggenberg"
+    },
+    {
+      "rank": 6,
+      "name": "Hauptplatz",
+      "postcode": "8010",
+      "distanceKmFromAirport": 11,
+      "description": "Graz's grand central square with the Erzherzog-Johann-Brunnen fountain, baroque town hall and pavement cafes at the city's heart",
+      "distance": 0.3,
+      "URL": "https://www.graztourismus.at/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Landesmuseum Joanneum",
+      "postcode": "8010",
+      "distanceKmFromAirport": 11,
+      "description": "Austria's oldest public museum with encyclopedic collections spanning natural history, art and cultural history of Styria",
+      "distance": 0.7,
+      "URL": "https://www.museum-joanneum.at/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Kaiser-Josef-Markt",
+      "postcode": "8020",
+      "distanceKmFromAirport": 11,
+      "description": "Colourful daily farmers market where Graz residents buy fresh Styrian produce including world-famous pumpkin seed oil",
+      "distance": 1.2,
+      "URL": "https://www.graztourismus.at/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Merkur Arena",
+      "postcode": "8055",
+      "distanceKmFromAirport": 12,
+      "description": "Home stadium of Sturm Graz, the city's leading club, with a 16,000 capacity and a passionate atmosphere for Austrian Bundesliga",
+      "distance": 4.5,
+      "URL": "https://www.sturm.at/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Schlossberg Lift and Clock Tower",
+      "postcode": "8010",
+      "distanceKmFromAirport": 11,
+      "description": "Glass panoramic lift cut through the Schlossberg rock face offers the quickest route to the hilltop and its celebrated Clock Tower",
+      "distance": 0.8,
+      "URL": "https://www.graztourismus.at/en/see-and-do/attractions/schlossberg"
+    }
+  ]
+}

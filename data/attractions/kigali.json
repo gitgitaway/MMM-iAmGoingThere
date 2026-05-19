@@ -1,0 +1,98 @@
+{
+  "city": "Kigali",
+  "country": "Rwanda",
+  "airportPostcode": "250",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kigali Genocide Memorial",
+      "postcode": "250",
+      "distanceKmFromAirport": 15,
+      "description": "Moving and essential memorial to the 1994 genocide - resting place for 250,000 victims",
+      "distance": 5,
+      "URL": "https://www.kgm.rw/"
+    },
+    {
+      "rank": 2,
+      "name": "Mountain Gorilla Trekking",
+      "postcode": "250",
+      "distanceKmFromAirport": 125,
+      "description": "Trekking to spend one hour with habituated mountain gorilla families in Volcanoes NP",
+      "distance": 115,
+      "URL": "https://www.rwandatourism.rw/"
+    },
+    {
+      "rank": 3,
+      "name": "Inema Arts Centre",
+      "postcode": "250",
+      "distanceKmFromAirport": 15,
+      "description": "Vibrant art studio and gallery showcasing Rwanda's thriving contemporary art scene",
+      "distance": 5,
+      "URL": "https://www.inemaarts.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Nyamata & Ntarama Memorials",
+      "postcode": "250",
+      "distanceKmFromAirport": 40,
+      "description": "Churches that became sites of massacre in 1994 - preserved as they were found",
+      "distance": 30,
+      "URL": "https://www.kgm.rw/"
+    },
+    {
+      "rank": 5,
+      "name": "Kimironko Market",
+      "postcode": "250",
+      "distanceKmFromAirport": 15,
+      "description": "Kigali's largest and most colourful local market for food, fabric and crafts",
+      "distance": 5,
+      "URL": "https://www.visitrwanda.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Nyungwe Forest National Park",
+      "postcode": "250",
+      "distanceKmFromAirport": 235,
+      "description": "Ancient rainforest with chimpanzees, colobus monkeys and a treetop canopy walkway",
+      "distance": 225,
+      "URL": "https://www.rwandatourism.rw/"
+    },
+    {
+      "rank": 7,
+      "name": "Hotel des Mille Collines",
+      "postcode": "250",
+      "distanceKmFromAirport": 13,
+      "description": "The real-life Hotel Rwanda that sheltered 1268 people during the genocide",
+      "distance": 3,
+      "URL": "https://www.millecollines.rw/"
+    },
+    {
+      "rank": 8,
+      "name": "Presidential Palace Museum",
+      "postcode": "250",
+      "distanceKmFromAirport": 18,
+      "description": "Former residence of President Habyarimana - site where the genocide began",
+      "distance": 8,
+      "URL": "https://www.visitrwanda.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Lake Kivu",
+      "postcode": "250",
+      "distanceKmFromAirport": 160,
+      "description": "One of Africa's Great Lakes with dramatic scenery and the resort town of Gisenyi",
+      "distance": 150,
+      "URL": "https://www.visitrwanda.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Akagera National Park",
+      "postcode": "250",
+      "distanceKmFromAirport": 130,
+      "description": "Savanna park with the Big Five restored after extirpation during the genocide",
+      "distance": 120,
+      "URL": "https://www.akageranationalpark.com/"
+    }
+  ]
+}

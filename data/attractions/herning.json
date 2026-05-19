@@ -1,0 +1,98 @@
+{
+  "city": "Herning",
+  "country": "Denmark",
+  "airportPostcode": "7400",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "HEART Herning Museum of Contemporary Art",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Striking museum designed by Steven Holl with outstanding collection of Danish and international modern art including works by Asger Jorn",
+      "distance": 1.5,
+      "URL": "https://www.heartmus.dk/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Birk Centerpark",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Cultural campus designed by C.F. Moller architects housing HEART museum, the Jutland Art Fund and outdoor sculpture park in a unique arts quarter",
+      "distance": 1.5,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Herning Museum",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Regional museum charting the social history of Herning from the wild heathland of the 1800s to the modern textiles and trade hub it became",
+      "distance": 1.0,
+      "URL": "https://www.herningmuseum.dk/"
+    },
+    {
+      "rank": 4,
+      "name": "Aulum Kirke",
+      "postcode": "7490",
+      "distanceKmFromAirport": 15,
+      "description": "Beautiful Romanesque church from the 12th century with distinctive frescoes, set in the rolling farmland west of Herning",
+      "distance": 12.0,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Jutland Aquarium",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Family-friendly aquarium displaying North Sea and freshwater fish species native to Jutland, including eels, pike and North Sea flatfish",
+      "distance": 1.0,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Holing Lake",
+      "postcode": "7400",
+      "distanceKmFromAirport": 8,
+      "description": "Scenic recreational lake on Herning's outskirts with walking and cycling trails around its shores, popular for fishing and summer swimming",
+      "distance": 3.0,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Textile Museum (Textilforum)",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Museum dedicated to Herning's identity as the centre of Denmark's textile and clothing industry, with historic looms and fashion exhibitions",
+      "distance": 1.0,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Herning City Centre",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Compact modern town centre with pedestrianised shopping streets, cafes and the large Herning Congress Centre hosting major trade fairs",
+      "distance": 0.5,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Ikast Lakes",
+      "postcode": "7430",
+      "distanceKmFromAirport": 18,
+      "description": "Chain of picturesque glacial lakes near the town of Ikast offering peaceful walking routes and opportunities to spot Danish bird life",
+      "distance": 15.0,
+      "URL": "https://www.visitherning.com/"
+    },
+    {
+      "rank": 10,
+      "name": "MCH Arena",
+      "postcode": "7400",
+      "distanceKmFromAirport": 7,
+      "description": "Home of FC Midtjylland, Denmark's dominant club and regular Champions League participants, with a 11,800-seat modern stadium",
+      "distance": 2.0,
+      "URL": "https://www.fcm.dk/en/"
+    }
+  ]
+}

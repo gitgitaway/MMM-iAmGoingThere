@@ -1,0 +1,98 @@
+{
+  "city": "Kampala",
+  "country": "Uganda",
+  "airportPostcode": "256",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gorilla Trekking (Bwindi)",
+      "postcode": "256",
+      "distanceKmFromAirport": 490,
+      "description": "Trek through Bwindi Impenetrable Forest to spend an hour with mountain gorillas",
+      "distance": 450.0,
+      "URL": "https://ugandawildlife.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Kasubi Tombs",
+      "postcode": "256",
+      "distanceKmFromAirport": 45,
+      "description": "UNESCO World Heritage grass-thatched royal tombs of the Buganda Kingdom kings",
+      "distance": 5.0,
+      "URL": "https://whc.unesco.org/en/list/1022"
+    },
+    {
+      "rank": 3,
+      "name": "Murchison Falls National Park",
+      "postcode": "256",
+      "distanceKmFromAirport": 340,
+      "description": "Nile River safari with hippos, crocodiles and the world's most powerful waterfall",
+      "distance": 300.0,
+      "URL": "https://ugandawildlife.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Uganda Museum",
+      "postcode": "256",
+      "distanceKmFromAirport": 43,
+      "description": "Uganda's history from prehistoric times with traditional musical instruments",
+      "distance": 3.0,
+      "URL": "https://www.museum.go.ug/"
+    },
+    {
+      "rank": 5,
+      "name": "Kabaka's Palace & Lake",
+      "postcode": "256",
+      "distanceKmFromAirport": 44,
+      "description": "Buganda Kingdom's royal palace grounds with the king's private lake",
+      "distance": 4.0,
+      "URL": "https://www.buganda.or.ug/"
+    },
+    {
+      "rank": 6,
+      "name": "Namugongo Martyrs' Shrine",
+      "postcode": "256",
+      "distanceKmFromAirport": 56,
+      "description": "Pilgrimage site where 45 Christian and Muslim martyrs were burned in 1886",
+      "distance": 16.0,
+      "URL": "https://www.namugongo-shrine.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Ndere Cultural Centre",
+      "postcode": "256",
+      "distanceKmFromAirport": 48,
+      "description": "Performances of traditional dances from Uganda's 65 tribes",
+      "distance": 8.0,
+      "URL": "https://www.ndere.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Nakasero Market",
+      "postcode": "256",
+      "distanceKmFromAirport": 42,
+      "description": "Kampala's most colourful produce market with Ugandan specialties",
+      "distance": 1.5,
+      "URL": "https://www.visituganda.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Queen Elizabeth National Park",
+      "postcode": "256",
+      "distanceKmFromAirport": 440,
+      "description": "Tree-climbing lions, boat safari on the Kazinga Channel and chimpanzee trekking",
+      "distance": 400.0,
+      "URL": "https://ugandawildlife.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Rolex Ugandan Street Food",
+      "postcode": "256",
+      "distanceKmFromAirport": 40,
+      "description": "Uganda's favourite street food - a chapati rolled around eggs and vegetables",
+      "distance": 0.5,
+      "URL": "https://www.visituganda.com/"
+    }
+  ]
+}

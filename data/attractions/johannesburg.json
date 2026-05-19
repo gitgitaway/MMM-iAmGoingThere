@@ -1,0 +1,98 @@
+{
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "airportPostcode": "1619",
+  "airportDistanceKm": 29,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Apartheid Museum",
+      "postcode": "2001",
+      "distanceKmFromAirport": 49,
+      "description": "Powerful and moving museum telling the story of South Africa's apartheid era",
+      "distance": 20.0,
+      "URL": "https://www.apartheidmuseum.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Soweto",
+      "postcode": "1803",
+      "distanceKmFromAirport": 49,
+      "description": "Historic township with Vilakazi Street (Mandela and Tutu homes), Hector Pieterson Memorial",
+      "distance": 20.0,
+      "URL": "https://www.soweto.co.za/"
+    },
+    {
+      "rank": 3,
+      "name": "Constitution Hill",
+      "postcode": "2017",
+      "distanceKmFromAirport": 32,
+      "description": "Old Fort Prison complex and Constitutional Court - South Africa's journey to democracy",
+      "distance": 3.0,
+      "URL": "https://www.constitutionhill.org.za/"
+    },
+    {
+      "rank": 4,
+      "name": "Gold Reef City",
+      "postcode": "2001",
+      "distanceKmFromAirport": 49,
+      "description": "Theme park on an old gold mine with underground tours and fairground rides",
+      "distance": 20.0,
+      "URL": "https://www.goldreefcity.co.za/"
+    },
+    {
+      "rank": 5,
+      "name": "Maboneng Precinct",
+      "postcode": "2094",
+      "distanceKmFromAirport": 33,
+      "description": "Creative arts district with galleries, studios, markets and the best street food",
+      "distance": 4.0,
+      "URL": "https://www.mabonengprecinct.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Cradle of Humankind",
+      "postcode": "1739",
+      "distanceKmFromAirport": 79,
+      "description": "UNESCO World Heritage fossil hominid site with Sterkfontein Caves",
+      "distance": 50.0,
+      "URL": "https://www.maropeng.co.za/"
+    },
+    {
+      "rank": 7,
+      "name": "Pilanesberg National Park",
+      "postcode": "0316",
+      "distanceKmFromAirport": 189,
+      "description": "Big Five game reserve just 2 hours from Jo'burg in an ancient volcanic crater",
+      "distance": 160.0,
+      "URL": "https://www.pilanesberg.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Neighbourgoods Market",
+      "postcode": "2001",
+      "distanceKmFromAirport": 32,
+      "description": "Vibrant Saturday food and craft market in the Braamfontein creative hub",
+      "distance": 2.5,
+      "URL": "https://www.neighbourgoodsmarket.co.za/"
+    },
+    {
+      "rank": 9,
+      "name": "Nelson Mandela National Museum (Liliesleaf)",
+      "postcode": "2191",
+      "distanceKmFromAirport": 44,
+      "description": "Farm where Mandela was arrested in 1962, now an important apartheid history site",
+      "distance": 15.0,
+      "URL": "https://www.liliesleaf.co.za/"
+    },
+    {
+      "rank": 10,
+      "name": "Lion & Safari Park",
+      "postcode": "0216",
+      "distanceKmFromAirport": 89,
+      "description": "Drive-through reserve with lions, cheetahs and giraffes just north of the city",
+      "distance": 60.0,
+      "URL": "https://www.lion-park.com/"
+    }
+  ]
+}

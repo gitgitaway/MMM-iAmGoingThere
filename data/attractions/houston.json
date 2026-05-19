@@ -1,0 +1,98 @@
+{
+  "city": "Houston",
+  "country": "USA",
+  "airportPostcode": "77032",
+  "airportDistanceKm": 34,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Space Center Houston",
+      "postcode": "77058",
+      "distanceKmFromAirport": 74,
+      "description": "Official NASA visitor center with moon rocks and Space Shuttle replica",
+      "distance": 40.0,
+      "URL": "https://spacecenter.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Houston Museum of Natural Science",
+      "postcode": "77030",
+      "distanceKmFromAirport": 39,
+      "description": "World-class natural history and science museum with planetarium",
+      "distance": 5.0,
+      "URL": "https://www.hmns.org/"
+    },
+    {
+      "rank": 3,
+      "name": "The Museum of Fine Arts Houston",
+      "postcode": "77019",
+      "distanceKmFromAirport": 39,
+      "description": "One of the largest art museums in the United States",
+      "distance": 5.0,
+      "URL": "https://www.mfah.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Houston Zoo",
+      "postcode": "77030",
+      "distanceKmFromAirport": 40,
+      "description": "6,000+ animals across 55 acres in Hermann Park",
+      "distance": 5.5,
+      "URL": "https://www.houstonzoo.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Discovery Green",
+      "postcode": "77010",
+      "distanceKmFromAirport": 36,
+      "description": "12-acre downtown urban park with events and water features",
+      "distance": 1.5,
+      "URL": "https://www.discoverygreen.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Hermann Park",
+      "postcode": "77030",
+      "distanceKmFromAirport": 39,
+      "description": "445-acre urban park with gardens, trails and McGovern Lake",
+      "distance": 5.0,
+      "URL": "https://www.hermannpark.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Buffalo Bayou Park",
+      "postcode": "77019",
+      "distanceKmFromAirport": 37,
+      "description": "160-acre linear park along the bayou with art installations",
+      "distance": 3.0,
+      "URL": "https://buffalobayou.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Kemah Boardwalk",
+      "postcode": "77565",
+      "distanceKmFromAirport": 79,
+      "description": "Waterfront amusement park with rides, dining and entertainment",
+      "distance": 45.0,
+      "URL": "https://www.kemahboardwalk.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Rothko Chapel",
+      "postcode": "77006",
+      "distanceKmFromAirport": 38,
+      "description": "Non-denominational chapel with 14 Mark Rothko paintings",
+      "distance": 4.5,
+      "URL": "https://rothkochapel.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Market Square Park",
+      "postcode": "77002",
+      "distanceKmFromAirport": 35,
+      "description": "Historic downtown gathering place with food trucks and events",
+      "distance": 1.0,
+      "URL": "https://www.marketsquarepark.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Havana",
+  "country": "Cuba",
+  "airportPostcode": "19200",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Havana (Habana Vieja)",
+      "postcode": "10100",
+      "distanceKmFromAirport": 30,
+      "description": "UNESCO World Heritage colonial city centre — baroque cathedrals, plazas, Hemingway's bars and vintage cars",
+      "distance": 5.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Malecón Seawall",
+      "postcode": "10400",
+      "distanceKmFromAirport": 28,
+      "description": "Havana's famous 8-km seafront boulevard — social heart of the city at sunset with music and conversation",
+      "distance": 3.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Tropicana Cabaret",
+      "postcode": "11300",
+      "distanceKmFromAirport": 33,
+      "description": "The world's most famous open-air cabaret — spectacular costume shows under the stars since 1939",
+      "distance": 8.0,
+      "URL": "https://www.cabaret-tropicana.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Vintage Car Tour",
+      "postcode": "10100",
+      "distanceKmFromAirport": 27,
+      "description": "Cruise Havana in a 1950s American convertible — Buicks, Chevrolets and Fords in every pastel colour",
+      "distance": 2.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Hemingway's Havana Trail",
+      "postcode": "10100",
+      "distanceKmFromAirport": 28,
+      "description": "Daiquiris at El Floridita, mojitos at La Bodeguita del Medio — and a visit to Finca Vigía, his home",
+      "distance": 3.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Museum of the Revolution",
+      "postcode": "10100",
+      "distanceKmFromAirport": 29,
+      "description": "Batista's former presidential palace tells the story of the Cuban Revolution — the Granma yacht is outside",
+      "distance": 4.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Viñales Valley Day Trip",
+      "postcode": "20300",
+      "distanceKmFromAirport": 205,
+      "description": "UNESCO World Heritage tobacco valley with spectacular mogote rock formations — 3 hours west of Havana",
+      "distance": 180.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Fusterlandia Jaimanitas",
+      "postcode": "11200",
+      "distanceKmFromAirport": 40,
+      "description": "Extraordinary neighbourhood transformed by artist José Fuster into a Gaudí-inspired mosaic fantasy",
+      "distance": 15.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Callejón de Hamel",
+      "postcode": "10300",
+      "distanceKmFromAirport": 29,
+      "description": "Afro-Cuban cultural alley — Sunday rumba performances, murals and santería ceremonies",
+      "distance": 4.0,
+      "URL": "https://www.cuba.travel/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Morro Castle (Castillo del Morro)",
+      "postcode": "10100",
+      "distanceKmFromAirport": 30,
+      "description": "16th-century fortress guarding the entrance to Havana harbour — cannon-firing ceremony at sunset",
+      "distance": 5.0,
+      "URL": "https://www.cuba.travel/en/"
+    }
+  ]
+}

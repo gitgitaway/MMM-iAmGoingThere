@@ -1,0 +1,98 @@
+{
+  "city": "Guatemala City",
+  "country": "Guatemala",
+  "airportPostcode": "01013",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Antigua Guatemala Day Trip",
+      "postcode": "03001",
+      "distanceKmFromAirport": 50,
+      "description": "UNESCO World Heritage colonial city with volcano views - the most beautiful in Central America",
+      "distance": 45,
+      "URL": "https://www.visitantigua.com.gt"
+    },
+    {
+      "rank": 2,
+      "name": "Tikal Day Trip",
+      "postcode": "17001",
+      "distanceKmFromAirport": 315,
+      "description": "UNESCO World Heritage Maya city with 70m pyramid temples rising above the rainforest",
+      "distance": 310,
+      "URL": "https://www.tikalpark.com"
+    },
+    {
+      "rank": 3,
+      "name": "National Palace of Culture",
+      "postcode": "01001",
+      "distanceKmFromAirport": 6,
+      "description": "1943 jade-green neoclassical palace with murals by Alfredo Galvez Suarez",
+      "distance": 1,
+      "URL": "https://www.inguat.gob.gt"
+    },
+    {
+      "rank": 4,
+      "name": "Metropolitan Cathedral",
+      "postcode": "01001",
+      "distanceKmFromAirport": 6,
+      "description": "18th-century cathedral on the central plaza with the bones of Spanish colonial victims",
+      "distance": 1,
+      "URL": "https://www.inguat.gob.gt"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Archaeology and Ethnology",
+      "postcode": "01009",
+      "distanceKmFromAirport": 8,
+      "description": "Jade Maya masks, stelae and artefacts from Tikal and Quirigua",
+      "distance": 3,
+      "URL": "https://www.munae.gob.gt"
+    },
+    {
+      "rank": 6,
+      "name": "Mercado de Artesanias",
+      "postcode": "01009",
+      "distanceKmFromAirport": 8,
+      "description": "Handicraft market with huipil blouses, jade, Mayan textiles and wood carvings",
+      "distance": 3,
+      "URL": "https://www.inguat.gob.gt"
+    },
+    {
+      "rank": 7,
+      "name": "Lake Atitlan Day Trip",
+      "postcode": "07001",
+      "distanceKmFromAirport": 150,
+      "description": "Volcanic crater lake called the world's most beautiful by Aldous Huxley",
+      "distance": 145,
+      "URL": "https://www.visitlakeatitlan.com"
+    },
+    {
+      "rank": 8,
+      "name": "Zone 4 (Cuatro Grados Norte)",
+      "postcode": "01004",
+      "distanceKmFromAirport": 8,
+      "description": "Guatemala City's hip creative quarter with street art, breweries and restaurants",
+      "distance": 3,
+      "URL": "https://www.inguat.gob.gt"
+    },
+    {
+      "rank": 9,
+      "name": "Popocatepetl Pacaya Volcano Hike",
+      "postcode": "05001",
+      "distanceKmFromAirport": 50,
+      "description": "Easy hike to lava flows of Pacaya volcano 45km from the capital",
+      "distance": 45,
+      "URL": "https://www.inguat.gob.gt"
+    },
+    {
+      "rank": 10,
+      "name": "Pepian Stew",
+      "postcode": "01001",
+      "distanceKmFromAirport": 6,
+      "description": "Guatemala's national dish - pumpkin seed and chilli stew with chicken or beef",
+      "distance": 1,
+      "URL": "https://www.inguat.gob.gt"
+    }
+  ]
+}

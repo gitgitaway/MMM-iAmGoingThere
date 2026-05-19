@@ -1,0 +1,98 @@
+{
+  "city": "Kirkcaldy",
+  "country": "Scotland",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kirkcaldy Galleries (Museum & Art Gallery)",
+      "postcode": "KY1 1YG",
+      "distanceKmFromAirport": 24,
+      "description": "Fife's main art gallery with an outstanding collection including works by Scottish Colourists McTaggart, Peploe and Cadell — free entry",
+      "distance": 0.5,
+      "URL": "https://www.onfife.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Adam Smith Theatre",
+      "postcode": "KY1 1ET",
+      "distanceKmFromAirport": 24,
+      "description": "Major arts venue in the birthplace of economist Adam Smith — hosting theatre, music and comedy in the heart of Kirkcaldy",
+      "distance": 0.5,
+      "URL": "https://www.onfife.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Ravenscraig Castle (ruins)",
+      "postcode": "KY1 2JB",
+      "distanceKmFromAirport": 25,
+      "description": "Dramatic 15th-century royal castle ruins on the Fife coastline — one of the first Scottish castles built with artillery fortifications",
+      "distance": 1,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Dysart Harbour & Pan Ha'",
+      "postcode": "KY1 2YA",
+      "distanceKmFromAirport": 26,
+      "description": "Beautifully preserved 16th-century harbour village with painted merchant houses, once a thriving salt and coal export port",
+      "distance": 2,
+      "URL": "https://www.visitfife.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Kinghorn Beach & Coastal Walk",
+      "postcode": "KY3 9YA",
+      "distanceKmFromAirport": 22,
+      "description": "Sandy beach and scenic coastal village on the Firth of Forth — departure point for boat trips and a popular weekend escape",
+      "distance": 5,
+      "URL": "https://www.visitfife.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Aberdour Castle & Gardens",
+      "postcode": "KY3 0SL",
+      "distanceKmFromAirport": 17,
+      "description": "One of Scotland's oldest standing castles with terraced gardens and a 12th-century dovecot beside the award-winning Blue Flag beach",
+      "distance": 9,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 7,
+      "name": "Forth Road & Rail Bridges View (Queensferry)",
+      "postcode": "EH30 9SF",
+      "distanceKmFromAirport": 18,
+      "description": "Iconic view of Scotland's three Forth crossings — the Victorian rail bridge (UNESCO), the 1964 road bridge and the modern Queensferry Crossing",
+      "distance": 10,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Falkland Palace & Garden (NTS)",
+      "postcode": "KY15 7BU",
+      "distanceKmFromAirport": 50,
+      "description": "Royal Stuart hunting palace in the Howe of Fife with the world's oldest real tennis court still in use, played by Mary Queen of Scots",
+      "distance": 26,
+      "URL": "https://www.nts.org.uk/visit/places/falkland-palace-garden-and-town"
+    },
+    {
+      "rank": 9,
+      "name": "Links Market (World's Longest Street Fair)",
+      "postcode": "KY1 1SH",
+      "distanceKmFromAirport": 24,
+      "description": "Annual April fair on the Esplanade — the world's longest street market, a tradition dating back to 1304",
+      "distance": 0.5,
+      "URL": "https://www.visitfife.com/"
+    },
+    {
+      "rank": 10,
+      "name": "St Andrews (Day Trip)",
+      "postcode": "KY16 9AL",
+      "distanceKmFromAirport": 52,
+      "description": "The home of golf — explore the Old Course, cathedral ruins, castle and one of the world's oldest universities",
+      "distance": 28,
+      "URL": "https://www.visitstandrews.com/"
+    }
+  ]
+}

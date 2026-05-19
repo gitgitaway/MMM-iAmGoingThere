@@ -1,0 +1,98 @@
+{
+  "city": "Kharkiv",
+  "country": "Ukraine",
+  "airportPostcode": "61023",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Freedom Square (Maidan Svobody)",
+      "postcode": "61003",
+      "distanceKmFromAirport": 8,
+      "description": "One of Europe's largest city squares at 12 hectares, dominated by the Derzhprom constructivist building",
+      "distance": 0,
+      "URL": "https://www.kharkiv.ua/"
+    },
+    {
+      "rank": 2,
+      "name": "Derzhprom (House of State Industry)",
+      "postcode": "61022",
+      "distanceKmFromAirport": 8,
+      "description": "1928 Soviet constructivist skyscraper complex - an icon of early socialist architecture",
+      "distance": 0.3,
+      "URL": "https://www.kharkiv.ua/"
+    },
+    {
+      "rank": 3,
+      "name": "Kharkiv Gorky Park",
+      "postcode": "61023",
+      "distanceKmFromAirport": 11,
+      "description": "Sprawling park with a famous mirror stream, cable car and amusement zone",
+      "distance": 3,
+      "URL": "https://www.kharkiv.ua/"
+    },
+    {
+      "rank": 4,
+      "name": "Blagoveshchensky Cathedral",
+      "postcode": "61000",
+      "distanceKmFromAirport": 9,
+      "description": "Stunning 19th-century Byzantine Revival cathedral with a striking turquoise and gold exterior",
+      "distance": 1,
+      "URL": "https://www.kharkiv.ua/"
+    },
+    {
+      "rank": 5,
+      "name": "Art Museum (Kharkiv Museum of Fine Arts)",
+      "postcode": "61022",
+      "distanceKmFromAirport": 9,
+      "description": "Ukraine's second largest art collection with European masters and Ukrainian art",
+      "distance": 1,
+      "URL": "https://www.hfam.kh.ua/"
+    },
+    {
+      "rank": 6,
+      "name": "Annunciation Cathedral",
+      "postcode": "61022",
+      "distanceKmFromAirport": 9,
+      "description": "Kharkiv's architectural symbol - a vast Byzantine revival church visible from across the city",
+      "distance": 1,
+      "URL": "https://www.kharkiv.ua/"
+    },
+    {
+      "rank": 7,
+      "name": "Historical Museum of Slobozhanshchyna",
+      "postcode": "61003",
+      "distanceKmFromAirport": 8,
+      "description": "The history of the Kharkiv region from prehistoric times to the Soviet era",
+      "distance": 0.5,
+      "URL": "https://www.museum.kharkov.ua/"
+    },
+    {
+      "rank": 8,
+      "name": "Kharkiv Metro",
+      "postcode": "61000",
+      "distanceKmFromAirport": 8,
+      "description": "Soviet-era metro with impressive socialist-realist station architecture and artwork",
+      "distance": 0,
+      "URL": "https://www.metro.kharkov.ua/"
+    },
+    {
+      "rank": 9,
+      "name": "City Garden",
+      "postcode": "61022",
+      "distanceKmFromAirport": 8,
+      "description": "Tree-lined historic public garden with the Shevchenko monument at the heart of the old town",
+      "distance": 0.3,
+      "URL": "https://www.kharkiv.ua/"
+    },
+    {
+      "rank": 10,
+      "name": "Feldman Ecopark",
+      "postcode": "61155",
+      "distanceKmFromAirport": 23,
+      "description": "Wildlife park with lions, tigers, giraffes and other animals in natural enclosures",
+      "distance": 15,
+      "URL": "https://www.feldman-ecopark.com.ua/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Freetown",
+  "country": "Sierra Leone",
+  "airportPostcode": "232",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tacugama Chimpanzee Sanctuary",
+      "postcode": "232",
+      "distanceKmFromAirport": 45,
+      "description": "Forest sanctuary caring for orphaned and rescued chimpanzees",
+      "distance": 15,
+      "URL": "https://www.tacugama.com"
+    },
+    {
+      "rank": 2,
+      "name": "Cotton Tree",
+      "postcode": "232",
+      "distanceKmFromAirport": 30,
+      "description": "400-year-old cotton tree - the most powerful symbol of Freetown and freedom",
+      "distance": 0.5,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 3,
+      "name": "Freetown Beach (Lumley Beach)",
+      "postcode": "232",
+      "distanceKmFromAirport": 40,
+      "description": "5km Atlantic beach with beach bars and fresh barracuda grilling",
+      "distance": 10,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Sierra Leone",
+      "postcode": "232",
+      "distanceKmFromAirport": 30,
+      "description": "Colonial-era collection with Mende secret society initiation masks",
+      "distance": 0.5,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 5,
+      "name": "Old Portuguese Steps",
+      "postcode": "232",
+      "distanceKmFromAirport": 30,
+      "description": "Historic steps where Europeans first landed with the oldest buildings in Freetown",
+      "distance": 0.5,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 6,
+      "name": "Bunce Island Slave Fort",
+      "postcode": "232",
+      "distanceKmFromAirport": 70,
+      "description": "British slave trading fort ruins in the Sierra Leone River",
+      "distance": 40,
+      "URL": "https://www.bunceisland.org"
+    },
+    {
+      "rank": 7,
+      "name": "St George's Cathedral (1828)",
+      "postcode": "232",
+      "distanceKmFromAirport": 30,
+      "description": "Oldest cathedral in West Africa built by liberated slaves",
+      "distance": 0.5,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 8,
+      "name": "River Number Two Beach",
+      "postcode": "232",
+      "distanceKmFromAirport": 70,
+      "description": "Pristine beach with a freshwater river running into the Atlantic",
+      "distance": 40,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 9,
+      "name": "Banana Islands",
+      "postcode": "232",
+      "distanceKmFromAirport": 60,
+      "description": "Three colonial-era islands with beaches and slave history",
+      "distance": 30,
+      "URL": "https://www.sierraleone-tourism.com"
+    },
+    {
+      "rank": 10,
+      "name": "Groundnut (Peanut) Soup",
+      "postcode": "232",
+      "distanceKmFromAirport": 30,
+      "description": "Sierra Leone's national dish - palm oil and peanut broth with chicken and potato leaves",
+      "distance": 0.5,
+      "URL": "https://www.sierraleone-tourism.com"
+    }
+  ]
+}

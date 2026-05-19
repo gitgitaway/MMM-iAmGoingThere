@@ -1,0 +1,98 @@
+{
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "airportPostcode": "756",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Victoria Falls (Livingstone side)",
+      "postcode": "756",
+      "distanceKmFromAirport": 895,
+      "description": "UNESCO World Heritage world's largest waterfall - the Smoke that Thunders",
+      "distance": 880,
+      "URL": "https://www.victoriafalls-guide.net"
+    },
+    {
+      "rank": 2,
+      "name": "Great Zimbabwe Ruins",
+      "postcode": "756",
+      "distanceKmFromAirport": 285,
+      "description": "UNESCO World Heritage medieval African city - the largest stone structure in sub-Saharan Africa",
+      "distance": 270,
+      "URL": "https://www.zimbabwetourism.net"
+    },
+    {
+      "rank": 3,
+      "name": "Hwange National Park",
+      "postcode": "756",
+      "distanceKmFromAirport": 735,
+      "description": "Zimbabwe's finest wildlife reserve with the largest elephant population in the world",
+      "distance": 720,
+      "URL": "https://www.zimparks.org.zw"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Zimbabwe",
+      "postcode": "756",
+      "distanceKmFromAirport": 16,
+      "description": "Great Zimbabwe artefacts, Victoria Cross medals and natural history",
+      "distance": 1,
+      "URL": "https://www.zimbabwetourism.net"
+    },
+    {
+      "rank": 5,
+      "name": "Mbare Musika Market",
+      "postcode": "756",
+      "distanceKmFromAirport": 20,
+      "description": "Harare's largest market and bus terminus - the living heartbeat of Zimbabwe",
+      "distance": 5,
+      "URL": "https://www.zimbabwetourism.net"
+    },
+    {
+      "rank": 6,
+      "name": "National Botanical Gardens",
+      "postcode": "756",
+      "distanceKmFromAirport": 18,
+      "description": "Well-kept gardens with indigenous Zimbabwean trees and plants",
+      "distance": 3,
+      "URL": "https://www.zimbabwetourism.net"
+    },
+    {
+      "rank": 7,
+      "name": "Zimbabwe Museum of Human Sciences",
+      "postcode": "756",
+      "distanceKmFromAirport": 16,
+      "description": "Colonial-era museum now reframed around indigenous Shona and Ndebele culture",
+      "distance": 1,
+      "URL": "https://www.zimbabwetourism.net"
+    },
+    {
+      "rank": 8,
+      "name": "Chapungu Sculpture Park",
+      "postcode": "756",
+      "distanceKmFromAirport": 22,
+      "description": "Beautiful garden displaying Zimbabwe's world-famous Shona stone sculpture",
+      "distance": 7,
+      "URL": "https://www.chapungusculpturepark.com"
+    },
+    {
+      "rank": 9,
+      "name": "Borrowdale Village",
+      "postcode": "756",
+      "distanceKmFromAirport": 27,
+      "description": "Harare's leafy upscale suburb with the best restaurants and craft markets",
+      "distance": 12,
+      "URL": "https://www.zimbabwetourism.net"
+    },
+    {
+      "rank": 10,
+      "name": "Sadza with Nyama at Gava's",
+      "postcode": "756",
+      "distanceKmFromAirport": 17,
+      "description": "Zimbabwe's staple dish - stiff maize meal with slow-cooked game meat stew",
+      "distance": 2,
+      "URL": "https://www.zimbabwetourism.net"
+    }
+  ]
+}

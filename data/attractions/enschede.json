@@ -1,0 +1,98 @@
+{
+  "city": "Enschede",
+  "country": "Netherlands",
+  "airportPostcode": "48268",
+  "airportDistanceKm": 60,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Rijksmuseum Twenthe",
+      "postcode": "7513",
+      "distanceKmFromAirport": 60,
+      "description": "Outstanding regional art museum with Dutch Old Masters and a comprehensive collection from medieval times to contemporary art",
+      "distance": 1.5,
+      "URL": "https://rijksmuseumtwenthe.nl/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Grolsch Veste",
+      "postcode": "7524",
+      "distanceKmFromAirport": 61,
+      "description": "Modern 30,205-capacity stadium of FC Twente, one of the Netherlands' top clubs, set in the Enschede eastern suburbs",
+      "distance": 3.5,
+      "URL": "https://www.fctwente.nl/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Enschede City Centre",
+      "postcode": "7511",
+      "distanceKmFromAirport": 60,
+      "description": "Rebuilt city centre after the 1862 fire and 2000 fireworks disaster, with lively squares, independent shops and terrace cafes",
+      "distance": 0.5,
+      "URL": "https://www.visit-enschede.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Natura Docet Wonderryck Twente",
+      "postcode": "7591",
+      "distanceKmFromAirport": 65,
+      "description": "Remarkable nature and cultural museum in the Twente countryside with natural history dioramas and landscape heritage displays",
+      "distance": 8.0,
+      "URL": "https://www.naturedocet.nl/"
+    },
+    {
+      "rank": 5,
+      "name": "Twentse Schouwburg",
+      "postcode": "7511",
+      "distanceKmFromAirport": 60,
+      "description": "Enschede's modern theatre and concert hall complex presenting drama, opera and music in a striking contemporary setting",
+      "distance": 0.6,
+      "URL": "https://www.twentseschouwburg.nl/"
+    },
+    {
+      "rank": 6,
+      "name": "Museum Jannink",
+      "postcode": "7511",
+      "distanceKmFromAirport": 60,
+      "description": "Industrial heritage museum in a restored textile factory telling the story of the Twente cotton-weaving industry that made the city",
+      "distance": 0.5,
+      "URL": "https://www.museumjannink.nl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Hengelo City",
+      "postcode": "7551",
+      "distanceKmFromAirport": 65,
+      "description": "Neighbouring industrial city just 10km from Enschede with the impressive OAD Theatre and the Hengelo market hall",
+      "distance": 10.0,
+      "URL": "https://www.hengelo.nl/"
+    },
+    {
+      "rank": 8,
+      "name": "Haaksbergen Countryside",
+      "postcode": "7480",
+      "distanceKmFromAirport": 68,
+      "description": "Typical Twente rural landscape of farmsteads, hedgerows and mill ponds south of Enschede, best explored by bicycle",
+      "distance": 15.0,
+      "URL": "https://www.vvvtwente.nl/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Boekelo Thermal Baths",
+      "postcode": "7548",
+      "distanceKmFromAirport": 63,
+      "description": "Historic spa resort at Boekelo with natural salt springs and wellness facilities, just 6km from Enschede centre",
+      "distance": 6.0,
+      "URL": "https://www.thermenboekelo.nl/"
+    },
+    {
+      "rank": 10,
+      "name": "Enschede Outdoor Market",
+      "postcode": "7511",
+      "distanceKmFromAirport": 60,
+      "description": "Large Saturday market on the Grote Markt and surrounding streets with hundreds of stalls selling fresh produce and goods",
+      "distance": 0.3,
+      "URL": "https://www.visit-enschede.com/"
+    }
+  ]
+}

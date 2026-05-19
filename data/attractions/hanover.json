@@ -1,0 +1,98 @@
+{
+  "city": "Hanover",
+  "country": "Germany",
+  "airportPostcode": "30669",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Herrenhausen Gardens",
+      "postcode": "30419",
+      "distanceKmFromAirport": 17,
+      "description": "Magnificent baroque royal gardens with Europe's highest fountain and the grotto by Niki de Saint Phalle",
+      "distance": 5,
+      "URL": "https://www.hannover.de/herrenhausen"
+    },
+    {
+      "rank": 2,
+      "name": "Sprengel Museum",
+      "postcode": "30169",
+      "distanceKmFromAirport": 14,
+      "description": "One of Germany's finest 20th-century art museums with Niki de Saint Phalle and Kurt Schwitters",
+      "distance": 2,
+      "URL": "https://www.sprengel-museum.de"
+    },
+    {
+      "rank": 3,
+      "name": "New Town Hall",
+      "postcode": "30159",
+      "distanceKmFromAirport": 13,
+      "description": "Imposing early 20th-century city hall with a unique curved elevator to the dome",
+      "distance": 1,
+      "URL": "https://www.hannover.de"
+    },
+    {
+      "rank": 4,
+      "name": "Maschsee Lake",
+      "postcode": "30169",
+      "distanceKmFromAirport": 14,
+      "description": "Artificial lake created in the 1930s with sailing, rowing and lakeside restaurants",
+      "distance": 2,
+      "URL": "https://www.hannover.de/maschsee"
+    },
+    {
+      "rank": 5,
+      "name": "Lower Saxony State Museum",
+      "postcode": "30159",
+      "distanceKmFromAirport": 13,
+      "description": "Natural history, art and archaeology from prehistoric times to the present",
+      "distance": 1,
+      "URL": "https://www.nlmh.de"
+    },
+    {
+      "rank": 6,
+      "name": "Eilenriede Forest",
+      "postcode": "30519",
+      "distanceKmFromAirport": 15,
+      "description": "One of Europe's largest urban forests with paths, cafes and the Ernst August Zoo",
+      "distance": 3,
+      "URL": "https://www.hannover.de"
+    },
+    {
+      "rank": 7,
+      "name": "Market Church",
+      "postcode": "30159",
+      "distanceKmFromAirport": 12,
+      "description": "Impressive 14th-century Gothic brick church facing the historic market square",
+      "distance": 0.5,
+      "URL": "https://www.marktkirche-hannover.de"
+    },
+    {
+      "rank": 8,
+      "name": "Kestner Museum",
+      "postcode": "30159",
+      "distanceKmFromAirport": 12,
+      "description": "Applied arts museum in a Wilhelmine building with Egyptian, Greek and Roman collections",
+      "distance": 0.5,
+      "URL": "https://www.kestner.de"
+    },
+    {
+      "rank": 9,
+      "name": "Historisches Museum Hannover",
+      "postcode": "30159",
+      "distanceKmFromAirport": 12,
+      "description": "History of Hanover and the Welfenhaus dynasty that became the British royal family",
+      "distance": 0.5,
+      "URL": "https://www.hannover.de/historisches-museum"
+    },
+    {
+      "rank": 10,
+      "name": "Leibniz House",
+      "postcode": "30159",
+      "distanceKmFromAirport": 12,
+      "description": "Reconstructed Renaissance townhouse where philosopher Gottfried Wilhelm Leibniz lived",
+      "distance": 0.5,
+      "URL": "https://www.hannover.de"
+    }
+  ]
+}

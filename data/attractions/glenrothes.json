@@ -1,0 +1,98 @@
+{
+  "city": "Glenrothes",
+  "country": "Scotland",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 38,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Falkland Palace & Garden (NTS)",
+      "postcode": "KY15 7BU",
+      "distanceKmFromAirport": 48,
+      "description": "Royal Stuart hunting palace with Scotland's oldest real tennis court — once the playground of Mary Queen of Scots",
+      "distance": 12,
+      "URL": "https://www.nts.org.uk/visit/places/falkland-palace-garden-and-town"
+    },
+    {
+      "rank": 2,
+      "name": "Glenrothes Sculptures (Open-Air Art Trail)",
+      "postcode": "KY6 2HU",
+      "distanceKmFromAirport": 38,
+      "description": "Unique collection of over 100 outdoor sculptures distributed throughout the new town — one of the UK's largest free public art collections",
+      "distance": 0.5,
+      "URL": "https://www.onfife.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Loch Leven Castle (Mary Queen of Scots)",
+      "postcode": "KY13 8UF",
+      "distanceKmFromAirport": 38,
+      "description": "Island castle on Loch Leven where Mary Queen of Scots was imprisoned for nearly a year before her dramatic 1568 escape by boat",
+      "distance": 2,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 4,
+      "name": "Lomond Hills Regional Park",
+      "postcode": "KY15 7PZ",
+      "distanceKmFromAirport": 48,
+      "description": "The East Lomond and West Lomond hills dominating the Fife skyline — wonderful walking with superb views across the Kingdom of Fife",
+      "distance": 12,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Balgonie Castle",
+      "postcode": "KY7 6HQ",
+      "distanceKmFromAirport": 40,
+      "description": "Privately owned and occupied 14th-century tower house — the oldest continuously inhabited castle in Fife with excellent guided tours",
+      "distance": 2,
+      "URL": "https://www.balgonie-castle.co.uk/"
+    },
+    {
+      "rank": 6,
+      "name": "Scotland's Secret Bunker",
+      "postcode": "KY16 8QH",
+      "distanceKmFromAirport": 52,
+      "description": "Eerie Cold War nuclear command centre buried 30 metres underground — a self-contained city designed to house 300 people after nuclear attack",
+      "distance": 16,
+      "URL": "https://www.secretbunker.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "St Andrews (Day Trip)",
+      "postcode": "KY16 9AL",
+      "distanceKmFromAirport": 56,
+      "description": "The home of golf — the Old Course, medieval cathedral, castle and the oldest university in Scotland",
+      "distance": 20,
+      "URL": "https://www.visitstandrews.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Kirkcaldy Galleries (Day Trip)",
+      "postcode": "KY1 1YG",
+      "distanceKmFromAirport": 30,
+      "description": "Fife's finest art gallery with Scottish Colourists and local history collections — free entry and just 20 minutes from Glenrothes",
+      "distance": 10,
+      "URL": "https://www.onfife.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Balbirnie Craft Centre & Park",
+      "postcode": "KY7 6NE",
+      "distanceKmFromAirport": 39,
+      "description": "Elegant Georgian estate parkland with an arts and crafts centre, gallery and a stone circle — a tranquil retreat near the town centre",
+      "distance": 1,
+      "URL": "https://www.fifedirect.org.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Markinch Heritage Village",
+      "postcode": "KY7 6HQ",
+      "distanceKmFromAirport": 40,
+      "description": "Pretty Fife village with a 12th-century Norman tower church, historic conservation area and the famous Balbirnie estate on its edge",
+      "distance": 2,
+      "URL": "https://www.visitfife.com/"
+    }
+  ]
+}

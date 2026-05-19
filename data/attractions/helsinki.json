@@ -1,0 +1,98 @@
+{
+  "city": "Helsinki",
+  "country": "Finland",
+  "airportPostcode": "01530",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Suomenlinna Sea Fortress",
+      "postcode": "00190",
+      "distanceKmFromAirport": 21,
+      "description": "UNESCO World Heritage 18th-century island fortress — 15-minute ferry from the Market Square",
+      "distance": 3.0,
+      "URL": "https://www.suomenlinna.fi/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Helsinki Cathedral & Senate Square",
+      "postcode": "00170",
+      "distanceKmFromAirport": 18,
+      "description": "Iconic neo-classical white cathedral on the grand Senate Square — the city's most recognisable landmark",
+      "distance": 0.5,
+      "URL": "https://www.helsingintuomiokirkko.fi/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Temppeliaukio Rock Church",
+      "postcode": "00100",
+      "distanceKmFromAirport": 20,
+      "description": "Extraordinary 1969 church excavated directly into granite bedrock with a stunning copper dome",
+      "distance": 2.0,
+      "URL": "https://temppeliaukionkirkko.fi/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Design District Helsinki",
+      "postcode": "00150",
+      "distanceKmFromAirport": 19,
+      "description": "25-block district in the city's heartland packed with Finnish design shops, museums and galleries",
+      "distance": 1.0,
+      "URL": "https://www.designdistrict.fi/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Market Square (Kauppatori) & Old Market Hall",
+      "postcode": "00170",
+      "distanceKmFromAirport": 18,
+      "description": "Waterfront market with Finnish produce, salmon soup and the Old Market Hall — one of Europe's finest",
+      "distance": 0.5,
+      "URL": "https://www.visithelsinki.fi/en/"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of Finland",
+      "postcode": "00100",
+      "distanceKmFromAirport": 20,
+      "description": "Finnish history from the Stone Age to the present in a dramatic 1916 National Romantic building",
+      "distance": 1.5,
+      "URL": "https://www.kansallismuseo.fi/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Kiasma Museum of Contemporary Art",
+      "postcode": "00100",
+      "distanceKmFromAirport": 19,
+      "description": "Steven Holl's celebrated curving white museum housing Finland's premier contemporary art collection",
+      "distance": 1.0,
+      "URL": "https://kiasma.fi/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Uspenski Cathedral",
+      "postcode": "00160",
+      "distanceKmFromAirport": 19,
+      "description": "Largest Orthodox church in Western Europe (1868) — rust-red brick with gold onion domes on a promontory",
+      "distance": 1.0,
+      "URL": "https://www.visithelsinki.fi/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Nuuksio National Park",
+      "postcode": "02970",
+      "distanceKmFromAirport": 58,
+      "description": "Ancient boreal forest and lake wilderness 40 km northwest — hiking, swimming and Finnish saunas",
+      "distance": 40.0,
+      "URL": "https://www.nationalparks.fi/nuuksionp"
+    },
+    {
+      "rank": 10,
+      "name": "Stockmann Department Store & Esplanade Park",
+      "postcode": "00100",
+      "distanceKmFromAirport": 18,
+      "description": "Scandinavia's largest department store alongside the elegant esplanade gardens and outdoor cafes",
+      "distance": 0.5,
+      "URL": "https://www.stockmann.com/en/"
+    }
+  ]
+}

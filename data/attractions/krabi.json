@@ -1,0 +1,98 @@
+{
+  "city": "Krabi",
+  "country": "Thailand",
+  "airportPostcode": "81000",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Railay Beach",
+      "postcode": "81000",
+      "distanceKmFromAirport": 35,
+      "description": "Spectacular beach accessible only by boat, surrounded by limestone karst cliffs",
+      "distance": 17,
+      "URL": "https://www.tourismthailand.org/Attraction/railay-beach"
+    },
+    {
+      "rank": 2,
+      "name": "Phi Phi Islands Day Trip",
+      "postcode": "81000",
+      "distanceKmFromAirport": 60,
+      "description": "Speedboat to the iconic Maya Bay and snorkelling in turquoise waters",
+      "distance": 42,
+      "URL": "https://www.phiphi.com"
+    },
+    {
+      "rank": 3,
+      "name": "Four Islands Tour",
+      "postcode": "81000",
+      "distanceKmFromAirport": 40,
+      "description": "Longtail boat to four islands with snorkelling, beach time and fresh seafood",
+      "distance": 22,
+      "URL": "https://www.tourismthailand.org/Attraction/four-islands"
+    },
+    {
+      "rank": 4,
+      "name": "Rock Climbing on Karst Cliffs",
+      "postcode": "81000",
+      "distanceKmFromAirport": 35,
+      "description": "Some of the world's best limestone rock climbing at Tonsai and Railay",
+      "distance": 17,
+      "URL": "https://www.railaybeach.com"
+    },
+    {
+      "rank": 5,
+      "name": "Tiger Cave Temple (Wat Tham Sua)",
+      "postcode": "81000",
+      "distanceKmFromAirport": 21,
+      "description": "Climb 1,237 steps to the summit tiger cave for 360-degree views",
+      "distance": 3,
+      "URL": "https://www.tourismthailand.org/Attraction/tiger-cave-temple"
+    },
+    {
+      "rank": 6,
+      "name": "Ao Nang Beach & Night Market",
+      "postcode": "81000",
+      "distanceKmFromAirport": 33,
+      "description": "Krabi's main beach with beach bars and nightly seafood market",
+      "distance": 15,
+      "URL": "https://www.tourismthailand.org/Attraction/ao-nang-beach"
+    },
+    {
+      "rank": 7,
+      "name": "Kayaking Through Sea Caves (Hong Islands)",
+      "postcode": "81000",
+      "distanceKmFromAirport": 43,
+      "description": "Paddle through submerged caverns into hidden lagoons",
+      "distance": 25,
+      "URL": "https://www.tourismthailand.org/Attraction/hong-island"
+    },
+    {
+      "rank": 8,
+      "name": "Elephant Sanctuary Visit",
+      "postcode": "81000",
+      "distanceKmFromAirport": 38,
+      "description": "Ethical elephant sanctuary in the Krabi jungle",
+      "distance": 20,
+      "URL": "https://www.elephanthillsthai.com"
+    },
+    {
+      "rank": 9,
+      "name": "Emerald Cave (Tham Morakot)",
+      "postcode": "92000",
+      "distanceKmFromAirport": 88,
+      "description": "Swim through a pitch-dark tunnel to emerge in a hidden beach inside a cliff",
+      "distance": 70,
+      "URL": "https://www.tourismthailand.org/Attraction/emerald-cave"
+    },
+    {
+      "rank": 10,
+      "name": "Pad See Ew at Ao Nang",
+      "postcode": "81000",
+      "distanceKmFromAirport": 33,
+      "description": "Wide rice noodles stir-fried with egg, Chinese broccoli and seafood",
+      "distance": 15,
+      "URL": "https://www.tourismthailand.org/krabi"
+    }
+  ]
+}

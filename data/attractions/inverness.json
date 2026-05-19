@@ -1,0 +1,98 @@
+{
+  "city": "Inverness",
+  "country": "Scotland",
+  "airportPostcode": "IV2 7JB",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Loch Ness & Urquhart Castle",
+      "postcode": "IV63 6XJ",
+      "distanceKmFromAirport": 40,
+      "description": "Iconic highland loch with the ruined medieval Urquhart Castle — the world's most famous monster-hunting spot",
+      "distance": 31,
+      "URL": "https://www.lochness.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Culloden Battlefield (NTS)",
+      "postcode": "IV2 5EU",
+      "distanceKmFromAirport": 14,
+      "description": "Site of the last pitched battle on British soil (1746) where Bonnie Prince Charlie's Jacobite army was defeated — a moving and atmospheric visitor centre",
+      "distance": 7,
+      "URL": "https://www.nts.org.uk/visit/places/culloden"
+    },
+    {
+      "rank": 3,
+      "name": "Inverness Castle Viewpoint",
+      "postcode": "IV2 3EG",
+      "distanceKmFromAirport": 9,
+      "description": "19th-century castle on a sandstone bluff above the River Ness with spectacular panoramic views over the city and highlands",
+      "distance": 0.5,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Cawdor Castle",
+      "postcode": "IV12 5RD",
+      "distanceKmFromAirport": 30,
+      "description": "Romantic 14th-century castle of the Thanes of Cawdor — linked to Shakespeare's Macbeth — with stunning formal gardens",
+      "distance": 21,
+      "URL": "https://www.cawdorcastle.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Ness Islands Walk",
+      "postcode": "IV3 5SQ",
+      "distanceKmFromAirport": 9,
+      "description": "Peaceful wooded islands in the River Ness connected by Victorian suspension bridges — one of Inverness's most loved walks",
+      "distance": 0.5,
+      "URL": "https://www.visitinverness.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Inverness Museum & Art Gallery",
+      "postcode": "IV2 3EW",
+      "distanceKmFromAirport": 9,
+      "description": "Free museum covering Highland history, Pictish stones and natural heritage in the heart of the city",
+      "distance": 0.5,
+      "URL": "https://www.highlifehighland.com/inverness-museum-and-art-gallery/"
+    },
+    {
+      "rank": 7,
+      "name": "Chanonry Point (Dolphin Watching)",
+      "postcode": "IV10 8SH",
+      "distanceKmFromAirport": 28,
+      "description": "The best land-based dolphin-watching spot in Britain — bottlenose dolphins regularly chase salmon near the lighthouse",
+      "distance": 19,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Victorian Market",
+      "postcode": "IV1 1PJ",
+      "distanceKmFromAirport": 9,
+      "description": "Charming covered shopping arcade built in 1890 with independent local traders, cafes and artisan shops",
+      "distance": 0.5,
+      "URL": "https://www.victorianmarketinverness.co.uk/"
+    },
+    {
+      "rank": 9,
+      "name": "Dores Beach (Loch Ness)",
+      "postcode": "IV2 6TR",
+      "distanceKmFromAirport": 20,
+      "description": "Quiet shingle beach at the northern end of Loch Ness with stunning loch views and a famous pub — far from the tourist crowds",
+      "distance": 11,
+      "URL": "https://www.visitinverness.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Clava Cairns (Bronze Age Tombs)",
+      "postcode": "IV2 5EU",
+      "distanceKmFromAirport": 15,
+      "description": "Exceptionally well-preserved Bronze Age cairns and standing stones near Culloden, dating back 4,000 years",
+      "distance": 8,
+      "URL": "https://www.historicenvironment.scot/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Gothenburg",
+  "country": "Sweden",
+  "airportPostcode": "438 80",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Liseberg Amusement Park",
+      "postcode": "412 51",
+      "distanceKmFromAirport": 27,
+      "description": "Scandinavia's largest amusement park with 40 rides and Sweden's tallest roller coaster",
+      "distance": 2,
+      "URL": "https://www.liseberg.se"
+    },
+    {
+      "rank": 2,
+      "name": "Gothenburg Museum of Art",
+      "postcode": "412 56",
+      "distanceKmFromAirport": 26,
+      "description": "Northern Europe's finest art museum outside of capital cities with Rembrandt and Monet",
+      "distance": 1.5,
+      "URL": "https://www.konstmuseum.goteborg.se"
+    },
+    {
+      "rank": 3,
+      "name": "Universeum",
+      "postcode": "412 56",
+      "distanceKmFromAirport": 26,
+      "description": "Science centre with rainforest, ocean, space and a living reef aquarium",
+      "distance": 1.5,
+      "URL": "https://www.universeum.se"
+    },
+    {
+      "rank": 4,
+      "name": "Haga District",
+      "postcode": "413 01",
+      "distanceKmFromAirport": 26,
+      "description": "Charming 19th-century cobblestone neighbourhood with wooden houses, cafes and the giant cinnamon roll",
+      "distance": 1.5,
+      "URL": "https://www.goteborg.com/haga"
+    },
+    {
+      "rank": 5,
+      "name": "Gothenburg Opera",
+      "postcode": "411 02",
+      "distanceKmFromAirport": 26,
+      "description": "World-class opera house on the waterfront with spectacular harbour views",
+      "distance": 1,
+      "URL": "https://www.opera.se"
+    },
+    {
+      "rank": 6,
+      "name": "Slottsskogen Park",
+      "postcode": "414 55",
+      "distanceKmFromAirport": 28,
+      "description": "137-hectare city park with a free zoo, ponds and Gothenburg's favourite outdoor gathering spot",
+      "distance": 2.5,
+      "URL": "https://www.goteborg.com"
+    },
+    {
+      "rank": 7,
+      "name": "Maritime Museum & Aquarium",
+      "postcode": "414 51",
+      "distanceKmFromAirport": 27,
+      "description": "Maritime heritage of Gothenburg with historic vessels in the harbour",
+      "distance": 2,
+      "URL": "https://www.maritiman.se"
+    },
+    {
+      "rank": 8,
+      "name": "Rohsska Museum",
+      "postcode": "412 56",
+      "distanceKmFromAirport": 26,
+      "description": "Nordic countries' only dedicated design and craft museum",
+      "distance": 1.5,
+      "URL": "https://www.rohsska.se"
+    },
+    {
+      "rank": 9,
+      "name": "Avenyn",
+      "postcode": "411 36",
+      "distanceKmFromAirport": 26,
+      "description": "Gothenburg's main boulevard lined with restaurants, bars and the Poseidon fountain",
+      "distance": 1,
+      "URL": "https://www.goteborg.com/avenyn"
+    },
+    {
+      "rank": 10,
+      "name": "Swedish West Coast Seafood",
+      "postcode": "411 03",
+      "distanceKmFromAirport": 26,
+      "description": "Best seafood in Sweden - prawns, lobster and oysters fresh from the Gothenburg archipelago",
+      "distance": 1,
+      "URL": "https://www.goteborg.com/mat-dryck"
+    }
+  ]
+}

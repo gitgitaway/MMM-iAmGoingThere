@@ -1,0 +1,98 @@
+{
+  "city": "Genoa",
+  "country": "Italy",
+  "airportPostcode": "16154",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Caruggi Historic District",
+      "postcode": "16123",
+      "distanceKmFromAirport": 6,
+      "description": "UNESCO World Heritage labyrinth of medieval lanes, the largest in Europe",
+      "distance": 0.5,
+      "URL": "https://www.visitgenoa.it/"
+    },
+    {
+      "rank": 2,
+      "name": "Rolli Palaces (Via Garibaldi)",
+      "postcode": "16124",
+      "distanceKmFromAirport": 7,
+      "description": "UNESCO-listed Renaissance palaces along the Street of the Kings",
+      "distance": 0.8,
+      "URL": "https://www.visitgenoa.it/"
+    },
+    {
+      "rank": 3,
+      "name": "Aquarium of Genoa",
+      "postcode": "16128",
+      "distanceKmFromAirport": 8,
+      "description": "One of Europe's largest aquariums with whale sharks, dolphins and penguin beach",
+      "distance": 1.5,
+      "URL": "https://www.acquariodigenova.it/"
+    },
+    {
+      "rank": 4,
+      "name": "Palazzo Ducale",
+      "postcode": "16123",
+      "distanceKmFromAirport": 6,
+      "description": "Former seat of the Doges of Genoa with excellent art exhibitions",
+      "distance": 0.5,
+      "URL": "https://www.palazzoducale.genova.it/"
+    },
+    {
+      "rank": 5,
+      "name": "Porto Antico",
+      "postcode": "16128",
+      "distanceKmFromAirport": 8,
+      "description": "Regenerated old port designed by Renzo Piano with the Bigo crane viewpoint",
+      "distance": 1.5,
+      "URL": "https://www.portoantico.it/"
+    },
+    {
+      "rank": 6,
+      "name": "Lanterna Lighthouse",
+      "postcode": "16149",
+      "distanceKmFromAirport": 10,
+      "description": "One of the world's oldest working lighthouses, symbol of Genoa since 1543",
+      "distance": 3.5,
+      "URL": "https://www.visitgenoa.it/"
+    },
+    {
+      "rank": 7,
+      "name": "Museo di Palazzo Reale",
+      "postcode": "16124",
+      "distanceKmFromAirport": 7,
+      "description": "Royal palace with magnificent Hall of Mirrors and Savoy royal collections",
+      "distance": 0.8,
+      "URL": "https://www.palazzorealegenova.beniculturali.it/"
+    },
+    {
+      "rank": 8,
+      "name": "Cattedrale di San Lorenzo",
+      "postcode": "16123",
+      "distanceKmFromAirport": 6,
+      "description": "Gothic-Romanesque cathedral with Gothic doorways and a mysterious sacred relic",
+      "distance": 0.5,
+      "URL": "https://www.visitgenoa.it/"
+    },
+    {
+      "rank": 9,
+      "name": "Boccadasse",
+      "postcode": "16146",
+      "distanceKmFromAirport": 10,
+      "description": "Picturesque fishermen's hamlet within the city with colourful houses and a small beach",
+      "distance": 4.0,
+      "URL": "https://www.visitgenoa.it/"
+    },
+    {
+      "rank": 10,
+      "name": "Piazza de Ferrari",
+      "postcode": "16121",
+      "distanceKmFromAirport": 6,
+      "description": "Elegant main square with the iconic bronze fountain and Liberty architecture",
+      "distance": 0.3,
+      "URL": "https://www.visitgenoa.it/"
+    }
+  ]
+}

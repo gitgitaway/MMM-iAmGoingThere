@@ -1,0 +1,98 @@
+{
+  "city": "Kilimanjaro",
+  "country": "Tanzania",
+  "airportPostcode": "27500",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mount Kilimanjaro Summit",
+      "postcode": "27500",
+      "distanceKmFromAirport": 70,
+      "description": "Africa's highest peak at 5895m - climb the Marangu or Machame route to Uhuru Peak",
+      "distance": 25,
+      "URL": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+      "rank": 2,
+      "name": "Serengeti National Park",
+      "postcode": "61100",
+      "distanceKmFromAirport": 375,
+      "description": "UNESCO World Heritage savanna with the Great Migration of 1.5 million wildebeest",
+      "distance": 330,
+      "URL": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+      "rank": 3,
+      "name": "Ngorongoro Crater",
+      "postcode": "23100",
+      "distanceKmFromAirport": 235,
+      "description": "UNESCO World Heritage volcanic crater with 25,000 animals including the Big Five",
+      "distance": 190,
+      "URL": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+      "rank": 4,
+      "name": "Chagga Village Tour",
+      "postcode": "27500",
+      "distanceKmFromAirport": 50,
+      "description": "Visit a traditional Chagga village on the Kilimanjaro slopes with banana beer tasting",
+      "distance": 5,
+      "URL": "https://www.moshitanzania.co.tz/"
+    },
+    {
+      "rank": 5,
+      "name": "Arusha National Park",
+      "postcode": "23100",
+      "distanceKmFromAirport": 110,
+      "description": "Small but spectacular park with flamingos, giraffes and views of Mt Meru",
+      "distance": 65,
+      "URL": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+      "rank": 6,
+      "name": "Tarangire National Park",
+      "postcode": "26100",
+      "distanceKmFromAirport": 195,
+      "description": "Baobab-studded park with the highest density of elephants in Tanzania",
+      "distance": 150,
+      "URL": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+      "rank": 7,
+      "name": "Lake Manyara National Park",
+      "postcode": "26100",
+      "distanceKmFromAirport": 215,
+      "description": "Tree-climbing lions, flamingos and hippos in a dramatic Great Rift Valley setting",
+      "distance": 170,
+      "URL": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+      "rank": 8,
+      "name": "Materuni Waterfall",
+      "postcode": "27500",
+      "distanceKmFromAirport": 60,
+      "description": "Beautiful waterfall on the Kilimanjaro slopes with a coffee farm tour",
+      "distance": 15,
+      "URL": "https://www.moshitanzania.co.tz/"
+    },
+    {
+      "rank": 9,
+      "name": "Moshi Town Market",
+      "postcode": "27500",
+      "distanceKmFromAirport": 45,
+      "description": "Bustling market town at the foot of Kilimanjaro - excellent starting point for treks",
+      "distance": 0,
+      "URL": "https://www.moshitanzania.co.tz/"
+    },
+    {
+      "rank": 10,
+      "name": "Zanzibar Island",
+      "postcode": "71100",
+      "distanceKmFromAirport": 445,
+      "description": "Spice island with the UNESCO old Stone Town and idyllic beaches",
+      "distance": 400,
+      "URL": "https://www.zanzibartourism.go.tz/"
+    }
+  ]
+}

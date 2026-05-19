@@ -1,0 +1,98 @@
+{
+  "city": "Girona",
+  "country": "Spain",
+  "airportPostcode": "17185",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Girona Cathedral",
+      "postcode": "17004",
+      "distanceKmFromAirport": 13,
+      "description": "Magnificent Gothic cathedral with the world's widest Gothic nave at 23 metres, set atop a broad baroque staircase",
+      "distance": 1.0,
+      "URL": "https://www.catedraldegirona.cat/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Jewish Quarter (El Call)",
+      "postcode": "17004",
+      "distanceKmFromAirport": 13,
+      "description": "One of the best-preserved medieval Jewish quarters in Europe, a labyrinth of narrow lanes with the Museum of Jewish History",
+      "distance": 0.8,
+      "URL": "https://www.girona.cat/turisme/"
+    },
+    {
+      "rank": 3,
+      "name": "City Walls of Girona",
+      "postcode": "17004",
+      "distanceKmFromAirport": 13,
+      "description": "Walk the ancient Roman and medieval walls encircling the old town for spectacular views over terracotta rooftops and the Pyrenees",
+      "distance": 1.2,
+      "URL": "https://www.girona.cat/turisme/"
+    },
+    {
+      "rank": 4,
+      "name": "Onyar Riverside Houses",
+      "postcode": "17001",
+      "distanceKmFromAirport": 12,
+      "description": "Iconic row of colourful medieval houses overhanging the Onyar River, one of the most photographed scenes in Catalonia",
+      "distance": 0.5,
+      "URL": "https://www.girona.cat/turisme/"
+    },
+    {
+      "rank": 5,
+      "name": "Museu d'Art de Girona",
+      "postcode": "17004",
+      "distanceKmFromAirport": 13,
+      "description": "Fine arts museum in the medieval Episcopal Palace with Romanesque to contemporary art spanning twelve centuries of Catalan creativity",
+      "distance": 1.0,
+      "URL": "https://www.museuart.com/en"
+    },
+    {
+      "rank": 6,
+      "name": "Arab Baths",
+      "postcode": "17004",
+      "distanceKmFromAirport": 13,
+      "description": "Well-preserved 12th-century baths built in Romanesque style with a beautiful lantern dome over the central cold-water pool",
+      "distance": 0.9,
+      "URL": "https://www.banysarabs.cat/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Monastery of Sant Pere de Galligants",
+      "postcode": "17004",
+      "distanceKmFromAirport": 13,
+      "description": "Exquisite 12th-century Romanesque Benedictine monastery with a carved cloister, now housing the Archaeological Museum of Catalonia",
+      "distance": 1.3,
+      "URL": "https://www.girona.cat/turisme/"
+    },
+    {
+      "rank": 8,
+      "name": "Pont de les Peixateries Velles",
+      "postcode": "17001",
+      "distanceKmFromAirport": 12,
+      "description": "Distinctive red iron bridge designed by Gustave Eiffel spanning the Onyar River, now a beloved symbol of modern Girona",
+      "distance": 0.4,
+      "URL": "https://www.girona.cat/turisme/"
+    },
+    {
+      "rank": 9,
+      "name": "Rambla de la Llibertat",
+      "postcode": "17004",
+      "distanceKmFromAirport": 12,
+      "description": "Girona's lively promenade along the Onyar lined with flower stalls, bookshops and terrace cafes perfect for people-watching",
+      "distance": 0.3,
+      "URL": "https://www.girona.cat/turisme/"
+    },
+    {
+      "rank": 10,
+      "name": "Costa Brava Coast",
+      "postcode": "17310",
+      "distanceKmFromAirport": 25,
+      "description": "The stunning rocky coves and fishing villages of the Costa Brava are just 30 minutes from Girona's old town",
+      "distance": 30.0,
+      "URL": "https://www.costabrava.org/en/"
+    }
+  ]
+}

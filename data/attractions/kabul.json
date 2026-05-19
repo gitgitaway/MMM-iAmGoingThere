@@ -1,0 +1,98 @@
+{
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "airportPostcode": "1001",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Afghanistan",
+      "postcode": "1003",
+      "distanceKmFromAirport": 25,
+      "description": "Partially restored museum with Gandharan Buddhist art and Bactrian Gold artefacts",
+      "distance": 8.0,
+      "URL": "https://nationalmuseum.af/"
+    },
+    {
+      "rank": 2,
+      "name": "Babur's Gardens (Bagh-e Babur)",
+      "postcode": "1001",
+      "distanceKmFromAirport": 20,
+      "description": "16th-century Mughal gardens laid out by the emperor Babur - his final resting place",
+      "distance": 3.0,
+      "URL": "https://www.visitafghanistan.af/"
+    },
+    {
+      "rank": 3,
+      "name": "Kabul Old Bazaar (Mandawi)",
+      "postcode": "1001",
+      "distanceKmFromAirport": 18,
+      "description": "Historic bazaar district with copper merchants, spice sellers and money changers",
+      "distance": 1.0,
+      "URL": "https://www.visitafghanistan.af/"
+    },
+    {
+      "rank": 4,
+      "name": "Darul Aman Palace",
+      "postcode": "1003",
+      "distanceKmFromAirport": 26,
+      "description": "Dramatic ruined 1920s palace - a symbol of Afghanistan's turbulent 20th century",
+      "distance": 9.0,
+      "URL": "https://www.visitafghanistan.af/"
+    },
+    {
+      "rank": 5,
+      "name": "Pul-e Khishti Mosque",
+      "postcode": "1001",
+      "distanceKmFromAirport": 18,
+      "description": "Blue-domed 18th-century mosque - Kabul's largest place of worship",
+      "distance": 0.5,
+      "URL": "https://www.visitafghanistan.af/"
+    },
+    {
+      "rank": 6,
+      "name": "Chicken Street",
+      "postcode": "1001",
+      "distanceKmFromAirport": 19,
+      "description": "Famous street of antique shops, carpet sellers and lapis lazuli jewellers",
+      "distance": 2.0,
+      "URL": "https://www.visitafghanistan.af/"
+    },
+    {
+      "rank": 7,
+      "name": "Band-e Amir National Park",
+      "postcode": "1001",
+      "distanceKmFromAirport": 217,
+      "description": "Six cobalt-blue crater lakes in the Hindu Kush - Afghanistan's first national park",
+      "distance": 200.0,
+      "URL": "https://www.visitafghanistan.af/"
+    },
+    {
+      "rank": 8,
+      "name": "Minaret of Jam (UNESCO)",
+      "postcode": "1001",
+      "distanceKmFromAirport": 417,
+      "description": "UNESCO World Heritage 65m Ghurid minaret from 1194 in a remote mountain gorge",
+      "distance": 400.0,
+      "URL": "https://whc.unesco.org/en/list/211"
+    },
+    {
+      "rank": 9,
+      "name": "Bamiyan Valley",
+      "postcode": "1001",
+      "distanceKmFromAirport": 237,
+      "description": "UNESCO World Heritage valley where the giant Buddhas stood before destruction - still breathtaking",
+      "distance": 220.0,
+      "URL": "https://whc.unesco.org/en/list/208"
+    },
+    {
+      "rank": 10,
+      "name": "Qabili Palau (Lamb Rice)",
+      "postcode": "1001",
+      "distanceKmFromAirport": 18,
+      "description": "Afghanistan's national dish - steamed rice with carrots, raisins and slow-braised lamb",
+      "distance": 0.5,
+      "URL": "https://www.visitafghanistan.af/"
+    }
+  ]
+}

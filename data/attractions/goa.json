@@ -1,0 +1,98 @@
+{
+  "city": "Goa",
+  "country": "India",
+  "airportPostcode": "403202",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Basilica of Bom Jesus",
+      "postcode": "403402",
+      "distanceKmFromAirport": 39,
+      "description": "UNESCO World Heritage Baroque church housing the remains of St Francis Xavier",
+      "distance": 9.0,
+      "URL": "https://www.basilicaofbomjesus.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Calangute & Baga Beach",
+      "postcode": "403516",
+      "distanceKmFromAirport": 42,
+      "description": "Goa's most popular North Goa beaches with beach shacks, watersports and nightlife",
+      "distance": 12.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 3,
+      "name": "Palolem Beach (South Goa)",
+      "postcode": "403728",
+      "distanceKmFromAirport": 95,
+      "description": "Crescent bay with palm trees and calm water - Goa's most beautiful beach",
+      "distance": 65.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 4,
+      "name": "Old Goa Churches",
+      "postcode": "403402",
+      "distanceKmFromAirport": 39,
+      "description": "UNESCO World Heritage Portuguese colonial churches including Se Cathedral - India's largest",
+      "distance": 9.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 5,
+      "name": "Spice Plantation Tour",
+      "postcode": "403409",
+      "distanceKmFromAirport": 60,
+      "description": "Tour of a working plantation with cardamom, vanilla, nutmeg and elephant encounters",
+      "distance": 30.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 6,
+      "name": "Dudhsagar Waterfall",
+      "postcode": "403406",
+      "distanceKmFromAirport": 95,
+      "description": "Four-tiered 600m waterfall - India's fifth highest - deep in the Goa jungle",
+      "distance": 65.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 7,
+      "name": "Anjuna Flea Market (Wednesday)",
+      "postcode": "403509",
+      "distanceKmFromAirport": 48,
+      "description": "Legendary 1960s hippie market with Kashmiri traders, Tibetan jewellery and beach fashion",
+      "distance": 18.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 8,
+      "name": "Chapora Fort Sunset",
+      "postcode": "403509",
+      "distanceKmFromAirport": 52,
+      "description": "Portuguese fort made famous by the Bollywood film Dil Chahta Hai",
+      "distance": 22.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 9,
+      "name": "Night Fishing Trip",
+      "postcode": "403001",
+      "distanceKmFromAirport": 31,
+      "description": "Go out with local fishermen on a traditional Goan fishing boat at sunset",
+      "distance": 1.0,
+      "URL": "https://www.goatourism.gov.in/"
+    },
+    {
+      "rank": 10,
+      "name": "Prawn Balchao & Bebinca",
+      "postcode": "403001",
+      "distanceKmFromAirport": 30,
+      "description": "Goa's fiery pickled prawn curry and the layered coconut toddy egg pudding",
+      "distance": 0.5,
+      "URL": "https://www.goatourism.gov.in/"
+    }
+  ]
+}

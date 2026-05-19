@@ -1,0 +1,98 @@
+{
+  "city": "Ghent",
+  "country": "Belgium",
+  "airportPostcode": "1820",
+  "airportDistanceKm": 58,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gravensteen Castle",
+      "postcode": "9000",
+      "distanceKmFromAirport": 58,
+      "description": "Imposing twelfth-century moated castle of the Counts of Flanders in the heart of the medieval city",
+      "distance": 0.8,
+      "URL": "https://historischehuizen.stad.gent/en/castle-of-the-counts"
+    },
+    {
+      "rank": 2,
+      "name": "Ghent Altarpiece (St Bavo's Cathedral)",
+      "postcode": "9000",
+      "distanceKmFromAirport": 59,
+      "description": "St Bavo's Cathedral houses the Adoration of the Mystic Lamb, the world's first great oil painting by Jan van Eyck",
+      "distance": 1.0,
+      "URL": "https://www.sintbaafskathedraal.be/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Graslei and Korenlei",
+      "postcode": "9000",
+      "distanceKmFromAirport": 58,
+      "description": "Two facing medieval guild quays along the Leie river, forming the most picturesque streetscape in Ghent",
+      "distance": 0.6,
+      "URL": "https://visit.gent.be/en/see-do/graslei-and-korenlei"
+    },
+    {
+      "rank": 4,
+      "name": "STAM Ghent City Museum",
+      "postcode": "9000",
+      "distanceKmFromAirport": 59,
+      "description": "Immersive museum charting 2000 years of Ghent's history set within a beautifully restored Cistercian abbey",
+      "distance": 1.5,
+      "URL": "https://stamgent.be/en"
+    },
+    {
+      "rank": 5,
+      "name": "Vrijdagmarkt",
+      "postcode": "9000",
+      "distanceKmFromAirport": 58,
+      "description": "Historic Friday market square where medieval guilds assembled, dominated by the statue of Jacob van Artevelde",
+      "distance": 0.7,
+      "URL": "https://visit.gent.be/en/see-do/vrijdagmarkt"
+    },
+    {
+      "rank": 6,
+      "name": "Design Museum Gent",
+      "postcode": "9000",
+      "distanceKmFromAirport": 58,
+      "description": "Inspiring museum of applied arts and design from the Middle Ages to contemporary works in an 18th-century mansion",
+      "distance": 0.8,
+      "URL": "https://www.designmuseumgent.be/en"
+    },
+    {
+      "rank": 7,
+      "name": "Patershol Quarter",
+      "postcode": "9000",
+      "distanceKmFromAirport": 58,
+      "description": "Atmospheric medieval neighbourhood of cobbled lanes packed with authentic Flemish restaurants and hidden courtyards",
+      "distance": 1.0,
+      "URL": "https://visit.gent.be/en/see-do/patershol"
+    },
+    {
+      "rank": 8,
+      "name": "Belfort Ghent",
+      "postcode": "9000",
+      "distanceKmFromAirport": 59,
+      "description": "UNESCO-listed fourteenth-century belfry tower symbolising Ghent's civic independence, with sweeping city views",
+      "distance": 0.9,
+      "URL": "https://historischehuizen.stad.gent/en/belfry"
+    },
+    {
+      "rank": 9,
+      "name": "Ghent Canal Boat Tour",
+      "postcode": "9000",
+      "distanceKmFromAirport": 58,
+      "description": "Guided boat trips weaving through Ghent's medieval waterways revealing hidden facades and centuries of city history",
+      "distance": 0.6,
+      "URL": "https://visit.gent.be/en/see-do/boat-trips"
+    },
+    {
+      "rank": 10,
+      "name": "Werregarenstraat (Graffiti Alley)",
+      "postcode": "9000",
+      "distanceKmFromAirport": 59,
+      "description": "Legal street art haven where internationally renowned artists continuously transform a narrow medieval alley",
+      "distance": 0.5,
+      "URL": "https://visit.gent.be/en/see-do/werregarenstraat"
+    }
+  ]
+}

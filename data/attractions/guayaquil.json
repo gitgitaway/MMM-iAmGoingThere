@@ -1,0 +1,98 @@
+{
+  "city": "Guayaquil",
+  "country": "Ecuador",
+  "airportPostcode": "090150",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Galapagos Islands",
+      "postcode": "200101",
+      "distanceKmFromAirport": 1005,
+      "description": "UNESCO World Heritage - depart from Guayaquil for Darwin's evolution laboratory",
+      "distance": 1000,
+      "URL": "https://www.galapagos.gob.ec"
+    },
+    {
+      "rank": 2,
+      "name": "Las Penas Neighbourhood & Cerro Santa Ana",
+      "postcode": "090101",
+      "distanceKmFromAirport": 6,
+      "description": "Historic painted wooden houses climbing 444 steps to a lighthouse with city views",
+      "distance": 1,
+      "URL": "https://www.guayaquil.travel"
+    },
+    {
+      "rank": 3,
+      "name": "Malecon 2000",
+      "postcode": "090101",
+      "distanceKmFromAirport": 6,
+      "description": "Regenerated 2.5km riverside promenade with museums, gardens and the botanical garden",
+      "distance": 0.5,
+      "URL": "https://www.malecon2000.com"
+    },
+    {
+      "rank": 4,
+      "name": "Parque Seminario (Iguana Park)",
+      "postcode": "090101",
+      "distanceKmFromAirport": 6,
+      "description": "City square overrun with large free-roaming iguanas - extraordinary urban wildlife",
+      "distance": 1,
+      "URL": "https://www.guayaquil.travel"
+    },
+    {
+      "rank": 5,
+      "name": "MAAC Precolumbian Museum",
+      "postcode": "090101",
+      "distanceKmFromAirport": 6,
+      "description": "Ecuador's finest pre-Columbian art with remarkable Valdivia figurines",
+      "distance": 0.5,
+      "URL": "https://www.museomaac.gob.ec"
+    },
+    {
+      "rank": 6,
+      "name": "Guayaquil Botanical Garden",
+      "postcode": "090505",
+      "distanceKmFromAirport": 10,
+      "description": "200 orchid species - Ecuador is the world's most orchid-rich country",
+      "distance": 5,
+      "URL": "https://www.jardinbotanicoguayaquil.com"
+    },
+    {
+      "rank": 7,
+      "name": "Isla Santay Nature Reserve",
+      "postcode": "090101",
+      "distanceKmFromAirport": 7,
+      "description": "Freshwater island in the Guayas river with crocodiles and giant ceiba trees",
+      "distance": 2,
+      "URL": "https://www.guayaquil.travel"
+    },
+    {
+      "rank": 8,
+      "name": "Mercado Central",
+      "postcode": "090101",
+      "distanceKmFromAirport": 6,
+      "description": "Fresh ceviche, cangrejada (crab) and encebollado fish soup",
+      "distance": 1,
+      "URL": "https://www.guayaquil.travel"
+    },
+    {
+      "rank": 9,
+      "name": "Inaquito Artisanal Chocolate Tour",
+      "postcode": "090150",
+      "distanceKmFromAirport": 10,
+      "description": "Ecuador produces the world's finest cacao - visit a bean-to-bar chocolate factory",
+      "distance": 5,
+      "URL": "https://www.guayaquil.travel"
+    },
+    {
+      "rank": 10,
+      "name": "Encebollado de Pescado",
+      "postcode": "090101",
+      "distanceKmFromAirport": 6,
+      "description": "Ecuador's national hangover cure - tuna soup with yuca, onion and lime",
+      "distance": 0.5,
+      "URL": "https://www.guayaquil.travel"
+    }
+  ]
+}

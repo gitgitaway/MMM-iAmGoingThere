@@ -1,0 +1,98 @@
+{
+  "city": "Istanbul",
+  "country": "Turkey",
+  "airportPostcode": "34283",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hagia Sophia",
+      "postcode": "34122",
+      "distanceKmFromAirport": 41,
+      "description": "Byzantine masterpiece (537 AD) that served as a church, mosque and museum — now a mosque again",
+      "distance": 1.0,
+      "URL": "https://ayasofyacamii.gov.tr/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Blue Mosque (Sultan Ahmet Camii)",
+      "postcode": "34122",
+      "distanceKmFromAirport": 41,
+      "description": "The only mosque in Turkey with six minarets, famed for its 20,000 blue Iznik tiles",
+      "distance": 1.0,
+      "URL": "https://sultanahmetcamii.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Topkapi Palace",
+      "postcode": "34122",
+      "distanceKmFromAirport": 42,
+      "description": "Opulent seat of the Ottoman Empire for 400 years with the Harem, treasury and holy relics",
+      "distance": 1.5,
+      "URL": "https://topkapisarayi.gov.tr/en"
+    },
+    {
+      "rank": 4,
+      "name": "Grand Bazaar (Kapali Carsi)",
+      "postcode": "34126",
+      "distanceKmFromAirport": 42,
+      "description": "One of the world's oldest and largest covered markets with 4,000 shops and 500 years of history",
+      "distance": 1.5,
+      "URL": "https://www.grandbazaaristanbul.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Bosphorus Cruise",
+      "postcode": "34425",
+      "distanceKmFromAirport": 42,
+      "description": "Scenic boat journey through the strait dividing Europe and Asia past palaces and Ottoman villas",
+      "distance": 2.0,
+      "URL": "https://www.sehirhatlari.istanbul/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Istanbul Archaeology Museums",
+      "postcode": "34122",
+      "distanceKmFromAirport": 41,
+      "description": "Outstanding three-museum complex with Alexander the Great's sarcophagus and ancient Near Eastern artefacts",
+      "distance": 1.2,
+      "URL": "https://www.muze.gov.tr/en/muzeler/istanbul-arkeoloji-muzeleri"
+    },
+    {
+      "rank": 7,
+      "name": "Spice Bazaar & Eminonu",
+      "postcode": "34116",
+      "distanceKmFromAirport": 42,
+      "description": "The Egyptian Bazaar — overflowing with spices, Turkish delight, lokum and baklava since 1664",
+      "distance": 1.5,
+      "URL": "https://www.misircarsisi.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Galata Tower",
+      "postcode": "34421",
+      "distanceKmFromAirport": 42,
+      "description": "Iconic 14th-century Genoese watchtower with a panoramic viewing gallery over the Golden Horn",
+      "distance": 2.5,
+      "URL": "https://www.galatakulesi.gov.tr/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Dolmabahce Palace",
+      "postcode": "34357",
+      "distanceKmFromAirport": 46,
+      "description": "Magnificent 19th-century European-style palace on the Bosphorus — the last home of Mustafa Kemal Ataturk",
+      "distance": 6.0,
+      "URL": "https://www.millisaraylar.gov.tr/en/saraylar/dolmabahce"
+    },
+    {
+      "rank": 10,
+      "name": "Kadikoy & Asian Side",
+      "postcode": "34710",
+      "distanceKmFromAirport": 43,
+      "description": "Take a ferry to the Asian side for the vibrant Kadikoy market, street food and a different Istanbul",
+      "distance": 3.0,
+      "URL": "https://www.istanbulkart.istanbul/en/"
+    }
+  ]
+}

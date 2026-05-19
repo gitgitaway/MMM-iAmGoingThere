@@ -1,0 +1,98 @@
+{
+  "city": "Honiara",
+  "country": "Solomon Islands",
+  "airportPostcode": "677",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Guadalcanal WWII Battlefields",
+      "postcode": "677",
+      "distanceKmFromAirport": 18,
+      "description": "Sites of the 1942-43 battle that turned the tide of WWII including Iron Bottom Sound",
+      "distance": 5,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 2,
+      "name": "Solomon Islands National Museum",
+      "postcode": "677",
+      "distanceKmFromAirport": 14,
+      "description": "Traditional shell money, carvings, war artefacts and natural history",
+      "distance": 0.5,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 3,
+      "name": "Central Market (Cenotaph Market)",
+      "postcode": "677",
+      "distanceKmFromAirport": 14,
+      "description": "Colourful market with tropical fruits, betel nut, grass skirts and Solomon carvings",
+      "distance": 0.5,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 4,
+      "name": "Bonegi Beach WWII Wrecks",
+      "postcode": "677",
+      "distanceKmFromAirport": 25,
+      "description": "Two Japanese ships wrecked in 1942 - one partially above water, one for diving",
+      "distance": 12,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 5,
+      "name": "Henderson Field (Honiara Airport)",
+      "postcode": "677",
+      "distanceKmFromAirport": 26,
+      "description": "The airfield fought over so desperately in the WWII Guadalcanal Campaign",
+      "distance": 13,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 6,
+      "name": "Tenaru River & Waterfall",
+      "postcode": "677",
+      "distanceKmFromAirport": 28,
+      "description": "Site of the Battle of the Tenaru and a beautiful river waterfall for swimming",
+      "distance": 15,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 7,
+      "name": "Florida Islands Snorkelling",
+      "postcode": "677",
+      "distanceKmFromAirport": 43,
+      "description": "Pristine coral reefs accessible by boat with sea turtles and reef sharks",
+      "distance": 30,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 8,
+      "name": "Skull Island (Malaita Province)",
+      "postcode": "677",
+      "distanceKmFromAirport": 133,
+      "description": "Island where ancestral skull shrines are maintained by custom priests",
+      "distance": 120,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 9,
+      "name": "Kakabona Village Cultural Experience",
+      "postcode": "677",
+      "distanceKmFromAirport": 18,
+      "description": "Traditional village ceremony with custom dancing and local craft demonstrations",
+      "distance": 5,
+      "URL": "https://www.visitsolomons.com.sb"
+    },
+    {
+      "rank": 10,
+      "name": "Tulagi Day Trip",
+      "postcode": "677",
+      "distanceKmFromAirport": 53,
+      "description": "Former colonial capital with WWII relics, dive sites and traditional villages",
+      "distance": 40,
+      "URL": "https://www.visitsolomons.com.sb"
+    }
+  ]
+}

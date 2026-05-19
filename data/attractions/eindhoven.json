@@ -1,0 +1,98 @@
+{
+  "city": "Eindhoven",
+  "country": "Netherlands",
+  "airportPostcode": "5657 EA",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Van Abbemuseum",
+      "postcode": "5611 EM",
+      "distanceKmFromAirport": 8,
+      "description": "Leading museum of modern and contemporary art including El Lissitzky and Picasso",
+      "distance": 1,
+      "URL": "https://www.vanabbemuseum.nl"
+    },
+    {
+      "rank": 2,
+      "name": "Strijp-S",
+      "postcode": "5617 BC",
+      "distanceKmFromAirport": 9,
+      "description": "Creative district in former Philips factories with design studios, events and street art",
+      "distance": 2,
+      "URL": "https://www.strijp-s.nl"
+    },
+    {
+      "rank": 3,
+      "name": "Philips Museum",
+      "postcode": "5611 AZ",
+      "distanceKmFromAirport": 8,
+      "description": "Celebrating the history of Philips electronics and innovation in Eindhoven",
+      "distance": 0.5,
+      "URL": "https://www.philips-museum.com"
+    },
+    {
+      "rank": 4,
+      "name": "Evoluon",
+      "postcode": "5616 SZ",
+      "distanceKmFromAirport": 9,
+      "description": "Iconic UFO-shaped 1960s conference centre designed by Louis Kalff",
+      "distance": 2,
+      "URL": "https://www.evoluon.com"
+    },
+    {
+      "rank": 5,
+      "name": "Dutch Design Week",
+      "postcode": "5611 AJ",
+      "distanceKmFromAirport": 7,
+      "description": "Annual design festival making Eindhoven the world's design capital every October",
+      "distance": 0,
+      "URL": "https://www.dutchdesignweek.nl"
+    },
+    {
+      "rank": 6,
+      "name": "Genneper Parken",
+      "postcode": "5644 RJ",
+      "distanceKmFromAirport": 10,
+      "description": "Leisure park with open-air museum, athletics track and children's farm",
+      "distance": 3,
+      "URL": "https://www.genneperparken.nl"
+    },
+    {
+      "rank": 7,
+      "name": "GLOW Light Art Festival",
+      "postcode": "5611 AJ",
+      "distanceKmFromAirport": 7,
+      "description": "Annual November light art festival transforming the city into a nocturnal canvas",
+      "distance": 0,
+      "URL": "https://www.gloweindhoven.nl"
+    },
+    {
+      "rank": 8,
+      "name": "High Tech Campus Eindhoven",
+      "postcode": "5656 AE",
+      "distanceKmFromAirport": 12,
+      "description": "Europe's smartest square kilometre with over 200 tech companies open for visits",
+      "distance": 5,
+      "URL": "https://www.hightechcampus.com"
+    },
+    {
+      "rank": 9,
+      "name": "Blob Buildings",
+      "postcode": "5611 AJ",
+      "distanceKmFromAirport": 7,
+      "description": "Futuristic blob-shaped shopping centre on the 18 Septemberplein",
+      "distance": 0.2,
+      "URL": "https://www.visiteindhovennl.com"
+    },
+    {
+      "rank": 10,
+      "name": "PSV Eindhoven Stadium Tour",
+      "postcode": "5616 NB",
+      "distanceKmFromAirport": 9,
+      "description": "Behind-the-scenes tour of the Philips Stadion, home of PSV Eindhoven",
+      "distance": 2,
+      "URL": "https://www.psv.nl/psv/stadion"
+    }
+  ]
+}

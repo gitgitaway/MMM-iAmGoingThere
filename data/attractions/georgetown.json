@@ -1,0 +1,98 @@
+{
+  "city": "Georgetown",
+  "country": "Guyana",
+  "airportPostcode": "150011",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kaieteur Falls",
+      "postcode": "150001",
+      "distanceKmFromAirport": 253,
+      "description": "World's most powerful waterfall - five times higher than Niagara with untouched rainforest",
+      "distance": 250.0,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "St George's Cathedral",
+      "postcode": "150001",
+      "distanceKmFromAirport": 4,
+      "description": "World's tallest wooden church at 43m - a Victorian colonial masterpiece",
+      "distance": 0.5,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Demerara River Ferry & Market",
+      "postcode": "150001",
+      "distanceKmFromAirport": 4,
+      "description": "Cross the Demerara River by ferry to the Stabroek market with its distinctive clock tower",
+      "distance": 0.8,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Georgetown Seawall",
+      "postcode": "150001",
+      "distanceKmFromAirport": 4,
+      "description": "8-mile sea wall below sea level with evening promenaders",
+      "distance": 1.0,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Botanical Gardens",
+      "postcode": "150001",
+      "distanceKmFromAirport": 6,
+      "description": "75-hectare gardens with manatees, Victoria amazonica water lilies and tame deer",
+      "distance": 2.5,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Walter Roth Museum of Anthropology",
+      "postcode": "150001",
+      "distanceKmFromAirport": 4,
+      "description": "Amerindian culture from Guyana's indigenous peoples",
+      "distance": 1.5,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Iwokrama Rainforest Lodge",
+      "postcode": "150001",
+      "distanceKmFromAirport": 353,
+      "description": "Pristine Amazon rainforest birding with harpy eagles and giant river otters",
+      "distance": 350.0,
+      "URL": "https://www.iwokrama.org/"
+    },
+    {
+      "rank": 8,
+      "name": "National Museum of Guyana",
+      "postcode": "150001",
+      "distanceKmFromAirport": 4,
+      "description": "History of the Guyanese people from indigenous times through Dutch, French and British colonial era",
+      "distance": 0.8,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Rupununi Savanna Safari",
+      "postcode": "150001",
+      "distanceKmFromAirport": 503,
+      "description": "Giant anteaters, giant otters and jaguar spotting in the wild southern grasslands",
+      "distance": 500.0,
+      "URL": "https://www.guyana-tourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Pepperpot Stew",
+      "postcode": "150001",
+      "distanceKmFromAirport": 4,
+      "description": "Guyana's national dish - cassareep-stewed meat slow-cooked indefinitely and never quite finished",
+      "distance": 0.5,
+      "URL": "https://www.guyana-tourism.com/"
+    }
+  ]
+}

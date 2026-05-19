@@ -1,0 +1,98 @@
+{
+  "city": "East Kilbride",
+  "country": "Scotland",
+  "airportPostcode": "PA3 2ST",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Museum of Scottish Country Life (NMS Wester Kittochside)",
+      "postcode": "G76 9HR",
+      "distanceKmFromAirport": 20,
+      "description": "National Museum of Scotland site on a 1950s farm — preserving traditional Scottish farming heritage with working demonstrations",
+      "distance": 4,
+      "URL": "https://www.nms.ac.uk/national-museum-of-rural-life/"
+    },
+    {
+      "rank": 2,
+      "name": "Calderglen Country Park & Zoo",
+      "postcode": "G75 0QZ",
+      "distanceKmFromAirport": 22,
+      "description": "Extensive woodland park in the Calder valley with a small zoo, tropical house, children's farm and nature trails",
+      "distance": 4,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Chatelherault Country Park",
+      "postcode": "ML3 7UE",
+      "distanceKmFromAirport": 24,
+      "description": "William Adam's hunting lodge in a spectacular country park above the River Avon gorge, with the rare Cadzow cattle herd",
+      "distance": 6,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Eaglesham Conservation Village",
+      "postcode": "G76 0LR",
+      "distanceKmFromAirport": 23,
+      "description": "Scotland's most complete 18th-century planned village — a conservation area of whitewashed cottages around a triangular main street",
+      "distance": 5,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "East Kilbride Shopping Centre (The Centre)",
+      "postcode": "G74 1PG",
+      "distanceKmFromAirport": 18,
+      "description": "One of Scotland's first and largest indoor shopping malls — covering three levels with major retailers and dining",
+      "distance": 0.5,
+      "URL": "https://www.thecentreek.co.uk/"
+    },
+    {
+      "rank": 6,
+      "name": "Glasgow (Day Trip)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's largest city just 25 minutes by bus — world-class museums, galleries, the West End and a renowned food scene",
+      "distance": 7,
+      "URL": "https://www.visitglasgow.com/"
+    },
+    {
+      "rank": 7,
+      "name": "New Lanark World Heritage Site (Day Trip)",
+      "postcode": "ML11 9DB",
+      "distanceKmFromAirport": 45,
+      "description": "UNESCO-listed Robert Owen model mill village — an extraordinary example of industrial social reform preserved in the Clyde gorge",
+      "distance": 27,
+      "URL": "https://www.newlanark.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Loch Lomond & Trossachs (Day Trip)",
+      "postcode": "G83 8QX",
+      "distanceKmFromAirport": 40,
+      "description": "Scotland's first National Park — Loch Lomond's beautiful shores, Ben Lomond and the Trossachs forests are within an hour's drive",
+      "distance": 22,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Bothwell Castle",
+      "postcode": "G71 8BR",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's largest 13th-century castle ruin overlooking the River Clyde — a superb example of medieval fortress architecture",
+      "distance": 8,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 10,
+      "name": "Hunter House Museum (John Hunter)",
+      "postcode": "G75 8AE",
+      "distanceKmFromAirport": 18,
+      "description": "Birthplace of John Hunter, the father of modern surgery — a small museum in the historic cottage where he was born in 1728",
+      "distance": 0.5,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    }
+  ]
+}

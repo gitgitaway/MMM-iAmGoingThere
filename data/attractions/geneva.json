@@ -1,0 +1,98 @@
+{
+  "city": "Geneva",
+  "country": "Switzerland",
+  "airportPostcode": "1215",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "CERN & Globe of Science",
+      "postcode": "1211",
+      "distanceKmFromAirport": 13,
+      "description": "Visit the world's largest particle physics laboratory and the Large Hadron Collider",
+      "distance": 8.0,
+      "URL": "https://home.cern/"
+    },
+    {
+      "rank": 2,
+      "name": "Jet d'Eau",
+      "postcode": "1207",
+      "distanceKmFromAirport": 6,
+      "description": "One of the world's tallest water fountains shooting 140 metres above Lake Geneva",
+      "distance": 0.5,
+      "URL": "https://www.geneve.com/en/attractions/jet-d-eau"
+    },
+    {
+      "rank": 3,
+      "name": "Old Town (Vieille Ville)",
+      "postcode": "1204",
+      "distanceKmFromAirport": 6,
+      "description": "Hilltop medieval quarter with the Cathedral of St Peter and Reformation Wall",
+      "distance": 0.8,
+      "URL": "https://www.geneve.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Palace of Nations",
+      "postcode": "1211",
+      "distanceKmFromAirport": 9,
+      "description": "European headquarters of the United Nations with guided tours",
+      "distance": 4.0,
+      "URL": "https://www.ungeneva.org/en/visitors"
+    },
+    {
+      "rank": 5,
+      "name": "Lake Geneva",
+      "postcode": "1207",
+      "distanceKmFromAirport": 6,
+      "description": "Europe's largest Alpine lake with Belle Epoque promenade and mountain views",
+      "distance": 0.5,
+      "URL": "https://www.geneve.com/"
+    },
+    {
+      "rank": 6,
+      "name": "International Red Cross Museum",
+      "postcode": "1202",
+      "distanceKmFromAirport": 8,
+      "description": "Moving museum on humanitarian action, human rights and the Geneva Conventions",
+      "distance": 3.5,
+      "URL": "https://www.icrcmuseum.ch/"
+    },
+    {
+      "rank": 7,
+      "name": "Patek Philippe Museum",
+      "postcode": "1205",
+      "distanceKmFromAirport": 6,
+      "description": "Horological museum tracing 500 years of Geneva watchmaking excellence",
+      "distance": 1.5,
+      "URL": "https://www.patek.com/en/company/patek-philippe-museum"
+    },
+    {
+      "rank": 8,
+      "name": "Musee d'Art et d'Histoire",
+      "postcode": "1206",
+      "distanceKmFromAirport": 6,
+      "description": "Geneva's main art and archaeology museum in a Belle Epoque palace",
+      "distance": 1.0,
+      "URL": "https://www.mahmah.ch/"
+    },
+    {
+      "rank": 9,
+      "name": "Botanical Garden",
+      "postcode": "1202",
+      "distanceKmFromAirport": 8,
+      "description": "Botanical garden with arboretum, greenhouses and an animal reserve",
+      "distance": 3.0,
+      "URL": "https://www.geneve.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Lausanne & Olympic Museum",
+      "postcode": "1006",
+      "distanceKmFromAirport": 65,
+      "description": "Nearby Swiss Riviera city with the world's Olympic headquarters museum",
+      "distance": 60.0,
+      "URL": "https://www.olympic.org/museum"
+    }
+  ]
+}

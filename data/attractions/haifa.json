@@ -1,0 +1,98 @@
+{
+  "city": "Haifa",
+  "country": "Israel",
+  "airportPostcode": "3100401",
+  "airportDistanceKm": 90,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bahai Gardens and Shrine (UNESCO)",
+      "postcode": "3107202",
+      "distanceKmFromAirport": 91,
+      "description": "UNESCO World Heritage eighteen terraced gardens cascading down Mount Carmel with the golden-domed Shrine of the Bab; among the most breathtaking landscaped gardens on earth",
+      "distance": 2.0,
+      "URL": "https://www.ganbahai.org.il/en/"
+    },
+    {
+      "rank": 2,
+      "name": "German Colony",
+      "postcode": "3304611",
+      "distanceKmFromAirport": 91,
+      "description": "Beautifully preserved 19th-century Templar colony with stone buildings, boutique restaurants and the Ben Gurion Boulevard; the most atmospheric neighbourhood in Haifa",
+      "distance": 1.0,
+      "URL": "https://www.visit-haifa.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Haifa Museum of Art",
+      "postcode": "3303600",
+      "distanceKmFromAirport": 91,
+      "description": "Major collection of Israeli and international modern art with an outstanding focus on contemporary Israeli artists; housed in a striking building in the Hadar district",
+      "distance": 3.0,
+      "URL": "https://hma.org.il/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Stella Maris Carmelite Monastery",
+      "postcode": "3436606",
+      "distanceKmFromAirport": 92,
+      "description": "Spectacular 19th-century monastery atop Mount Carmel with a lighthouse and panoramic Mediterranean views; an important Christian pilgrimage site revered by Carmelite monks",
+      "distance": 5.0,
+      "URL": "https://www.stellamarismonastery.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Clandestine Immigration and Naval Museum",
+      "postcode": "3304319",
+      "distanceKmFromAirport": 91,
+      "description": "Absorbing museum in the German Colony telling the story of illegal Jewish immigration to British Mandate Palestine before the founding of Israel in 1948",
+      "distance": 1.0,
+      "URL": "https://www.naval.org.il/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Carmel Market (HaCarmel)",
+      "postcode": "3107400",
+      "distanceKmFromAirport": 91,
+      "description": "Haifa's vibrant open-air market on the slopes of Mount Carmel with fresh produce, Middle Eastern spices, hummus stalls and the smells and sounds of Israeli street life",
+      "distance": 3.0,
+      "URL": "https://www.visit-haifa.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Haifa Cable Car",
+      "postcode": "3303600",
+      "distanceKmFromAirport": 91,
+      "description": "Aerial cable car connecting the lower German Colony to the upper Carmel neighbourhood with sweeping views over Haifa Bay; a quick and scenic way to traverse the steep hillside",
+      "distance": 1.5,
+      "URL": "https://www.visit-haifa.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Technion — Israel Institute of Technology",
+      "postcode": "3200003",
+      "distanceKmFromAirport": 93,
+      "description": "Israel's MIT and one of the world's top technical universities; the striking campus on Mount Carmel and the Tech Museum chart Israel's extraordinary innovation story",
+      "distance": 6.0,
+      "URL": "https://www.technion.ac.il/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Acre (Akko) Old City (UNESCO)",
+      "postcode": "2410101",
+      "distanceKmFromAirport": 107,
+      "description": "UNESCO World Heritage Crusader city just 20km north of Haifa with Ottoman Khan al-Umdan, underground Crusader halls, vibrant Arab market and legendary sea walls",
+      "distance": 23.0,
+      "URL": "https://www.akko.org.il/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Sammy Ofer Stadium",
+      "postcode": "3108301",
+      "distanceKmFromAirport": 91,
+      "description": "Modern 30,820-seat stadium shared by Maccabi Haifa and Hapoel Haifa; Maccabi Haifa made a remarkable run to the Champions League group stage in 2022-23",
+      "distance": 2.5,
+      "URL": "https://www.maccabi-haifafc.co.il/en/"
+    }
+  ]
+}

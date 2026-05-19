@@ -1,0 +1,98 @@
+{
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "airportPostcode": "45659",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Historic Centre & Cathedral",
+      "postcode": "44100",
+      "distanceKmFromAirport": 22,
+      "description": "Stunning 16th-century cathedral with twin yellow towers and surrounding colonial plazas",
+      "distance": 0.5,
+      "URL": "https://www.visitguadalajara.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Instituto Cultural Cabanas",
+      "postcode": "44100",
+      "distanceKmFromAirport": 23,
+      "description": "UNESCO World Heritage former orphanage with José Clemente Orozco's powerful ceiling murals",
+      "distance": 0.8,
+      "URL": "https://www.cabanasguadalajara.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Tlaquepaque Arts & Crafts Village",
+      "postcode": "45500",
+      "distanceKmFromAirport": 30,
+      "description": "Charming suburb known as the crafts capital of Mexico with ceramics, blown glass and mariachi",
+      "distance": 8.0,
+      "URL": "https://www.tlaquepaque.gob.mx/"
+    },
+    {
+      "rank": 4,
+      "name": "Tequila Town Day Trip",
+      "postcode": "46400",
+      "distanceKmFromAirport": 82,
+      "description": "UNESCO-listed town in the blue agave fields where tequila has been distilled since the 1600s",
+      "distance": 60.0,
+      "URL": "https://www.tequila.net/"
+    },
+    {
+      "rank": 5,
+      "name": "Lake Chapala",
+      "postcode": "45900",
+      "distanceKmFromAirport": 72,
+      "description": "Mexico's largest freshwater lake set in the Sierra Madre foothills with lakeside villages",
+      "distance": 50.0,
+      "URL": "https://www.chapala.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Mercado San Juan de Dios",
+      "postcode": "44100",
+      "distanceKmFromAirport": 23,
+      "description": "Latin America's largest indoor market with three floors of regional food, crafts and clothing",
+      "distance": 1.0,
+      "URL": "https://www.visitguadalajara.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Barranca de Huentitan",
+      "postcode": "44220",
+      "distanceKmFromAirport": 28,
+      "description": "Deep canyon on the edge of the city with hiking trails and views of the Rio Santiago",
+      "distance": 6.0,
+      "URL": "https://www.visitguadalajara.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Guadalajara Zoo",
+      "postcode": "44220",
+      "distanceKmFromAirport": 29,
+      "description": "Major zoological park bordering the Barranca with over 360 species of animals",
+      "distance": 7.0,
+      "URL": "https://www.zooguadalajara.com.mx/"
+    },
+    {
+      "rank": 9,
+      "name": "Museo Regional de Guadalajara",
+      "postcode": "44100",
+      "distanceKmFromAirport": 22,
+      "description": "Regional archaeology and history museum in a 17th-century seminary building",
+      "distance": 0.5,
+      "URL": "https://www.museoregionalguadalajara.inah.gob.mx/"
+    },
+    {
+      "rank": 10,
+      "name": "Zona Rosa & Chapultepec Avenue",
+      "postcode": "44140",
+      "distanceKmFromAirport": 26,
+      "description": "Guadalajara's trendiest nightlife and restaurant strip with rooftop bars and boutique cafes",
+      "distance": 4.0,
+      "URL": "https://www.visitguadalajara.com/"
+    }
+  ]
+}

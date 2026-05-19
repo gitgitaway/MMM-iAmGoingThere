@@ -1,0 +1,98 @@
+{
+  "city": "Edinburgh",
+  "country": "United Kingdom",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Edinburgh Castle",
+      "postcode": "EH1 2NG",
+      "distanceKmFromAirport": 14,
+      "description": "Dramatic fortress on Castle Rock housing the Scottish Crown Jewels and Stone of Destiny",
+      "distance": 1.0,
+      "URL": "https://www.edinburghcastle.scot/"
+    },
+    {
+      "rank": 2,
+      "name": "Arthur's Seat",
+      "postcode": "EH8 8HG",
+      "distanceKmFromAirport": 15,
+      "description": "Ancient volcano in Holyrood Park offering panoramic views of the city",
+      "distance": 1.7,
+      "URL": "https://www.historicenvironment.scot/visit-a-place/places/holyrood-park/"
+    },
+    {
+      "rank": 3,
+      "name": "Royal Mile",
+      "postcode": "EH1 1RE",
+      "distanceKmFromAirport": 14,
+      "description": "Historic thoroughfare connecting the castle to Holyrood Palace lined with shops and closes",
+      "distance": 0.8,
+      "URL": "https://www.visitscotland.com/info/towns-villages/royal-mile-p237211"
+    },
+    {
+      "rank": 4,
+      "name": "Palace of Holyroodhouse",
+      "postcode": "EH8 8DX",
+      "distanceKmFromAirport": 15,
+      "description": "Official Scottish residence of the British monarch with abbey ruins",
+      "distance": 1.7,
+      "URL": "https://www.rct.uk/visit/palace-of-holyroodhouse"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Scotland",
+      "postcode": "EH1 1JF",
+      "distanceKmFromAirport": 14,
+      "description": "World-class collection exploring Scotland's history, culture and the natural world",
+      "distance": 0.8,
+      "URL": "https://www.nms.ac.uk/national-museum-of-scotland/"
+    },
+    {
+      "rank": 6,
+      "name": "Scottish National Gallery",
+      "postcode": "EH2 2EL",
+      "distanceKmFromAirport": 14,
+      "description": "Outstanding collection of European and Scottish paintings in a neoclassical building",
+      "distance": 0.5,
+      "URL": "https://www.nationalgalleries.org/visit/scottish-national-gallery"
+    },
+    {
+      "rank": 7,
+      "name": "Greyfriars Kirkyard",
+      "postcode": "EH1 2QQ",
+      "distanceKmFromAirport": 14,
+      "description": "Historic churchyard famous for Greyfriars Bobby and eerie covenanter history",
+      "distance": 0.9,
+      "URL": "https://www.greyfriarskirk.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Camera Obscura",
+      "postcode": "EH1 2ND",
+      "distanceKmFromAirport": 14,
+      "description": "Victorian optical illusion attraction with rooftop views over the Old Town",
+      "distance": 1.0,
+      "URL": "https://www.camera-obscura.co.uk/"
+    },
+    {
+      "rank": 9,
+      "name": "Princes Street Gardens",
+      "postcode": "EH2 2EL",
+      "distanceKmFromAirport": 13,
+      "description": "Beautiful valley gardens beneath the castle with the Scott Monument",
+      "distance": 0.4,
+      "URL": "https://www.edinburgh.gov.uk/parks/princes-street-gardens"
+    },
+    {
+      "rank": 10,
+      "name": "Royal Botanic Garden",
+      "postcode": "EH3 5LR",
+      "distanceKmFromAirport": 15,
+      "description": "World-famous garden with 13,000 plant species and stunning glasshouses",
+      "distance": 1.8,
+      "URL": "https://www.rbge.org.uk/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Friedrichshafen",
+  "country": "Germany",
+  "airportPostcode": "88046",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Zeppelin Museum",
+      "postcode": "88045",
+      "distanceKmFromAirport": 6,
+      "description": "World-leading museum on the history of airships with a life-size Hindenburg reconstruction",
+      "distance": 0.5,
+      "URL": "https://www.zeppelin-museum.de"
+    },
+    {
+      "rank": 2,
+      "name": "Lake Constance (Bodensee)",
+      "postcode": "88045",
+      "distanceKmFromAirport": 5,
+      "description": "Central Europe's third-largest lake with crystal-clear water, beaches and island cruises",
+      "distance": 0.2,
+      "URL": "https://www.bodensee.eu"
+    },
+    {
+      "rank": 3,
+      "name": "Dornier Museum",
+      "postcode": "88046",
+      "distanceKmFromAirport": 10,
+      "description": "Aviation museum dedicated to the aircraft of Claude Dornier with Do X replica",
+      "distance": 5,
+      "URL": "https://www.dorniermuseum.de"
+    },
+    {
+      "rank": 4,
+      "name": "Stadtgarten",
+      "postcode": "88045",
+      "distanceKmFromAirport": 5,
+      "description": "Lakeside promenade gardens with a panoramic view of the Alps on clear days",
+      "distance": 0.3,
+      "URL": "https://www.friedrichshafen.de"
+    },
+    {
+      "rank": 5,
+      "name": "Schlosskirche",
+      "postcode": "88045",
+      "distanceKmFromAirport": 6,
+      "description": "Baroque palace church and the Moleturm lighthouse on the town harbour",
+      "distance": 0.5,
+      "URL": "https://www.friedrichshafen.de/stadtleben/sehenswuerdigkeiten"
+    },
+    {
+      "rank": 6,
+      "name": "Island of Mainau",
+      "postcode": "78465",
+      "distanceKmFromAirport": 25,
+      "description": "Flower island in Lake Constance with gardens, butterfly house and Baroque castle",
+      "distance": 20,
+      "URL": "https://www.mainau.de"
+    },
+    {
+      "rank": 7,
+      "name": "Meersburg",
+      "postcode": "88709",
+      "distanceKmFromAirport": 13,
+      "description": "Picturesque medieval lakeside town with the oldest inhabited castle in Germany",
+      "distance": 8,
+      "URL": "https://www.meersburg.de"
+    },
+    {
+      "rank": 8,
+      "name": "Cycleway Around the Lake",
+      "postcode": "88045",
+      "distanceKmFromAirport": 5,
+      "description": "273km cycle route around the entire lake through Germany, Austria and Switzerland",
+      "distance": 0,
+      "URL": "https://www.bodensee-radweg.com"
+    },
+    {
+      "rank": 9,
+      "name": "Salem Palace",
+      "postcode": "88682",
+      "distanceKmFromAirport": 25,
+      "description": "Former Cistercian monastery and boarding school in a grand Baroque complex",
+      "distance": 20,
+      "URL": "https://www.salem.de"
+    },
+    {
+      "rank": 10,
+      "name": "Ravensburg Old Town",
+      "postcode": "88212",
+      "distanceKmFromAirport": 25,
+      "description": "Nearby well-preserved medieval town with towers, gates and the famous Ravensburger game factory",
+      "distance": 20,
+      "URL": "https://www.ravensburg.de"
+    }
+  ]
+}

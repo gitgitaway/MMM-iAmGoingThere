@@ -1,0 +1,98 @@
+{
+  "city": "Kilkenny",
+  "country": "Ireland",
+  "airportPostcode": "X91 EH96",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kilkenny Castle",
+      "postcode": "R95 XA29",
+      "distanceKmFromAirport": 50,
+      "description": "Magnificent 12th-century Norman castle dominating the River Nore — spectacular state rooms, a Victorian picture gallery and beautiful grounds",
+      "distance": 0.5,
+      "URL": "https://www.kilkennycastle.ie/"
+    },
+    {
+      "rank": 2,
+      "name": "St Canice's Cathedral & Round Tower",
+      "postcode": "R95 WX53",
+      "distanceKmFromAirport": 50,
+      "description": "Ireland's second-longest medieval cathedral (1251) with rich carved monuments — climb the 9th-century round tower for panoramic views over the city",
+      "distance": 0.5,
+      "URL": "https://www.stcanicescathedral.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "Medieval Mile Museum",
+      "postcode": "R95 N512",
+      "distanceKmFromAirport": 50,
+      "description": "Ireland's Museum of the Year in the magnificent St Mary's Church — underground passageways and 600 years of Kilkenny's medieval story",
+      "distance": 0.5,
+      "URL": "https://www.medievalmilemuseum.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Rothe House & Gardens",
+      "postcode": "R95 K2C4",
+      "distanceKmFromAirport": 50,
+      "description": "Ireland's best-preserved Tudor merchant's townhouse (1594) with a reconstructed Renaissance garden and folk museum",
+      "distance": 0.5,
+      "URL": "https://www.rothehouse.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Kilkenny Design Centre",
+      "postcode": "R95 XA29",
+      "distanceKmFromAirport": 50,
+      "description": "Ireland's finest design showroom in the former castle stables — hand-selected Irish crafts, jewellery, clothing and gifts",
+      "distance": 0.5,
+      "URL": "https://www.kilkennydesign.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Black Abbey Dominican Church",
+      "postcode": "R95 W286",
+      "distanceKmFromAirport": 50,
+      "description": "Medieval friary church founded 1225 with remarkable 14th-century alabaster carvings and a stunning Victorian stained-glass window",
+      "distance": 0.5,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Jerpoint Abbey (Thomastown)",
+      "postcode": "R95 HF32",
+      "distanceKmFromAirport": 62,
+      "description": "One of Ireland's finest Cistercian abbeys (1158) with ornately carved cloister arcades and Ireland's most significant collection of medieval tombs",
+      "distance": 14,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Dunmore Cave (UNESCO Geopark)",
+      "postcode": "R95 X6W6",
+      "distanceKmFromAirport": 59,
+      "description": "Spectacular limestone cave system with massive calcite formations and a dark history — the site of a Viking massacre in 928 AD",
+      "distance": 10,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Kilkenny Arts Festival (August)",
+      "postcode": "R95 XA29",
+      "distanceKmFromAirport": 50,
+      "description": "Ireland's foremost multi-disciplinary arts festival transforming Kilkenny's medieval streetscapes every August with world-class events",
+      "distance": 0.5,
+      "URL": "https://www.kilkennyarts.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Rock of Cashel (Day Trip)",
+      "postcode": "E25 T397",
+      "distanceKmFromAirport": 80,
+      "description": "Extraordinary 12th-century cathedral complex on a dramatic limestone rock — the ecclesiastical capital of Munster",
+      "distance": 52,
+      "URL": "https://www.heritageireland.ie/"
+    }
+  ]
+}

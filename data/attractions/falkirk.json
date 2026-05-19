@@ -1,0 +1,98 @@
+{
+  "city": "Falkirk",
+  "country": "Scotland",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "The Falkirk Wheel (Rotating Boat Lift)",
+      "postcode": "FK1 4RS",
+      "distanceKmFromAirport": 32,
+      "description": "The world's only rotating boat lift — a stunning feat of engineering connecting the Forth & Clyde and Union Canals with a 35-metre rotation",
+      "distance": 2,
+      "URL": "https://www.scottishcanals.co.uk/falkirk-wheel/"
+    },
+    {
+      "rank": 2,
+      "name": "The Kelpies (Horse Head Sculptures)",
+      "postcode": "FK2 7ZT",
+      "distanceKmFromAirport": 34,
+      "description": "Andy Scott's 30-metre horse head sculptures — the world's largest equine statues, celebrating the horse's role in Scottish industry",
+      "distance": 4,
+      "URL": "https://www.thekelpies.co.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Callendar House & Park",
+      "postcode": "FK1 1YR",
+      "distanceKmFromAirport": 30,
+      "description": "Grand French château-style mansion in 170-acre parkland with a Georgian kitchen museum and working bakehouse",
+      "distance": 0.5,
+      "URL": "https://www.falkirkcommunitytrust.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Rough Castle (Antonine Wall, UNESCO)",
+      "postcode": "FK4 2AA",
+      "distanceKmFromAirport": 36,
+      "description": "Best-preserved fort along the UNESCO-listed Antonine Wall — the northernmost frontier of the Roman Empire built in AD 142",
+      "distance": 6,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 5,
+      "name": "Bo'ness & Kinneil Steam Railway",
+      "postcode": "EH51 0AE",
+      "distanceKmFromAirport": 25,
+      "description": "Scotland's largest collection of railway heritage with a restored steam railway, vintage rolling stock and Scotland's Railway Exhibition",
+      "distance": 7,
+      "URL": "https://www.bkrailway.co.uk/"
+    },
+    {
+      "rank": 6,
+      "name": "Falkirk Steeple & Town Centre",
+      "postcode": "FK1 1DH",
+      "distanceKmFromAirport": 30,
+      "description": "The iconic 1814 steeple at the heart of Falkirk's historic high street, surrounded by independent shops and cafes",
+      "distance": 0.5,
+      "URL": "https://www.visitfalkirk.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Helix Park (Kelpies Park)",
+      "postcode": "FK2 7ZT",
+      "distanceKmFromAirport": 34,
+      "description": "Expansive park surrounding the Kelpies with a lagoon, adventure play areas, cycling routes and seasonal events",
+      "distance": 4,
+      "URL": "https://www.thehelix.co.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Stirling Castle (Day Trip)",
+      "postcode": "FK8 1EJ",
+      "distanceKmFromAirport": 50,
+      "description": "One of Scotland's greatest castles — the former seat of the Stuart monarchs with a spectacular Renaissance Royal Palace",
+      "distance": 20,
+      "URL": "https://www.stirlingcastle.scot/"
+    },
+    {
+      "rank": 9,
+      "name": "Kinneil Estate & Museum",
+      "postcode": "EH51 0PR",
+      "distanceKmFromAirport": 25,
+      "description": "Historic estate where James Watt developed his steam engine — a ruined palace, Roman fortlet and local museum",
+      "distance": 7,
+      "URL": "https://www.falkirkcommunitytrust.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Grangemouth Chemical & History Museum",
+      "postcode": "FK3 9EE",
+      "distanceKmFromAirport": 35,
+      "description": "The story of Scotland's petrochemical industry and the historic Carron Ironworks where Napoleon's carronades were cast",
+      "distance": 5,
+      "URL": "https://www.visitscotland.com/"
+    }
+  ]
+}

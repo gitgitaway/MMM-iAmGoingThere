@@ -1,0 +1,98 @@
+{
+  "city": "Koror",
+  "country": "Palau",
+  "airportPostcode": "96940",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Jellyfish Lake",
+      "postcode": "96940",
+      "distanceKmFromAirport": 50,
+      "description": "Marine lake where millions of golden jellyfish have lost their sting - swim among them",
+      "distance": 45,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Blue Corner Dive Site",
+      "postcode": "96940",
+      "distanceKmFromAirport": 45,
+      "description": "World's best dive site with grey reef sharks, manta rays and a breathtaking wall",
+      "distance": 40,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Rock Islands Southern Lagoon",
+      "postcode": "96940",
+      "distanceKmFromAirport": 35,
+      "description": "UNESCO World Heritage mushroom-shaped limestone islands with hidden coves and caves",
+      "distance": 30,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 4,
+      "name": "German Channel",
+      "postcode": "96940",
+      "distanceKmFromAirport": 40,
+      "description": "Famous dive site where manta rays are regularly sighted being cleaned",
+      "distance": 35,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Palau National Museum",
+      "postcode": "96940",
+      "distanceKmFromAirport": 6,
+      "description": "Traditional Palauan storyboards, artefacts and cultural history",
+      "distance": 0.5,
+      "URL": "https://www.palaumuseum.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Peleliu Battlefield",
+      "postcode": "96940",
+      "distanceKmFromAirport": 55,
+      "description": "Site of WWII's bloodiest Pacific battles with tanks, aircraft and tunnels preserved",
+      "distance": 50,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Milky Way Lagoon",
+      "postcode": "96940",
+      "distanceKmFromAirport": 35,
+      "description": "Natural spa lagoon with white volcanic limestone mud used for skin treatments",
+      "distance": 30,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Ngardmau Waterfall",
+      "postcode": "96940",
+      "distanceKmFromAirport": 40,
+      "description": "Palau's tallest waterfall accessible by monorail through the jungle",
+      "distance": 35,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Kayangel Atoll",
+      "postcode": "96940",
+      "distanceKmFromAirport": 65,
+      "description": "Remote northernmost atoll with pristine reefs and a tiny traditional village",
+      "distance": 60,
+      "URL": "https://www.pristineparadisepalau.com/"
+    },
+    {
+      "rank": 10,
+      "name": "WWII Zero Fighter Wreck",
+      "postcode": "96940",
+      "distanceKmFromAirport": 25,
+      "description": "Japanese Zero fighter aircraft resting in shallow water - perfect for snorkeling",
+      "distance": 20,
+      "URL": "https://www.pristineparadisepalau.com/"
+    }
+  ]
+}

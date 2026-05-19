@@ -1,0 +1,98 @@
+{
+  "city": "Ibiza",
+  "country": "Spain",
+  "airportPostcode": "07820",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ibiza Old Town (Dalt Vila)",
+      "postcode": "07800",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO World Heritage fortified old city with cathedral, castle and spectacular views",
+      "distance": 0.5,
+      "URL": "https://www.ibiza.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Es Vedra",
+      "postcode": "07830",
+      "distanceKmFromAirport": 27,
+      "description": "Mysterious 400-metre sea stack rising from the sea, one of Ibiza's most magical sights",
+      "distance": 20,
+      "URL": "https://www.ibiza.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Platja d'en Bossa",
+      "postcode": "07817",
+      "distanceKmFromAirport": 11,
+      "description": "Ibiza's longest beach stretching 3km with beach clubs and the world-famous club scene",
+      "distance": 4,
+      "URL": "https://www.ibiza.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Cala d'Hort",
+      "postcode": "07830",
+      "distanceKmFromAirport": 29,
+      "description": "Stunning unspoilt cove with direct views of Es Vedra and Es Vedranell",
+      "distance": 22,
+      "URL": "https://www.ibiza.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Ses Salines Natural Park",
+      "postcode": "07840",
+      "distanceKmFromAirport": 17,
+      "description": "Ancient salt flats and nature reserve with flamingos and crystal-clear coves",
+      "distance": 10,
+      "URL": "https://www.ibiza.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Santa Eulalia",
+      "postcode": "07840",
+      "distanceKmFromAirport": 21,
+      "description": "Relaxed resort town with hilltop church, market and family-friendly beaches",
+      "distance": 14,
+      "URL": "https://www.santaeularia.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Formentera Day Trip",
+      "postcode": "07860",
+      "distanceKmFromAirport": 42,
+      "description": "Neighbouring island with Caribbean-style turquoise water and white sand beaches",
+      "distance": 35,
+      "URL": "https://www.formentera.es/"
+    },
+    {
+      "rank": 8,
+      "name": "Hippy Markets",
+      "postcode": "07850",
+      "distanceKmFromAirport": 22,
+      "description": "Iconic Las Dalias and Punta Arabi hippie markets with crafts and bohemian atmosphere",
+      "distance": 15,
+      "URL": "https://www.lasdalias.es/"
+    },
+    {
+      "rank": 9,
+      "name": "Sunset Strip San Antonio",
+      "postcode": "07820",
+      "distanceKmFromAirport": 22,
+      "description": "Famous waterfront bars at Café del Mar for Ibiza's legendary sunset experience",
+      "distance": 15,
+      "URL": "https://www.ibiza.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Ibiza Cathedral",
+      "postcode": "07800",
+      "distanceKmFromAirport": 8,
+      "description": "14th-century Gothic cathedral within the fortified walls of Dalt Vila",
+      "distance": 0.5,
+      "URL": "https://www.ibiza.travel/"
+    }
+  ]
+}

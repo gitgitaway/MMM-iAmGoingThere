@@ -1,0 +1,98 @@
+{
+  "city": "Galway",
+  "country": "Ireland",
+  "airportPostcode": "F12 V0T6",
+  "airportDistanceKm": 80,
+  "things": [
+    {
+      "rank": 1,
+      "name": "The Claddagh & Spanish Arch",
+      "postcode": "H91 XE48",
+      "distanceKmFromAirport": 80,
+      "description": "The Claddagh — Ireland's most famous fishing village and origin of the Claddagh ring — beside the medieval Spanish Arch on the Corrib estuary",
+      "distance": 0.5,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 2,
+      "name": "Galway City Museum",
+      "postcode": "H91 CX79",
+      "distanceKmFromAirport": 80,
+      "description": "Free museum telling the story of Galway from prehistoric times to the present — the city's history, culture and traditions in one place",
+      "distance": 0.5,
+      "URL": "https://www.galwaycitymuseum.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "Shop Street & Latin Quarter",
+      "postcode": "H91 Y5Y8",
+      "distanceKmFromAirport": 80,
+      "description": "Galway's legendary pedestrianised heart — cobbled medieval streets packed with traditional pubs, street performers and independent shops",
+      "distance": 0.5,
+      "URL": "https://www.galwaytourism.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Connemara National Park & Kylemore Abbey",
+      "postcode": "H91 R6YH",
+      "distanceKmFromAirport": 145,
+      "description": "Wild Atlantic bog and mountain landscape around the gorgeous Gothic Kylemore Abbey — Ireland's most romantic building",
+      "distance": 65,
+      "URL": "https://www.kylemoreabbey.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Aran Islands (Ferry from Rossaveal)",
+      "postcode": "H91 YF5W",
+      "distanceKmFromAirport": 100,
+      "description": "Three ancient limestone islands in Galway Bay — Inis Mór with Dún Aonghasa fort, cycling and the timeless Irish-speaking way of life",
+      "distance": 37,
+      "URL": "https://www.aranislandferries.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Salthill Promenade & Diving Board",
+      "postcode": "H91 CP86",
+      "distanceKmFromAirport": 82,
+      "description": "Galway's seafront promenade tradition — kick the wall at the end, swim from the famous diving board and walk the mile-long prom",
+      "distance": 2,
+      "URL": "https://www.galwaytourism.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Galway Cathedral",
+      "postcode": "H91 CF32",
+      "distanceKmFromAirport": 80,
+      "description": "Ireland's last great stone cathedral built in 1965 — a magnificent neoclassical dome rising above the River Corrib",
+      "distance": 0.5,
+      "URL": "https://www.galwaycathedral.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Cliffs of Moher (Day Trip via Clare)",
+      "postcode": "V95 X6K6",
+      "distanceKmFromAirport": 138,
+      "description": "Ireland's most visited natural attraction — 214-metre sea cliffs stretching 8km along the Wild Atlantic Way in County Clare",
+      "distance": 70,
+      "URL": "https://www.cliffsofmoher.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Dunguaire Castle (Kinvara)",
+      "postcode": "H91 Y6X1",
+      "distanceKmFromAirport": 100,
+      "description": "Iconic 16th-century tower castle on the shores of Galway Bay at Kinvara — medieval banquet evenings in summer",
+      "distance": 28,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Galway International Arts Festival (July)",
+      "postcode": "H91 Y5Y8",
+      "distanceKmFromAirport": 80,
+      "description": "One of Europe's great arts festivals transforming Galway every July with world-class theatre, music, visual art and street spectacle",
+      "distance": 0.5,
+      "URL": "https://www.giaf.ie/"
+    }
+  ]
+}

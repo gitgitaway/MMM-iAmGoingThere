@@ -1,0 +1,98 @@
+{
+  "city": "Genk",
+  "country": "Belgium",
+  "airportPostcode": "4460",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "C-Mine Cultural Centre",
+      "postcode": "3600",
+      "distanceKmFromAirport": 35,
+      "description": "Remarkable arts centre and design hub built within a beautifully repurposed former coal mine, a symbol of Genk's regeneration",
+      "distance": 1.5,
+      "URL": "https://www.c-mine.be/en"
+    },
+    {
+      "rank": 2,
+      "name": "Bokrijk Open Air Museum",
+      "postcode": "3600",
+      "distanceKmFromAirport": 37,
+      "description": "Sprawling open-air museum with over 150 authentic historic Flemish buildings relocated and restored on a 550-hectare estate",
+      "distance": 4.0,
+      "URL": "https://www.bokrijk.be/en"
+    },
+    {
+      "rank": 3,
+      "name": "Kattevennen Nature Reserve",
+      "postcode": "3600",
+      "distanceKmFromAirport": 36,
+      "description": "Serene heathland and pine forest reserve with walking and cycling trails through the heart of the Flemish Campine landscape",
+      "distance": 2.5,
+      "URL": "https://www.natuurenbos.be/kattevennen"
+    },
+    {
+      "rank": 4,
+      "name": "Thor Central Park",
+      "postcode": "3600",
+      "distanceKmFromAirport": 35,
+      "description": "Post-industrial innovation park on the former Waterschei coal mine site, with architecture, galleries and creative workspaces",
+      "distance": 2.0,
+      "URL": "https://thorpark.be/en"
+    },
+    {
+      "rank": 5,
+      "name": "Stellingmolen Windmill",
+      "postcode": "3600",
+      "distanceKmFromAirport": 35,
+      "description": "Restored eighteenth-century post mill standing in open heathland, one of the best-preserved windmills in Belgian Limburg",
+      "distance": 1.8,
+      "URL": "https://www.visitgenk.be/en"
+    },
+    {
+      "rank": 6,
+      "name": "De Witte Wieven Pond",
+      "postcode": "3600",
+      "distanceKmFromAirport": 36,
+      "description": "Picturesque nature area with reed-fringed ponds popular for birdwatching and peaceful lakeside walks through heathland",
+      "distance": 3.0,
+      "URL": "https://www.visitgenk.be/en"
+    },
+    {
+      "rank": 7,
+      "name": "Sculpture Walk Genk",
+      "postcode": "3600",
+      "distanceKmFromAirport": 35,
+      "description": "Outdoor sculpture trail showcasing monumental works by Belgian and international artists throughout the city centre",
+      "distance": 0.8,
+      "URL": "https://www.visitgenk.be/en/sculpture-walk"
+    },
+    {
+      "rank": 8,
+      "name": "Genk City Centre",
+      "postcode": "3600",
+      "distanceKmFromAirport": 35,
+      "description": "Lively pedestrianised shopping and dining zone with multicultural restaurants reflecting Genk's rich immigrant heritage",
+      "distance": 0.5,
+      "URL": "https://www.visitgenk.be/en"
+    },
+    {
+      "rank": 9,
+      "name": "De Maten Nature Reserve",
+      "postcode": "3600",
+      "distanceKmFromAirport": 37,
+      "description": "Enchanting mosaic of ponds, marshes and woodland just outside the city, home to kingfishers, otters and rare dragonflies",
+      "distance": 4.5,
+      "URL": "https://www.visitgenk.be/en/de-maten"
+    },
+    {
+      "rank": 10,
+      "name": "Expositiezaal OC Stationsomgeving",
+      "postcode": "3600",
+      "distanceKmFromAirport": 35,
+      "description": "Contemporary exhibition space near Genk station hosting rotating shows of local and regional visual art throughout the year",
+      "distance": 0.3,
+      "URL": "https://www.visitgenk.be/en"
+    }
+  ]
+}

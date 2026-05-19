@@ -1,0 +1,98 @@
+{
+  "city": "Heidenheim",
+  "country": "Germany",
+  "airportPostcode": "70629",
+  "airportDistanceKm": 75,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Schloss Hellenstein",
+      "postcode": "89518",
+      "distanceKmFromAirport": 75,
+      "description": "Impressive Renaissance castle perched on a rocky hilltop above Heidenheim with panoramic views and a museum of local history",
+      "distance": 1.2,
+      "URL": "https://www.museum-heidenheim.de/schloss-hellenstein.html"
+    },
+    {
+      "rank": 2,
+      "name": "Voith Freilufttheater",
+      "postcode": "89518",
+      "distanceKmFromAirport": 75,
+      "description": "Germany's largest open-air opera theatre set against the dramatic rocky backdrop of Schloss Hellenstein",
+      "distance": 1.2,
+      "URL": "https://www.theater-heidenheim.de/"
+    },
+    {
+      "rank": 3,
+      "name": "Naturpark Schwäbisch-Fränkischer Wald",
+      "postcode": "89518",
+      "distanceKmFromAirport": 75,
+      "description": "Sweeping Swabian-Franconian forest nature park with walking trails, cycling routes and dramatic Jura limestone landscapes",
+      "distance": 5.0,
+      "URL": "https://www.naturpark-sfw.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Voith Museum",
+      "postcode": "89522",
+      "distanceKmFromAirport": 75,
+      "description": "Industrial heritage museum dedicated to the Voith engineering dynasty whose innovations shaped global paper and hydropower industries",
+      "distance": 0.8,
+      "URL": "https://www.museum-heidenheim.de/"
+    },
+    {
+      "rank": 5,
+      "name": "Heidenheim City Centre",
+      "postcode": "89518",
+      "distanceKmFromAirport": 75,
+      "description": "Compact pedestrianised town centre with a bustling weekly market and the historic Rathaus square, proud home of 1. FC Heidenheim",
+      "distance": 0.3,
+      "URL": "https://www.heidenheim.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Römisches Freilichtmuseum Hechingen-Stein",
+      "postcode": "72379",
+      "distanceKmFromAirport": 100,
+      "description": "Open-air Roman villa museum near the Swabian Alb with excavated baths, mosaic floors and reconstructed living quarters",
+      "distance": 38.0,
+      "URL": "https://www.villa-rustica.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Brenzpark",
+      "postcode": "89518",
+      "distanceKmFromAirport": 75,
+      "description": "Peaceful riverside park along the Brenz with botanical gardens, paddling areas and walks through the Heidenheim valley",
+      "distance": 0.8,
+      "URL": "https://www.heidenheim.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Ulm Minster",
+      "postcode": "89073",
+      "distanceKmFromAirport": 102,
+      "description": "The world's tallest church steeple at 161 metres rises over Ulm's medieval old town, reachable from Heidenheim in 40 minutes",
+      "distance": 40.0,
+      "URL": "https://www.ulmer-muenster.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Steinheim Meteorite Crater",
+      "postcode": "89555",
+      "distanceKmFromAirport": 77,
+      "description": "Well-preserved 15-million-year-old meteor impact crater near Heidenheim, now a peaceful basin with a nature walk and small museum",
+      "distance": 6.0,
+      "URL": "https://www.steinheim-im-albuch.de/"
+    },
+    {
+      "rank": 10,
+      "name": "Heimatmuseum Heidenheim",
+      "postcode": "89522",
+      "distanceKmFromAirport": 75,
+      "description": "Local history museum exploring Heidenheim's Swabian heritage, guilds, traditional crafts and industrial development",
+      "distance": 0.5,
+      "URL": "https://www.museum-heidenheim.de/"
+    }
+  ]
+}

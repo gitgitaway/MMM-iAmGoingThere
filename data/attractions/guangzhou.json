@@ -1,0 +1,98 @@
+{
+  "city": "Guangzhou",
+  "country": "China",
+  "airportPostcode": "510470",
+  "airportDistanceKm": 28,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Canton Tower",
+      "postcode": "510335",
+      "distanceKmFromAirport": 32,
+      "description": "468m TV tower with a helium balloon and sky drop - Guangzhou's futuristic icon",
+      "distance": 4,
+      "URL": "https://www.cantontower.com"
+    },
+    {
+      "rank": 2,
+      "name": "Chen Clan Ancestral Hall",
+      "postcode": "510145",
+      "distanceKmFromAirport": 33,
+      "description": "1894 showpiece of Lingnan architecture with exquisite porcelain, wood and stone carving",
+      "distance": 5,
+      "URL": "https://www.cccf.com.cn"
+    },
+    {
+      "rank": 3,
+      "name": "Shamian Island",
+      "postcode": "510130",
+      "distanceKmFromAirport": 33,
+      "description": "Former colonial island with French and British villas, banyan trees and riverside cafes",
+      "distance": 5,
+      "URL": "https://www.visitgz.com"
+    },
+    {
+      "rank": 4,
+      "name": "Yuexiu Park & Nanyue King Museum",
+      "postcode": "510030",
+      "distanceKmFromAirport": 31,
+      "description": "City park with the 5 Ram Statue and the tomb of the 2,000-year-old Nanyue Kingdom",
+      "distance": 3,
+      "URL": "https://www.nanyueking.com"
+    },
+    {
+      "rank": 5,
+      "name": "Dim Sum at Guangzhou Restaurant",
+      "postcode": "510000",
+      "distanceKmFromAirport": 30,
+      "description": "Authentic Cantonese dim sum at the most famous restaurant in the home of yum cha",
+      "distance": 2,
+      "URL": "https://www.visitgz.com"
+    },
+    {
+      "rank": 6,
+      "name": "Temple of the Six Banyan Trees",
+      "postcode": "510030",
+      "distanceKmFromAirport": 31,
+      "description": "1,500-year-old Buddhist temple with a spectacular Flower Pagoda",
+      "distance": 3,
+      "URL": "https://www.visitgz.com"
+    },
+    {
+      "rank": 7,
+      "name": "Guangzhou Opera House",
+      "postcode": "510623",
+      "distanceKmFromAirport": 34,
+      "description": "Zaha Hadid's twin-pebble design on the Pearl River waterfront",
+      "distance": 6,
+      "URL": "https://www.gzdjy.org"
+    },
+    {
+      "rank": 8,
+      "name": "Liwan Lake Park & Xiguan Houses",
+      "postcode": "510145",
+      "distanceKmFromAirport": 33,
+      "description": "Traditional 19th-century Xiguan merchant mansions with moon doors and Qilou shophouses",
+      "distance": 5,
+      "URL": "https://www.visitgz.com"
+    },
+    {
+      "rank": 9,
+      "name": "Baiyun Mountain Scenic Area",
+      "postcode": "510540",
+      "distanceKmFromAirport": 40,
+      "description": "Series of peaks with hiking trails, cable car and the Ming-dynasty Moxing Ridge",
+      "distance": 12,
+      "URL": "https://www.visitgz.com"
+    },
+    {
+      "rank": 10,
+      "name": "Zhenhai Tower (Museum of Guangzhou)",
+      "postcode": "510030",
+      "distanceKmFromAirport": 31,
+      "description": "Ming-dynasty tower with five floors of Guangzhou history and city views",
+      "distance": 3,
+      "URL": "https://www.gzmuseum.com"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Hangzhou",
+  "country": "China",
+  "airportPostcode": "311215",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "West Lake (Xihu)",
+      "postcode": "310002",
+      "distanceKmFromAirport": 35,
+      "description": "UNESCO World Heritage scenic lake with ancient pagodas, causeways and pavilions",
+      "distance": 5,
+      "URL": "https://www.hzwestlake.gov.cn"
+    },
+    {
+      "rank": 2,
+      "name": "Longjing Tea Plantations",
+      "postcode": "310008",
+      "distanceKmFromAirport": 38,
+      "description": "Visit the dragon well tea gardens producing China's most prestigious green tea",
+      "distance": 8,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 3,
+      "name": "Lingyin Temple (Temple of the Soul's Retreat)",
+      "postcode": "310013",
+      "distanceKmFromAirport": 40,
+      "description": "One of China's largest Buddhist temples with magnificent stone carvings",
+      "distance": 10,
+      "URL": "https://www.lingyinsi.org"
+    },
+    {
+      "rank": 4,
+      "name": "Song Dynasty Town (Songcheng)",
+      "postcode": "310008",
+      "distanceKmFromAirport": 40,
+      "description": "Living museum of the prosperous Song Dynasty era with elaborate performances",
+      "distance": 10,
+      "URL": "https://www.songcheng.com.cn"
+    },
+    {
+      "rank": 5,
+      "name": "Leifeng Pagoda",
+      "postcode": "310002",
+      "distanceKmFromAirport": 35,
+      "description": "Reconstructed Song Dynasty pagoda on the lakeshore with city views",
+      "distance": 5,
+      "URL": "https://www.hzwestlake.gov.cn"
+    },
+    {
+      "rank": 6,
+      "name": "National Tea Museum",
+      "postcode": "310008",
+      "distanceKmFromAirport": 38,
+      "description": "Chinese tea culture from prehistoric times through the Song Dynasty tea ceremony",
+      "distance": 8,
+      "URL": "https://www.teamuseum.cn"
+    },
+    {
+      "rank": 7,
+      "name": "China Silk Museum",
+      "postcode": "310002",
+      "distanceKmFromAirport": 35,
+      "description": "World's largest silk museum tracing 5,000 years of Chinese silk production",
+      "distance": 5,
+      "URL": "https://www.chinasilkmuseum.com"
+    },
+    {
+      "rank": 8,
+      "name": "Evening West Lake Illuminations",
+      "postcode": "310002",
+      "distanceKmFromAirport": 35,
+      "description": "Night boat on the lake passing illuminated bridges and pavilions",
+      "distance": 5,
+      "URL": "https://www.hzwestlake.gov.cn"
+    },
+    {
+      "rank": 9,
+      "name": "He Fang Street",
+      "postcode": "310001",
+      "distanceKmFromAirport": 33,
+      "description": "Qing-dynasty pedestrian street with tea houses, food stalls and traditional shops",
+      "distance": 3,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 10,
+      "name": "Dongpo Pork (Dongpo Rou)",
+      "postcode": "310001",
+      "distanceKmFromAirport": 33,
+      "description": "Braised pork belly created by poet Su Dongpo - Hangzhou's signature dish",
+      "distance": 3,
+      "URL": "https://www.visitchina.com"
+    }
+  ]
+}

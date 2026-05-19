@@ -1,0 +1,98 @@
+{
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "airportPostcode": "19120",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Monument (Monas)",
+      "postcode": "10110",
+      "distanceKmFromAirport": 10,
+      "description": "132-metre obelisk at the heart of Jakarta — take the lift to the flame viewing deck for city panoramas",
+      "distance": 10.0,
+      "URL": "https://www.monas.go.id/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town Kota Tua",
+      "postcode": "11230",
+      "distanceKmFromAirport": 12,
+      "description": "Dutch colonial quarter with painted townhouses around Fatahillah Square — Jakarta's historic heart",
+      "distance": 12.0,
+      "URL": "https://www.jakarta-tourism.go.id/"
+    },
+    {
+      "rank": 3,
+      "name": "Istiqlal Mosque",
+      "postcode": "10710",
+      "distanceKmFromAirport": 10,
+      "description": "Southeast Asia's largest mosque with capacity for 200,000 worshippers — free guided tours available",
+      "distance": 9.5,
+      "URL": "https://www.masjidistiqlal.go.id/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Indonesia",
+      "postcode": "10110",
+      "distanceKmFromAirport": 10,
+      "description": "The country's finest museum with artefacts from every Indonesian island — Borobudur bronzes and Wayang puppets",
+      "distance": 9.5,
+      "URL": "https://www.museumnasional.go.id/"
+    },
+    {
+      "rank": 5,
+      "name": "Thousand Islands Day Trip",
+      "postcode": "14440",
+      "distanceKmFromAirport": 45,
+      "description": "Fast boat from Muara Baru harbour to snorkel, dive or relax on white-sand islands in Jakarta Bay",
+      "distance": 45.0,
+      "URL": "https://www.jakarta-tourism.go.id/"
+    },
+    {
+      "rank": 6,
+      "name": "Grand Indonesia Shopping Mall",
+      "postcode": "10350",
+      "distanceKmFromAirport": 10,
+      "description": "One of Southeast Asia's largest malls — shopping, restaurants and the iconic Welcome Statue outside",
+      "distance": 10.5,
+      "URL": "https://www.grand-indonesia.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Wayang Museum",
+      "postcode": "11230",
+      "distanceKmFromAirport": 12,
+      "description": "1640 Dutch church converted to a museum of Javanese, Balinese and world shadow puppets",
+      "distance": 12.0,
+      "URL": "https://museumwayang.kemdikbud.go.id/"
+    },
+    {
+      "rank": 8,
+      "name": "Bogor Botanical Gardens Day Trip",
+      "postcode": "16122",
+      "distanceKmFromAirport": 60,
+      "description": "15,000-plant garden set in the grounds of the Dutch colonial palace — 1 hour south of Jakarta",
+      "distance": 60.0,
+      "URL": "https://www.kebunraya.id/"
+    },
+    {
+      "rank": 9,
+      "name": "Ancol Dreamland",
+      "postcode": "14430",
+      "distanceKmFromAirport": 15,
+      "description": "Jakarta's largest recreation complex — beach, waterpark, theme park and art market on the bay",
+      "distance": 15.0,
+      "URL": "https://www.ancol.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Jalan Sabang Food Street",
+      "postcode": "10350",
+      "distanceKmFromAirport": 10,
+      "description": "Jakarta's most famous food street — satay, martabak, nasi goreng and fresh juices until midnight",
+      "distance": 10.0,
+      "URL": "https://www.jakarta-tourism.go.id/"
+    }
+  ]
+}

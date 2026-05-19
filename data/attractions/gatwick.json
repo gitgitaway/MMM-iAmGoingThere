@@ -1,0 +1,98 @@
+{
+  "city": "Gatwick",
+  "country": "United Kingdom",
+  "airportPostcode": "RH6 0NP",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nymans Garden",
+      "postcode": "RH17 6EB",
+      "distanceKmFromAirport": 52,
+      "description": "National Trust garden with ruins of a romantic manor house and champion trees",
+      "distance": 7.0,
+      "URL": "https://www.nationaltrust.org.uk/nymans"
+    },
+    {
+      "rank": 2,
+      "name": "Wakehurst Place",
+      "postcode": "RH17 6TN",
+      "distanceKmFromAirport": 53,
+      "description": "Royal Botanic Gardens Kew's country estate with Millennium Seed Bank",
+      "distance": 8.0,
+      "URL": "https://www.kew.org/wakehurst"
+    },
+    {
+      "rank": 3,
+      "name": "Bluebell Railway",
+      "postcode": "RH18 5JH",
+      "distanceKmFromAirport": 58,
+      "description": "Classic preserved steam railway through the Sussex countryside",
+      "distance": 13.0,
+      "URL": "https://www.bluebell-railway.com/"
+    },
+    {
+      "rank": 4,
+      "name": "High Beeches Gardens",
+      "postcode": "RH17 6HQ",
+      "distanceKmFromAirport": 55,
+      "description": "Enchanting 27-acre woodland garden in the heart of the High Weald",
+      "distance": 10.0,
+      "URL": "https://www.highbeeches.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Tilgate Nature Centre",
+      "postcode": "RH11 0DA",
+      "distanceKmFromAirport": 50,
+      "description": "Free wildlife park with owls, reptiles and meerkats in Tilgate Park",
+      "distance": 5.0,
+      "URL": "https://www.crawley.gov.uk/tilgatepark"
+    },
+    {
+      "rank": 6,
+      "name": "Gatwick Aviation Museum",
+      "postcode": "RH6 0AT",
+      "distanceKmFromAirport": 46,
+      "description": "Collection of historic British military aircraft",
+      "distance": 1.0,
+      "URL": "https://www.gatwick-aviation-museum.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Horsham Museum & Art Gallery",
+      "postcode": "RH12 1RL",
+      "distanceKmFromAirport": 57,
+      "description": "Local history collection housed in a 17th-century timber-framed building",
+      "distance": 12.0,
+      "URL": "https://www.horsham.gov.uk/leisure-tourism/horsham-museum"
+    },
+    {
+      "rank": 8,
+      "name": "Worth Abbey",
+      "postcode": "RH10 4SB",
+      "distanceKmFromAirport": 49,
+      "description": "Benedictine monastery with a striking circular modernist church open to visitors",
+      "distance": 4.0,
+      "URL": "https://www.worthabbey.net/"
+    },
+    {
+      "rank": 9,
+      "name": "Leonardslee Lakes & Gardens",
+      "postcode": "RH13 6PP",
+      "distanceKmFromAirport": 60,
+      "description": "Historic valley garden with wallabies, deer and stunning azaleas in spring",
+      "distance": 15.0,
+      "URL": "https://www.leonardsleegardens.co.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Crawley Museum",
+      "postcode": "RH10 1UX",
+      "distanceKmFromAirport": 50,
+      "description": "Telling the story of Crawley from prehistoric times to the new town era",
+      "distance": 5.0,
+      "URL": "https://www.crawleymuseum.org/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Harbin",
+  "country": "China",
+  "airportPostcode": "150066",
+  "airportDistanceKm": 33,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Harbin International Ice and Snow Festival",
+      "postcode": "150001",
+      "distanceKmFromAirport": 41,
+      "description": "January - world's largest ice festival with ice cities, sculptures and coloured lights",
+      "distance": 8,
+      "URL": "https://www.harbinice.com"
+    },
+    {
+      "rank": 2,
+      "name": "Sun Island Ice Sculpture International Competition",
+      "postcode": "150036",
+      "distanceKmFromAirport": 38,
+      "description": "Thousands of elaborate ice sculptures in a riverside park",
+      "distance": 5,
+      "URL": "https://www.harbinice.com"
+    },
+    {
+      "rank": 3,
+      "name": "Zhongyang Pedestrian Street (Central Street)",
+      "postcode": "150001",
+      "distanceKmFromAirport": 34,
+      "description": "European Art Nouveau architecture built by Russians in the early 20th century",
+      "distance": 1,
+      "URL": "https://www.travelchinaguide.com/attraction/heilongjiang/harbin/zhongyang.htm"
+    },
+    {
+      "rank": 4,
+      "name": "Saint Sophia Cathedral",
+      "postcode": "150001",
+      "distanceKmFromAirport": 34,
+      "description": "1907 Russian Orthodox cathedral with an onion dome - Harbin's most iconic building",
+      "distance": 1.5,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 5,
+      "name": "Siberian Tiger Park",
+      "postcode": "150028",
+      "distanceKmFromAirport": 48,
+      "description": "World's largest Siberian tiger breeding centre with 1,000+ tigers",
+      "distance": 15,
+      "URL": "https://www.cgtzoo.com"
+    },
+    {
+      "rank": 6,
+      "name": "Zhaolin Park",
+      "postcode": "150001",
+      "distanceKmFromAirport": 34,
+      "description": "The main ice lantern park during the Ice Festival with illuminated sculptures",
+      "distance": 1,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 7,
+      "name": "Frozen Songhua River Activities",
+      "postcode": "150001",
+      "distanceKmFromAirport": 34,
+      "description": "Ice fishing, ice cycling and horse-drawn sled rides on the frozen river",
+      "distance": 1,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 8,
+      "name": "Volga Manor",
+      "postcode": "150028",
+      "distanceKmFromAirport": 53,
+      "description": "Replica Russian village with European architecture, museums and restaurants",
+      "distance": 20,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 9,
+      "name": "Harbin Jewish History Museum",
+      "postcode": "150001",
+      "distanceKmFromAirport": 34,
+      "description": "History of Harbin's once-large Jewish community who arrived via the Trans-Siberian Railway",
+      "distance": 1.5,
+      "URL": "https://www.visitchina.com"
+    },
+    {
+      "rank": 10,
+      "name": "Sausage (Ha Hong Red Sausage)",
+      "postcode": "150001",
+      "distanceKmFromAirport": 34,
+      "description": "Harbin's most famous local product - Russian-influenced garlic sausage",
+      "distance": 1,
+      "URL": "https://www.visitchina.com"
+    }
+  ]
+}

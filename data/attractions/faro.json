@@ -1,0 +1,98 @@
+{
+  "city": "Faro",
+  "country": "Portugal",
+  "airportPostcode": "8005-006",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ria Formosa Natural Park",
+      "postcode": "8700-221",
+      "distanceKmFromAirport": 6,
+      "description": "Stunning lagoon system of islands, salt marshes and beaches, a paradise for birdwatchers",
+      "distance": 1.5,
+      "URL": "https://www.icnf.pt/portal/ap/p-nat/pnrf"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Cidade Velha)",
+      "postcode": "8000-921",
+      "distanceKmFromAirport": 6,
+      "description": "Walled medieval city with Roman, Moorish and Portuguese history around the Cathedral",
+      "distance": 0.5,
+      "URL": "https://www.visitalgarve.pt/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Faro Cathedral (Se)",
+      "postcode": "8000-141",
+      "distanceKmFromAirport": 6,
+      "description": "Cathedral with a climbable tower and panoramic views across the lagoon",
+      "distance": 0.5,
+      "URL": "https://www.visitalgarve.pt/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Igreja do Carmo",
+      "postcode": "8000-311",
+      "distanceKmFromAirport": 6,
+      "description": "Baroque church with a famous Chapel of Bones lined with 1,245 monks' skulls",
+      "distance": 0.7,
+      "URL": "https://www.visitalgarve.pt/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Ilha Deserta",
+      "postcode": "8135-024",
+      "distanceKmFromAirport": 15,
+      "description": "Pristine uninhabited barrier island accessible by ferry with empty beaches",
+      "distance": 10.0,
+      "URL": "https://www.ilha-deserta.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Museu Municipal",
+      "postcode": "8000-141",
+      "distanceKmFromAirport": 6,
+      "description": "Archaeological and ethnographic museum in a former convent with Roman mosaics",
+      "distance": 0.5,
+      "URL": "https://www.cm-faro.pt/municipio/museu-municipal"
+    },
+    {
+      "rank": 7,
+      "name": "Loulé Market",
+      "postcode": "8100-665",
+      "distanceKmFromAirport": 22,
+      "description": "Arab-style covered market in the Moorish-domed building with fresh Algarve produce",
+      "distance": 17.0,
+      "URL": "https://www.visitalgarve.pt/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Tavira",
+      "postcode": "8800-327",
+      "distanceKmFromAirport": 37,
+      "description": "Elegant riverine town with Roman bridge, castle and some of the finest beaches in the Algarve",
+      "distance": 32.0,
+      "URL": "https://www.cm-tavira.pt/"
+    },
+    {
+      "rank": 9,
+      "name": "Olhao",
+      "postcode": "8700-302",
+      "distanceKmFromAirport": 13,
+      "description": "Whitewashed cubist fishing village with the finest covered market in the Algarve",
+      "distance": 8.0,
+      "URL": "https://www.cm-olhao.pt/"
+    },
+    {
+      "rank": 10,
+      "name": "Estoi Palace",
+      "postcode": "8005-465",
+      "distanceKmFromAirport": 15,
+      "description": "18th-century Rococo palace with tiered gardens, fountains and Roman ruins of Milreu",
+      "distance": 10.0,
+      "URL": "https://www.visitalgarve.pt/en/"
+    }
+  ]
+}

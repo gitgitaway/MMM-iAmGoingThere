@@ -1,0 +1,98 @@
+{
+  "city": "Juba",
+  "country": "South Sudan",
+  "airportPostcode": "211",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "White Nile Waterfront",
+      "postcode": "211",
+      "distanceKmFromAirport": 9,
+      "description": "Juba sits on the White Nile - sit at a riverside bar and watch the world's longest river pass by",
+      "distance": 1.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Juba University & Cultural Centre",
+      "postcode": "211",
+      "distanceKmFromAirport": 11,
+      "description": "University campus with a small museum of South Sudanese culture and history",
+      "distance": 3.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Jebel Kujur (Kujur Hill)",
+      "postcode": "211",
+      "distanceKmFromAirport": 18,
+      "description": "Sacred hill and the highest point near Juba with views of the city and Nile",
+      "distance": 10.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Konyo Konyo Market",
+      "postcode": "211",
+      "distanceKmFromAirport": 10,
+      "description": "Juba's main open-air market with goods from across South Sudan and East Africa",
+      "distance": 2.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 5,
+      "name": "St Theresa's Cathedral",
+      "postcode": "211",
+      "distanceKmFromAirport": 10,
+      "description": "The most prominent church in the world's newest country",
+      "distance": 1.5,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Nimule National Park",
+      "postcode": "211",
+      "distanceKmFromAirport": 198,
+      "description": "White Nile rapids and hippos near the Uganda border",
+      "distance": 190.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Mundari Cattle Camps",
+      "postcode": "211",
+      "distanceKmFromAirport": 23,
+      "description": "Visit the extraordinary Mundari people who sleep beside their long-horned cattle",
+      "distance": 15.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Dinka Cultural Village",
+      "postcode": "211",
+      "distanceKmFromAirport": 28,
+      "description": "Learn about the Dinka - South Sudan's largest ethnic group known for extraordinary cattle culture",
+      "distance": 20.0,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Juba Bridge & Nile Crossing",
+      "postcode": "211",
+      "distanceKmFromAirport": 10,
+      "description": "Suspension bridge over the White Nile with spectacular sunrise and sunset views",
+      "distance": 2.5,
+      "URL": "https://www.southsudan-tourism.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Kisra (Fermented Flatbread)",
+      "postcode": "211",
+      "distanceKmFromAirport": 8,
+      "description": "South Sudan's staple - thin sorghum flatbread eaten with vegetable or meat stew",
+      "distance": 0.5,
+      "URL": "https://www.southsudan-tourism.org/"
+    }
+  ]
+}

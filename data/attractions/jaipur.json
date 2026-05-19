@@ -1,0 +1,98 @@
+{
+  "city": "Jaipur",
+  "country": "India",
+  "airportPostcode": "302011",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Amber Fort (Amer Palace)",
+      "postcode": "302028",
+      "distanceKmFromAirport": 24,
+      "description": "Magnificent 16th-century Rajput fortress on a hilltop - ride up by elephant or jeep",
+      "distance": 11,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    },
+    {
+      "rank": 2,
+      "name": "City Palace",
+      "postcode": "302002",
+      "distanceKmFromAirport": 15,
+      "description": "Royal palace complex still home to the royal family with a fabulous museum",
+      "distance": 2,
+      "URL": "https://www.citypalacelive.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Hawa Mahal (Palace of Winds)",
+      "postcode": "302002",
+      "distanceKmFromAirport": 15,
+      "description": "Five-storey pink sandstone screen of 953 honeycomb windows for royal ladies to observe street life",
+      "distance": 2,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    },
+    {
+      "rank": 4,
+      "name": "Jantar Mantar Observatory",
+      "postcode": "302002",
+      "distanceKmFromAirport": 15,
+      "description": "UNESCO World Heritage 18th-century astronomical instruments including the world's largest sundial",
+      "distance": 2,
+      "URL": "https://www.jantarmantar.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Nahargarh Fort",
+      "postcode": "302001",
+      "distanceKmFromAirport": 21,
+      "description": "Hilltop fort at sunset with the best panoramic views over the Pink City",
+      "distance": 8,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    },
+    {
+      "rank": 6,
+      "name": "Johari Bazaar & Bapu Bazaar",
+      "postcode": "302003",
+      "distanceKmFromAirport": 15,
+      "description": "Jaipur's jewellery and textile markets - the best shopping in Rajasthan",
+      "distance": 2,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    },
+    {
+      "rank": 7,
+      "name": "Rambagh Palace Hotel",
+      "postcode": "302005",
+      "distanceKmFromAirport": 18,
+      "description": "The Maharaja's former hunting lodge - the finest palace hotel in India",
+      "distance": 5,
+      "URL": "https://www.tajhotels.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Albert Hall Museum",
+      "postcode": "302001",
+      "distanceKmFromAirport": 14,
+      "description": "Indo-Saracenic museum with the finest collection of Rajasthani crafts and antiquities",
+      "distance": 1,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    },
+    {
+      "rank": 9,
+      "name": "Jaigarh Fort & Cannon",
+      "postcode": "302028",
+      "distanceKmFromAirport": 25,
+      "description": "Fort housing the world's largest wheeled cannon - never fired in battle",
+      "distance": 12,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    },
+    {
+      "rank": 10,
+      "name": "Elephant Village (Hathi Gaon)",
+      "postcode": "302028",
+      "distanceKmFromAirport": 24,
+      "description": "Ethical elephant experience - morning spa with elephants at the conservation centre",
+      "distance": 11,
+      "URL": "https://www.rajasthantourism.gov.in/"
+    }
+  ]
+}

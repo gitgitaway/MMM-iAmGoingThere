@@ -1,0 +1,98 @@
+{
+  "city": "Krakow",
+  "country": "Poland",
+  "airportPostcode": "32-083",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Wawel Royal Castle & Cathedral",
+      "postcode": "31-001",
+      "distanceKmFromAirport": 16,
+      "description": "Magnificent Renaissance castle on a limestone hill — the coronation site of Polish kings and queens",
+      "distance": 1.0,
+      "URL": "https://wawel.krakow.pl/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Main Market Square (Rynek Glowny)",
+      "postcode": "31-008",
+      "distanceKmFromAirport": 15,
+      "description": "One of medieval Europe's largest town squares with the Cloth Hall, St Mary's Basilica and hourly trumpeter",
+      "distance": 0.3,
+      "URL": "https://www.krakow.pl/english/"
+    },
+    {
+      "rank": 3,
+      "name": "Auschwitz-Birkenau Memorial",
+      "postcode": "32-600",
+      "distanceKmFromAirport": 85,
+      "description": "Essential and sobering UNESCO World Heritage memorial to the Holocaust — 70 km from Krakow",
+      "distance": 70.0,
+      "URL": "https://www.auschwitz.org/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Kazimierz Jewish Quarter",
+      "postcode": "31-056",
+      "distanceKmFromAirport": 16,
+      "description": "Medieval Jewish quarter revived with synagogues, galleries, cafes and Schindler's factory nearby",
+      "distance": 1.5,
+      "URL": "https://www.krakow.pl/english/"
+    },
+    {
+      "rank": 5,
+      "name": "Wieliczka Salt Mine",
+      "postcode": "32-020",
+      "distanceKmFromAirport": 29,
+      "description": "UNESCO World Heritage underground salt mine with carved chapels, lakes and chambers 135 metres deep",
+      "distance": 14.0,
+      "URL": "https://www.wieliczka-saltmine.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Schindler's Factory Museum",
+      "postcode": "31-063",
+      "distanceKmFromAirport": 17,
+      "description": "Award-winning museum of wartime Krakow in Oskar Schindler's actual enamelware factory",
+      "distance": 2.0,
+      "URL": "https://www.mhk.pl/en/branches/oskar-schindlers-factory"
+    },
+    {
+      "rank": 7,
+      "name": "St Mary's Basilica & Trumpeter",
+      "postcode": "31-042",
+      "distanceKmFromAirport": 15,
+      "description": "Glorious Gothic church with an altarpiece by Veit Stoss — the trumpeter plays the Hejnal every hour",
+      "distance": 0.3,
+      "URL": "https://www.mariacki.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Krakow Cloth Hall (Sukiennice)",
+      "postcode": "31-008",
+      "distanceKmFromAirport": 15,
+      "description": "Renaissance trading hall in the market square now housing Polish 19th-century art and souvenir stalls",
+      "distance": 0.3,
+      "URL": "https://mnk.pl/en/branch/gallery-of-19th-century-polish-art-in-the-cloth-hall"
+    },
+    {
+      "rank": 9,
+      "name": "Dragon's Den (Smocza Jama)",
+      "postcode": "31-001",
+      "distanceKmFromAirport": 16,
+      "description": "Limestone cave beneath Wawel Castle where the legendary Krakow Dragon once lived — fire-breathing statue outside",
+      "distance": 1.0,
+      "URL": "https://wawel.krakow.pl/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Tatra Mountains Day Trip",
+      "postcode": "34-500",
+      "distanceKmFromAirport": 135,
+      "description": "Poland's highest peaks 120 km south — take the cable car to Kasprowy Wierch for alpine hiking",
+      "distance": 120.0,
+      "URL": "https://www.tpn.pl/en/"
+    }
+  ]
+}

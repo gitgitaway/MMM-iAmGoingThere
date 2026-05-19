@@ -1,0 +1,98 @@
+{
+  "city": "Kolkata",
+  "country": "India",
+  "airportPostcode": "700052",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Victoria Memorial",
+      "postcode": "700071",
+      "distanceKmFromAirport": 22,
+      "description": "Magnificent white marble memorial to Queen Victoria housing an excellent museum of the Raj",
+      "distance": 5,
+      "URL": "https://victoriamemorial-cal.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Howrah Bridge",
+      "postcode": "700001",
+      "distanceKmFromAirport": 17,
+      "description": "Iconic 1943 cantilever bridge over the Hooghly River - one of the busiest in the world",
+      "distance": 0,
+      "URL": "https://www.kolkatatourism.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Dakshineswar Kali Temple",
+      "postcode": "700076",
+      "distanceKmFromAirport": 32,
+      "description": "19th-century temple on the Hooghly associated with Sri Ramakrishna",
+      "distance": 15,
+      "URL": "https://www.dakshineswartemple.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Kalighat Kali Temple",
+      "postcode": "700026",
+      "distanceKmFromAirport": 25,
+      "description": "One of the 51 Shakti Peethas - among the most sacred Hindu sites in India",
+      "distance": 8,
+      "URL": "https://www.kolkatatourism.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "College Street Book Market",
+      "postcode": "700073",
+      "distanceKmFromAirport": 21,
+      "description": "The largest second-hand book market in the world with millions of titles",
+      "distance": 4,
+      "URL": "https://www.kolkatatourism.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Motherhouse of the Missionaries of Charity",
+      "postcode": "700016",
+      "distanceKmFromAirport": 22,
+      "description": "Mother Teresa's home and burial place - a place of pilgrimage and reflection",
+      "distance": 5,
+      "URL": "https://www.motherteresa.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Indian Museum",
+      "postcode": "700016",
+      "distanceKmFromAirport": 22,
+      "description": "Oldest museum in Asia with remarkable collections of art, archaeology and natural history",
+      "distance": 5,
+      "URL": "https://www.indianmuseumkolkata.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Kumartuli",
+      "postcode": "700005",
+      "distanceKmFromAirport": 20,
+      "description": "The potters' quarter where craftspeople create elaborate Hindu festival idols",
+      "distance": 3,
+      "URL": "https://www.kolkatatourism.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Princep Ghat & Eden Gardens",
+      "postcode": "700001",
+      "distanceKmFromAirport": 20,
+      "description": "Colonial riverside promenade and the famous 66,000-seat cricket ground",
+      "distance": 3,
+      "URL": "https://www.kolkatatourism.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Sundarbans Tiger Reserve",
+      "postcode": "743370",
+      "distanceKmFromAirport": 117,
+      "description": "Day trip to UNESCO World Heritage mangrove delta home to the Bengal tiger",
+      "distance": 100,
+      "URL": "https://www.sundarbantigerreserve.org/"
+    }
+  ]
+}

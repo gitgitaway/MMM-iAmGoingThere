@@ -1,0 +1,98 @@
+{
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "airportPostcode": "44600",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Boudhanath Stupa",
+      "postcode": "44800",
+      "distanceKmFromAirport": 14,
+      "description": "UNESCO World Heritage one of the world's largest Buddhist stupas with the all-seeing eyes of Buddha",
+      "distance": 8,
+      "URL": "https://www.boudha.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Pashupatinath Temple",
+      "postcode": "44600",
+      "distanceKmFromAirport": 11,
+      "description": "UNESCO World Heritage holiest Hindu temple in Nepal with open-air cremations on the Bagmati River",
+      "distance": 5,
+      "URL": "https://www.pashupati.org.np/"
+    },
+    {
+      "rank": 3,
+      "name": "Swayambhunath Stupa (Monkey Temple)",
+      "postcode": "44600",
+      "distanceKmFromAirport": 9,
+      "description": "UNESCO World Heritage hilltop stupa with 365 steps, resident monkeys and all-seeing eyes",
+      "distance": 3,
+      "URL": "https://www.swayambhu.info/"
+    },
+    {
+      "rank": 4,
+      "name": "Durbar Squares",
+      "postcode": "44600",
+      "distanceKmFromAirport": 7,
+      "description": "Three UNESCO World Heritage royal squares of Kathmandu, Bhaktapur and Patan",
+      "distance": 1,
+      "URL": "https://www.welcomenepal.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Everest Mountain Flight",
+      "postcode": "44600",
+      "distanceKmFromAirport": 12,
+      "description": "One-hour sunrise flight over the Himalayas with views of Mount Everest at close range",
+      "distance": 6,
+      "URL": "https://www.buddhaair.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Thamel Neighbourhood",
+      "postcode": "44600",
+      "distanceKmFromAirport": 8,
+      "description": "Travellers' quarter with trekking gear, momos, rooftop restaurants and bookshops",
+      "distance": 2,
+      "URL": "https://www.welcomenepal.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Garden of Dreams",
+      "postcode": "44600",
+      "distanceKmFromAirport": 8,
+      "description": "Restored Edwardian garden oasis in the heart of Kathmandu - the perfect retreat",
+      "distance": 2,
+      "URL": "https://www.gardenofdreams.org.np/"
+    },
+    {
+      "rank": 8,
+      "name": "Patan (Lalitpur)",
+      "postcode": "44700",
+      "distanceKmFromAirport": 11,
+      "description": "Ancient Newar city with the finest metalwork artisans and a magnificent Durbar Square",
+      "distance": 5,
+      "URL": "https://www.welcomenepal.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Nagarkot Sunrise",
+      "postcode": "45210",
+      "distanceKmFromAirport": 38,
+      "description": "Hill station 32km from Kathmandu with Himalayan sunrise views including Everest on clear days",
+      "distance": 32,
+      "URL": "https://www.welcomenepal.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Himalayan White Water Rafting",
+      "postcode": "44600",
+      "distanceKmFromAirport": 56,
+      "description": "Rafting the Bhote Koshi or Trishuli rivers with dramatic mountain scenery",
+      "distance": 50,
+      "URL": "https://www.rideraftnepal.com/"
+    }
+  ]
+}

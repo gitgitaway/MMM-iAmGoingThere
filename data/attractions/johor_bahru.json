@@ -1,0 +1,98 @@
+{
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "airportPostcode": "81400",
+  "airportDistanceKm": 23,
+  "things": [
+    {
+      "rank": 1,
+      "name": "LEGOLAND Malaysia",
+      "postcode": "79100",
+      "distanceKmFromAirport": 43,
+      "description": "Southeast Asia's first LEGOLAND - family theme park and water park",
+      "distance": 20.0,
+      "URL": "https://www.legoland.com.my/"
+    },
+    {
+      "rank": 2,
+      "name": "Istana Besar (Grand Palace)",
+      "postcode": "80000",
+      "distanceKmFromAirport": 24,
+      "description": "1866 royal palace of the Sultan of Johor with the Royal Abu Bakar Museum",
+      "distance": 0.5,
+      "URL": "https://www.tourismjohor.com.my/"
+    },
+    {
+      "rank": 3,
+      "name": "Johor Bahru Old Chinese Temple",
+      "postcode": "80000",
+      "distanceKmFromAirport": 24,
+      "description": "1870s temple complex dedicated to Tua Di Ya Pek - among the oldest in Malaysia",
+      "distance": 0.5,
+      "URL": "https://www.tourismjohor.com.my/"
+    },
+    {
+      "rank": 4,
+      "name": "Danga Bay Waterfront",
+      "postcode": "80200",
+      "distanceKmFromAirport": 28,
+      "description": "Waterfront entertainment complex on the Johor Strait with Singapore views",
+      "distance": 5.0,
+      "URL": "https://www.tourismjohor.com.my/"
+    },
+    {
+      "rank": 5,
+      "name": "Sultan Abu Bakar State Mosque",
+      "postcode": "80000",
+      "distanceKmFromAirport": 24,
+      "description": "1900 Victorian-Moorish mosque built by the Maharaja Abu Bakar of Johor",
+      "distance": 0.8,
+      "URL": "https://www.tourismjohor.com.my/"
+    },
+    {
+      "rank": 6,
+      "name": "Johor Bahru City Square",
+      "postcode": "80000",
+      "distanceKmFromAirport": 24,
+      "description": "Shopping mall built over a colonial train station with Singapore day trips",
+      "distance": 0.5,
+      "URL": "https://www.citysquare.com.my/"
+    },
+    {
+      "rank": 7,
+      "name": "Singapore Day Trip",
+      "postcode": "80000",
+      "distanceKmFromAirport": 28,
+      "description": "Walk or take a bus across the Causeway to Singapore in 45 minutes",
+      "distance": 5.0,
+      "URL": "https://www.visitsingapore.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Arulmigu Sri Rajakaliamman Glass Temple",
+      "postcode": "80100",
+      "distanceKmFromAirport": 25,
+      "description": "Unique Hindu temple covered entirely in coloured glass",
+      "distance": 2.0,
+      "URL": "https://www.tourismjohor.com.my/"
+    },
+    {
+      "rank": 9,
+      "name": "Chinese Heritage Museum",
+      "postcode": "80000",
+      "distanceKmFromAirport": 24,
+      "description": "History of Johor Bahru's Chinese community since the 1870s",
+      "distance": 0.8,
+      "URL": "https://www.tourismjohor.com.my/"
+    },
+    {
+      "rank": 10,
+      "name": "Roti Canai at Meldrum Walk",
+      "postcode": "80000",
+      "distanceKmFromAirport": 24,
+      "description": "The best roti canai in the country at JB's famous hawker street",
+      "distance": 0.5,
+      "URL": "https://www.tourismjohor.com.my/"
+    }
+  ]
+}

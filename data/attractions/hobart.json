@@ -1,0 +1,98 @@
+{
+  "city": "Hobart",
+  "country": "Australia",
+  "airportPostcode": "TAS 7027",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "MONA (Museum of Old and New Art)",
+      "postcode": "TAS 7011",
+      "distanceKmFromAirport": 34,
+      "description": "Australia's most controversial museum - a subterranean world of provocative art",
+      "distance": 12,
+      "URL": "https://www.mona.net.au"
+    },
+    {
+      "rank": 2,
+      "name": "Mount Wellington (kunanyi)",
+      "postcode": "TAS 7054",
+      "distanceKmFromAirport": 34,
+      "description": "1,271m dolerite mountain looming over Hobart with spectacular summit views",
+      "distance": 12,
+      "URL": "https://www.wellingtonpark.org.au"
+    },
+    {
+      "rank": 3,
+      "name": "Salamanca Market",
+      "postcode": "TAS 7004",
+      "distanceKmFromAirport": 23,
+      "description": "Australia's finest outdoor market every Saturday at the historic sandstone wharf precinct",
+      "distance": 1,
+      "URL": "https://www.salamancamarket.com.au"
+    },
+    {
+      "rank": 4,
+      "name": "Battery Point",
+      "postcode": "TAS 7004",
+      "distanceKmFromAirport": 24,
+      "description": "Hobart's oldest residential neighbourhood with colonial cottages and Arthur's Circus",
+      "distance": 1.5,
+      "URL": "https://www.discovertasmania.com.au"
+    },
+    {
+      "rank": 5,
+      "name": "Cascade Brewery",
+      "postcode": "TAS 7004",
+      "distanceKmFromAirport": 26,
+      "description": "Australia's oldest brewery operating since 1832 in a Gothic building below the mountain",
+      "distance": 4,
+      "URL": "https://www.cascadebreweryco.com.au"
+    },
+    {
+      "rank": 6,
+      "name": "Tasmanian Museum & Art Gallery",
+      "postcode": "TAS 7000",
+      "distanceKmFromAirport": 22,
+      "description": "Tasmania's natural history, thylacine (Tasmanian tiger) exhibits and colonial art",
+      "distance": 0.5,
+      "URL": "https://www.tmag.tas.gov.au"
+    },
+    {
+      "rank": 7,
+      "name": "Port Arthur Historic Site",
+      "postcode": "TAS 7182",
+      "distanceKmFromAirport": 117,
+      "description": "Haunting ruins of the infamous convict settlement on the Tasman Peninsula",
+      "distance": 95,
+      "URL": "https://www.portarthur.org.au"
+    },
+    {
+      "rank": 8,
+      "name": "Freycinet National Park",
+      "postcode": "TAS 7215",
+      "distanceKmFromAirport": 217,
+      "description": "Pink granite mountains, pristine Wineglass Bay and white sandy beaches",
+      "distance": 195,
+      "URL": "https://www.parks.tas.gov.au/freycinet"
+    },
+    {
+      "rank": 9,
+      "name": "Bruny Island",
+      "postcode": "TAS 7150",
+      "distanceKmFromAirport": 82,
+      "description": "Wild southern island with cheese farm, wildlife cruises and pristine beaches",
+      "distance": 60,
+      "URL": "https://www.brunyisland.com"
+    },
+    {
+      "rank": 10,
+      "name": "Hobart Waterfront & Constitution Dock",
+      "postcode": "TAS 7000",
+      "distanceKmFromAirport": 22,
+      "description": "Historic docks with waterfront restaurants and the finish of the Sydney-Hobart yacht race",
+      "distance": 0.3,
+      "URL": "https://www.discovertasmania.com.au"
+    }
+  ]
+}

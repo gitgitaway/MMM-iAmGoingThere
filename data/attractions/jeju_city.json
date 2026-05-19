@@ -1,0 +1,98 @@
+{
+  "city": "Jeju City",
+  "country": "South Korea",
+  "airportPostcode": "63000",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hallasan National Park",
+      "postcode": "63000",
+      "distanceKmFromAirport": 16,
+      "description": "UNESCO-listed dormant volcano at 1950m - the highest peak in South Korea",
+      "distance": 12,
+      "URL": "https://www.jeju.go.kr/"
+    },
+    {
+      "rank": 2,
+      "name": "Manjanggul Lava Tube",
+      "postcode": "63360",
+      "distanceKmFromAirport": 34,
+      "description": "UNESCO World Heritage 13km lava tube with a 7m lava column - world's largest",
+      "distance": 30,
+      "URL": "https://www.jeju.go.kr/"
+    },
+    {
+      "rank": 3,
+      "name": "Seongsan Ilchulbong (Sunrise Peak)",
+      "postcode": "63642",
+      "distanceKmFromAirport": 74,
+      "description": "UNESCO World Heritage volcanic tuff cone rising from the sea - spectacular sunrise views",
+      "distance": 70,
+      "URL": "https://www.jeju.go.kr/"
+    },
+    {
+      "rank": 4,
+      "name": "Haenyeo Women Divers",
+      "postcode": "63600",
+      "distanceKmFromAirport": 64,
+      "description": "UNESCO-listed tradition of female free divers harvesting seafood without tanks",
+      "distance": 60,
+      "URL": "https://www.jejuhaenyeo.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Jeju Folk Village Museum",
+      "postcode": "63520",
+      "distanceKmFromAirport": 34,
+      "description": "Preserved traditional Jeju village with 100 original thatched houses",
+      "distance": 30,
+      "URL": "https://www.jejufolk.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Loveland Park",
+      "postcode": "63132",
+      "distanceKmFromAirport": 9,
+      "description": "Outdoor sculpture park with 140 erotic artworks - adults only",
+      "distance": 5,
+      "URL": "https://www.jejuloveland.com/"
+    },
+    {
+      "rank": 7,
+      "name": "O'Sulloc Tea Museum",
+      "postcode": "63527",
+      "distanceKmFromAirport": 34,
+      "description": "Amorepacific's green tea museum and plantation amid scenic tea fields",
+      "distance": 30,
+      "URL": "https://www.osulloc.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Cheonjiyeon Waterfall",
+      "postcode": "63551",
+      "distanceKmFromAirport": 79,
+      "description": "Triple-tiered waterfall in a lush subtropical gorge",
+      "distance": 75,
+      "URL": "https://www.jeju.go.kr/"
+    },
+    {
+      "rank": 9,
+      "name": "Dongmun Traditional Market",
+      "postcode": "63000",
+      "distanceKmFromAirport": 5,
+      "description": "Jeju's oldest market with black pork, tangerines, horse meat and local delicacies",
+      "distance": 1,
+      "URL": "https://www.dongmunmarket.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Gimnyeong Maze Park",
+      "postcode": "63367",
+      "distanceKmFromAirport": 39,
+      "description": "Famous hedge maze near the east coast with a traditional Jeju stone grandfather statue",
+      "distance": 35,
+      "URL": "https://www.jejumaze.com/"
+    }
+  ]
+}

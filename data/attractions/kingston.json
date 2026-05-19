@@ -1,0 +1,98 @@
+{
+  "city": "Kingston",
+  "country": "Jamaica",
+  "airportPostcode": "JMAKN14",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bob Marley Museum",
+      "postcode": "JMAKN06",
+      "distanceKmFromAirport": 23,
+      "description": "The reggae legend's former home and recording studio - Nine Mile pilgrimage to his birthplace",
+      "distance": 3,
+      "URL": "https://www.bobmarleymuseum.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Devon House & Ice Cream",
+      "postcode": "JMAKN10",
+      "distanceKmFromAirport": 24,
+      "description": "National landmark mansion with Jamaica's most famous ice cream",
+      "distance": 4,
+      "URL": "https://devonhousejamaica.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Blue Mountains Coffee Tour",
+      "postcode": "JMAKN02",
+      "distanceKmFromAirport": 50,
+      "description": "Tour of the UNESCO World Heritage Blue Mountains with the world's most expensive coffee",
+      "distance": 30,
+      "URL": "https://www.jablum.com/"
+    },
+    {
+      "rank": 4,
+      "name": "National Gallery of Jamaica",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 20,
+      "description": "Caribbean's finest collection of Caribbean art including Bob Marley and Edna Manley",
+      "distance": 0.5,
+      "URL": "https://www.nationalgalleryofjamaica.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Port Royal",
+      "postcode": "JMAKN05",
+      "distanceKmFromAirport": 40,
+      "description": "Once the wickedest city on Earth - ruined pirate capital accessible by ferry",
+      "distance": 20,
+      "URL": "https://www.visitjamaica.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Kingston Waterfront",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 20,
+      "description": "Ocean Boulevard waterfront promenade with the Bank of Jamaica money museum",
+      "distance": 0.5,
+      "URL": "https://www.visitjamaica.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Trench Town Culture Yard",
+      "postcode": "JMAKN08",
+      "distanceKmFromAirport": 25,
+      "description": "Birthplace of reggae and Bob Marley - guided tours of the government yard immortalised in song",
+      "distance": 5,
+      "URL": "https://www.visitjamaica.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Jamaica National Heritage Sites Walk",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 20,
+      "description": "Gordon House, Headquarters House and other Georgian colonial buildings",
+      "distance": 0.5,
+      "URL": "https://www.jnht.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Hellshire Beach & Fried Fish",
+      "postcode": "JMAKN15",
+      "distanceKmFromAirport": 44,
+      "description": "Local beach south of Kingston with the best fried fish and festival (fried dumplings)",
+      "distance": 24,
+      "URL": "https://www.visitjamaica.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Emancipation Park",
+      "postcode": "JMAKN10",
+      "distanceKmFromAirport": 24,
+      "description": "Modern park with the striking Redemption Song bronze sculpture by Laura Facey",
+      "distance": 4,
+      "URL": "https://www.visitjamaica.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Gaborone",
+  "country": "Botswana",
+  "airportPostcode": "00110",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Okavango Delta Safari",
+      "postcode": "00110",
+      "distanceKmFromAirport": 1215,
+      "description": "UNESCO World Heritage inland delta - mokoro canoe through papyrus channels with lions and leopards",
+      "distance": 1200.0,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 2,
+      "name": "Chobe National Park",
+      "postcode": "00110",
+      "distanceKmFromAirport": 1015,
+      "description": "Africa's highest concentration of elephants - 130,000 in the Chobe River flood plain",
+      "distance": 1000.0,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of Botswana",
+      "postcode": "00110",
+      "distanceKmFromAirport": 17,
+      "description": "San Bushman culture, wildlife dioramas and contemporary Botswana art",
+      "distance": 2.0,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 4,
+      "name": "Mokolodi Nature Reserve",
+      "postcode": "00110",
+      "distanceKmFromAirport": 27,
+      "description": "Rhino and cheetah conservation area 12km from Gaborone",
+      "distance": 12.0,
+      "URL": "https://www.mokolodi.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Kalahari Desert Safari",
+      "postcode": "00110",
+      "distanceKmFromAirport": 415,
+      "description": "Black-maned Kalahari lions, gemsbok and meerkats in the red dune wilderness",
+      "distance": 400.0,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 6,
+      "name": "Main Mall",
+      "postcode": "00110",
+      "distanceKmFromAirport": 16,
+      "description": "Gaborone's central pedestrianised mall with the Independence Arch",
+      "distance": 0.5,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 7,
+      "name": "Central Kalahari Game Reserve",
+      "postcode": "00110",
+      "distanceKmFromAirport": 515,
+      "description": "Botswana's largest reserve - the world's second largest nature reserve",
+      "distance": 500.0,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 8,
+      "name": "Khama Rhino Sanctuary",
+      "postcode": "00110",
+      "distanceKmFromAirport": 215,
+      "description": "Community rhino sanctuary 3 hours from Gaborone with white and black rhino",
+      "distance": 200.0,
+      "URL": "https://www.khamarhinosanctuary.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Gaborone Game Reserve",
+      "postcode": "00110",
+      "distanceKmFromAirport": 20,
+      "description": "Urban game reserve within the city with zebra, springbok and giraffe",
+      "distance": 5.0,
+      "URL": "https://www.botswanatourism.co.bw/"
+    },
+    {
+      "rank": 10,
+      "name": "Seswaa Pounded Meat",
+      "postcode": "00110",
+      "distanceKmFromAirport": 16,
+      "description": "Botswana's national dish - slow-cooked beef pounded with a wooden stick and served with ugali",
+      "distance": 0.5,
+      "URL": "https://www.botswanatourism.co.bw/"
+    }
+  ]
+}

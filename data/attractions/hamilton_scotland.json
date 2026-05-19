@@ -1,0 +1,98 @@
+{
+  "city": "Hamilton",
+  "country": "Scotland",
+  "airportPostcode": "PA3 2ST",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Chatelherault Country Park",
+      "postcode": "ML3 7UE",
+      "distanceKmFromAirport": 22,
+      "description": "Stunning William Adam hunting lodge and country park above the dramatic River Avon gorge — home to the ancient white Cadzow cattle herd",
+      "distance": 2,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Low Parks Museum",
+      "postcode": "ML3 6AA",
+      "distanceKmFromAirport": 20,
+      "description": "South Lanarkshire's principal museum covering Cameronians military history and local heritage from prehistoric times to the present",
+      "distance": 0.5,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Hamilton Mausoleum",
+      "postcode": "ML3 6AA",
+      "distanceKmFromAirport": 20,
+      "description": "Extraordinary neoclassical mausoleum of the Dukes of Hamilton — famous for the world's longest echo, lasting up to 15 seconds",
+      "distance": 0.5,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Strathclyde Country Park",
+      "postcode": "ML1 3ED",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's busiest country park with a 200-acre loch, watersports, Roman bathhouse remains and M&D's Scotland's Theme Park",
+      "distance": 1,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Bothwell Castle",
+      "postcode": "G71 8BR",
+      "distanceKmFromAirport": 17,
+      "description": "Scotland's finest 13th-century stone castle overlooking the Clyde — one of the great fortresses of medieval Europe",
+      "distance": 5,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 6,
+      "name": "Hamilton Racecourse",
+      "postcode": "ML3 6HH",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's only flat horseracing track — a picturesque left-handed course in the Clyde valley with a full summer season of evening meetings",
+      "distance": 0.5,
+      "URL": "https://www.hamilton-park.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Calderglen Country Park & Zoo",
+      "postcode": "G75 0QZ",
+      "distanceKmFromAirport": 24,
+      "description": "Country park in the Calder Glen with a small zoo, children's farm, tropical house and extensive woodland walks",
+      "distance": 6,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "New Lanark World Heritage Site (Day Trip)",
+      "postcode": "ML11 9DB",
+      "distanceKmFromAirport": 48,
+      "description": "UNESCO mill village where social visionary Robert Owen built a model community — fully restored with a working mill and superb visitor centre",
+      "distance": 28,
+      "URL": "https://www.newlanark.org/"
+    },
+    {
+      "rank": 9,
+      "name": "David Livingstone Centre (Blantyre)",
+      "postcode": "G72 9BT",
+      "distanceKmFromAirport": 18,
+      "description": "Birthplace museum of explorer David Livingstone — the weaver's son who mapped the heart of Africa and found the Victoria Falls",
+      "distance": 4,
+      "URL": "https://www.nts.org.uk/visit/places/david-livingstone-birthplace"
+    },
+    {
+      "rank": 10,
+      "name": "Glasgow (Day Trip)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 25,
+      "description": "Scotland's largest city less than 30 minutes by train — world-class museums, food scene and the iconic Kelvingrove Art Gallery",
+      "distance": 12,
+      "URL": "https://www.visitglasgow.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Hanoi",
+  "country": "Vietnam",
+  "airportPostcode": "100000",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hoan Kiem Lake & Ngoc Son Temple",
+      "postcode": "100000",
+      "distanceKmFromAirport": 36,
+      "description": "Hanoi's spiritual heart — peaceful lake with the red Huc bridge leading to the ancient Jade Island Temple",
+      "distance": 1.0,
+      "URL": "https://vietnam.travel/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Hoi An Ancient Town Day Trip",
+      "postcode": "560000",
+      "distanceKmFromAirport": 795,
+      "description": "UNESCO World Heritage lantern-lit ancient trading port — a 1-hour flight south for a weekend escape",
+      "distance": 760.0,
+      "URL": "https://www.hoianancienttown.vn/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Ho Chi Minh Mausoleum & Museum",
+      "postcode": "100000",
+      "distanceKmFromAirport": 38,
+      "description": "The preserved embalmed body of Vietnam's revolutionary leader in a granite mausoleum on Ba Dinh Square",
+      "distance": 2.5,
+      "URL": "https://baotang.hochiminhcity.gov.vn/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Hanoi Old Quarter",
+      "postcode": "100000",
+      "distanceKmFromAirport": 36,
+      "description": "36 ancient guild streets — explore by walking or cyclo, with street food at every turn",
+      "distance": 1.0,
+      "URL": "https://vietnam.travel/en/destination/hanoi"
+    },
+    {
+      "rank": 5,
+      "name": "Ha Long Bay Cruise",
+      "postcode": "200000",
+      "distanceKmFromAirport": 205,
+      "description": "UNESCO World Heritage limestone karst seascape — overnight junk cruise with kayaking and cave visits",
+      "distance": 170.0,
+      "URL": "https://vietnam.travel/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Vietnam Museum of Ethnology",
+      "postcode": "100000",
+      "distanceKmFromAirport": 42,
+      "description": "Outstanding museum of Vietnam's 54 ethnic groups with life-size outdoor traditional village buildings",
+      "distance": 7.0,
+      "URL": "https://www.vme.org.vn/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Temple of Literature",
+      "postcode": "100000",
+      "distanceKmFromAirport": 38,
+      "description": "Vietnam's first national university (1070) — a peaceful Confucian temple with beautiful courtyard gardens",
+      "distance": 2.5,
+      "URL": "https://vanmieu.vn/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Hoa Lo Prison Museum",
+      "postcode": "100000",
+      "distanceKmFromAirport": 36,
+      "description": "The original Hanoi Hilton — French colonial prison used to hold Vietnamese revolutionaries and US POWs",
+      "distance": 1.5,
+      "URL": "https://hoalo.vn/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Bun Cha Street Food Lunch",
+      "postcode": "100000",
+      "distanceKmFromAirport": 36,
+      "description": "Hanoi's most beloved dish — grilled pork meatballs in broth with noodles (made famous by Obama and Bourdain)",
+      "distance": 1.0,
+      "URL": "https://vietnam.travel/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Thang Long Water Puppet Theatre",
+      "postcode": "100000",
+      "distanceKmFromAirport": 36,
+      "description": "Traditional Vietnamese folk art performed on water by hidden puppeteers — uniquely Hanoian",
+      "distance": 1.0,
+      "URL": "https://thanglongwaterpuppet.org/en/"
+    }
+  ]
+}

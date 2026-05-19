@@ -1,0 +1,98 @@
+{
+  "city": "Karachi",
+  "country": "Pakistan",
+  "airportPostcode": "75100",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mazar-e-Quaid (Jinnah's Mausoleum)",
+      "postcode": "74400",
+      "distanceKmFromAirport": 19,
+      "description": "Magnificent white marble mausoleum of Pakistan's founder Mohammad Ali Jinnah",
+      "distance": 5,
+      "URL": "https://www.mazeremaid.gov.pk/"
+    },
+    {
+      "rank": 2,
+      "name": "Clifton Beach",
+      "postcode": "75600",
+      "distanceKmFromAirport": 19,
+      "description": "Karachi's most popular beach with camel and horse rides, fairground and street food",
+      "distance": 5,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 3,
+      "name": "Mohatta Palace Museum",
+      "postcode": "75600",
+      "distanceKmFromAirport": 19,
+      "description": "1927 pink Jodhpur stone palace of Shivratan Mohatta - now a museum and cultural centre",
+      "distance": 5,
+      "URL": "https://www.mohattapalace.org.pk/"
+    },
+    {
+      "rank": 4,
+      "name": "Quaid-e-Azam House Museum",
+      "postcode": "75600",
+      "distanceKmFromAirport": 19,
+      "description": "Former residence of Pakistan's founding father with personal belongings on display",
+      "distance": 5,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 5,
+      "name": "Empress Market (Saddar)",
+      "postcode": "74400",
+      "distanceKmFromAirport": 17,
+      "description": "Victorian covered market built in 1889 - the commercial heart of old Karachi",
+      "distance": 3,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 6,
+      "name": "Frere Hall",
+      "postcode": "75530",
+      "distanceKmFromAirport": 17,
+      "description": "1865 Venetian Gothic building with murals by Pakistan's leading artist Sadequain",
+      "distance": 3,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 7,
+      "name": "Kemari Harbour & Manora Island",
+      "postcode": "75650",
+      "distanceKmFromAirport": 22,
+      "description": "Old Karachi harbour with a Portuguese-era fort and lighthouse on Manora Island",
+      "distance": 8,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 8,
+      "name": "Pakistan Maritime Museum",
+      "postcode": "75650",
+      "distanceKmFromAirport": 19,
+      "description": "Submarine, frigates and maritime history of Pakistan's navy",
+      "distance": 5,
+      "URL": "https://www.paknavy.gov.pk/"
+    },
+    {
+      "rank": 9,
+      "name": "Chaukhandi & Makli Tombs",
+      "postcode": "76200",
+      "distanceKmFromAirport": 44,
+      "description": "UNESCO World Heritage medieval sandstone tomb carvings east of Karachi",
+      "distance": 30,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 10,
+      "name": "Burns Road Food Street",
+      "postcode": "74400",
+      "distanceKmFromAirport": 17,
+      "description": "Legendary food street with Karachi's finest nihari, biryani and halwa puri",
+      "distance": 3,
+      "URL": "https://www.tourism.gov.pk/"
+    }
+  ]
+}

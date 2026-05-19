@@ -1,0 +1,98 @@
+{
+  "city": "Grenoble",
+  "country": "France",
+  "airportPostcode": "38590",
+  "airportDistanceKm": 45,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bastille Fortress",
+      "postcode": "38000",
+      "distanceKmFromAirport": 46,
+      "description": "19th-century fort reached by the Telepherique bubble cable car with panoramic alpine views",
+      "distance": 1,
+      "URL": "https://www.bastille-grenoble.fr"
+    },
+    {
+      "rank": 2,
+      "name": "Musee de Grenoble",
+      "postcode": "38000",
+      "distanceKmFromAirport": 46,
+      "description": "One of France's finest art museums with over 900 works from the 13th century to today",
+      "distance": 1,
+      "URL": "https://www.museedegrenoble.fr"
+    },
+    {
+      "rank": 3,
+      "name": "Vercors Regional Natural Park",
+      "postcode": "38250",
+      "distanceKmFromAirport": 75,
+      "description": "Stunning limestone plateau with gorges, forests and skiing just 30 minutes away",
+      "distance": 30,
+      "URL": "https://www.parc-du-vercors.fr"
+    },
+    {
+      "rank": 4,
+      "name": "Musee Dauphinois",
+      "postcode": "38000",
+      "distanceKmFromAirport": 46,
+      "description": "Regional history museum in a 17th-century convent with exhibits on Alpine life",
+      "distance": 1.5,
+      "URL": "https://www.musee-dauphinois.fr"
+    },
+    {
+      "rank": 5,
+      "name": "Place Grenette",
+      "postcode": "38000",
+      "distanceKmFromAirport": 45,
+      "description": "Lively main square with cafes, restaurants and the city's vibrant market",
+      "distance": 0.3,
+      "URL": "https://www.grenoble-tourisme.com"
+    },
+    {
+      "rank": 6,
+      "name": "Caserne de Bonne",
+      "postcode": "38000",
+      "distanceKmFromAirport": 46,
+      "description": "Award-winning eco-district in converted military barracks with shops and green spaces",
+      "distance": 1,
+      "URL": "https://www.grenoble-tourisme.com"
+    },
+    {
+      "rank": 7,
+      "name": "Old Town (Vieille Ville)",
+      "postcode": "38000",
+      "distanceKmFromAirport": 46,
+      "description": "Charming historic quarter with Renaissance mansions, cafes and boutiques",
+      "distance": 0.5,
+      "URL": "https://www.grenoble-tourisme.com"
+    },
+    {
+      "rank": 8,
+      "name": "Chartreuse Mountains",
+      "postcode": "38380",
+      "distanceKmFromAirport": 75,
+      "description": "Spectacular natural park north of the city with the Grande Chartreuse monastery",
+      "distance": 30,
+      "URL": "https://www.chartreuse-tourisme.com"
+    },
+    {
+      "rank": 9,
+      "name": "Parc Paul Mistral",
+      "postcode": "38000",
+      "distanceKmFromAirport": 46,
+      "description": "Large city park with the Tour Perret, an early reinforced concrete skyscraper",
+      "distance": 1,
+      "URL": "https://www.grenoble-tourisme.com"
+    },
+    {
+      "rank": 10,
+      "name": "Skiing in the Alps",
+      "postcode": "38410",
+      "distanceKmFromAirport": 75,
+      "description": "Gateway to world-class ski resorts including Chamrousse, Alpe d'Huez and Les Deux Alpes",
+      "distance": 30,
+      "URL": "https://www.chamrousse.com"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Erbil",
+  "country": "Iraq",
+  "airportPostcode": "44001",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Erbil Citadel (Qalat Hewler)",
+      "postcode": "44001",
+      "distanceKmFromAirport": 10,
+      "description": "UNESCO World Heritage mound city continuously inhabited for over 6,000 years",
+      "distance": 0.5,
+      "URL": "https://www.erbilcitadel.org"
+    },
+    {
+      "rank": 2,
+      "name": "Kurdistan Textile Museum",
+      "postcode": "44001",
+      "distanceKmFromAirport": 10,
+      "description": "Traditional Kurdish textiles, costumes and weaving techniques in a restored citadel house",
+      "distance": 0.5,
+      "URL": "https://www.kurdistantextilemuseum.com"
+    },
+    {
+      "rank": 3,
+      "name": "Qaysari Bazaar",
+      "postcode": "44001",
+      "distanceKmFromAirport": 10,
+      "description": "Ancient covered market at the foot of the citadel selling spices, gold and Kurdish crafts",
+      "distance": 0.5,
+      "URL": "https://www.visitkurdistan.com"
+    },
+    {
+      "rank": 4,
+      "name": "Sami Abdulrahman Park",
+      "postcode": "44001",
+      "distanceKmFromAirport": 12,
+      "description": "Largest park in Iraqi Kurdistan with fountains, playgrounds and beautiful gardens",
+      "distance": 2,
+      "URL": "https://www.visitkurdistan.com"
+    },
+    {
+      "rank": 5,
+      "name": "Shanidar Cave",
+      "postcode": "44001",
+      "distanceKmFromAirport": 95,
+      "description": "Cave where Neanderthal remains were found buried with flowers 65,000 years ago",
+      "distance": 85,
+      "URL": "https://www.visitkurdistan.com"
+    },
+    {
+      "rank": 6,
+      "name": "Minaret Park",
+      "postcode": "44001",
+      "distanceKmFromAirport": 11,
+      "description": "Ottoman minaret park with a lively evening atmosphere and traditional tea houses",
+      "distance": 1,
+      "URL": "https://www.visitkurdistan.com"
+    },
+    {
+      "rank": 7,
+      "name": "Kurdistan Museum",
+      "postcode": "44001",
+      "distanceKmFromAirport": 11,
+      "description": "Archaeology of the Kurdish homeland from prehistoric times through Islamic culture",
+      "distance": 1,
+      "URL": "https://www.kurdistanmuseum.org"
+    },
+    {
+      "rank": 8,
+      "name": "Ankawa District",
+      "postcode": "44001",
+      "distanceKmFromAirport": 15,
+      "description": "Christian neighbourhood with churches, restaurants and Assyrian cultural heritage",
+      "distance": 5,
+      "URL": "https://www.visitkurdistan.com"
+    },
+    {
+      "rank": 9,
+      "name": "Pirmam Mountain Resort",
+      "postcode": "44001",
+      "distanceKmFromAirport": 55,
+      "description": "Cool mountain resort 45km from Erbil with waterfalls and hiking trails",
+      "distance": 45,
+      "URL": "https://www.visitkurdistan.com"
+    },
+    {
+      "rank": 10,
+      "name": "Erbil Civilization Museum",
+      "postcode": "44001",
+      "distanceKmFromAirport": 11,
+      "description": "History of the Erbil region from Neolithic times to the Islamic era",
+      "distance": 1,
+      "URL": "https://www.visitkurdistan.com"
+    }
+  ]
+}

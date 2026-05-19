@@ -1,0 +1,98 @@
+{
+  "city": "Islamabad",
+  "country": "Pakistan",
+  "airportPostcode": "45710",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Faisal Mosque",
+      "postcode": "44000",
+      "distanceKmFromAirport": 29,
+      "description": "Largest mosque in South Asia - a dramatic concrete desert tent shape at the foot of the Margallas",
+      "distance": 3,
+      "URL": "https://www.mwl.org.pk/"
+    },
+    {
+      "rank": 2,
+      "name": "Margalla Hills National Park",
+      "postcode": "44000",
+      "distanceKmFromAirport": 31,
+      "description": "Islamabad's forested mountain backdrop with hiking trails and the Daman-e-Koh viewpoint",
+      "distance": 5,
+      "URL": "https://environment.islamabad.gov.pk/"
+    },
+    {
+      "rank": 3,
+      "name": "Pakistan Monument",
+      "postcode": "44000",
+      "distanceKmFromAirport": 29,
+      "description": "Flower-petal shaped national monument with a museum of Pakistan's history",
+      "distance": 3,
+      "URL": "https://www.pakmonument.com.pk/"
+    },
+    {
+      "rank": 4,
+      "name": "Lok Virsa Museum",
+      "postcode": "44000",
+      "distanceKmFromAirport": 30,
+      "description": "Excellent folk and traditional heritage museum with crafts from all provinces",
+      "distance": 4,
+      "URL": "https://www.lokvirsa.org.pk/"
+    },
+    {
+      "rank": 5,
+      "name": "Taxila Archaeological Museum",
+      "postcode": "43700",
+      "distanceKmFromAirport": 61,
+      "description": "Day trip to the Gandhara civilization - Alexander the Great's easternmost city",
+      "distance": 35,
+      "URL": "https://www.tourism.gov.pk/"
+    },
+    {
+      "rank": 6,
+      "name": "Saidpur Model Village",
+      "postcode": "44000",
+      "distanceKmFromAirport": 33,
+      "description": "Restored village in the Margalla Hills with artists' studios and traditional restaurants",
+      "distance": 7,
+      "URL": "https://www.islamabadcapitalterritory.gov.pk/"
+    },
+    {
+      "rank": 7,
+      "name": "Rose and Jasmine Garden",
+      "postcode": "44000",
+      "distanceKmFromAirport": 28,
+      "description": "Botanical garden with over 250 species of roses",
+      "distance": 2,
+      "URL": "https://cda.gov.pk/"
+    },
+    {
+      "rank": 8,
+      "name": "Trail 3 - Margalla Hills",
+      "postcode": "44000",
+      "distanceKmFromAirport": 31,
+      "description": "Most popular hiking trail up into the forested hills with monkeys",
+      "distance": 5,
+      "URL": "https://margallatrails.com/"
+    },
+    {
+      "rank": 9,
+      "name": "F-7 Jinnah Super Market",
+      "postcode": "44000",
+      "distanceKmFromAirport": 27,
+      "description": "Islamabad's most upscale shopping area with the best restaurants and cafes",
+      "distance": 1,
+      "URL": "https://www.islamabad.pk/"
+    },
+    {
+      "rank": 10,
+      "name": "Rawal Lake",
+      "postcode": "46000",
+      "distanceKmFromAirport": 31,
+      "description": "City reservoir with paddleboats, a bird sanctuary and recreational facilities",
+      "distance": 5,
+      "URL": "https://environment.islamabad.gov.pk/"
+    }
+  ]
+}

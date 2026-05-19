@@ -1,0 +1,98 @@
+{
+  "city": "Kochi",
+  "country": "India",
+  "airportPostcode": "683562",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Chinese Fishing Nets (Cheena Vala)",
+      "postcode": "682001",
+      "distanceKmFromAirport": 5,
+      "description": "Enormous 14th-century cantilevered fishing nets introduced by Kublai Khan's traders",
+      "distance": 5,
+      "URL": "https://www.keralatourism.org"
+    },
+    {
+      "rank": 2,
+      "name": "Fort Kochi Backwaters Houseboat",
+      "postcode": "682001",
+      "distanceKmFromAirport": 5,
+      "description": "Overnight on a traditional kettuvallam rice barge through the Kerala backwaters",
+      "distance": 5,
+      "URL": "https://www.keralatourism.org"
+    },
+    {
+      "rank": 3,
+      "name": "Jewish Quarter & Paradesi Synagogue",
+      "postcode": "682002",
+      "distanceKmFromAirport": 5,
+      "description": "16th-century synagogue of Kerala's Cochin Jewish community with blue Delft tiles",
+      "distance": 5,
+      "URL": "https://www.keralatourism.org"
+    },
+    {
+      "rank": 4,
+      "name": "St Francis Church",
+      "postcode": "682001",
+      "distanceKmFromAirport": 5,
+      "description": "Oldest European-built church in India - Vasco da Gama was originally buried here",
+      "distance": 5,
+      "URL": "https://www.keralatourism.org"
+    },
+    {
+      "rank": 5,
+      "name": "Mattancherry Palace (Dutch Palace)",
+      "postcode": "682002",
+      "distanceKmFromAirport": 5,
+      "description": "16th-century palace with extraordinary Hindu temple murals",
+      "distance": 5,
+      "URL": "https://www.asi.nic.in"
+    },
+    {
+      "rank": 6,
+      "name": "Kerala Kathakali Dance Performance",
+      "postcode": "682001",
+      "distanceKmFromAirport": 5,
+      "description": "Elaborate Malayalam classical dance-drama with extraordinary face makeup",
+      "distance": 5,
+      "URL": "https://www.keralatourism.org"
+    },
+    {
+      "rank": 7,
+      "name": "Kochi Biennale",
+      "postcode": "682001",
+      "distanceKmFromAirport": 5,
+      "description": "India's largest contemporary art exhibition held in old colonial buildings",
+      "distance": 5,
+      "URL": "https://www.kochimuzirisbiennale.org"
+    },
+    {
+      "rank": 8,
+      "name": "Periyar Wildlife Sanctuary",
+      "postcode": "685536",
+      "distanceKmFromAirport": 180,
+      "description": "Elephant and tiger reserve on a lake in the spice hills of Kerala",
+      "distance": 180,
+      "URL": "https://www.periyartigerreserve.org"
+    },
+    {
+      "rank": 9,
+      "name": "Elephant Training Camp (Kodanad)",
+      "postcode": "683544",
+      "distanceKmFromAirport": 45,
+      "description": "Watch mahouts train their elephants at dawn on the Periyar riverbank",
+      "distance": 45,
+      "URL": "https://www.keralatourism.org"
+    },
+    {
+      "rank": 10,
+      "name": "Kerala Fish Curry on a Banana Leaf",
+      "postcode": "682001",
+      "distanceKmFromAirport": 5,
+      "description": "Whole grilled karimeen pearl spot fish with coconut curry and red rice",
+      "distance": 5,
+      "URL": "https://www.keralatourism.org"
+    }
+  ]
+}

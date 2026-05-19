@@ -1,0 +1,98 @@
+{
+  "city": "Katowice",
+  "country": "Poland",
+  "airportPostcode": "41-605",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Spodek Arena",
+      "postcode": "40-078",
+      "distanceKmFromAirport": 30,
+      "description": "Futuristic 1970s flying saucer-shaped arena and the iconic symbol of Katowice",
+      "distance": 0.5,
+      "URL": "https://www.spodek.pl/"
+    },
+    {
+      "rank": 2,
+      "name": "Silesian Museum",
+      "postcode": "40-097",
+      "distanceKmFromAirport": 30,
+      "description": "One of the largest museums in Poland housed in a former mine with underground galleries",
+      "distance": 0.5,
+      "URL": "https://www.muzeumslaskie.pl/"
+    },
+    {
+      "rank": 3,
+      "name": "NOSPR Concert Hall",
+      "postcode": "40-097",
+      "distanceKmFromAirport": 30,
+      "description": "World-acclaimed concert hall of the National Polish Radio Symphony Orchestra",
+      "distance": 0.5,
+      "URL": "https://www.nospr.org.pl/"
+    },
+    {
+      "rank": 4,
+      "name": "Nikiszowiec",
+      "postcode": "40-566",
+      "distanceKmFromAirport": 35,
+      "description": "Remarkably preserved 1908 red-brick mining district, a UNESCO candidate",
+      "distance": 5,
+      "URL": "https://www.katowice.eu/"
+    },
+    {
+      "rank": 5,
+      "name": "Silesian Park",
+      "postcode": "41-500",
+      "distanceKmFromAirport": 38,
+      "description": "Poland's largest urban park with an amusement park, planetarium and Rose Garden",
+      "distance": 8,
+      "URL": "https://www.parkslaski.pl/"
+    },
+    {
+      "rank": 6,
+      "name": "Silesian Planetarium",
+      "postcode": "41-500",
+      "distanceKmFromAirport": 38,
+      "description": "Historic 1950s Carl Zeiss planetarium in Chorzow within Silesian Park",
+      "distance": 8,
+      "URL": "https://www.planetarium.edu.pl/"
+    },
+    {
+      "rank": 7,
+      "name": "Guido Coal Mine",
+      "postcode": "41-800",
+      "distanceKmFromAirport": 45,
+      "description": "19th-century mine in Zabrze where visitors can descend 320 metres underground",
+      "distance": 15,
+      "URL": "https://www.muzeumgornictwa.pl/"
+    },
+    {
+      "rank": 8,
+      "name": "Museum of Silesia",
+      "postcode": "40-013",
+      "distanceKmFromAirport": 30,
+      "description": "Regional history and ethnography museum in a baroque Silesian residence",
+      "distance": 0.5,
+      "URL": "https://www.muzeumslaskie.pl/"
+    },
+    {
+      "rank": 9,
+      "name": "Mariacka Street",
+      "postcode": "40-014",
+      "distanceKmFromAirport": 30,
+      "description": "Katowice's most charming pedestrian street with Gothic Revival buildings",
+      "distance": 0.3,
+      "URL": "https://www.katowice.eu/"
+    },
+    {
+      "rank": 10,
+      "name": "International Centre of the Book",
+      "postcode": "40-097",
+      "distanceKmFromAirport": 30,
+      "description": "Magnificent 1990s palace of books and culture in a striking industrial complex",
+      "distance": 0.5,
+      "URL": "https://www.katowice.eu/"
+    }
+  ]
+}

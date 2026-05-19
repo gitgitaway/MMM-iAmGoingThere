@@ -1,0 +1,98 @@
+{
+  "city": "Hong Kong",
+  "country": "China",
+  "airportPostcode": "Lantau Island",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Victoria Peak (The Peak)",
+      "postcode": "999077",
+      "distanceKmFromAirport": 38,
+      "description": "Iconic tram ride to Hong Kong's highest point for the world's most breathtaking urban skyline view",
+      "distance": 3.5,
+      "URL": "https://www.thepeak.com.hk/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Star Ferry Cross-Harbour Trip",
+      "postcode": "999077",
+      "distanceKmFromAirport": 36,
+      "description": "Take the historic Star Ferry across Victoria Harbour for unrivalled views of the skyline — only HK$4",
+      "distance": 1.0,
+      "URL": "https://www.starferry.com.hk/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Tian Tan Big Buddha & Ngong Ping",
+      "postcode": "999077",
+      "distanceKmFromAirport": 70,
+      "description": "The 34-metre seated bronze Buddha on Lantau Island — reach it by cable car or scenic bus",
+      "distance": 35.0,
+      "URL": "https://www.np360.com.hk/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Temple Street Night Market",
+      "postcode": "999077",
+      "distanceKmFromAirport": 38,
+      "description": "Kowloon's atmospheric night market with fortune tellers, Cantonese opera and great street food",
+      "distance": 2.5,
+      "URL": "https://www.discoverhongkong.com/eng/explore/neighbourhoods/kowloon/"
+    },
+    {
+      "rank": 5,
+      "name": "Wong Tai Sin Temple",
+      "postcode": "999077",
+      "distanceKmFromAirport": 43,
+      "description": "Vibrant Taoist temple complex with fortune-telling stalls, incense and beautiful gardens",
+      "distance": 8.0,
+      "URL": "https://www.wongtaisintemple.org.hk/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Hong Kong Museum of History",
+      "postcode": "999077",
+      "distanceKmFromAirport": 38,
+      "description": "The Story of Hong Kong — free entry to explore 6,000 years of history including the colonial era",
+      "distance": 3.5,
+      "URL": "https://hk.history.museum/en_US/"
+    },
+    {
+      "rank": 7,
+      "name": "Mong Kok Markets",
+      "postcode": "999077",
+      "distanceKmFromAirport": 39,
+      "description": "Flower Market, Bird Market, Ladies Market and Goldfish Market — the real Hong Kong shopping experience",
+      "distance": 4.0,
+      "URL": "https://www.discoverhongkong.com/eng/"
+    },
+    {
+      "rank": 8,
+      "name": "Cheung Chau Island",
+      "postcode": "999077",
+      "distanceKmFromAirport": 60,
+      "description": "Car-free island 35 minutes by ferry with seafood restaurants, beaches and the famous bun festival",
+      "distance": 25.0,
+      "URL": "https://www.discoverhongkong.com/eng/"
+    },
+    {
+      "rank": 9,
+      "name": "Ladies Street & Jade Market",
+      "postcode": "999077",
+      "distanceKmFromAirport": 38,
+      "description": "Nathan Road's shopping corridor and the covered Jade Market with hundreds of jade and gemstone stalls",
+      "distance": 3.0,
+      "URL": "https://www.discoverhongkong.com/eng/"
+    },
+    {
+      "rank": 10,
+      "name": "Dim Sum Breakfast",
+      "postcode": "999077",
+      "distanceKmFromAirport": 36,
+      "description": "Experience authentic yum cha at a traditional teahouse — steamed dumplings, har gow and cheung fun",
+      "distance": 1.0,
+      "URL": "https://www.discoverhongkong.com/eng/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Florence",
+  "country": "Italy",
+  "airportPostcode": "50127",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Uffizi Gallery",
+      "postcode": "50122",
+      "distanceKmFromAirport": 9,
+      "description": "One of the world's great art museums with Botticelli's Birth of Venus and hundreds of Renaissance masterpieces",
+      "distance": 1.0,
+      "URL": "https://www.uffizi.it/en/the-uffizi"
+    },
+    {
+      "rank": 2,
+      "name": "Florence Cathedral (Duomo) & Brunelleschi's Dome",
+      "postcode": "50122",
+      "distanceKmFromAirport": 8,
+      "description": "Magnificent Gothic cathedral with Brunelleschi's revolutionary self-supporting dome — climb for city views",
+      "distance": 0.5,
+      "URL": "https://www.museumflorence.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Galleria dell'Accademia & David",
+      "postcode": "50121",
+      "distanceKmFromAirport": 9,
+      "description": "Michelangelo's magnificent 5.17-metre marble David — arguably the world's most famous sculpture",
+      "distance": 1.0,
+      "URL": "https://www.galleriaaccademiafirenze.it/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Ponte Vecchio",
+      "postcode": "50125",
+      "distanceKmFromAirport": 9,
+      "description": "Medieval bridge lined with jewellers' workshops — the only Florentine bridge spared by the Nazis in 1944",
+      "distance": 1.0,
+      "URL": "https://www.visitflorence.com/florence-monuments/ponte-vecchio.html"
+    },
+    {
+      "rank": 5,
+      "name": "Pitti Palace & Boboli Gardens",
+      "postcode": "50125",
+      "distanceKmFromAirport": 10,
+      "description": "Vast Renaissance palace with royal apartments, costume museum and terraced Italian formal gardens",
+      "distance": 1.5,
+      "URL": "https://www.uffizi.it/en/pitti-palace"
+    },
+    {
+      "rank": 6,
+      "name": "Piazzale Michelangelo",
+      "postcode": "50125",
+      "distanceKmFromAirport": 10,
+      "description": "The terrace with the most celebrated panoramic view of Florence and the Arno — golden hour must-see",
+      "distance": 2.0,
+      "URL": "https://www.visitflorence.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Santa Croce Basilica",
+      "postcode": "50122",
+      "distanceKmFromAirport": 9,
+      "description": "Magnificent Gothic basilica housing tombs of Michelangelo, Galileo, Machiavelli and Dante",
+      "distance": 1.0,
+      "URL": "https://www.santacroceopera.it/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Bargello Museum",
+      "postcode": "50122",
+      "distanceKmFromAirport": 9,
+      "description": "Italy's finest sculpture museum in a medieval palazzo with works by Donatello, Michelangelo and Cellini",
+      "distance": 0.8,
+      "URL": "https://www.bargellomusei.beniculturali.it/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Oltrarno District Food Tour",
+      "postcode": "50125",
+      "distanceKmFromAirport": 10,
+      "description": "The artisan neighbourhood across the Arno — hole-in-the-wall trattorias, workshop studios and Negroni bars",
+      "distance": 1.5,
+      "URL": "https://www.visitflorence.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Chianti Wine Region Day Trip",
+      "postcode": "53011",
+      "distanceKmFromAirport": 43,
+      "description": "Drive through rolling vine-covered hills to visit Greve in Chianti and Panzano for wine tasting",
+      "distance": 35.0,
+      "URL": "https://www.chianticlassico.com/en/"
+    }
+  ]
+}

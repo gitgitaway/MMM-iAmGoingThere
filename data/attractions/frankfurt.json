@@ -1,0 +1,98 @@
+{
+  "city": "Frankfurt",
+  "country": "Germany",
+  "airportPostcode": "60549",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Romer & Romerberg Old Town",
+      "postcode": "60311",
+      "distanceKmFromAirport": 12,
+      "description": "Beautifully restored medieval old town with the iconic half-timbered Romer City Hall and square",
+      "distance": 0.5,
+      "URL": "https://www.frankfurt-tourismus.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Stadel Museum",
+      "postcode": "60596",
+      "distanceKmFromAirport": 14,
+      "description": "One of Germany's most important art museums spanning 700 years from Botticelli to Gerhard Richter",
+      "distance": 2.0,
+      "URL": "https://www.staedelmuseum.de/en"
+    },
+    {
+      "rank": 3,
+      "name": "Palmengarten Botanical Garden",
+      "postcode": "60325",
+      "distanceKmFromAirport": 16,
+      "description": "One of Germany's most beautiful botanical gardens with tropical greenhouses and seasonal flower shows",
+      "distance": 3.5,
+      "URL": "https://www.palmengarten.de/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Goethe House",
+      "postcode": "60311",
+      "distanceKmFromAirport": 12,
+      "description": "Birthplace and family home of Germany's greatest writer, Johann Wolfgang von Goethe, faithfully restored",
+      "distance": 0.5,
+      "URL": "https://www.goethehaus-frankfurt.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Sachsenhausen & Apple Wine District",
+      "postcode": "60594",
+      "distanceKmFromAirport": 14,
+      "description": "Frankfurt's traditional quarter on the south bank — cobblestone streets, apple wine taverns and museums",
+      "distance": 2.0,
+      "URL": "https://www.frankfurt-tourismus.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Main Tower Observation Deck",
+      "postcode": "60311",
+      "distanceKmFromAirport": 12,
+      "description": "The only Frankfurt skyscraper open to the public — 200-metre views over the financial district skyline",
+      "distance": 0.5,
+      "URL": "https://www.maintower.de/en/"
+    },
+    {
+      "rank": 7,
+      "name": "European Central Bank & Ostend",
+      "postcode": "60314",
+      "distanceKmFromAirport": 14,
+      "description": "The striking twin-towered ECB HQ and the adjacent Ostend neighbourhood with galleries and street food",
+      "distance": 2.5,
+      "URL": "https://www.ecb.europa.eu/ecb/premises/html/index.en.html"
+    },
+    {
+      "rank": 8,
+      "name": "Frankfurt Zoo",
+      "postcode": "60316",
+      "distanceKmFromAirport": 14,
+      "description": "One of Europe's oldest and most species-rich zoos founded in 1858 with 4,500 animals",
+      "distance": 2.0,
+      "URL": "https://www.zoo-frankfurt.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Museum Embankment (Museumsufer)",
+      "postcode": "60596",
+      "distanceKmFromAirport": 14,
+      "description": "14 museums along the south bank of the Main — from the Film Museum to the Museum of World Cultures",
+      "distance": 1.5,
+      "URL": "https://www.museumsufer.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Heidelberg Day Trip",
+      "postcode": "69117",
+      "distanceKmFromAirport": 97,
+      "description": "Germany's most romantic city with its famous ruined hilltop castle — 1 hour south by train",
+      "distance": 85.0,
+      "URL": "https://www.heidelberg-marketing.com/en/"
+    }
+  ]
+}

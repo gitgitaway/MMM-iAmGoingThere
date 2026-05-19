@@ -1,0 +1,98 @@
+{
+  "city": "Kazan",
+  "country": "Russia",
+  "airportPostcode": "420059",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kazan Kremlin (UNESCO)",
+      "postcode": "420014",
+      "distanceKmFromAirport": 27,
+      "description": "UNESCO World Heritage fortress at the confluence of the Kazanka and Volga rivers; the only Tatar kremlin in existence, blending Orthodox and Islamic architecture",
+      "distance": 1.5,
+      "URL": "https://kazan-kremlin.ru/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Kul Sharif Mosque",
+      "postcode": "420014",
+      "distanceKmFromAirport": 27,
+      "description": "Magnificent blue-domed mosque inside the Kazan Kremlin, rebuilt in 2005 on the site of the 16th-century original destroyed by Ivan the Terrible; one of Russia's largest mosques",
+      "distance": 1.5,
+      "URL": "https://kazan-kremlin.ru/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Annunciation Cathedral",
+      "postcode": "420014",
+      "distanceKmFromAirport": 27,
+      "description": "Magnificent 16th-century Orthodox cathedral inside the Kremlin built after Ivan the Terrible's conquest of Kazan in 1552; a symbol of the city's dual Christian and Muslim identity",
+      "distance": 1.5,
+      "URL": "https://kazan-kremlin.ru/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Bauman Street",
+      "postcode": "420111",
+      "distanceKmFromAirport": 27,
+      "description": "Kazan's bustling pedestrian boulevard lined with 18th and 19th century architecture, street performers and cafes; the social heart of the city linking the Kremlin to the lake",
+      "distance": 1.0,
+      "URL": "https://www.visitkazan.ru/en/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Tatarstan",
+      "postcode": "420111",
+      "distanceKmFromAirport": 27,
+      "description": "Comprehensive museum of Tatar history and culture with extraordinary collections of Tatar gold jewellery, 16th-century armour and exhibits on the Golden Horde",
+      "distance": 1.0,
+      "URL": "https://www.tatmuseum.ru/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Kazan Federal University",
+      "postcode": "420008",
+      "distanceKmFromAirport": 27,
+      "description": "One of Russia's oldest universities founded in 1804 where Lenin and Tolstoy studied; the magnificent main building is a national monument and key part of Kazan's heritage",
+      "distance": 1.5,
+      "URL": "https://kpfu.ru/en"
+    },
+    {
+      "rank": 7,
+      "name": "Kazan Family Centre (Wedding Palace)",
+      "postcode": "420015",
+      "distanceKmFromAirport": 27,
+      "description": "Kazan's extraordinary landmark nicknamed the Cauldron or Cheburashka; a spectacular modern building shaped like a cauldron hosting the city registry office",
+      "distance": 1.5,
+      "URL": "https://www.visitkazan.ru/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Old Tatar Quarter (Stara Tatarskaya Sloboda)",
+      "postcode": "420111",
+      "distanceKmFromAirport": 27,
+      "description": "Historic neighbourhood preserving traditional Tatar wooden architecture, small mosques and the Mardjani Mosque from 1767; the authentic heart of Tatar cultural life in Kazan",
+      "distance": 2.0,
+      "URL": "https://www.visitkazan.ru/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Kazan Zoo",
+      "postcode": "420015",
+      "distanceKmFromAirport": 28,
+      "description": "One of Russia's finest zoos set in a park overlooking the Kazanka River; home to over 3,000 animals and popular with families visiting this modern facility",
+      "distance": 3.0,
+      "URL": "https://kazanzoo.ru/"
+    },
+    {
+      "rank": 10,
+      "name": "Kazan Arena",
+      "postcode": "420066",
+      "distanceKmFromAirport": 29,
+      "description": "Spectacular 45,379-seat stadium hosting 2018 World Cup matches; home of Rubin Kazan, twice champions of Russia (2008, 2009) and UEFA Champions League group participants in 2010-11",
+      "distance": 5.0,
+      "URL": "https://rubinfootball.com/en"
+    }
+  ]
+}

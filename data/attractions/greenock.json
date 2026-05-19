@@ -1,0 +1,98 @@
+{
+  "city": "Greenock",
+  "country": "Scotland",
+  "airportPostcode": "KA9 2PL",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "McLean Museum & Art Gallery",
+      "postcode": "PA15 1EF",
+      "distanceKmFromAirport": 16,
+      "description": "Greenock's free museum with collections covering James Watt's inventions, local maritime history and an impressive art collection",
+      "distance": 0.5,
+      "URL": "https://www.inverclyde.gov.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Greenock Cut Reservoir Walk",
+      "postcode": "PA16 0HL",
+      "distanceKmFromAirport": 20,
+      "description": "Spectacular 10-mile Victorian aqueduct walk high above the Clyde — built in 1827 to supply drinking water, with stunning estuary panoramas",
+      "distance": 4,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Battery Park",
+      "postcode": "PA16 7SG",
+      "distanceKmFromAirport": 18,
+      "description": "Greenock's main park on the Clyde waterfront with an outdoor pool, children's rides and sweeping views across to the Argyll hills",
+      "distance": 2,
+      "URL": "https://www.inverclyde.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Custom House Museum",
+      "postcode": "PA15 1EQ",
+      "distanceKmFromAirport": 16,
+      "description": "Elegant neoclassical Custom House on the waterfront housing a maritime heritage museum about Greenock's ship-building past",
+      "distance": 0.5,
+      "URL": "https://www.inverclyde.gov.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Lunderston Bay Beach",
+      "postcode": "PA16 0BP",
+      "distanceKmFromAirport": 22,
+      "description": "Popular shingle beach at the head of the Firth of Clyde — a beautiful spot for rock-pooling and watching yachts sail past the Cloch Lighthouse",
+      "distance": 7,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 6,
+      "name": "James Watt Birthplace & Memorial",
+      "postcode": "PA15 1BE",
+      "distanceKmFromAirport": 16,
+      "description": "Commemorating Greenock's most famous son, inventor of the modern steam engine — a statue and heritage trail around his birthplace",
+      "distance": 0.5,
+      "URL": "https://www.inverclyde.gov.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Inverkip Marina",
+      "postcode": "PA16 0AS",
+      "distanceKmFromAirport": 23,
+      "description": "One of Scotland's largest marinas in a sheltered bay — beautiful sailing waters with boat hire, leisure facilities and sea views",
+      "distance": 8,
+      "URL": "https://www.inverkip.co.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Gourock Outdoor Swimming Pool",
+      "postcode": "PA19 1AJ",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's only heated outdoor seawater lido — an iconic Art Deco pool on the Clyde waterfront open May to September",
+      "distance": 5,
+      "URL": "https://www.leisureandculturedundee.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Clyde Muirshiel Regional Park",
+      "postcode": "PA10 2PZ",
+      "distanceKmFromAirport": 30,
+      "description": "Scotland's largest regional park stretching from Greenock to Irvine — moorland, reservoirs and wildlife including red deer",
+      "distance": 15,
+      "URL": "https://www.clydemuirshiel.co.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Glasgow (Day Trip via train)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 42,
+      "description": "Scotland's largest city just 45 minutes by train — world-class museums, Burrell Collection, Mackintosh buildings and a thriving food scene",
+      "distance": 30,
+      "URL": "https://www.visitglasgow.com/"
+    }
+  ]
+}
