@@ -1,0 +1,98 @@
+{
+  "city": "Dublin",
+  "country": "Ireland",
+  "airportPostcode": "Dublin Airport",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Guinness Storehouse",
+      "postcode": "D08 VF8H",
+      "distanceKmFromAirport": 14,
+      "description": "Ireland's most popular attraction — seven floors of brewing history with a panoramic Gravity Bar pint",
+      "distance": 2.5,
+      "URL": "https://www.guinness-storehouse.com/en"
+    },
+    {
+      "rank": 2,
+      "name": "Trinity College & Book of Kells",
+      "postcode": "D02 PN40",
+      "distanceKmFromAirport": 13,
+      "description": "Ireland's oldest university (1592) housing the illuminated 9th-century Book of Kells manuscript",
+      "distance": 0.8,
+      "URL": "https://www.tcd.ie/visitors/"
+    },
+    {
+      "rank": 3,
+      "name": "Dublin Castle",
+      "postcode": "D02 HK52",
+      "distanceKmFromAirport": 13,
+      "description": "Former seat of British power in Ireland with state apartments, a Viking undercroft and Georgian gardens",
+      "distance": 0.8,
+      "URL": "https://dublincastle.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Temple Bar Quarter",
+      "postcode": "D02 XD93",
+      "distanceKmFromAirport": 12,
+      "description": "Dublin's cultural quarter on the south bank of the Liffey — cobbled streets, pubs and live trad music",
+      "distance": 0.5,
+      "URL": "https://www.templebar.ie/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Ireland",
+      "postcode": "D02 A930",
+      "distanceKmFromAirport": 14,
+      "description": "Archaeology branch with the Ardagh Chalice, Tara Brooch and famous bog bodies",
+      "distance": 1.5,
+      "URL": "https://www.museum.ie/en-IE/Museums/Archaeology"
+    },
+    {
+      "rank": 6,
+      "name": "Phoenix Park",
+      "postcode": "D08 RZ43",
+      "distanceKmFromAirport": 16,
+      "description": "One of Europe's largest enclosed public parks at 1,750 acres — home to wild deer and the US Ambassador's residence",
+      "distance": 3.5,
+      "URL": "https://phoenixpark.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Kilmainham Gaol",
+      "postcode": "D08 RK28",
+      "distanceKmFromAirport": 16,
+      "description": "Iconic former prison where leaders of the 1916 Easter Rising were executed — deeply moving tours",
+      "distance": 3.5,
+      "URL": "https://kilmainhamgaolmuseum.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "National Gallery of Ireland",
+      "postcode": "D02 K303",
+      "distanceKmFromAirport": 13,
+      "description": "Outstanding collection of Irish and European art including a dedicated Caravaggio",
+      "distance": 1.0,
+      "URL": "https://www.nationalgallery.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Grafton Street & St Stephen's Green",
+      "postcode": "D02 WF95",
+      "distanceKmFromAirport": 13,
+      "description": "Dublin's premier pedestrian shopping street leading to the beautiful Victorian city park",
+      "distance": 1.0,
+      "URL": "https://www.stephensgreen.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Howth Head & DART Coastal Walk",
+      "postcode": "D13 V9P7",
+      "distanceKmFromAirport": 28,
+      "description": "Take the DART train to Howth for cliff walks, a fishing village, seals and excellent seafood",
+      "distance": 16.0,
+      "URL": "https://www.howthvillage.ie/"
+    }
+  ]
+}

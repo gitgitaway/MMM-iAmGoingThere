@@ -1,0 +1,98 @@
+{
+  "city": "Dubrovnik",
+  "country": "Croatia",
+  "airportPostcode": "20213",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Walk the Old City Walls",
+      "postcode": "20000",
+      "distanceKmFromAirport": 22,
+      "description": "2-km medieval ramparts surrounding the UNESCO pearl of the Adriatic — unmissable views over the sea",
+      "distance": 0.5,
+      "URL": "https://www.dubrovnik-info.com/old-city-walls/"
+    },
+    {
+      "rank": 2,
+      "name": "Stradun (Placa)",
+      "postcode": "20000",
+      "distanceKmFromAirport": 22,
+      "description": "The gleaming marble main street of the old town — Dubrovnik's social hub since the 13th century",
+      "distance": 0.3,
+      "URL": "https://www.visitdubrovnik.hr/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Lokrum Island",
+      "postcode": "20000",
+      "distanceKmFromAirport": 23,
+      "description": "Lush nature reserve island 10 minutes by ferry with a botanical garden, peacocks and a Dead Sea lake",
+      "distance": 1.0,
+      "URL": "https://lokrum.hr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Mount Srd Cable Car",
+      "postcode": "20000",
+      "distanceKmFromAirport": 24,
+      "description": "Gondola ride to 412 metres above the old town for the most spectacular panoramic views of Dubrovnik",
+      "distance": 1.5,
+      "URL": "https://www.dubrovnikcablecar.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Rector's Palace",
+      "postcode": "20000",
+      "distanceKmFromAirport": 22,
+      "description": "Gothic-Renaissance palace that was the seat of the Rector of the Dubrovnik Republic, now a museum",
+      "distance": 0.4,
+      "URL": "https://www.visitdubrovnik.hr/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Dominican Monastery & Museum",
+      "postcode": "20000",
+      "distanceKmFromAirport": 22,
+      "description": "Magnificent 14th-century cloister with important artworks by Dubrovnik masters and a library",
+      "distance": 0.5,
+      "URL": "https://www.visitdubrovnik.hr/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Game of Thrones Tour",
+      "postcode": "20000",
+      "distanceKmFromAirport": 22,
+      "description": "Walk the filming locations of King's Landing — Fort Lovrijenac, the old town gates and harbour",
+      "distance": 0.5,
+      "URL": "https://www.dubrovnik-info.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Banje Beach",
+      "postcode": "20000",
+      "distanceKmFromAirport": 23,
+      "description": "The most scenic beach in Croatia — pebble shore just outside the old town with views of the walls",
+      "distance": 0.8,
+      "URL": "https://www.banjebeach.eu/"
+    },
+    {
+      "rank": 9,
+      "name": "Elaphiti Islands Boat Tour",
+      "postcode": "20000",
+      "distanceKmFromAirport": 32,
+      "description": "Day cruise to the three relaxed car-free Elaphiti islands of Kolocep, Lopud and Sipan",
+      "distance": 10.0,
+      "URL": "https://www.visitdubrovnik.hr/en/"
+    },
+    {
+      "rank": 10,
+      "name": "War Photo Limited",
+      "postcode": "20000",
+      "distanceKmFromAirport": 22,
+      "description": "Powerful gallery of documentary war photography including extensive coverage of the 1991-95 conflict",
+      "distance": 0.3,
+      "URL": "https://www.warphotoltd.com/"
+    }
+  ]
+}

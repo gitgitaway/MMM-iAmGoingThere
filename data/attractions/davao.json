@@ -1,0 +1,98 @@
+{
+  "city": "Davao",
+  "country": "Philippines",
+  "airportPostcode": "8000",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Philippine Eagle Center",
+      "postcode": "8022",
+      "distanceKmFromAirport": 43,
+      "description": "World's largest eagle - critically endangered Monkey-eating Eagle in a conservation centre",
+      "distance": 36.0,
+      "URL": "https://www.philippineeaglefoundation.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Mount Apo Summit Trek",
+      "postcode": "8000",
+      "distanceKmFromAirport": 62,
+      "description": "Philippines' highest peak at 2,954m - dormant volcano with pitcher plants",
+      "distance": 55.0,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 3,
+      "name": "Samal Island Beach Resort",
+      "postcode": "8118",
+      "distanceKmFromAirport": 15,
+      "description": "Island resort accessible by 5-minute ferry with white-sand beaches",
+      "distance": 8.0,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 4,
+      "name": "D'Bone Collector Museum",
+      "postcode": "8000",
+      "distanceKmFromAirport": 12,
+      "description": "Artist-explorer's extraordinary collection of bird and mammal skeletons",
+      "distance": 5.0,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 5,
+      "name": "Crocodile Park",
+      "postcode": "8000",
+      "distanceKmFromAirport": 15,
+      "description": "Conservation centre with the largest concentration of Philippine saltwater crocodiles",
+      "distance": 8.0,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 6,
+      "name": "Magsaysay Park",
+      "postcode": "8000",
+      "distanceKmFromAirport": 8,
+      "description": "Waterfront park with durian stalls - Davao is the durian capital of the Philippines",
+      "distance": 1.5,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 7,
+      "name": "Eden Nature Park",
+      "postcode": "8000",
+      "distanceKmFromAirport": 32,
+      "description": "Mountain eco-park with farm animals, zip-lines and foggy highland gardens",
+      "distance": 25.0,
+      "URL": "https://edennaturepark.com.ph/"
+    },
+    {
+      "rank": 8,
+      "name": "Bankerohan Market",
+      "postcode": "8000",
+      "distanceKmFromAirport": 9,
+      "description": "Davao's main public market with exotic fruits, orchids and fresh seafood",
+      "distance": 2.0,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 9,
+      "name": "Mindanao Cultural Village",
+      "postcode": "8000",
+      "distanceKmFromAirport": 22,
+      "description": "Traditional longhouses and performances of Mindanao's diverse indigenous tribes",
+      "distance": 15.0,
+      "URL": "https://www.davaocity.gov.ph/"
+    },
+    {
+      "rank": 10,
+      "name": "Durian Fruit Tasting",
+      "postcode": "8000",
+      "distanceKmFromAirport": 8,
+      "description": "The King of Fruits - notoriously pungent but extraordinarily delicious",
+      "distance": 1.5,
+      "URL": "https://www.davaocity.gov.ph/"
+    }
+  ]
+}

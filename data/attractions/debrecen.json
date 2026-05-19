@@ -1,0 +1,98 @@
+{
+  "city": "Debrecen",
+  "country": "Hungary",
+  "airportPostcode": "4150",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Great Reformed Church",
+      "postcode": "4026",
+      "distanceKmFromAirport": 7,
+      "description": "Hungary's largest Protestant church (1821) and national symbol of Hungarian Calvinism; it was here in 1849 that Kossuth declared Hungarian independence",
+      "distance": 0.5,
+      "URL": "https://en.debrecen.hu/"
+    },
+    {
+      "rank": 2,
+      "name": "Reformed College (Debrecen Calvinist College)",
+      "postcode": "4026",
+      "distanceKmFromAirport": 7,
+      "description": "Historic Protestant college founded in 1538 with a world-class library of over 600,000 volumes and a museum of the Reformation's role in Hungarian history",
+      "distance": 0.5,
+      "URL": "https://en.debrecen.hu/"
+    },
+    {
+      "rank": 3,
+      "name": "Debrecen Zoo and Amusement Park",
+      "postcode": "4032",
+      "distanceKmFromAirport": 8,
+      "description": "One of Hungary's finest zoos with diverse animal collections and an adjacent amusement park in the Great Forest park north of the city centre",
+      "distance": 4.0,
+      "URL": "https://www.zoodebrecen.hu/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Nagyerdo (Great Forest) Park",
+      "postcode": "4032",
+      "distanceKmFromAirport": 8,
+      "description": "Vast urban forest park with an open-air bath complex, the famous Aquaticum spa, deer enclosures and 19km of walking and cycling paths through mature woodland",
+      "distance": 4.0,
+      "URL": "https://en.debrecen.hu/"
+    },
+    {
+      "rank": 5,
+      "name": "Deri Museum",
+      "postcode": "4026",
+      "distanceKmFromAirport": 7,
+      "description": "Hungary's largest provincial museum with outstanding collections of Hungarian painting, archaeology, ethnography and the famous Munkacsy Christ Trilogy",
+      "distance": 1.0,
+      "URL": "https://www.derimuseum.hu/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Flower Carnival (Viragkarneval)",
+      "postcode": "4026",
+      "distanceKmFromAirport": 7,
+      "description": "Hungary's most spectacular summer festival held on the 20th August national holiday; elaborate flower-decorated floats process through the city before the Great Church",
+      "distance": 0.5,
+      "URL": "https://en.debrecen.hu/"
+    },
+    {
+      "rank": 7,
+      "name": "Piac Street Pedestrian Zone",
+      "postcode": "4026",
+      "distanceKmFromAirport": 7,
+      "description": "Debrecen's main pedestrian street linking the train station to the Great Church; lined with shops, cafes and the city's most elegant 19th and 20th-century facades",
+      "distance": 0.3,
+      "URL": "https://en.debrecen.hu/"
+    },
+    {
+      "rank": 8,
+      "name": "Aquaticum Mediterraneum Spa",
+      "postcode": "4032",
+      "distanceKmFromAirport": 8,
+      "description": "Hungarian award-winning indoor tropical spa with thermal pools, water slides and wellness facilities in a Mediterranean-themed complex in the Great Forest",
+      "distance": 4.0,
+      "URL": "https://www.aquaticum.hu/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Debrecen University Campus",
+      "postcode": "4032",
+      "distanceKmFromAirport": 8,
+      "description": "One of Hungary's oldest and most prestigious universities in an extensive campus north of the centre; the main building is one of Hungary's finest neoclassical structures",
+      "distance": 3.5,
+      "URL": "https://www.unideb.hu/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Nagyerdei Stadion",
+      "postcode": "4032",
+      "distanceKmFromAirport": 8,
+      "description": "Home of Debreceni VSC with 20,340 capacity; Hungary's most successful club in the 2000s, competing in the Champions League group stage and Europa League",
+      "distance": 4.5,
+      "URL": "https://www.dvsc.hu/"
+    }
+  ]
+}

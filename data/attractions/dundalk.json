@@ -1,0 +1,98 @@
+{
+  "city": "Dundalk",
+  "country": "Ireland",
+  "airportPostcode": "K67 E5X7",
+  "airportDistanceKm": 80,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Carlingford Medieval Village",
+      "postcode": "A91 EW82",
+      "distanceKmFromAirport": 90,
+      "description": "Perfectly preserved Anglo-Norman village on Carlingford Lough — King John's Castle, Taaffe's Castle and the finest medieval streetscape in Leinster",
+      "distance": 10,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 2,
+      "name": "Proleek Dolmen",
+      "postcode": "A91 N9K6",
+      "distanceKmFromAirport": 88,
+      "description": "Remarkable Neolithic portal tomb with a 40-tonne capstone — tradition says making a pebble land on top grants a wish",
+      "distance": 8,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "County Louth Museum (Dundalk Museum)",
+      "postcode": "A91 PX00",
+      "distanceKmFromAirport": 80,
+      "description": "The main museum for Ireland's smallest county — permanent exhibitions on the Cooley Peninsula, the Táin and local heritage",
+      "distance": 0.5,
+      "URL": "https://www.dundalkmuseum.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Cooley Peninsula (Scenic Drive)",
+      "postcode": "A91 TY09",
+      "distanceKmFromAirport": 90,
+      "description": "Dramatic peninsula between Carlingford Lough and Dundalk Bay — Slieve Foye mountain, ancient ring forts and the mythological Táin Trail",
+      "distance": 10,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 5,
+      "name": "Ravensdale Forest Park",
+      "postcode": "A91 W6T1",
+      "distanceKmFromAirport": 90,
+      "description": "Beautiful forest park in the Cooley Mountains with walking and cycling trails through native woodland and mountain streams",
+      "distance": 10,
+      "URL": "https://www.coillte.ie/"
+    },
+    {
+      "rank": 6,
+      "name": "St Patrick's Cathedral",
+      "postcode": "A91 HY32",
+      "distanceKmFromAirport": 80,
+      "description": "Impressive Victorian Gothic cathedral housing remarkable stained glass and the tomb of Oliver Plunkett's headless body",
+      "distance": 0.5,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Seatown Tower & Town Walls",
+      "postcode": "A91 E263",
+      "distanceKmFromAirport": 80,
+      "description": "The only surviving remnant of Dundalk's medieval town walls — a Dominican priory tower dating from the 14th century",
+      "distance": 0.5,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Newgrange (Day Trip via Drogheda)",
+      "postcode": "C15 XR64",
+      "distanceKmFromAirport": 52,
+      "description": "5,200-year-old UNESCO World Heritage passage tomb — one of the world's greatest prehistoric monuments in the Boyne Valley",
+      "distance": 28,
+      "URL": "https://www.worldheritageireland.ie/bru-na-boinne/"
+    },
+    {
+      "rank": 9,
+      "name": "Mourne Mountains (Day Trip, NI)",
+      "postcode": "BT33 0AB",
+      "distanceKmFromAirport": 100,
+      "description": "Northern Ireland's highest mountains overlooking the Irish Sea — dramatic granite peaks, Tollymore Forest and the Silent Valley reservoir",
+      "distance": 20,
+      "URL": "https://www.visitmournemountains.co.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Oriel Gallery & Arts Centre",
+      "postcode": "A91 PX00",
+      "distanceKmFromAirport": 80,
+      "description": "Dundalk's main arts venue with changing exhibitions, theatre productions and an annual arts festival in the town",
+      "distance": 0.5,
+      "URL": "https://www.dundalk.ie/"
+    }
+  ]
+}

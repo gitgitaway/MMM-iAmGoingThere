@@ -1,0 +1,98 @@
+{
+  "city": "Chittagong",
+  "country": "Bangladesh",
+  "airportPostcode": "4208",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ship Breaking Yards (Sitakund)",
+      "postcode": "4330",
+      "distanceKmFromAirport": 37,
+      "description": "World's largest ship breaking yards - giant tankers are dismantled by hand",
+      "distance": 22.0,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 2,
+      "name": "Cox's Bazar Day Trip",
+      "postcode": "4700",
+      "distanceKmFromAirport": 170,
+      "description": "World's longest natural sea beach at 120km - 2 hours from Chittagong",
+      "distance": 155.0,
+      "URL": "https://www.coxsbazartourism.gov.bd/"
+    },
+    {
+      "rank": 3,
+      "name": "Ethnological Museum",
+      "postcode": "4000",
+      "distanceKmFromAirport": 17,
+      "description": "Bangladesh's only ethnological museum with artefacts of 14 hill tribe communities",
+      "distance": 2.0,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 4,
+      "name": "Chittagong War Cemetery",
+      "postcode": "4000",
+      "distanceKmFromAirport": 18,
+      "description": "Commonwealth War Graves for WWII soldiers who died defending Burma",
+      "distance": 2.5,
+      "URL": "https://www.cwgc.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Boro Kuthi (DC Hill)",
+      "postcode": "4000",
+      "distanceKmFromAirport": 16,
+      "description": "Portuguese colonial building on DC Hill park with botanical gardens",
+      "distance": 1.5,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 6,
+      "name": "Chandanpura and Anderkilla Mosques",
+      "postcode": "4000",
+      "distanceKmFromAirport": 16,
+      "description": "Portuguese-era mosques showing Chittagong's 500-year trading history",
+      "distance": 1.0,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 7,
+      "name": "Patenga Sea Beach",
+      "postcode": "4204",
+      "distanceKmFromAirport": 29,
+      "description": "Coastal beach and air force recreation area",
+      "distance": 14.0,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 8,
+      "name": "Kaptai Lake",
+      "postcode": "4530",
+      "distanceKmFromAirport": 80,
+      "description": "Largest artificial lake in Bangladesh in the Chittagong Hill Tracts with boat trips",
+      "distance": 65.0,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 9,
+      "name": "Bandarban Hill District",
+      "postcode": "4600",
+      "distanceKmFromAirport": 107,
+      "description": "Bangladesh's highest hills with Marma, Mro and Chakma tribal villages",
+      "distance": 92.0,
+      "URL": "https://www.tourismboard.gov.bd/"
+    },
+    {
+      "rank": 10,
+      "name": "Mezban Festival Food",
+      "postcode": "4000",
+      "distanceKmFromAirport": 16,
+      "description": "Chittagong's famous community feast - spicy beef curry eaten with thousands of guests",
+      "distance": 0.5,
+      "URL": "https://www.tourismboard.gov.bd/"
+    }
+  ]
+}

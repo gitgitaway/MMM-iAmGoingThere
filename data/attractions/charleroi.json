@@ -1,0 +1,98 @@
+{
+  "city": "Charleroi",
+  "country": "Belgium",
+  "airportPostcode": "6041",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Musee du Verre (Glass Museum)",
+      "postcode": "6000",
+      "distanceKmFromAirport": 6,
+      "description": "World-renowned glass museum with an exceptional collection of ancient and modern glasswork",
+      "distance": 0.5,
+      "URL": "https://www.museeverre-charleroi.be/"
+    },
+    {
+      "rank": 2,
+      "name": "Bois du Cazier",
+      "postcode": "6001",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO site of the 1956 mining disaster, now a powerful industrial heritage museum",
+      "distance": 3.0,
+      "URL": "https://www.leboisducazier.be/"
+    },
+    {
+      "rank": 3,
+      "name": "Palais des Beaux-Arts",
+      "postcode": "6000",
+      "distanceKmFromAirport": 5,
+      "description": "Art museum with Belgian paintings and sculptures from the 17th to 20th centuries",
+      "distance": 0.3,
+      "URL": "https://www.pba-charleroi.be/"
+    },
+    {
+      "rank": 4,
+      "name": "Beffroi de Charleroi",
+      "postcode": "6000",
+      "distanceKmFromAirport": 5,
+      "description": "Historic belfry and symbol of the city with panoramic views",
+      "distance": 0.3,
+      "URL": "https://www.charleroi.be/"
+    },
+    {
+      "rank": 5,
+      "name": "Musee de la Photographie",
+      "postcode": "6032",
+      "distanceKmFromAirport": 13,
+      "description": "Europe's largest photography museum in a renovated Carmelite convent",
+      "distance": 8.0,
+      "URL": "https://www.museephoto.be/"
+    },
+    {
+      "rank": 6,
+      "name": "Marcinelle Memorial",
+      "postcode": "6001",
+      "distanceKmFromAirport": 8,
+      "description": "Memorial to the victims of the 1956 Bois du Cazier mining catastrophe",
+      "distance": 3.0,
+      "URL": "https://www.leboisducazier.be/"
+    },
+    {
+      "rank": 7,
+      "name": "Parc Reine Astrid",
+      "postcode": "6000",
+      "distanceKmFromAirport": 6,
+      "description": "City park popular for walking, sport and relaxation",
+      "distance": 0.5,
+      "URL": "https://www.charleroi.be/"
+    },
+    {
+      "rank": 8,
+      "name": "La Louviere Ceramics Museum",
+      "postcode": "7100",
+      "distanceKmFromAirport": 25,
+      "description": "Nearby museum of the long-established Hainaut ceramics tradition",
+      "distance": 20.0,
+      "URL": "https://www.keramis.be/"
+    },
+    {
+      "rank": 9,
+      "name": "Abbaye de Villers",
+      "postcode": "1495",
+      "distanceKmFromAirport": 27,
+      "description": "Dramatic ruins of a 12th-century Cistercian abbey in a wooded valley nearby",
+      "distance": 22.0,
+      "URL": "https://www.villers.be/"
+    },
+    {
+      "rank": 10,
+      "name": "Thuin Historic Centre",
+      "postcode": "6530",
+      "distanceKmFromAirport": 25,
+      "description": "Charming hilltop town with hanging gardens and medieval towers nearby",
+      "distance": 20.0,
+      "URL": "https://www.thuin.be/"
+    }
+  ]
+}

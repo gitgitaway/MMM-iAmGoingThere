@@ -1,0 +1,98 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "airportPostcode": "110037",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Taj Mahal Day Trip",
+      "postcode": "282001",
+      "distanceKmFromAirport": 246,
+      "description": "The world's greatest monument to love — a 3-hour drive to Agra for the iconic white marble mausoleum",
+      "distance": 230.0,
+      "URL": "https://www.tajmahal.gov.in/"
+    },
+    {
+      "rank": 2,
+      "name": "Red Fort (Lal Qila)",
+      "postcode": "110006",
+      "distanceKmFromAirport": 21,
+      "description": "UNESCO World Heritage 17th-century Mughal fort where India's PM delivers the Independence Day address",
+      "distance": 5.0,
+      "URL": "https://www.delhitourism.gov.in/"
+    },
+    {
+      "rank": 3,
+      "name": "Qutub Minar",
+      "postcode": "110030",
+      "distanceKmFromAirport": 32,
+      "description": "UNESCO World Heritage 73-metre 12th-century brick minaret — India's tallest minaret and a masterpiece of Islamic architecture",
+      "distance": 16.0,
+      "URL": "https://www.asi.nic.in/"
+    },
+    {
+      "rank": 4,
+      "name": "Humayun's Tomb",
+      "postcode": "110013",
+      "distanceKmFromAirport": 24,
+      "description": "UNESCO World Heritage precursor to the Taj Mahal — stunning Mughal garden tomb from 1572",
+      "distance": 8.0,
+      "URL": "https://www.asi.nic.in/"
+    },
+    {
+      "rank": 5,
+      "name": "India Gate & Kartavya Path",
+      "postcode": "110001",
+      "distanceKmFromAirport": 19,
+      "description": "Delhi's iconic war memorial arch on the ceremonial boulevard — evening promenade with food vendors",
+      "distance": 3.0,
+      "URL": "https://www.india.gov.in/"
+    },
+    {
+      "rank": 6,
+      "name": "Chandni Chowk Old Delhi",
+      "postcode": "110006",
+      "distanceKmFromAirport": 21,
+      "description": "Mughal-era bazaar district — explore by cycle rickshaw through narrow lanes of spice, jewellery and street food",
+      "distance": 5.0,
+      "URL": "https://www.delhitourism.gov.in/"
+    },
+    {
+      "rank": 7,
+      "name": "Lotus Temple",
+      "postcode": "110019",
+      "distanceKmFromAirport": 28,
+      "description": "Stunning Bahai House of Worship shaped like a blooming lotus flower — open to all religions",
+      "distance": 12.0,
+      "URL": "https://www.bahaihouseofworship.in/"
+    },
+    {
+      "rank": 8,
+      "name": "National Museum",
+      "postcode": "110011",
+      "distanceKmFromAirport": 19,
+      "description": "India's finest museum with 200,000 artefacts spanning 5,000 years — the Harappan gallery is exceptional",
+      "distance": 3.0,
+      "URL": "https://www.nationalmuseumindia.gov.in/"
+    },
+    {
+      "rank": 9,
+      "name": "Jama Masjid",
+      "postcode": "110006",
+      "distanceKmFromAirport": 21,
+      "description": "India's largest mosque (1656) — climb the minaret for views over Old Delhi's rooftops",
+      "distance": 5.0,
+      "URL": "https://www.delhitourism.gov.in/"
+    },
+    {
+      "rank": 10,
+      "name": "Hauz Khas Village",
+      "postcode": "110016",
+      "distanceKmFromAirport": 28,
+      "description": "Medieval reservoir ruins surrounded by Delhi's trendiest cafes, boutiques and art galleries",
+      "distance": 12.0,
+      "URL": "https://www.delhitourism.gov.in/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Darwin",
+  "country": "Australia",
+  "airportPostcode": "NT 0820",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kakadu National Park",
+      "postcode": "NT 0836",
+      "distanceKmFromAirport": 183,
+      "description": "UNESCO World Heritage park with Aboriginal rock art, crocodiles and waterfalls",
+      "distance": 170.0,
+      "URL": "https://parksaustralia.gov.au/kakadu/"
+    },
+    {
+      "rank": 2,
+      "name": "Mindil Beach Sunset Market",
+      "postcode": "NT 0801",
+      "distanceKmFromAirport": 16,
+      "description": "Tropical sunset market with 200 stalls of food and crafts from May to October",
+      "distance": 3.0,
+      "URL": "https://www.mindil.com.au/"
+    },
+    {
+      "rank": 3,
+      "name": "Litchfield National Park",
+      "postcode": "NT 0822",
+      "distanceKmFromAirport": 128,
+      "description": "Spectacular waterfalls and swimming holes in a monsoon forest, closer than Kakadu",
+      "distance": 115.0,
+      "URL": "https://nt.gov.au/leisure/parks-reserves/find-a-park-to-visit/litchfield-national-park"
+    },
+    {
+      "rank": 4,
+      "name": "Crocosaurus Cove",
+      "postcode": "NT 0800",
+      "distanceKmFromAirport": 14,
+      "description": "City centre crocodile attraction with the Cage of Death underwater crocodile enclosure",
+      "distance": 1.5,
+      "URL": "https://www.crocosauruscove.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Museum & Art Gallery NT",
+      "postcode": "NT 0820",
+      "distanceKmFromAirport": 17,
+      "description": "Cyclone Tracy memorial, Aboriginal art and natural history in the tropical city",
+      "distance": 4.0,
+      "URL": "https://www.magnt.net.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Darwin Waterfront",
+      "postcode": "NT 0800",
+      "distanceKmFromAirport": 14,
+      "description": "Wave pool, harbour beaches and the WWII oil storage tunnels complex",
+      "distance": 1.5,
+      "URL": "https://www.darwinwaterfront.com.au/"
+    },
+    {
+      "rank": 7,
+      "name": "Adelaide River Jumping Crocodiles",
+      "postcode": "NT 0846",
+      "distanceKmFromAirport": 73,
+      "description": "Saltwater crocodiles launched vertically from the water to take meat from poles",
+      "distance": 60.0,
+      "URL": "https://www.jumpingcrocodile.com.au/"
+    },
+    {
+      "rank": 8,
+      "name": "Darwin Military Museum",
+      "postcode": "NT 0820",
+      "distanceKmFromAirport": 18,
+      "description": "Comprehensive museum covering Darwin's role in World War II and the 1942 bombing",
+      "distance": 5.0,
+      "URL": "https://www.darwinmilitarymuseum.com.au/"
+    },
+    {
+      "rank": 9,
+      "name": "Tiwi Islands",
+      "postcode": "NT 0822",
+      "distanceKmFromAirport": 83,
+      "description": "Aboriginal cultural experience on Bathurst and Melville islands off Darwin's coast",
+      "distance": 70.0,
+      "URL": "https://www.tiwiislands.org/"
+    },
+    {
+      "rank": 10,
+      "name": "George Brown Darwin Botanic Gardens",
+      "postcode": "NT 0801",
+      "distanceKmFromAirport": 15,
+      "description": "Tropical gardens with over 1,500 plant species, established in 1879",
+      "distance": 2.0,
+      "URL": "https://nt.gov.au/leisure/parks-reserves/find-a-park-to-visit/george-brown-darwin-botanic-gardens"
+    }
+  ]
+}

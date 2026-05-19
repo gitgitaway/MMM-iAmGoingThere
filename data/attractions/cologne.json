@@ -1,0 +1,98 @@
+{
+  "city": "Cologne",
+  "country": "Germany",
+  "airportPostcode": "51147",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cologne Cathedral",
+      "postcode": "50667",
+      "distanceKmFromAirport": 16,
+      "description": "UNESCO World Heritage Gothic masterpiece with the world's largest church facade",
+      "distance": 1.0,
+      "URL": "https://www.koelner-dom.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Museum Ludwig",
+      "postcode": "50667",
+      "distanceKmFromAirport": 16,
+      "description": "Major modern art museum with the largest Picasso collection outside Spain",
+      "distance": 1.0,
+      "URL": "https://www.museum-ludwig.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Chocolate Museum",
+      "postcode": "50678",
+      "distanceKmFromAirport": 17,
+      "description": "Chocoholic's paradise on the Rhine with a chocolate fountain and history of cacao",
+      "distance": 2.0,
+      "URL": "https://www.chocolatemuseum-cologne.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Roman-Germanic Museum",
+      "postcode": "50667",
+      "distanceKmFromAirport": 16,
+      "description": "Outstanding collection of Roman artefacts from ancient Colonia Agrippina",
+      "distance": 1.0,
+      "URL": "https://www.museen.koeln/roemisch-germanisches-museum/english/"
+    },
+    {
+      "rank": 5,
+      "name": "Hohenzollern Bridge",
+      "postcode": "50668",
+      "distanceKmFromAirport": 16,
+      "description": "Rhine bridge famous for thousands of love locks attached to its railings",
+      "distance": 1.2,
+      "URL": "https://www.cologne-tourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Altstadt (Old Town)",
+      "postcode": "50667",
+      "distanceKmFromAirport": 16,
+      "description": "Historic centre with medieval churches, Romanesque basilicas and riverside beer gardens",
+      "distance": 1.5,
+      "URL": "https://www.cologne-tourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Cologne Zoo",
+      "postcode": "50735",
+      "distanceKmFromAirport": 19,
+      "description": "One of Germany's oldest zoos with hippos, gorillas and the historic elephant house",
+      "distance": 4.0,
+      "URL": "https://www.koelnerzoo.de/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Claudius Therme",
+      "postcode": "50679",
+      "distanceKmFromAirport": 20,
+      "description": "Roman-style thermal spa on the banks of the Rhine",
+      "distance": 4.5,
+      "URL": "https://www.claudius-therme.de/"
+    },
+    {
+      "rank": 9,
+      "name": "Mediapark",
+      "postcode": "50670",
+      "distanceKmFromAirport": 18,
+      "description": "Creative district with a lake, media companies and Cologne's broadcasting studios",
+      "distance": 2.5,
+      "URL": "https://www.cologne-tourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Koelsch Brewery Tour",
+      "postcode": "50667",
+      "distanceKmFromAirport": 16,
+      "description": "Tasting tour of Cologne's unique top-fermented Koelsch beer, only brewed in the city",
+      "distance": 1.5,
+      "URL": "https://www.frueh.de/en/"
+    }
+  ]
+}

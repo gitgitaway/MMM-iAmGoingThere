@@ -1,0 +1,98 @@
+{
+  "city": "Castries",
+  "country": "Saint Lucia",
+  "airportPostcode": "LC01101",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "The Pitons (UNESCO World Heritage)",
+      "postcode": "LC10101",
+      "distanceKmFromAirport": 58,
+      "description": "Two dramatic volcanic spires rising from the sea - the most iconic image in the Caribbean",
+      "distance": 55.0,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Diamond Falls & Botanical Gardens",
+      "postcode": "LC10101",
+      "distanceKmFromAirport": 53,
+      "description": "Mineral waterfall tinted with dissolved sulphur and iron - spectrum of colours",
+      "distance": 50.0,
+      "URL": "https://www.diamondstlucia.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Sulphur Springs Drive-In Volcano",
+      "postcode": "LC10101",
+      "distanceKmFromAirport": 58,
+      "description": "The world's only drive-in volcano - boiling mud pools and sulphur fumaroles",
+      "distance": 55.0,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Marigot Bay",
+      "postcode": "LC04101",
+      "distanceKmFromAirport": 19,
+      "description": "One of the most beautiful bays in the Caribbean - the hiding place of the British fleet",
+      "distance": 16.0,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Rodney Bay & Reduit Beach",
+      "postcode": "LC01201",
+      "distanceKmFromAirport": 15,
+      "description": "Saint Lucia's best beach with a world-class marina",
+      "distance": 12.0,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Castries Market",
+      "postcode": "LC01101",
+      "distanceKmFromAirport": 4,
+      "description": "Vibrant market with local crafts, spices and tropical produce",
+      "distance": 0.5,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Rainforest Tram at Castries",
+      "postcode": "LC01101",
+      "distanceKmFromAirport": 18,
+      "description": "Aerial tram through the rainforest canopy",
+      "distance": 15.0,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Nobel Laureate Trail",
+      "postcode": "LC01101",
+      "distanceKmFromAirport": 4,
+      "description": "Saint Lucia has produced two Nobel Prize winners per capita - the most of any country",
+      "distance": 0.5,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Anse Chastanet Reef Snorkelling",
+      "postcode": "LC10101",
+      "distanceKmFromAirport": 63,
+      "description": "Caribbean's best snorkelling reef directly below the Pitons",
+      "distance": 60.0,
+      "URL": "https://www.stlucia.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Green Fig & Salt Fish",
+      "postcode": "LC01101",
+      "distanceKmFromAirport": 4,
+      "description": "Saint Lucia's national dish - boiled green bananas with salt cod sauteed in onions and peppers",
+      "distance": 0.5,
+      "URL": "https://www.stlucia.org/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Damascus",
+  "country": "Syria",
+  "airportPostcode": "5009",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Umayyad Mosque",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "One of the oldest and most magnificent mosques in the world - built 705 AD on a Roman temple",
+      "distance": 1.5,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Old City of Damascus (UNESCO)",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "UNESCO World Heritage one of the world's oldest continuously inhabited cities",
+      "distance": 1.5,
+      "URL": "https://whc.unesco.org/en/list/20/"
+    },
+    {
+      "rank": 3,
+      "name": "Souq al-Hamidiyya",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "Ottoman-era covered market - the finest surviving bazaar in the Arab world",
+      "distance": 1.5,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Damascus",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "Bronze Age artefacts, Palmyrene statues and the world-famous Ugaritic cuneiform tablets",
+      "distance": 2.0,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Azm Palace",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "18th-century Ottoman palace - the finest domestic architecture in Syria",
+      "distance": 1.5,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Chapel of Ananias",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "Underground Roman house-church where Saint Paul was baptised",
+      "distance": 2.0,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Straight Street (Via Recta)",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "The street called Straight from the Acts of the Apostles - still a living Old Testament reference",
+      "distance": 1.5,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Sayyida Ruqayya Mosque",
+      "postcode": "5009",
+      "distanceKmFromAirport": 28,
+      "description": "Magnificent Iranian-funded Shi'a mosque with stunning blue tilework and mirror mosaics",
+      "distance": 2.0,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Maalula Village",
+      "postcode": "5009",
+      "distanceKmFromAirport": 82,
+      "description": "Village where Biblical Aramaic - the language of Jesus - is still spoken",
+      "distance": 56.0,
+      "URL": "https://www.syriatourism.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Kibbeh (Lamb & Bulgur)",
+      "postcode": "5009",
+      "distanceKmFromAirport": 26,
+      "description": "Syria's most famous dish - oval shell of bulgur and lamb stuffed with pine nuts and spiced meat",
+      "distance": 0.5,
+      "URL": "https://www.syriatourism.org/"
+    }
+  ]
+}

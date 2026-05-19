@@ -1,0 +1,98 @@
+{
+  "city": "Cali",
+  "country": "Colombia",
+  "airportPostcode": "763547",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Salsa Dancing Lessons",
+      "postcode": "760001",
+      "distanceKmFromAirport": 23,
+      "description": "World capital of salsa - take lessons at Tin Tin Deo and dance all night in the barrios",
+      "distance": 3.0,
+      "URL": "https://www.cali.gov.co/turismo/"
+    },
+    {
+      "rank": 2,
+      "name": "Feria de Cali (December Festival)",
+      "postcode": "760001",
+      "distanceKmFromAirport": 20,
+      "description": "Cali's greatest celebration with salsa parades, concerts and the world salsa championships",
+      "distance": 0.5,
+      "URL": "https://feriadecali.com/"
+    },
+    {
+      "rank": 3,
+      "name": "San Antonio Neighbourhood",
+      "postcode": "760042",
+      "distanceKmFromAirport": 22,
+      "description": "Colonial hilltop quarter with the Plazoleta and bohemian restaurants and bars",
+      "distance": 1.5,
+      "URL": "https://www.cali.gov.co/turismo/"
+    },
+    {
+      "rank": 4,
+      "name": "Cristo Rey Statue",
+      "postcode": "760043",
+      "distanceKmFromAirport": 24,
+      "description": "26m Christ statue on a hilltop with the best views over the valley",
+      "distance": 4.0,
+      "URL": "https://www.cali.gov.co/turismo/"
+    },
+    {
+      "rank": 5,
+      "name": "Museo La Tertulia",
+      "postcode": "760020",
+      "distanceKmFromAirport": 22,
+      "description": "Cali's finest art museum with Colombian modern art and cinema",
+      "distance": 2.5,
+      "URL": "https://www.museodelatertulia.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Zoologico de Cali",
+      "postcode": "760038",
+      "distanceKmFromAirport": 25,
+      "description": "Colombia's best zoo with Andean spectacled bears and diverse Colombian wildlife",
+      "distance": 5.0,
+      "URL": "https://www.zoologicodecali.com.co/"
+    },
+    {
+      "rank": 7,
+      "name": "Valle del Cauca Coffee & Sugarcane",
+      "postcode": "760001",
+      "distanceKmFromAirport": 50,
+      "description": "Tour Colombia's sugar and coffee heartland in the fertile Cauca Valley",
+      "distance": 30.0,
+      "URL": "https://www.cali.gov.co/turismo/"
+    },
+    {
+      "rank": 8,
+      "name": "Cali Cathedral & La Merced Church",
+      "postcode": "760001",
+      "distanceKmFromAirport": 20,
+      "description": "Colonial churches in the historic centre",
+      "distance": 0.5,
+      "URL": "https://www.cali.gov.co/turismo/"
+    },
+    {
+      "rank": 9,
+      "name": "Chipichape & Unicentro Malls",
+      "postcode": "760020",
+      "distanceKmFromAirport": 24,
+      "description": "Cali's elegant shopping culture - Colombia's fashion-conscious second city",
+      "distance": 4.0,
+      "URL": "https://www.chipichape.com.co/"
+    },
+    {
+      "rank": 10,
+      "name": "Sancocho de Gallina",
+      "postcode": "760001",
+      "distanceKmFromAirport": 20,
+      "description": "Cali's definitive dish - traditional chicken and vegetable stew with aji hot sauce",
+      "distance": 0.5,
+      "URL": "https://www.cali.gov.co/turismo/"
+    }
+  ]
+}

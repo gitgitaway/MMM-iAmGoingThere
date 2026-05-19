@@ -1,0 +1,98 @@
+{
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "airportPostcode": "282222",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Burj Khalifa",
+      "postcode": "173262",
+      "distanceKmFromAirport": 17,
+      "description": "World's tallest building at 828m with observation decks on floors 124 and 148",
+      "distance": 11.0,
+      "URL": "https://www.burjkhalifa.ae/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Dubai Mall",
+      "postcode": "173262",
+      "distanceKmFromAirport": 17,
+      "description": "World's largest shopping centre with an aquarium, ice rink and the Dubai Fountain",
+      "distance": 11.0,
+      "URL": "https://www.thedubaimall.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Palm Jumeirah",
+      "postcode": "22479",
+      "distanceKmFromAirport": 26,
+      "description": "Iconic palm-shaped artificial island with luxury hotels and Atlantis resort",
+      "distance": 20.0,
+      "URL": "https://www.thepalm.ae/"
+    },
+    {
+      "rank": 4,
+      "name": "Dubai Creek & Gold Souk",
+      "postcode": "96542",
+      "distanceKmFromAirport": 11,
+      "description": "Historic waterway with abra water taxis, gold and spice souks",
+      "distance": 5.0,
+      "URL": "https://www.visitdubai.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Museum of the Future",
+      "postcode": "123234",
+      "distanceKmFromAirport": 15,
+      "description": "Stunning torus-shaped building showcasing technology and innovations of tomorrow",
+      "distance": 9.0,
+      "URL": "https://www.museumofthefuture.ae/"
+    },
+    {
+      "rank": 6,
+      "name": "Desert Safari",
+      "postcode": "00000",
+      "distanceKmFromAirport": 56,
+      "description": "Dune bashing, camel riding and Bedouin camp dinner in the Arabian desert",
+      "distance": 50.0,
+      "URL": "https://www.visitdubai.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Jumeirah Beach",
+      "postcode": "23412",
+      "distanceKmFromAirport": 22,
+      "description": "Iconic public beach with views of the Burj Al Arab and outdoor fitness culture",
+      "distance": 16.0,
+      "URL": "https://www.visitdubai.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Dubai Frame",
+      "postcode": "10001",
+      "distanceKmFromAirport": 14,
+      "description": "150m picture frame-shaped landmark bridging old and new Dubai with a glass floor bridge",
+      "distance": 8.0,
+      "URL": "https://www.dubaiframe.ae/"
+    },
+    {
+      "rank": 9,
+      "name": "Dubai Museum",
+      "postcode": "96542",
+      "distanceKmFromAirport": 11,
+      "description": "Dubai's oldest building - Al Fahidi Fort - with exhibits on traditional Emirati life",
+      "distance": 5.0,
+      "URL": "https://www.dubaiculture.gov.ae/"
+    },
+    {
+      "rank": 10,
+      "name": "Al Seef Heritage District",
+      "postcode": "96542",
+      "distanceKmFromAirport": 12,
+      "description": "Recreated traditional creek-side heritage district with dhow rides and local food",
+      "distance": 5.5,
+      "URL": "https://www.alseef.com/"
+    }
+  ]
+}

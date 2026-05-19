@@ -1,0 +1,98 @@
+{
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "airportPostcode": "2770",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tivoli Gardens",
+      "postcode": "1630",
+      "distanceKmFromAirport": 14,
+      "description": "Enchanting 19th-century amusement park and pleasure garden in the city centre",
+      "distance": 0.5,
+      "URL": "https://www.tivoli.dk/en"
+    },
+    {
+      "rank": 2,
+      "name": "Nyhavn",
+      "postcode": "1051",
+      "distanceKmFromAirport": 14,
+      "description": "Colourful 17th-century waterfront canal lined with brightly painted townhouses and cafes",
+      "distance": 0.8,
+      "URL": "https://www.visitcopenhagen.com/copenhagen/nyhavn-gdk421498"
+    },
+    {
+      "rank": 3,
+      "name": "The Little Mermaid",
+      "postcode": "2100",
+      "distanceKmFromAirport": 16,
+      "description": "Hans Christian Andersen's beloved bronze statue on a rock in the harbour since 1913",
+      "distance": 3.0,
+      "URL": "https://www.visitcopenhagen.com/copenhagen/the-little-mermaid-gdk421509"
+    },
+    {
+      "rank": 4,
+      "name": "Rosenborg Castle",
+      "postcode": "1350",
+      "distanceKmFromAirport": 14,
+      "description": "Dutch Renaissance castle housing the Danish Crown Jewels and royal regalia",
+      "distance": 1.5,
+      "URL": "https://www.kongernessamling.dk/en/rosenborg/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Denmark",
+      "postcode": "1220",
+      "distanceKmFromAirport": 14,
+      "description": "Denmark's largest museum covering Danish prehistory and Viking Age",
+      "distance": 0.8,
+      "URL": "https://en.natmus.dk/"
+    },
+    {
+      "rank": 6,
+      "name": "Christiania",
+      "postcode": "1440",
+      "distanceKmFromAirport": 15,
+      "description": "Freetown Christiania - autonomous neighbourhood with car-free streets and alternative culture",
+      "distance": 2.0,
+      "URL": "https://www.visitcopenhagen.com/copenhagen/christiania-gdk421478"
+    },
+    {
+      "rank": 7,
+      "name": "Louisiana Museum of Modern Art",
+      "postcode": "3050",
+      "distanceKmFromAirport": 51,
+      "description": "World-class modern art in a stunning coastal setting 35km north of the city",
+      "distance": 38.0,
+      "URL": "https://www.louisiana.dk/en"
+    },
+    {
+      "rank": 8,
+      "name": "Strolling Stroget",
+      "postcode": "1160",
+      "distanceKmFromAirport": 13,
+      "description": "One of Europe's longest pedestrian shopping streets from City Hall to Kongens Nytorv",
+      "distance": 0.3,
+      "URL": "https://www.visitcopenhagen.com/copenhagen/stroeget-gdk421491"
+    },
+    {
+      "rank": 9,
+      "name": "Copenhagen Zoo",
+      "postcode": "1870",
+      "distanceKmFromAirport": 16,
+      "description": "One of Europe's oldest zoos with 3,000 animals including giant pandas",
+      "distance": 3.0,
+      "URL": "https://www.zoo.dk/en"
+    },
+    {
+      "rank": 10,
+      "name": "Designmuseum Danmark",
+      "postcode": "1350",
+      "distanceKmFromAirport": 14,
+      "description": "Denmark's premier design museum charting 300 years of design and applied arts",
+      "distance": 1.5,
+      "URL": "https://designmuseum.dk/en/"
+    }
+  ]
+}

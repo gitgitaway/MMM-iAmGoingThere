@@ -1,0 +1,98 @@
+{
+  "city": "Cork",
+  "country": "Ireland",
+  "airportPostcode": "T34 XK20",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Blarney Castle & Stone",
+      "postcode": "T23 V002",
+      "distanceKmFromAirport": 17,
+      "description": "Medieval castle where kissing the famous stone is said to bestow the gift of eloquence",
+      "distance": 9.0,
+      "URL": "https://www.blarneycastle.ie/"
+    },
+    {
+      "rank": 2,
+      "name": "English Market",
+      "postcode": "T12 XH79",
+      "distanceKmFromAirport": 8,
+      "description": "Covered food market in operation since 1788, visited by Queen Elizabeth II in 2011",
+      "distance": 0.3,
+      "URL": "https://www.englishmarket.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "Cork City Gaol",
+      "postcode": "T12 RN84",
+      "distanceKmFromAirport": 10,
+      "description": "Fascinating 19th-century prison museum telling stories of hardship and survival",
+      "distance": 2.5,
+      "URL": "https://www.corkcitygaol.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Crawford Art Gallery",
+      "postcode": "T12 TNE6",
+      "distanceKmFromAirport": 8,
+      "description": "Free public art gallery with a superb collection of Irish and European art",
+      "distance": 0.3,
+      "URL": "https://www.crawfordartgallery.ie/"
+    },
+    {
+      "rank": 5,
+      "name": "St Fin Barre's Cathedral",
+      "postcode": "T12 E229",
+      "distanceKmFromAirport": 9,
+      "description": "Stunning French Gothic Revival cathedral with intricate stonework",
+      "distance": 0.8,
+      "URL": "https://www.corkcathedral.webs.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Cobh Heritage Centre",
+      "postcode": "P24 AD90",
+      "distanceKmFromAirport": 32,
+      "description": "Titanic's last port of call with the story of Irish emigration",
+      "distance": 24.0,
+      "URL": "https://www.cobhheritage.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Spike Island",
+      "postcode": "P24 T272",
+      "distanceKmFromAirport": 32,
+      "description": "Island fortress and former prison with guided tours in Cork Harbour",
+      "distance": 24.0,
+      "URL": "https://spikeislandcork.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Elizabeth Fort",
+      "postcode": "T12 FY38",
+      "distanceKmFromAirport": 8,
+      "description": "17th-century star-shaped fortress with panoramic views over the city",
+      "distance": 0.5,
+      "URL": "https://www.corkcity.ie/en/elizabeth-fort/"
+    },
+    {
+      "rank": 9,
+      "name": "Shandon Bells & Tower",
+      "postcode": "T23 HK82",
+      "distanceKmFromAirport": 9,
+      "description": "Iconic 18th-century church tower where visitors can ring the famous bells",
+      "distance": 1.0,
+      "URL": "https://www.shandonbells.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Kinsale",
+      "postcode": "P17 PY17",
+      "distanceKmFromAirport": 36,
+      "description": "Picturesque harbour town just south of Cork with gourmet restaurants and historic forts",
+      "distance": 28.0,
+      "URL": "https://www.kinsale.ie/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Cusco",
+  "country": "Peru",
+  "airportPostcode": "08003",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Machu Picchu",
+      "postcode": "08681",
+      "distanceKmFromAirport": 85,
+      "description": "UNESCO World Heritage Inca citadel above the clouds - take the Hiram Bingham train",
+      "distance": 80.0,
+      "URL": "https://machupicchu.gob.pe/"
+    },
+    {
+      "rank": 2,
+      "name": "Sacred Valley of the Incas",
+      "postcode": "08661",
+      "distanceKmFromAirport": 50,
+      "description": "Pisac market, Ollantaytambo fortress and salt pans of Maras",
+      "distance": 45.0,
+      "URL": "https://www.peru.travel/en/destinations/cusco/sacred-valley"
+    },
+    {
+      "rank": 3,
+      "name": "Sacsayhuaman Fortress",
+      "postcode": "08001",
+      "distanceKmFromAirport": 8,
+      "description": "Megalithic Inca fortress above Cusco with stones weighing 360 tons",
+      "distance": 2.5,
+      "URL": "https://www.peru.travel/en/attractions/sacsayhuaman"
+    },
+    {
+      "rank": 4,
+      "name": "Plaza de Armas",
+      "postcode": "08001",
+      "distanceKmFromAirport": 5,
+      "description": "Inca square at the heart of the former Inca Empire capital with cathedral and La Compania",
+      "distance": 0.1,
+      "URL": "https://www.peru.travel/en/attractions/plaza-de-armas-cusco"
+    },
+    {
+      "rank": 5,
+      "name": "Inca Trail Hike",
+      "postcode": "08001",
+      "distanceKmFromAirport": 85,
+      "description": "4-day classic trek through cloud forest and Inca ruins to Machu Picchu",
+      "distance": 80.0,
+      "URL": "https://www.peru.travel/en/activities/inca-trail"
+    },
+    {
+      "rank": 6,
+      "name": "Qorikancha (Sun Temple)",
+      "postcode": "08001",
+      "distanceKmFromAirport": 6,
+      "description": "Most sacred Inca temple - its gold-lined walls were stripped by the Spanish conquistadors",
+      "distance": 0.5,
+      "URL": "https://www.peru.travel/en/attractions/qorikancha"
+    },
+    {
+      "rank": 7,
+      "name": "San Pedro Market",
+      "postcode": "08001",
+      "distanceKmFromAirport": 6,
+      "description": "Local market with Andean superfoods, guinea pig and traditional textiles",
+      "distance": 0.5,
+      "URL": "https://www.peru.travel/en/attractions/san-pedro-market-cusco"
+    },
+    {
+      "rank": 8,
+      "name": "Rainbow Mountain (Vinicunca)",
+      "postcode": "08001",
+      "distanceKmFromAirport": 105,
+      "description": "Striped mineral mountain at 5,200m with extraordinary coloured layers",
+      "distance": 100.0,
+      "URL": "https://www.peru.travel/en/attractions/rainbow-mountain"
+    },
+    {
+      "rank": 9,
+      "name": "Pisco Sour at Museo del Pisco",
+      "postcode": "08001",
+      "distanceKmFromAirport": 5,
+      "description": "Peru's national cocktail made from Quebranta grapes at its finest bar",
+      "distance": 0.3,
+      "URL": "https://www.museodelpisco.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Inti Raymi Festival (June 24)",
+      "postcode": "08001",
+      "distanceKmFromAirport": 8,
+      "description": "Festival of the Sun at Sacsayhuaman - Cusco's greatest Inca ceremony",
+      "distance": 2.5,
+      "URL": "https://www.peru.travel/en/fiestas/inti-raymi"
+    }
+  ]
+}

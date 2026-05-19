@@ -1,0 +1,98 @@
+{
+  "city": "Dortmund",
+  "country": "Germany",
+  "airportPostcode": "44319",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Signal Iduna Park (BVB Stadium)",
+      "postcode": "44137",
+      "distanceKmFromAirport": 18,
+      "description": "Borussia Dortmund's iconic stadium with Europe's largest standing terrace, the Yellow Wall",
+      "distance": 3.5,
+      "URL": "https://www.bvb.de/eng/bvb/the-club/signal-iduna-park"
+    },
+    {
+      "rank": 2,
+      "name": "Dortmund U - Museum Ostwall",
+      "postcode": "44137",
+      "distanceKmFromAirport": 15,
+      "description": "Striking former brewery-turned-cultural centre with contemporary art and rooftop city views",
+      "distance": 1.0,
+      "URL": "https://www.dortmunder-u.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Westfalenpark",
+      "postcode": "44141",
+      "distanceKmFromAirport": 18,
+      "description": "Vast park with the Florian television tower, rose gardens and the Freddo the Cat roller coaster",
+      "distance": 4.0,
+      "URL": "https://www.westfalenpark.de/"
+    },
+    {
+      "rank": 4,
+      "name": "German Football Museum",
+      "postcode": "44135",
+      "distanceKmFromAirport": 14,
+      "description": "State-of-the-art museum celebrating German football history opposite Dortmund's central station",
+      "distance": 0.5,
+      "URL": "https://fussballmuseum.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Hoesch Museum",
+      "postcode": "44145",
+      "distanceKmFromAirport": 18,
+      "description": "Industrial heritage museum documenting Dortmund's steel industry history",
+      "distance": 3.5,
+      "URL": "https://www.hoesch-museum.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Old Market Square (Alter Markt)",
+      "postcode": "44137",
+      "distanceKmFromAirport": 15,
+      "description": "Historic market square in the old town with traditional taverns and the famous Dortmund beer scene",
+      "distance": 0.8,
+      "URL": "https://www.dortmund.de/en/tourism/"
+    },
+    {
+      "rank": 7,
+      "name": "Reinoldikirche",
+      "postcode": "44137",
+      "distanceKmFromAirport": 14,
+      "description": "Gothic church dedicated to Dortmund's patron saint with a 104-metre tower dating to 1340",
+      "distance": 0.5,
+      "URL": "https://www.reinoldikirche.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Zeche Zollern (Mining Museum)",
+      "postcode": "44388",
+      "distanceKmFromAirport": 23,
+      "description": "The Cathedral of Labour — Art Nouveau colliery now a museum of the Ruhr mining heritage",
+      "distance": 9.0,
+      "URL": "https://www.lwl.org/en/LWL/Kultur/lwl-industriemuseum/standorte/zollern/"
+    },
+    {
+      "rank": 9,
+      "name": "Max Reger Park & Rombergpark Botanical Garden",
+      "postcode": "44225",
+      "distanceKmFromAirport": 20,
+      "description": "Beautiful botanical garden with over 3,000 plant species including historic arboretum",
+      "distance": 6.0,
+      "URL": "https://www.dortmund.de/en/leisure_and_sport/parks/"
+    },
+    {
+      "rank": 10,
+      "name": "Cologne Day Trip",
+      "postcode": "50667",
+      "distanceKmFromAirport": 89,
+      "description": "75-minute train to Cologne — the magnificent Gothic cathedral, Hohenzollern Bridge and Rhine promenade",
+      "distance": 75.0,
+      "URL": "https://www.cologne-tourism.com/en/"
+    }
+  ]
+}

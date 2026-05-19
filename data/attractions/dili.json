@@ -1,0 +1,98 @@
+{
+  "city": "Dili",
+  "country": "Timor-Leste",
+  "airportPostcode": "101",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cristo Rei of Dili",
+      "postcode": "101",
+      "distanceKmFromAirport": 11,
+      "description": "27m statue of Christ on a hilltop - a gift from Portugal, similar to Rio's but 3m taller",
+      "distance": 5.0,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 2,
+      "name": "Atauro Island",
+      "postcode": "101",
+      "distanceKmFromAirport": 46,
+      "description": "40km offshore island with the world's highest marine biodiversity above a coral reef",
+      "distance": 40.0,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 3,
+      "name": "Chega! Exhibition (Resistance Archive)",
+      "postcode": "101",
+      "distanceKmFromAirport": 8,
+      "description": "Powerful exhibition documenting the Indonesian occupation and Timorese resistance",
+      "distance": 1.5,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 4,
+      "name": "Patimar Beach",
+      "postcode": "101",
+      "distanceKmFromAirport": 13,
+      "description": "Clean beach walk west of Dili with excellent snorkelling",
+      "distance": 7.0,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 5,
+      "name": "Tais Market",
+      "postcode": "101",
+      "distanceKmFromAirport": 7,
+      "description": "Dili's main crafts market for traditional Timorese tais woven cloth - a UNESCO heritage art",
+      "distance": 1.0,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 6,
+      "name": "Santa Cruz Cemetery Memorial",
+      "postcode": "101",
+      "distanceKmFromAirport": 8,
+      "description": "Site of the 1991 Santa Cruz massacre that shocked the world and led to independence",
+      "distance": 2.5,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 7,
+      "name": "Xanana Gusmao Reading Room",
+      "postcode": "101",
+      "distanceKmFromAirport": 8,
+      "description": "Library and cultural centre named after Timor-Leste's first president",
+      "distance": 1.5,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 8,
+      "name": "Dare Memorial (Dare Ridge)",
+      "postcode": "101",
+      "distanceKmFromAirport": 16,
+      "description": "WWII memorial site and panoramic views over Dili from the hills",
+      "distance": 10.0,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 9,
+      "name": "Maubisse & Same Mountain Drive",
+      "postcode": "101",
+      "distanceKmFromAirport": 96,
+      "description": "Portuguese colonial hill stations with cool air, coffee plantations and dramatic scenery",
+      "distance": 90.0,
+      "URL": "https://www.timorleste.tl/"
+    },
+    {
+      "rank": 10,
+      "name": "Batar Toor (Corn Soup)",
+      "postcode": "101",
+      "distanceKmFromAirport": 6,
+      "description": "Timor-Leste's signature dish - corn and sweet potato soup with coconut milk and pork",
+      "distance": 0.5,
+      "URL": "https://www.timorleste.tl/"
+    }
+  ]
+}

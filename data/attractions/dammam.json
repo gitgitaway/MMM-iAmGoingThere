@@ -1,0 +1,98 @@
+{
+  "city": "Dammam",
+  "country": "Saudi Arabia",
+  "airportPostcode": "31961",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Half Moon Bay",
+      "postcode": "34814",
+      "distanceKmFromAirport": 65,
+      "description": "Stunning crescent-shaped beach 30km from Dammam with shallow turquoise water and coral",
+      "distance": 30.0,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Al-Ahsa Oasis",
+      "postcode": "36361",
+      "distanceKmFromAirport": 130,
+      "description": "UNESCO World Heritage world's largest natural oasis with date palm groves and springs",
+      "distance": 95.0,
+      "URL": "https://whc.unesco.org/en/list/1563/"
+    },
+    {
+      "rank": 3,
+      "name": "Corniche Dammam",
+      "postcode": "32244",
+      "distanceKmFromAirport": 37,
+      "description": "6km waterfront promenade along the Arabian Gulf with parks and the globe roundabout",
+      "distance": 2.0,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 4,
+      "name": "King Fahd Causeway",
+      "postcode": "34428",
+      "distanceKmFromAirport": 70,
+      "description": "25km causeway connecting Saudi Arabia to Bahrain across the Arabian Gulf",
+      "distance": 35.0,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Tarout Island",
+      "postcode": "31721",
+      "distanceKmFromAirport": 65,
+      "description": "Historic island with a Portuguese castle, 5,000-year-old ruins and traditional fishing village",
+      "distance": 30.0,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Regional Museum of the Eastern Province",
+      "postcode": "32244",
+      "distanceKmFromAirport": 38,
+      "description": "Archaeology and natural history of the Eastern Province from prehistoric times",
+      "distance": 3.0,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Dammam Waterfront",
+      "postcode": "32244",
+      "distanceKmFromAirport": 38,
+      "description": "Entertainment hub with restaurants, food trucks and the Marina Village",
+      "distance": 2.5,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Ithra (King Abdulaziz Centre for World Culture)",
+      "postcode": "31311",
+      "distanceKmFromAirport": 55,
+      "description": "Stunning cultural centre designed like stacked stones with a library and museum",
+      "distance": 20.0,
+      "URL": "https://www.ithra.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Rahima Beach",
+      "postcode": "31941",
+      "distanceKmFromAirport": 80,
+      "description": "Sandy beach north of the city with good swimming and calm conditions",
+      "distance": 45.0,
+      "URL": "https://www.visitsaudi.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Al-Khobar Al-Khabra Traditional Village",
+      "postcode": "34622",
+      "distanceKmFromAirport": 50,
+      "description": "Reconstructed traditional fishing village demonstrating pre-oil Eastern Province life",
+      "distance": 15.0,
+      "URL": "https://www.visitsaudi.com/"
+    }
+  ]
+}

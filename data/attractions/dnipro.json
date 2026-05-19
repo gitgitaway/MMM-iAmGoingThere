@@ -1,0 +1,98 @@
+{
+  "city": "Dnipro",
+  "country": "Ukraine",
+  "airportPostcode": "49042",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Dnipro Embankment",
+      "postcode": "49000",
+      "distanceKmFromAirport": 16,
+      "description": "One of Europe's longest river embankments stretching 23km along the Dnipro River; a beloved promenade with parks, fountains and panoramic views of the wide river and islands",
+      "distance": 2.0,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Dnipropetrovsk National Historical Museum",
+      "postcode": "49044",
+      "distanceKmFromAirport": 16,
+      "description": "Major regional museum with over 200,000 items covering the Scythian and Cossack eras, the city's industrial history and WWII exhibits reflecting Ukraine's complex past",
+      "distance": 1.5,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Yuzhmash Space Museum",
+      "postcode": "49008",
+      "distanceKmFromAirport": 16,
+      "description": "Unique museum at the Yuzhnoye Rocket Design Bureau, one of the world's leading rocket factories; exhibits on Soviet space exploration and the Dnipro rocket programme",
+      "distance": 3.0,
+      "URL": "https://www.yuzhnoye.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Potemkin Palace",
+      "postcode": "49000",
+      "distanceKmFromAirport": 16,
+      "description": "Magnificent late 18th-century neoclassical palace commissioned by Prince Potemkin, favourite of Catherine the Great; one of the finest Baroque-Neoclassical buildings in Ukraine",
+      "distance": 1.0,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Monastery Island (Monastyrsky Ostrov)",
+      "postcode": "49000",
+      "distanceKmFromAirport": 16,
+      "description": "Largest island in the Dnipro within the city; a green oasis with walking paths, beaches and the ruins of a 16th-century monastery; popular with locals for swimming in summer",
+      "distance": 2.5,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Dnipro Art Museum",
+      "postcode": "49044",
+      "distanceKmFromAirport": 16,
+      "description": "Regional gallery with outstanding collections of Ukrainian art from the 17th to 21st centuries including works by Aivazovsky; one of Ukraine's finest provincial art museums",
+      "distance": 1.5,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Transfiguration Cathedral",
+      "postcode": "49000",
+      "distanceKmFromAirport": 16,
+      "description": "Classical 19th-century Orthodox cathedral and one of the landmarks of Dnipro's historic centre; the burial place of Prince Potemkin and a major centre of Orthodox worship",
+      "distance": 1.0,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Karl Marx Prospect (Main Avenue)",
+      "postcode": "49000",
+      "distanceKmFromAirport": 16,
+      "description": "Dnipro's grand central avenue lined with impressive Soviet-era architecture, shops and restaurants; wide and tree-lined, it reflects the Soviet-era industrial city planning",
+      "distance": 1.0,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Gogol Theatre",
+      "postcode": "49044",
+      "distanceKmFromAirport": 16,
+      "description": "One of Ukraine's leading academic drama theatres in an imposing neoclassical building; performances celebrating Ukrainian and world dramatic literature with a strong local ensemble",
+      "distance": 1.5,
+      "URL": "https://www.dnipro.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Olimpiyskyi Stadium",
+      "postcode": "49000",
+      "distanceKmFromAirport": 16,
+      "description": "Home of FC Dnipro Dnipropetrovsk with 31,003 capacity; the club was 2014-15 UEFA Europa League finalist, reaching the final at Warsaw before losing to Sevilla",
+      "distance": 3.0,
+      "URL": "https://www.dnipro.travel/"
+    }
+  ]
+}

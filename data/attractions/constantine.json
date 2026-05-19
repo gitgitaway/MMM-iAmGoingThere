@@ -1,0 +1,98 @@
+{
+  "city": "Constantine",
+  "country": "Algeria",
+  "airportPostcode": "25000",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Rhummel Gorge & Suspension Bridges",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "City built on a rock plateau with dramatic 200m gorges spanned by seven bridges",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 2,
+      "name": "Sidi M'Cid Bridge",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "110m suspension bridge hanging over the gorge - finest in Africa when built in 1912",
+      "distance": 1.5,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 3,
+      "name": "Palace of Ahmed Bey",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "1835 Ottoman palace with the finest Algerian tilework, stucco and painted ceilings",
+      "distance": 0.8,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee National Cirta",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "Algeria's second oldest museum with Numidian royal coins and Roman artefacts",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 5,
+      "name": "Emir Abdelkader Mosque",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "1994 mega-mosque with one of Africa's largest domes and a library of Islamic manuscripts",
+      "distance": 1.0,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 6,
+      "name": "Old City (El-Qasba)",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "Ottoman-era medina with traditional houses, souqs and a Moorish bathhouse",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 7,
+      "name": "Timgad Roman Ruins Day Trip",
+      "postcode": "04500",
+      "distanceKmFromAirport": 119,
+      "description": "UNESCO World Heritage perfectly planned Roman colonial city 110km south",
+      "distance": 110.0,
+      "URL": "https://whc.unesco.org/en/list/193"
+    },
+    {
+      "rank": 8,
+      "name": "Djemila Roman Ruins Day Trip",
+      "postcode": "18000",
+      "distanceKmFromAirport": 84,
+      "description": "UNESCO World Heritage Roman city in the mountains",
+      "distance": 75.0,
+      "URL": "https://whc.unesco.org/en/list/191"
+    },
+    {
+      "rank": 9,
+      "name": "Cable Car over the Gorge",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "Cable car crossing the Rhummel gorge with views of the rock city",
+      "distance": 1.0,
+      "URL": "https://www.tourisme.gov.dz/"
+    },
+    {
+      "rank": 10,
+      "name": "Baghrir Semolina Pancakes",
+      "postcode": "25000",
+      "distanceKmFromAirport": 10,
+      "description": "Algerian thousand-hole pancakes eaten with honey and butter",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.dz/"
+    }
+  ]
+}

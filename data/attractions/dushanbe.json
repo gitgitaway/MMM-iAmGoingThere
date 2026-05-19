@@ -1,0 +1,98 @@
+{
+  "city": "Dushanbe",
+  "country": "Tajikistan",
+  "airportPostcode": "734025",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Museum of Tajikistan",
+      "postcode": "734000",
+      "distanceKmFromAirport": 6,
+      "description": "Tajikistan's largest museum with the world's largest reclining Buddha statue (13m)",
+      "distance": 1.5,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 2,
+      "name": "Rudaki Avenue",
+      "postcode": "734001",
+      "distanceKmFromAirport": 5,
+      "description": "Dushanbe's grand tree-lined main avenue with fountains, palaces and the world's tallest flagpole",
+      "distance": 0.2,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 3,
+      "name": "World's Tallest Flagpole",
+      "postcode": "734001",
+      "distanceKmFromAirport": 6,
+      "description": "165m flagpole flying the Tajik flag - held the record as world's tallest flagpole",
+      "distance": 0.5,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 4,
+      "name": "Hisor Fortress",
+      "postcode": "734012",
+      "distanceKmFromAirport": 30,
+      "description": "Ancient fortress 25km from Dushanbe with 3,000 years of history on the Silk Road",
+      "distance": 25,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 5,
+      "name": "Ismoil Somoni Park",
+      "postcode": "734001",
+      "distanceKmFromAirport": 5,
+      "description": "Central park with the Rudaki Monument, fountains and Tajik cultural performances",
+      "distance": 0.3,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 6,
+      "name": "Green Bazaar (Bozori Sabza)",
+      "postcode": "734001",
+      "distanceKmFromAirport": 6,
+      "description": "Traditional market with Tajik spices, dried fruits, suzani embroidery and handicrafts",
+      "distance": 0.5,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 7,
+      "name": "Dushanbe Opera and Ballet Theatre",
+      "postcode": "734001",
+      "distanceKmFromAirport": 6,
+      "description": "Soviet-era cultural landmark with performances of classical music and Tajik folklore",
+      "distance": 0.5,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 8,
+      "name": "Fann Mountains Trekking",
+      "postcode": "735600",
+      "distanceKmFromAirport": 205,
+      "description": "World-class alpine hiking 200km from Dushanbe with the turquoise Iskanderkul lake",
+      "distance": 200,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 9,
+      "name": "Gurminj Museum of Musical Instruments",
+      "postcode": "734001",
+      "distanceKmFromAirport": 6,
+      "description": "Personal collection of traditional Tajik and Central Asian musical instruments",
+      "distance": 1,
+      "URL": "https://www.tajikistantourism.tj"
+    },
+    {
+      "rank": 10,
+      "name": "Varzob Gorge Day Trip",
+      "postcode": "734032",
+      "distanceKmFromAirport": 35,
+      "description": "Scenic river gorge 30km north of Dushanbe with sanatoriums and hiking trails",
+      "distance": 30,
+      "URL": "https://www.tajikistantourism.tj"
+    }
+  ]
+}

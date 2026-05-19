@@ -1,0 +1,98 @@
+{
+  "city": "Celje",
+  "country": "Slovenia",
+  "airportPostcode": "3211",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Celje Castle (Stari Grad)",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "One of Slovenia's largest and best-preserved medieval castles, the former seat of the Counts of Celje, with a dramatic hilltop setting and panoramic views",
+      "distance": 2.0,
+      "URL": "https://www.celje.si/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Museum of Recent History Celje",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Modern museum in a renovated Old County Hall with engaging exhibitions on Celje's Roman heritage, the Counts of Celje and 20th-century history",
+      "distance": 0.5,
+      "URL": "https://www.muzej-nz-ce.si/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Celje Regional Museum",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Housed in the Princes' Palace, this museum displays archaeological treasures from Roman Celeia including the famous Celje Ceiling and classical artefacts",
+      "distance": 0.5,
+      "URL": "https://www.pokmuz-ce.si/sl/home/"
+    },
+    {
+      "rank": 4,
+      "name": "Main Square (Glavni trg)",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "The historic heart of Celje with the Plague Memorial from 1776, baroque Town Hall and the remains of the Roman forum beneath the cobblestones",
+      "distance": 0.3,
+      "URL": "https://www.celje.si/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Heroj Shpark",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Central city park along the Savinja riverbank with walking paths, sports facilities and a leisure atmosphere in the heart of Celje",
+      "distance": 0.8,
+      "URL": "https://www.celje.si/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Counts of Celje Trail",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Heritage walking trail connecting all major monuments associated with the powerful medieval Counts of Celje family, who ruled much of Central Europe",
+      "distance": 1.0,
+      "URL": "https://www.celje.si/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Thermal Spa Lasko",
+      "postcode": "3270",
+      "distanceKmFromAirport": 18,
+      "description": "Popular thermal spa resort 10km from Celje in the valley town of Lasko, famous for its brewery and natural thermal waters",
+      "distance": 10.0,
+      "URL": "https://www.thermana.si/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Celje Cathedral (St. Daniel's)",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Gothic cathedral from the 13th century dedicated to St. Daniel, with notable Renaissance chapels and the tomb of the last Count of Celje",
+      "distance": 0.4,
+      "URL": "https://www.celje.si/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Savinja River Waterfront",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Scenic riverside promenade along the emerald-green Savinja with kayaking in summer, cafes and views to the hills and forests surrounding Celje",
+      "distance": 1.0,
+      "URL": "https://www.celje.si/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Z'dezele Arena",
+      "postcode": "3000",
+      "distanceKmFromAirport": 13,
+      "description": "Home of NK Celje, 2023-24 Slovenian champions who made history by qualifying for the UEFA Conference League group stage",
+      "distance": 1.5,
+      "URL": "https://www.nkcelje.si/"
+    }
+  ]
+}

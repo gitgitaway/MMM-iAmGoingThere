@@ -1,0 +1,98 @@
+{
+  "city": "Dakar",
+  "country": "Senegal",
+  "airportPostcode": "BP 22600",
+  "airportDistanceKm": 47,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Goree Island (Ile de Goree)",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 50,
+      "description": "UNESCO World Heritage slave trade island with the haunting Maison des Esclaves",
+      "distance": 3.5,
+      "URL": "https://whc.unesco.org/en/list/26/"
+    },
+    {
+      "rank": 2,
+      "name": "African Renaissance Monument",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 54,
+      "description": "49m bronze statue - Africa's largest - on a hilltop overlooking Dakar and the Atlantic",
+      "distance": 7.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "IFAN Museum of African Arts",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 50,
+      "description": "West Africa's finest collection of traditional masks, sculpture and textiles",
+      "distance": 2.5,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Corniche Beach & Almadies Cape",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 59,
+      "description": "Atlantic cliffs and beaches at Africa's westernmost point",
+      "distance": 12.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Grand Mosque of Dakar",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 49,
+      "description": "1964 mosque built with Moroccan craftsmen with a 67m minaret",
+      "distance": 2.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Marche Kermel & Sandaga Market",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 49,
+      "description": "Art deco covered market with produce and the nearby Sandaga general market",
+      "distance": 2.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Pink Lake (Lac Rose)",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 82,
+      "description": "Bubblegum-pink lake 35km north of Dakar - the finish line of the Paris-Dakar Rally",
+      "distance": 35.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Ngor Island",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 62,
+      "description": "15-minute pirogue ride to a traditional fishing island with restaurants and surf breaks",
+      "distance": 15.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Village des Arts",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 56,
+      "description": "Artist studios open to the public in a complex of workshops",
+      "distance": 9.0,
+      "URL": "https://www.senegal-tourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Thieboudienne Fish Stew",
+      "postcode": "BP 22600",
+      "distanceKmFromAirport": 48,
+      "description": "Senegal's national dish - fish and rice cooked in tomato and herb sauce",
+      "distance": 0.5,
+      "URL": "https://www.senegal-tourism.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Canberra",
+  "country": "Australia",
+  "airportPostcode": "ACT 2609",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Australian War Memorial",
+      "postcode": "ACT 2612",
+      "distanceKmFromAirport": 12,
+      "description": "World's greatest war memorial with an extraordinary collection and the Roll of Honour",
+      "distance": 3.5,
+      "URL": "https://www.awm.gov.au/"
+    },
+    {
+      "rank": 2,
+      "name": "Parliament House",
+      "postcode": "ACT 2600",
+      "distanceKmFromAirport": 10,
+      "description": "Striking 1988 building embedded in Capital Hill with free public tours and rooftop lawn",
+      "distance": 2.5,
+      "URL": "https://www.aph.gov.au/Visit_Parliament"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of Australia",
+      "postcode": "ACT 2601",
+      "distanceKmFromAirport": 10,
+      "description": "Stories of the land, the nation and the people from the shoreline of Lake Burley Griffin",
+      "distance": 2.0,
+      "URL": "https://www.nma.gov.au/"
+    },
+    {
+      "rank": 4,
+      "name": "National Gallery of Australia",
+      "postcode": "ACT 2601",
+      "distanceKmFromAirport": 10,
+      "description": "Australia's premier art museum with Aboriginal and Torres Strait Islander collection",
+      "distance": 2.5,
+      "URL": "https://www.nga.gov.au/"
+    },
+    {
+      "rank": 5,
+      "name": "Questacon - National Science & Technology Centre",
+      "postcode": "ACT 2601",
+      "distanceKmFromAirport": 10,
+      "description": "Hands-on science museum with 200 exhibits loved by all ages",
+      "distance": 2.5,
+      "URL": "https://www.questacon.edu.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Australian National Botanic Gardens",
+      "postcode": "ACT 2601",
+      "distanceKmFromAirport": 11,
+      "description": "Australian native plant collection on the slopes of Black Mountain",
+      "distance": 3.0,
+      "URL": "https://www.anbg.gov.au/anbg/"
+    },
+    {
+      "rank": 7,
+      "name": "Lake Burley Griffin",
+      "postcode": "ACT 2601",
+      "distanceKmFromAirport": 10,
+      "description": "Central lake with the Captain Cook Memorial Water Jet and cycling paths",
+      "distance": 1.5,
+      "URL": "https://www.nationalcapital.gov.au/lake-burley-griffin"
+    },
+    {
+      "rank": 8,
+      "name": "Tidbinbilla Nature Reserve",
+      "postcode": "ACT 2620",
+      "distanceKmFromAirport": 48,
+      "description": "Wildlife sanctuary 40 minutes from the city with platypus, koalas and kangaroos",
+      "distance": 40.0,
+      "URL": "https://www.tidbinbilla.act.gov.au/"
+    },
+    {
+      "rank": 9,
+      "name": "Floriade Spring Festival",
+      "postcode": "ACT 2601",
+      "distanceKmFromAirport": 10,
+      "description": "Million-flower tulip festival in Commonwealth Park each September-October",
+      "distance": 1.5,
+      "URL": "https://www.floriadeaustralia.com/"
+    },
+    {
+      "rank": 10,
+      "name": "National Library of Australia",
+      "postcode": "ACT 2600",
+      "distanceKmFromAirport": 10,
+      "description": "Repository of Australian heritage with the Treasures Gallery and Gutenberg Bible",
+      "distance": 2.5,
+      "URL": "https://www.nla.gov.au/"
+    }
+  ]
+}

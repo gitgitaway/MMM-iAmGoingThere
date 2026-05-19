@@ -1,0 +1,98 @@
+{
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "airportPostcode": "1229",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lalbagh Fort",
+      "postcode": "1211",
+      "distanceKmFromAirport": 23,
+      "description": "17th-century Mughal fortress with three structures including the tomb of Pari Bibi",
+      "distance": 5.0,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 2,
+      "name": "Ahsan Manzil (Pink Palace)",
+      "postcode": "1211",
+      "distanceKmFromAirport": 24,
+      "description": "Victorian-era pink palace of the Nawabs of Dhaka, now a museum",
+      "distance": 5.5,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 3,
+      "name": "Old Dhaka (Puran Dhaka)",
+      "postcode": "1211",
+      "distanceKmFromAirport": 23,
+      "description": "18th-century Nawab-era old city with rickshaws, Mughal mosques and street food",
+      "distance": 5.0,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 4,
+      "name": "Buriganga River Boat Trip",
+      "postcode": "1211",
+      "distanceKmFromAirport": 24,
+      "description": "Boat journey on the river past the 17th-century Mughal sites of old Dhaka",
+      "distance": 5.5,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 5,
+      "name": "Star Mosque (Tara Masjid)",
+      "postcode": "1211",
+      "distanceKmFromAirport": 24,
+      "description": "Extraordinary 18th-century mosque covered in blue and white star-motif Chinese porcelain",
+      "distance": 5.5,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of Bangladesh",
+      "postcode": "1000",
+      "distanceKmFromAirport": 20,
+      "description": "Bangladesh's largest museum with ancient Hindu and Buddhist sculpture",
+      "distance": 2.0,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 7,
+      "name": "Liberation War Museum",
+      "postcode": "1000",
+      "distanceKmFromAirport": 20,
+      "description": "Moving museum dedicated to the 1971 Bangladesh Liberation War and genocide",
+      "distance": 2.5,
+      "URL": "https://www.liberationwarmuseumdhaka.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Dhaka Zoo",
+      "postcode": "1216",
+      "distanceKmFromAirport": 28,
+      "description": "Large zoo with Bengal tigers, Royal Bengal tigresses and gharial crocodiles",
+      "distance": 10.0,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    },
+    {
+      "rank": 9,
+      "name": "Sundarbans Day Trip",
+      "postcode": "9300",
+      "distanceKmFromAirport": 308,
+      "description": "UNESCO World Heritage mangrove forest - the world's largest, home to Bengal tigers",
+      "distance": 290.0,
+      "URL": "https://whc.unesco.org/en/list/798/"
+    },
+    {
+      "rank": 10,
+      "name": "Kacchi Biryani at Old Dhaka",
+      "postcode": "1211",
+      "distanceKmFromAirport": 23,
+      "description": "Dhaka's legendary mutton biryani slow-cooked in sealed earthenware pots",
+      "distance": 5.0,
+      "URL": "https://www.bangladeshtourism.gov.bd/"
+    }
+  ]
+}

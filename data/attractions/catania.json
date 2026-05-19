@@ -1,0 +1,98 @@
+{
+  "city": "Catania",
+  "country": "Italy",
+  "airportPostcode": "95030",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mount Etna",
+      "postcode": "95030",
+      "distanceKmFromAirport": 37,
+      "description": "Europe's highest and most active volcano, reachable by cable car from Catania",
+      "distance": 30.0,
+      "URL": "https://www.parcoetna.it/"
+    },
+    {
+      "rank": 2,
+      "name": "Piazza del Duomo",
+      "postcode": "95131",
+      "distanceKmFromAirport": 7,
+      "description": "Baroque square with the Fontana dell'Elefante and stunning cathedral facade",
+      "distance": 0.2,
+      "URL": "https://www.comune.catania.it/"
+    },
+    {
+      "rank": 3,
+      "name": "Catania Cathedral",
+      "postcode": "95131",
+      "distanceKmFromAirport": 7,
+      "description": "Baroque cathedral built over Roman ruins with the relics of patron St Agatha",
+      "distance": 0.2,
+      "URL": "https://www.cattedraledicatania.it/"
+    },
+    {
+      "rank": 4,
+      "name": "La Pescheria Fish Market",
+      "postcode": "95131",
+      "distanceKmFromAirport": 7,
+      "description": "Vibrant early morning fish market in the historic centre, a sensory explosion",
+      "distance": 0.3,
+      "URL": "https://www.comune.catania.it/"
+    },
+    {
+      "rank": 5,
+      "name": "Roman Amphitheatre",
+      "postcode": "95129",
+      "distanceKmFromAirport": 8,
+      "description": "Partially excavated 2nd-century amphitheatre on Piazza Stesicoro",
+      "distance": 0.5,
+      "URL": "https://www.comune.catania.it/"
+    },
+    {
+      "rank": 6,
+      "name": "Ursino Castle",
+      "postcode": "95121",
+      "distanceKmFromAirport": 8,
+      "description": "13th-century Hohenstaufen castle housing the Civic Museum collections",
+      "distance": 0.7,
+      "URL": "https://www.comune.catania.it/"
+    },
+    {
+      "rank": 7,
+      "name": "Via Etnea",
+      "postcode": "95129",
+      "distanceKmFromAirport": 8,
+      "description": "Long basalt lava-stone boulevard stretching from the cathedral towards Etna",
+      "distance": 0.5,
+      "URL": "https://www.comune.catania.it/"
+    },
+    {
+      "rank": 8,
+      "name": "Villa Bellini",
+      "postcode": "95128",
+      "distanceKmFromAirport": 8,
+      "description": "Beloved city park with fountain and busts of Sicilian celebrities",
+      "distance": 0.8,
+      "URL": "https://www.comune.catania.it/"
+    },
+    {
+      "rank": 9,
+      "name": "Teatro Massimo Bellini",
+      "postcode": "95131",
+      "distanceKmFromAirport": 7,
+      "description": "Ornate opera house honouring composer Vincenzo Bellini, born in Catania",
+      "distance": 0.3,
+      "URL": "https://www.teatromassimobellini.it/"
+    },
+    {
+      "rank": 10,
+      "name": "Valle dell'Alcantara",
+      "postcode": "98030",
+      "distanceKmFromAirport": 62,
+      "description": "Spectacular basalt gorges carved by the Alcantara river, great for swimming",
+      "distance": 55.0,
+      "URL": "https://www.parcoalcantara.it/"
+    }
+  ]
+}

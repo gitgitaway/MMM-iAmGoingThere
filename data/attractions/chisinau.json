@@ -1,0 +1,98 @@
+{
+  "city": "Chisinau",
+  "country": "Moldova",
+  "airportPostcode": "MD-2026",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Wine Tasting - Cricova Winery",
+      "postcode": "MD-6812",
+      "distanceKmFromAirport": 28,
+      "description": "Underground wine city with 120km of tunnels holding millions of bottles - largest wine cellar",
+      "distance": 13.0,
+      "URL": "https://www.cricova.md/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Milestii Mici Winery",
+      "postcode": "MD-6511",
+      "distanceKmFromAirport": 30,
+      "description": "Guinness World Record largest wine collection with 1.5 million bottles in golden tunnels",
+      "distance": 15.0,
+      "URL": "https://www.milesteimici.md/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of History of Moldova",
+      "postcode": "MD-2012",
+      "distanceKmFromAirport": 16,
+      "description": "2,000 years of Moldovan history including the famous Orheiul Vechi rupestrian complex",
+      "distance": 1.0,
+      "URL": "https://www.nationalmuseum.md/"
+    },
+    {
+      "rank": 4,
+      "name": "Stefan cel Mare Central Park",
+      "postcode": "MD-2012",
+      "distanceKmFromAirport": 16,
+      "description": "City's green heart with the triumphal arch, fountains and the famous Stefan the Great statue",
+      "distance": 0.5,
+      "URL": "https://www.turism.gov.md/"
+    },
+    {
+      "rank": 5,
+      "name": "Orheiul Vechi Monastery",
+      "postcode": "MD-5101",
+      "distanceKmFromAirport": 75,
+      "description": "13th-century cave monastery carved into a limestone cliff above the Raut River",
+      "distance": 60.0,
+      "URL": "https://www.turism.gov.md/"
+    },
+    {
+      "rank": 6,
+      "name": "National Archaeology and History Museum",
+      "postcode": "MD-2001",
+      "distanceKmFromAirport": 16,
+      "description": "Moldova's most important museum with the Golden Hoard of Chisinau treasure",
+      "distance": 0.8,
+      "URL": "https://www.nationalmuseum.md/"
+    },
+    {
+      "rank": 7,
+      "name": "Pushkin Museum",
+      "postcode": "MD-2012",
+      "distanceKmFromAirport": 16,
+      "description": "House where Alexander Pushkin lived in exile 1820-1823 and wrote some of his greatest works",
+      "distance": 0.8,
+      "URL": "https://www.turism.gov.md/"
+    },
+    {
+      "rank": 8,
+      "name": "Transnistria Day Trip",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 85,
+      "description": "Visit the breakaway Soviet-style republic across the Dniester with USSR monuments and stamps",
+      "distance": 70.0,
+      "URL": "https://www.turism.gov.md/"
+    },
+    {
+      "rank": 9,
+      "name": "Nativity Cathedral",
+      "postcode": "MD-2001",
+      "distanceKmFromAirport": 16,
+      "description": "19th-century Orthodox cathedral in the city centre with the bell tower campanile",
+      "distance": 0.5,
+      "URL": "https://www.turism.gov.md/"
+    },
+    {
+      "rank": 10,
+      "name": "Central Market (Piata Centrala)",
+      "postcode": "MD-2001",
+      "distanceKmFromAirport": 16,
+      "description": "Bustling market with fresh produce, honey, pickles and traditional Moldovan wine",
+      "distance": 1.0,
+      "URL": "https://www.turism.gov.md/"
+    }
+  ]
+}

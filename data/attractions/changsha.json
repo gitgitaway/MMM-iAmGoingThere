@@ -1,0 +1,98 @@
+{
+  "city": "Changsha",
+  "country": "China",
+  "airportPostcode": "410137",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hunan Provincial Museum (Mawangdui)",
+      "postcode": "410005",
+      "distanceKmFromAirport": 34,
+      "description": "2,100-year-old Han Dynasty Countess preserved remarkably well with her silk wardrobe",
+      "distance": 4.0,
+      "URL": "https://www.hnmuseum.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Orange Isle (Juzizhou)",
+      "postcode": "410006",
+      "distanceKmFromAirport": 32,
+      "description": "River island with the giant young Mao Zedong head sculpture looking upriver",
+      "distance": 2.5,
+      "URL": "https://www.changsha.gov.cn/"
+    },
+    {
+      "rank": 3,
+      "name": "Tianmen Mountain (Zhangjiajie)",
+      "postcode": "427001",
+      "distanceKmFromAirport": 380,
+      "description": "4-hour drive to Avatar's hallelujah mountains with a 99-turn road and glass bridge",
+      "distance": 350.0,
+      "URL": "https://www.zhangjiajie.com.cn/"
+    },
+    {
+      "rank": 4,
+      "name": "Yuelu Mountain & Academy",
+      "postcode": "410082",
+      "distanceKmFromAirport": 34,
+      "description": "UNESCO-listed Song Dynasty academy in the forested hills west of the city",
+      "distance": 4.0,
+      "URL": "https://www.ylu.edu.cn/"
+    },
+    {
+      "rank": 5,
+      "name": "Mao Zedong's Birthplace (Shaoshan)",
+      "postcode": "411300",
+      "distanceKmFromAirport": 160,
+      "description": "Pilgrimage to the Chairman's village 130km southwest",
+      "distance": 130.0,
+      "URL": "https://www.shaoshan.gov.cn/"
+    },
+    {
+      "rank": 6,
+      "name": "Jiefang West Road Night Food Street",
+      "postcode": "410001",
+      "distanceKmFromAirport": 32,
+      "description": "Changsha's legendary night food street with snake soup and stinky tofu",
+      "distance": 1.5,
+      "URL": "https://www.changsha.gov.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Tianxin Pavilion",
+      "postcode": "410004",
+      "distanceKmFromAirport": 32,
+      "description": "Ming-dynasty pavilion on the city wall with Changsha views",
+      "distance": 2.0,
+      "URL": "https://www.changsha.gov.cn/"
+    },
+    {
+      "rank": 8,
+      "name": "IFS International Finance Square",
+      "postcode": "410001",
+      "distanceKmFromAirport": 31,
+      "description": "Giant panda climbing the building facade - most Instagrammed spot in Changsha",
+      "distance": 1.0,
+      "URL": "https://www.changsha-ifs.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Furong Town Scenic Area",
+      "postcode": "416800",
+      "distanceKmFromAirport": 290,
+      "description": "Waterfalls cascading through an ancient Tujia minority town",
+      "distance": 260.0,
+      "URL": "https://www.changsha.gov.cn/"
+    },
+    {
+      "rank": 10,
+      "name": "Chou Doufu (Stinky Tofu)",
+      "postcode": "410001",
+      "distanceKmFromAirport": 32,
+      "description": "Changsha's world-famous fermented tofu - deeply pungent, surprisingly delicious",
+      "distance": 1.5,
+      "URL": "https://www.changsha.gov.cn/"
+    }
+  ]
+}

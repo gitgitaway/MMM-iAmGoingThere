@@ -1,0 +1,98 @@
+{
+  "city": "Cluj-Napoca",
+  "country": "Romania",
+  "airportPostcode": "400397",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Unirii Square (Piata Unirii)",
+      "postcode": "400098",
+      "distanceKmFromAirport": 11,
+      "description": "Cluj's magnificent main square dominated by the Gothic St. Michael's Church and the equestrian statue of Matthias Corvinus; the vibrant heart of the city",
+      "distance": 0.5,
+      "URL": "https://www.visitcluj.ro/en/"
+    },
+    {
+      "rank": 2,
+      "name": "St. Michael's Church",
+      "postcode": "400098",
+      "distanceKmFromAirport": 11,
+      "description": "Romania's second-largest Gothic church from the 14th century with a soaring 76-metre neo-Gothic tower rebuilt after the 1763 earthquake; the city's landmark",
+      "distance": 0.5,
+      "URL": "https://www.visitcluj.ro/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Botanical Garden",
+      "postcode": "400015",
+      "distanceKmFromAirport": 11,
+      "description": "One of Romania's finest botanical gardens with 14,000 plant species from around the world; the Japanese garden, rose garden and greenhouse collections are outstanding",
+      "distance": 2.0,
+      "URL": "https://gradina-botanica.ubbcluj.ro/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Cluj National History Museum",
+      "postcode": "400098",
+      "distanceKmFromAirport": 11,
+      "description": "Major museum in the beautiful Baroque Banffy Palace with extensive collections on the history of Transylvania from prehistoric times to the modern era",
+      "distance": 0.5,
+      "URL": "https://www.mnit.ro/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Romanian National Opera Cluj",
+      "postcode": "400098",
+      "distanceKmFromAirport": 11,
+      "description": "One of Romania's leading opera companies performing in an imposing neo-Baroque building; tickets are extremely affordable by Western European standards",
+      "distance": 1.0,
+      "URL": "https://www.operacluj.ro/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Turda Salt Mine",
+      "postcode": "401100",
+      "distanceKmFromAirport": 35,
+      "description": "Extraordinary 2,000-year-old salt mine 30km from Cluj with a spectacular underground lake, rowing boats, Ferris wheel and concerts held 120 metres underground",
+      "distance": 30.0,
+      "URL": "https://www.salinaturda.eu/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Central Park",
+      "postcode": "400157",
+      "distanceKmFromAirport": 11,
+      "description": "Victorian-era city park with a large lake, casino building, boating and the summer stage of the National Theatre; a beloved green lung in the city centre",
+      "distance": 1.5,
+      "URL": "https://www.visitcluj.ro/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Transylvanian Food and Culture",
+      "postcode": "400098",
+      "distanceKmFromAirport": 11,
+      "description": "Cluj-Napoca's thriving restaurant scene celebrates Transylvanian cuisine: ciorba de burta, paprikash and palinca brandy in atmospheric historic buildings",
+      "distance": 0.5,
+      "URL": "https://www.visitcluj.ro/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Banffy Castle (Bontida)",
+      "postcode": "407055",
+      "distanceKmFromAirport": 28,
+      "description": "Ruined Baroque palace 20km north of Cluj nicknamed the Versailles of Transylvania; being restored and hosting the annual Electric Castle music festival",
+      "distance": 22.0,
+      "URL": "https://www.visitcluj.ro/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Cluj Arena",
+      "postcode": "400394",
+      "distanceKmFromAirport": 11,
+      "description": "Modern 30,200-seat stadium home of CFR Cluj, Romania's dominant club with multiple league titles and Europa League appearances including group stages",
+      "distance": 3.0,
+      "URL": "https://www.cfr1907.ro/en/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Doha",
+  "country": "Qatar",
+  "airportPostcode": "22222",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Museum of Islamic Art",
+      "postcode": "22272",
+      "distanceKmFromAirport": 20,
+      "description": "I.M. Pei's masterpiece on an island in Doha Bay housing the world's finest Islamic art collection",
+      "distance": 2,
+      "URL": "https://www.mia.org.qa"
+    },
+    {
+      "rank": 2,
+      "name": "Souq Waqif",
+      "postcode": "22172",
+      "distanceKmFromAirport": 19,
+      "description": "Restored 19th-century market with falcons, spices, Arabic coffee and traditional restaurants",
+      "distance": 1,
+      "URL": "https://www.souqwaqif.com"
+    },
+    {
+      "rank": 3,
+      "name": "The Pearl-Qatar",
+      "postcode": "22262",
+      "distanceKmFromAirport": 26,
+      "description": "Artificial island with luxury marinas, restaurants and yacht-lined promenade",
+      "distance": 8,
+      "URL": "https://www.thepearlqatar.com"
+    },
+    {
+      "rank": 4,
+      "name": "Corniche Promenade",
+      "postcode": "22272",
+      "distanceKmFromAirport": 19,
+      "description": "7km waterfront promenade with the Doha skyline backdrop and traditional dhow harbour",
+      "distance": 1,
+      "URL": "https://www.visitqatar.qa"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Qatar",
+      "postcode": "22272",
+      "distanceKmFromAirport": 20,
+      "description": "Jean Nouvel's desert rose-shaped museum telling the story of Qatar's land, sea and people",
+      "distance": 2.5,
+      "URL": "https://www.nmoq.org.qa"
+    },
+    {
+      "rank": 6,
+      "name": "Katara Cultural Village",
+      "postcode": "22272",
+      "distanceKmFromAirport": 24,
+      "description": "Cultural complex with amphitheatre, galleries, restaurants and the Katara beach",
+      "distance": 6,
+      "URL": "https://www.katara.net"
+    },
+    {
+      "rank": 7,
+      "name": "Al Zubarah Fort & Archaeological Site",
+      "postcode": "81000",
+      "distanceKmFromAirport": 178,
+      "description": "UNESCO World Heritage 18th-century pearl fishing town on the north coast",
+      "distance": 160,
+      "URL": "https://www.qm.org.qa/en/project/al-zubarah-archaeological-site"
+    },
+    {
+      "rank": 8,
+      "name": "Inland Sea (Khor Al Udeid)",
+      "postcode": "22200",
+      "distanceKmFromAirport": 98,
+      "description": "Spectacular tidal inlet surrounded by sand dunes accessible by 4WD desert safari",
+      "distance": 80,
+      "URL": "https://www.visitqatar.qa"
+    },
+    {
+      "rank": 9,
+      "name": "MIA Park & Dhow Harbour",
+      "postcode": "22272",
+      "distanceKmFromAirport": 20,
+      "description": "Green park beside the Museum of Islamic Art with traditional Qatari dhow boats",
+      "distance": 2,
+      "URL": "https://www.visitqatar.qa"
+    },
+    {
+      "rank": 10,
+      "name": "Aspire Zone & Torch Tower",
+      "postcode": "22262",
+      "distanceKmFromAirport": 26,
+      "description": "Olympic sports complex from the 2006 Asian Games with the distinctive flame-topped tower",
+      "distance": 8,
+      "URL": "https://www.aspire.qa"
+    }
+  ]
+}

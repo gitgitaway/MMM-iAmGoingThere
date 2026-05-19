@@ -1,0 +1,98 @@
+{
+  "city": "Chiang Mai",
+  "country": "Thailand",
+  "airportPostcode": "50200",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Doi Inthanon National Park",
+      "postcode": "50180",
+      "distanceKmFromAirport": 85,
+      "description": "Thailand's highest peak at 2,565 m — misty twin Royal chedis, hill-tribe villages and stunning waterfalls",
+      "distance": 80.0,
+      "URL": "https://www.thainationalparks.com/doi-inthanon-national-park"
+    },
+    {
+      "rank": 2,
+      "name": "Elephant Nature Park",
+      "postcode": "50150",
+      "distanceKmFromAirport": 65,
+      "description": "Ethical elephant sanctuary — bathe, feed and walk alongside rescued elephants without riding",
+      "distance": 60.0,
+      "URL": "https://www.elephantnaturepark.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Old City Temples Walk",
+      "postcode": "50200",
+      "distanceKmFromAirport": 7,
+      "description": "Explore the moat-ringed ancient quarter with Wat Chedi Luang, Wat Phra Singh and 30 other temples",
+      "distance": 2.0,
+      "URL": "https://www.tourismchiangmai.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Sunday Night Walking Street",
+      "postcode": "50200",
+      "distanceKmFromAirport": 8,
+      "description": "Wualai Road street market every Sunday — handmade crafts, silk, silver jewellery and northern Thai food",
+      "distance": 2.5,
+      "URL": "https://www.tourismchiangmai.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Doi Suthep Temple",
+      "postcode": "50200",
+      "distanceKmFromAirport": 19,
+      "description": "Golden chedi temple perched at 1,676 m — 300 steps or cable car and panoramic views over Chiang Mai",
+      "distance": 14.0,
+      "URL": "https://www.doisuthep.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Thai Cooking Class",
+      "postcode": "50200",
+      "distanceKmFromAirport": 7,
+      "description": "Half-day market tour then cook pad thai, massaman curry and mango sticky rice — dozens of schools to choose from",
+      "distance": 2.0,
+      "URL": "https://www.tourismchiangmai.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Night Bazaar",
+      "postcode": "50100",
+      "distanceKmFromAirport": 7,
+      "description": "Nightly market on Chang Khlan Road — handicrafts, clothing, hill-tribe textiles and live music",
+      "distance": 2.0,
+      "URL": "https://www.tourismchiangmai.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Chiang Rai Day Trip",
+      "postcode": "57000",
+      "distanceKmFromAirport": 205,
+      "description": "Visit the surreal White Temple (Wat Rong Khun), Blue Temple and the Black House — 3 hours north",
+      "distance": 200.0,
+      "URL": "https://www.tourismchiangrai.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Mae Sa Valley",
+      "postcode": "50180",
+      "distanceKmFromAirport": 35,
+      "description": "30 km of river valley with orchid farms, butterfly parks, elephant camps and the Sticky Waterfall",
+      "distance": 30.0,
+      "URL": "https://www.tourismchiangmai.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Thai Massage at Wat Pho",
+      "postcode": "50200",
+      "distanceKmFromAirport": 7,
+      "description": "Study or receive authentic Northern-style Thai massage — Chiang Mai is the heartland of traditional massage",
+      "distance": 2.0,
+      "URL": "https://www.tourismchiangmai.org/"
+    }
+  ]
+}

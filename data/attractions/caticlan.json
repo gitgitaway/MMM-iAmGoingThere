@@ -1,0 +1,98 @@
+{
+  "city": "Caticlan",
+  "country": "Philippines",
+  "airportPostcode": "5608",
+  "airportDistanceKm": 1,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Boracay White Beach",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "4km of powdery white sand with turquoise water - consistently rated Asia's best beach",
+      "distance": 3.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Puka Shell Beach",
+      "postcode": "5608",
+      "distanceKmFromAirport": 6,
+      "description": "Quieter north coast beach with natural shell formations and snorkelling",
+      "distance": 5.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Windsurfing & Kiteboarding (Bulabog Beach)",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "World-class wind conditions make Bulabog one of Asia's top kite spots",
+      "distance": 3.5,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Sunset Sailing on a Paraw Boat",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "Traditional outrigger sail to watch the famous Boracay sunset",
+      "distance": 3.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Cliff Diving at Ariel's Point",
+      "postcode": "5608",
+      "distanceKmFromAirport": 9,
+      "description": "Five levels of cliff diving and a cliff bar above the Sibuyan Sea",
+      "distance": 8.0,
+      "URL": "https://www.arielspoint.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Crystal Cove Island",
+      "postcode": "5608",
+      "distanceKmFromAirport": 6,
+      "description": "Day trip island with two marine caves and excellent snorkelling",
+      "distance": 5.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Helmet Diving",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "Walk on the seafloor in a diving helmet - no scuba experience needed",
+      "distance": 3.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "D'Mall & Station 2 Dining",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "Boracay's main shopping and dining area with fresh seafood restaurants",
+      "distance": 3.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Island Tricycle Night Tour",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "Night tour of Boracay by sidecar tricycle - local transport",
+      "distance": 3.0,
+      "URL": "https://boracaytourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Chori Burger",
+      "postcode": "5608",
+      "distanceKmFromAirport": 4,
+      "description": "Filipino chorizo beef burger - Boracay's most popular street food snack",
+      "distance": 3.0,
+      "URL": "https://boracaytourism.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Cancun",
+  "country": "Mexico",
+  "airportPostcode": "77500",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Chichen Itza",
+      "postcode": "97751",
+      "distanceKmFromAirport": 210,
+      "description": "UNESCO World Heritage Maya pyramid — El Castillo is one of the New Seven Wonders of the World, 3 hours inland",
+      "distance": 190.0,
+      "URL": "https://www.chichenitza.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Tulum Ruins",
+      "postcode": "77780",
+      "distanceKmFromAirport": 150,
+      "description": "Clifftop Maya ruins overlooking the Caribbean — the most photographed archaeological site in Mexico",
+      "distance": 130.0,
+      "URL": "https://www.mexico.travel/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Hotel Zone (Zona Hotelera)",
+      "postcode": "77500",
+      "distanceKmFromAirport": 30,
+      "description": "14-km barrier island of white-sand beaches, all-inclusive resorts and the glittering Caribbean Sea",
+      "distance": 10.0,
+      "URL": "https://www.cancun.travel/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Isla Mujeres",
+      "postcode": "77400",
+      "distanceKmFromAirport": 35,
+      "description": "30-minute ferry to a car-free island — golf cart rental, Playa Norte voted one of Mexico's best beaches",
+      "distance": 15.0,
+      "URL": "https://www.islamujeres.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Cenote Swimming",
+      "postcode": "77780",
+      "distanceKmFromAirport": 150,
+      "description": "Swim in a sacred Maya sinkhole — Gran Cenote and Dos Ojos near Tulum have crystal-clear turquoise water",
+      "distance": 130.0,
+      "URL": "https://www.mexico.travel/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Xcaret Eco-Archaeological Park",
+      "postcode": "77710",
+      "distanceKmFromAirport": 95,
+      "description": "Snorkel through underground rivers, swim with dolphins and see the spectacular Xcaret México Espectacular show",
+      "distance": 75.0,
+      "URL": "https://www.xcaret.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Cozumel Diving",
+      "postcode": "77600",
+      "distanceKmFromAirport": 110,
+      "description": "40-minute ferry from Playa del Carmen to one of the world's top dive sites — Palancar Reef in crystal clarity",
+      "distance": 90.0,
+      "URL": "https://www.cozumel.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Mercado 28",
+      "postcode": "77504",
+      "distanceKmFromAirport": 28,
+      "description": "Downtown Cancun's local market — hammocks, embroidered textiles, jewellery and authentic cochinita pibil",
+      "distance": 8.0,
+      "URL": "https://www.cancun.travel/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Underwater Museum of Art (MUSA)",
+      "postcode": "77500",
+      "distanceKmFromAirport": 32,
+      "description": "500 life-size sculptures submerged in the Caribbean — glass-bottom boat or snorkel/dive visit",
+      "distance": 12.0,
+      "URL": "https://musacancun.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Playa del Carmen",
+      "postcode": "77710",
+      "distanceKmFromAirport": 90,
+      "description": "Boutique shops, beach clubs and the famous La Quinta Avenida pedestrian strip — 1 hour south by bus",
+      "distance": 70.0,
+      "URL": "https://www.playadelcarmen.travel/"
+    }
+  ]
+}

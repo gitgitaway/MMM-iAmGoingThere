@@ -1,0 +1,98 @@
+{
+  "city": "Dumfries",
+  "country": "Scotland",
+  "airportPostcode": "KA9 2PL",
+  "airportDistanceKm": 70,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Robert Burns House Museum",
+      "postcode": "DG1 2PS",
+      "distanceKmFromAirport": 70,
+      "description": "The house where Scotland's national poet spent his last years — original manuscripts, portraits and personal artefacts in a free museum",
+      "distance": 0.5,
+      "URL": "https://www.dumgal.gov.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Robert Burns Centre",
+      "postcode": "DG2 7BF",
+      "distanceKmFromAirport": 70,
+      "description": "Burns museum in an 18th-century watermill on the Nith — an excellent introduction to Dumfries' rich Burns heritage",
+      "distance": 0.5,
+      "URL": "https://www.dumgal.gov.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Caerlaverock Castle",
+      "postcode": "DG1 4RU",
+      "distanceKmFromAirport": 76,
+      "description": "Unique triangular medieval castle rising from a moat on the Solway shore — one of Scotland's most romantic and picturesque fortresses",
+      "distance": 12,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 4,
+      "name": "Sweetheart Abbey (New Abbey)",
+      "postcode": "DG2 8BU",
+      "distanceKmFromAirport": 77,
+      "description": "Romantic ruined Cistercian abbey founded in 1273 by Devorgilla of Galloway — named for the embalmed heart of her husband she carried with her",
+      "distance": 10,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 5,
+      "name": "Globe Inn (Burns' Local)",
+      "postcode": "DG1 2JA",
+      "distanceKmFromAirport": 70,
+      "description": "Robert Burns' favourite pub since 1610 — still serving drinkers today, with Burns' chair and the howff where he drank and composed verses",
+      "distance": 0.5,
+      "URL": "https://www.globeinndumfries.co.uk/"
+    },
+    {
+      "rank": 6,
+      "name": "Dumfries Museum & Camera Obscura",
+      "postcode": "DG2 7SW",
+      "distanceKmFromAirport": 70,
+      "description": "Fascinating local museum in a Victorian windmill tower topped by Scotland's oldest working camera obscura with live views of the town",
+      "distance": 0.5,
+      "URL": "https://www.dumgal.gov.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Drumlanrig Castle",
+      "postcode": "DG3 4AQ",
+      "distanceKmFromAirport": 100,
+      "description": "Spectacular pink sandstone castle of the Dukes of Buccleuch with a priceless art collection — Rembrandt, Holbein and the original 'Da Vinci bicycle'",
+      "distance": 30,
+      "URL": "https://www.drumlanrigcastle.co.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Galloway Forest Park (Dark Sky Park)",
+      "postcode": "DG8 7BE",
+      "distanceKmFromAirport": 105,
+      "description": "Britain's first Dark Sky Park and one of the largest forests in the UK — superb stargazing, mountain biking and red squirrel spotting",
+      "distance": 40,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Ruthwell Cross (Anglian Runic Stone)",
+      "postcode": "DG1 4NP",
+      "distanceKmFromAirport": 82,
+      "description": "One of the finest surviving early Christian carved crosses in Europe (c. AD 700) — inscribed with the oldest known poem in Old English",
+      "distance": 15,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 10,
+      "name": "Solway Firth Coastal Walk (Caerlaverock WWT)",
+      "postcode": "DG1 4RS",
+      "distanceKmFromAirport": 76,
+      "description": "WWT Caerlaverock wetland centre on the Solway shore — home to tens of thousands of barnacle geese wintering from Svalbard each autumn",
+      "distance": 12,
+      "URL": "https://www.wwt.org.uk/wetland-centres/caerlaverock/"
+    }
+  ]
+}

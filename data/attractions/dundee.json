@@ -1,0 +1,98 @@
+{
+  "city": "Dundee",
+  "country": "Scotland",
+  "airportPostcode": "DD2 1UH",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "V&A Dundee Design Museum",
+      "postcode": "DD1 4EZ",
+      "distanceKmFromAirport": 4,
+      "description": "Scotland's first design museum on the waterfront — world-class exhibitions in a dramatic Kengo Kuma-designed building",
+      "distance": 0.5,
+      "URL": "https://www.vandadundee.org/"
+    },
+    {
+      "rank": 2,
+      "name": "RRS Discovery (Scott's Antarctic Ship)",
+      "postcode": "DD1 4XA",
+      "distanceKmFromAirport": 4,
+      "description": "Captain Scott's famous polar research vessel moored at Discovery Point — an enthralling story of the 1901 Antarctic expedition",
+      "distance": 0.5,
+      "URL": "https://www.rrsdiscovery.com/"
+    },
+    {
+      "rank": 3,
+      "name": "The McManus Galleries",
+      "postcode": "DD1 1DA",
+      "distanceKmFromAirport": 4,
+      "description": "Dundee's Victorian Gothic museum housing fine art, natural history and social history collections",
+      "distance": 0.5,
+      "URL": "https://www.leisureandculturedundee.com/museums"
+    },
+    {
+      "rank": 4,
+      "name": "Dundee Law (Extinct Volcano Viewpoint)",
+      "postcode": "DD3 6PP",
+      "distanceKmFromAirport": 5,
+      "description": "Dundee's volcanic hill rising 174 m with panoramic views over the Tay estuary and the city",
+      "distance": 1.5,
+      "URL": "https://www.visitdundee.co.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Verdant Works (Jute Museum)",
+      "postcode": "DD1 5BT",
+      "distanceKmFromAirport": 5,
+      "description": "Award-winning industrial museum telling the story of Dundee's jute industry inside a restored Victorian mill",
+      "distance": 1.5,
+      "URL": "https://www.leisureandculturedundee.com/verdant-works"
+    },
+    {
+      "rank": 6,
+      "name": "Sensation Science Centre",
+      "postcode": "DD1 4QB",
+      "distanceKmFromAirport": 4,
+      "description": "Hands-on science centre exploring the five senses through over 60 interactive exhibits",
+      "distance": 0.5,
+      "URL": "https://www.sensation.org.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Broughty Castle & Beach",
+      "postcode": "DD5 2PE",
+      "distanceKmFromAirport": 10,
+      "description": "15th-century seaside fortress with free museum overlooking the Tay estuary, beside a popular sandy beach",
+      "distance": 6,
+      "URL": "https://www.leisureandculturedundee.com/broughty-castle"
+    },
+    {
+      "rank": 8,
+      "name": "Dundee Botanic Garden",
+      "postcode": "DD2 1QH",
+      "distanceKmFromAirport": 5,
+      "description": "Impressive university botanic garden with glasshouses, native woodland and a Mediterranean collection",
+      "distance": 1.5,
+      "URL": "https://www.dundee.ac.uk/botanic-garden/"
+    },
+    {
+      "rank": 9,
+      "name": "Camperdown Wildlife Centre",
+      "postcode": "DD2 4TF",
+      "distanceKmFromAirport": 5,
+      "description": "One of Scotland's largest free wildlife centres with wolves, brown bears and Scottish wildcats in Camperdown Park",
+      "distance": 2,
+      "URL": "https://www.leisureandculturedundee.com/camperdown"
+    },
+    {
+      "rank": 10,
+      "name": "Caird Hall & City Square",
+      "postcode": "DD1 3BP",
+      "distanceKmFromAirport": 4,
+      "description": "Dundee's grand civic concert hall and the vibrant pedestrianised city square at the heart of the UNESCO City of Design",
+      "distance": 0.3,
+      "URL": "https://www.cairdhall.co.uk/"
+    }
+  ]
+}

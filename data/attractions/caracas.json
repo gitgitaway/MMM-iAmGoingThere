@@ -1,0 +1,98 @@
+{
+  "city": "Caracas",
+  "country": "Venezuela",
+  "airportPostcode": "1070",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Angel Falls (Salto Angel)",
+      "postcode": "7303",
+      "distanceKmFromAirport": 736,
+      "description": "World's highest waterfall at 979m - fly to Canaima and take a boat through the jungle",
+      "distance": 710.0,
+      "URL": "https://www.venezuelatuya.com/canaima/angel-falls.htm"
+    },
+    {
+      "rank": 2,
+      "name": "Cerro El Avila (Waraira Repano)",
+      "postcode": "1021",
+      "distanceKmFromAirport": 34,
+      "description": "National park looming over the city - cable car to the top with views of both sea and city",
+      "distance": 8.0,
+      "URL": "https://www.inparques.gob.ve/"
+    },
+    {
+      "rank": 3,
+      "name": "Casa Natal del Libertador",
+      "postcode": "1010",
+      "distanceKmFromAirport": 27,
+      "description": "Birthplace of Simon Bolivar, South America's greatest independence hero",
+      "distance": 0.8,
+      "URL": "https://www.venezuelatuya.com/caracas/casnatal.htm"
+    },
+    {
+      "rank": 4,
+      "name": "Museo de Arte Contemporaneo de Caracas",
+      "postcode": "1010",
+      "distanceKmFromAirport": 28,
+      "description": "Venezuela's finest modern art collection with Picasso, Leger and Chagall",
+      "distance": 2.5,
+      "URL": "https://www.venezuelatuya.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Sabana Grande Pedestrian Boulevard",
+      "postcode": "1050",
+      "distanceKmFromAirport": 30,
+      "description": "Caracas's famous pedestrian street with street musicians and pavement cafes",
+      "distance": 4.0,
+      "URL": "https://www.venezuelatuya.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Catedral de Caracas",
+      "postcode": "1010",
+      "distanceKmFromAirport": 26,
+      "description": "18th-century colonial cathedral on the Plaza Bolivar",
+      "distance": 0.5,
+      "URL": "https://www.venezuelatuya.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Parque del Este (Romulo Betancourt)",
+      "postcode": "1071",
+      "distanceKmFromAirport": 32,
+      "description": "Botanical gardens and lake park designed by Roberto Burle Marx",
+      "distance": 6.0,
+      "URL": "https://www.inparques.gob.ve/"
+    },
+    {
+      "rank": 8,
+      "name": "Canaima National Park",
+      "postcode": "8001",
+      "distanceKmFromAirport": 726,
+      "description": "UNESCO World Heritage tepui plateau landscape - the world that inspired Arthur Conan Doyle",
+      "distance": 700.0,
+      "URL": "https://whc.unesco.org/en/list/701"
+    },
+    {
+      "rank": 9,
+      "name": "Mercado de Chacao",
+      "postcode": "1062",
+      "distanceKmFromAirport": 33,
+      "description": "Upscale Caracas food market with fresh tropical fruits and gourmet Venezuelan produce",
+      "distance": 7.0,
+      "URL": "https://www.venezuelatuya.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Arepas at La Abuela",
+      "postcode": "1010",
+      "distanceKmFromAirport": 26,
+      "description": "Venezuela's iconic cornmeal bread stuffed with cheese, chicken or black beans",
+      "distance": 0.5,
+      "URL": "https://www.venezuelatuya.com/"
+    }
+  ]
+}

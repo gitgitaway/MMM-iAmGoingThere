@@ -1,0 +1,98 @@
+{
+  "city": "Cape Town",
+  "country": "South Africa",
+  "airportPostcode": "7490",
+  "airportDistanceKm": 21,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Table Mountain National Park",
+      "postcode": "8001",
+      "distanceKmFromAirport": 24,
+      "description": "Cable car to the iconic flat-topped mountain with 360° views over two oceans",
+      "distance": 3.5,
+      "URL": "https://www.sanparks.org/parks/table_mountain/"
+    },
+    {
+      "rank": 2,
+      "name": "Robben Island",
+      "postcode": "7400",
+      "distanceKmFromAirport": 32,
+      "description": "UNESCO World Heritage prison island where Nelson Mandela was held for 18 years",
+      "distance": 11.0,
+      "URL": "https://www.robben-island.org.za/"
+    },
+    {
+      "rank": 3,
+      "name": "Cape of Good Hope",
+      "postcode": "7975",
+      "distanceKmFromAirport": 86,
+      "description": "The dramatic southwestern tip of Africa where the Atlantic and Indian Oceans converge",
+      "distance": 65.0,
+      "URL": "https://www.sanparks.org/parks/table_mountain/"
+    },
+    {
+      "rank": 4,
+      "name": "V&A Waterfront",
+      "postcode": "8001",
+      "distanceKmFromAirport": 23,
+      "description": "Spectacular working harbour with the best restaurants, shops and views in Cape Town",
+      "distance": 2.0,
+      "URL": "https://www.waterfront.co.za/"
+    },
+    {
+      "rank": 5,
+      "name": "Bo-Kaap (Malay Quarter)",
+      "postcode": "8001",
+      "distanceKmFromAirport": 22,
+      "description": "Brightly coloured Cape Malay houses on cobblestone streets - the most photographed neighbourhood in Africa",
+      "distance": 1.5,
+      "URL": "https://www.capetown.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Boulders Beach Penguin Colony",
+      "postcode": "7975",
+      "distanceKmFromAirport": 71,
+      "description": "African penguins swimming alongside humans at a sheltered bay",
+      "distance": 50.0,
+      "URL": "https://www.sanparks.org/parks/table_mountain/"
+    },
+    {
+      "rank": 7,
+      "name": "Constantia Wine Valley",
+      "postcode": "7806",
+      "distanceKmFromAirport": 39,
+      "description": "World's oldest wine region outside Europe producing outstanding Sauvignon Blanc",
+      "distance": 18.0,
+      "URL": "https://www.constantiavalley.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Chapman's Peak Drive",
+      "postcode": "7975",
+      "distanceKmFromAirport": 51,
+      "description": "One of the world's most spectacular coastal drives carved into sheer sea cliffs",
+      "distance": 30.0,
+      "URL": "https://www.chapmanspeak.co.za/"
+    },
+    {
+      "rank": 9,
+      "name": "Hout Bay & Cape Fur Seals",
+      "postcode": "7872",
+      "distanceKmFromAirport": 41,
+      "description": "Take a boat to Seal Island where 75,000 Cape Fur Seals live on a granite rock",
+      "distance": 20.0,
+      "URL": "https://www.capetown.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Braai (South African Barbecue)",
+      "postcode": "8001",
+      "distanceKmFromAirport": 26,
+      "description": "The national ritual - boerewors sausage, lamb chops and sosaties over an open fire",
+      "distance": 5.0,
+      "URL": "https://www.capetown.travel/"
+    }
+  ]
+}

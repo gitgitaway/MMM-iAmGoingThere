@@ -1,0 +1,98 @@
+{
+  "city": "Cartagena",
+  "country": "Colombia",
+  "airportPostcode": "130001",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Walled City (Ciudad Amurallada)",
+      "postcode": "130001",
+      "distanceKmFromAirport": 4,
+      "description": "UNESCO World Heritage perfectly preserved Spanish colonial city ringed by 13km of walls",
+      "distance": 0.5,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Castillo San Felipe de Barajas",
+      "postcode": "130001",
+      "distanceKmFromAirport": 6,
+      "description": "Largest Spanish fort in the Americas - explore the underground labyrinth of tunnels",
+      "distance": 1.5,
+      "URL": "https://www.mincultura.gov.co/"
+    },
+    {
+      "rank": 3,
+      "name": "Bocagrande Beach",
+      "postcode": "130001",
+      "distanceKmFromAirport": 6,
+      "description": "The Copacabana of Colombia - beachfront high-rises along the Caribbean",
+      "distance": 2.0,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Rosario Islands Snorkelling",
+      "postcode": "130001",
+      "distanceKmFromAirport": 49,
+      "description": "Coral reefs and crystal water in the Rosario Archipelago 1-hour speedboat from Cartagena",
+      "distance": 45.0,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Palacio de la Inquisicion",
+      "postcode": "130001",
+      "distanceKmFromAirport": 4,
+      "description": "18th-century Spanish Inquisition palace with original torture devices on display",
+      "distance": 0.3,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Gold Museum (Museo del Oro Zenú)",
+      "postcode": "130001",
+      "distanceKmFromAirport": 4,
+      "description": "Pre-Columbian gold objects of the Zenú people of the Caribbean coast",
+      "distance": 0.3,
+      "URL": "https://www.banrepcultural.org/museos-y-colecciones/museo-del-oro-zenu"
+    },
+    {
+      "rank": 7,
+      "name": "Convento de la Popa",
+      "postcode": "130002",
+      "distanceKmFromAirport": 7,
+      "description": "17th-century hilltop convent with the best views over Cartagena",
+      "distance": 3.0,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Getsemani Neighbourhood",
+      "postcode": "130001",
+      "distanceKmFromAirport": 4,
+      "description": "Former slave neighbourhood transformed into the coolest street-art quarter in Colombia",
+      "distance": 0.5,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Horse Carriage Ride in the Old City",
+      "postcode": "130001",
+      "distanceKmFromAirport": 4,
+      "description": "Evening carriage ride through the colonial streets to the Torre del Reloj",
+      "distance": 0.5,
+      "URL": "https://cartagenadeindias.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Ceviche & Arepa de Huevo",
+      "postcode": "130001",
+      "distanceKmFromAirport": 4,
+      "description": "Caribbean Colombian ceviche with coconut milk and crispy egg-stuffed arepa",
+      "distance": 0.5,
+      "URL": "https://cartagenadeindias.travel/"
+    }
+  ]
+}

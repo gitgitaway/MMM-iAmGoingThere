@@ -1,0 +1,98 @@
+{
+  "city": "Cebu City",
+  "country": "Philippines",
+  "airportPostcode": "6019",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Magellan's Cross",
+      "postcode": "6000",
+      "distanceKmFromAirport": 14,
+      "description": "Cross planted by Ferdinand Magellan on his arrival in 1521 - earliest symbol of Christianity in Asia",
+      "distance": 0.5,
+      "URL": "https://www.tourism.gov.ph/"
+    },
+    {
+      "rank": 2,
+      "name": "Whale Shark Swimming (Oslob)",
+      "postcode": "6038",
+      "distanceKmFromAirport": 143,
+      "description": "Swim with the world's largest fish - whale sharks congregate at Oslob south of Cebu",
+      "distance": 130.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Basilica Minore del Santo Nino",
+      "postcode": "6000",
+      "distanceKmFromAirport": 14,
+      "description": "Oldest Roman Catholic church in the Philippines housing the Santo Nino statue",
+      "distance": 0.5,
+      "URL": "https://www.basilicasantonino.com.ph/"
+    },
+    {
+      "rank": 4,
+      "name": "Kawasan Falls & Canyoneering",
+      "postcode": "6035",
+      "distanceKmFromAirport": 103,
+      "description": "Turquoise waterfall with exhilarating canyoneering jumps through the Badian Canyon",
+      "distance": 90.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Tumalog Falls",
+      "postcode": "6038",
+      "distanceKmFromAirport": 143,
+      "description": "Silky cascade waterfall near Oslob surrounded by jungle",
+      "distance": 130.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Tops Lookout",
+      "postcode": "6000",
+      "distanceKmFromAirport": 19,
+      "description": "Panoramic hilltop views over Cebu City, Mactan Island and the surrounding sea",
+      "distance": 6.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Temple of Leah",
+      "postcode": "6000",
+      "distanceKmFromAirport": 18,
+      "description": "Cebu's Taj Mahal-inspired monument built by a man for his late wife",
+      "distance": 5.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Simala Church",
+      "postcode": "6032",
+      "distanceKmFromAirport": 68,
+      "description": "Castle-like hilltop church with a miraculous image of the Blessed Virgin Mary",
+      "distance": 55.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Mactan Island Beach Resorts",
+      "postcode": "6015",
+      "distanceKmFromAirport": 21,
+      "description": "Resort island of the city accessible by bridge with dive sites and beach clubs",
+      "distance": 8.0,
+      "URL": "https://www.cebutourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Lechon de Cebu",
+      "postcode": "6000",
+      "distanceKmFromAirport": 14,
+      "description": "Cebu's famous whole roasted pig - the best lechon in the Philippines",
+      "distance": 0.5,
+      "URL": "https://www.cebutourism.com/"
+    }
+  ]
+}

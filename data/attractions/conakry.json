@@ -1,0 +1,98 @@
+{
+  "city": "Conakry",
+  "country": "Guinea",
+  "airportPostcode": "BP 3125",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Les Ballets Africains de Guinee",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 18,
+      "description": "Guinea's national ballet - the world's most acclaimed African dance ensemble",
+      "distance": 2.0,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Guinea",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 18,
+      "description": "Fula silver jewellery, Baga wooden carvings and masks",
+      "distance": 1.5,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Iles de Los Day Trip",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 36,
+      "description": "Island archipelago 20 minutes by pirogue with beaches and colonial history",
+      "distance": 20.0,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Conakry Grand Mosque",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 19,
+      "description": "One of West Africa's largest mosques with beautiful minarets",
+      "distance": 3.0,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Marche Madina",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 26,
+      "description": "West Africa's longest market street - everything from fabric to mobile phones",
+      "distance": 10.0,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Botanical Garden",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 18,
+      "description": "Beautiful gardens from the colonial era on the Kaloum peninsula",
+      "distance": 2.5,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "National Museum of Natural History",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 18,
+      "description": "Guinean flora, fauna and geology",
+      "distance": 2.5,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Coyah Chimpanzee Sanctuary",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 66,
+      "description": "Rescue centre for orphaned chimpanzees from West Africa",
+      "distance": 50.0,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Kindia Fouta Djallon Day Trip",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 146,
+      "description": "The Fouta Djallon highlands - the water tower of West Africa with waterfalls",
+      "distance": 130.0,
+      "URL": "https://www.guinea-tourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Fouti (Mafé Groundnut Stew)",
+      "postcode": "BP 3125",
+      "distanceKmFromAirport": 16,
+      "description": "Guinea's national dish - peanut butter stew with meat and sweet potatoes",
+      "distance": 0.5,
+      "URL": "https://www.guinea-tourism.com/"
+    }
+  ]
+}

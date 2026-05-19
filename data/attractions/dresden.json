@@ -1,0 +1,98 @@
+{
+  "city": "Dresden",
+  "country": "Germany",
+  "airportPostcode": "01109",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Frauenkirche",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "Reconstructed Baroque church and symbol of reconciliation after WWII destruction",
+      "distance": 0.8,
+      "URL": "https://www.frauenkirche-dresden.de"
+    },
+    {
+      "rank": 2,
+      "name": "Zwinger Palace",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "Baroque masterpiece housing the Old Masters Gallery with Raphael's Sistine Madonna",
+      "distance": 1,
+      "URL": "https://www.skd.museum"
+    },
+    {
+      "rank": 3,
+      "name": "Semperoper",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "One of the world's most beautiful opera houses on the Theatre Square",
+      "distance": 1.2,
+      "URL": "https://www.semperoper.de"
+    },
+    {
+      "rank": 4,
+      "name": "Green Vault (Gruenes Gewoelbe)",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "Europe's largest treasure chamber with Augustus the Strong's dazzling jewel collection",
+      "distance": 1,
+      "URL": "https://www.skd.museum"
+    },
+    {
+      "rank": 5,
+      "name": "Bruhl's Terrace",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "The Balcony of Europe, an elegant promenade above the Elbe with Baroque buildings",
+      "distance": 1,
+      "URL": "https://www.dresden.de"
+    },
+    {
+      "rank": 6,
+      "name": "Altstadt (Old Town)",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "Restored Baroque old town with magnificent palaces, galleries and churches",
+      "distance": 0.5,
+      "URL": "https://www.dresden.de"
+    },
+    {
+      "rank": 7,
+      "name": "Dresden Transport Museum",
+      "postcode": "01067",
+      "distanceKmFromAirport": 12,
+      "description": "Comprehensive collection of historic vehicles from locomotives to classic cars",
+      "distance": 0.8,
+      "URL": "https://www.verkehrsmuseum-dresden.de"
+    },
+    {
+      "rank": 8,
+      "name": "Pillnitz Palace",
+      "postcode": "01326",
+      "distanceKmFromAirport": 23,
+      "description": "Chinese-influenced Baroque summer palace of the Saxon electors on the Elbe",
+      "distance": 12,
+      "URL": "https://www.schlosspillnitz.de"
+    },
+    {
+      "rank": 9,
+      "name": "Moritzburg Castle",
+      "postcode": "01468",
+      "distanceKmFromAirport": 26,
+      "description": "Spectacular Baroque hunting lodge on a lake surrounded by woods",
+      "distance": 15,
+      "URL": "https://www.schloss-moritzburg.de"
+    },
+    {
+      "rank": 10,
+      "name": "Saxon Switzerland National Park",
+      "postcode": "01824",
+      "distanceKmFromAirport": 46,
+      "description": "Dramatic sandstone rock formations including the iconic Bastei bridge",
+      "distance": 35,
+      "URL": "https://www.saechsische-schweiz.de"
+    }
+  ]
+}

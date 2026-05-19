@@ -1,0 +1,98 @@
+{
+  "city": "Chongqing",
+  "country": "China",
+  "airportPostcode": "401120",
+  "airportDistanceKm": 21,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ciqikou Ancient Town",
+      "postcode": "400050",
+      "distanceKmFromAirport": 35,
+      "description": "Ming and Qing-era riverside town with cobblestone streets and traditional tea houses",
+      "distance": 14.0,
+      "URL": "https://www.cqta.gov.cn/"
+    },
+    {
+      "rank": 2,
+      "name": "Yangtze River Cruise",
+      "postcode": "400011",
+      "distanceKmFromAirport": 22,
+      "description": "Multi-day cruise through the spectacular Three Gorges to the world's largest dam",
+      "distance": 1.5,
+      "URL": "https://www.cqta.gov.cn/"
+    },
+    {
+      "rank": 3,
+      "name": "Dazu Rock Carvings",
+      "postcode": "402360",
+      "distanceKmFromAirport": 186,
+      "description": "UNESCO World Heritage Tang and Song dynasty Buddhist cliff carvings in a forested valley",
+      "distance": 165.0,
+      "URL": "https://whc.unesco.org/en/list/912"
+    },
+    {
+      "rank": 4,
+      "name": "Hongya Cave (Hongyadong)",
+      "postcode": "400010",
+      "distanceKmFromAirport": 22,
+      "description": "Stilt house complex of 11 storeys built into the riverbank cliffs - spectacular at night",
+      "distance": 1.0,
+      "URL": "https://www.hongyadong.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Three Gorges Museum",
+      "postcode": "400015",
+      "distanceKmFromAirport": 23,
+      "description": "History of the great river civilisation and the submerged Three Gorges towns",
+      "distance": 2.0,
+      "URL": "https://www.cqmuseum.cn/"
+    },
+    {
+      "rank": 6,
+      "name": "Eling Park",
+      "postcode": "400013",
+      "distanceKmFromAirport": 24,
+      "description": "Hilltop park with the best views of the Yangtze and Jialing River confluence",
+      "distance": 3.0,
+      "URL": "https://www.cqta.gov.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Chongqing Monorail through buildings",
+      "postcode": "400015",
+      "distanceKmFromAirport": 23,
+      "description": "The No.2 monorail line passes through the upper floors of a residential building",
+      "distance": 2.0,
+      "URL": "https://www.cqta.gov.cn/"
+    },
+    {
+      "rank": 8,
+      "name": "Jiefangbei Pedestrian Street",
+      "postcode": "400010",
+      "distanceKmFromAirport": 21,
+      "description": "Chongqing's most celebrated shopping street with the Victory Monument at its centre",
+      "distance": 0.2,
+      "URL": "https://www.cqta.gov.cn/"
+    },
+    {
+      "rank": 9,
+      "name": "Shibati (18 Steps) Historic Area",
+      "postcode": "400011",
+      "distanceKmFromAirport": 22,
+      "description": "Preserved steps of the old lower city with rickshaws, noodle stalls and cave dwellings",
+      "distance": 0.8,
+      "URL": "https://www.cqta.gov.cn/"
+    },
+    {
+      "rank": 10,
+      "name": "Chongqing Mala Hotpot",
+      "postcode": "400010",
+      "distanceKmFromAirport": 22,
+      "description": "The world's spiciest hotpot - Chongqing invented the tongue-numbing mala broth",
+      "distance": 0.5,
+      "URL": "https://www.cqta.gov.cn/"
+    }
+  ]
+}

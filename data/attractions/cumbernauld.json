@@ -1,0 +1,98 @@
+{
+  "city": "Cumbernauld",
+  "country": "Scotland",
+  "airportPostcode": "PA3 2ST",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Palacerigg Country Park",
+      "postcode": "G67 3HU",
+      "distanceKmFromAirport": 28,
+      "description": "Large country park on the edge of Cumbernauld with a nature reserve, golf course, children's farm and moorland walks",
+      "distance": 3,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Antonine Wall (UNESCO World Heritage)",
+      "postcode": "G68 0HJ",
+      "distanceKmFromAirport": 23,
+      "description": "The northern frontier of the Roman Empire built in AD 142 — the best-preserved section at Bar Hill Fort passes through Cumbernauld",
+      "distance": 5,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 3,
+      "name": "The Falkirk Wheel (Day Trip)",
+      "postcode": "FK1 4RS",
+      "distanceKmFromAirport": 20,
+      "description": "The world's only rotating boat lift — an extraordinary feat of engineering connecting Scotland's two great canals",
+      "distance": 8,
+      "URL": "https://www.scottishcanals.co.uk/falkirk-wheel/"
+    },
+    {
+      "rank": 4,
+      "name": "The Kelpies (Day Trip)",
+      "postcode": "FK2 7ZT",
+      "distanceKmFromAirport": 22,
+      "description": "Andy Scott's magnificent 30-metre horse head sculptures in Falkirk's Helix Park — the world's largest equine statues",
+      "distance": 10,
+      "URL": "https://www.thekelpies.co.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Cumbernauld 1960s New Town Architecture",
+      "postcode": "G67 1DX",
+      "distanceKmFromAirport": 25,
+      "description": "Cumbernauld's radical modernist town centre is an internationally studied example of 1960s Brutalist urban planning",
+      "distance": 0.5,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Stirling Castle (Day Trip)",
+      "postcode": "FK8 1EJ",
+      "distanceKmFromAirport": 30,
+      "description": "One of Scotland's grandest royal castles — home of the Stuart monarchs with a spectacular Renaissance Palace",
+      "distance": 12,
+      "URL": "https://www.stirlingcastle.scot/"
+    },
+    {
+      "rank": 7,
+      "name": "Glasgow (Day Trip)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 30,
+      "description": "Scotland's largest city just 30 minutes by bus — world-class museums, galleries, Mackintosh buildings and great food",
+      "distance": 12,
+      "URL": "https://www.visitglasgow.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Drumpellier Country Park",
+      "postcode": "ML5 4RR",
+      "distanceKmFromAirport": 20,
+      "description": "Popular country park with two lochs and woodland walks — a tranquil escape close to Cumbernauld",
+      "distance": 8,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 9,
+      "name": "Kilsyth Heritage Museum",
+      "postcode": "G65 0HN",
+      "distanceKmFromAirport": 28,
+      "description": "Local heritage museum in the nearby market town of Kilsyth with displays on the 1645 Battle of Kilsyth and local history",
+      "distance": 4,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Summerlee Museum (Day Trip)",
+      "postcode": "ML5 1QD",
+      "distanceKmFromAirport": 22,
+      "description": "Scotland's noisiest museum — working trams, a reconstructed mine and ironworks celebrating Lanarkshire's industrial heritage",
+      "distance": 8,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    }
+  ]
+}

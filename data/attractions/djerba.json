@@ -1,0 +1,98 @@
+{
+  "city": "Djerba",
+  "country": "Tunisia",
+  "airportPostcode": "4180",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "El Ghriba Synagogue",
+      "postcode": "4116",
+      "distanceKmFromAirport": 17,
+      "description": "Oldest synagogue in Africa - Djerba has one of the last significant Jewish communities in the Arab world",
+      "distance": 7.0,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 2,
+      "name": "Guellala Village & Pottery",
+      "postcode": "4175",
+      "distanceKmFromAirport": 25,
+      "description": "Village of 500 pottery workshops producing Djerban amphora since Phoenician times",
+      "distance": 15.0,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 3,
+      "name": "Borj el Kebir (Castelo)",
+      "postcode": "4180",
+      "distanceKmFromAirport": 11,
+      "description": "16th-century Ottoman-Spanish fort overlooking the Houmt Souk harbour",
+      "distance": 1.0,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 4,
+      "name": "Houmt Souk Medina",
+      "postcode": "4180",
+      "distanceKmFromAirport": 10,
+      "description": "Traditional market with antiques, silver jewellery and Berber textiles",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 5,
+      "name": "Aghir & Sidi Mehrez Beaches",
+      "postcode": "4116",
+      "distanceKmFromAirport": 22,
+      "description": "Long white sand beaches on the Atlantic coast of the island",
+      "distance": 12.0,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 6,
+      "name": "Crocodile Farm",
+      "postcode": "4180",
+      "distanceKmFromAirport": 15,
+      "description": "Unusual farm with hundreds of Nile crocodiles",
+      "distance": 5.0,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 7,
+      "name": "Explore Djerba Museum",
+      "postcode": "4180",
+      "distanceKmFromAirport": 16,
+      "description": "Extraordinary contemporary digital museum telling 3,000 years of Djerba history",
+      "distance": 6.0,
+      "URL": "https://www.explore-djerba.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Djerba Explore Heritage Village",
+      "postcode": "4180",
+      "distanceKmFromAirport": 16,
+      "description": "Reconstructed Djerban village with a traditional crafts museum",
+      "distance": 6.0,
+      "URL": "https://www.explore-djerba.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Ajim Ferry & Fishing Village",
+      "postcode": "4175",
+      "distanceKmFromAirport": 28,
+      "description": "Traditional fishing village with an octopus-drying tradition",
+      "distance": 18.0,
+      "URL": "https://www.tourisme.gov.tn/"
+    },
+    {
+      "rank": 10,
+      "name": "Ojja (Spiced Egg Ragout)",
+      "postcode": "4180",
+      "distanceKmFromAirport": 10,
+      "description": "Djerban specialty - scrambled eggs with merguez sausage, peppers and harissa",
+      "distance": 0.5,
+      "URL": "https://www.tourisme.gov.tn/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Chennai",
+  "country": "India",
+  "airportPostcode": "600027",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mahabalipuram Sculptures",
+      "postcode": "603104",
+      "distanceKmFromAirport": 86,
+      "description": "UNESCO World Heritage 7th-century Pallava rock-cut sculptures and shore temples",
+      "distance": 60,
+      "URL": "https://www.mahabalipuram.co.in"
+    },
+    {
+      "rank": 2,
+      "name": "Marina Beach",
+      "postcode": "600005",
+      "distanceKmFromAirport": 30,
+      "description": "World's second longest urban beach at 13km - Chennai's beloved promenade",
+      "distance": 4,
+      "URL": "https://www.tamilnadutourism.tn.gov.in/destinations/marinabeach"
+    },
+    {
+      "rank": 3,
+      "name": "Kapaleeshwarar Temple",
+      "postcode": "600004",
+      "distanceKmFromAirport": 33,
+      "description": "7th-century Dravidian temple to Shiva with a soaring rainbow gopuram gateway",
+      "distance": 7,
+      "URL": "https://www.kapaleeshwarar.org"
+    },
+    {
+      "rank": 4,
+      "name": "Government Museum Chennai",
+      "postcode": "600007",
+      "distanceKmFromAirport": 29,
+      "description": "South India's finest museum with Chola bronzes, Amaravati sculptures and a natural history collection",
+      "distance": 3,
+      "URL": "https://www.chennaimuseum.org"
+    },
+    {
+      "rank": 5,
+      "name": "Fort St George & Museum",
+      "postcode": "600009",
+      "distanceKmFromAirport": 28,
+      "description": "1644 British fort - first in India - with the oldest Anglican church in Asia",
+      "distance": 2,
+      "URL": "https://www.fortstgeorge.com"
+    },
+    {
+      "rank": 6,
+      "name": "San Thome Basilica",
+      "postcode": "600004",
+      "distanceKmFromAirport": 33,
+      "description": "Catholic basilica built over the tomb of the Apostle Thomas who arrived in India in 52 AD",
+      "distance": 7,
+      "URL": "https://www.santhome.org"
+    },
+    {
+      "rank": 7,
+      "name": "Kanchipuram Silk Saree Weaving",
+      "postcode": "631501",
+      "distanceKmFromAirport": 101,
+      "description": "Day trip to the city of 1,000 temples and the finest silk sarees in Tamil Nadu",
+      "distance": 75,
+      "URL": "https://www.tamilnadutourism.tn.gov.in/destinations/kanchipuram"
+    },
+    {
+      "rank": 8,
+      "name": "Bharatanatyam Classical Dance Performance",
+      "postcode": "600004",
+      "distanceKmFromAirport": 33,
+      "description": "Chennai is the home of Bharatanatyam - India's most classical dance form",
+      "distance": 7,
+      "URL": "https://www.tamilnadutourism.tn.gov.in"
+    },
+    {
+      "rank": 9,
+      "name": "Murugan Idli Shop",
+      "postcode": "600004",
+      "distanceKmFromAirport": 33,
+      "description": "Chennai's most famous breakfast - soft steamed rice idlis with sambar and coconut chutney",
+      "distance": 7,
+      "URL": "https://www.muruganidle.com"
+    },
+    {
+      "rank": 10,
+      "name": "Arignar Anna Zoological Park",
+      "postcode": "603001",
+      "distanceKmFromAirport": 58,
+      "description": "India's largest zoo with white tigers and Asiatic lions",
+      "distance": 32,
+      "URL": "https://www.aazp.in"
+    }
+  ]
+}

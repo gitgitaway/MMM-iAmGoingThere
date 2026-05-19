@@ -1,0 +1,98 @@
+{
+  "city": "Dallas",
+  "country": "USA",
+  "airportPostcode": "75261",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sixth Floor Museum at Dealey Plaza",
+      "postcode": "75202",
+      "distanceKmFromAirport": 29,
+      "description": "Museum documenting the assassination of President John F. Kennedy",
+      "distance": 0.1,
+      "URL": "https://www.jfk.org/"
+    },
+    {
+      "rank": 2,
+      "name": "AT&T Stadium Tour",
+      "postcode": "76011",
+      "distanceKmFromAirport": 22,
+      "description": "Behind-the-scenes tour of the home of the Dallas Cowboys in nearby Arlington",
+      "distance": 28.0,
+      "URL": "https://attstadium.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Perot Museum of Nature and Science",
+      "postcode": "75201",
+      "distanceKmFromAirport": 28,
+      "description": "Interactive science museum with stunning architectural design",
+      "distance": 1.0,
+      "URL": "https://www.perotmuseum.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Dallas Arboretum and Botanical Garden",
+      "postcode": "75218",
+      "distanceKmFromAirport": 34,
+      "description": "Beautiful 66-acre garden on the shores of White Rock Lake",
+      "distance": 10.0,
+      "URL": "https://www.dallasarboretum.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Reunion Tower Observation Deck",
+      "postcode": "75207",
+      "distanceKmFromAirport": 28,
+      "description": "360-degree panoramic views of the Dallas skyline from the iconic GeO-Deck",
+      "distance": 0.5,
+      "URL": "https://reuniontower.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Dallas Museum of Art",
+      "postcode": "75201",
+      "distanceKmFromAirport": 28,
+      "description": "World-class art collection with free general admission in the Arts District",
+      "distance": 0.8,
+      "URL": "https://dma.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Deep Ellum",
+      "postcode": "75226",
+      "distanceKmFromAirport": 30,
+      "description": "Vibrant arts, music and entertainment district east of downtown",
+      "distance": 2.5,
+      "URL": "https://deepellumtexas.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Fort Worth Stockyards",
+      "postcode": "76164",
+      "distanceKmFromAirport": 43,
+      "description": "Historic 1887 cattle district with daily longhorn drives and Western heritage",
+      "distance": 50.0,
+      "URL": "https://www.fortworthstockyards.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Klyde Warren Park",
+      "postcode": "75201",
+      "distanceKmFromAirport": 28,
+      "description": "11.5-acre urban green space built over a freeway connecting downtown to Uptown",
+      "distance": 0.8,
+      "URL": "https://www.klydewarrenpark.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Texas Live! Entertainment District",
+      "postcode": "76011",
+      "distanceKmFromAirport": 22,
+      "description": "Adjacent to Globe Life Field with dining, entertainment and live music in Arlington",
+      "distance": 28.0,
+      "URL": "https://www.texas-live.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Cairns",
+  "country": "Australia",
+  "airportPostcode": "4870",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Great Barrier Reef Dive & Snorkel",
+      "postcode": "4870",
+      "distanceKmFromAirport": 74,
+      "description": "The world's largest coral reef system — day trips depart daily from the Reef Fleet Terminal",
+      "distance": 70.0,
+      "URL": "https://www.cairnsreef.com.au/"
+    },
+    {
+      "rank": 2,
+      "name": "Skyrail Rainforest Cableway",
+      "postcode": "4870",
+      "distanceKmFromAirport": 29,
+      "description": "Gondola ride over the UNESCO-listed Wet Tropics rainforest canopy to Kuranda village",
+      "distance": 25.0,
+      "URL": "https://www.skyrail.com.au/"
+    },
+    {
+      "rank": 3,
+      "name": "Daintree Rainforest Day Trip",
+      "postcode": "4873",
+      "distanceKmFromAirport": 134,
+      "description": "The world's oldest tropical rainforest — crocodile spotting, cassowaries and Cape Tribulation beach",
+      "distance": 130.0,
+      "URL": "https://www.daintree-rec.com.au/"
+    },
+    {
+      "rank": 4,
+      "name": "Kuranda Village",
+      "postcode": "4872",
+      "distanceKmFromAirport": 31,
+      "description": "Rainforest village reached by Skyrail or Scenic Railway — markets, butterfly sanctuary and birdworld",
+      "distance": 27.0,
+      "URL": "https://www.kuranda.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Cairns Esplanade & Lagoon",
+      "postcode": "4870",
+      "distanceKmFromAirport": 5,
+      "description": "Free saltwater lagoon on the beachfront — surrounding parkland with mudskippers in the mangroves",
+      "distance": 1.0,
+      "URL": "https://www.cairns.qld.gov.au/"
+    },
+    {
+      "rank": 6,
+      "name": "Hartley's Crocodile Adventures",
+      "postcode": "4871",
+      "distanceKmFromAirport": 44,
+      "description": "Australia's oldest wildlife park with twice-daily croc shows, cassowaries and koala holding",
+      "distance": 40.0,
+      "URL": "https://www.crocodileadventures.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Atherton Tablelands",
+      "postcode": "4883",
+      "distanceKmFromAirport": 84,
+      "description": "Volcanic crater lakes, waterfalls and platypus spotting on the fertile highlands above Cairns",
+      "distance": 80.0,
+      "URL": "https://www.cairnsandgreathawaiianreef.com.au/"
+    },
+    {
+      "rank": 8,
+      "name": "Cairns Regional Gallery",
+      "postcode": "4870",
+      "distanceKmFromAirport": 5,
+      "description": "Indigenous and contemporary Australian art in a beautiful 1936 heritage building in the city centre",
+      "distance": 1.0,
+      "URL": "https://www.cairnsregionalgallery.com.au/"
+    },
+    {
+      "rank": 9,
+      "name": "Tjapukai Aboriginal Cultural Park",
+      "postcode": "4870",
+      "distanceKmFromAirport": 24,
+      "description": "Award-winning immersive experience of Aboriginal culture — boomerang throwing, fire making and storytelling",
+      "distance": 20.0,
+      "URL": "https://www.tjapukai.com.au/"
+    },
+    {
+      "rank": 10,
+      "name": "Night Markets",
+      "postcode": "4870",
+      "distanceKmFromAirport": 5,
+      "description": "Cairns' famous nightly market with Asian street food, massages, souvenirs and live entertainment",
+      "distance": 1.0,
+      "URL": "https://www.cairnsnightmarkets.com.au/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Djibouti City",
+  "country": "Djibouti",
+  "airportPostcode": "BP 196",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Whale Shark Snorkelling (Bay of Ghoubbet)",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 119,
+      "description": "Swim with whale sharks November-January in the Gulf of Aden",
+      "distance": 110,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 2,
+      "name": "Lake Assal",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 124,
+      "description": "Hypersaline crater lake - Africa's lowest point at 155m below sea level with salt flats",
+      "distance": 115,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 3,
+      "name": "Day Forest National Park (Foret du Day)",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 79,
+      "description": "Last remaining juniper forest in the Horn of Africa with endemic birds",
+      "distance": 70,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 4,
+      "name": "Ardoukoba Volcano",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 119,
+      "description": "Walk the 1978 lava flows of the youngest volcano in Africa",
+      "distance": 110,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 5,
+      "name": "Marche Central (Central Market)",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 10,
+      "description": "Spice market with frankincense, myrrh and qat (khat) chewing leaves",
+      "distance": 1,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 6,
+      "name": "Khor Ambado Beach",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 24,
+      "description": "Best beach near the city with mangroves and flamingos at the fringing reef",
+      "distance": 15,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 7,
+      "name": "Palace du Peuple Cultural Centre",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 10,
+      "description": "Djiboutian cultural performances and temporary exhibitions",
+      "distance": 0.5,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 8,
+      "name": "Harar Day Trip (Ethiopia)",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 389,
+      "description": "UNESCO World Heritage walled city 5 hours away - hyena feeding at night",
+      "distance": 380,
+      "URL": "https://www.ethiotourism.gov.et"
+    },
+    {
+      "rank": 9,
+      "name": "Obock & Moucha Island",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 89,
+      "description": "Historical Ottoman outpost and excellent diving in the Gulf of Tadjoura",
+      "distance": 80,
+      "URL": "https://www.djiboutitourism.dj"
+    },
+    {
+      "rank": 10,
+      "name": "Skudahkharis (Lamb & Rice Plate)",
+      "postcode": "BP 196",
+      "distanceKmFromAirport": 10,
+      "description": "Djiboutian national dish of slow-cooked lamb on spiced rice with tomato sauce",
+      "distance": 0.5,
+      "URL": "https://www.djiboutitourism.dj"
+    }
+  ]
+}

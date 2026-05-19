@@ -1,0 +1,98 @@
+{
+  "city": "Dalian",
+  "country": "China",
+  "airportPostcode": "116033",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Binhai Road Scenic Drive",
+      "postcode": "116041",
+      "distanceKmFromAirport": 18,
+      "description": "Spectacular coastal road winding around cliffs, golden beaches and bays",
+      "distance": 8.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 2,
+      "name": "Laohutan Ocean Park",
+      "postcode": "116023",
+      "distanceKmFromAirport": 19,
+      "description": "Cliffside ocean park with a polar world, shark aquarium and rides",
+      "distance": 9.0,
+      "URL": "https://www.laohutan.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Zhongshan Square (Russian Architecture)",
+      "postcode": "116001",
+      "distanceKmFromAirport": 11,
+      "description": "Eight-road intersection with the finest Russian colonial architecture in China",
+      "distance": 1.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 4,
+      "name": "Dalian Discovery Kingdom",
+      "postcode": "116033",
+      "distanceKmFromAirport": 20,
+      "description": "Large theme park and water park with some of the tallest roller coasters in Asia",
+      "distance": 10.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 5,
+      "name": "Xinghai Square & Bay",
+      "postcode": "116023",
+      "distanceKmFromAirport": 18,
+      "description": "One of the world's largest public squares by area on the Dalian seafront",
+      "distance": 8.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 6,
+      "name": "Lushun (Port Arthur) Military Museum",
+      "postcode": "116041",
+      "distanceKmFromAirport": 55,
+      "description": "Russo-Japanese War battlefields and the 203 Hill where the naval battle was decided",
+      "distance": 45.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Star Beach (Xinghai Beach)",
+      "postcode": "116023",
+      "distanceKmFromAirport": 18,
+      "description": "Dalian's most beautiful sandy beach",
+      "distance": 8.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 8,
+      "name": "Dalian Natural History Museum",
+      "postcode": "116023",
+      "distanceKmFromAirport": 17,
+      "description": "Dalian's remarkable prehistoric marine fossil collection",
+      "distance": 7.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 9,
+      "name": "Modern Museum of Dalian",
+      "postcode": "116001",
+      "distanceKmFromAirport": 12,
+      "description": "History of Dalian from Russian and Japanese colonial times to the present",
+      "distance": 2.0,
+      "URL": "https://www.dalian.gov.cn/"
+    },
+    {
+      "rank": 10,
+      "name": "Seafood at Gangwan Square",
+      "postcode": "116001",
+      "distanceKmFromAirport": 12,
+      "description": "Grilled scallops, sea urchin and hairy crab at the Dalian seafood market",
+      "distance": 2.5,
+      "URL": "https://www.dalian.gov.cn/"
+    }
+  ]
+}

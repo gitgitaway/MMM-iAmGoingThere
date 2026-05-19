@@ -1,0 +1,98 @@
+{
+  "city": "Drogheda",
+  "country": "Ireland",
+  "airportPostcode": "K67 E5X7",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Newgrange & Brú na Bóinne (UNESCO)",
+      "postcode": "C15 XR64",
+      "distanceKmFromAirport": 52,
+      "description": "5,200-year-old passage tomb older than Stonehenge and the Great Pyramid — a UNESCO World Heritage Site, Ireland's most important prehistoric site",
+      "distance": 8,
+      "URL": "https://www.worldheritageireland.ie/bru-na-boinne/"
+    },
+    {
+      "rank": 2,
+      "name": "Millmount Museum & Tower",
+      "postcode": "A92 Y5CP",
+      "distanceKmFromAirport": 50,
+      "description": "Drogheda's Martello tower museum on a prehistoric mound — local history collections and superb views over the town and Boyne valley",
+      "distance": 0.5,
+      "URL": "https://www.millmount.net/"
+    },
+    {
+      "rank": 3,
+      "name": "St Peter's Church (Oliver Plunkett Shrine)",
+      "postcode": "A92 XP87",
+      "distanceKmFromAirport": 50,
+      "description": "The preserved head of St Oliver Plunkett, martyred Archbishop of Armagh — one of Ireland's most visited pilgrimage sites",
+      "distance": 0.5,
+      "URL": "https://www.saintpetersdrogheda.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Monasterboice Round Tower & High Crosses",
+      "postcode": "A92 R2PX",
+      "distanceKmFromAirport": 57,
+      "description": "5th-century monastic site with one of Ireland's finest round towers and the intricately carved Muiredach's High Cross — a masterpiece of Celtic art",
+      "distance": 9,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 5,
+      "name": "Battle of the Boyne Site (Oldbridge Estate)",
+      "postcode": "C15 TX55",
+      "distanceKmFromAirport": 55,
+      "description": "Site of the 1690 battle where William of Orange defeated James II — a beautifully restored estate with an excellent visitor centre",
+      "distance": 8,
+      "URL": "https://www.battleoftheboyne.ie/"
+    },
+    {
+      "rank": 6,
+      "name": "Drogheda Town Walls (Laurence Gate)",
+      "postcode": "A92 R9FH",
+      "distanceKmFromAirport": 50,
+      "description": "Drogheda's impressive medieval walls — Laurence Gate is one of Ireland's finest surviving medieval town gates, built in the 13th century",
+      "distance": 0.5,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Knowth & Dowth (Brú na Bóinne)",
+      "postcode": "C15 XR64",
+      "distanceKmFromAirport": 53,
+      "description": "Sister passage tombs to Newgrange in the Boyne Valley — Knowth has more decorated megalithic art than any site in Western Europe",
+      "distance": 9,
+      "URL": "https://www.worldheritageireland.ie/bru-na-boinne/"
+    },
+    {
+      "rank": 8,
+      "name": "Slane Castle",
+      "postcode": "C15 KT37",
+      "distanceKmFromAirport": 58,
+      "description": "Gothic Revival castle of the Marquess of Conyngham in the beautiful Boyne valley — famous for hosting major rock concerts",
+      "distance": 12,
+      "URL": "https://www.slanecastle.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Mellifont Abbey (Day Trip)",
+      "postcode": "A92 KH97",
+      "distanceKmFromAirport": 55,
+      "description": "Ireland's first Cistercian abbey founded in 1142 — the elegant Romanesque Lavabo is one of Ireland's finest medieval architectural survivors",
+      "distance": 9,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Termonfeckin Heritage Village",
+      "postcode": "A92 W4Y3",
+      "distanceKmFromAirport": 56,
+      "description": "Charming coastal village with a 15th-century tower house, thatched pub and a Blue Flag beach on the Irish Sea",
+      "distance": 10,
+      "URL": "https://www.discoverireland.ie/"
+    }
+  ]
+}

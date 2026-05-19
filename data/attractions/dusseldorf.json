@@ -1,0 +1,98 @@
+{
+  "city": "Dusseldorf",
+  "country": "Germany",
+  "airportPostcode": "40474",
+  "airportDistanceKm": 9,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Altstadt",
+      "postcode": "40213",
+      "distanceKmFromAirport": 10,
+      "description": "The old town, famous as the longest bar in the world, with hundreds of pubs and restaurants",
+      "distance": 0.5,
+      "URL": "https://www.duesseldorf-tourismus.de"
+    },
+    {
+      "rank": 2,
+      "name": "Kunstsammlung NRW",
+      "postcode": "40213",
+      "distanceKmFromAirport": 10,
+      "description": "Two world-class museums (K20 and K21) with Klee, Mondrian and contemporary art",
+      "distance": 1,
+      "URL": "https://www.kunstsammlung.de"
+    },
+    {
+      "rank": 3,
+      "name": "Medienhafen",
+      "postcode": "40221",
+      "distanceKmFromAirport": 11,
+      "description": "Striking media harbour with iconic Frank Gehry buildings and waterfront restaurants",
+      "distance": 2,
+      "URL": "https://www.medienhafen.de"
+    },
+    {
+      "rank": 4,
+      "name": "Konigsallee",
+      "postcode": "40212",
+      "distanceKmFromAirport": 10,
+      "description": "Elegant tree-lined boulevard with luxury boutiques along a canal",
+      "distance": 0.8,
+      "URL": "https://www.konigsallee.de"
+    },
+    {
+      "rank": 5,
+      "name": "Rheinturm",
+      "postcode": "40221",
+      "distanceKmFromAirport": 11,
+      "description": "240-metre communication tower with revolving restaurant and observation deck",
+      "distance": 2,
+      "URL": "https://www.rheinturm.de"
+    },
+    {
+      "rank": 6,
+      "name": "Hofgarten",
+      "postcode": "40213",
+      "distanceKmFromAirport": 10,
+      "description": "Oldest public park in the Rhineland, a neoclassical English landscape garden",
+      "distance": 1.5,
+      "URL": "https://www.duesseldorf-tourismus.de"
+    },
+    {
+      "rank": 7,
+      "name": "Benrath Palace",
+      "postcode": "40597",
+      "distanceKmFromAirport": 24,
+      "description": "Elegant 18th-century rococo pleasure palace with magnificent formal gardens",
+      "distance": 15,
+      "URL": "https://www.schloss-benrath.de"
+    },
+    {
+      "rank": 8,
+      "name": "Carlsplatz Market",
+      "postcode": "40213",
+      "distanceKmFromAirport": 10,
+      "description": "Vibrant food market with organic produce, flowers and local delicacies",
+      "distance": 0.5,
+      "URL": "https://www.carlsplatz.de"
+    },
+    {
+      "rank": 9,
+      "name": "Aquazoo Lowenbruch",
+      "postcode": "40200",
+      "distanceKmFromAirport": 14,
+      "description": "Zoo and aquarium with sharks, crocodiles and Europe's largest aquarium tunnel",
+      "distance": 5,
+      "URL": "https://www.aquazoo-duesseldorf.de"
+    },
+    {
+      "rank": 10,
+      "name": "Dusseldorf Carnival",
+      "postcode": "40213",
+      "distanceKmFromAirport": 9,
+      "description": "Famous Rose Monday parade, one of Germany's largest carnival celebrations",
+      "distance": 0,
+      "URL": "https://www.duesseldorf-tourismus.de/veranstaltungen/karneval"
+    }
+  ]
+}

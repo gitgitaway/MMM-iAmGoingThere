@@ -1,0 +1,98 @@
+{
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "airportPostcode": "11010",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Galle Fort Day Trip",
+      "postcode": "80000",
+      "distanceKmFromAirport": 155,
+      "description": "UNESCO World Heritage 17th-century Dutch fort-town — rampart walks, boutique hotels and cricket on the grounds",
+      "distance": 120.0,
+      "URL": "https://www.srilanka.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Gangaramaya Temple",
+      "postcode": "00200",
+      "distanceKmFromAirport": 38,
+      "description": "Eclectic Buddhist temple on Beira Lake — mix of Thai, Indian, Chinese and Sri Lankan architecture",
+      "distance": 3.5,
+      "URL": "https://www.gangaramaya.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Pettah Floating Market",
+      "postcode": "01100",
+      "distanceKmFromAirport": 38,
+      "description": "Vibrant canal market area in Colombo's oldest bazaar district — spices, fabrics and street food",
+      "distance": 3.0,
+      "URL": "https://www.srilanka.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Colombo",
+      "postcode": "00700",
+      "distanceKmFromAirport": 38,
+      "description": "Sri Lanka's largest museum with the Kandyan royal throne, gem collection and ancient Sinhalese artefacts",
+      "distance": 2.5,
+      "URL": "https://www.museum.gov.lk/"
+    },
+    {
+      "rank": 5,
+      "name": "Negombo Beach",
+      "postcode": "11500",
+      "distanceKmFromAirport": 70,
+      "description": "Laid-back beach town just north of the airport — good seafood, canals and a lagoon full of fish",
+      "distance": 35.0,
+      "URL": "https://www.srilanka.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Lotus Tower",
+      "postcode": "01000",
+      "distanceKmFromAirport": 37,
+      "description": "South Asia's tallest tower at 356 m — observation deck with views across Colombo and the ocean",
+      "distance": 2.0,
+      "URL": "https://www.lotustower.lk/"
+    },
+    {
+      "rank": 7,
+      "name": "Galle Face Green",
+      "postcode": "00300",
+      "distanceKmFromAirport": 37,
+      "description": "Historic ocean promenade where families fly kites and eat deep-fried snacks at sunset",
+      "distance": 2.0,
+      "URL": "https://www.srilanka.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Dambulla Cave Temple Day Trip",
+      "postcode": "21100",
+      "distanceKmFromAirport": 210,
+      "description": "UNESCO World Heritage cave temple with 150 Buddha statues and magnificent ceiling frescoes",
+      "distance": 175.0,
+      "URL": "https://www.srilanka.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Dutch Hospital Shopping Precinct",
+      "postcode": "01200",
+      "distanceKmFromAirport": 38,
+      "description": "Restored 17th-century Dutch hospital transformed into Colombo's most atmospheric dining and shopping hub",
+      "distance": 3.5,
+      "URL": "https://dutchhospital.lk/"
+    },
+    {
+      "rank": 10,
+      "name": "Sri Dalada Maligawa (Temple of the Tooth)",
+      "postcode": "20000",
+      "distanceKmFromAirport": 155,
+      "description": "Kandy's sacred Buddhist temple housing a relic of the Buddha's tooth — 3 hours from Colombo by train",
+      "distance": 120.0,
+      "URL": "https://www.sridaladamaligawa.lk/"
+    }
+  ]
+}

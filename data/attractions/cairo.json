@@ -1,0 +1,98 @@
+{
+  "city": "Cairo",
+  "country": "Egypt",
+  "airportPostcode": "11776",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Great Pyramids of Giza",
+      "postcode": "12556",
+      "distanceKmFromAirport": 42,
+      "description": "The only surviving Wonder of the Ancient World and the Great Sphinx on the Giza plateau",
+      "distance": 17.0,
+      "URL": "https://www.egypt.travel/en/attractions/pyramids-of-giza"
+    },
+    {
+      "rank": 2,
+      "name": "Egyptian Museum",
+      "postcode": "11557",
+      "distanceKmFromAirport": 28,
+      "description": "World's greatest collection of ancient Egyptian artefacts including Tutankhamun's treasures",
+      "distance": 3.5,
+      "URL": "https://www.egyptianmuseum.gov.eg/"
+    },
+    {
+      "rank": 3,
+      "name": "Khan el-Khalili Bazaar",
+      "postcode": "11511",
+      "distanceKmFromAirport": 30,
+      "description": "Cairo's medieval Islamic bazaar selling spices, gold, papyrus and alabaster since 1382",
+      "distance": 4.5,
+      "URL": "https://www.egypt.travel/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Citadel of Saladin",
+      "postcode": "11638",
+      "distanceKmFromAirport": 31,
+      "description": "12th-century hilltop fortress with the magnificent Muhammad Ali mosque and city panorama",
+      "distance": 6.0,
+      "URL": "https://www.egypt.travel/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Coptic Cairo (Old Cairo)",
+      "postcode": "11511",
+      "distanceKmFromAirport": 30,
+      "description": "Ancient Christian quarter with hanging churches, the Coptic Museum and Ben Ezra Synagogue",
+      "distance": 5.0,
+      "URL": "https://www.egypt.travel/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Al-Azhar Mosque",
+      "postcode": "11511",
+      "distanceKmFromAirport": 30,
+      "description": "World's second oldest university and one of Islam's most important places of learning",
+      "distance": 4.5,
+      "URL": "https://www.egypt.travel/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Grand Egyptian Museum (GEM)",
+      "postcode": "12556",
+      "distanceKmFromAirport": 40,
+      "description": "The world's largest archaeological museum housing the complete Tutankhamun collection",
+      "distance": 15.0,
+      "URL": "https://gem.gov.eg/"
+    },
+    {
+      "rank": 8,
+      "name": "Nile Dinner Cruise",
+      "postcode": "11557",
+      "distanceKmFromAirport": 28,
+      "description": "Dinner cruise along the Nile with belly dancing and live music past illuminated Cairo",
+      "distance": 3.0,
+      "URL": "https://www.egypt.travel/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Islamic Cairo",
+      "postcode": "11511",
+      "distanceKmFromAirport": 30,
+      "description": "UNESCO-listed medieval Islamic city with 600 monuments and the Street of the Tentmakers",
+      "distance": 4.5,
+      "URL": "https://www.egypt.travel/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Memphis & Saqqara",
+      "postcode": "12411",
+      "distanceKmFromAirport": 55,
+      "description": "Ancient capital with the Step Pyramid - the world's oldest cut stone structure",
+      "distance": 30.0,
+      "URL": "https://www.egypt.travel/en/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Dunedin",
+  "country": "New Zealand",
+  "airportPostcode": "9018",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Otago Peninsula",
+      "postcode": "9014",
+      "distanceKmFromAirport": 55,
+      "description": "Wildlife-rich peninsula with Royal Albatross Colony, yellow-eyed penguins and sea lions",
+      "distance": 25,
+      "URL": "https://www.otagopeninsula.co.nz"
+    },
+    {
+      "rank": 2,
+      "name": "Larnach Castle",
+      "postcode": "9077",
+      "distanceKmFromAirport": 55,
+      "description": "New Zealand's only castle on the hilltop of Otago Peninsula with sea views",
+      "distance": 25,
+      "URL": "https://www.larnachcastle.co.nz"
+    },
+    {
+      "rank": 3,
+      "name": "Baldwin Street",
+      "postcode": "9010",
+      "distanceKmFromAirport": 32,
+      "description": "World's steepest residential street - a 35% gradient climbing into the northern suburbs",
+      "distance": 2,
+      "URL": "https://www.dunedinnz.com/visit/see-and-do/attractions/baldwin-street"
+    },
+    {
+      "rank": 4,
+      "name": "Dunedin Railway Station",
+      "postcode": "9016",
+      "distanceKmFromAirport": 30,
+      "description": "Flemish Renaissance 'Gingerbread George' station - New Zealand's most photographed building",
+      "distance": 0.5,
+      "URL": "https://www.dunedinrailways.co.nz"
+    },
+    {
+      "rank": 5,
+      "name": "Otago Museum",
+      "postcode": "9016",
+      "distanceKmFromAirport": 32,
+      "description": "Natural history and Pacific culture museum with the unique Discovery World science centre",
+      "distance": 1.5,
+      "URL": "https://www.otagomuseum.nz"
+    },
+    {
+      "rank": 6,
+      "name": "Speight's Brewery Tour",
+      "postcode": "9016",
+      "distanceKmFromAirport": 31,
+      "description": "Tour of the 1876 Southern Man's Brewery with tasting of Speight's ales",
+      "distance": 1,
+      "URL": "https://www.speights.co.nz"
+    },
+    {
+      "rank": 7,
+      "name": "The Octagon",
+      "postcode": "9016",
+      "distanceKmFromAirport": 30,
+      "description": "Dunedin's central plaza with the Robert Burns statue and St Paul's Anglican Cathedral",
+      "distance": 0.1,
+      "URL": "https://www.dunedinnz.com"
+    },
+    {
+      "rank": 8,
+      "name": "Taieri Gorge Railway",
+      "postcode": "9016",
+      "distanceKmFromAirport": 30,
+      "description": "Heritage train through spectacular Taieri Gorge on one of the world's greatest rail journeys",
+      "distance": 0.5,
+      "URL": "https://www.dunedinrailways.co.nz"
+    },
+    {
+      "rank": 9,
+      "name": "Tunnel Beach",
+      "postcode": "9012",
+      "distanceKmFromAirport": 38,
+      "description": "Hand-carved 19th-century tunnel through sea cliffs to a secluded beach and sandstone arches",
+      "distance": 8,
+      "URL": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/tunnel-beach-scenic-reserve"
+    },
+    {
+      "rank": 10,
+      "name": "St Clair & St Kilda Beaches",
+      "postcode": "9012",
+      "distanceKmFromAirport": 34,
+      "description": "Southern surf beaches with esplanade, saltwater pool and the best fish and chips",
+      "distance": 4,
+      "URL": "https://www.dunedinnz.com"
+    }
+  ]
+}

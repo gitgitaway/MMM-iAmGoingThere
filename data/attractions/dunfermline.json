@@ -1,0 +1,98 @@
+{
+  "city": "Dunfermline",
+  "country": "Scotland",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Dunfermline Abbey & Palace",
+      "postcode": "KY12 7PE",
+      "distanceKmFromAirport": 22,
+      "description": "Ancient Benedictine abbey and medieval palace ruins — burial place of Robert the Bruce and 22 other Scottish royals, once Scotland's capital",
+      "distance": 0.5,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 2,
+      "name": "Carnegie Birthplace Museum",
+      "postcode": "KY12 7PL",
+      "distanceKmFromAirport": 22,
+      "description": "The humble Dunfermline cottage where Andrew Carnegie, the world's greatest philanthropist, was born in 1835",
+      "distance": 0.5,
+      "URL": "https://www.carnegiebirthplace.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Pittencrieff Park & Glen",
+      "postcode": "KY12 8QH",
+      "distanceKmFromAirport": 22,
+      "description": "Spectacular 76-acre park gifted to the people of Dunfermline by Andrew Carnegie — walled garden, glen walks and peacocks",
+      "distance": 0.5,
+      "URL": "https://www.dunfermlineheritage.org.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Deep Sea World (North Queensferry)",
+      "postcode": "KY11 1HP",
+      "distanceKmFromAirport": 16,
+      "description": "One of the UK's largest aquariums with the world's longest underwater walkthrough tunnel — sharks, piranhas and seahorses",
+      "distance": 8,
+      "URL": "https://www.deepseaworld.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Forth Bridge (UNESCO World Heritage)",
+      "postcode": "EH30 9SF",
+      "distanceKmFromAirport": 12,
+      "description": "Iconic Victorian cantilever railway bridge over the Firth of Forth — a UNESCO World Heritage Site and engineering masterpiece since 1890",
+      "distance": 12,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Abbot House Heritage Centre",
+      "postcode": "KY12 7NJ",
+      "distanceKmFromAirport": 22,
+      "description": "Scotland's oldest secular building (late 14th century), now a heritage centre exploring 1,000 years of Dunfermline's royal history",
+      "distance": 0.5,
+      "URL": "https://www.abbothouseheritage.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Knockhill Racing Circuit",
+      "postcode": "KY12 9TF",
+      "distanceKmFromAirport": 28,
+      "description": "Scotland's national motorsport venue hosting motorsport events, track days and an adrenalin-packed driving experience centre",
+      "distance": 6,
+      "URL": "https://www.knockhill.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Culross Palace & Village (NTS)",
+      "postcode": "KY12 8JH",
+      "distanceKmFromAirport": 30,
+      "description": "Scotland's best-preserved example of a 17th-century Scottish burgh — a golden palace and cobbled streets untouched by time",
+      "distance": 16,
+      "URL": "https://www.nts.org.uk/visit/places/culross-palace"
+    },
+    {
+      "rank": 9,
+      "name": "Dunfermline Museum & Small Gallery",
+      "postcode": "KY12 7PE",
+      "distanceKmFromAirport": 22,
+      "description": "Free local museum adjacent to the Abbey covering Dunfermline's textile heritage and local history",
+      "distance": 0.5,
+      "URL": "https://www.onfife.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Loch Leven Castle & Nature Reserve (Day Trip)",
+      "postcode": "KY13 8UF",
+      "distanceKmFromAirport": 40,
+      "description": "Island castle where Mary Queen of Scots was imprisoned in 1567 surrounded by one of Scotland's finest wetland nature reserves",
+      "distance": 18,
+      "URL": "https://www.historicenvironment.scot/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Chicago",
+  "country": "USA",
+  "airportPostcode": "60666",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Millennium Park & Cloud Gate",
+      "postcode": "60601",
+      "distanceKmFromAirport": 28,
+      "description": "The iconic Bean sculpture, Crown Fountain and free summer concerts in Chicago's stunning lakefront park",
+      "distance": 1.5,
+      "URL": "https://www.millenniumpark.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Art Institute of Chicago",
+      "postcode": "60603",
+      "distanceKmFromAirport": 28,
+      "description": "One of the world's great art museums — Seurat's Sunday on La Grande Jatte and American Gothic are here",
+      "distance": 1.5,
+      "URL": "https://www.artic.edu/"
+    },
+    {
+      "rank": 3,
+      "name": "Chicago Architecture Boat Tour",
+      "postcode": "60601",
+      "distanceKmFromAirport": 28,
+      "description": "The best way to see Chicago's extraordinary skyline — 90-minute guided river cruise past iconic buildings",
+      "distance": 1.0,
+      "URL": "https://www.architecturetours.com/"
+    },
+    {
+      "rank": 4,
+      "name": "360 Chicago (John Hancock Observatory)",
+      "postcode": "60611",
+      "distanceKmFromAirport": 30,
+      "description": "The TILT experience tilts you out over Michigan Avenue 94 floors up — breathtaking lake and city views",
+      "distance": 2.5,
+      "URL": "https://www.360chicago.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Deep Dish Pizza",
+      "postcode": "60601",
+      "distanceKmFromAirport": 28,
+      "description": "Chicago's greatest culinary icon — try Lou Malnati's, Giordano's or Pizzeria Uno where it was invented in 1943",
+      "distance": 1.0,
+      "URL": "https://www.loumalnatis.com/"
+    },
+    {
+      "rank": 6,
+      "name": "The Magnificent Mile",
+      "postcode": "60611",
+      "distanceKmFromAirport": 30,
+      "description": "Chicago's premier shopping boulevard along North Michigan Avenue — flagship stores and architectural landmarks",
+      "distance": 2.5,
+      "URL": "https://www.themagnificentmile.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Wrigley Field Tour",
+      "postcode": "60613",
+      "distanceKmFromAirport": 36,
+      "description": "Baseball's most beloved ballpark (1914) — home of the Chicago Cubs with iconic ivy-covered outfield walls",
+      "distance": 9.0,
+      "URL": "https://www.mlb.com/cubs/ballpark"
+    },
+    {
+      "rank": 8,
+      "name": "Field Museum of Natural History",
+      "postcode": "60605",
+      "distanceKmFromAirport": 30,
+      "description": "World-class museum on Museum Campus with Sue, the most complete T-Rex skeleton ever found",
+      "distance": 3.5,
+      "URL": "https://www.fieldmuseum.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Chicago Riverwalk",
+      "postcode": "60601",
+      "distanceKmFromAirport": 28,
+      "description": "Two miles of restaurants, bars and kayak rentals along the Chicago River through the heart of downtown",
+      "distance": 1.0,
+      "URL": "https://www.chicago.gov/riverwalk"
+    },
+    {
+      "rank": 10,
+      "name": "Navy Pier",
+      "postcode": "60611",
+      "distanceKmFromAirport": 30,
+      "description": "Chicago's most visited attraction — ferris wheel, IMAX, Shakespeare Theatre and spectacular fireworks",
+      "distance": 3.0,
+      "URL": "https://navypier.org/"
+    }
+  ]
+}

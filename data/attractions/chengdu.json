@@ -1,0 +1,98 @@
+{
+  "city": "Chengdu",
+  "country": "China",
+  "airportPostcode": "611731",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Giant Panda Breeding Research Base",
+      "postcode": "610083",
+      "distanceKmFromAirport": 60,
+      "description": "Home to 100+ giant pandas — arrive early morning to see the cubs at their most active during feeding",
+      "distance": 10.0,
+      "URL": "https://www.panda.org.cn/english/"
+    },
+    {
+      "rank": 2,
+      "name": "Jiuzhaigou Valley",
+      "postcode": "623402",
+      "distanceKmFromAirport": 390,
+      "description": "UNESCO World Heritage turquoise lakes and waterfalls in a spectacular mountain valley — 9 hours north",
+      "distance": 340.0,
+      "URL": "https://www.jiuzhai.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Jinli Ancient Street",
+      "postcode": "610041",
+      "distanceKmFromAirport": 56,
+      "description": "Reconstructed Han Dynasty street with tea houses, street food, local handicrafts and Sichuan opera masks",
+      "distance": 5.5,
+      "URL": "https://www.chengdu.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Leshan Giant Buddha Day Trip",
+      "postcode": "614000",
+      "distanceKmFromAirport": 190,
+      "description": "The world's largest stone Buddha (71 m) carved from a cliff face — river boat provides the best view",
+      "distance": 140.0,
+      "URL": "https://www.leshantravel.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Sichuan Opera at Shufeng Yayun",
+      "postcode": "610041",
+      "distanceKmFromAirport": 56,
+      "description": "Evening performance of face-changing, fire-breathing and puppet shows — a uniquely Chengdu experience",
+      "distance": 5.5,
+      "URL": "https://www.chengdu.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Wuhou Shrine & Museum",
+      "postcode": "610041",
+      "distanceKmFromAirport": 56,
+      "description": "Dedicated to Zhuge Liang and Liu Bei of Three Kingdoms fame — beautiful gardens and a Han Dynasty tomb",
+      "distance": 5.5,
+      "URL": "https://www.wuhouci.net.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Du Fu Thatched Cottage",
+      "postcode": "610042",
+      "distanceKmFromAirport": 56,
+      "description": "Reconstruction of the Tang Dynasty poet's cottage — tranquil gardens beloved by Chinese literary scholars",
+      "distance": 6.0,
+      "URL": "https://www.chengdu.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Hot Pot Dinner",
+      "postcode": "610000",
+      "distanceKmFromAirport": 53,
+      "description": "Sichuan hot pot is one of China's great culinary experiences — numbingly spicy broth for dipping anything",
+      "distance": 3.0,
+      "URL": "https://www.chengdu.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Sanxingdui Museum",
+      "postcode": "618010",
+      "distanceKmFromAirport": 90,
+      "description": "Extraordinary 3,000-year-old bronze masks and figures from a previously unknown ancient civilisation",
+      "distance": 40.0,
+      "URL": "https://www.sxd.cn/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Qingcheng Mountain Day Trip",
+      "postcode": "611830",
+      "distanceKmFromAirport": 115,
+      "description": "UNESCO World Heritage Taoist mountain with 36 peaks, ancient temples and misty cable-car rides",
+      "distance": 65.0,
+      "URL": "https://www.chengdu.travel/"
+    }
+  ]
+}

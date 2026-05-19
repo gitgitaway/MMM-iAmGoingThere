@@ -1,0 +1,98 @@
+{
+  "city": "Douala",
+  "country": "Cameroon",
+  "airportPostcode": "BP 1006",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Musee de Douala (Doual'Art)",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 7,
+      "description": "Contemporary Cameroonian art in the former colonial courthouse",
+      "distance": 1,
+      "URL": "https://www.doualart.org"
+    },
+    {
+      "rank": 2,
+      "name": "Marche Central",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 8,
+      "description": "Cameroon's biggest market with masks, fabrics, spices and local crafts",
+      "distance": 1.5,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 3,
+      "name": "Bonanjo Historic District",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 9,
+      "description": "German colonial quarter with the finest 1900-1914 colonial architecture in Central Africa",
+      "distance": 3,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 4,
+      "name": "Mount Cameroon Hike",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 66,
+      "description": "Active volcano 4,095m - highest in West Africa, 3-day climb from Buea",
+      "distance": 60,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 5,
+      "name": "Wouri Estuary Boat Trip",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 8,
+      "description": "Pirogue through the mangroves of the Wouri River delta",
+      "distance": 2,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 6,
+      "name": "Limbe Wildlife Centre",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 86,
+      "description": "Gorilla, chimpanzee and drill rescue centre at Limbe on the coast",
+      "distance": 80,
+      "URL": "https://www.limbewildlifecentre.com"
+    },
+    {
+      "rank": 7,
+      "name": "Black Volcanic Beach (Limbe)",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 86,
+      "description": "Dramatic black sand beach at the foot of Mount Cameroon",
+      "distance": 80,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 8,
+      "name": "Bana Village Royal Palace",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 306,
+      "description": "Traditional Bamileke chiefly palace with ancestor skull shrines",
+      "distance": 300,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 9,
+      "name": "Deido Market",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 8,
+      "description": "Douala's oldest market with everything from palm wine to carved masks",
+      "distance": 2,
+      "URL": "https://www.cameroon-tourism.com"
+    },
+    {
+      "rank": 10,
+      "name": "Ndole (Bitter Leaf Stew)",
+      "postcode": "BP 1006",
+      "distanceKmFromAirport": 7,
+      "description": "Cameroon's national dish - ndole bitter leaf with bonga fish and groundnuts",
+      "distance": 1,
+      "URL": "https://www.cameroon-tourism.com"
+    }
+  ]
+}

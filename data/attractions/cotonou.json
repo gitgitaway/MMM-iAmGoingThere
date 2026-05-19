@@ -1,0 +1,98 @@
+{
+  "city": "Cotonou",
+  "country": "Benin",
+  "airportPostcode": "BP 305",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ganvie Lake Village",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 21,
+      "description": "Africa's largest lake village - 30,000 people living in stilt houses on Lake Nokoue",
+      "distance": 18.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Ouidah Slave Route & Door of No Return",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 45,
+      "description": "Slave trade memorial trail ending at the Atlantic beach - the most important in West Africa",
+      "distance": 42.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Dantokpa Market",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 5,
+      "description": "West Africa's largest market sprawling across the Cotonou waterfront",
+      "distance": 2.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Royal Palaces of Abomey",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 143,
+      "description": "UNESCO World Heritage capital of the Dahomey kingdom with warrior bas-reliefs",
+      "distance": 140.0,
+      "URL": "https://whc.unesco.org/en/list/323/"
+    },
+    {
+      "rank": 5,
+      "name": "Python Temple (Ouidah)",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 45,
+      "description": "Temple in Ouidah where 50 royal pythons are kept - one will be placed around your neck",
+      "distance": 42.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Porto-Novo Royal Palace",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 33,
+      "description": "Former king's palace of the neighbouring capital with ethnographic museum",
+      "distance": 30.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Zomachi Voodoo Ceremony",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 45,
+      "description": "Annual National Voodoo Day on January 10 celebrated across Ouidah",
+      "distance": 42.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Musee d'Histoire de Ouidah",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 45,
+      "description": "Former Portuguese slave fort turned into a museum of the Dahomey slave trade",
+      "distance": 42.0,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Cotonou Marina Market",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 4,
+      "description": "Market built over the lagoon with crafts, hammocks and fresh produce",
+      "distance": 1.5,
+      "URL": "https://www.benintourisme.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Atassi (Haricot Bean Stew)",
+      "postcode": "BP 305",
+      "distanceKmFromAirport": 4,
+      "description": "Benin's popular street dish - black-eyed bean stew with palm oil and spices",
+      "distance": 0.5,
+      "URL": "https://www.benintourisme.com/"
+    }
+  ]
+}

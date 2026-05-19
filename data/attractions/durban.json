@@ -1,0 +1,98 @@
+{
+  "city": "Durban",
+  "country": "South Africa",
+  "airportPostcode": "4418",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "uShaka Marine World",
+      "postcode": "4056",
+      "distanceKmFromAirport": 39,
+      "description": "One of the world's top aquariums with whale sharks, and the best beaches in Africa",
+      "distance": 4,
+      "URL": "https://www.ushakamarineworld.co.za"
+    },
+    {
+      "rank": 2,
+      "name": "Golden Mile Beach",
+      "postcode": "4056",
+      "distanceKmFromAirport": 38,
+      "description": "5km of warm Indian Ocean beach - the best surf city in South Africa",
+      "distance": 3,
+      "URL": "https://www.durban.gov.za"
+    },
+    {
+      "rank": 3,
+      "name": "Victoria Street Market (Indian Market)",
+      "postcode": "4001",
+      "distanceKmFromAirport": 36,
+      "description": "South Africa's largest Indian market with spices, saris and religious artefacts",
+      "distance": 1,
+      "URL": "https://www.victoriastreetmarket.co.za"
+    },
+    {
+      "rank": 4,
+      "name": "Hluhluwe-iMfolozi Park",
+      "postcode": "3962",
+      "distanceKmFromAirport": 305,
+      "description": "World's oldest game reserve - the park that saved the white rhino from extinction",
+      "distance": 270,
+      "URL": "https://www.kznwildlife.com"
+    },
+    {
+      "rank": 5,
+      "name": "Moses Mabhida Stadium",
+      "postcode": "4001",
+      "distanceKmFromAirport": 38,
+      "description": "2010 FIFA World Cup stadium with a cable car ride up the great arch",
+      "distance": 3,
+      "URL": "https://www.mosesmabhidastadium.com"
+    },
+    {
+      "rank": 6,
+      "name": "iSimangaliso Wetland Park",
+      "postcode": "3936",
+      "distanceKmFromAirport": 270,
+      "description": "UNESCO World Heritage park with hippos, crocodiles and humpback whale sightings",
+      "distance": 235,
+      "URL": "https://www.isimangaliso.com"
+    },
+    {
+      "rank": 7,
+      "name": "Drakensberg Mountains Day Trip",
+      "postcode": "3353",
+      "distanceKmFromAirport": 220,
+      "description": "UNESCO World Heritage Giant's Castle with Bushman rock art and dramatic escarpment views",
+      "distance": 185,
+      "URL": "https://www.kznwildlife.com"
+    },
+    {
+      "rank": 8,
+      "name": "Umhlanga Rocks",
+      "postcode": "4320",
+      "distanceKmFromAirport": 52,
+      "description": "Upmarket beach suburb with the famous red-and-white lighthouse",
+      "distance": 17,
+      "URL": "https://www.umhlanga.com"
+    },
+    {
+      "rank": 9,
+      "name": "KwaMuhle Museum",
+      "postcode": "4001",
+      "distanceKmFromAirport": 36,
+      "description": "Museum of Durban's apartheid history in the former Department of Native Administration",
+      "distance": 1,
+      "URL": "https://www.durbanmuseum.co.za"
+    },
+    {
+      "rank": 10,
+      "name": "Bunny Chow",
+      "postcode": "4001",
+      "distanceKmFromAirport": 36,
+      "description": "Durban's most famous street food - half a loaf of white bread hollowed out and filled with curry",
+      "distance": 1,
+      "URL": "https://www.tourismkzn.org"
+    }
+  ]
+}

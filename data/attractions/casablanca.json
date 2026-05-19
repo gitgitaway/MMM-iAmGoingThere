@@ -1,0 +1,98 @@
+{
+  "city": "Casablanca",
+  "country": "Morocco",
+  "airportPostcode": "20250",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hassan II Mosque",
+      "postcode": "20000",
+      "distanceKmFromAirport": 33,
+      "description": "World's third largest mosque with a 210m minaret - built on a promontory over the Atlantic",
+      "distance": 3.0,
+      "URL": "https://www.mosqueehassan2.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Rick's Cafe",
+      "postcode": "20000",
+      "distanceKmFromAirport": 32,
+      "description": "Faithful recreation of the famous Humphrey Bogart Casablanca film cafe - doesn't really exist but now does",
+      "distance": 2.5,
+      "URL": "https://www.rickscafe.ma/"
+    },
+    {
+      "rank": 3,
+      "name": "Old Medina",
+      "postcode": "20200",
+      "distanceKmFromAirport": 32,
+      "description": "Casablanca's compact old walled medina with traditional stalls, cafes and the old port",
+      "distance": 1.5,
+      "URL": "https://www.visitcasablanca.ma/"
+    },
+    {
+      "rank": 4,
+      "name": "Boulevard Mohammed V Art Deco",
+      "postcode": "20100",
+      "distanceKmFromAirport": 30,
+      "description": "France's finest Art Deco architecture outside Paris along Casablanca's main boulevard",
+      "distance": 0.5,
+      "URL": "https://www.visitcasablanca.ma/"
+    },
+    {
+      "rank": 5,
+      "name": "Corniche Beach (Ain Diab)",
+      "postcode": "20050",
+      "distanceKmFromAirport": 36,
+      "description": "Atlantic beach strip with beach clubs, seafood restaurants and the Sheraton tower",
+      "distance": 5.5,
+      "URL": "https://www.visitcasablanca.ma/"
+    },
+    {
+      "rank": 6,
+      "name": "Morocco Mall",
+      "postcode": "20000",
+      "distanceKmFromAirport": 37,
+      "description": "Largest shopping mall in Africa with an enormous aquarium as its centrepiece",
+      "distance": 7.0,
+      "URL": "https://www.moroccamall.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Central Market (Marche Central)",
+      "postcode": "20000",
+      "distanceKmFromAirport": 31,
+      "description": "Belle Epoque covered market with Morocco's finest seafood and fresh produce",
+      "distance": 1.0,
+      "URL": "https://www.visitcasablanca.ma/"
+    },
+    {
+      "rank": 8,
+      "name": "Villa des Arts",
+      "postcode": "20100",
+      "distanceKmFromAirport": 32,
+      "description": "Art deco mansion showcasing Moroccan and international contemporary art",
+      "distance": 2.0,
+      "URL": "https://www.fondationona.ma/"
+    },
+    {
+      "rank": 9,
+      "name": "Mahkama du Pacha",
+      "postcode": "20100",
+      "distanceKmFromAirport": 32,
+      "description": "1952 Moorish palace decorated with the finest Moroccan stucco and woodwork",
+      "distance": 2.5,
+      "URL": "https://www.visitcasablanca.ma/"
+    },
+    {
+      "rank": 10,
+      "name": "Marrakech Day Trip",
+      "postcode": "40000",
+      "distanceKmFromAirport": 270,
+      "description": "3-hour train to the imperial city of souqs, riads and the Djemaa el-Fna square",
+      "distance": 240.0,
+      "URL": "https://www.visitmorocco.com/en/destination/marrakech"
+    }
+  ]
+}

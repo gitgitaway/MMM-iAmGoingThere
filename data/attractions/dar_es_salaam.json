@@ -1,0 +1,98 @@
+{
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "airportPostcode": "11109",
+  "airportDistanceKm": 13,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Zanzibar Island Day Trip",
+      "postcode": "71103",
+      "distanceKmFromAirport": 83,
+      "description": "Spice island with Stone Town, Nungwi Beach and the world's finest snorkelling",
+      "distance": 70.0,
+      "URL": "https://www.zanzibartourism.go.tz/"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Tanzania",
+      "postcode": "11105",
+      "distanceKmFromAirport": 16,
+      "description": "Zinj skull of Australopithecus boisei and the Shirazi gold collection from Kilwa",
+      "distance": 3.5,
+      "URL": "https://www.houseofculture.or.tz/"
+    },
+    {
+      "rank": 3,
+      "name": "Kariakoo Market",
+      "postcode": "11103",
+      "distanceKmFromAirport": 16,
+      "description": "East Africa's most vibrant wholesale market with spices, fruits and Swahili culture",
+      "distance": 3.0,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+      "rank": 4,
+      "name": "Village Museum (Makumbusho)",
+      "postcode": "11106",
+      "distanceKmFromAirport": 21,
+      "description": "Open-air museum with 16 traditional homesteads from different Tanzanian tribes",
+      "distance": 8.0,
+      "URL": "https://www.houseofculture.or.tz/"
+    },
+    {
+      "rank": 5,
+      "name": "Serengeti & Kilimanjaro Safari",
+      "postcode": "25213",
+      "distanceKmFromAirport": 363,
+      "description": "Mt Kilimanjaro climb or Serengeti wildebeest migration from the city",
+      "distance": 350.0,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+      "rank": 6,
+      "name": "Msasani Peninsula Beach Clubs",
+      "postcode": "11106",
+      "distanceKmFromAirport": 21,
+      "description": "Upscale coastal restaurants, bars and watersports north of the city centre",
+      "distance": 8.0,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+      "rank": 7,
+      "name": "Coco Beach",
+      "postcode": "11106",
+      "distanceKmFromAirport": 22,
+      "description": "Popular weekend beach on the Indian Ocean with fresh grilled seafood stalls",
+      "distance": 9.0,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+      "rank": 8,
+      "name": "Askari Monument",
+      "postcode": "11101",
+      "distanceKmFromAirport": 14,
+      "description": "Central WWI memorial to the African askari soldiers who fought for Germany",
+      "distance": 1.5,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+      "rank": 9,
+      "name": "Nyumba ya Sanaa Craft Market",
+      "postcode": "11105",
+      "distanceKmFromAirport": 16,
+      "description": "Fair-trade arts and crafts market supporting local artisans",
+      "distance": 3.0,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+      "rank": 10,
+      "name": "Lutheran Church (Azania Front)",
+      "postcode": "11101",
+      "distanceKmFromAirport": 15,
+      "description": "1898 German colonial church on the waterfront - symbol of Dar es Salaam",
+      "distance": 2.0,
+      "URL": "https://www.tanzaniatourism.go.tz/"
+    }
+  ]
+}

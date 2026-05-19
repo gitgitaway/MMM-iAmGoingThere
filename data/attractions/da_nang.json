@@ -1,0 +1,98 @@
+{
+  "city": "Da Nang",
+  "country": "Vietnam",
+  "airportPostcode": "550000",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "My Son Sanctuary",
+      "postcode": "560000",
+      "distanceKmFromAirport": 62,
+      "description": "UNESCO World Heritage Cham temple ruins in a jungle valley - Vietnam's Angkor Wat",
+      "distance": 60,
+      "URL": "https://www.mysonheritage.vn"
+    },
+    {
+      "rank": 2,
+      "name": "Hoi An Ancient Town",
+      "postcode": "515000",
+      "distanceKmFromAirport": 32,
+      "description": "UNESCO World Heritage lantern-lit trading port preserved from the 15th century",
+      "distance": 30,
+      "URL": "https://www.hoianworldheritage.org.vn"
+    },
+    {
+      "rank": 3,
+      "name": "Ba Na Hills & Golden Bridge",
+      "postcode": "550000",
+      "distanceKmFromAirport": 27,
+      "description": "Giant stone-hand Golden Bridge held up by moss-covered stone hands above the clouds",
+      "distance": 25,
+      "URL": "https://www.banahills.com.vn"
+    },
+    {
+      "rank": 4,
+      "name": "Marble Mountains",
+      "postcode": "550000",
+      "distanceKmFromAirport": 12,
+      "description": "Five marble-and-limestone outcrops with Buddhist caves, shrines and sea views",
+      "distance": 10,
+      "URL": "https://www.danangfantasticity.com"
+    },
+    {
+      "rank": 5,
+      "name": "My Khe Beach",
+      "postcode": "550000",
+      "distanceKmFromAirport": 6,
+      "description": "Long white-sand beach that US soldiers called 'China Beach' - perfect swimming conditions",
+      "distance": 4,
+      "URL": "https://www.danangfantasticity.com"
+    },
+    {
+      "rank": 6,
+      "name": "Dragon Bridge",
+      "postcode": "550000",
+      "distanceKmFromAirport": 2,
+      "description": "Dragon-shaped bridge that breathes fire and water on weekend evenings",
+      "distance": 0.5,
+      "URL": "https://www.danangfantasticity.com"
+    },
+    {
+      "rank": 7,
+      "name": "Museum of Cham Sculpture",
+      "postcode": "550000",
+      "distanceKmFromAirport": 3,
+      "description": "World's finest collection of Cham art with sandstone sculptures from the 7th-15th centuries",
+      "distance": 1,
+      "URL": "https://www.chammuseum.vn"
+    },
+    {
+      "rank": 8,
+      "name": "Hai Van Pass",
+      "postcode": "550000",
+      "distanceKmFromAirport": 27,
+      "description": "Dramatic mountain pass between Da Nang and Hue - Top Gear's most beautiful road",
+      "distance": 25,
+      "URL": "https://www.vietnamtourism.gov.vn"
+    },
+    {
+      "rank": 9,
+      "name": "Son Tra Peninsula (Monkey Mountain)",
+      "postcode": "550000",
+      "distanceKmFromAirport": 12,
+      "description": "Jungle peninsula with red-shanked douc langurs, beaches and Lady Buddha statue",
+      "distance": 10,
+      "URL": "https://www.danangfantasticity.com"
+    },
+    {
+      "rank": 10,
+      "name": "Hue Imperial Citadel Day Trip",
+      "postcode": "530000",
+      "distanceKmFromAirport": 92,
+      "description": "UNESCO World Heritage citadel of the last Nguyen emperors 90km north",
+      "distance": 90,
+      "URL": "https://www.hueworldheritage.org.vn"
+    }
+  ]
+}

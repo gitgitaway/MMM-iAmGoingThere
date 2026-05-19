@@ -1,0 +1,98 @@
+{
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "airportPostcode": "8053",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Christchurch Botanic Gardens",
+      "postcode": "8013",
+      "distanceKmFromAirport": 12,
+      "description": "30-hectare garden in the heart of the city — punting on the Avon River through the gardens is unmissable",
+      "distance": 1.5,
+      "URL": "https://ccc.govt.nz/parks-and-gardens/christchurch-botanic-gardens/"
+    },
+    {
+      "rank": 2,
+      "name": "Akaroa Day Trip",
+      "postcode": "7520",
+      "distanceKmFromAirport": 90,
+      "description": "French colonial harbour village 80 km south — swim with Hector's dolphins, the world's smallest",
+      "distance": 80.0,
+      "URL": "https://www.akaroa.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Canterbury Museum",
+      "postcode": "8013",
+      "distanceKmFromAirport": 12,
+      "description": "Superb free museum covering Antarctic exploration, Maori culture and the remarkable post-earthquake story",
+      "distance": 1.5,
+      "URL": "https://www.canterburymuseum.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Christchurch Cathedral (Transitional)",
+      "postcode": "8011",
+      "distanceKmFromAirport": 11,
+      "description": "The iconic Cardboard Cathedral — temporary replacement for the earthquake-damaged cathedral, now an art icon",
+      "distance": 1.0,
+      "URL": "https://www.cardboardcathedral.org.nz/"
+    },
+    {
+      "rank": 5,
+      "name": "Port Hills Gondola",
+      "postcode": "8022",
+      "distanceKmFromAirport": 17,
+      "description": "Cable car to the volcanic rim of Lyttleton Harbour — panoramic views of the city, Southern Alps and ocean",
+      "distance": 7.0,
+      "URL": "https://www.christchurchattraction.nz/gondola/"
+    },
+    {
+      "rank": 6,
+      "name": "Arthur's Pass Day Trip",
+      "postcode": "7654",
+      "distanceKmFromAirport": 165,
+      "description": "Spectacular alpine pass through the Southern Alps — kea parrots, mountain hikes and the TranzAlpine train",
+      "distance": 155.0,
+      "URL": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/"
+    },
+    {
+      "rank": 7,
+      "name": "International Antarctic Centre",
+      "postcode": "8053",
+      "distanceKmFromAirport": 20,
+      "description": "Experience Antarctic conditions in the Hagglund ride and Snow & Ice Experience — next to the airport",
+      "distance": 10.0,
+      "URL": "https://www.iceberg.co.nz/"
+    },
+    {
+      "rank": 8,
+      "name": "Punting on the Avon",
+      "postcode": "8013",
+      "distanceKmFromAirport": 12,
+      "description": "Guided punts along the willow-lined Avon River through the centre of the city — quintessentially Christchurch",
+      "distance": 1.5,
+      "URL": "https://www.punting.co.nz/"
+    },
+    {
+      "rank": 9,
+      "name": "New Regent Street",
+      "postcode": "8011",
+      "distanceKmFromAirport": 11,
+      "description": "Pastel Spanish Mission-style pedestrian lane with boutique shops, cafes and the Christchurch tram",
+      "distance": 0.8,
+      "URL": "https://www.newregentstreet.co.nz/"
+    },
+    {
+      "rank": 10,
+      "name": "Willowbank Wildlife Reserve",
+      "postcode": "8083",
+      "distanceKmFromAirport": 18,
+      "description": "The best place to see kiwi birds — nocturnal kiwi house and authentic Maori cultural show",
+      "distance": 8.0,
+      "URL": "https://www.willowbank.co.nz/"
+    }
+  ]
+}
