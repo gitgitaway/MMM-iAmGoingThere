@@ -56,6 +56,24 @@ Module.register("MMM-iAmGoingThere", {
 		"\u2B1F" // Pentagon
 	],
 
+	/* ─── UIX-002: Color-blind-friendly traveler palette ─────────────────────
+	 * Based on IBM's color-blind-safe palette — distinguishable under
+	 * Deuteranopia, Protanopia, and Tritanopia.
+	 * Deliberately excludes orange-red to avoid clash with the plane icon.
+	 */
+	TRAVELER_COLORS_CB: [
+		"#648FFF", // blue
+		"#785EF0", // violet
+		"#DC267F", // rose
+		"#FFB000", // amber
+		"#00B5D8", // cyan
+		"#009D72", // green
+		"#FE6100", // orange  (distinct from #FF6644 plane at this saturation)
+		"#C2E0FF", // pale blue
+		"#FFD699", // pale amber
+		"#C8A2C8"  // lilac
+	],
+
 	TARGET_SVG: "M9,0C4.029,0,0,4.029,0,9s4.029,9,9,9s9-4.029,9-9S13.971,0,9,0z M9,15.93 c-3.83,0-6.93-3.1-6.93-6.93S5.17,2.07,9,2.07s6.93,3.1,6.93,6.93S12.83,15.93,9,15.93 M12.5,9c0,1.933-1.567,3.5-3.5,3.5S5.5,10.933,5.5,9S7.067,5.5,9,5.5 S12.5,7.067,12.5,9z",
 	PLANE_SVG: "M 0,-150 L -10,-80 L -130,-20 L -130,20 L -10,20 L -20,80 L -50,120 L -50,150 L 0,130 L 50,150 L 50,120 L 20,80 L 10,20 L 130,20 L 130,-20 L 10,-80 Z",
 
@@ -81,6 +99,7 @@ Module.register("MMM-iAmGoingThere", {
 		zoomLatitude: 20,
 		autoRotateGlobeToPlane: false, // Orthographic only: rotate globe to center on active plane(s)
 		gcPoints: 100, // Great-circle interpolation points per leg
+		lowPowerMode: false, // PER-002: Disable heavy CSS effects and reduce gcPoints for low-power hardware (e.g. Raspberry Pi Zero)
 		displayDesc: true, // Show airport name labels
 		showCityInfo: false,
 		citiesFile: "data/cities.csv",
@@ -170,6 +189,19 @@ Module.register("MMM-iAmGoingThere", {
 		colorBlindMode: false,
 		colorResetAfterDays: 1,
 
+		// 13. UIX-001: Zen Mode — hides all controls + overlays after inactivity
+		zenMode: false,
+
+		// 14. UIX-003: Fly-to — click flight row to zoom map to that leg
+		flyToOnRowClick: true,
+
+		// 15. INN-001: Destination Fun Facts (Wikipedia)
+		funFactsEnabled: false,
+
+		// 16. INN-002: Calendar-Driven Scenario Switching
+		calendarDrivenScenario: false,
+		calendarScenarioMap: [], // e.g. [{ keyword: "football", scenario: 6 }, { keyword: "holiday", scenario: 1 }]
+
 		// 12. Data Sources
 		home: { name: "Home Airport", iata: "HOME", lat: 51.5074, lon: -0.1278 },
 		destination: null,
@@ -186,6 +218,8 @@ Module.register("MMM-iAmGoingThere", {
 	getScripts: function () {
 		Log.info("[MMM-iAmGoingThere] getScripts returning local vendor scripts");
 		return [
+			this.file("lib/iAGT.StateController.js"),
+			this.file("lib/iAGT.FlightProcessor.js"),
 			this.file("lib/greatCircle.js"),
 			this.file("vendor/index.js"),
 			this.file("vendor/map.js"),
@@ -239,6 +273,32 @@ Module.register("MMM-iAmGoingThere", {
 			.replace(/"/g, "&quot;");
 	},
 
+	/* TZ-001: Convert a leg's local departure date+time to UTC milliseconds.
+	 * Priority: live API ISO timestamps → config date+time (adjusted for airport
+	 * longitude-based UTC offset) → config date only (midday local assumption).
+	 * This ensures flights near or past the International Date Line are correctly
+	 * classified as past/future regardless of the viewer's local timezone.       */
+	_legDepartureUtcMs (leg) {
+		if (leg.estimatedDeparture) return new Date(leg.estimatedDeparture).getTime();
+		if (leg.scheduledDeparture) return new Date(leg.scheduledDeparture).getTime();
+		if (leg.actualDeparture)    return new Date(leg.actualDeparture).getTime();
+		if (!leg.departureDate) return 0;
+		const baseMs = Date.parse(leg.departureDate + "T00:00:00Z");
+		if (isNaN(baseMs)) return 0;
+		let timeMin = 12 * 60;
+		if (leg.departureTime && typeof leg.departureTime === "string") {
+			const parts = leg.departureTime.split(":");
+			const h = parseInt(parts[0], 10);
+			const m = parseInt(parts[1] || "0", 10);
+			if (!isNaN(h) && !isNaN(m)) timeMin = h * 60 + m;
+		}
+		let lonOffsetMin = 0;
+		if (leg.from && leg.from.lon != null) {
+			lonOffsetMin = Math.round(parseFloat(leg.from.lon) / 15) * 60;
+		}
+		return baseMs + (timeMin - lonOffsetMin) * 60000;
+	},
+
 	_getEffectiveConfig () {
 		let cfg = this.config;
 		const scen = cfg.scenario;
@@ -257,6 +317,11 @@ Module.register("MMM-iAmGoingThere", {
 			if (cfg.showModeSelector === undefined) cfg.showModeSelector = false;
 		}
 
+		// PER-002: Low Power Mode — cap gcPoints to reduce CPU load
+		if (cfg.lowPowerMode) {
+			cfg.gcPoints = Math.min(cfg.gcPoints || 100, 30);
+		}
+
 		return cfg;
 	},
 
@@ -267,7 +332,11 @@ Module.register("MMM-iAmGoingThere", {
 	getDom: function () {
 		const cfg = this._getEffectiveConfig();
 		const wrapper = document.createElement("div");
-		wrapper.className = "iAGT-wrapper";
+		let wrapClass = "iAGT-wrapper";
+		if (cfg.lowPowerMode)   wrapClass += " iagt-low-power";
+		if (cfg.colorBlindMode) wrapClass += " iagt-cb-mode";
+		if ("ontouchstart" in window || navigator.maxTouchPoints > 0) wrapClass += " iagt-touch";
+		wrapper.className = wrapClass;
 		wrapper.id = `iAGT-wrapper-${this.identifier}`;
 
 		/* ── Responsive breakpoint style injection ── */
@@ -295,6 +364,24 @@ Module.register("MMM-iAmGoingThere", {
   #iAGT-wrapper-${this.identifier} .iAGT-table-overlay {
     bottom: calc(${cfg.attractionsPanelHeight || "32vh"} + 8px) !important;
   }
+}
+@media (max-width: 480px) {
+  #iAGT-wrapper-${this.identifier} .iAGT-city-info-overlay {
+    bottom: 0 !important;
+    top: auto !important;
+    height: 26vh !important;
+  }
+  #iAGT-wrapper-${this.identifier} .iAGT-table-overlay {
+    bottom: calc(26vh + 6px) !important;
+    height: 26vh !important;
+  }
+}
+#iAGT-wrapper-${this.identifier}.iagt-touch .iAGT-controls-auto-hide {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+#iAGT-wrapper-${this.identifier}.iagt-touch .iAGT-nudge-control {
+  opacity: 1 !important;
 }`;
 		}
 
@@ -338,6 +425,14 @@ Module.register("MMM-iAmGoingThere", {
 		mapDiv.appendChild(loadingEl);
 
 		mapCont.appendChild(mapDiv);
+
+		/* ── ACC-002: Hidden Live Region for Status Announcements ── */
+		const announcer = document.createElement("div");
+		announcer.id = `iAGT-announcer-${this.identifier}`;
+		announcer.className = "iAGT-announcer visual-hidden";
+		announcer.setAttribute("aria-live", "polite");
+		announcer.setAttribute("aria-atomic", "true");
+		wrapper.appendChild(announcer);
 
 		/* ── Nudge Control (relative movement) ── */
 		if (cfg.showNudgeControl) {
@@ -417,8 +512,8 @@ Module.register("MMM-iAmGoingThere", {
 			const visitedSel = document.createElement("div");
 			visitedSel.className = "iAGT-top-selector iAGT-visited-selector";
 			visitedSel.id = `iAGT-visited-ctrl-${this.identifier}`;
-			const _vhl = this._visitedHighlightEnabled !== false;
-			const _gv = this._graticuleSeries ? this._graticuleSeries.get("visible") : cfg.showGraticule;
+			const _vhl = this._state.visitedHighlightEnabled !== false;
+			const _gv = this._state.graticuleSeries ? this._state.graticuleSeries.get("visible") : cfg.showGraticule;
 			visitedSel.innerHTML = `
 				<select class="iAGT-selector-dropdown" id="iAGT-visited-select-${this.identifier}">
 					<option value="show_graticule" ${_gv ? "selected" : ""}>${this.translate("VISITED_DRP_SHOW_GRATICULE")}</option>
@@ -426,8 +521,8 @@ Module.register("MMM-iAmGoingThere", {
 					<option value="highlight" ${_vhl ? "selected" : ""}>${this.translate("VISITED_DRP_HIGHLIGHT")}</option>
 					<option value="none" ${!_vhl ? "selected" : ""}>${this.translate("VISITED_DRP_NONE")}</option>
 					<option value="clear">${this.translate("VISITED_DRP_CLEAR")}</option>
-					<option value="show_regions" ${this._regionsVisible ? "selected" : ""}>${this.translate("SUB_DRP_SHOW")}</option>
-					<option value="hide_regions" ${!this._regionsVisible ? "selected" : ""}>${this.translate("SUB_DRP_HIDE")}</option>
+					<option value="show_regions" ${this._state.regionsVisible ? "selected" : ""}>${this.translate("SUB_DRP_SHOW")}</option>
+					<option value="hide_regions" ${!this._state.regionsVisible ? "selected" : ""}>${this.translate("SUB_DRP_HIDE")}</option>
 				</select>
 			`;
 			visitedSel.querySelector("select").addEventListener("change", (e) => {
@@ -437,14 +532,14 @@ Module.register("MMM-iAmGoingThere", {
 				} else if (val === "hide_graticule") {
 					this._toggleGraticules(false);
 				} else if (val === "highlight") {
-					this._visitedHighlightEnabled = true;
+					this._state.visitedHighlightEnabled = true;
 					this._applyVisitedCountriesColors();
 				} else if (val === "none") {
-					this._visitedHighlightEnabled = false;
+					this._state.visitedHighlightEnabled = false;
 					this._applyVisitedCountriesColors();
 				} else if (val === "clear") {
 					e.target.value = "highlight";
-					this._visitedHighlightEnabled = true;
+					this._state.visitedHighlightEnabled = true;
 					this.sendSocketNotification("iAGT_CLEAR_VISITED_COUNTRIES", {});
 				} else if (val === "show_regions") {
 					this._toggleRegionLayers(true);
@@ -570,7 +665,17 @@ Module.register("MMM-iAmGoingThere", {
 
 		wrapper.appendChild(mapCont);
 
+		/* ── UIX-001: Zen Mode interaction listeners ── */
+		if (cfg.zenMode) {
+			const _zenReset = () => this._resetZenModeTimer();
+			wrapper.addEventListener("mousemove",  _zenReset, { passive: true });
+			wrapper.addEventListener("click",      _zenReset, { passive: true });
+			wrapper.addEventListener("keydown",    _zenReset, { passive: true });
+			wrapper.addEventListener("touchstart", _zenReset, { passive: true });
+		}
+
 		this._resetOverlayHideTimer();
+		this._resetZenModeTimer();
 
 		return wrapper;
 	},
@@ -584,10 +689,10 @@ Module.register("MMM-iAmGoingThere", {
 		if (tbl) { tbl.style.transition = "opacity 0.5s"; tbl.style.opacity = "1"; }
 		if (ci) { ci.style.transition = "opacity 0.5s"; ci.style.opacity = "1"; }
 
-		if (this._overlayHideTimer) {
-			clearTimeout(this._overlayHideTimer);
+		if (this._state.overlayHideTimer) {
+			clearTimeout(this._state.overlayHideTimer);
 		}
-		this._overlayHideTimer = setTimeout(() => {
+		this._state.overlayHideTimer = setTimeout(() => {
 			this._hideOverlays();
 		}, (cfg.autoHideDelay || 30) * 1000);
 	},
@@ -599,6 +704,62 @@ Module.register("MMM-iAmGoingThere", {
 		const ci = document.getElementById(`iAGT-city-info-${this.identifier}`);
 		if (tbl) tbl.style.opacity = "0";
 		if (ci) ci.style.opacity = "0";
+	},
+
+	/* ── UIX-001: Zen Mode — hide ALL controls after inactivity ── */
+	_resetZenModeTimer () {
+		const cfg = this._getEffectiveConfig();
+		if (!cfg.zenMode) return;
+		const wrapper = document.getElementById(`iAGT-wrapper-${this.identifier}`);
+		if (wrapper) wrapper.classList.remove("iagt-zen-active");
+		if (this._state.zenModeTimer) clearTimeout(this._state.zenModeTimer);
+		this._state.zenModeTimer = setTimeout(() => {
+			const w = document.getElementById(`iAGT-wrapper-${this.identifier}`);
+			if (w) w.classList.add("iagt-zen-active");
+		}, (cfg.autoHideDelay || 30) * 1000);
+	},
+
+	/* ── INN-001: Display Fun Fact in the city info panel header ── */
+	_displayFunFact (cityName) {
+		const city = cityName || this._state.currentDisplayedCity;
+		const text = (this._state.funFactCache || {})[city];
+		if (!text) return;
+		const ciDiv = document.getElementById(`iAGT-city-info-${this.identifier}`);
+		if (!ciDiv) return;
+		let bar = ciDiv.querySelector(".iAGT-fun-fact-bar");
+		if (!bar) {
+			bar = document.createElement("div");
+			bar.className = "iAGT-fun-fact-bar";
+			ciDiv.insertBefore(bar, ciDiv.firstChild);
+		}
+		bar.innerHTML = `<span class="iAGT-fun-fact-icon">&#x1F4A1;</span><span class="iAGT-fun-fact-text">${this._esc(text)}</span>`;
+	},
+
+	_requestAndDisplayFunFact (cityName) {
+		if (!cityName) return;
+		const cfg = this._getEffectiveConfig();
+		if (!cfg.funFactsEnabled) return;
+		if (!this._state.funFactCache) this._state.funFactCache = {};
+		if (this._state.funFactCache[cityName]) {
+			this._displayFunFact(cityName);
+		} else {
+			this.sendSocketNotification("iAGT_GET_FUN_FACT", { cityName });
+		}
+	},
+
+	/* ── UIX-003: Fly-to — animate map to midpoint of a flight leg ── */
+	_flyToLeg (lat1, lon1, lat2, lon2) {
+		if (!this._state.mapChart) return;
+		const chart = this._state.mapChart;
+		const midLat = (lat1 + lat2) / 2;
+		const midLon = (lon1 + lon2) / 2;
+		const dLat = Math.abs(lat2 - lat1);
+		const dLon = Math.abs(lon2 - lon1);
+		const span = Math.max(dLat, dLon);
+		const targetZoom = span < 10 ? 6 : span < 30 ? 4 : span < 60 ? 2.5 : 1.5;
+		chart.animate({ key: "rotationX",  to: -midLon,    duration: 800, easing: am5.ease.out(am5.ease.cubic) });
+		chart.animate({ key: "rotationY",  to: -midLat,    duration: 800, easing: am5.ease.out(am5.ease.cubic) });
+		chart.animate({ key: "zoomLevel",  to: targetZoom, duration: 800, easing: am5.ease.out(am5.ease.cubic) });
 	},
 
 	_getWeatherIcon (code) {
@@ -619,58 +780,30 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	start () {
-		this.flightLegs = [];
-		this.cityInfo = {};
-		this.mapChart = null;
-		this._mapRoot = null;
-		this._mapRootContainer = null;
-		this.mapReady = false;
-		this.tripReset = false;
-		this._cityIndex = 0;
-		this._cityTimer = null;
-		this._travelerColors = {};
-		this._travelerSymbols = {};
-		this._testTimer = null;
-		this._testLegs = [];
-		this._testLegIndex = 0;
-		this._testProgress = 0;
-		this._testPhase = "flying";
-		this._testPauseCount = 0;
-		this._lastShownCity = null;
-		this._lastAirportFingerprint = null;
-		this._validateTimer = null; // PERF-006
-		this._attractionsScrollTimer = null;
-		this._attractionsScrollIndex = 0;
-		this._cityDisplayListCache = null;
-		this._alertFired = false;
-		this._alertTimer = null;
-		this._currentDisplayedCity = null;
-		this._pendingSaveEl = null;
-		this._saveToastTimer = null;
-		this._overlayHideTimer = null;
-		this._planeKeys = null;
-		this._weatherRefreshTimer = null;
-		this._polygonSeries = null;
-		this._visitedPopupTimer = null;
-		this._visitedHighlightEnabled = true;
-		this._regionSeriesList = [];
-		this._regionsVisible = this.config.showSubnationalRegions;
+		this._state = new IagtStateController(this.config);
 		Log.info(`[${this.name}] Starting`);
-
 		this.sendSocketNotification("iAGT_CONFIG", this.config);
+		this._state.cdTimer = setInterval(() => { this.updateCountdown(); }, 60000);
+	},
 
-		this._cdTimer = setInterval(() => { this.updateCountdown(); }, 60000);
+	/* ACC-002: Hidden live region announcer */
+	_announce (msg) {
+		const el = document.getElementById(`iAGT-announcer-${this.identifier}`);
+		if (el) {
+			el.textContent = "";
+			setTimeout(() => { el.textContent = msg; }, 100);
+		}
 	},
 
 	socketNotificationReceived (notification, payload) {
 		switch (notification) {
 			case "iAGT_INIT":
-				this.tripReset = false;
-				this.flightLegs = payload.legs || [];
-				this.cityInfo = payload.cityInfo || {};
-				this.visitedCountryIsos = payload.visitedCountryIsos || [];
-				this.regionData = payload.regionData || {};
-				this._cityIndex = 0;
+				this._state.tripReset = false;
+				this._state.flightLegs = payload.legs || [];
+				this._state.cityInfo = payload.cityInfo || {};
+				this._state.visitedCountryIsos = payload.visitedCountryIsos || [];
+				this._state.regionData = payload.regionData || {};
+				this._state.cityIndex = 0;
 				this._buildTravelerMap();
 				this._cacheGreatCirclePoints();
 				this.updateCountdown();
@@ -678,54 +811,52 @@ Module.register("MMM-iAmGoingThere", {
 				this.updateTitle();
 				this.startCityInfoCycling();
 				this._scheduleAlertTimer();
-				if (this.mapReady && this._polygonSeries) {
+				if (this._state.mapReady && this._state.polygonSeries) {
 					this._applyVisitedCountriesColors();
 				}
 				setTimeout(() => { this.initMap(); }, 300);
-				if (this._weatherRefreshTimer) clearInterval(this._weatherRefreshTimer);
-				this._weatherRefreshTimer = setInterval(() => { this._refreshWeather(); }, 3600000);
+				if (this._state.weatherRefreshTimer) clearInterval(this._state.weatherRefreshTimer);
+				this._state.weatherRefreshTimer = setInterval(() => { this._refreshWeather(); }, 3600000);
 				break;
 
-			case "iAGT_FLIGHT_UPDATE":
-				if (String(this.config.showFlightTracks) === "test") break; // test mode owns leg state
-				this.flightLegs = payload.legs || [];
-				this._cityDisplayListCache = null;
+			case "iAGT_FLIGHT_UPDATE": {
+				const cfg = this._getEffectiveConfig();
+				if (String(cfg.showFlightTracks) === "test") break; // test mode owns leg state
+				this._state.flightLegs = payload.legs || [];
+				this._state.cityDisplayListCache = null;
 				this._cacheGreatCirclePoints();
 				{
 					const filteredLegs = this._getFilteredLegs();
 					this.updateCountdown(filteredLegs);
 					this.updateMapLines(filteredLegs);
 					this.updateTable(filteredLegs);
-					this._maybeAutoRotateAttractions(filteredLegs);
 					this._resetOverlayHideTimer();
-				}
-
-				/* Ensure the city-info panel is populated (handles the case where
-           iAGT_INIT fired before the DOM was rendered) and start the
-           auto-scroll timer if it is not already running. */
-				if (!this._attractionsScrollTimer) {
-					this.updateCityInfo();
+					if (!this._state.attractionsScrollTimer && !this._state.lastShownCity) {
+						this.updateCityInfo();
+					}
+					this._maybeAutoRotateAttractions(filteredLegs);
 				}
 				break;
+			}
 
 			case "iAGT_TRIP_RESET":
-				this.tripReset = true;
-				this.flightLegs.forEach((l) => { l.status = "scheduled"; l.progress = 0; });
+				this._state.tripReset = true;
+				this._state.flightLegs.forEach((l) => { l.status = "scheduled"; l.progress = 0; });
 				this.updateMapLines();
 				this.updateTable();
 				this.updateCountdown();
 				break;
 			case "iAGT_NO_API_KEY":
-				this.noApiKey = true;
+				this._state.noApiKey = true;
 				this.updateCountdown();
 				break;
 
 			case "iAGT_WEATHER_UPDATE": {
 				const { cityName: wCity, weather: wData } = payload;
-				if (wCity && wData && this.cityInfo[wCity]) {
-					this.cityInfo[wCity].weather = wData;
-					this.cityInfo[wCity].weatherUpdatedAt = Date.now();
-					if (this._currentDisplayedCity === wCity) {
+				if (wCity && wData && this._state.cityInfo[wCity]) {
+					this._state.cityInfo[wCity].weather = wData;
+					this._state.cityInfo[wCity].weatherUpdatedAt = Date.now();
+					if (this._state.currentDisplayedCity === wCity) {
 						this._renderCityByName(wCity);
 					}
 				}
@@ -736,8 +867,8 @@ Module.register("MMM-iAmGoingThere", {
 			case "iAGT_SAVE_ERROR": {
 				const ok = notification === "iAGT_SAVE_OK";
 				const { type } = payload;
-				if (this._pendingSaveEl && this._pendingSaveEl.type === type) {
-					const panelEl = document.getElementById(this._pendingSaveEl.panelId);
+				if (this._state.pendingSaveEl && this._state.pendingSaveEl.type === type) {
+					const panelEl = document.getElementById(this._state.pendingSaveEl.panelId);
 					const btnSel = type === "flights" ? ".iAGT-save-flights-btn" : type === "terminal_maps" ? ".iAGT-save-terminal-btn" : ".iAGT-save-atts-btn";
 					const defaultIcon = type === "terminal_maps" ? "\uD83D\uDDFA" : "\uD83D\uDDA8";
 					const btn = panelEl && panelEl.querySelector(btnSel);
@@ -745,62 +876,86 @@ Module.register("MMM-iAmGoingThere", {
 						btn.textContent = ok ? "\u2713" : "\u2717";
 						btn.style.color = ok ? "#00CC66" : "#FF4444";
 						btn.disabled = false;
-						clearTimeout(this._saveToastTimer);
-						this._saveToastTimer = setTimeout(() => {
+						clearTimeout(this._state.saveToastTimer);
+						this._state.saveToastTimer = setTimeout(() => {
 							btn.textContent = defaultIcon;
 							btn.style.color = "";
 						}, 3000);
 					}
-					this._pendingSaveEl = null;
+					this._state.pendingSaveEl = null;
+				}
+				break;
+			}
+
+			case "iAGT_FUN_FACT": {
+				const { cityName: ffCity, fact } = payload;
+				if (fact && ffCity) {
+					if (!this._state.funFactCache) this._state.funFactCache = {};
+					this._state.funFactCache[ffCity] = fact;
+					if (this._state.currentDisplayedCity === ffCity) this._displayFunFact(ffCity);
 				}
 				break;
 			}
 		}
 	},
 
-	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ TRAVELER COLOUR & SYMBOL MAP  (Scenario 3) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
-	_buildTravelerMap () {
-		this._travelerColors = {};
-		this._travelerSymbols = {};
-		if (this.config.scenario !== 3) return;
-		let idx = 0;
-		this.flightLegs.forEach((leg) => {
-			const name = leg.travelerName;
-			if (name && !this._travelerColors[name]) {
-				this._travelerColors[name] = this.TRAVELER_COLORS[idx % this.TRAVELER_COLORS.length];
-				this._travelerSymbols[name] = this.TRAVELER_SYMBOLS[idx % this.TRAVELER_SYMBOLS.length];
-				idx++;
-			}
+	/* ── INN-002: Calendar-Driven Scenario Switching ── */
+	notificationReceived (notification, payload) {
+		if (notification !== "CALENDAR_EVENTS") return;
+		const cfg = this._getEffectiveConfig();
+		if (!cfg.calendarDrivenScenario) return;
+		const map = cfg.calendarScenarioMap;
+		if (!Array.isArray(map) || !map.length) return;
+
+		const events = Array.isArray(payload) ? payload : (payload && payload.events ? payload.events : []);
+		if (!events.length) return;
+
+		const now = Date.now();
+		const upcoming = events.filter((ev) => {
+			const start = ev.startDate || ev.start_date || 0;
+			return start >= now / 1000 || start * 1000 >= now;
 		});
+
+		for (const rule of map) {
+			const kw = (rule.keyword || "").toLowerCase();
+			const targetScenario = parseInt(rule.scenario, 10);
+			if (!kw || isNaN(targetScenario)) continue;
+			const match = upcoming.find((ev) => {
+				const title = (ev.title || ev.summary || "").toLowerCase();
+				return title.includes(kw);
+			});
+			if (match && this.config.scenario !== targetScenario) {
+				Log.info(`[${this.name}] INN-002: Calendar event "${match.title || match.summary}" matched keyword "${kw}" → switching to Scenario ${targetScenario}`);
+				this.config.scenario = targetScenario;
+				this.sendSocketNotification("UPDATE_SCENARIO", { scenario: targetScenario });
+				break;
+			}
+		}
+	},
+
+	/* ─────────────── TRAVELER COLOUR & SYMBOL MAP  (Scenario 3) ─────────────── */
+	_buildTravelerMap () {
+		const cfg = this._getEffectiveConfig();
+		const palette = cfg.colorBlindMode ? this.TRAVELER_COLORS_CB : this.TRAVELER_COLORS;
+		const result = IagtFlightProcessor.buildTravelerMap(this._state.flightLegs, palette, this.TRAVELER_SYMBOLS);
+		this._state.travelerColors = result.colors;
+		this._state.travelerSymbols = result.symbols;
 	},
 
 	_getLegColor (leg) {
-		if (this.config.scenario === 3 && leg.travelerName && this._travelerColors[leg.travelerName]) {
-			return this._travelerColors[leg.travelerName];
-		}
-		return null;
+		const cfg = this._getEffectiveConfig();
+		return IagtFlightProcessor.getLegColor(leg, this._state.travelerColors, cfg.scenario);
 	},
 
-	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ CACHE GREAT CIRCLE POINTS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+	/* ─────────────────── CACHE GREAT CIRCLE POINTS ─────────────────────────── */
 	_cacheGreatCirclePoints () {
-		const n = this.config.gcPoints || 60;
-		this.flightLegs.forEach((leg) => {
-			if (leg._gcCachedN === n && leg._gcPoints) return;
-			if (leg.from && leg.to) {
-				leg._gcPoints = this.generateGreatCirclePoints(
-					leg.from.lat, leg.from.lon, leg.to.lat, leg.to.lon, n
-				);
-				leg._gcCachedN = n;
-			} else {
-				leg._gcPoints = [];
-				leg._gcCachedN = n;
-			}
-		});
+		const cfg = this._getEffectiveConfig();
+		IagtFlightProcessor.cacheGreatCirclePoints(this._state.flightLegs, cfg.gcPoints || 100);
 	},
 
-	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ GREAT CIRCLE PATH  (SLERP spherical interpolation) â”€â”€â”€â”€â”€ */
+	/* â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ GREAT CIRCLE PATH  (SLERP spherical interpolation) â"€â"€â"€â"€â"€ */
 	generateGreatCirclePoints (lat1, lon1, lat2, lon2, n) {
-		return iAGTGreatCircle.generateGreatCirclePoints(lat1, lon1, lat2, lon2, n);
+		return IagtFlightProcessor.generateGreatCirclePoints(lat1, lon1, lat2, lon2, n);
 	},
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ ANTIMERIDIAN SPLIT (Deprecated in amCharts 5) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
@@ -849,259 +1004,32 @@ Module.register("MMM-iAmGoingThere", {
    * ready for amCharts 5 MapLineSeries.
    */
 	_segmentsToLine (pts, customColor) {
-		return {
-			type: "Feature",
-			properties: { customColor: customColor || null },
-			geometry: {
-				type: "LineString",
-				coordinates: pts.map((p) => [p.lon, p.lat]) // GeoJSON is [lon, lat]
-			}
-		};
+		return IagtFlightProcessor.segmentsToLine(pts, customColor);
 	},
 
-	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ BEARING  (degrees clockwise from North) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+	/* â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ BEARING  (degrees clockwise from North) â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ */
 	_calculateBearing (lat1, lon1, lat2, lon2) {
-		const toRad = (d) => d * Math.PI / 180;
-		const phi1 = toRad(lat1);
-		const phi2 = toRad(lat2);
-		const dLon = toRad(lon2 - lon1);
-		const y = Math.sin(dLon) * Math.cos(phi2);
-		const x = Math.cos(phi1) * Math.sin(phi2) - Math.sin(phi1) * Math.cos(phi2) * Math.cos(dLon);
-   		return (Math.atan2(y, x) * 180 / Math.PI + 360) % 360;
+		return IagtFlightProcessor.calculateBearing(lat1, lon1, lat2, lon2);
 	},
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ FILTERED LEGS (Outbound/Return/All) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	_getFilteredLegs () {
-		const mode = this.config.flightDisplayMode || "all";
-		if (mode === "outbound") {
-			return this.flightLegs.filter((l) => l.type === "outbound");
-		}
-		if (mode === "return") {
-			return this.flightLegs.filter((l) => l.type === "return");
-		}
-		return this.flightLegs;
+		const cfg = this._getEffectiveConfig();
+		return IagtFlightProcessor.getFilteredLegs(this._state.flightLegs, cfg.flightDisplayMode);
 	},
 
-	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ MAP LINE BUILDER â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+	/* â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ MAP LINE BUILDER â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ */
 	buildMapLines (legs) {
-		const mode = String(this.config.showFlightTracks || "auto");
-		const data = {
-			scheduled: [],
-			active: [],
-			tail: [],
-			landed: [],
-			previous: [],
-			cancelled: []
-		};
-
-		if (mode === "false") return data;
-		if (this.config.scenario === 4 && mode !== "test") return data;
-
-		const n = this.config.gcPoints || 60;
 		if (!legs) legs = this._getFilteredLegs();
-
-		legs.forEach((leg, idx) => {
-			if (!leg.from || !leg.to || !leg._gcPoints) return;
-
-			const pts = leg._gcPoints;
-			let st = leg.status || "scheduled";
-
-			// Check if a subsequent leg has departed
-			let hasSubsequentDeparted = false;
-			if (this.config.scenario === 3) {
-				hasSubsequentDeparted = legs.some((l, i) => i > idx && l.travelerName === leg.travelerName && (l.status === "active" || l.status === "landed"));
-			} else {
-				hasSubsequentDeparted = legs.some((l, i) => i > idx && (l.status === "active" || l.status === "landed"));
-			}
-			if (st === "landed" && hasSubsequentDeparted) st = "previous";
-
-			// Traveler colour (Scenario 3)
-			const customColor = this._getLegColor(leg);
-
-			if (mode === "true") {
-
-				/* Always show every leg as a complete path in its current status colour */
-				if (data[st]) {
-					data[st].push(this._segmentsToLine(pts, customColor));
-				}
-			} else {
-
-				/* "auto" and "test" â€” progressive rendering */
-				if (st === "active") {
-					const sp = Math.max(0, Math.min(n - 1, Math.floor((leg.progress || 0) * n)));
-					const done = pts.slice(0, sp + 1);
-					const rem = pts.slice(sp);
-
-					data.active.push(this._segmentsToLine(done, customColor));
-					if (rem.length > 1) {
-						data.tail.push(this._segmentsToLine(rem, customColor));
-					}
-				} else if (data[st]) {
-					data[st].push(this._segmentsToLine(pts, customColor));
-				}
-			}
-		});
-
-		return data;
+		const cfg = this._getEffectiveConfig();
+		return IagtFlightProcessor.buildMapLines(legs, cfg, this._state.travelerColors, this._state.tripReset);
 	},
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ AIRPORT MARKERS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	buildAirportMarkers (legs) {
-		const airports = [];
-		const planes = [];
-		const seen = new Set();
-		const homeIata = this.config.home ? this.config.home.iata : null;
 		if (!legs) legs = this._getFilteredLegs();
-
-		/* Airport markers â€” gated by showDestinations */
-		if (this.config.showDestinations !== false) {
-			const addAirport = (ap) => {
-				if (!ap) return;
-				let lat = parseFloat(ap.lat);
-				let lon = parseFloat(ap.lon);
-				if (isNaN(lat) || isNaN(lon)) return;
-				
-				if (lat === 0 && lon === 0) return;
-
-				const key = `${lat.toFixed(3)}_${lon.toFixed(3)}`;
-				
-				const existing = airports.find(a => `${(+a.latitude).toFixed(3)}_${(+a.longitude).toFixed(3)}` === key);
-				if (existing) {
-					if (!existing.crest && ap.crest) existing.crest = ap.crest;
-					const newLegs = legs.filter(l => l.to && l.to.lat === ap.lat && l.to.lon === ap.lon);
-					newLegs.forEach(nl => {
-						if (!existing.legs.find(el => el.id === nl.id)) {
-							existing.legs.push(nl);
-						}
-					});
-					return;
-				}
-				if (seen.has(key)) return;
-				seen.add(key);
-
-				airports.push({
-					iata: ap.iata,
-					name: ap.name,
-					latitude: ap.lat,
-					longitude: ap.lon,
-					crest: ap.crest || null,
-					legs: legs.filter(l => l.to && l.to.lat === ap.lat && l.to.lon === ap.lon),
-					customColor: (homeIata && ap.iata === homeIata) 
-						? (this.config.scenario === 4 || this.config.scenario === 6 ? "#FFD700" : this.config.colorAirportHome) 
-						: (this.config.scenario === 4 || this.config.scenario === 6 ? "#FFFFFF" : this.config.colorAirportOther)
-				});
-			};
-			legs.forEach((leg) => { addAirport(leg.from); addAirport(leg.to); });
-		}
-
-		/* Live plane markers â€” independent of showDestinations */
-		if (this.config.animationEnabled && !this.tripReset) {
-			const actives = legs.filter((l) => l.status === "active");
-			actives.forEach((active) => {
-
-				/* Resolve plane position: prefer API last_position, fall back to GC interpolation */
-				let planeLat = active.currentLat;
-				let planeLon = active.currentLon;
-				if ((planeLat === null || planeLon === null) && (active.progress !== null && active.progress !== undefined) && active._gcPoints && active._gcPoints.length) {
-					const n = this.config.gcPoints || 60;
-					const ptIdx = Math.min(n - 1, Math.floor((active.progress || 0) * n));
-					const pt = active._gcPoints[ptIdx];
-					if (pt) {
-						planeLat = pt.lat;
-						planeLon = pt.lon;
-					}
-				}
-
-				if (planeLat !== null && planeLon !== null) {
-					/* Compute the instantaneous heading */
-					let rotation = 0;
-					
-					// 1. Prioritize GC path bearing if points exist
-					if (active.from && active.to && active._gcPoints && active._gcPoints.length) {
-						const n = this.config.gcPoints || 60;
-						const prog = active.progress || 0;
-						const pts = active._gcPoints;
-						const i = Math.min(pts.length - 1, Math.floor(prog * pts.length));
-						
-						if (i < pts.length - 1) {
-							rotation = this._calculateBearing(pts[i].lat, pts[i].lon, pts[i + 1].lat, pts[i + 1].lon);
-						} else if (i > 0) {
-							rotation = this._calculateBearing(pts[i - 1].lat, pts[i - 1].lon, pts[i].lat, pts[i].lon);
-						}
-					} 
-					// 2. Fallback to live heading
-					else if (active.heading != null && !isNaN(active.heading)) {
-						rotation = active.heading;
-					} 
-					// 3. Last fallback: direct bearing to destination
-					else if (active.to && active.to.lat != null && active.to.lon != null) {
-						rotation = this._calculateBearing(planeLat, planeLon, active.to.lat, active.to.lon);
-					}
-
-					/* Plane color: Scenario 3 uses traveler-specific color; others use config default */
-					let planeColor = this.config.colorPlane;
-					if (this.config.scenario === 3 && active.travelerName && this._travelerColors[active.travelerName]) {
-						planeColor = this._travelerColors[active.travelerName];
-					}
-
-					/* Shadow â€” rendered first */
-					if (this.config.showPlaneShadow) {
-						planes.push({
-							latitude: planeLat - 0.1, // Slight offset for better depth
-							longitude: planeLon + 0.1,
-							rotation: rotation,
-							customColor: "#FFFFFF",
-							alpha: 0.15,
-							scale: 0.06,
-							shadowOnly: true,
-							flightNumber: active.flightNumber || "" // Ensure same key for tracking
-						});
-					}
-
-					/* Main coloured plane â€” always on top */
-					const _fmtTip = (iso) => {
-						if (!iso) return null;
-						try {
-							const t = new Date(iso);
-							return isNaN(t.getTime()) ? null : t.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
-						} catch (_e) { return null; }
-					};
-					const _tipLines = [active.flightNumber || ""];
-					if (active.detailedStatus) _tipLines.push(`Status: ${active.detailedStatus}`);
-					if (planeLat != null && planeLon != null) {
-						_tipLines.push(`Pos: ${planeLat.toFixed(3)}\u00B0, ${planeLon.toFixed(3)}\u00B0`);
-					}
-					const _hasLive = (active.groundspeed != null && !isNaN(active.groundspeed)) || (active.altitude != null && !isNaN(active.altitude)) || (active.heading != null && !isNaN(active.heading));
-					if (_hasLive) {
-						// AeroAPI returns altitude in feet. Test mode also now uses feet.
-						const _altFt  = (active.altitude != null && !isNaN(active.altitude)) ? `${active.altitude.toLocaleString()} ft` : "\u2014";
-						const _spd    = (active.groundspeed != null && !isNaN(active.groundspeed)) ? `${active.groundspeed} kts` : "\u2014";
-						const _hdg    = (active.heading != null && !isNaN(active.heading)) ? `${Math.round(active.heading)}\u00B0` : "\u2014";
-						const _rateMap = { C: "\u25B2 Climb", D: "\u25BC Desc", L: "\u2192 Level" };
-						const _rate   = active.altitudeChange ? (_rateMap[active.altitudeChange] || active.altitudeChange) : "\u2014";
-						_tipLines.push(`Alt: ${_altFt}  Spd: ${_spd}`);
-						_tipLines.push(`Hdg: ${_hdg}  Rate: ${_rate}`);
-					}
-					if (active.lastPositionUpdate)  _tipLines.push(`Upd: ${_fmtTip(active.lastPositionUpdate) || active.lastPositionUpdate}`);
-					if (active.aircraftType || active.tailNumber) {
-						_tipLines.push([active.aircraftType, active.tailNumber ? `(${active.tailNumber})` : null].filter(Boolean).join(" "));
-					}
-
-					planes.push({
-						latitude: planeLat,
-						longitude: planeLon,
-						rotation: rotation,
-						customColor: planeColor,
-						alpha: 1.0,   // Full visibility
-						scale: 0.08,  // Larger marker (was 0.06)
-						flightNumber: active.flightNumber || "",
-						tooltipContent: _tipLines.join("\n")
-					});
-				}
-			});
-		}
-
-		return { airports, planes };
+		const cfg = this._getEffectiveConfig();
+		return IagtFlightProcessor.buildAirportMarkers(legs, cfg, this._state.travelerColors, this._state.tripReset, cfg.gcPoints || 60);
 	},
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ MAP INIT & UPDATE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
@@ -1122,23 +1050,43 @@ Module.register("MMM-iAmGoingThere", {
 		try {
 			// 1. Root
 			const currentDiv = document.getElementById(divId);
-			if (this._mapRoot) {
-				// Optimization: If map already exists and is still attached to the current div, 
-				// don't dispose the root. Just update data or clear series if needed.
-				if (this.mapReady && this._mapRootContainer === currentDiv) {
-					this._flushMapLines(this.flightLegs);
-					this.mapChart.goHome(0);
+			const projKey = (cfg.mapProjection || "mercator").toLowerCase().replace(/[^a-z0-9]/g, "");
+			
+			if (this._state.mapRoot) {
+				// Optimization: If map already exists, is attached to the current div, 
+				// AND the projection hasn't changed, don't dispose the root.
+				if (this._state.mapReady && this._state.mapRootContainer === currentDiv && this._state.lastProjection === projKey) {
+					const zoomLon  = (cfg.zoomLongitude !== undefined && cfg.zoomLongitude !== null) ? Number(cfg.zoomLongitude) : 0;
+					const zoomLat  = (cfg.zoomLatitude  !== undefined && cfg.zoomLatitude  !== null) ? Number(cfg.zoomLatitude)  : 0;
+					const zoomLvl  = (cfg.zoomLevel     !== undefined && cfg.zoomLevel     !== null) ? Number(cfg.zoomLevel)     : 1;
+
+					if (this._state.mapChart) {
+						this._state.mapChart.setAll({
+							homeZoomLevel: zoomLvl,
+							homeGeoPoint:  { longitude: zoomLon, latitude: zoomLat },
+							homeRotationX: -zoomLon,
+							homeRotationY: -zoomLat
+						});
+					}
+
+					this.stopTestAnimation();
+					this._flushMapLines(this._state.flightLegs);
+					this._state.mapChart.goHome(0);
+					if (String(cfg.showFlightTracks) === "test") this.startTestAnimation();
+					this._startGlobeAutoRotation();
 					return;
 				}
-				this._mapRoot.dispose();
-				this._mapRoot = null;
-				this._mapRootContainer = null;
-				this._polygonSeries = null;
-				this.mapReady = false;
+				this._stopGlobeAutoRotation();
+				this._state.mapRoot.dispose();
+				this._state.mapRoot = null;
+				this._state.mapRootContainer = null;
+				this._state.polygonSeries = null;
+				this._state.mapReady = false;
 			}
 			const root = am5.Root.new(divId);
-			this._mapRoot = root;
-			this._mapRootContainer = currentDiv;
+			this._state.mapRoot = root;
+			this._state.mapRootContainer = currentDiv;
+			this._state.lastProjection = projKey;
 
 			// 2. Chart
 			/*
@@ -1147,9 +1095,9 @@ Module.register("MMM-iAmGoingThere", {
        * call after first render correctly positions AND zooms the map.
        * zoomLevel 1 = full world; higher values zoom in.
        */
-			const zoomLon  = (this.config.zoomLongitude !== undefined && this.config.zoomLongitude !== null) ? Number(this.config.zoomLongitude) : 0;
-			const zoomLat  = (this.config.zoomLatitude  !== undefined && this.config.zoomLatitude  !== null) ? Number(this.config.zoomLatitude)  : 0;
-			const zoomLvl  = (this.config.zoomLevel     !== undefined && this.config.zoomLevel     !== null) ? Number(this.config.zoomLevel)     : 1;
+			const zoomLon  = (cfg.zoomLongitude !== undefined && cfg.zoomLongitude !== null) ? Number(cfg.zoomLongitude) : 0;
+			const zoomLat  = (cfg.zoomLatitude  !== undefined && cfg.zoomLatitude  !== null) ? Number(cfg.zoomLatitude)  : 0;
+			const zoomLvl  = (cfg.zoomLevel     !== undefined && cfg.zoomLevel     !== null) ? Number(cfg.zoomLevel)     : 1;
 			const _projMap = {
 				mercator:        () => am5map.geoMercator(),
 				naturalearth1:   () => am5map.geoNaturalEarth1(),
@@ -1157,7 +1105,7 @@ Module.register("MMM-iAmGoingThere", {
 				orthographic:    () => am5map.geoOrthographic(),
 				stereographic:   () => am5map.geoStereographic()
 			};
-			const _projKey = (this.config.mapProjection || "mercator").toLowerCase().replace(/[^a-z0-9]/g, "");
+			const _projKey = (cfg.mapProjection || "mercator").toLowerCase().replace(/[^a-z0-9]/g, "");
 			const _projFn  = (_projMap[_projKey] || _projMap["mercator"]);
 			const chart = root.container.children.push(
 				am5map.MapChart.new(root, {
@@ -1175,7 +1123,7 @@ Module.register("MMM-iAmGoingThere", {
 					homeRotationY: -zoomLat
 				})
 			);
-			this.mapChart = chart;
+			this._state.mapChart = chart;
 
 			// Listen for rotation changes to update compass needle
 			chart.on("rotationX", () => {
@@ -1187,7 +1135,7 @@ Module.register("MMM-iAmGoingThere", {
 
 			// 3a. Outer area (outside the map projection, e.g. corners around a globe)
 			chart.chartContainer.get("background").setAll({
-				fill:        am5.color(this._safeColor(this.config.colorMapBackground || "#000000")),
+				fill:        am5.color(this._safeColor(cfg.colorMapBackground || "#000000")),
 				fillOpacity: 1
 			});
 
@@ -1195,7 +1143,7 @@ Module.register("MMM-iAmGoingThere", {
 			//     placed first so it sits behind countries
 			const oceanSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {}));
 			oceanSeries.mapPolygons.template.setAll({
-				fill:         am5.color(this._safeColor(this.config.colorMapOcean || "#1A1A2E")),
+				fill:         am5.color(this._safeColor(cfg.colorMapOcean || "#1A1A2E")),
 				fillOpacity:  1,
 				strokeOpacity: 0
 			});
@@ -1211,9 +1159,9 @@ Module.register("MMM-iAmGoingThere", {
 				})
 			);
 			polygonSeries.mapPolygons.template.setAll({
-				fill: am5.color(this._safeColor(this.config.colorCountries)),
+				fill: am5.color(this._safeColor(cfg.colorCountries)),
 				fillOpacity: 0.6,
-				stroke: am5.color(this._safeColor(this.config.colorCountryBorders)),
+				stroke: am5.color(this._safeColor(cfg.colorCountryBorders)),
 				strokeWidth: 0.5,
 				tooltipText: "{name}",
 				interactive: true,
@@ -1221,7 +1169,7 @@ Module.register("MMM-iAmGoingThere", {
 			});
 
 			// 4b. Scenario 4: colour visited countries — applied after data renders
-			this._polygonSeries = polygonSeries;
+			this._state.polygonSeries = polygonSeries;
 			polygonSeries.events.on("datavalidated", () => {
 				this._applyVisitedCountriesColors();
 			});
@@ -1232,30 +1180,30 @@ Module.register("MMM-iAmGoingThere", {
 				if (dataItem && dataItem.dataContext && dataItem.dataContext.id) {
 					const iso = dataItem.dataContext.id;
 					const name = dataItem.dataContext.name || iso;
-					const isVisited = (this.visitedCountryIsos || []).includes(iso);
+					const isVisited = (this._state.visitedCountryIsos || []).includes(iso);
 					this._showVisitedPopup(iso, name, isVisited);
 				}
 			});
 
 			// 4c. Graticule — uses same data.setAll() pattern as flight tracks to ensure
 			//     template adapters fire correctly (geoJSON constructor path bypasses adapters).
-			const step    = Number(this.config.graticuleStep) || 10;
-			const color   = am5.color(this._safeColor(this.config.colorGraticule || "#ffffff"));
-			const opacity = this.config.graticuleOpacity != null ? Number(this.config.graticuleOpacity) : 0.2;
-			const width   = Number(this.config.graticuleWidth) || 0.5;
+			const step    = Number(cfg.graticuleStep) || 10;
+			const color   = am5.color(this._safeColor(cfg.colorGraticule || "#ffffff"));
+			const opacity = cfg.graticuleOpacity != null ? Number(cfg.graticuleOpacity) : 0.2;
+			const width   = Number(cfg.graticuleWidth) || 0.5;
 
-			this._graticuleSeries = chart.series.push(am5map.MapLineSeries.new(root, {
-				visible: this.config.showGraticule
+			this._state.graticuleSeries = chart.series.push(am5map.MapLineSeries.new(root, {
+				visible: cfg.showGraticule
 			}));
 
-			this._graticuleSeries.mapLines.template.setAll({
+			this._state.graticuleSeries.mapLines.template.setAll({
 				stroke:        color,
 				strokeOpacity: opacity,
 				strokeWidth:   width
 			});
-			this._graticuleSeries.mapLines.template.adapters.add("stroke",        () => color);
-			this._graticuleSeries.mapLines.template.adapters.add("strokeOpacity", () => opacity);
-			this._graticuleSeries.mapLines.template.adapters.add("strokeWidth",   () => width);
+			this._state.graticuleSeries.mapLines.template.adapters.add("stroke",        () => color);
+			this._state.graticuleSeries.mapLines.template.adapters.add("strokeOpacity", () => opacity);
+			this._state.graticuleSeries.mapLines.template.adapters.add("strokeWidth",   () => width);
 
 			const features = [];
 			for (let lat = -80; lat <= 80; lat += step) {
@@ -1269,7 +1217,7 @@ Module.register("MMM-iAmGoingThere", {
 				features.push({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: coords } });
 			}
 
-			this._graticuleSeries.data.setAll(features);
+			this._state.graticuleSeries.data.setAll(features);
 
 			// 4d. Sub-national region layers
 			if (this.config.showSubnationalRegions) {
@@ -1295,14 +1243,15 @@ Module.register("MMM-iAmGoingThere", {
 			});
 
 			// 8. Ready
-			this.mapReady = true;
+			this._state.mapReady = true;
 			const loadingPlaceholder = document.getElementById(`iAGT-map-loading-${this.identifier}`);
 			if (loadingPlaceholder) loadingPlaceholder.remove();
 			this.updateTable();
 
-			if (String(this.config.showFlightTracks) === "test") this.startTestAnimation();
+			if (String(cfg.showFlightTracks) === "test") this.startTestAnimation();
 
 			this.updateMapLines();
+			this._startGlobeAutoRotation();
 
 		} catch (e) {
 			Log.error(`[${this.name}] amCharts 5 failed: ${e.message}`);
@@ -1317,8 +1266,8 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	_handleMapControl (dir) {
-		if (!this.mapChart) return;
-		const chart = this.mapChart;
+		if (!this._state.mapChart) return;
+		const chart = this._state.mapChart;
 		const cfg = this._getEffectiveConfig();
 		const rotStep = 0.5;
 
@@ -1372,8 +1321,9 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	_updateProjection () {
-		if (!this.mapChart) return;
-		const proj = (this.config.mapProjection || "mercator").toLowerCase().replace(/[^a-z0-9]/g, "");
+		if (!this._state.mapChart) return;
+		const cfg = this._getEffectiveConfig();
+		const proj = (cfg.mapProjection || "mercator").toLowerCase().replace(/[^a-z0-9]/g, "");
 		let am5proj;
 		switch (proj) {
 			case "equirectangular": am5proj = am5map.geoEquirectangular(); break;
@@ -1383,16 +1333,17 @@ Module.register("MMM-iAmGoingThere", {
 			case "mercator":
 			default:                am5proj = am5map.geoMercator();        break;
 		}
-		this.mapChart.set("projection", am5proj);
+		this._state.mapChart.set("projection", am5proj);
 
-		if (this._polygonSeries) {
-			this._polygonSeries.set("exclude", (this.config.hideIceCaps && proj !== "orthographic") ? ["AQ"] : []);
+		if (this._state.polygonSeries) {
+			this._state.polygonSeries.set("exclude", (this.config.hideIceCaps && proj !== "orthographic") ? ["AQ"] : []);
 		}
 	},
 
 	_initLineSeries (root, chart) {
+		const cfg = this._getEffectiveConfig();
 		this._ls = {};
-		const cbm = this.config.colorBlindMode;
+		const cbm = cfg.colorBlindMode;
 
 		const createSeries = (key, color, thickness, dash) => {
 			const series = chart.series.push(am5map.MapLineSeries.new(root, {
@@ -1424,18 +1375,18 @@ Module.register("MMM-iAmGoingThere", {
 			this._ls[key] = series;
 		};
 
-		createSeries("scheduled", this.config.colorFuturePath, 1, cbm ? [8, 4] : []);
-		createSeries("active", this.config.colorActivePath, 3, []);
-		createSeries("tail", this.config.colorFuturePath, 1, [8, 4]);
-		createSeries("landed", this.config.colorCompletedPath, 2, cbm ? [4, 4] : []);
-		createSeries("previous", this.config.colorPreviousPath, 2, cbm ? [4, 4] : []);
-		createSeries("cancelled", this.config.colorCancelledPath, 1, [8, 4]);
+		createSeries("scheduled", cfg.colorFuturePath, 1, cbm ? [8, 4] : []);
+		createSeries("active", cfg.colorActivePath, 3, []);
+		createSeries("tail", cfg.colorFuturePath, 1, [8, 4]);
+		createSeries("landed", cfg.colorCompletedPath, 2, cbm ? [4, 4] : []);
+		createSeries("previous", cfg.colorPreviousPath, 2, cbm ? [4, 4] : []);
+		createSeries("cancelled", cfg.colorCancelledPath, 1, [8, 4]);
 	},
 
 	_initRegionLayers (root, chart) {
-		const regionData = this.regionData || {};
+		const regionData = this._state.regionData || {};
 		const isos = Object.keys(regionData);
-		this._regionSeriesList = [];
+		this._state.regionSeriesList = [];
 		if (isos.length === 0) return;
 
 		const LAYER_COLORS = [
@@ -1456,9 +1407,9 @@ Module.register("MMM-iAmGoingThere", {
 			const colors = LAYER_COLORS[idx % LAYER_COLORS.length];
 
 			const regionSeries = chart.series.push(
-				am5map.MapPolygonSeries.new(root, { geoJSON, visible: this._regionsVisible })
+				am5map.MapPolygonSeries.new(root, { geoJSON, visible: this._state.regionsVisible })
 			);
-			this._regionSeriesList.push(regionSeries);
+			this._state.regionSeriesList.push(regionSeries);
 
 			regionSeries.mapPolygons.template.setAll({
 				fill:           am5.color(this._safeColor(colors.base)),
@@ -1484,29 +1435,30 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	_toggleRegionLayers (visible) {
-		this._regionsVisible = visible;
-		this._regionSeriesList.forEach((series) => {
+		this._state.regionsVisible = visible;
+		this._state.regionSeriesList.forEach((series) => {
 			series.set("visible", visible);
 		});
 	},
 
 	_toggleGraticules (visible) {
-		if (this._graticuleSeries) {
-			this._graticuleSeries.set("visible", visible);
+		if (this._state.graticuleSeries) {
+			this._state.graticuleSeries.set("visible", visible);
 		}
 	},
 
 	_initPointSeries (root, chart) {
+		const cfg = this._getEffectiveConfig();
 		// Airport Series
 		const airportSeries = chart.series.push(am5map.MapPointSeries.new(root, {}));
 		this._airportSeries = airportSeries;
 
 		airportSeries.bullets.push((root, series, dataItem) => {
 			const d = dataItem.dataContext;
-			const showAtts = this.config.showAttractionsDetails || this.config.showCityInfo;
+			const showAtts = cfg.showAttractionsDetails || cfg.showCityInfo;
 			
 			const getTooltipText = (data) => {
-				if (this.config.scenario === 6 && data.legs && data.legs.length > 0) {
+				if (cfg.scenario === 6 && data.legs && data.legs.length > 0) {
 					let tip = `[b]${data.name}[/b]`;
 					data.legs.forEach(l => {
 						const dParts = (l.departureDate || "").split("-");
@@ -1535,7 +1487,8 @@ Module.register("MMM-iAmGoingThere", {
 					centerY: am5.p50,
 					cursorOverStyle: showAtts ? "pointer" : "default",
 					tooltipText: getTooltipText(d),
-					tooltip: _makeTip()
+					tooltip: _makeTip(),
+					ariaLabel: d.name || "Football Team"
 				});
 				container.children.push(am5.Circle.new(root, {
 					radius: 8,
@@ -1554,20 +1507,21 @@ Module.register("MMM-iAmGoingThere", {
 			} else {
 				sprite = am5.Graphics.new(root, {
 					svgPath: this.TARGET_SVG,
-					fill: am5.color(d.customColor || this.config.colorAirportOther),
+					fill: am5.color(d.customColor || cfg.colorAirportOther),
 					scale: 0.5,
 					cursorOverStyle: showAtts ? "pointer" : "default",
 					tooltipText: getTooltipText(d),
-					tooltip: _makeTip()
+					tooltip: _makeTip(),
+					ariaLabel: d.name || "Airport"
 				});
 			}
 
 			if (showAtts) {
 				sprite.events.on("click", () => {
 					const cityName = d.name;
-					if (cityName && this.cityInfo[cityName]) {
-						this._lastShownCity = cityName;
-						if (this._cityTimer) { clearInterval(this._cityTimer); this._cityTimer = null; }
+					if (cityName && this._state.cityInfo[cityName]) {
+						this._state.lastShownCity = cityName;
+						if (this._state.cityTimer) { clearInterval(this._state.cityTimer); this._state.cityTimer = null; }
 						this._renderCityByName(cityName);
 					}
 				});
@@ -1583,13 +1537,17 @@ Module.register("MMM-iAmGoingThere", {
 			const d = dataItem.dataContext;
 			const sprite = am5.Graphics.new(root, {
 				svgPath: this.PLANE_SVG,
-				fill: am5.color(d.customColor || this.config.colorPlane),
-				fillOpacity: d.alpha ?? 0.9,
-				scale: d.scale ?? 0.06,
-				rotation: d.rotation ?? 0,
+				fill: am5.color(this._safeColor(d.customColor || cfg.colorPlane)),
+				fillOpacity: (d.alpha != null) ? d.alpha : 1.0,
+				stroke: am5.color(0x000000),
+				strokeWidth: 0.5,
+				strokeOpacity: 0.3,
+				scale: (d.scale != null) ? d.scale : 0.084,
+				rotation: (d.rotation != null) ? d.rotation : 0,
 				centerX: am5.p50,
 				centerY: am5.p50,
 				tooltipText: "{tooltipContent}",
+				ariaLabel: d.flightNumber ? `Flight ${d.flightNumber}` : "Active Flight",
 				tooltip: (() => {
 					const _tip = am5.Tooltip.new(root, { pointerOrientation: "vertical", getFillFromSprite: false, autoTextColor: false });
 					_tip.get("background").setAll({ fill: am5.color(0x0d1117), fillOpacity: 0.96, stroke: am5.color(0x4499FF), strokeWidth: 1, strokeOpacity: 0.9, cornerRadiusTL: 4, cornerRadiusTR: 4, cornerRadiusBL: 4, cornerRadiusBR: 4 });
@@ -1598,27 +1556,22 @@ Module.register("MMM-iAmGoingThere", {
 				})()
 			});
 
+			// Simple property binding via adapters
 			sprite.adapters.add("rotation", (rotation, target) => {
-				const d = target.dataItem?.dataContext;
-				return (d && Object.prototype.hasOwnProperty.call(d, "rotation")) ? d.rotation : rotation;
-			});
-
-			sprite.adapters.add("angle", (angle, target) => {
-				const d = target.dataItem?.dataContext;
-				return (d && Object.prototype.hasOwnProperty.call(d, "rotation")) ? d.rotation : angle;
-			});
-
-			sprite.adapters.add("fill", (fill, target) => {
-				const customColor = target.dataItem?.dataContext?.customColor;
-				return customColor ? am5.color(customColor) : fill;
+				return target.dataItem.get("rotation") ?? rotation;
 			});
 
 			sprite.adapters.add("fillOpacity", (opacity, target) => {
-				return target.dataItem?.dataContext?.alpha ?? opacity;
+				return target.dataItem.get("opacity") ?? opacity;
 			});
 
 			sprite.adapters.add("scale", (scale, target) => {
-				return target.dataItem?.dataContext?.scale ?? scale;
+				return target.dataItem.get("scale") ?? scale;
+			});
+
+			sprite.adapters.add("fill", (fill, target) => {
+				const customColor = target.dataItem.dataContext?.customColor;
+				return customColor ? am5.color(this._safeColor(customColor)) : fill;
 			});
 
 			return am5.Bullet.new(root, { sprite });
@@ -1626,12 +1579,12 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	updateMapLines (legs) {
-		if (!this.mapChart || !this.mapReady) return;
+		if (!this._state.mapChart || !this._state.mapReady) return;
 
 		this._pendingMapLinesLegs = legs;
-		if (this._validateTimer) clearTimeout(this._validateTimer);
-		this._validateTimer = setTimeout(() => {
-			this._validateTimer = null;
+		if (this._state.validateTimer) clearTimeout(this._state.validateTimer);
+		this._state.validateTimer = setTimeout(() => {
+			this._state.validateTimer = null;
 			this._flushMapLines(this._pendingMapLinesLegs);
 		}, 250);
 	},
@@ -1643,7 +1596,7 @@ Module.register("MMM-iAmGoingThere", {
 
 		const existing = wrapper.querySelector(".iAGT-visited-popup");
 		if (existing) existing.remove();
-		if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+		if (this._state.visitedPopupTimer) { clearTimeout(this._state.visitedPopupTimer); this._state.visitedPopupTimer = null; }
 
 		const statusText = isVisited ? this.translate("VISITED_IS_VISITED") : this.translate("VISITED_NOT_VISITED");
 		const confirmLabel = isVisited ? this.translate("VISITED_BTN_UNMARK") : this.translate("VISITED_BTN_MARK");
@@ -1663,31 +1616,32 @@ Module.register("MMM-iAmGoingThere", {
 
 		popup.querySelector(".iAGT-popup-confirm").addEventListener("click", () => {
 			popup.remove();
-			if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+			if (this._state.visitedPopupTimer) { clearTimeout(this._state.visitedPopupTimer); this._state.visitedPopupTimer = null; }
 			this.sendSocketNotification("iAGT_TOGGLE_VISITED_COUNTRY", { iso });
 		});
 		popup.querySelector(".iAGT-popup-cancel").addEventListener("click", () => {
 			popup.remove();
-			if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+			if (this._state.visitedPopupTimer) { clearTimeout(this._state.visitedPopupTimer); this._state.visitedPopupTimer = null; }
 		});
 
 		wrapper.appendChild(popup);
-		this._visitedPopupTimer = setTimeout(() => {
+		this._state.visitedPopupTimer = setTimeout(() => {
 			popup.remove();
-			this._visitedPopupTimer = null;
+			this._state.visitedPopupTimer = null;
 		}, 5000);
 	},
 
 	_applyVisitedCountriesColors () {
-		if (!this._polygonSeries) return;
-		const visitedSet = this._visitedHighlightEnabled ? new Set(this.visitedCountryIsos || []) : new Set();
-		const defaultFill = am5.color(this._safeColor(this.config.colorCountries));
+		if (!this._state.polygonSeries) return;
+		const cfg = this._getEffectiveConfig();
+		const visitedSet = this._state.visitedHighlightEnabled ? new Set(this._state.visitedCountryIsos || []) : new Set();
+		const defaultFill = am5.color(this._safeColor(cfg.colorCountries));
 		const defaultOpacity = 0.6;
-		const defaultStroke = am5.color(this._safeColor(this.config.colorCountryBorders));
-		const visitedFill = am5.color(this._safeColor(this.config.colorVisitedCountry || "#00AA44"));
-		const visitedOpacity = this.config.colorVisitedCountryOpacity != null ? Number(this.config.colorVisitedCountryOpacity) : 0.75;
-		const visitedStroke = am5.color(this._safeColor(this.config.colorVisitedCountryBorder || "#008833"));
-		this._polygonSeries.mapPolygons.each((polygon) => {
+		const defaultStroke = am5.color(this._safeColor(cfg.colorCountryBorders));
+		const visitedFill = am5.color(this._safeColor(cfg.colorVisitedCountry || "#00AA44"));
+		const visitedOpacity = cfg.colorVisitedCountryOpacity != null ? Number(cfg.colorVisitedCountryOpacity) : 0.75;
+		const visitedStroke = am5.color(this._safeColor(cfg.colorVisitedCountryBorder || "#008833"));
+		this._state.polygonSeries.mapPolygons.each((polygon) => {
 			const id = polygon.dataItem?.dataContext?.id;
 			if (id && visitedSet.has(id)) {
 				polygon.setAll({ fill: visitedFill, fillOpacity: visitedOpacity, stroke: visitedStroke });
@@ -1698,8 +1652,8 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	_flushMapLines (legs) {
-		if (!legs) legs = this.flightLegs;
-		if (!this.mapChart || !this.mapReady) return;
+		if (!legs) legs = this._state.flightLegs;
+		if (!this._state.mapChart || !this._state.mapReady) return;
 
 		const lineData = this.buildMapLines(legs);
 		const markerData = this.buildAirportMarkers(legs);
@@ -1717,8 +1671,8 @@ Module.register("MMM-iAmGoingThere", {
 		const airportFingerprint = markerData.airports
 			.map(a => `${a.latitude},${a.longitude},${a.crest || ""},${a.customColor}`)
 			.join("|");
-		if (this._airportSeries && airportFingerprint !== this._lastAirportFingerprint) {
-			this._lastAirportFingerprint = airportFingerprint;
+		if (this._airportSeries && airportFingerprint !== this._state.lastAirportFingerprint) {
+			this._state.lastAirportFingerprint = airportFingerprint;
 			this._airportSeries.data.setAll(markerData.airports);
 		}
 
@@ -1726,47 +1680,48 @@ Module.register("MMM-iAmGoingThere", {
 		if (this._planeSeries) {
 			const planes = markerData.planes;
 			const series = this._planeSeries;
-			const isTest = String(this.config.showFlightTracks) === "test";
+			const cfg = this._getEffectiveConfig();
+			const isTest = String(cfg.showFlightTracks) === "test";
 			const currKeys = planes.map(p => `${p.flightNumber || ""}|${p.shadowOnly || false}`).join(",");
 			
-			if (this._planeKeys === currKeys && series.dataItems.length === planes.length) {
+			if (this._state.planeKeys === currKeys && series.dataItems.length === planes.length) {
 				planes.forEach((p, i) => {
 					const dataItem = series.dataItems[i];
-					if (!dataItem) return;
-					const prevLat = dataItem.get("latitude");
-					const prevLon = dataItem.get("longitude");
-					
-					// Update dataContext to ensure tooltipContent and other properties are refreshed
-					dataItem.set("dataContext", p);
-					
-					if (isTest) {
-						// In test mode, use setIndex to properly reposition the bullet on the map.
-						// The plane series uses am5.Graphics only (no Picture sprites), so setIndex
-						// does not cause image re-fetches or flicker.
-						series.data.setIndex(i, p);
-						if (p.rotation != null) dataItem.set("rotation", p.rotation);
-					} else {
-						series.data.setIndex(i, { ...p, latitude: prevLat, longitude: prevLon });
-						if (p.latitude != null)  dataItem.animate({ key: "latitude",  to: p.latitude,  duration: 1000, easing: am5.ease.linear });
-						if (p.longitude != null) dataItem.animate({ key: "longitude", to: p.longitude, duration: 1000, easing: am5.ease.linear });
-						if (p.rotation != null)  dataItem.animate({ key: "rotation",  to: p.rotation,  duration: 1000, easing: am5.ease.linear });
+					if (dataItem) {
+						// Update dataContext for tooltips etc.
+						dataItem.set("dataContext", p);
+						
+						if (isTest) {
+							series.data.setIndex(i, p);
+							dataItem.set("latitude",  p.latitude);
+							dataItem.set("longitude", p.longitude);
+							dataItem.set("rotation",  p.rotation);
+							dataItem.set("opacity",   p.alpha);
+							dataItem.set("scale",     p.scale);
+						} else {
+							dataItem.animate({ key: "latitude",  to: p.latitude,  duration: 1000, easing: am5.ease.linear });
+							dataItem.animate({ key: "longitude", to: p.longitude, duration: 1000, easing: am5.ease.linear });
+							dataItem.animate({ key: "rotation",  to: p.rotation,  duration: 1000, easing: am5.ease.linear });
+							dataItem.animate({ key: "opacity",   to: p.alpha,     duration: 1000, easing: am5.ease.linear });
+							dataItem.animate({ key: "scale",     to: p.scale,     duration: 1000, easing: am5.ease.linear });
+						}
 					}
 				});
 			} else {
 				series.data.setAll(planes);
-				this._planeKeys = currKeys;
+				this._state.planeKeys = currKeys;
 			}
 
 			// 4. Auto-rotate globe to plane(s) — Orthographic only
-			if (this.config.autoRotateGlobeToPlane && this.config.mapProjection === "orthographic" && planes.length > 0) {
+			if (cfg.autoRotateGlobeToPlane && cfg.mapProjection === "orthographic" && planes.length > 0) {
 				const activePlanes = planes.filter(p => !p.shadowOnly);
 				if (activePlanes.length > 0) {
 					const avgLat = activePlanes.reduce((sum, p) => sum + p.latitude, 0) / activePlanes.length;
 					const avgLon = activePlanes.reduce((sum, p) => sum + p.longitude, 0) / activePlanes.length;
 					
 					// Smoothly rotate the globe to center on the active plane(s)
-					this.mapChart.animate({ key: "rotationX", to: -avgLon, duration: 1000, easing: am5.ease.out(am5.ease.cubic) });
-					this.mapChart.animate({ key: "rotationY", to: -avgLat, duration: 1000, easing: am5.ease.out(am5.ease.cubic) });
+					this._state.mapChart.animate({ key: "rotationX", to: -avgLon, duration: 1000, easing: am5.ease.out(am5.ease.cubic) });
+					this._state.mapChart.animate({ key: "rotationY", to: -avgLat, duration: 1000, easing: am5.ease.out(am5.ease.cubic) });
 				}
 			}
 		}
@@ -1792,72 +1747,263 @@ Module.register("MMM-iAmGoingThere", {
      *  3. departureDate alone (date-only, treated as 00:00)
      *  4. flightNumber â€” alphabetical tiebreak
      */
-		const getSortKey = (leg) => {
-			if (leg.actualDeparture) return new Date(leg.actualDeparture).getTime();
-			if (leg.departureDate) {
-				const t = leg.departureTime ? `T${leg.departureTime}:00` : "T00:00:00";
-				return new Date(`${leg.departureDate}${t}`).getTime();
-			}
-			return 0;
-		};
+		const getSortKey = (leg) => this._legDepartureUtcMs(leg);
 		const sortByDateTime = (arr) => [...arr].sort((a, b) => {
 			const da = getSortKey(a);
 			const db = getSortKey(b);
 			return da !== db ? da - db : (a.flightNumber || "").localeCompare(b.flightNumber || "");
 		});
-		const mode = this.config.flightDisplayMode || "all";
+		const cfg = this._getEffectiveConfig();
+		const mode = cfg.flightDisplayMode || "all";
 		if (mode === "auto") {
 			return [
-				...sortByDateTime(this.flightLegs.filter((l) => l.type === "outbound")),
-				...sortByDateTime(this.flightLegs.filter((l) => l.type === "return"))
+				...sortByDateTime(this._state.flightLegs.filter((l) => l.type === "outbound")),
+				...sortByDateTime(this._state.flightLegs.filter((l) => l.type === "return"))
 			];
 		}
-		if (mode === "outbound") return sortByDateTime(this.flightLegs.filter((l) => l.type === "outbound"));
-		if (mode === "return") return sortByDateTime(this.flightLegs.filter((l) => l.type === "return"));
-		return sortByDateTime(this.flightLegs);
+		if (mode === "outbound") return sortByDateTime(this._state.flightLegs.filter((l) => l.type === "outbound"));
+		if (mode === "return") return sortByDateTime(this._state.flightLegs.filter((l) => l.type === "return"));
+		return sortByDateTime(this._state.flightLegs);
+	},
+
+	_getTestDepartureMin (leg) {
+		const map = this._state._testConfigTimeMap || {};
+		const t = leg.departureTime || map[`${leg.travelerName}|${(leg.flightNumber || "").trim()}`] || "";
+		if (!t || typeof t !== "string") return null;
+		const parts = t.split(":");
+		const h = parseInt(parts[0], 10);
+		const m = parseInt(parts[1], 10);
+		if (isNaN(h) || isNaN(m)) return null;
+
+		let min = h * 60 + m;
+
+		// Convert local time to UTC-ish minutes using longitude to avoid overlapping legs in test mode.
+		// offset = round(lon / 15) hours. Subtract offset to get UTC.
+		if (leg.from && leg.from.lon != null) {
+			const lon = parseFloat(leg.from.lon);
+			const offsetMin = Math.round(lon / 15) * 60;
+			min -= offsetMin;
+		}
+
+		return min;
+	},
+
+	_estimateFlightDurationMin (leg) {
+		if (!leg.from || !leg.to) return 90;
+		const R = 6371;
+		const toRad = d => d * Math.PI / 180;
+		const lat1 = toRad(+leg.from.lat);  const lon1 = toRad(+leg.from.lon);
+		const lat2 = toRad(+leg.to.lat);    const lon2 = toRad(+leg.to.lon);
+		const dlat = lat2 - lat1;           const dlon = lon2 - lon1;
+		const a = Math.sin(dlat / 2) ** 2 + Math.cos(lat1) * Math.cos(lat2) * Math.sin(dlon / 2) ** 2;
+		const dist = R * 2 * Math.asin(Math.sqrt(Math.min(1, Math.max(0, a))));
+		return Math.max(20, (dist / 850) * 60);
+	},
+
+	_startParallelTestAnimation (legs) {
+		const cfg         = this._getEffectiveConfig();
+		const durationMs  = (cfg.testModeDuration || 30) * 1000;
+		const delayMs     = (cfg.testModeDelay || 3) * 1000;
+		const FPS         = 30;
+		const stepMs      = 1000 / FPS;
+		const flySteps    = Math.max(1, Math.round(durationMs / stepMs));
+		const pauseSteps  = Math.max(1, Math.round(delayMs / stepMs));
+		const n           = cfg.gcPoints || 60;
+
+		const configTimeMap = {};
+		if (cfg.travelers) {
+			cfg.travelers.forEach(tv => {
+				[...(tv.flights || []), ...(tv.returnFlights || [])].forEach(f => {
+					configTimeMap[`${tv.name}|${(f.flightNumber || "").trim()}`] = f.departuretime || f.departureTime || "";
+				});
+			});
+		}
+		this._state._testConfigTimeMap = configTimeMap;
+
+		const dateGroups = {};
+		legs.forEach(leg => {
+			const d = leg.departureDate || "unknown";
+			if (!dateGroups[d]) dateGroups[d] = [];
+			dateGroups[d].push(leg);
+		});
+		const sortedDates = Object.keys(dateGroups).sort();
+
+		const groups = sortedDates.map(date => {
+			const groupLegs = dateGroups[date];
+			const timeline = groupLegs.map(leg => {
+				const depMin  = this._getTestDepartureMin(leg);
+				const startMin = depMin !== null ? depMin : 0;
+				const durMin  = this._estimateFlightDurationMin(leg);
+				return { leg, startMin, endMin: startMin + durMin };
+			});
+			const globalMin = Math.min(...timeline.map(t => t.startMin));
+			const globalMax = Math.max(...timeline.map(t => t.endMin));
+			return { date, timeline, globalMin, globalMax, spanMin: Math.max(1, globalMax - globalMin) };
+		});
+
+		const maxSpanMin = Math.max(...groups.map(g => g.spanMin));
+		groups.forEach(g => { g.scaledFlySteps = Math.max(1, Math.round(flySteps * (g.spanMin / maxSpanMin))); });
+
+		this._state.testGroups     = groups;
+		this._state.testGroupIndex = 0;
+		this._state.testProgress   = 0;
+		this._state.testPhase      = "flying";
+		this._state.testPauseCount = 0;
+		this._state.tripReset      = false;
+		this._testFrameCount       = 0;
+
+		legs.forEach(l => { l.status = "scheduled"; l.progress = 0; l.currentLat = null; l.currentLon = null; });
+
+		const advanceLeg = (leg, legProgress) => {
+			const clamped = Math.max(0, Math.min(1, legProgress));
+			if (legProgress < 0) {
+				leg.status = "scheduled"; leg.progress = 0; leg.currentLat = null; leg.currentLon = null;
+			} else if (legProgress <= 1) {
+				leg.status   = "active";
+				leg.progress = clamped;
+				if (leg._gcPoints && leg._gcPoints.length) {
+					const pts   = leg._gcPoints;
+					const ptIdx = Math.min(n - 1, Math.floor(clamped * n));
+					leg.currentLat    = pts[ptIdx].lat;
+					leg.currentLon    = pts[ptIdx].lon;
+					leg.groundspeed   = 450 + Math.floor(Math.random() * 50);
+					const p1 = pts[ptIdx];
+					const p2 = pts[Math.min(n - 1, ptIdx + 1)];
+					if (p1 && p2 && ptIdx < n - 1) {
+						leg.heading = this._calculateBearing(p1.lat, p1.lon, p2.lat, p2.lon);
+					} else if (ptIdx > 0) {
+						leg.heading = this._calculateBearing(pts[ptIdx - 1].lat, pts[ptIdx - 1].lon, p1.lat, p1.lon);
+					}
+					if      (clamped < 0.2) { leg.altitude = Math.floor(clamped * 5 * 38000);           leg.altitudeChange = "C"; }
+					else if (clamped > 0.8) { leg.altitude = Math.floor((1 - clamped) * 5 * 38000);     leg.altitudeChange = "D"; }
+					else                    { leg.altitude = 38000;                                       leg.altitudeChange = "L"; }
+				}
+			} else {
+				leg.status = "landed"; leg.progress = 1;
+				leg.currentLat = leg.to ? leg.to.lat : null;
+				leg.currentLon = leg.to ? leg.to.lon : null;
+			}
+		};
+
+		this._state.testTimer = setInterval(() => {
+			const grps = this._state.testGroups;
+			if (!grps || !grps.length) return;
+
+			const grpIdx = this._state.testGroupIndex % grps.length;
+			const group  = grps[grpIdx];
+
+			if (this._state.testPhase === "flying") {
+				this._testFrameCount++;
+				this._state.testProgress = Math.min(1, this._state.testProgress + 1 / (group.scaledFlySteps || flySteps));
+				const globalTimeMin = group.globalMin + this._state.testProgress * group.spanMin;
+
+				let statusChanged = false;
+				group.timeline.forEach(({ leg, startMin, endMin }) => {
+					const oldStatus  = leg.status;
+					const legProgress = (globalTimeMin - startMin) / Math.max(1, endMin - startMin);
+					advanceLeg(leg, legProgress);
+					if (leg.status !== oldStatus) statusChanged = true;
+				});
+
+				if (statusChanged || this._testFrameCount % 30 === 0) {
+					this.updateTable();
+					this._maybeAutoRotateAttractions(legs);
+				}
+				if (statusChanged) this.updateCountdown();
+
+				if (this._state.testProgress >= 1) {
+					group.timeline.forEach(({ leg }) => {
+						if (leg.status !== "landed") {
+							leg.status = "landed"; leg.progress = 1;
+							leg.currentLat = leg.to ? leg.to.lat : null;
+							leg.currentLon = leg.to ? leg.to.lon : null;
+						}
+					});
+					this._state.testPhase      = "pausing";
+					this._state.testPauseCount = 0;
+					this.updateTable();
+					this.updateCountdown();
+					this._maybeAutoRotateAttractions(legs);
+				}
+
+			} else {
+				this._state.testPauseCount++;
+				if (this._state.testPauseCount >= pauseSteps) {
+					this._state.testGroupIndex = (this._state.testGroupIndex + 1) % grps.length;
+					this._state.testProgress   = 0;
+					this._state.testPhase      = "flying";
+					this._state.testPauseCount = 0;
+
+					if (this._state.testGroupIndex === 0) {
+						legs.forEach(l => { l.status = "scheduled"; l.progress = 0; l.currentLat = null; l.currentLon = null; });
+						this._state.lastShownCity = null;
+						this.updateTable();
+						this.updateCountdown();
+						const ciEl = document.getElementById(`iAGT-city-info-${this.identifier}`);
+						if (ciEl) ciEl.innerHTML = "";
+					} else {
+						const nextGroup = grps[this._state.testGroupIndex];
+						nextGroup.timeline.forEach(({ leg }) => {
+							leg.status = "scheduled"; leg.progress = 0; leg.currentLat = null; leg.currentLon = null;
+						});
+						this.updateTable();
+						this.updateCountdown();
+					}
+				}
+			}
+
+			this._flushMapLines(legs);
+			this._maybeAutoRotateAttractions();
+		}, stepMs);
 	},
 
 	startTestAnimation () {
 		this.stopTestAnimation();
-		this._testLegs = this._buildTestSequence();
-		const legs = this._testLegs;
+		this._state.testLegs = this._buildTestSequence();
+		const legs = this._state.testLegs;
 		if (!legs.length) return;
 
-		const durationMs = (this.config.testModeDuration || 30) * 1000;
-		const delayMs = (this.config.testModeDelay || 3) * 1000;
+		const cfg = this._getEffectiveConfig();
+		if (cfg.scenario === 3) {
+			this._startParallelTestAnimation(legs);
+			return;
+		}
+
+		const durationMs = (cfg.testModeDuration || 30) * 1000;
+		const delayMs = (cfg.testModeDelay || 3) * 1000;
 		const FPS = 30;
 		const stepMs = 1000 / FPS;
 		const flySteps = Math.max(1, Math.round(durationMs / stepMs));
 		const pauseSteps = Math.max(1, Math.round(delayMs / stepMs));
-		const n = this.config.gcPoints || 60;
+		const n = cfg.gcPoints || 60;
 
-		this._testLegIndex = 0;
-		this._testProgress = 0;
-		this._testPhase = "flying";
-		this._testPauseCount = 0;
+		this._state.testLegIndex = 0;
+		this._state.testProgress = 0;
+		this._state.testPhase = "flying";
+		this._state.testPauseCount = 0;
 		this._testFrameCount = 0;
-		this.tripReset = false;
+		this._state.tripReset = false;
 
 		legs.forEach((l) => {
 			l.status = "scheduled"; l.progress = 0; l.currentLat = null; l.currentLon = null;
 		});
 
-		this._testTimer = setInterval(() => {
-			const activeLegs = this._testLegs;
+		this._state.testTimer = setInterval(() => {
+			const activeLegs = this._state.testLegs;
 			if (!activeLegs.length) return;
 
-			const leg = activeLegs[this._testLegIndex % activeLegs.length];
+			const leg = activeLegs[this._state.testLegIndex % activeLegs.length];
 
-			if (this._testPhase === "flying") {
-				this._testProgress = Math.min(1, this._testProgress + 1 / flySteps);
+			if (this._state.testPhase === "flying") {
+				this._state.testProgress = Math.min(1, this._state.testProgress + 1 / flySteps);
 				this._testFrameCount++;
 				const oldStatus = leg.status;
 				leg.status = "active";
-				leg.progress = this._testProgress;
+				leg.progress = this._state.testProgress;
 
 				if (leg.from && leg.to && leg._gcPoints) {
 					const pts = leg._gcPoints;
-					const ptIdx = Math.min(n - 1, Math.floor(this._testProgress * n));
+					const ptIdx = Math.min(n - 1, Math.floor(this._state.testProgress * n));
 					leg.currentLat = pts[ptIdx].lat;
 					leg.currentLon = pts[ptIdx].lon;
 
@@ -1876,11 +2022,11 @@ Module.register("MMM-iAmGoingThere", {
 					}
 
 					// Profile: Climb to 38,000, cruise, descend
-					if (this._testProgress < 0.2) {
-						leg.altitude = Math.floor(this._testProgress * 5 * 38000);
+					if (this._state.testProgress < 0.2) {
+						leg.altitude = Math.floor(this._state.testProgress * 5 * 38000);
 						leg.altitudeChange = "C";
-					} else if (this._testProgress > 0.8) {
-						leg.altitude = Math.floor((1 - this._testProgress) * 5 * 38000);
+					} else if (this._state.testProgress > 0.8) {
+						leg.altitude = Math.floor((1 - this._state.testProgress) * 5 * 38000);
 						leg.altitudeChange = "D";
 					} else {
 						leg.altitude = 38000;
@@ -1888,13 +2034,13 @@ Module.register("MMM-iAmGoingThere", {
 					}
 				}
 
-				if (this._testProgress >= 1) {
+				if (this._state.testProgress >= 1) {
 					leg.status = "landed";
 					leg.progress = 1;
 					leg.currentLat = leg.to ? leg.to.lat : null;
 					leg.currentLon = leg.to ? leg.to.lon : null;
-					this._testPhase = "pausing";
-					this._testPauseCount = 0;
+					this._state.testPhase = "pausing";
+					this._state.testPauseCount = 0;
 					this._maybeAutoRotateAttractions(activeLegs);
 				}
 
@@ -1907,15 +2053,15 @@ Module.register("MMM-iAmGoingThere", {
 				}
 
 			} else {
-				this._testPauseCount++;
-				if (this._testPauseCount >= pauseSteps) {
-					this._testLegIndex = (this._testLegIndex + 1) % activeLegs.length;
-					this._testProgress = 0;
-					this._testPhase = "flying";
-					this._testPauseCount = 0;
-					if (this._testLegIndex === 0) {
+				this._state.testPauseCount++;
+				if (this._state.testPauseCount >= pauseSteps) {
+					this._state.testLegIndex = (this._state.testLegIndex + 1) % activeLegs.length;
+					this._state.testProgress = 0;
+					this._state.testPhase = "flying";
+					this._state.testPauseCount = 0;
+					if (this._state.testLegIndex === 0) {
 						activeLegs.forEach((l) => { l.status = "scheduled"; l.progress = 0; l.currentLat = null; l.currentLon = null; });
-						this._lastShownCity = null;
+						this._state.lastShownCity = null;
 						this.updateTable();
 						this.updateCountdown();
 						const ciEl = document.getElementById(`iAGT-city-info-${this.identifier}`);
@@ -1924,13 +2070,37 @@ Module.register("MMM-iAmGoingThere", {
 				}
 			}
 
-			this._flushMapLines();
+			this._flushMapLines(activeLegs);
 			this._maybeAutoRotateAttractions();
 		}, stepMs);
 	},
 
 	stopTestAnimation () {
-		if (this._testTimer) { clearInterval(this._testTimer); this._testTimer = null; }
+		if (this._state.testTimer) { clearInterval(this._state.testTimer); this._state.testTimer = null; }
+	},
+
+	_startGlobeAutoRotation () {
+		this._stopGlobeAutoRotation();
+		const cfg = this._getEffectiveConfig();
+		if (cfg.mapProjection !== "orthographic" || cfg.autoRotateGlobeToPlane !== false) return;
+		if (!this._state.mapChart) return;
+		const degreesPerTick = 360 / 86400;
+		this._state.globeRotTimer = setInterval(() => {
+			const cfg2 = this._getEffectiveConfig();
+			if (!this._state.mapChart || cfg2.mapProjection !== "orthographic" || cfg2.autoRotateGlobeToPlane !== false) {
+				this._stopGlobeAutoRotation();
+				return;
+			}
+			const cur = this._state.mapChart.get("rotationX") || 0;
+			this._state.mapChart.set("rotationX", cur - degreesPerTick);
+		}, 1000);
+	},
+
+	_stopGlobeAutoRotation () {
+		if (this._state.globeRotTimer) {
+			clearInterval(this._state.globeRotTimer);
+			this._state.globeRotTimer = null;
+		}
 	},
 
 	updateTitle () {
@@ -1942,6 +2112,7 @@ Module.register("MMM-iAmGoingThere", {
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ COUNTDOWN BOX â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	updateCountdown (legs) {
+		const cfg = this._getEffectiveConfig();
 		const el = document.getElementById(`iAGT-countdown-${this.identifier}`);
 		if (!el) return;
 		const icon = el.querySelector(".iAGT-cd-icon");
@@ -1950,7 +2121,7 @@ Module.register("MMM-iAmGoingThere", {
 		if (!text) return;
 
 		if (subtitle) {
-			if (this.noApiKey) {
+			if (this._state.noApiKey) {
 				subtitle.textContent = "\u26A0 Live tracking disabled \u2014 no API key";
 				subtitle.style.display = "block";
 			} else {
@@ -1963,27 +2134,40 @@ Module.register("MMM-iAmGoingThere", {
 			if (icon) icon.textContent = ic;
 			text.textContent = msg;
 			el.className = `iAGT-countdown${cls ? ` ${cls}` : ""}`;
+			
+			// ACC-002: Announce major status changes
+			if (this._lastAnnouncedMsg !== msg) {
+				this._announce(msg);
+				this._lastAnnouncedMsg = msg;
+			}
 		};
 
 		if (!legs) legs = this._getFilteredLegs();
 		if (!legs.length) return set("\u23F3", this.translate("NO_FLIGHTS"), "");
 
-		if (this.tripReset) return set("\u2705", this.translate("COUNTDOWN_COMPLETE"), "iAGT-complete");
+		if (this._state.tripReset) return set("\u2705", this.translate("COUNTDOWN_COMPLETE"), "iAGT-complete");
 
 		const allDone = legs.every((l) => l.status === "landed" || l.status === "cancelled");
 		if (allDone) return set("\u2705", this.translate("COUNTDOWN_COMPLETE"), "iAGT-complete");
 
 		const active = legs.filter((l) => l.status === "active");
 		if (active.length) {
-			if (active.length > 1 && this.config.scenario === 3) {
+			if (active.length > 1 && cfg.scenario === 3) {
 				el.className = "iAGT-countdown iAGT-inflight";
 				if (icon) icon.textContent = "";
 				text.innerHTML = active.map((l) => {
 					const pct = Math.round((l.progress || 0) * 100);
-					const color = this._safeColor(this._travelerColors[l.travelerName] || this.config.colorPlane);
-					const sym = this._travelerSymbols[l.travelerName] || "\u2708";
+					const color = this._safeColor(this._state.travelerColors[l.travelerName] || cfg.colorPlane);
+					const sym = this._state.travelerSymbols[l.travelerName] || "\u2708";
 					return `<span style="color:${color}">${sym}&thinsp;${this._esc(l.flightNumber || "")} \u2014 ${pct}%</span>`;
 				}).join("&ensp;|&ensp;");
+				
+				// ACC-002: Announce multiple active flights
+				const msg = active.map(l => `${l.flightNumber || "Flight"} at ${Math.round((l.progress || 0) * 100)}%`).join(", ");
+				if (this._lastAnnouncedMsg !== msg) {
+					this._announce(msg);
+					this._lastAnnouncedMsg = msg;
+				}
 				return;
 			}
 			const pct = Math.round((active[0].progress || 0) * 100);
@@ -1992,11 +2176,11 @@ Module.register("MMM-iAmGoingThere", {
 
 		const future = legs.filter((l) => l.status === "scheduled" && l.departureDate);
 		if (future.length) {
-			const first = future.reduce((a, b) => (new Date(a.departureDate) <= new Date(b.departureDate) ? a : b));
+			const first = future.reduce((a, b) =>
+				this._legDepartureUtcMs(a) <= this._legDepartureUtcMs(b) ? a : b
+			);
 
-			const depIso = first.estimatedDeparture || first.scheduledDeparture ||
-				(first.departureDate + (first.departureTime ? `T${first.departureTime}:00` : "T00:00:00"));
-			const depMs  = new Date(depIso).getTime();
+			const depMs         = this._legDepartureUtcMs(first);
 			const hoursUntilDep = (depMs - Date.now()) / 3600000;
 
 			if (hoursUntilDep > 0 && hoursUntilDep < 24) {
@@ -2008,19 +2192,34 @@ Module.register("MMM-iAmGoingThere", {
 				if (first.departureGate)     chips += `<span class="iAGT-board-chip">G&thinsp;${this._esc(first.departureGate)}</span>`;
 				chips += `<span class="iAGT-board-etd">ETD&thinsp;${etd}</span>`;
 				text.innerHTML = chips;
+
+				// ACC-002: Announce boarding/upcoming flight
+				const msg = `${first.flightNumber || "Flight"} departing at ${etd}`;
+				if (this._lastAnnouncedMsg !== msg) {
+					this._announce(msg);
+					this._lastAnnouncedMsg = msg;
+				}
 				return;
 			}
 
-			/* Departure time is known and has already passed but FlightAware hasn't
-			   flipped the status to "active" yet â€” flight is likely airborne.       */
+			/* Departure time is known (via API or config) and has already passed in UTC
+			   — flight has likely departed even if FlightAware hasn't updated yet.
+			   When only a date is known, use the airport-longitude estimate: if the
+			   entire local day at the departure airport has passed (estimate < -12 h),
+			   treat the flight as departed rather than showing "Today".               */
 			const hasKnownDepTime = !!(first.estimatedDeparture || first.scheduledDeparture || first.departureTime);
-			if (hoursUntilDep < 0 && hasKnownDepTime) {
+			const wholeLocalDayPassed = !hasKnownDepTime && (first.from && first.from.lon != null) && hoursUntilDep < -12;
+			if (hoursUntilDep < 0 && (hasKnownDepTime || wholeLocalDayPassed)) {
 				return set("\u2708", this.translate("COUNTDOWN_DEPARTED"), "iAGT-departed");
 			}
 
-			const dep = new Date(first.departureDate); dep.setHours(0, 0, 0, 0);
-			const now = new Date(); now.setHours(0, 0, 0, 0);
-			const days = Math.round((dep - now) / 86400000);
+			/* Fall back to day-based countdown: compare departure date (UTC midnight)
+			   against today's UTC date so the result is timezone-neutral.             */
+			const depDateUtcMs = Date.parse(first.departureDate + "T00:00:00Z");
+			const nowUtcMidnightMs = Date.UTC(
+				new Date().getUTCFullYear(), new Date().getUTCMonth(), new Date().getUTCDate()
+			);
+			const days = Math.round((depDateUtcMs - nowUtcMidnightMs) / 86400000);
 
 			if (days <= 0) return set("\uD83D\uDEEB", this.translate("COUNTDOWN_TODAY"), "iAGT-today");
 			if (days === 1) return set("\u23F3", `1 ${this.translate("COUNTDOWN_DAY")}`, "iAGT-soon");
@@ -2053,19 +2252,11 @@ Module.register("MMM-iAmGoingThere", {
 			} catch (_e) { return null; }
 		};
 
-		/* UTC sort key: prefer actualDeparture (AeroAPI ISO), else combine date+time */
-		const utcSortKey = (l) => {
-			if (l.actualDeparture) return new Date(l.actualDeparture).getTime();
-			if (l.departureDate) {
-				const tStr = l.departureTime ? `T${l.departureTime}:00` : "T00:00:00";
-				return new Date(`${l.departureDate}${tStr}`).getTime();
-			}
-			return 0;
-		};
+		const utcSortKey = (l) => this._legDepartureUtcMs(l);
 
 		/* â”€â”€ Table title â”€â”€ */
 		const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
-		const title = `<div class="iAGT-tbl-title"><span class="iAGT-tbl-title-text">${this.translate("TABLE_TITLE")}</span><button class="iAGT-save-btn iAGT-save-flights-btn" title="Click to print to documents/MySavedFlights">\uD83D\uDDA8</button><span class="iAGT-save-sep">|</span><button class="iAGT-save-btn iAGT-save-terminal-btn" title="Click to save terminal maps to documents/MySavedTerminalMaps">\uD83D\uDDFA</button></div>`;
+		const title = `<div class="iAGT-tbl-title"><span class="iAGT-dest-clock" id="iAGT-dest-clock-${this.identifier}"></span><span class="iAGT-tbl-title-text">${this.translate("TABLE_TITLE")}</span><button class="iAGT-save-btn iAGT-save-flights-btn" title="Click to print to documents/MySavedFlights">\uD83D\uDDA8</button><span class="iAGT-save-sep">|</span><button class="iAGT-save-btn iAGT-save-terminal-btn" title="Click to save terminal maps to documents/MySavedTerminalMaps">\uD83D\uDDFA</button></div>`;
 
 		let h = `${title}<div class="iAGT-scroll-wrap"><div class="iAGT-tbl-scroll"><table class="iAGT-tbl">
 <thead><tr>
@@ -2102,8 +2293,9 @@ Module.register("MMM-iAmGoingThere", {
 
 			/* For a given leg, return the next sequential leg in the same trip/traveler */
 			const getNextLeg = (leg) => {
+				const cfg = this._getEffectiveConfig();
 				const idx = byTime.indexOf(leg);
-				if (this.config.scenario === 3) {
+				if (cfg.scenario === 3) {
 					for (let i = idx + 1; i < byTime.length; i++) {
 						if (byTime[i].travelerName === leg.travelerName) return byTime[i];
 					}
@@ -2164,22 +2356,27 @@ Module.register("MMM-iAmGoingThere", {
 				const frm = leg.from ? `${this._esc(leg.from.name)} (${this._esc(leg.from.iata)})` : "\u2014";
 				const too = leg.to ? `${this._esc(leg.to.name)} (${this._esc(leg.to.iata)})` : "\u2014";
 
+				const cfg = this._getEffectiveConfig();
 				/* Colour aircraft symbol and progress text for Scenario 3 active flights */
-				if (st === "active" && this.config.scenario === 3 && this._travelerColors[leg.travelerName]) {
-					const color = this._safeColor(this._travelerColors[leg.travelerName]);
+				if (st === "active" && cfg.scenario === 3 && this._state.travelerColors[leg.travelerName]) {
+					const color = this._safeColor(this._state.travelerColors[leg.travelerName]);
 					lbl = lbl.replace("\u2708", `<span style="color:${color}">\u2708</span>`);
 					pct = `<span style="color:${color}">${pct}</span>`;
 				}
 
 				/* Colour name cell background for Scenario 3 traveler identification */
 				let nameCellStyle = "";
-				if (this.config.scenario === 3 && this._travelerColors[leg.travelerName]) {
-					const color = this._safeColor(this._travelerColors[leg.travelerName]);
+				if (cfg.scenario === 3 && this._state.travelerColors[leg.travelerName]) {
+					const color = this._safeColor(this._state.travelerColors[leg.travelerName]);
 					nameCellStyle = ` style="background-color:${color};color:rgba(0,0,0,0.85);font-weight:600;"`;
 				}
 
 				const localTime = leg.departureTime ? `<span class="col-time">${this._esc(leg.departureTime)}\u202FLCL</span>` : "";
-			h += `<tr class="${cls}">
+			const hasCoords = leg.from && leg.to && leg.from.lat != null && leg.to.lat != null;
+			const flyAttr = hasCoords
+				? ` data-fly-lat1="${leg.from.lat}" data-fly-lon1="${leg.from.lon}" data-fly-lat2="${leg.to.lat}" data-fly-lon2="${leg.to.lon}" class="${cls} iAGT-fly-row"`
+				: ` class="${cls}"`;
+			h += `<tr${flyAttr}>
   <td class="col-name"${nameCellStyle}>${this._esc(leg.travelerName) || "\u2014"}</td>
   <td class="col-fn">${this._esc(leg.flightNumber) || "\u2014"}</td>
   <td class="col-date">${fmtDate(leg.departureDate)}${localTime}</td>
@@ -2204,7 +2401,7 @@ Module.register("MMM-iAmGoingThere", {
 				}
 				if (st === "active") {
 					const _liveParts = [];
-					if (leg.altitude    != null) _liveParts.push(`Alt: ${(leg.altitude * 100).toLocaleString()} ft`);
+					if (leg.altitude    != null) _liveParts.push(`Alt: ${leg.altitude.toLocaleString()} ft`);
 					if (leg.groundspeed != null) _liveParts.push(`${leg.groundspeed} kts`);
 					if (leg.heading     != null) _liveParts.push(`Hdg: ${Math.round(leg.heading)}\u00B0`);
 					if (leg.altitudeChange) {
@@ -2228,9 +2425,11 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	updateTable (legs) {
+		const cfg = this._getEffectiveConfig();
 		const el = document.getElementById(`iAGT-table-${this.identifier}`);
 		if (!el) return;
 		el.innerHTML = this.buildTableHTML(legs || this._getFilteredLegs());
+		this._startDestClock(this._getCurrentDestLon());
 		const wrap = el.querySelector(".iAGT-scroll-wrap");
 		const scrollEl = el.querySelector(".iAGT-tbl-scroll");
 		if (wrap && scrollEl) this._setupCustomScrollbar(scrollEl, wrap);
@@ -2238,14 +2437,33 @@ Module.register("MMM-iAmGoingThere", {
 		const terminalBtn = el.querySelector(".iAGT-save-terminal-btn");
 		if (saveBtn) saveBtn.addEventListener("click", () => this._saveFlights(el));
 		if (terminalBtn) terminalBtn.addEventListener("click", () => this._saveTerminalMaps(el));
+
+		/* ── UIX-003: Fly-to click handlers on flight rows ── */
+		if (cfg.flyToOnRowClick !== false) {
+			el.querySelectorAll("tr.iAGT-fly-row").forEach((row) => {
+				row.addEventListener("click", () => {
+					const lat1 = parseFloat(row.dataset.flyLat1);
+					const lon1 = parseFloat(row.dataset.flyLon1);
+					const lat2 = parseFloat(row.dataset.flyLat2);
+					const lon2 = parseFloat(row.dataset.flyLon2);
+					if (!isNaN(lat1) && !isNaN(lon1)) {
+						this._flyToLeg(lat1, lon1, lat2, lon2);
+						el.querySelectorAll("tr.iAGT-fly-row").forEach((r) => r.classList.remove("iAGT-fly-active"));
+						row.classList.add("iAGT-fly-active");
+						setTimeout(() => row.classList.remove("iAGT-fly-active"), 2000);
+					}
+				});
+			});
+		}
 	},
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ CITY INFORMATION PANEL  (Top 10 things to do) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	getCityDisplayList () {
-		if (this._cityDisplayListCache) return this._cityDisplayListCache;
+		if (this._state.cityDisplayListCache) return this._state.cityDisplayListCache;
+		const cfg = this._getEffectiveConfig();
 		const legs = this._getFilteredLegs();
 		let result;
-		if (this.config.cityInfoMode === "layovers") {
+		if (cfg.cityInfoMode === "layovers") {
 			const seen = new Set();
 			const cities = [];
 			legs.forEach((leg) => {
@@ -2254,29 +2472,30 @@ Module.register("MMM-iAmGoingThere", {
 					cities.push(leg.to.name);
 				}
 			});
-			result = cities.filter((n) => this.cityInfo[n]);
+			result = cities.filter((n) => this._state.cityInfo[n]);
 		} else {
 			let destName = null;
-			if (this.config.destination && this.config.destination.name) {
-				destName = this.config.destination.name;
+			if (cfg.destination && cfg.destination.name) {
+				destName = cfg.destination.name;
 			} else if (legs.length) {
 				const last = legs[legs.length - 1];
 				if (last.to) destName = last.to.name;
 			}
-			result = (destName && this.cityInfo[destName]) ? [destName] : [];
+			result = (destName && this._state.cityInfo[destName]) ? [destName] : [];
 		}
-		this._cityDisplayListCache = result;
+		this._state.cityDisplayListCache = result;
 		return result;
 	},
 
 	startCityInfoCycling () {
-		if (this._cityTimer) { clearInterval(this._cityTimer); this._cityTimer = null; }
-		if (this.config.cityInfoMode !== "layovers") return;
+		if (this._state.cityTimer) { clearInterval(this._state.cityTimer); this._state.cityTimer = null; }
+		const cfg = this._getEffectiveConfig();
+		if (cfg.cityInfoMode !== "layovers") return;
 		const cities = this.getCityDisplayList();
 		if (cities.length <= 1) return;
-		const ms = (this.config.cityInfoCycleInterval || 20) * 1000;
-		this._cityTimer = setInterval(() => {
-			this._cityIndex = (this._cityIndex + 1) % cities.length;
+		const ms = (cfg.cityInfoCycleInterval || 20) * 1000;
+		this._state.cityTimer = setInterval(() => {
+			this._state.cityIndex = (this._state.cityIndex + 1) % cities.length;
 			this.updateCityInfo();
 		}, ms);
 	},
@@ -2288,19 +2507,20 @@ Module.register("MMM-iAmGoingThere", {
 		const cities = this.getCityDisplayList();
 		if (!cities.length) { this._stopAttractionsAutoScroll(); el.innerHTML = ""; return; }
 
-		const name = cities[this._cityIndex % cities.length];
-		const info = this.cityInfo[name];
+		const name = cities[this._state.cityIndex % cities.length];
+		const info = this._state.cityInfo[name];
 		if (!info) { this._stopAttractionsAutoScroll(); el.innerHTML = ""; return; }
 
-		this._currentDisplayedCity = name;
+		this._state.currentDisplayedCity = name;
 
+		const cfg = this._getEffectiveConfig();
 		const things = info.attractions && info.attractions.things ? info.attractions.things : [];
-		const isMulti = this.config.cityInfoMode === "layovers" && cities.length > 1;
+		const isMulti = cfg.cityInfoMode === "layovers" && cities.length > 1;
 		const idxLabel = isMulti
-			? `<span class="iAGT-ci-nav">${this._cityIndex % cities.length + 1}&thinsp;/&thinsp;${cities.length}</span>`
+			? `<span class="iAGT-ci-nav">${this._state.cityIndex % cities.length + 1}&thinsp;/&thinsp;${cities.length}</span>`
 			: "";
 
-		const maxAtt = this.config.maxAttractionsDisplay || 5;
+		const maxAtt = cfg.maxAttractionsDisplay || 5;
 		let weatherH = "";
 		if (info.weather) {
 			const w = info.weather;
@@ -2311,6 +2531,7 @@ Module.register("MMM-iAmGoingThere", {
 			weatherH = `<span class="iAGT-weather-pill">${wIcon} ${Math.round(w.temperature)}\u00B0C${updStr}</span>`;
 		}
 		let h = `<div class="iAGT-ci-hdr">
+  <span class="iAGT-ci-clock" id="iAGT-ci-clock-${this.identifier}">${this._fmtLocalClock()}</span>
   <span class="ci-pin">&#128205;</span>
   Top ${maxAtt} ${this.translate("TOP_THINGS_TITLE")} <strong>${this._esc(name)}</strong>${weatherH}${idxLabel}
   <button class="iAGT-save-btn iAGT-save-atts-btn" title="Click to print to documents/MySavedCityAttractions">\uD83D\uDDA8</button>
@@ -2321,7 +2542,7 @@ Module.register("MMM-iAmGoingThere", {
 		if (isMulti) {
 			h += "<div class=\"iAGT-ci-progress\">";
 			cities.forEach((c, i) => {
-				const active = i === this._cityIndex % cities.length;
+				const active = i === this._state.cityIndex % cities.length;
 				h += `<span class="iAGT-ci-dot${active ? " active" : ""}"></span>`;
 			});
 			h += "</div>";
@@ -2337,6 +2558,7 @@ Module.register("MMM-iAmGoingThere", {
 			}
 			this._attractionsThings = things;
 			this._startAttractionsAutoScroll();
+			this._startCiClock();
 			const saveBtn = el.querySelector(".iAGT-save-atts-btn");
 			if (saveBtn) saveBtn.addEventListener("click", () => this._saveAttractions(el));
 		};
@@ -2350,7 +2572,7 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	_refreshWeather () {
-		const cities = Object.keys(this.cityInfo);
+		const cities = Object.keys(this._state.cityInfo);
 		if (!cities.length) return;
 		cities.forEach(name => {
 			this.sendSocketNotification("iAGT_REFRESH_WEATHER", { cityName: name });
@@ -2364,51 +2586,75 @@ Module.register("MMM-iAmGoingThere", {
 		if (!legs) legs = this._getFilteredLegs();
 		if (!legs || !legs.length) return;
 
-		// 1. If any flight is currently active, show its destination (or origin if dest has no info)
-		const anyActive = legs.some((l) => l.status === "active");
-		if (anyActive) {
-			const activeLeg = legs.find((l) => l.status === "active");
-			if (activeLeg) {
-				let destName = activeLeg.to ? activeLeg.to.name : null;
-				// Fallback to origin if destination has no attractions (common for return-to-home legs)
-				if (destName && !this.cityInfo[destName] && activeLeg.from && this.cityInfo[activeLeg.from.name]) {
-					destName = activeLeg.from.name;
-				}
-				
-				if (destName && this._lastShownCity !== destName && this.cityInfo[destName]) {
-					this._lastShownCity = destName;
-					if (this._cityTimer) { clearInterval(this._cityTimer); this._cityTimer = null; }
+		// 1. If any flight is currently active, show its destination
+		const activeLegs = legs.filter((l) => l.status === "active");
+		if (activeLegs.length > 0) {
+			const activeDestinations = [...new Set(activeLegs.map((l) => l.to ? l.to.name : null).filter(Boolean))];
+			if (activeDestinations.length === 0) return;
+
+			if (activeDestinations.length === 1) {
+				const destName = activeDestinations[0];
+				if (destName && this._state.lastShownCity !== destName && this._state.cityInfo[destName]) {
+					this._state.lastShownCity = destName;
+					if (this._state.cityTimer) { clearInterval(this._state.cityTimer); this._state.cityTimer = null; }
 					this._renderCityByName(destName);
 				}
+				this._state.lastActiveDestFingerprint = null;
+				return;
 			}
+
+			// Multiple active destinations and autoRotate is true -> Rotate through them
+			const fingerPrint = activeDestinations.sort().join("|");
+			if (this._state.lastActiveDestFingerprint === fingerPrint && this._state.cityTimer) {
+				return; // Already rotating these exact destinations
+			}
+
+			this._state.lastActiveDestFingerprint = fingerPrint;
+			if (this._state.cityTimer) { clearInterval(this._state.cityTimer); this._state.cityTimer = null; }
+
+			let idx = activeDestinations.indexOf(this._state.lastShownCity);
+			if (idx === -1) idx = 0;
+
+			this._state.lastShownCity = activeDestinations[idx];
+			this._renderCityByName(activeDestinations[idx]);
+
+			this._state.cityTimer = setInterval(() => {
+				idx = (idx + 1) % activeDestinations.length;
+				const dest = activeDestinations[idx];
+				this._state.lastShownCity = dest;
+				this._renderCityByName(dest);
+			}, (this.config.cityInfoCycleInterval || 20) * 1000);
+
 			return;
 		}
 
-		// 2. Otherwise, if trip is fully landed, show the final destination
-		if (this.config.autoRotateAttractionsData === false) return;
+		// 2. Otherwise, show the traveller's current location (most recently landed destination)
+		this._state.lastActiveDestFingerprint = null;
 
 		const landedLegs = legs.filter((l) => l.status === "landed");
 		if (!landedLegs.length) return;
 
-		const lastLanded = landedLegs[landedLegs.length - 1];
+		const lastLanded = landedLegs.reduce((best, l) =>
+			this._legDepartureUtcMs(l) >= this._legDepartureUtcMs(best) ? l : best
+		);
 		if (!lastLanded.to) return;
 		const destName = lastLanded.to.name;
 
-		if (this._lastShownCity === destName) return;
-		this._lastShownCity = destName;
+		if (this._state.lastShownCity === destName) return;
+		this._state.lastShownCity = destName;
 
-		if (!this.cityInfo[destName]) return;
+		if (!this._state.cityInfo[destName]) return;
 
-		if (this._cityTimer) { clearInterval(this._cityTimer); this._cityTimer = null; }
+		if (this._state.cityTimer) { clearInterval(this._state.cityTimer); this._state.cityTimer = null; }
 		this._renderCityByName(destName);
 	},
 
 	_renderCityByName (name) {
 		const el = document.getElementById(`iAGT-city-info-${this.identifier}`);
 		if (!el) return;
-		const info = this.cityInfo[name];
+		const info = this._state.cityInfo[name];
 		if (!info) { el.innerHTML = ""; return; }
-		this._currentDisplayedCity = name;
+		this._state.currentDisplayedCity = name;
 		const things = info.attractions && info.attractions.things ? info.attractions.things : [];
 		const maxAtt = this.config.maxAttractionsDisplay || 5;
 		let weatherH = "";
@@ -2420,7 +2666,17 @@ Module.register("MMM-iAmGoingThere", {
 				: "";
 			weatherH = `<span class="iAGT-weather-pill">${wIcon} ${Math.round(w.temperature)}\u00B0C${updStr}</span>`;
 		}
-		let h = `<div class="iAGT-ci-hdr"><span class="ci-pin">&#128205;</span>Top ${maxAtt} ${this.translate("TOP_THINGS_TITLE")} <strong>${this._esc(name)}</strong>${weatherH}<button class="iAGT-save-btn iAGT-save-atts-btn" title="Click to print to documents/MySavedCityAttractions">\uD83D\uDDA8</button></div>`;
+
+		let distH = "";
+		if (info.attractions && (info.attractions.airportDistanceKm || info.attractions.airportPostcode)) {
+			const d = info.attractions.airportDistanceKm;
+			const p = info.attractions.airportPostcode;
+			const dStr = d ? `${d}\u202Fkm` : "";
+			const pStr = p ? ` (${p})` : "";
+			distH = `<span class="iAGT-dist-pill" title="Distance from airport to city center">\u2708 ${dStr}${pStr}</span>`;
+		}
+
+		let h = `<div class="iAGT-ci-hdr"><span class="iAGT-ci-clock" id="iAGT-ci-clock-${this.identifier}">${this._fmtLocalClock()}</span><span class="ci-pin">&#128205;</span>Top ${maxAtt} ${this.translate("TOP_THINGS_TITLE")} <strong>${this._esc(name)}</strong>${weatherH}${distH}<button class="iAGT-save-btn iAGT-save-atts-btn" title="Click to print to documents/MySavedCityAttractions">\uD83D\uDDA8</button></div>`;
 		h += this._buildAttractionsHTML(things);
 
 		const applyContent = () => {
@@ -2433,8 +2689,10 @@ Module.register("MMM-iAmGoingThere", {
 			}
 			this._attractionsThings = things;
 			this._startAttractionsAutoScroll();
+			this._startCiClock();
 			const saveBtn = el.querySelector(".iAGT-save-atts-btn");
 			if (saveBtn) saveBtn.addEventListener("click", () => this._saveAttractions(el));
+			this._requestAndDisplayFunFact(name);
 		};
 
 		if (el.innerHTML) {
@@ -2470,9 +2728,9 @@ Module.register("MMM-iAmGoingThere", {
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ ATTRACTIONS AUTO-SCROLL â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	_stopAttractionsAutoScroll () {
-		if (this._attractionsScrollTimer) {
-			clearInterval(this._attractionsScrollTimer);
-			this._attractionsScrollTimer = null;
+		if (this._state.attractionsScrollTimer) {
+			clearInterval(this._state.attractionsScrollTimer);
+			this._state.attractionsScrollTimer = null;
 		}
 		this._attractionsPage = 0;
 	},
@@ -2489,7 +2747,7 @@ Module.register("MMM-iAmGoingThere", {
 		this._attractionsPage = 0;
 		const intervalMs = Math.max(1000, (this.config.attractionsScrollInterval || 15) * 1000);
 
-		this._attractionsScrollTimer = setInterval(() => {
+		this._state.attractionsScrollTimer = setInterval(() => {
 			const p = document.getElementById(panelId);
 			if (!p) return;
 			const scrollEl = p.querySelector(".iAGT-atts-scroll");
@@ -2515,7 +2773,87 @@ Module.register("MMM-iAmGoingThere", {
 		}, intervalMs);
 	},
 
-	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ CUSTOM SCROLLBAR â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+	/* ─────────────────── DESTINATION CITY LIVE CLOCK (flight panel) ───── */
+	_getCurrentDestLon () {
+		const legs = this._getFilteredLegs();
+		const activeLegs = legs.filter(l => l.status === "active");
+		if (activeLegs.length > 0) {
+			const leg = activeLegs[0];
+			return (leg.to && leg.to.lon != null) ? leg.to.lon : null;
+		}
+		const landedLegs = legs.filter(l => l.status === "landed");
+		if (landedLegs.length > 0) {
+			const lastLanded = landedLegs.reduce((best, l) =>
+				this._legDepartureUtcMs(l) >= this._legDepartureUtcMs(best) ? l : best
+			);
+			return (lastLanded.to && lastLanded.to.lon != null) ? lastLanded.to.lon : null;
+		}
+		return null;
+	},
+
+	_startDestClock (lon) {
+		if (this._state.destClockTimer) {
+			clearInterval(this._state.destClockTimer);
+			this._state.destClockTimer = null;
+		}
+		if (lon == null) return;
+		const lonOffsetMin = Math.round(parseFloat(lon) / 15) * 60;
+		const gmtHours = lonOffsetMin / 60;
+		const gmtLabel = `GMT${gmtHours >= 0 ? "+" : ""}${gmtHours}`;
+		const tick = () => {
+			const el = document.getElementById(`iAGT-dest-clock-${this.identifier}`);
+			if (!el) return;
+			const localMs = Date.now() + lonOffsetMin * 60000;
+			const d = new Date(localMs);
+			const hh  = d.getUTCHours().toString().padStart(2, "0");
+			const mm  = d.getUTCMinutes().toString().padStart(2, "0");
+			const dd  = d.getUTCDate().toString().padStart(2, "0");
+			const mon = d.toLocaleString("en", { month: "short", timeZone: "UTC" });
+			const yy  = d.getUTCFullYear().toString().slice(-2);
+			el.innerHTML = `${hh}:${mm} ${dd}/${mon}/${yy}<i class="iAGT-dest-gmt"> (${gmtLabel})</i>`;
+		};
+		tick();
+		this._state.destClockTimer = setInterval(tick, 30000);
+	},
+
+	/* ─────────────────── ATTRACTIONS PANEL LIVE CLOCK ─────────────────── */
+	_fmtLocalClock () {
+		const cfg  = this._getEffectiveConfig();
+		const mode = cfg.attractionsClockMode || "home";
+		const n    = new Date();
+		let hh, mm, dd, mon, yy, sfx;
+		if (mode === "zulu") {
+			hh  = n.getUTCHours().toString().padStart(2, "0");
+			mm  = n.getUTCMinutes().toString().padStart(2, "0");
+			dd  = n.getUTCDate().toString().padStart(2, "0");
+			mon = n.toLocaleString("en", { month: "short", timeZone: "UTC" });
+			yy  = n.getUTCFullYear().toString().slice(-2);
+			sfx = `<i class="iAGT-ci-clock-sfx"> (Z)</i>`;
+		} else {
+			hh  = n.getHours().toString().padStart(2, "0");
+			mm  = n.getMinutes().toString().padStart(2, "0");
+			dd  = n.getDate().toString().padStart(2, "0");
+			mon = n.toLocaleString("en", { month: "short" });
+			yy  = n.getFullYear().toString().slice(-2);
+			sfx = "";
+		}
+		return `${hh}:${mm} ${dd}/${mon}/${yy}${sfx}`;
+	},
+
+	_startCiClock () {
+		if (this._state.ciClockTimer) {
+			clearInterval(this._state.ciClockTimer);
+			this._state.ciClockTimer = null;
+		}
+		const tick = () => {
+			const el = document.getElementById(`iAGT-ci-clock-${this.identifier}`);
+			if (el) el.innerHTML = this._fmtLocalClock();
+		};
+		tick();
+		this._state.ciClockTimer = setInterval(tick, 30000);
+	},
+
+	/* â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ CUSTOM SCROLLBAR â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€ */
 	_setupCustomScrollbar (scrollEl, wrapEl) {
 		if (wrapEl._sbObserver) {
 			wrapEl._sbObserver.disconnect();
@@ -2618,24 +2956,24 @@ Module.register("MMM-iAmGoingThere", {
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ SAVE / PRINT HANDLERS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	_saveAttractions (panelEl) {
-		const name = this._currentDisplayedCity;
+		const name = this._state.currentDisplayedCity;
 		if (!name) return;
-		const info = this.cityInfo[name];
+		const info = this._state.cityInfo[name];
 		if (!info) return;
 		const things = info.attractions && info.attractions.things ? info.attractions.things : [];
 		const airportPostcode = info.attractions && info.attractions.airportPostcode ? info.attractions.airportPostcode : null;
 		const airportDistanceKm = info.attractions && info.attractions.airportDistanceKm ? info.attractions.airportDistanceKm : null;
 		const saveBtn = panelEl && panelEl.querySelector(".iAGT-save-atts-btn");
 		if (saveBtn) { saveBtn.textContent = "\u23F3"; saveBtn.disabled = true; }
-		this._pendingSaveEl = { type: "attractions", panelId: panelEl ? panelEl.id : null };
+		this._state.pendingSaveEl = { type: "attractions", panelId: panelEl ? panelEl.id : null };
 		this.sendSocketNotification("iAGT_SAVE_ATTRACTIONS", { cityName: name, things, airportPostcode, airportDistanceKm });
 	},
 
 	_saveFlights (panelEl) {
 		const saveBtn = panelEl && panelEl.querySelector(".iAGT-save-flights-btn");
 		if (saveBtn) { saveBtn.textContent = "\u23F3"; saveBtn.disabled = true; }
-		this._pendingSaveEl = { type: "flights", panelId: panelEl ? panelEl.id : null };
-		const legs = this.flightLegs.map((l) => ({
+		this._state.pendingSaveEl = { type: "flights", panelId: panelEl ? panelEl.id : null };
+		const legs = this._state.flightLegs.map((l) => ({
 			travelerName: l.travelerName || "",
 			flightNumber: l.flightNumber || "",
 			departureDate: l.departureDate || "",
@@ -2654,10 +2992,10 @@ Module.register("MMM-iAmGoingThere", {
 	_saveTerminalMaps (panelEl) {
 		const saveBtn = panelEl && panelEl.querySelector(".iAGT-save-terminal-btn");
 		if (saveBtn) { saveBtn.textContent = "\u23F3"; saveBtn.disabled = true; }
-		this._pendingSaveEl = { type: "terminal_maps", panelId: panelEl ? panelEl.id : null };
+		this._state.pendingSaveEl = { type: "terminal_maps", panelId: panelEl ? panelEl.id : null };
 		const destinations = [];
 		const seen = new Set();
-		this.flightLegs.forEach((l) => {
+		this._state.flightLegs.forEach((l) => {
 			if (l.to && l.to.iata && !seen.has(l.to.iata)) {
 				seen.add(l.to.iata);
 				destinations.push({ name: l.to.name || "", iata: l.to.iata });
@@ -2668,7 +3006,7 @@ Module.register("MMM-iAmGoingThere", {
 
 	/* â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ DEPARTURE ALERT NOTIFICATION â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 	_scheduleAlertTimer () {
-		if (this._alertTimer) { clearTimeout(this._alertTimer); this._alertTimer = null; }
+		if (this._state.alertTimer) { clearTimeout(this._state.alertTimer); this._state.alertTimer = null; }
 		const alertHours = Number(this.config.departureAlertHours) || 0;
 		if (alertHours <= 0) return;
 
@@ -2682,10 +3020,10 @@ Module.register("MMM-iAmGoingThere", {
 		const alertTime = depTime.getTime() - alertHours * 3600000;
 		const delay = alertTime - Date.now();
 
-		if (delay <= 0 || this._alertFired) return;
+		if (delay <= 0 || this._state.alertFired) return;
 
-		this._alertTimer = setTimeout(() => {
-			this._alertFired = true;
+		this._state.alertTimer = setTimeout(() => {
+			this._state.alertFired = true;
 			this.sendNotification("IAGT_DEPARTURE_ALERT", {
 				flightNumber: first.flightNumber || "",
 				departureDate: first.departureDate || "",
@@ -2698,22 +3036,27 @@ Module.register("MMM-iAmGoingThere", {
 	},
 
 	stop () {
-		if (this._mapRoot) {
-			this._mapRoot.dispose();
-			this._mapRoot = null;
+		if (this._state.mapRoot) {
+			this._state.mapRoot.dispose();
+			this._state.mapRoot = null;
 		}
-		if (this._overlayHideTimer) {
-			clearTimeout(this._overlayHideTimer);
-			this._overlayHideTimer = null;
+		if (this._state.overlayHideTimer) {
+			clearTimeout(this._state.overlayHideTimer);
+			this._state.overlayHideTimer = null;
 		}
-		if (this._cdTimer) { clearInterval(this._cdTimer); this._cdTimer = null; }
-		if (this._cityTimer) { clearInterval(this._cityTimer); this._cityTimer = null; }
-		if (this._testTimer) { clearInterval(this._testTimer); this._testTimer = null; }
-		if (this._alertTimer) { clearTimeout(this._alertTimer); this._alertTimer = null; }
-		if (this._saveToastTimer) { clearTimeout(this._saveToastTimer); this._saveToastTimer = null; }
-		if (this._visitedPopupTimer) { clearTimeout(this._visitedPopupTimer); this._visitedPopupTimer = null; }
+		if (this._state.zenModeTimer) {
+			clearTimeout(this._state.zenModeTimer);
+			this._state.zenModeTimer = null;
+		}
+		if (this._state.cdTimer) { clearInterval(this._state.cdTimer); this._state.cdTimer = null; }
+		if (this._state.cityTimer) { clearInterval(this._state.cityTimer); this._state.cityTimer = null; }
+		if (this._state.testTimer) { clearInterval(this._state.testTimer); this._state.testTimer = null; }
+		if (this._state.alertTimer) { clearTimeout(this._state.alertTimer); this._state.alertTimer = null; }
+		if (this._state.saveToastTimer) { clearTimeout(this._state.saveToastTimer); this._state.saveToastTimer = null; }
+		if (this._state.visitedPopupTimer) { clearTimeout(this._state.visitedPopupTimer); this._state.visitedPopupTimer = null; }
 		const popup = document.querySelector(`#iAGT-wrapper-${this.identifier} .iAGT-visited-popup`);
 		if (popup) popup.remove();
+		this._stopGlobeAutoRotation();
 		this._stopAttractionsAutoScroll();
 		Log.info(`[${this.name}] Stopped`);
 	}

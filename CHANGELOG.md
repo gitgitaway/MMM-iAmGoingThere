@@ -5,7 +5,87 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [Unreleased]
+## [2.3.3] - 2026-05-18
+
+### Added
+- **UEFA Attractions Expansion — 2010–2023 (Phase 2)** — 33 new city attraction JSON files covering all cities with a UEFA Champions League, Europa League or Europa Conference League participant between 2010–11 and 2022–23 that were not previously in the attractions database.
+- **UEFA Attractions Expansion — 2023–25 (Phase 1)** — 45 new city attraction JSON files covering all cities with a UEFA CL/EL/UECL participant in the 2023–24 or 2024–25 seasons not previously in the database.
+- **UEFA Competition Reference Document** — New `documents/uefaLeagueCompetitionParticipants.md` listing all UCL, UEL and UECL group/league phase participants from 2010–11 to 2024–25 with their city JSON file reference, organised by competition.
+- Total attractions coverage now **544 cities**.
+
+---
+
+## [2.3.2] - 2026-05-17
+
+### Added
+- **Scotland City Expansion** — 17 new attraction JSON files for Scottish cities/towns with population > 25,000 not previously covered: `dundee`, `inverness`, `perth_scotland`, `stirling`, `paisley`, `east_kilbride`, `livingston`, `hamilton_scotland`, `dunfermline`, `cumbernauld`, `kirkcaldy`, `greenock`, `falkirk`, `glenrothes`, `airdrie`, `motherwell`, `dumfries`. Nearest airport used for each city (`DND`, `INV`, `EDI`, `GLA`, `PIK`).
+- **Ireland City Expansion** — 7 new attraction JSON files for Irish cities/towns with population > 25,000 not previously covered: `galway`, `waterford`, `drogheda`, `dundalk`, `kilkenny`, `navan`, `bray`. Airports used: `SNN` (Shannon), `WAT` (Waterford), `DUB` (Dublin).
+- Total attractions coverage now **466 cities**, all files fully populated with all 7 required fields.
+
+---
+
+## [2.3.1] - 2026-05-17
+
+### Added
+- **Shannon (SNN) Attractions** — New `data/attractions/shannon.json` with top 10 attractions for Shannon, County Clare, Ireland (IATA: SNN). 
+
+### Fixed
+- **Attractions Data Completeness** — All 441 attraction JSON files now fully populated with all 7 required fields (`rank`, `name`, `postcode`, `distanceKmFromAirport`, `description`, `distance`, `URL`). Previously 435 files had one or more null/missing fields. Fields were resolved using real-world geographic data and verified official tourism URLs for each attraction.
+
+---
+
+## [2.3.0] - 2026-05-12
+
+### Added
+- **TZ-001: International Date Line & Multi-Timezone Fix** — Flight status is now determined entirely in UTC using airport longitude to compute the correct local-to-UTC offset. This eliminates incorrect "not yet departed" status for flights that cross or originate near the International Date Line (e.g. Fiji → Auckland) when viewed from a different timezone. Both server-side polling (`FlightAwareService.js`) and client-side countdown (`updateCountdown`) use the same longitude-based UTC estimate, ensuring consistent results regardless of whether the viewer's device is in the UK, New Zealand, or anywhere else.
+- **Destination City Live Clock (Flight Panel Header)** — The flight data panel title bar now shows the local time at the traveller's current destination city in the top-left corner, formatted as `HH:MM DD/Mon/YY`. The UTC offset derived from the destination airport's longitude is shown alongside in smaller italic as `(GMT+x)` / `(GMT−x)`. The clock updates every 30 seconds and switches automatically between active-flight destination and last-landed destination.
+- **Attractions Panel Clock Repositioned** — The live clock in the attractions panel header is now left-aligned (moved from the right side) and restyled to match the flight panel clock: smaller `0.75em` italic font, semi-transparent white, matching weight and spacing.
+- **`attractionsClockMode` Config Option** — Controls which time reference the attractions panel clock displays. Set `attractionsClockMode: "zulu"` to show UTC time with a `(Z)` suffix; set `"home"` (default) to show the viewer's local device time with no suffix.
+
+### Fixed
+- **Attractions Panel Always Shows Traveller's Current Location** — The attractions panel now unconditionally displays city info for the traveller's current physical location. When one or more flights are "In Flight", it rotates through all active-flight destination cities regardless of the `autoRotateAttractionsData` setting. When all flights have landed it shows the most recently departed leg's destination (sorted by UTC departure time), again regardless of `autoRotateAttractionsData`. Previously this required `autoRotateAttractionsData: true` and the panel would show the final trip destination (e.g. London) instead of the current stop (e.g. Auckland).
+- **Race Condition in Attractions Panel Update (iAGT_FLIGHT_UPDATE)** — Resolved a race condition where `updateCityInfo()` (called on every flight-data poll when `attractionsAutoScroll: false`) was scheduling a 300 ms fade at the same time as `_maybeAutoRotateAttractions()`, causing the two deferred DOM writes to arrive simultaneously and the last writer (London) to win. `_maybeAutoRotateAttractions()` now runs last and `updateCityInfo()` is guarded by `!lastShownCity` so it only fires on the very first load.
+
+### Changed
+- **Plane Icon Size** — Default aircraft marker scale reduced by 30% from `0.12` to `0.084`. Any per-leg `scale` override in the data context is unaffected.
+
+---
+
+## [2.2.0] - 2026-05-07
+    
+### Added (Phase 4 — UX & Innovation)
+- **UIX-001: Zen Mode (Auto-hide UI Controls)** — New `zenMode: true` config option. When active, all on-screen UI overlays (flight table, city info, selectors, pan/zoom controls) automatically fade out after `autoHideDelay` seconds of inactivity. Any mouse movement, click, or keyboard event within the module area immediately restores the UI.
+- **UIX-002: Color Blind Mode Support** — Expanded accessibility with `colorBlindMode: true`. This switches the Traveler palette in Scenario 3 to an IBM-designed 10-color blind safe set (optimized for Deuteranopia, Protanopia, and Tritanopia) and adjusts status indicator colors for better contrast.
+- **UIX-003: Interactive "Fly-to" Navigation** — Clicking any flight row in the overlay table now triggers a smooth map animation (`flyToOnRowClick: true`) that zooms and pans to center the specific flight leg. Includes a 2-second visual pulse on the arrival marker.
+- **INN-001: AI Destination Insights** — Integrated optional LLM "Fun Facts" via `funFactsEnabled: true`. Fetches single-sentence trivia about the destination city from any OpenAI-compatible endpoint. Displayed in a styled banner above the attractions list.
+- **INN-002: Calendar-Driven Scenarios** — Module can now automatically switch scenarios based on upcoming events from the MagicMirror `calendar` module using `calendarDrivenScenario: true` and a `calendarScenarioMap` keyword lookup.
+
+### Fixed
+- **Plane Visibility & Animation** — Resolved a regression where aircraft markers (`PLANE_SVG`) became invisible on the map. Refactored the bullet factory and animation adapters to ensure smooth position and opacity transitions even during rapid map updates or scenario switches.
+- **Scenario Switching Logic** — Fixed a bug where scenario-specific overrides (zoom, travelers, etc.) were ignored when switching scenarios via the on-screen selector. All configuration logic now correctly respects merged properties from `_getEffectiveConfig()`.
+
+## [2.1.0] - 2026-05-06
+
+### Added (Phase 3 — Performance & Caching)
+- **SCN-003: Multi-Traveler Sync Improvements** — Enhanced Scenario 3 (Group Travel) test animation with longitude-based UTC offset calculation. This ensures multi-leg journeys across timezones (e.g. EDI->SNN->ORD->BOS) maintain correct chronological sequence in the test loop.
+- **PER-004: Stable Plane Marker Series** — `iAGT.FlightProcessor.js` now populates the plane marker series with ALL legs for the current scenario/day, using `alpha: 0` for inactive flights. This prevents destructive `setAll()` calls when planes land or depart, resolving issues where plane icons were slow to appear or flickered during transitions.
+- **SCN-004: Multi-Active Attraction Rotation** — When `autoRotateAttractionsData: true`, the attractions panel now automatically rotates through the destinations of all currently in-flight aircraft (Scenario 3). Rotation timing is controlled by `cityInfoCycleInterval`.
+- **PER-002: Low Power Mode** — New `lowPowerMode: true` config option for Raspberry Pi Zero or older hardware. When enabled:
+  - Adds `.iagt-low-power` CSS class to the module wrapper, disabling all `backdrop-filter: blur()` GPU compositing effects on flight-details, city-info, pan/zoom controls, selector dropdowns, and the visited-country popup.
+  - Automatically caps `gcPoints` to `30` (from the default `100`) to reduce the number of Great Circle arc vertices processed each render cycle.
+- **PER-003: Lazy Asset Loading** — `football_teams_database.csv` (69 KB, ~6 000 rows) is no longer loaded eagerly at startup. It is now deferred in `node_helper.js` and loaded on-demand only when Scenario 6 is active, reducing cold-start memory allocation for all other scenarios.
+- **CCH-001: Disk-persistent Weather Cache** — `services/WeatherService.js` now persists its Open-Meteo weather cache to `cache/weather_cache.json`. On module or system restart the cache is rehydrated from disk; entries older than 30 minutes are discarded automatically, eliminating redundant API calls after reboots.
+
+### Refactored (Phase 2 — Structural Refactoring)
+- **PER-001 / STR-001: Service-Oriented Backend** — `node_helper.js` reduced from 1620 → 516 lines (68%) by extracting three dedicated service classes:
+  - `services/FlightAwareService.js` — AeroAPI polling, ETag caching, leg update logic, trip-reset detection.
+  - `services/WeatherService.js` — Open-Meteo weather fetching with 30-minute in-memory cache.
+  - `services/FileSystemProvider.js` — All CSV/JSON I/O, airport/city/football-team resolution, geodata building, HTML document generation, and visited-country persistence.
+- **PER-001: Frontend Code Splitting** — `MMM-iAmGoingThere.js` reduced from 2761 → 2472 lines by extracting two browser-compatible global modules loaded via `getScripts()`:
+  - `lib/iAGT.FlightProcessor.js` — Pure data-processing namespace (`IagtFlightProcessor`) covering filtered legs, traveler maps, great-circle caching, bearing calculation, GeoJSON line building, and airport/plane marker construction.
+- **STR-002: Centralised State Management** — All 35+ module-level state variables moved into `lib/iAGT.StateController.js` (`IagtStateController`). The `start()` method now initialises a single `this._state` object; all references throughout the file updated accordingly.
+
+## [2.0.1] - 2026-05-04
 
 ### Added
 - **Polar Ice Cap Suppression** — New `hideIceCaps` config option to hide the Antarctica region on all map projections except the Globe (Orthographic).
@@ -14,7 +94,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Fixed
 - **Plane Rotation Alignment** — Improved the aircraft nose rotation logic to accurately follow the Great Circle path curvature on all map projections.
-- **Nudge Control Visibility** — Repositioned the nudge control and increased its z-index to prevent occlusion by data overlay panels.
+
 
 ---
 
