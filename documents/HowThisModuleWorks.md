@@ -90,8 +90,44 @@ The module is designed around six distinct travel scenarios, controlled by the `
 
 #### **Globe Auto-Rotation**
 - **Function**: Automatically rotates the map to keep the active flight's plane icon centered.
-- **Implementation**: When `autoRotateGlobeToPlane` is enabled and the projection is `orthographic`, the module calculates the average latitude and longitude of all active planes during the `_flushMapLines` phase. It then uses `mapChart.animate()` to smoothly rotate the globe to those coordinates.
+- **Implementation**: When `autoRotateGlobeToPlane` is enabled (true) and the projection is `orthographic`, the module calculates the average latitude and longitude of all active planes during the `_flushMapLines` phase. It then uses `mapChart.animate()` to smoothly rotate the globe to those coordinates.
+
 - **Config Option**: `autoRotateGlobeToPlane`.
+
+
+### **Zen Mode (v2.2.0+)**
+- **Function**: Automatically hides all non-essential UI overlays for a clean, map-focused aesthetic.
+- **Implementation**: When `zenMode` is enabled, the module tracks user activity (mouse moves, clicks, keyboard events). If no activity is detected for `autoHideDelay` seconds, it applies a fade-out animation to the flight table, city info, selectors, and pan/zoom controls.
+- **Restoration**: Any interaction within the module area instantly restores all controls.
+- **Config Option**: `zenMode`, `autoHideDelay`.
+
+### **Color Blind Mode (v2.2.0+)**
+- **Function**: Ensures the module is accessible to users with color vision deficiencies.
+- **Implementation**: 
+    - **Scenario 3**: Switches the traveler palette from the default random set to an **IBM-designed 10-color blind safe palette** (optimized for Deuteranopia, Protanopia, and Tritanopia).
+    - **Status Indicators**: Adjusts the "Live" and "Delayed" status colors to use high-contrast combinations that don't rely on red/green distinction alone.
+- **Config Option**: `colorBlindMode`.
+
+### **Interactive "Fly-to" Navigation (v2.2.0+)**
+- **Function**: Allows users to quickly focus on a specific flight or destination.
+- **Implementation**: Clicking any row in the flight details table triggers a `_flyToLeg(leg)` animation. The map smoothly zooms and pans to center the target leg, and the arrival airport marker displays a 2-second visual pulse animation.
+- **Config Option**: `flyToOnRowClick`.
+
+### **AI Destination Insights (v2.2.0+)**
+- **Function**: Provides engaging, AI-generated trivia about destination cities.
+- **Implementation**: When `funFactsEnabled` is true, the module calls the configured `funFactsEndpoint` (OpenAI, Ollama, etc.) to retrieve a single-sentence fact. This is displayed in a glassmorphism banner at the top of the attractions panel.
+- **Caching**: Facts are cached per-city for the duration of the session to prevent redundant API calls.
+- **Config Option**: `funFactsEnabled`, `funFactsEndpoint`, `funFactsApiKey`.
+
+### **Airport Meta Display (v2.2.0+)**
+- **Function**: Displays critical distance and location data for the arrival airport.
+- **Implementation**: If the city attraction data (JSON) includes `airportDistanceKm` or `airportPostcode`, a gold distance pill is displayed in the Attractions header (e.g. "✈ 24 km (TW6 1EW)"). 
+- **UX**: This provides immediate context for travelers planning their transit from the airport to the city center.
+
+### **Calendar-Driven Scenarios (v2.2.0+)**
+- **Function**: Automatically changes the active trip scenario based on your calendar schedule.
+- **Implementation**: The module listens for `CALENDAR_EVENTS` from the core MagicMirror calendar module. It scans event titles for keywords defined in `calendarScenarioMap`. If a match is found, it automatically switches the module to the mapped scenario.
+- **Config Option**: `calendarDrivenScenario`, `calendarScenarioMap`.
 
 ---
 
@@ -105,7 +141,22 @@ The module integrates with the **FlightAware AeroAPI v4** to provide real-time u
 - **Quota Conservation**: Polling for a specific flight only begins **24 hours before** its scheduled departure.
 - **Update Frequency**: Controlled by `pollInterval` (default: 5 minutes).
 - **Required Config**: `flightAwareApiKey` must be set for live tracking to function.
-- **Environment Variable**: You can also set `FLIGHTAWARE_API_KEY` as an environment variable, which takes precedence over the config value.
+- **Environment Variable**: You can also set `FLIGHTAWARE_API_KEY` as an environment variable, which takes precedence over the config value. Using an environment variable is the **highly recommended** method to prevent your API key from being accidentally exposed when sharing your `config.js`.
+
+### **4. Security & Accessibility (v2.1.0+)**
+
+#### **Strict Path Validation (SEC-002)**
+To prevent path traversal vulnerabilities, `node_helper.js` implements a strict `validatePath` utility. Any configuration option that specifies a file path (e.g., `citiesFile`, `crewFlightsFile`, `footballAwayTripsFile`) is resolved and checked to ensure it resides within the module's own directory. Attempts to reference files outside the module (e.g., using `../`) will be detected, a security warning will be logged, and the module will revert to the default file path.
+
+#### **Full Keyboard Navigation (ACC-001)**
+The module is fully navigable via keyboard. All on-screen controls (Pan, Zoom, Nudge, and Selectors) are included in the document tab order. 
+- **Visual Focus Indicators**: High-contrast blue outlines (`#4499FF`) and background highlights are applied to the active element to ensure visibility.
+- **Auto-Show on Focus**: Controls that are hidden via `hideControlsUntilHover` will automatically appear when they receive keyboard focus.
+
+#### **ARIA Landmarks & Live Regions (ACC-002)**
+- **Role Assignments**: Overlay panels use appropriate ARIA roles (`region`, `complementary`, `status`) to help screen reader users identify the purpose of each section.
+- **SVG Accessibility**: Map markers (Airports, Football Crests, and Planes) include dynamic `aria-label` properties so they can be identified by assistive technologies.
+- **Live Status Announcements**: A hidden `aria-live` announcer is used to broadcast major status changes (e.g., "Flight FR2891 is now in flight") without requiring the user to manually move focus to the countdown timer.
 
 ### **Rich Live Status & Telemetry (v1.7.0+)**
 
@@ -137,9 +188,9 @@ The module now features a suite of on-screen controls for manual map interaction
     - **Scenario Selector** (Top-Right): Switches the active trip scenario (1-6). Changing the scenario triggers the dynamic re-initialization pipeline described above.
 
 ### **Responsive & Modern UI**
-- **Glassmorphism Design**: All UI controls use a modern glassmorphism aesthetic with background-blur and semi-transparent borders.
+- **Glassmorphism Design**: All UI controls use a modern glassmorphism aesthetic with background-blur and semi-transparent borders. On low-power hardware, enable `lowPowerMode: true` to disable these GPU-intensive effects.
 - **Responsive Narrow Layout**: Triggered by `narrowBreakpoint` (default `900px`). Stacks overlay panels and increases width to `95vw` on smaller displays.
-- **Hourly Weather Refresh**: Destination weather is re-fetched every hour from Open-Meteo.
+- **Hourly Weather Refresh**: Destination weather is re-fetched every hour from Open-Meteo. Weather data is persisted to `cache/weather_cache.json` (CCH-001) so valid entries survive module restarts without additional API calls.
 - **Debounced Rendering**: `updateMapLines()` uses a 250ms debounce to prevent redundant map redraws during rapid data updates or animations.
 - **Visibility Configuration**: Every UI element (Pan, Zoom, Map Selector, Scenario Selector) can be individually toggled via `showPanControl`, `showZoomControl`, etc., in the module configuration.
 
@@ -283,6 +334,7 @@ Once all legs are completed, the module waits for `colorResetAfterDays` (default
 - **`flightDisplayMode`**: Filter which legs are shown (`"all"` | `"outbound"` | `"return"`).
 - **`colorResetAfterDays`**: Days to wait before resetting the map.
 - **`gcPoints`**: Number of interpolation points (higher = smoother arcs).
+- **`lowPowerMode`**: When `true`, disables `backdrop-filter` GPU effects on all overlay panels and caps `gcPoints` to `30`. Recommended for Raspberry Pi Zero or other resource-constrained hardware.
 
 ---
 
@@ -304,8 +356,9 @@ See the [Map Projections User Guide](./mapProjections-User-Guide.md) for full de
 - **Plane Icon**: A live plane icon is positioned at the aircraft's current latitude and longitude during active flights.
 - **Plane Shadow**: When `showPlaneShadow: true` (default), a semi-transparent white halo is rendered beneath the coloured plane icon, improving visibility against light-coloured map backgrounds.
 - **Airport Markers**: Distinct markers for the home airport (`colorAirportHome`) and all other destinations (`colorAirportOther`). Can be toggled via `showDestinations`. When a destination is resolved from a football team name, the marker is replaced by an `am5.Picture` rendering the team's official crest image.
-- **Airport Series Fingerprinting**: `updateMapLines()` builds a fingerprint string from each airport's coordinates, crest path, and colour on every call. `_airportSeries.data.setAll()` — which destroys and recreates all bullet sprites — is only invoked when the fingerprint has changed since the last render. The plane series (`_planeSeries`) is always updated regardless, since aircraft positions change every frame. This prevents `am5.Picture` crest sprites from being recreated on every animation tick, eliminating the crest image flicker that would otherwise occur during test animation.
-- **Test Mode**: If `showFlightTracks: "test"` is set, the module runs a continuous animation of all flight legs.
+- **Airport Series Fingerprinting**: `updateMapLines()` builds a fingerprint string from each airport's coordinates, crest path, and colour on every call. `_airportSeries.data.setAll()` — which destroys and recreates all bullet sprites — is only invoked when the fingerprint has changed since the last render.
+- **Stable Plane Series**: `_planeSeries` is updated on every frame, but the data array itself remains stable. The module populates the series with ALL legs for the current day/scenario, using `alpha: 0` for scheduled or landed flights. This prevents `_planeSeries.data.setAll()` from being called when flights land or depart, eliminating plane icon flicker and ensuring icons appear instantly on take-off. Position and rotation changes are handled via `animate()` in live mode or `setIndex()` in test mode.
+- **Test Mode**: If `showFlightTracks: "test"` is set, the module runs a continuous animation of all flight legs. In Scenario 3 (Group Travel), the animation synchronises multiple travelers using longitude-based UTC offset approximations to ensure correct multi-leg timing across timezones.
 
 ### Viewport — Zoom & Centering
 
@@ -482,6 +535,30 @@ All folders are created automatically on first save.
 
 ---
 
+## 8. Phase 4 UX & Innovation Features
+
+### UIX-001: Zen Mode
+Setting `zenMode: true` in config enables a full-screen "Zen Mode". After `autoHideDelay` seconds (default 30) of complete inactivity — no mouse movement, clicks, or key presses on the module wrapper — the CSS class `iagt-zen-active` is added to the wrapper element. This hides the header, all map controls (pan, zoom, nudge), all selector dropdowns, the flight table overlay, and the city info overlay via CSS opacity transitions, leaving only the animated map and flight paths visible.
+
+Any `mousemove`, `click`, or `keydown` event on the wrapper immediately removes `iagt-zen-active` and resets the inactivity timer, restoring all controls. The timer is managed by `_resetZenModeTimer()` and is cleaned up in `stop()`.
+
+### UIX-002: Color-Blind Friendly Mode (enhanced)
+`colorBlindMode: true` now activates three layers of colour-accessibility support:
+1. **Map path dash patterns** — scheduled/cancelled paths become `[8, 4]` long-dash; landed/previous become `[4, 4]` short-dash; active remains solid.
+2. **Scenario 3 traveller palette** — the standard vivid `TRAVELER_COLORS` array is replaced by `TRAVELER_COLORS_CB`, a 10-colour IBM colour-blind-safe palette vetted against Deuteranopia, Protanopia, and Tritanopia simulations.
+3. **Flight table status colours** — the `.iagt-cb-mode` CSS class applied to the wrapper re-colours the status column text using the IBM palette (blue for scheduled, amber for active, green for landed, rose for cancelled).
+
+### UIX-003: Interactive Fly-to Navigation
+When `flyToOnRowClick: true` (the default), each flight table row that has resolved airport coordinates receives a click handler via `updateTable()`. Clicking the row calls `_flyToLeg(lat1, lon1, lat2, lon2)`, which animates `rotationX`, `rotationY`, and `zoomLevel` on the amCharts 5 map chart to centre on the great-circle midpoint of that leg at an automatically computed zoom level (higher zoom for short legs, lower for intercontinental). The clicked row pulses with a blue highlight for 2 seconds. Rows without resolved coordinates are not clickable.
+
+### INN-001: AI Destination Fun Facts
+When `funFactsEnabled: true` and a `funFactsApiKey` is set, `node_helper.js` makes a single HTTPS POST request to `funFactsApiUrl` (default: OpenAI `v1/chat/completions`) using `funFactsModel` after each scenario load. The prompt asks for one specific, surprising fun fact about the primary destination city. The response is sent to the front-end as an `iAGT_FUN_FACT` socket notification and rendered as a styled "💡 Fun Fact" bar inserted at the top of the city info panel. The request has an 8-second timeout and all errors are caught silently so a failed fetch never disrupts the module.
+
+### INN-002: Calendar-Driven Scenario Switching
+When `calendarDrivenScenario: true`, `notificationReceived()` listens for `CALENDAR_EVENTS` broadcasts from the MagicMirror calendar module. Incoming events are filtered to only those starting in the future. Each `calendarScenarioMap` rule (e.g. `{ keyword: "football", scenario: 6 }`) is checked in order; if an upcoming event's title contains the keyword (case-insensitive), the module sends `UPDATE_SCENARIO` to node_helper and switches the active scenario. Only one rule triggers per notification broadcast (first match wins). This allows the module to automatically switch between, e.g., holiday tracking and football away-days without any manual intervention.
+
+---
+
 ## 7. Internationalisation (i18n)
 
 The module ships with built-in translation files for **33 languages**. `getTranslations()` registers locale files under `translations/`, and MagicMirror² selects the appropriate file based on the global `language` setting in `config.js`.
@@ -489,3 +566,26 @@ The module ships with built-in translation files for **33 languages**. `getTrans
 Supported locales: `en` (English), `de` (German), `fr` (French), `es` (Spanish), `nl` (Dutch), `it` (Italian), `pt` (Portuguese), `gd` (Scottish Gaelic), `ga` (Irish), `af` (Afrikaans), `ar` (Arabic), `cs` (Czech), `cy` (Welsh), `da` (Danish), `el` (Greek), `fa` (Persian/Farsi), `fi` (Finnish), `hr` (Croatian), `ht` (Haitian Creole), `hu` (Hungarian), `ja` (Japanese), `ko` (Korean), `mi` (Māori), `no` (Norwegian), `pl` (Polish), `ro` (Romanian), `sk` (Slovak), `sl` (Slovenian), `sr` (Serbian), `sv` (Swedish), `tr` (Turkish), `uk` (Ukrainian), `uz` (Uzbek).
 
 All visible strings — panel titles, table headers, status labels, countdown messages, and error text — route through `this.translate()`, so switching language requires only changing the MagicMirror global `language` config key.
+
+---
+
+## 9. Responsive & Mobile Optimization
+
+The module is optimized for both traditional desktop/MagicMirror displays and mobile devices (tablets/phones).
+
+### **Touch Detection & Adaptation**
+- **Mechanism**: The module detects touch capability using `"ontouchstart" in window || navigator.maxTouchPoints > 0`.
+- **Class Injection**: A CSS class `.iagt-touch` is added to the main wrapper.
+- **Behavior Changes**:
+    - **Control Visibility**: Map controls that normally auto-hide on hover are forced to `opacity: 1` so they are always accessible on touch screens.
+    - **Target Sizing**: Button sizes increase to 44px for reliable touch interactions.
+    - **Zen Mode**: Supports `touchstart` events to reset the inactivity timer.
+
+### **Viewport Management**
+- **Dynamic Height**: Uses `100dvh` to prevent content clipping when mobile browser toolbars appear/disappear.
+- **Breakpoint Injection**: The module dynamically injects a `<style>` tag based on the `narrowBreakpoint` config (default 900px). When the screen width is below this threshold, overlay panels stack vertically at the bottom of the screen.
+- **Phone Optimization**: At widths below 480px, the UI enters a "Compact Mode":
+    - Overlay heights are capped at `26vh` each.
+    - Flight tables use tighter padding.
+    - Map controls move to the extreme corners to maximize map visibility.
+    - Popup menus scale to 90% of the screen width.

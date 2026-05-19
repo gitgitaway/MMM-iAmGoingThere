@@ -21,6 +21,26 @@ If you encounter issues with the module, please check this guide first.
 - **BOM (Byte Order Mark)**: The module handles UTF-8 BOM, but plain UTF-8 is preferred.
 - **Line Endings**: Use Unix (LF) or Windows (CRLF) line endings.
 
+### 4. Performance & UI
+- **Low Power Mode**: If you experience stuttering or lag on a Raspberry Pi Zero, enable `lowPowerMode: true` to disable heavy blur effects.
+- **Invisible Plane**: If the plane icon disappears, check your `config.js` for valid `colorPlane` values. The module now includes robust animation adapters to prevent visibility regressions.
+
+---
+
+## Phase 4 Features Troubleshooting
+
+### 1. Zen Mode (Auto-hide UI)
+- **UI "Disappeared"**: If your overlays and controls have faded out, this is likely **Zen Mode** (`zenMode: true`). Simply move the mouse or press a key within the module area to restore the UI.
+- **Timer Settings**: Adjust `autoHideDelay` (in seconds) if the UI fades out too quickly or slowly.
+
+### 2. AI Destination Fun Facts
+- **No Facts Shown**: Ensure `funFactsEnabled: true` and a valid `funFactsApiKey` (or `OPENAI_API_KEY` env var) is provided.
+- **API Errors**: Check the `node_helper.js` logs for LLM connection errors. Ensure your `funFactsApiUrl` is correct for your provider.
+
+### 3. Calendar-Driven Scenarios
+- **No Automatic Switch**: Ensure the MagicMirror core `calendar` module is running and sending `CALENDAR_EVENTS` notifications.
+- **Keyword Matching**: The module uses case-insensitive substring matching. Verify that your `calendarScenarioMap` keywords appear exactly as intended in your calendar event titles.
+
 ---
 
 ## Scenario-Specific Advice

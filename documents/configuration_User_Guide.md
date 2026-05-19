@@ -17,6 +17,24 @@ from: { iata: "LHR" }
 
 > **Tip:** For any airport in the built-in `data/airports.csv` database, using the IATA string is the most concise option and avoids coordinate typos.
 
+## 📱 Mobile & Responsive Support
+
+MMM-iAmGoingThere is fully responsive and automatically optimizes its layout for mobile phones, tablets, and desktop displays.
+
+- **Dynamic Viewport**: Content scales to fit your screen exactly using dynamic viewport heights (`100dvh`).
+- **Touch Ready**: Map controls (Pan, Zoom, Nudge) automatically enlarge on touch devices to provide a comfortable 44px touch target.
+- **Smart Stacking**: On narrow displays (defined by `narrowBreakpoint`), the overlay panels stack vertically at the bottom of the screen to maintain map visibility.
+- **Safe Areas**: The layout respects device safe-area insets (notches/home indicators).
+
+---
+
+## 🔒 API Key Security
+
+For best security practices, it is **highly recommended** to set your FlightAware AeroAPI key as an environment variable rather than including it directly in your `config.js`. This prevents accidental exposure of your key if you share your configuration.
+
+- **Environment Variable**: `FLIGHTAWARE_API_KEY`
+- **Behavior**: If this environment variable is set, it will automatically override any `flightAwareApiKey` value provided in the `config.js`.
+
 ---
 
 ## Scenario Configuration Examples
@@ -405,7 +423,7 @@ When using the `scenarios` object, the module will merge your top-level "global"
 ### 2. FlightAware AeroAPI
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| `flightAwareApiKey` | `String` | `""` | FlightAware AeroAPI key (required for live tracking) |
+| `flightAwareApiKey` | `String` | `""` | FlightAware AeroAPI key (required for live tracking). **Note:** Supports `FLIGHTAWARE_API_KEY` environment variable as a more secure alternative. |
 | `pollInterval` | `Number` | `5` | Minutes between FlightAware API polls |
 
 ### 3. Map Settings
@@ -419,9 +437,10 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `zoomLatitude` | `Number` | `20` | Map centre latitude |
 | `autoRotateGlobeToPlane` | `Boolean` | `false` | Orthographic projection: rotate globe to keep active plane(s) centered |
 | `gcPoints` | `Number` | `100` | Great-circle interpolation points per leg |
+| `lowPowerMode` | `Boolean` | `false` | **PER-002** — Enable Low Power Mode for Raspberry Pi Zero or older hardware. Disables `backdrop-filter` blur effects on all overlay panels and automatically caps `gcPoints` to `30` to reduce CPU/GPU load. |
 | `displayDesc` | `Boolean` | `true` | Show airport name labels on markers |
 | `showCityInfo` | `Boolean` | `false` | Show city name and local time overlay |
-| `citiesFile` | `String` | `"data/cities.csv"` | Path to cities CSV data file |
+| `citiesFile` | `String` | `"data/cities.csv"` | Path to cities CSV data file. **Security:** Path is strictly validated and must remain within the module directory. |
 | `cityInfoMode` | `String` | `"destination"` | `"destination"` or `"layovers"` (cycle through stopovers) |
 | `cityInfoCycleInterval` | `Number` | `20` | Seconds per city when `cityInfoMode = "layovers"` |
 | `narrowBreakpoint` | `Number` | `900` | Screen width (px) below which both overlay panels switch to `95vw` stacked layout |
@@ -458,9 +477,10 @@ When using the `scenarios` object, the module will merge your top-level "global"
 ### 7. Flight Details Overlay
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| `showFlightDetails` | `Boolean" | `false` | Show the overlay flight status table |
+| `showFlightDetails` | `Boolean` | `false` | Show the overlay flight status table. When shown, the panel title bar automatically displays the local time at the traveller's current destination city (top-left corner) with its GMT offset in smaller italic — no additional configuration required |
 | `autoHideOverlays` | `Boolean" | `false` | If `true`, the flight table and city info panels fade out after inactivity |
-| `autoHideDelay` | `Number" | `30` | Seconds to wait before fading out overlay panels |
+| `autoHideDelay` | `Number" | `30` | Seconds to wait before fading out overlay panels (also used by `zenMode`) |
+| `zenMode` | `Boolean` | `false` | **UIX-001** — When `true`, all controls (pan, zoom, nudge, selectors, overlays, header) fade out after `autoHideDelay` seconds of inactivity; any mouse or keyboard interaction restores them |
 | `flightPanelWidth` | `String" | `"46vw"` | CSS width of the flight status overlay panel |
 | `flightPanelHeight` | `String" | `"32vh"` | CSS height of the flight status overlay panel |
 | `setFlightDetailsTextSize` | `String" | `"xsmall"` | Font size for the flight table |
@@ -476,11 +496,12 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `attractionsPanelHeight` | `String" | `"32vh"` | CSS height of the attractions overlay panel |
 | `setAttractionsDetailsTextSize` | `String" | `"xsmall"` | Font size for the attractions panel |
 | `maxAttractionsDisplay` | `Number" | `5` | Maximum number of attractions to display per page |
-| `attractionsAutoScroll` | `Boolean" | `false` | When `true`, page-flips the attractions list |
-| `attractionsScrollInterval` | `Number" | `3` | Seconds each page is displayed before flipping |
-| `autoRotateAttractionsData` | `Boolean" | `false` | Auto-rotate attractions to destination when trip completes |
-| `cityAttractions_Xaxis` | `Number" | `0` | px from left edge of map |
-| `cityAttractions_Yaxis" | `Number" | `0` | px from bottom edge of map |
+| `attractionsAutoScroll` | `Boolean` | `false` | When `true`, page-flips the attractions list |
+| `attractionsScrollInterval` | `Number` | `3` | Seconds each page is displayed before flipping |
+| `attractionsClockMode` | `String` | `"home"` | Time reference shown in the attractions panel header clock. `"home"` = viewer's local device time (no suffix); `"zulu"` = UTC time with a `(Z)` suffix |
+| `autoRotateAttractionsData` | `Boolean` | `false` | When `true`, rotates the attractions panel through multiple destination cities when in `cityInfoMode: "layovers"`. Note: the panel always shows the traveller's current physical location (last-landed city) and always rotates through in-flight destinations regardless of this setting |
+| `cityAttractions_Xaxis` | `Number` | `0` | px from left edge of map |
+| `cityAttractions_Yaxis` | `Number` | `0` | px from bottom edge of map |
 
 ### 9. Flight Tracking & Animation
 | Option | Type | Default | Description |
@@ -521,7 +542,7 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `colorTitleFont" | `String" | `"#FFFFFF"` | Main title font colour |
 | `colorLegendFont" | `String" | `"#FFFFFF"` | Legend font colour |
 | `colorLegendBorder" | `String" | `"#FFFFFF"` | Legend border colour |
-| `colorBlindMode" | `Boolean" | `false` | When `true`, differentiates path status via `dashLength` |
+| `colorBlindMode" | `Boolean" | `false` | **UIX-002** — When `true`, differentiates path status via dash patterns and switches the Scenario 3 traveller palette to the IBM colour-blind-safe set (distinguishable under Deuteranopia, Protanopia, and Tritanopia) |
 | `colorResetAfterDays" | `Number" | `1` | Days after final landing before paths reset to white |
 
 ### 12. Data Sources
@@ -531,8 +552,27 @@ When using the `scenarios` object, the module will merge your top-level "global"
 | `destination" | `Object" | `null` | Primary destination airport object |
 | `flights" | `Array" | `[]` | Leg objects for Scenario 1, 2 & 4 |
 | `travelers" | `Array" | `[]` | Traveler objects for Scenario 3 |
-| `crewFlightsFile" | `String" | `"data/my_flights.csv"` | Scenario 5: CSV flight roster path |
-| `footballAwayTripsFile" | `String" | `"data/footballAwayTrips.csv"` | Scenario 6: football trips CSV path |
+| `crewFlightsFile` | `String` | `"data/my_flights.csv"` | Scenario 5: CSV flight roster path. **Security:** Path is strictly validated. |
+| `footballAwayTripsFile` | `String` | `"data/footballAwayTrips.csv"` | Scenario 6: football trips CSV path. **Security:** Path is strictly validated. |
+
+### 13. UIX-003: Fly-to Navigation
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `flyToOnRowClick` | `Boolean` | `true` | When `true`, clicking a flight table row animates the map to the midpoint of that leg's great-circle arc |
+
+### 14. INN-001: AI Destination Fun Facts
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `funFactsEnabled` | `Boolean` | `false` | Enable AI-generated fun facts for the primary destination (requires `funFactsApiKey`) |
+| `funFactsApiKey` | `String` | `""` | API key for the LLM service. **Security:** Store in the `OPENAI_API_KEY` environment variable or equivalent rather than in `config.js` |
+| `funFactsApiUrl` | `String` | `"https://api.openai.com/v1/chat/completions"` | Chat completions endpoint (OpenAI-compatible) |
+| `funFactsModel` | `String` | `"gpt-4o-mini"` | LLM model name |
+
+### 15. INN-002: Calendar-Driven Scenario Switching
+| Option | Type | Default | Description |
+|--------|------|---------|-------------|
+| `calendarDrivenScenario` | `Boolean` | `false` | When `true`, listens for `CALENDAR_EVENTS` from the MagicMirror calendar module and switches scenarios based on `calendarScenarioMap` |
+| `calendarScenarioMap` | `Array` | `[]` | Array of `{ keyword, scenario }` rules, e.g. `[{ keyword: "football", scenario: 6 }, { keyword: "holiday", scenario: 1 }]`. The first keyword found in an upcoming event title wins |
 
 ---
 

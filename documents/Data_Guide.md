@@ -8,8 +8,8 @@ This guide details the built-in databases and coverage provided by **MMM-iAmGoin
 
 The module includes several built-in databases for easy location resolution:
 
-- **Cities (`data/cities.csv`)** — 430+ cities spanning every UN-recognised country.
-- **Attractions (`data/attractions/`)** — Curated Top 10 attractions JSON file for every city.
+- **Cities (`data/cities.csv`)** — 441+ cities spanning every UN-recognised country.
+- **Attractions (`data/attractions/`)** — Curated Top 10 attractions JSON file for every city. All **544 files** are fully populated with all 7 required fields: `rank`, `name`, `postcode`, `distanceKmFromAirport`, `description`, `distance`, and `URL`. Coverage includes every city that has fielded a team in the UEFA Champions League, Europa League or Europa Conference League between 2010 and 2025.
 - **Football Teams (`data/football_teams_database.csv`)** — Global database of professional football teams, allowing you to set destinations by team name.
 - **Airports (`data/airports.csv`)** — 300+ global airports resolved by IATA code.
 
@@ -54,11 +54,11 @@ To enable these layers, set `showSubnationalRegions: true` and `subnationalAllCo
 
 ## Global Coverage by Region
 
-The module includes 430+ cities across all UN member states. Major regional highlights:
+The module includes 441+ cities across all UN member states. Major regional highlights:
 
 | Region | Coverage Details |
 |--------|------------------|
-| **UK & Ireland** | 20+ airports across England, Scotland, Wales, Northern Ireland, Republic of Ireland |
+| **UK & Ireland** | 45+ cities across England, Scotland (incl. Dundee, Inverness, Perth, Stirling, Paisley, Falkirk, Greenock, Dumfries and more), Wales, Northern Ireland, Republic of Ireland (incl. Shannon, Galway, Waterford, Drogheda, Dundalk, Bray, Navan, Kilkenny) |
 | **Western Europe** | France, Germany, Spain, Italy, Austria, Netherlands, etc. |
 | **Northern Europe** | Scandinavia, Baltics, Iceland |
 | **Eastern Europe** | Poland, Czech Republic, Hungary, Romania, etc. |
@@ -89,8 +89,24 @@ The module includes 430+ cities across all UN member states. Major regional high
   "airportPostcode": "AB1 2CD",
   "airportDistanceKm": 15,
   "things": [
-    { "rank": 1, "name": "Top Attraction", "description": "Brief description" },
-    { "rank": 2, "name": "Second Attraction", "description": "Brief description" }
+    {
+      "rank": 1,
+      "name": "Top Attraction",
+      "postcode": "AB1 3EF",
+      "distanceKmFromAirport": 17,
+      "description": "Brief description of the attraction",
+      "distance": 2,
+      "URL": "https://www.example.com/attraction"
+    },
+    {
+      "rank": 2,
+      "name": "Second Attraction",
+      "postcode": "AB1 4GH",
+      "distanceKmFromAirport": 16,
+      "description": "Brief description of the second attraction",
+      "distance": 1,
+      "URL": "https://www.example.com/attraction2"
+    }
   ]
 }
 ```

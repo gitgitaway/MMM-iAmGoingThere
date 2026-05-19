@@ -4,29 +4,57 @@ This document describes every accessibility feature built into the module, how e
 
 ---
 
-## 1. ARIA Live Region — Countdown Box
+## 1. Full Keyboard Navigation & Focus Indicators (NEW v2.1.0+)
 
 ### What it does
-The countdown box announces state changes to screen readers and assistive technologies without requiring the user to navigate to it. When the countdown updates (e.g. from "3 Days Until Departure" to "Currently In Flight"), the new text is automatically read aloud by a screen reader.
+The module is fully navigable using only a keyboard. Users can `Tab` through all interactive elements including map controls (Nudge, Pan, Zoom) and configuration selectors.
 
 ### How it works
-The countdown `<div>` is created with two ARIA attributes:
-
-```html
-<div role="status" aria-live="polite">
-```
-
-- **`role="status"`** — Identifies the element as a live status region, equivalent to a `<output>` element.
-- **`aria-live="polite"`** — Instructs screen readers to read the updated content at the next natural pause, without interrupting ongoing speech.
-
-The countdown is updated by `updateCountdown()` via `innerHTML`, which triggers the live region announcement automatically.
-
-### Relevant config options
-None — this feature is always active.
+- **Interactive Elements**: All controls use standard HTML `<button>` or `<select>` elements which are naturally part of the tab order.
+- **Focus Indicators**: High-contrast focus outlines (`#4499FF`) and background highlights are applied via CSS (`:focus`) to ensure the active element is clearly visible.
+- **Auto-Show on Focus**: Elements that are normally hidden (via `hideControlsUntilHover`) will automatically become visible when they receive keyboard focus using the CSS `:focus-within` pseudo-class.
 
 ---
 
-## 2. ARIA Landmark Roles — Overlay Panels
+## 2. ARIA Live Region — Hidden Announcer & Countdown Box
+
+### Hidden Status Announcer (NEW v2.1.0+)
+In addition to the visible countdown timer, the module now includes a hidden live region specifically for broadcasting major status changes as they happen.
+
+- **What it does**: When a flight status changes (e.g., "Flight BA1478 is now in flight"), the message is sent to this hidden region. Screen readers will immediately announce the change without the user needing to move their focus.
+- **How it works**: A dedicated `<div>` with `aria-live="polite"` and `aria-atomic="true"` is maintained in the DOM. The `_announce(msg)` helper function updates this region.
+
+### Visible Countdown Box
+The countdown box also remains an ARIA status region.
+- **`role="status"`** — Identifies the element as a live status region.
+- **`aria-live="polite"`** — Instructs screen readers to read updates at the next natural pause.
+
+## 3. Mobile & Touch Accessibility (NEW v2.2.0+)
+
+### Safe Area Support
+The module respects device "safe areas" (notches, dynamic islands, and home indicators). 
+- **How it works**: Uses CSS `env(safe-area-inset-*)` to ensure map controls and overlays are never obscured by physical hardware features on modern smartphones.
+
+### Enhanced Touch Targets
+Interactive elements automatically enlarge when a touch-screen is detected.
+- **Minimum Target Size**: All buttons (Pan, Zoom, Nudge) scale to at least **44x44px**, meeting the Apple Human Interface Guidelines and Google Material Design standards for reliable touch interaction.
+- **Spacing**: Grid gaps for map controls are increased to prevent accidental taps of neighboring buttons.
+
+### Prevention of Unwanted Auto-Zoom
+On mobile browsers (especially iOS), focusing an input or dropdown with a font size smaller than 16px triggers an automatic page zoom.
+- **How it works**: On touch devices, the module forces a minimum `font-size: 16px` for all `<select>` dropdowns and input fields, ensuring the interface remains stable and legible during interaction.
+
+---
+
+## 4. Responsive Viewport Management (NEW v2.2.0+)
+
+### Dynamic Viewport Height
+Mobile browsers frequently show and hide address bars or navigation toolbars as the user scrolls or interacts.
+- **How it works**: The module uses `100dvh` (Dynamic Viewport Height) where supported. This ensures the MagicMirror interface always fills the exact visible area of the screen without content being clipped or "jumping" when browser UI elements appear.
+
+---
+
+## 5. ARIA Landmark Roles — Overlay Panels
 
 ### What it does
 Both overlay panels are marked as named landmark regions so that screen reader users can jump to them directly using standard landmark navigation shortcuts.
@@ -103,32 +131,38 @@ None — the custom scrollbar is always active on both panels when they are enab
 
 ---
 
-## 4. Colorblind Mode — Path Status Differentiation
+## 4. Colorblind Mode — Path Status Differentiation (UIX-002 enhanced)
 
 ### What it does
-By default, flight path status (Scheduled / In Flight / Landed / Cancelled) is communicated **only by colour** (white / blue / green / red). `colorBlindMode` adds a second, non-colour visual channel — **line dash pattern** — so that users who cannot distinguish colours can still identify flight status.
+By default, flight path status (Scheduled / In Flight / Landed / Cancelled) is communicated **only by colour** (white / blue / green / red). `colorBlindMode` adds multiple non-colour visual channels so that users who cannot distinguish colours can still identify flight status:
+
+1. **Line dash patterns** on the map paths.
+2. **IBM colour-blind-safe traveller palette** for Scenario 3 multi-origin trips.
+3. **Accessible table status colours** in the flight overlay panel.
 
 ### How it works
-When `colorBlindMode: true`, the `dashLength` property is applied to each map line segment:
+When `colorBlindMode: true`, the `strokeDasharray` property is applied to each map line series:
 
-| Status | Colour | `dashLength` | Visual |
+| Status | Colour | Dash pattern | Visual |
 |--------|--------|-------------|--------|
-| Scheduled / Future | White | `8` | Long dashes |
-| Cancelled | Red | `8` | Long dashes |
-| Active (in flight) | Blue | `0` | Solid line |
-| Landed / Completed | Green | `4` | Short dashes |
-| Previous (superseded) | Grey | `8` | Long dashes |
+| Scheduled / Future | White → Blue `#648FFF` | `[8, 4]` | Long dashes |
+| Cancelled | Red → Rose `#DC267F` | `[8, 4]` | Long dashes |
+| Active (in flight) | Blue → Amber `#FFB000` | solid | Solid line |
+| Landed / Completed | Green → Green `#009D72` | solid | Solid line |
+| Previous (superseded) | Grey | `[4, 4]` | Short dashes |
 
-When `colorBlindMode: false` (default), `dashLength` is not applied and all lines are solid.
+**Scenario 3 traveller colours** switch to the 10-colour IBM palette (`TRAVELER_COLORS_CB`) — tested against Deuteranopia, Protanopia, and Tritanopia simulations.
 
-The dash pattern is applied at the ammap3 line-series level via the `dashLength` property on each line object.
+**Flight table status text** is re-coloured via the `.iagt-cb-mode` CSS class using the same IBM palette values.
+
+When `colorBlindMode: false` (default), no dash patterns are applied and the standard vivid palette is used.
 
 ### Relevant config options
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| `colorBlindMode` | `Boolean` | `false` | When `true`, applies `dashLength` patterns to flight paths in addition to colour |
+| `colorBlindMode` | `Boolean` | `false` | When `true`, applies dash patterns, IBM CB-safe traveller palette, and accessible table status colours |
 
-> **Tip:** `colorBlindMode` can be combined with custom colours. You can override `colorFuturePath`, `colorActivePath`, `colorCompletedPath`, etc. to use a colour palette suitable for your specific colour vision profile.
+> **Tip:** `colorBlindMode` can be combined with custom `colorFuturePath`, `colorActivePath`, `colorCompletedPath`, etc. overrides to further tune the output for a specific vision profile.
 
 ---
 
@@ -244,13 +278,30 @@ See [`Translations.md`](./Translations.md) for a full list of supported language
 
 ---
 
+## 10. SVG Accessibility — Map Markers
+
+### What it does
+Map markers (Airports, Football Crests, and Plane icons) are annotated with `aria-label` properties so they can be identified and read by assistive technologies.
+
+### How it works
+The amCharts 5 engine allows setting an `ariaLabel` on sprites. The module dynamically assigns labels based on the marker's context:
+- **Airports**: `ariaLabel: d.name || "Airport"`
+- **Football Teams**: `ariaLabel: d.name || "Football Team"`
+- **Planes**: `ariaLabel: d.flightNumber ? "Flight " + d.flightNumber : "Active Flight"`
+
+These labels provide a text alternative for the visual icons on the map.
+
+---
+
 ## Summary Table
 
 | Feature | Always active | Config option(s) |
 |---------|:-------------:|-----------------|
-| ARIA live region (countdown) | ✓ | — |
+| Keyboard Navigation | ✓ | — |
+| ARIA live region (announcer) | ✓ | — |
 | ARIA landmark roles (panels) | ✓ | `showFlightDetails`, `showAttractionsDetails` |
 | ARIA scrollbar (custom scrollbar) | ✓ | — |
+| SVG Accessibility (Markers) | ✓ | — |
 | Colorblind mode (dash patterns) | — | `colorBlindMode` |
 | CSS color injection safety | ✓ | — |
 | Stable airport tooltips | ✓ | `tooltipDuration` |

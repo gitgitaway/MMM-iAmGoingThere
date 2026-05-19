@@ -17,7 +17,7 @@ A single outbound leg and a single return leg between home and destination. No s
   config: {
     scenario: 1,
     tripTitle: "Barcelona – Summer 2026",
-    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE",
+    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE", // Recommended: set FLIGHTAWARE_API_KEY environment variable instead
     home: { name: "Glasgow Airport", iata: "GLA", lat: 55.8697, lon: -4.4331 },
     destination: { name: "Barcelona Airport", iata: "BCN", lat: 41.2971, lon: 2.0785 },
     flights: [
@@ -57,7 +57,7 @@ Route: **INV → LHR → SFO → Fiji → Auckland → Christchurch → Sydney �
   config: {
     scenario: 2,
     tripTitle: "Round The World 2026",
-    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE",
+    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE", // Recommended: set FLIGHTAWARE_API_KEY environment variable instead
     zoomLevel: 1,
     zoomLongitude: 20,
     zoomLatitude: 20,
@@ -71,7 +71,7 @@ Route: **INV → LHR → SFO → Fiji → Auckland → Christchurch → Sydney �
       { travelerName: "The Hobbit Family", flightNumber: "QF155",  departureDate: "2026-05-31", from: "CHC", to: "SYD" },
       { travelerName: "The Hobbit Family", flightNumber: "SQ231",  departureDate: "2026-06-05", from: "SYD", to: "SIN" },
       { travelerName: "The Hobbit Family", flightNumber: "SQ317",  departureDate: "2026-06-10", from: "SIN", to: "LHR" },
-      { travelerName: "The Hobbit Family", flightNumber: "BA1477", departureDate: "2026-06-20", from: "LHR", to: "INV" }
+      { travelerName: "The Hobbit Family", flightNumber: "BA1477", departureDate: "2026-06-12", from: "LHR", to: "INV" }
     ]
   }
 }
@@ -79,9 +79,11 @@ Route: **INV → LHR → SFO → Fiji → Auckland → Christchurch → Sydney �
 
 ---
 
-## Scenario 3 — Multi-Origin (World Cup / Group Events)
+## Scenario 3 — Multi-Origin (eg World Cup Trip / Group Events)
 
 Multiple travelers flying from different origins to a shared destination. Each traveler has independent `flights` (outbound) and `returnFlights`.
+
+**Synchronised Test Animation:** When `showFlightTracks` is set to `"test"`, the module calculates a global timeline for each travel date. Longitude-based UTC offsets are applied to departure times to ensure realistic overlap and sequencing (e.g., ensuring a connection in a different timezone departs after the incoming flight arrives).
 
 **Example — John & Michael fly to Boston for World Cup 2026:**
 
@@ -92,7 +94,7 @@ Multiple travelers flying from different origins to a shared destination. Each t
   config: {
     scenario: 3,
     tripTitle: "Boston – World Cup 2026",
-    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE",
+    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE", // Recommended: set FLIGHTAWARE_API_KEY environment variable instead
     home: { name: "Edinburgh Airport", iata: "EDI", lat: 55.9500, lon: -3.3725 },
     destination: { name: "Boston", iata: "BOS", lat: 42.3656, lon: -71.0096 },
     travelers: [
@@ -130,11 +132,11 @@ Multiple travelers flying from different origins to a shared destination. Each t
 Displays a collection of all previously visited destinations.
 
 - **Home** location is marked with a **Gold** marker.
-- **Visited destinations** (listed in `flights`) are marked with **White** markers (or football crests).
+- **Visited destinations** (listed in `flights`) are marked with **White** markers .
+- **Football Team Crests** — If a destination is resolved via a football team name, the default white marker is replaced by the team's crest image.
 - **Green Countries** — Countries reached at least once are automatically coloured green (configurable via `colorVisitedCountry`). This includes destinations resolved via IATA codes, city names, and football team names.
 - **Manual Marking** — Right-click any country on the map to open a confirmation popup. Use **"Mark as Visited"** or **"Remove Visited"** to toggle its status. Selections are saved to `data/manual_visited_countries.json` and persist across restarts.
 - **Highlights Control** — A dropdown below the map projection selector lets you switch between **"Highlight Visited Countries"** (default), **"No Highlights"** (suppresses all highlights without deleting data), and **"Clear Manually Marked Cache"** (wipes the manual JSON file).
-- **Football Team Crests** — If a destination is resolved via a football team name, the marker is replaced by the team's crest image.
 - **Flight tracks** are only visible when `showFlightTracks` is set to `"test"`.
 
 > See [Mark Country As Visited Guide](./Mark_Country_As_Visited_Guide.md) for full details on manual marking, the popup, and managing the visited cache.
@@ -165,7 +167,7 @@ Displays a collection of all previously visited destinations.
 
 ## Scenario 5 — Aircrew / Frequent Flyer CSV Roster
 
-Loads flight legs from a plain CSV file. Designed for aircrew, frequent flyers, or anyone who maintains a rolling schedule in a spreadsheet. No changes to `config.js` are needed when the schedule changes — just edit the CSV.
+Loads flight legs from a plain CSV file. Designed for aircrew, frequent flyers, or anyone who maintains a rolling schedule in a spreadsheet  ( usefull if you dont want to update the config.js as no changes to `config.js` are needed when the schedule changes — just edit the CSV.)
 
 **CSV file location:** `data/my_flights.csv` (configurable via `crewFlightsFile`)
 
@@ -199,8 +201,8 @@ departureDate,flightNumber,from,to,departureTime,travelerName,type
   position: "fullscreen_below",
   config: {
     scenario: 5,
-    tripTitle: "Alex Reid — Crew Schedule",
-    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE",
+    tripTitle: "Amelia Earhart — Crew Schedule",
+    flightAwareApiKey: "YOUR_AEROAPI_KEY_HERE", // Recommended: set FLIGHTAWARE_API_KEY environment variable instead
     crewFlightsFile: "data/my_flights.csv",
     home: { name: "London Heathrow", iata: "LHR", lat: 51.4775, lon: -0.4614 },
     showFlightDetails: true,
@@ -266,6 +268,58 @@ departureDate,Competition,to,flightNumber,travelerName,score,result
 - **Tooltip Aggregation** — If you visit the same stadium multiple times, the fixture details are aggregated into a single rich tooltip.
 - **Size Reduction** — Markers in this scenario are rendered at 50% scale (17x17px) to keep the map readable even with many markers.
 - **Static Display** — Flight tracking is disabled for this scenario by default as it focus on destination history.
+
+---
+
+## UX Enhancements (v2.2.0+)
+
+### Zen Mode (UIX-001)
+
+Automatically hide UI overlays for a minimalist look.
+
+- **Enable**: Set `zenMode: true`.
+- **Config**: `autoHideDelay: 30` (seconds).
+
+### Color Blind Mode (UIX-002)
+
+High-contrast palettes for accessible flight tracking.
+
+- **Enable**: Set `colorBlindMode: true`.
+- **Impact**: Traveler colors in Scenario 3 and status labels use optimized color-blind safe sets.
+
+### Interactive "Fly-to" Navigation (UIX-003)
+
+Click flight rows to focus the map.
+
+- **Enable**: Set `flyToOnRowClick: true`.
+- **Action**: Click any row in the flight table to smoothly pan the map to that leg and see a destination pulse.
+
+---
+
+## Advanced Scenario Features
+
+### AI Destination "Fun Facts" (INN-001)
+
+Enhance any active scenario with AI-generated trivia about your destination city.
+
+- **Enable**: Set `funFactsEnabled: true`.
+- **API Key**: Required. Set `funFactsApiKey` or use the `OPENAI_API_KEY` environment variable.
+- **How it works**: When a new scenario loads or a flight becomes active, the module fetches a single-sentence "fun fact" from an OpenAI-compatible endpoint and displays it in a styled banner above the attractions panel.
+
+### Calendar-Driven Scenario Switching (INN-002)
+
+Automatically switch between your 6 scenarios based on keywords in your MagicMirror `calendar` events.
+
+- **Enable**: Set `calendarDrivenScenario: true`.
+- **Mapping**: Define `calendarScenarioMap` as an array of rules:
+  ```js
+  calendarScenarioMap: [
+    { keyword: "holiday", scenario: 1 },
+    { keyword: "football", scenario: 6 },
+    { keyword: "roster", scenario: 5 }
+  ]
+  ```
+- **How it works**: The module listens for `CALENDAR_EVENTS` notifications. If an upcoming event title contains one of your keywords, the module instantly switches to the mapped scenario.
 
 ---
 
