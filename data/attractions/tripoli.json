@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Leptis Magna",
-      "description": "UNESCO World Heritage finest Roman ruins in the world - Septimius Severus's birthplace"
+      "postcode": "0",
+      "distanceKmFromAirport": 165.0,
+      "description": "UNESCO World Heritage finest Roman ruins in the world - Septimius Severus's birthplace",
+      "distance": 130.0,
+      "URL": "https://whc.unesco.org/en/list/183"
     },
     {
       "rank": 2,
       "name": "Sabrata Roman Theatre",
-      "description": "UNESCO World Heritage 1st-century Roman theatre overlooking the Mediterranean"
+      "postcode": "0",
+      "distanceKmFromAirport": 80.0,
+      "description": "UNESCO World Heritage 1st-century Roman theatre overlooking the Mediterranean",
+      "distance": 70.0,
+      "URL": "https://whc.unesco.org/en/list/184"
     },
     {
       "rank": 3,
       "name": "Medina of Tripoli (Old City)",
-      "description": "Ottoman old town with the Red Castle, Marcus Aurelius arch and covered souqs"
+      "postcode": "21301",
+      "distanceKmFromAirport": 35.0,
+      "description": "Ottoman old town with the Red Castle, Marcus Aurelius arch and covered souqs",
+      "distance": 0.5,
+      "URL": "https://www.libyatourism.com"
     },
     {
       "rank": 4,
       "name": "Saraya (Red Castle) Museum",
-      "description": "Tripolitanian history from Phoenician times in a vast Ottoman-era fortress"
+      "postcode": "21301",
+      "distanceKmFromAirport": 35.2,
+      "description": "Tripolitanian history from Phoenician times in a vast Ottoman-era fortress",
+      "distance": 0.8,
+      "URL": "https://www.libyatourism.com"
     },
     {
       "rank": 5,
       "name": "Marcus Aurelius Arch",
-      "description": "163 AD Roman triumphal arch in the heart of the old medina"
+      "postcode": "21301",
+      "distanceKmFromAirport": 35.1,
+      "description": "163 AD Roman triumphal arch in the heart of the old medina",
+      "distance": 0.6,
+      "URL": "https://www.libyatourism.com"
     },
     {
       "rank": 6,
       "name": "Gurgi Mosque",
-      "description": "Early 19th-century mosque with Moroccan-Italian craftsmanship"
+      "postcode": "21301",
+      "distanceKmFromAirport": 35.3,
+      "description": "Early 19th-century mosque with Moroccan-Italian craftsmanship",
+      "distance": 1.0,
+      "URL": "https://www.libyatourism.com"
     },
     {
       "rank": 7,
       "name": "Ghadames Old Town (Oasis City)",
-      "description": "UNESCO World Heritage desert oasis town with labyrinthine whitewashed architecture"
+      "postcode": "0",
+      "distanceKmFromAirport": 450.0,
+      "description": "UNESCO World Heritage desert oasis town with labyrinthine whitewashed architecture",
+      "distance": 450.0,
+      "URL": "https://whc.unesco.org/en/list/185"
     },
     {
       "rank": 8,
       "name": "Wadi el-Hitan (Valley of Whales) Day Trip",
-      "description": "UNESCO World Heritage desert with prehistoric whale fossils"
+      "postcode": "0",
+      "distanceKmFromAirport": 280.0,
+      "description": "UNESCO World Heritage desert with prehistoric whale fossils",
+      "distance": 300.0,
+      "URL": "https://whc.unesco.org/en/list/1261"
     },
     {
       "rank": 9,
       "name": "Green Square (Martyrs' Square)",
-      "description": "Central plaza on the Mediterranean waterfront - heart of Tripoli"
+      "postcode": "21301",
+      "distanceKmFromAirport": 35.1,
+      "description": "Central plaza on the Mediterranean waterfront - heart of Tripoli",
+      "distance": 1.2,
+      "URL": "https://www.libyatourism.com"
     },
     {
       "rank": 10,
       "name": "Bazin (Semolina Bread)",
-      "description": "Libya's national dish - hard semolina bread served with lamb and vegetable ragout"
+      "postcode": "21301",
+      "distanceKmFromAirport": 35.0,
+      "description": "Libya's national dish - hard semolina bread served with lamb and vegetable ragout",
+      "distance": 0.0,
+      "URL": "https://www.libyatourism.com"
     }
   ]
 }

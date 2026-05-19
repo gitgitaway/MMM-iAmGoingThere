@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Gardens by the Bay",
-      "description": "Futuristic park with the Supertree Grove, Cloud Forest and Flower Dome biospheres"
+      "postcode": "018953",
+      "distanceKmFromAirport": 22,
+      "description": "Futuristic park with the Supertree Grove, Cloud Forest and Flower Dome biospheres",
+      "distance": 1.5,
+      "URL": "https://www.gardensbythebay.com.sg/"
     },
     {
       "rank": 2,
       "name": "Marina Bay Sands",
-      "description": "Iconic three-tower resort with an infinity pool and SkyPark observation deck"
+      "postcode": "018956",
+      "distanceKmFromAirport": 21,
+      "description": "Iconic three-tower resort with an infinity pool and SkyPark observation deck",
+      "distance": 1.2,
+      "URL": "https://www.marinabaysands.com/"
     },
     {
       "rank": 3,
       "name": "Sentosa Island",
-      "description": "Resort island with Universal Studios, S.E.A. Aquarium and cable car rides"
+      "postcode": "098269",
+      "distanceKmFromAirport": 25,
+      "description": "Resort island with Universal Studios, S.E.A. Aquarium and cable car rides",
+      "distance": 5.0,
+      "URL": "https://www.sentosa.com.sg/"
     },
     {
       "rank": 4,
       "name": "Chinatown",
-      "description": "Vibrant heritage district with temples, hawker centres and traditional medicine shops"
+      "postcode": "058415",
+      "distanceKmFromAirport": 22,
+      "description": "Vibrant heritage district with temples, hawker centres and traditional medicine shops",
+      "distance": 2.5,
+      "URL": "https://chinatown.sg/"
     },
     {
       "rank": 5,
       "name": "Little India",
-      "description": "Colourful neighbourhood with Hindu temples, flower garlands and curry houses"
+      "postcode": "218176",
+      "distanceKmFromAirport": 23,
+      "description": "Colourful neighbourhood with Hindu temples, flower garlands and curry houses",
+      "distance": 3.0,
+      "URL": "https://www.littleindia.com.sg/"
     },
     {
       "rank": 6,
       "name": "Singapore Botanic Gardens",
-      "description": "UNESCO World Heritage tropical garden with the National Orchid Garden"
+      "postcode": "259569",
+      "distanceKmFromAirport": 25,
+      "description": "UNESCO World Heritage tropical garden with the National Orchid Garden",
+      "distance": 5.0,
+      "URL": "https://www.nparks.gov.sg/sbg"
     },
     {
       "rank": 7,
       "name": "Hawker Centre Culture",
-      "description": "UNESCO-listed street food culture at legendary centres like Maxwell and Lau Pa Sat"
+      "postcode": "069178",
+      "distanceKmFromAirport": 22,
+      "description": "UNESCO-listed street food culture at legendary centres like Maxwell and Lau Pa Sat",
+      "distance": 2.0,
+      "URL": "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/hawker-culture"
     },
     {
       "rank": 8,
       "name": "National Museum of Singapore",
-      "description": "Singapore's oldest museum in a grand colonial building with living galleries"
+      "postcode": "178957",
+      "distanceKmFromAirport": 22,
+      "description": "Singapore's oldest museum in a grand colonial building with living galleries",
+      "distance": 2.5,
+      "URL": "https://www.nationalmuseum.sg/"
     },
     {
       "rank": 9,
       "name": "Singapore Zoo & Night Safari",
-      "description": "Award-winning open-concept zoo and the world's first nocturnal wildlife park"
+      "postcode": "729826",
+      "distanceKmFromAirport": 45,
+      "description": "Award-winning open-concept zoo and the world's first nocturnal wildlife park",
+      "distance": 25.0,
+      "URL": "https://www.mandai.com/en/singapore-zoo.html"
     },
     {
       "rank": 10,
       "name": "Orchard Road",
-      "description": "Singapore's premier shopping street with hundreds of malls and luxury brands"
+      "postcode": "238839",
+      "distanceKmFromAirport": 23,
+      "description": "Singapore's premier shopping street with hundreds of malls and luxury brands",
+      "distance": 3.0,
+      "URL": "https://orchardroad.org/"
     }
   ]
 }

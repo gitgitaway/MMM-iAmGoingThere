@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Diocletian's Palace",
-      "description": "UNESCO World Heritage 4th-century Roman emperor's retirement palace, still a living city"
+      "postcode": "21000",
+      "distanceKmFromAirport": 25.5,
+      "description": "UNESCO World Heritage 4th-century Roman emperor's retirement palace, still a living city",
+      "distance": 0.0,
+      "URL": "https://www.diocletianpalace.org"
     },
     {
       "rank": 2,
       "name": "Cathedral of Saint Domnius",
-      "description": "World's oldest Catholic cathedral, converted from Diocletian's mausoleum"
+      "postcode": "21000",
+      "distanceKmFromAirport": 25.3,
+      "description": "World's oldest Catholic cathedral, converted from Diocletian's mausoleum",
+      "distance": 0.2,
+      "URL": "https://www.cathedral-split.com"
     },
     {
       "rank": 3,
       "name": "Marjan Hill",
-      "description": "Forested peninsula park above the city with viewpoints and secluded beaches"
+      "postcode": "21000",
+      "distanceKmFromAirport": 26.2,
+      "description": "Forested peninsula park above the city with viewpoints and secluded beaches",
+      "distance": 2.0,
+      "URL": "https://www.marjanpark.com"
     },
     {
       "rank": 4,
       "name": "Mestrovic Gallery",
-      "description": "Sculptor Ivan Mestrovic's villa museum with one of Croatia's finest art collections"
+      "postcode": "21000",
+      "distanceKmFromAirport": 25.8,
+      "description": "Sculptor Ivan Mestrovic's villa museum with one of Croatia's finest art collections",
+      "distance": 1.5,
+      "URL": "https://www.mestrovicgallery.hr"
     },
     {
       "rank": 5,
       "name": "Riva Promenade",
-      "description": "Bustling waterfront promenade, the social heart of Split with palm trees and cafes"
+      "postcode": "21000",
+      "distanceKmFromAirport": 25.2,
+      "description": "Bustling waterfront promenade, the social heart of Split with palm trees and cafes",
+      "distance": 0.5,
+      "URL": "https://www.split-tourism.com"
     },
     {
       "rank": 6,
       "name": "Klis Fortress",
-      "description": "Dramatic hilltop fortress above Split, Game of Thrones filming location"
+      "postcode": "21250",
+      "distanceKmFromAirport": 33.0,
+      "description": "Dramatic hilltop fortress above Split, Game of Thrones filming location",
+      "distance": 10.0,
+      "URL": "https://www.klis-fortification.com"
     },
     {
       "rank": 7,
       "name": "Golden Gate",
-      "description": "Best-preserved Roman gate of Diocletian's Palace with the Grgur Ninski statue"
+      "postcode": "21000",
+      "distanceKmFromAirport": 25.1,
+      "description": "Best-preserved Roman gate of Diocletian's Palace with the Grgur Ninski statue",
+      "distance": 0.3,
+      "URL": "https://www.diocletianpalace.org"
     },
     {
       "rank": 8,
       "name": "Krka National Park",
-      "description": "Stunning series of waterfalls and lakes accessible by boat from Sibenik"
+      "postcode": "22250",
+      "distanceKmFromAirport": 43.0,
+      "description": "Stunning series of waterfalls and lakes accessible by boat from Sibenik",
+      "distance": 27.0,
+      "URL": "https://www.krka.hr"
     },
     {
       "rank": 9,
       "name": "Hvar Island Day Trip",
-      "description": "Glamorous Adriatic island with lavender fields, crystal water and vibrant nightlife"
+      "postcode": "21400",
+      "distanceKmFromAirport": 37.0,
+      "description": "Glamorous Adriatic island with lavender fields, crystal water and vibrant nightlife",
+      "distance": 18.0,
+      "URL": "https://www.hvar.hr"
     },
     {
       "rank": 10,
       "name": "Brac Island & Zlatni Rat",
-      "description": "Day trip to the famous horn-shaped pebble beach that shifts with the current"
+      "postcode": "21408",
+      "distanceKmFromAirport": 42.0,
+      "description": "Day trip to the famous horn-shaped pebble beach that shifts with the current",
+      "distance": 28.0,
+      "URL": "https://www.brac.hr"
     }
   ]
 }

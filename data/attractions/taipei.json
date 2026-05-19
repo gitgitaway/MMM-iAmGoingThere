@@ -1,0 +1,98 @@
+{
+  "city": "Taipei",
+  "country": "Taiwan",
+  "airportPostcode": "337",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Taipei 101 Observatory",
+      "postcode": "110",
+      "distanceKmFromAirport": 45,
+      "description": "World's tallest building 2004-2010 — the indoor and outdoor observation decks on the 89th/91st floors are unmissable",
+      "distance": 5.0,
+      "URL": "https://www.taipei-101.com.tw/en/"
+    },
+    {
+      "rank": 2,
+      "name": "National Palace Museum",
+      "postcode": "111",
+      "distanceKmFromAirport": 52,
+      "description": "One of the world's greatest museums — 700,000 Chinese artefacts, including the Jadeite Cabbage and Meat-shaped Stone",
+      "distance": 12.0,
+      "URL": "https://www.npm.gov.tw/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Jiufen Old Street",
+      "postcode": "224",
+      "distanceKmFromAirport": 85,
+      "description": "Hillside tea-house village that inspired Spirited Away — lantern-lit stairs and ocean views at dusk",
+      "distance": 45.0,
+      "URL": "https://www.newtaipei.gov.tw/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Shilin Night Market",
+      "postcode": "111",
+      "distanceKmFromAirport": 48,
+      "description": "Taipei's most famous night market — stinky tofu, oyster omelettes, bubble tea and street games",
+      "distance": 8.0,
+      "URL": "https://www.taipeitravel.net/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Chiang Kai-shek Memorial Hall",
+      "postcode": "100",
+      "distanceKmFromAirport": 42,
+      "description": "Imposing white marble monument with changing of the guard ceremony and surrounding garden park",
+      "distance": 2.5,
+      "URL": "https://www.cksmh.gov.tw/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Elephant Mountain Hike (Xiangshan)",
+      "postcode": "110",
+      "distanceKmFromAirport": 46,
+      "description": "45-minute hike to the iconic viewpoint with the classic Taipei 101 backdrop photo",
+      "distance": 5.5,
+      "URL": "https://www.taipeitravel.net/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Longshan Temple",
+      "postcode": "108",
+      "distanceKmFromAirport": 43,
+      "description": "Taipei's oldest and most ornate Buddhist-Taoist temple (1738) — incense-filled with colourful deity statues",
+      "distance": 3.0,
+      "URL": "https://www.lungshan.org.tw/wSite/mp?mp=2"
+    },
+    {
+      "rank": 8,
+      "name": "Beitou Hot Springs",
+      "postcode": "112",
+      "distanceKmFromAirport": 55,
+      "description": "Natural hot spring district in the north of Taipei — public pools, traditional ryokans and the hot spring museum",
+      "distance": 15.0,
+      "URL": "https://www.taipeitravel.net/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Taroko Gorge Day Trip",
+      "postcode": "972",
+      "distanceKmFromAirport": 210,
+      "description": "Taiwan's most dramatic natural wonder — marble gorge with suspension bridges (2-hour train from Taipei)",
+      "distance": 170.0,
+      "URL": "https://www.taroko.gov.tw/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Din Tai Fung Dumplings",
+      "postcode": "106",
+      "distanceKmFromAirport": 45,
+      "description": "The world's most famous soup dumpling restaurant — Michelin-starred xiaolongbao at the Xinyi flagship",
+      "distance": 5.0,
+      "URL": "https://www.dintaifung.com.tw/en/"
+    }
+  ]
+}

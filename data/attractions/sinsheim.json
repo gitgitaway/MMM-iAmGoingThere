@@ -1,0 +1,98 @@
+{
+  "city": "Sinsheim",
+  "country": "Germany",
+  "airportPostcode": "70629",
+  "airportDistanceKm": 80,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sinsheim Auto & Technik Museum",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "Europe's most spectacular private technology museum with Concorde, Tupolev Tu-144 and 3000 exhibits including F1 cars and rare aircraft",
+      "distance": 1.5,
+      "URL": "https://www.technik-museum.de/en/sinsheim/"
+    },
+    {
+      "rank": 2,
+      "name": "PreZero Arena",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "State-of-the-art stadium of TSG Hoffenheim, located next to the Sinsheim museum and renowned for its distinctive design",
+      "distance": 1.5,
+      "URL": "https://www.tsg-hoffenheim.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Burg Steinsberg",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "Dramatic medieval hilltop castle ruin nicknamed the compass of the Kraichgau, with panoramic views over the Rhine plain",
+      "distance": 3.5,
+      "URL": "https://www.sinsheim.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Heidelberg Old Town",
+      "postcode": "69117",
+      "distanceKmFromAirport": 91,
+      "description": "Germany's most romantic university town with a spectacular ruined castle above the Neckar River, just 20 minutes by train",
+      "distance": 20.0,
+      "URL": "https://www.heidelberg-marketing.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Sinsheim City Centre",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "Charming small-town centre with a historic market square, half-timbered buildings and weekly produce markets",
+      "distance": 0.5,
+      "URL": "https://www.sinsheim.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Kraichgau Landscape",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "Rolling hills and vineyards of the Kraichgau between Karlsruhe and Heidelberg, excellent for cycling and hiking tours",
+      "distance": 2.0,
+      "URL": "https://www.kraichgau.info/"
+    },
+    {
+      "rank": 7,
+      "name": "Elsenz River Walk",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "Peaceful riverside trail along the Elsenz through Sinsheim offering an easy introduction to the Kraichgau countryside",
+      "distance": 1.0,
+      "URL": "https://www.sinsheim.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Mannheim Palace",
+      "postcode": "68161",
+      "distanceKmFromAirport": 87,
+      "description": "One of the largest baroque palaces in Europe, now housing Mannheim University, easily reached by train from Sinsheim",
+      "distance": 23.0,
+      "URL": "https://www.schloss-mannheim.de/"
+    },
+    {
+      "rank": 9,
+      "name": "Speyer Cathedral",
+      "postcode": "67346",
+      "distanceKmFromAirport": 93,
+      "description": "UNESCO World Heritage Romanesque imperial cathedral of 1061 with the largest crypt in Germany, reachable from Sinsheim",
+      "distance": 30.0,
+      "URL": "https://www.dom-zu-speyer.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Sinsheim Stadtmuseum",
+      "postcode": "74889",
+      "distanceKmFromAirport": 80,
+      "description": "Local history museum documenting Sinsheim's evolution from a medieval market town to home of the famous technology museum",
+      "distance": 0.3,
+      "URL": "https://www.sinsheim.de/"
+    }
+  ]
+}

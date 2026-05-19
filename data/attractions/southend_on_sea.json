@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Southend Pier",
-      "description": "World's longest pleasure pier at 1.33 miles with its own railway into the Thames Estuary"
+      "postcode": "SS1 1EL",
+      "distanceKmFromAirport": 5,
+      "description": "World's longest pleasure pier at 1.33 miles with its own railway into the Thames Estuary",
+      "distance": 0.5,
+      "URL": "https://www.southendpier.com/"
     },
     {
       "rank": 2,
       "name": "Adventure Island",
-      "description": "Thrilling amusement park on the seafront with rides for all ages"
+      "postcode": "SS1 2ER",
+      "distanceKmFromAirport": 8,
+      "description": "Thrilling amusement park on the seafront with rides for all ages",
+      "distance": 1.0,
+      "URL": "https://www.adventureisland.co.uk/"
     },
     {
       "rank": 3,
       "name": "Beecroft Art Gallery",
-      "description": "Outstanding collection of Victorian and 20th-century British art"
+      "postcode": "SS0 8LD",
+      "distanceKmFromAirport": 15,
+      "description": "Outstanding collection of Victorian and 20th-century British art",
+      "distance": 8.0,
+      "URL": "https://www.southendmuseums.co.uk"
     },
     {
       "rank": 4,
       "name": "Prittlewell Priory",
-      "description": "12th-century Cluniac priory set in Priory Park with museum"
+      "postcode": "SS0 0ED",
+      "distanceKmFromAirport": 18,
+      "description": "12th-century Cluniac priory set in Priory Park with museum",
+      "distance": 10.0,
+      "URL": "https://www.southendmuseums.co.uk"
     },
     {
       "rank": 5,
       "name": "Southend Central Museum",
-      "description": "Natural history and archaeology collections including the Southend Planetarium"
+      "postcode": "SS0 7RA",
+      "distanceKmFromAirport": 15,
+      "description": "Natural history and archaeology collections including the Southend Planetarium",
+      "distance": 8.0,
+      "URL": "https://www.english-heritage.org.uk"
     },
     {
       "rank": 6,
       "name": "Sealife Adventure",
-      "description": "Aquarium with sharks, rays and tropical fish in the heart of the town"
+      "postcode": "SS1 2EE",
+      "distanceKmFromAirport": 5,
+      "description": "Aquarium with sharks, rays and tropical fish in the heart of the town",
+      "distance": 0.5,
+      "URL": "https://www.visitsealife.com/southend/"
     },
     {
       "rank": 7,
       "name": "Cliff Lift",
-      "description": "Funicular railway offering views over the seafront since 1912"
+      "postcode": "SS1 1EE",
+      "distanceKmFromAirport": 5,
+      "description": "Funicular railway offering views over the seafront since 1912",
+      "distance": 0.5,
+      "URL": "https://www.visitsouthend.co.uk"
     },
     {
       "rank": 8,
       "name": "Leigh-on-Sea Old Town",
-      "description": "Picturesque fishing village with traditional cockle sheds and art galleries"
+      "postcode": "SS9 1AB",
+      "distanceKmFromAirport": 25,
+      "description": "Picturesque fishing village with traditional cockle sheds and art galleries",
+      "distance": 18.0,
+      "URL": "https://www.visitsouthend.co.uk"
     },
     {
       "rank": 9,
       "name": "Two Tree Island",
-      "description": "Nature reserve and bird sanctuary in the Thames Estuary"
+      "postcode": "SS3 9JL",
+      "distanceKmFromAirport": 35,
+      "description": "Nature reserve and bird sanctuary in the Thames Estuary",
+      "distance": 28.0,
+      "URL": "https://www.southendmuseums.co.uk"
     },
     {
       "rank": 10,
       "name": "Palace Hotel Visitor Attraction",
-      "description": "Victorian hotel complex with heritage displays and sea views"
+      "postcode": "SS1 1UY",
+      "distanceKmFromAirport": 8,
+      "description": "Victorian hotel complex with heritage displays and sea views",
+      "distance": 1.0,
+      "URL": "https://www.visitsouthend.co.uk"
     }
   ]
 }

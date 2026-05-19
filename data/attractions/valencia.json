@@ -2,57 +2,97 @@
   "city": "Valencia",
   "country": "Spain",
   "airportPostcode": "46940",
-  "airportDistanceKm": 13,
+  "airportDistanceKm": 9,
   "things": [
     {
       "rank": 1,
       "name": "City of Arts and Sciences",
-      "description": "Santiago Calatrava's futuristic complex with opera house, science museum and oceanarium"
+      "postcode": "46013",
+      "distanceKmFromAirport": 12,
+      "description": "Santiago Calatrava's breathtaking futuristic complex with science museum, IMAX and oceanarium",
+      "distance": 3.5,
+      "URL": "https://www.cac.es/en/"
     },
     {
       "rank": 2,
-      "name": "Valencia Cathedral",
-      "description": "Gothic cathedral claiming to house the Holy Grail in the Capilla del Santo Caliz"
+      "name": "Valencia Cathedral & Holy Grail",
+      "postcode": "46003",
+      "distanceKmFromAirport": 10,
+      "description": "Gothic cathedral that allegedly houses the Holy Grail — climb the Miguelete bell tower for city views",
+      "distance": 0.5,
+      "URL": "https://www.catedraldevalencia.es/en/"
     },
     {
       "rank": 3,
-      "name": "La Lonja de la Seda",
-      "description": "UNESCO World Heritage late-Gothic silk exchange, a masterpiece of civil architecture"
+      "name": "Central Market (Mercado Central)",
+      "postcode": "46001",
+      "distanceKmFromAirport": 10,
+      "description": "One of Europe's largest fresh food markets (1928) in a stunning Art Nouveau iron-and-tile building",
+      "distance": 0.5,
+      "URL": "https://www.mercadocentralvalencia.es/en/"
     },
     {
       "rank": 4,
-      "name": "Central Market",
-      "description": "Europe's largest fresh produce market under a modernist tile and ironwork dome"
+      "name": "Turia Gardens",
+      "postcode": "46010",
+      "distanceKmFromAirport": 10,
+      "description": "9-km linear park created in the dry bed of the River Turia — bike paths, sports and gardens",
+      "distance": 1.0,
+      "URL": "https://www.visitvalencia.com/en/"
     },
     {
       "rank": 5,
-      "name": "Turia Gardens",
-      "description": "9km linear park in the former river bed with sports facilities and children's attractions"
+      "name": "La Malvarrosa Beach",
+      "postcode": "46011",
+      "distanceKmFromAirport": 14,
+      "description": "Valencia's main urban beach — wide sandy promenade with excellent paella restaurants nearby",
+      "distance": 5.0,
+      "URL": "https://www.visitvalencia.com/en/"
     },
     {
       "rank": 6,
-      "name": "Malvarrosa Beach",
-      "description": "Fine sandy beach with promenade restaurants specialising in authentic Valencian paella"
+      "name": "Barrio del Carmen",
+      "postcode": "46003",
+      "distanceKmFromAirport": 9,
+      "description": "Valencia's bohemian old town quarter with medieval walls, street art and the best tapas bars",
+      "distance": 0.3,
+      "URL": "https://www.visitvalencia.com/en/"
     },
     {
       "rank": 7,
-      "name": "Barrio del Carmen",
-      "description": "Historic bohemian quarter with Roman walls, medieval towers and vibrant nightlife"
+      "name": "Museum of Fine Arts Valencia",
+      "postcode": "46003",
+      "distanceKmFromAirport": 10,
+      "description": "One of Spain's most important collections with Ribalta, Sorolla and European Old Masters",
+      "distance": 1.5,
+      "URL": "https://www.museobellasartesvalencia.gva.es/en/"
     },
     {
       "rank": 8,
-      "name": "Bioparc Valencia",
-      "description": "Innovative zoo recreating African ecosystems with immersive animal encounters"
+      "name": "L'Albufera Natural Park",
+      "postcode": "46012",
+      "distanceKmFromAirport": 19,
+      "description": "Stunning freshwater lagoon 10 km south — the birthplace of paella, with boat trips and rice fields",
+      "distance": 10.0,
+      "URL": "https://www.visitvalencia.com/en/what-to-visit-valencia/natural-spaces/albufera"
     },
     {
       "rank": 9,
-      "name": "Albufera Natural Park",
-      "description": "Lagoon and rice paddies where Valencian paella was invented, just 10km from the city"
+      "name": "Silk Exchange (La Lonja)",
+      "postcode": "46001",
+      "distanceKmFromAirport": 10,
+      "description": "UNESCO World Heritage 15th-century Gothic silk trading hall with a stunning spiral-column hall",
+      "distance": 0.5,
+      "URL": "https://www.visitvalencia.com/en/"
     },
     {
       "rank": 10,
-      "name": "IVAM",
-      "description": "Institut Valencia d'Art Modern, the region's leading contemporary art museum"
+      "name": "IVAM Contemporary Art Museum",
+      "postcode": "46003",
+      "distanceKmFromAirport": 10,
+      "description": "Spain's first dedicated contemporary art museum with a strong collection of avant-garde works",
+      "distance": 1.0,
+      "URL": "https://www.ivam.es/en/"
     }
   ]
 }

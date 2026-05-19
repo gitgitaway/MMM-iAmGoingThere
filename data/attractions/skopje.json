@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Old Bazaar (Carsija)",
-      "description": "One of the Balkans' largest and oldest bazaars with mosques, hans and artisan workshops"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "One of the Balkans' largest and oldest bazaars with mosques, hans and artisan workshops",
+      "distance": 0.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 2,
       "name": "Skopje Fortress (Kale)",
-      "description": "Byzantine and Ottoman fortress above the city with panoramic views"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "Byzantine and Ottoman fortress above the city with panoramic views",
+      "distance": 0.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 3,
       "name": "Stone Bridge (Kamen Most)",
-      "description": "Iconic 15th-century Ottoman bridge connecting the old and new city"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "Iconic 15th-century Ottoman bridge connecting the old and new city",
+      "distance": 0.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 4,
       "name": "Macedonia Square",
-      "description": "Grand central square with an enormous equestrian statue of Alexander the Great"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "Grand central square with an enormous equestrian statue of Alexander the Great",
+      "distance": 0.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 5,
       "name": "Matka Canyon",
-      "description": "Spectacular lake-gorge just 15km from the city, a paradise for kayaking and cave exploration"
+      "postcode": "1373",
+      "distanceKmFromAirport": 32,
+      "description": "Spectacular lake-gorge just 15km from the city, a paradise for kayaking and cave exploration",
+      "distance": 15.0,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 6,
       "name": "National Museum of North Macedonia",
-      "description": "Archaeological and historical treasures from the Neolithic to Ottoman eras"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "Archaeological and historical treasures from the Neolithic to Ottoman eras",
+      "distance": 0.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 7,
       "name": "Painted Mosque (Sarena Dzamija)",
-      "description": "Beautifully painted 15th-century mosque in Tetovo with floral frescoes"
+      "postcode": "1200",
+      "distanceKmFromAirport": 35,
+      "description": "Beautifully painted 15th-century mosque in Tetovo with floral frescoes",
+      "distance": 25.0,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 8,
       "name": "Millennium Cross",
-      "description": "66-metre illuminated cross on Mount Vodno overlooking Skopje"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "66-metre illuminated cross on Mount Vodno overlooking Skopje",
+      "distance": 1.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 9,
       "name": "Mother Teresa Memorial House",
-      "description": "Memorial to Agnes Gonxhe Bojaxhiu, born in Skopje in 1910"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24,
+      "description": "Memorial to Agnes Gonxhe Bojaxhiu, born in Skopje in 1910",
+      "distance": 0.5,
+      "URL": "https://www.exploringmacedonia.com"
     },
     {
       "rank": 10,
       "name": "Sveti Naum Monastery",
-      "description": "Beautiful lakeside monastery on the shores of Lake Ohrid"
+      "postcode": "6220",
+      "distanceKmFromAirport": 190,
+      "description": "Beautiful lakeside monastery on the shores of Lake Ohrid",
+      "distance": 185.0,
+      "URL": "https://www.exploringmacedonia.com"
     }
   ]
 }

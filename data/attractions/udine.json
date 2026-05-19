@@ -1,0 +1,98 @@
+{
+  "city": "Udine",
+  "country": "Italy",
+  "airportPostcode": "33010",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Piazza della Liberta",
+      "postcode": "33100",
+      "distanceKmFromAirport": 23,
+      "description": "One of Italy's most beautiful small piazzas; the Venetian Gothic Loggia del Lionello faces the Renaissance Loggia di San Giovanni beneath the Venetian Lion",
+      "distance": 0.3,
+      "URL": "https://www.turismofvg.it/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Castello di Udine",
+      "postcode": "33100",
+      "distanceKmFromAirport": 23,
+      "description": "Medieval castle on a hilltop above the city housing the Civic Museums of Udine with art from the 15th to 19th centuries and views across Friuli to the Alps",
+      "distance": 0.5,
+      "URL": "https://www.turismofvg.it/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Tiepolo Frescoes (Archiepiscopal Palace)",
+      "postcode": "33100",
+      "distanceKmFromAirport": 23,
+      "description": "Extraordinary series of frescoes painted by Giovanni Battista Tiepolo in the 1720s in the archbishops palace; among his finest early masterworks",
+      "distance": 0.3,
+      "URL": "https://www.turismofvg.it/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Udine Cathedral",
+      "postcode": "33100",
+      "distanceKmFromAirport": 23,
+      "description": "Gothic cathedral from 1236 with further Baroque additions and a remarkable series of 18th-century Tiepolo frescoes inside the oratory",
+      "distance": 0.3,
+      "URL": "https://www.turismofvg.it/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Far East Film Festival",
+      "postcode": "33100",
+      "distanceKmFromAirport": 23,
+      "description": "Europe's largest festival of popular Asian cinema held annually in April; Udine has become an international cinema hub attracting major Asian film stars",
+      "distance": 0.5,
+      "URL": "https://www.fareastfilm.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Friuli Museum of History (Villa Manin)",
+      "postcode": "33033",
+      "distanceKmFromAirport": 35,
+      "description": "Baroque villa where Napoleon signed the Treaty of Campoformio in 1797; set in magnificent grounds 25km from Udine and hosting major art exhibitions",
+      "distance": 25.0,
+      "URL": "https://www.villamanin.it/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Piazza Matteotti",
+      "postcode": "33100",
+      "distanceKmFromAirport": 23,
+      "description": "Charming elliptical square ringed with outdoor cafes and the Baroque fountain of Hercules; the daily social hub of Udine's relaxed Friulian lifestyle",
+      "distance": 0.3,
+      "URL": "https://www.turismofvg.it/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Cividale del Friuli",
+      "postcode": "33043",
+      "distanceKmFromAirport": 36,
+      "description": "UNESCO World Heritage Lombard city 18km east of Udine with the extraordinary 8th-century Tempietto Longobardo and remarkable Lombard artifacts",
+      "distance": 18.0,
+      "URL": "https://www.cividale.net/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Prosecco Hills Day Trip",
+      "postcode": "31049",
+      "distanceKmFromAirport": 60,
+      "description": "The UNESCO-listed Prosecco wine hills of Conegliano-Valdobbiadene are accessible for a day trip; tastings in ancient stone wineries amid vine-terraced slopes",
+      "distance": 55.0,
+      "URL": "https://www.collineprosecco.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Stadio Friuli (Dacia Arena)",
+      "postcode": "33100",
+      "distanceKmFromAirport": 24,
+      "description": "Modern 25,144-seat home of Udinese Calcio, who qualified for the UEFA Europa League and have a proud history in Italian football",
+      "distance": 2.5,
+      "URL": "https://www.udinese.it/en/"
+    }
+  ]
+}

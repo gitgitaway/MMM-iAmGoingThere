@@ -2,57 +2,97 @@
   "city": "Zurich",
   "country": "Switzerland",
   "airportPostcode": "8058",
-  "airportDistanceKm": 13,
+  "airportDistanceKm": 12,
   "things": [
     {
       "rank": 1,
-      "name": "Old Town (Altstadt)",
-      "description": "Medieval old town on both banks of the Limmat with winding lanes and guild houses"
+      "name": "Altstadt (Old Town)",
+      "postcode": "8001",
+      "distanceKmFromAirport": 12,
+      "description": "Charming medieval old town on both sides of the Limmat river with guildhalls, boutiques and Grossmunster",
+      "distance": 0.5,
+      "URL": "https://www.zuerich.com/en/"
     },
     {
       "rank": 2,
-      "name": "Lake Zurich",
-      "description": "Beautiful lake with boat trips, swimming spots and mountain backdrop"
+      "name": "Grossmunster Cathedral",
+      "postcode": "8001",
+      "distanceKmFromAirport": 12,
+      "description": "Zurich's iconic Romanesque twin-tower cathedral where Zwingli sparked the Swiss Reformation in 1519",
+      "distance": 0.5,
+      "URL": "https://www.grossmuenster.ch/"
     },
     {
       "rank": 3,
       "name": "Kunsthaus Zurich",
-      "description": "Switzerland's largest art museum with Giacometti, Munch and exceptional Impressionist works"
+      "postcode": "8001",
+      "distanceKmFromAirport": 13,
+      "description": "Switzerland's most important art museum with Monet, Munch, Giacometti and the largest Munch collection outside Norway",
+      "distance": 1.0,
+      "URL": "https://www.kunsthaus.ch/en/"
     },
     {
       "rank": 4,
-      "name": "Bahnhofstrasse",
-      "description": "One of the world's most exclusive shopping streets running from the main station to the lake"
+      "name": "Lake Zurich Boat Trip",
+      "postcode": "8001",
+      "distanceKmFromAirport": 13,
+      "description": "Paddle steamer cruises on Switzerland's most beautiful lake with views of the Alps on clear days",
+      "distance": 1.0,
+      "URL": "https://www.zsg.ch/en/"
     },
     {
       "rank": 5,
-      "name": "Grossmunster",
-      "description": "Romanesque-style Protestant church with stained glass by Augusto Giacometti"
+      "name": "Bahnhofstrasse Shopping",
+      "postcode": "8001",
+      "distanceKmFromAirport": 12,
+      "description": "One of the world's most exclusive shopping streets — luxury watches, chocolate and Swiss banking",
+      "distance": 0.5,
+      "URL": "https://www.zuerich.com/en/"
     },
     {
       "rank": 6,
-      "name": "Fraumunster",
-      "description": "Former abbey church with five stunning stained-glass windows by Marc Chagall"
+      "name": "Swiss National Museum",
+      "postcode": "8001",
+      "distanceKmFromAirport": 12,
+      "description": "Switzerland's largest cultural history museum in a fairy-tale castle-like building next to the main station",
+      "distance": 0.5,
+      "URL": "https://www.nationalmuseum.ch/en/"
     },
     {
       "rank": 7,
-      "name": "Swiss National Museum",
-      "description": "Comprehensive collection of Swiss cultural history in a fairy-tale castle"
+      "name": "Uetliberg Mountain",
+      "postcode": "8143",
+      "distanceKmFromAirport": 22,
+      "description": "Zurich's local mountain at 871m — S-Bahn direct, panoramic views of the Alps and lake from the tower",
+      "distance": 10.0,
+      "URL": "https://www.zuerich.com/en/visit/sport/uetliberg"
     },
     {
       "rank": 8,
-      "name": "Zurich Zoo",
-      "description": "Highly rated zoo with Masoala Rainforest hall and Lewa Savanna African exhibit"
+      "name": "Zurich West & Langstrasse",
+      "postcode": "8004",
+      "distanceKmFromAirport": 14,
+      "description": "Zurich's former industrial quarter transformed into galleries, design studios and the city's best nightlife",
+      "distance": 2.0,
+      "URL": "https://www.zuerich.com/en/"
     },
     {
       "rank": 9,
-      "name": "Lindenhugel Hill",
-      "description": "Hillside park with a landmark fountain and great views over the Limmat valley"
+      "name": "Lindt Home of Chocolate",
+      "postcode": "8802",
+      "distanceKmFromAirport": 20,
+      "description": "Stunning chocolate museum with the world's tallest chocolate fountain in Kilchberg on Lake Zurich",
+      "distance": 8.0,
+      "URL": "https://www.lindt-home-of-chocolate.com/en/"
     },
     {
       "rank": 10,
-      "name": "Rietberg Museum",
-      "description": "Outstanding collection of non-European art including African, Asian and ancient American"
+      "name": "Rhine Falls Day Trip",
+      "postcode": "8212",
+      "distanceKmFromAirport": 62,
+      "description": "Europe's largest waterfall at Schaffhausen — take a boat to the rock in the middle of the falls",
+      "distance": 50.0,
+      "URL": "https://www.rheinfall.ch/en/"
     }
   ]
 }

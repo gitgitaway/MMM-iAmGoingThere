@@ -1,0 +1,98 @@
+{
+  "city": "Trabzon",
+  "country": "Turkey",
+  "airportPostcode": "61750",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sumela Monastery",
+      "postcode": "61750",
+      "distanceKmFromAirport": 60,
+      "description": "Extraordinary Greek Orthodox monastery clinging to a sheer cliff face 1,200 metres above the Altindere Valley; founded in 386 AD and one of the most dramatic sites in Turkey",
+      "distance": 50.0,
+      "URL": "https://www.sumelamonastery.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Hagia Sophia of Trabzon",
+      "postcode": "61030",
+      "distanceKmFromAirport": 10,
+      "description": "13th-century Byzantine church built by the Empire of Trebizond; exquisite frescoes and a seaside hilltop location make this one of the finest Byzantine buildings outside Istanbul",
+      "distance": 2.0,
+      "URL": "https://www.trabzonkultur.gov.tr/"
+    },
+    {
+      "rank": 3,
+      "name": "Trabzon Museum",
+      "postcode": "61040",
+      "distanceKmFromAirport": 10,
+      "description": "Set in a beautiful early 20th-century villa; collections cover the ancient Pontic kingdom, Byzantine Empire of Trebizond, Ottoman era and ethnographic treasures of the Black Sea region",
+      "distance": 2.5,
+      "URL": "https://www.trabzonkultur.gov.tr/"
+    },
+    {
+      "rank": 4,
+      "name": "Ataturk Mansion",
+      "postcode": "61040",
+      "distanceKmFromAirport": 11,
+      "description": "Elegant early 20th-century mansion where Mustafa Kemal Ataturk stayed in 1924; beautifully restored with original furnishings and panoramic views over the Black Sea coast",
+      "distance": 3.5,
+      "URL": "https://www.trabzonkultur.gov.tr/"
+    },
+    {
+      "rank": 5,
+      "name": "Trabzon Bazaar and Covered Market",
+      "postcode": "61100",
+      "distanceKmFromAirport": 10,
+      "description": "Historic Ottoman bazaar district with the Bedesten (covered market) from the 14th century; famous for local hazelnuts, anchovies, cornbread and handwoven textiles",
+      "distance": 1.0,
+      "URL": "https://www.trabzon.bel.tr/"
+    },
+    {
+      "rank": 6,
+      "name": "Uzungol Lake",
+      "postcode": "61901",
+      "distanceKmFromAirport": 90,
+      "description": "Breathtakingly beautiful mountain lake set among forested peaks 100km from Trabzon; one of Turkey's most photographed natural landscapes with traditional wooden houses",
+      "distance": 80.0,
+      "URL": "https://www.trabzon.bel.tr/"
+    },
+    {
+      "rank": 7,
+      "name": "Trabzon Castle (Tabakhane Bridge)",
+      "postcode": "61100",
+      "distanceKmFromAirport": 10,
+      "description": "Byzantine-era city castle and ancient Tabakhane Bridge spanning a dramatic ravine; the historic heart of Trebizond with walls dating from the 4th century",
+      "distance": 1.5,
+      "URL": "https://www.trabzon.bel.tr/"
+    },
+    {
+      "rank": 8,
+      "name": "Black Sea Coast",
+      "postcode": "61100",
+      "distanceKmFromAirport": 10,
+      "description": "Trabzon's dramatic Black Sea coastline with rocky beaches, anchovy fishing boats and seafront promenade; the Black Sea is central to Trabzon's identity and cuisine",
+      "distance": 1.0,
+      "URL": "https://www.trabzon.bel.tr/"
+    },
+    {
+      "rank": 9,
+      "name": "Zeytinlik Monastery (Kizlar Manastiri)",
+      "postcode": "61100",
+      "distanceKmFromAirport": 11,
+      "description": "Early Byzantine monastery ruins above Trabzon with panoramic views; one of several ancient religious sites that testify to the city's long Christian heritage",
+      "distance": 4.0,
+      "URL": "https://www.trabzonkultur.gov.tr/"
+    },
+    {
+      "rank": 10,
+      "name": "Medical Park Stadium (Papara Park)",
+      "postcode": "61100",
+      "distanceKmFromAirport": 11,
+      "description": "Modern 40,700-seat stadium opened in 2016; home of Trabzonspor, Turkey's most successful Black Sea club with six league titles and UEFA Champions League participation",
+      "distance": 3.0,
+      "URL": "https://www.trabzonspor.com.tr/"
+    }
+  ]
+}

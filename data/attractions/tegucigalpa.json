@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Copan Ruins",
-      "description": "UNESCO World Heritage Maya city with the world's finest carved stelae and hieroglyphic staircase"
+      "postcode": "34101",
+      "distanceKmFromAirport": 210.0,
+      "description": "UNESCO World Heritage Maya city with the world's finest carved stelae and hieroglyphic staircase",
+      "distance": 240.0,
+      "URL": "https://www.copanruins.hn"
     },
     {
       "rank": 2,
       "name": "Valle de Angeles Craft Village",
-      "description": "Colonial silver-mining town 22km away with the best Honduran handicrafts"
+      "postcode": "32000",
+      "distanceKmFromAirport": 35.0,
+      "description": "Colonial silver-mining town 22km away with the best Honduran handicrafts",
+      "distance": 22.0,
+      "URL": "https://www.valledelosangeles.hn"
     },
     {
       "rank": 3,
       "name": "National Museum of Honduras",
-      "description": "Pre-Columbian artefacts from Copan and the Maya Lenca culture of Honduras"
+      "postcode": "11101",
+      "distanceKmFromAirport": 6.5,
+      "description": "Pre-Columbian artefacts from Copan and the Maya Lenca culture of Honduras",
+      "distance": 1.5,
+      "URL": "https://www.museo.hn"
     },
     {
       "rank": 4,
       "name": "La Tigra Cloud Forest",
-      "description": "Quetzal-rich cloud forest national park 22km from the capital"
+      "postcode": "11101",
+      "distanceKmFromAirport": 28.0,
+      "description": "Quetzal-rich cloud forest national park 22km from the capital",
+      "distance": 22.0,
+      "URL": "https://www.latigra.hn"
     },
     {
       "rank": 5,
       "name": "Parque La Leona",
-      "description": "Hilltop park with the best panoramic views over Tegucigalpa"
+      "postcode": "11101",
+      "distanceKmFromAirport": 7.5,
+      "description": "Hilltop park with the best panoramic views over Tegucigalpa",
+      "distance": 2.0,
+      "URL": "https://www.visithonduras.com"
     },
     {
       "rank": 6,
       "name": "Virgen de Suyapa Basilica",
-      "description": "Honduras's most important Catholic pilgrimage church with a tiny miraculous statue"
+      "postcode": "11101",
+      "distanceKmFromAirport": 8.0,
+      "description": "Honduras's most important Catholic pilgrimage church with a tiny miraculous statue",
+      "distance": 3.0,
+      "URL": "https://www.suyapa.hn"
     },
     {
       "rank": 7,
       "name": "Central Park & Cathedral",
-      "description": "Colonial heart of the city with the 18th-century baroque cathedral"
+      "postcode": "11101",
+      "distanceKmFromAirport": 6.8,
+      "description": "Colonial heart of the city with the 18th-century baroque cathedral",
+      "distance": 0.5,
+      "URL": "https://www.visithonduras.com"
     },
     {
       "rank": 8,
       "name": "Bay Islands Diving (Roatan)",
-      "description": "World-class diving on Belize Barrier Reef system 1-hour flight to Roatan"
+      "postcode": "34401",
+      "distanceKmFromAirport": 50.0,
+      "description": "World-class diving on Belize Barrier Reef system 1-hour flight to Roatan",
+      "distance": 65.0,
+      "URL": "https://www.roatan.hn"
     },
     {
       "rank": 9,
       "name": "Mercado San Isidro",
-      "description": "Honduras's largest traditional market with Lenca pottery, hammocks and street food"
+      "postcode": "11101",
+      "distanceKmFromAirport": 6.8,
+      "description": "Honduras's largest traditional market with Lenca pottery, hammocks and street food",
+      "distance": 0.8,
+      "URL": "https://www.visithonduras.com"
     },
     {
       "rank": 10,
       "name": "Baleada",
-      "description": "Honduras's national street food - flour tortilla with refried beans, cream and cheese"
+      "postcode": "11101",
+      "distanceKmFromAirport": 6.5,
+      "description": "Honduras's national street food - flour tortilla with refried beans, cream and cheese",
+      "distance": 1.0,
+      "URL": "https://www.visithonduras.com"
     }
   ]
 }

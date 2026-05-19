@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Nidaros Cathedral",
-      "description": "Scandinavia's largest medieval building and traditional coronation church of Norwegian kings"
+      "postcode": "7491",
+      "distanceKmFromAirport": 36.2,
+      "description": "Scandinavia's largest medieval building and traditional coronation church of Norwegian kings",
+      "distance": 0.0,
+      "URL": "https://www.nidarosdomen.no"
     },
     {
       "rank": 2,
       "name": "Nidelva Riverside",
-      "description": "Colourful wooden warehouses on stilts along the river, the city's most photogenic scene"
+      "postcode": "7010",
+      "distanceKmFromAirport": 35.8,
+      "description": "Colourful wooden warehouses on stilts along the river, the city's most photogenic scene",
+      "distance": 0.4,
+      "URL": "https://www.visittrondheim.no"
     },
     {
       "rank": 3,
       "name": "Archbishop's Palace Museum",
-      "description": "Norway's oldest secular building, home to the original medieval sculptures from the cathedral"
+      "postcode": "7491",
+      "distanceKmFromAirport": 36.2,
+      "description": "Norway's oldest secular building, home to the original medieval sculptures from the cathedral",
+      "distance": 0.3,
+      "URL": "https://www.erkebispegarden.no"
     },
     {
       "rank": 4,
       "name": "Rockheim",
-      "description": "National museum for popular music charting Norwegian rock from the 1950s to today"
+      "postcode": "7010",
+      "distanceKmFromAirport": 35.6,
+      "description": "National museum for popular music charting Norwegian rock from the 1950s to today",
+      "distance": 0.8,
+      "URL": "https://www.rockheim.no"
     },
     {
       "rank": 5,
       "name": "Stiftsgarden",
-      "description": "Scandinavia's largest wooden palace and official royal residence in Trondheim"
+      "postcode": "7013",
+      "distanceKmFromAirport": 35.4,
+      "description": "Scandinavia's largest wooden palace and official royal residence in Trondheim",
+      "distance": 0.9,
+      "URL": "https://www.stiftsgarden.no"
     },
     {
       "rank": 6,
       "name": "Munkholmen Island",
-      "description": "Island fortress and former Benedictine monastery in the fjord, accessible by boat in summer"
+      "postcode": "7010",
+      "distanceKmFromAirport": 36.0,
+      "description": "Island fortress and former Benedictine monastery in the fjord, accessible by boat in summer",
+      "distance": 2.5,
+      "URL": "https://www.munkholmen.no"
     },
     {
       "rank": 7,
       "name": "Kristiansten Fortress",
-      "description": "17th-century hilltop fortress with cannon-lined ramparts and city views"
+      "postcode": "7030",
+      "distanceKmFromAirport": 34.0,
+      "description": "17th-century hilltop fortress with cannon-lined ramparts and city views",
+      "distance": 3.0,
+      "URL": "https://www.kristiansten.no"
     },
     {
       "rank": 8,
       "name": "Trondheim Art Museum",
-      "description": "Norway's oldest art museum outside Oslo with Norwegian and international paintings"
+      "postcode": "7010",
+      "distanceKmFromAirport": 35.2,
+      "description": "Norway's oldest art museum outside Oslo with Norwegian and international paintings",
+      "distance": 1.2,
+      "URL": "https://www.trondheimkunstmuseum.no"
     },
     {
       "rank": 9,
       "name": "NTNU University Museum",
-      "description": "Natural history collections with a remarkable Greenlandic section and Viking artefacts"
+      "postcode": "7012",
+      "distanceKmFromAirport": 35.5,
+      "description": "Natural history collections with a remarkable Greenlandic section and Viking artefacts",
+      "distance": 1.8,
+      "URL": "https://www.ntnu.museum"
     },
     {
       "rank": 10,
       "name": "Ravnkloa Fish Market",
-      "description": "Lively harbour fish market and gateway to ferry trips around the Trondheim fjord"
+      "postcode": "7010",
+      "distanceKmFromAirport": 35.6,
+      "description": "Lively harbour fish market and gateway to ferry trips around the Trondheim fjord",
+      "distance": 1.0,
+      "URL": "https://www.ravnkloa.no"
     }
   ]
 }

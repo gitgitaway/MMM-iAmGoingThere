@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Sydney Opera House",
-      "description": "UNESCO World Heritage iconic sail-shaped performing arts centre on Bennelong Point"
+      "postcode": "NSW 2000",
+      "distanceKmFromAirport": 10,
+      "description": "UNESCO World Heritage iconic sail-shaped performing arts centre on Bennelong Point",
+      "distance": 1.2,
+      "URL": "https://www.sydneyoperahouse.com/"
     },
     {
       "rank": 2,
       "name": "Sydney Harbour Bridge",
-      "description": "The 'Coathanger' - climb to the 134m summit for panoramic harbour views"
+      "postcode": "NSW 2060",
+      "distanceKmFromAirport": 11,
+      "description": "The 'Coathanger' - climb to the 134m summit for panoramic harbour views",
+      "distance": 2.0,
+      "URL": "https://www.bridgeclimb.com/"
     },
     {
       "rank": 3,
       "name": "Bondi Beach",
-      "description": "Australia's most famous beach with surf culture, the coastal walk and Icebergs pool"
+      "postcode": "NSW 2026",
+      "distanceKmFromAirport": 17,
+      "description": "Australia's most famous beach with surf culture, the coastal walk and Icebergs pool",
+      "distance": 8.0,
+      "URL": "https://www.waverley.nsw.gov.au/recreation/parks_and_beaches/bondi_beach"
     },
     {
       "rank": 4,
       "name": "Taronga Zoo",
-      "description": "World-class zoo on the harbour foreshore with koalas, kangaroos and harbour views"
+      "postcode": "NSW 2088",
+      "distanceKmFromAirport": 14,
+      "description": "World-class zoo on the harbour foreshore with koalas, kangaroos and harbour views",
+      "distance": 5.0,
+      "URL": "https://taronga.org.au/taronga-zoo-sydney"
     },
     {
       "rank": 5,
       "name": "The Rocks",
-      "description": "Sydney's historic sandstone precinct with colonial buildings, markets and pubs"
+      "postcode": "NSW 2000",
+      "distanceKmFromAirport": 10,
+      "description": "Sydney's historic sandstone precinct with colonial buildings, markets and pubs",
+      "distance": 1.5,
+      "URL": "https://www.therocks.com/"
     },
     {
       "rank": 6,
       "name": "Royal Botanic Garden",
-      "description": "26-hectare garden on the harbour edge with free entry and flying fox colony"
+      "postcode": "NSW 2000",
+      "distanceKmFromAirport": 10,
+      "description": "26-hectare garden on the harbour edge with free entry and flying fox colony",
+      "distance": 1.5,
+      "URL": "https://www.rbgsyd.nsw.gov.au/"
     },
     {
       "rank": 7,
       "name": "Manly Beach & Ferry",
-      "description": "30-minute scenic ferry across the harbour to this surfing beach and oceanarium"
+      "postcode": "NSW 2095",
+      "distanceKmFromAirport": 24,
+      "description": "30-minute scenic ferry across the harbour to this surfing beach and oceanarium",
+      "distance": 15.0,
+      "URL": "https://www.sydney.com/destinations/sydney/sydney-north/manly"
     },
     {
       "rank": 8,
       "name": "Blue Mountains National Park",
-      "description": "UNESCO World Heritage sandstone escarpment with the Three Sisters rock formation"
+      "postcode": "NSW 2787",
+      "distanceKmFromAirport": 89,
+      "description": "UNESCO World Heritage sandstone escarpment with the Three Sisters rock formation",
+      "distance": 80.0,
+      "URL": "https://www.bluemountainscitytourism.com.au/"
     },
     {
       "rank": 9,
       "name": "Darling Harbour",
-      "description": "Entertainment precinct with Sea Life Sydney Aquarium, Wild Life Zoo and museums"
+      "postcode": "NSW 2000",
+      "distanceKmFromAirport": 10,
+      "description": "Entertainment precinct with Sea Life Sydney Aquarium, Wild Life Zoo and museums",
+      "distance": 1.0,
+      "URL": "https://www.darlingharbour.com/"
     },
     {
       "rank": 10,
       "name": "Art Gallery of NSW",
-      "description": "Australia's oldest and most prestigious art museum in a grand Victorian building"
+      "postcode": "NSW 2000",
+      "distanceKmFromAirport": 10,
+      "description": "Australia's oldest and most prestigious art museum in a grand Victorian building",
+      "distance": 1.4,
+      "URL": "https://www.artgallery.nsw.gov.au/"
     }
   ]
 }

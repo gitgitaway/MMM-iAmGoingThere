@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Basilica del Pilar",
-      "description": "Magnificent baroque basilica on the Ebro river, one of Spain's most visited pilgrimage sites"
+      "postcode": "50001",
+      "distanceKmFromAirport": 10.3,
+      "description": "Magnificent baroque basilica on the Ebro river, one of Spain's most visited pilgrimage sites",
+      "distance": 0.5,
+      "URL": "https://www.basilicadelpilar.es"
     },
     {
       "rank": 2,
       "name": "Aljaferia Palace",
-      "description": "Stunning 11th-century Moorish palace, the finest outside Andalusia"
+      "postcode": "50004",
+      "distanceKmFromAirport": 11.5,
+      "description": "Stunning 11th-century Moorish palace, the finest outside Andalusia",
+      "distance": 1.8,
+      "URL": "https://www.aljaferia.es"
     },
     {
       "rank": 3,
       "name": "La Seo Cathedral",
-      "description": "Gothic-Mudejar cathedral with extraordinary tapestry museum"
+      "postcode": "50001",
+      "distanceKmFromAirport": 10.2,
+      "description": "Gothic-Mudejar cathedral with extraordinary tapestry museum",
+      "distance": 0.3,
+      "URL": "https://www.catedralseo.org"
     },
     {
       "rank": 4,
       "name": "El Tubo",
-      "description": "Labyrinth of narrow streets in the old town, heart of Zaragoza's tapas culture"
+      "postcode": "50001",
+      "distanceKmFromAirport": 10.6,
+      "description": "Labyrinth of narrow streets in the old town, heart of Zaragoza's tapas culture",
+      "distance": 0.8,
+      "URL": "https://www.zaragoza.es"
     },
     {
       "rank": 5,
       "name": "Goya Museum",
-      "description": "Museum dedicated to Francisco de Goya, born nearby in Fuendetodos"
+      "postcode": "50018",
+      "distanceKmFromAirport": 12.8,
+      "description": "Museum dedicated to Francisco de Goya, born nearby in Fuendetodos",
+      "distance": 3.2,
+      "URL": "https://www.museogoya.ibercaja.es"
     },
     {
       "rank": 6,
       "name": "Roman Ruins of Caesar Augusta",
-      "description": "Network of underground museums revealing the Roman city beneath Zaragoza"
+      "postcode": "50001",
+      "distanceKmFromAirport": 10.8,
+      "description": "Network of underground museums revealing the Roman city beneath Zaragoza",
+      "distance": 1.0,
+      "URL": "https://www.cesaraugusta.es"
     },
     {
       "rank": 7,
       "name": "Parque Grande Jose Antonio Labordeta",
-      "description": "Vast city park with rose garden, fountains and sports facilities"
+      "postcode": "50008",
+      "distanceKmFromAirport": 11.2,
+      "description": "Vast city park with rose garden, fountains and sports facilities",
+      "distance": 1.5,
+      "URL": "https://www.turismodezaragoza.es"
     },
     {
       "rank": 8,
       "name": "Mercado Central",
-      "description": "Modernist covered market with local Aragonese produce"
+      "postcode": "50003",
+      "distanceKmFromAirport": 10.4,
+      "description": "Modernist covered market with local Aragonese produce",
+      "distance": 0.6,
+      "URL": "https://www.zaragoza.es"
     },
     {
       "rank": 9,
       "name": "Stone Bridge (Puente de Piedra)",
-      "description": "Historic seven-arch stone bridge over the Ebro dating to the 15th century"
+      "postcode": "50001",
+      "distanceKmFromAirport": 10.1,
+      "description": "Historic seven-arch stone bridge over the Ebro dating to the 15th century",
+      "distance": 0.2,
+      "URL": "https://www.catedraldezaragoza.es"
     },
     {
       "rank": 10,
       "name": "Pablo Serrano Museum",
-      "description": "Collection of Aragonese sculptor Pablo Serrano with rotating exhibitions"
+      "postcode": "50018",
+      "distanceKmFromAirport": 13.2,
+      "description": "Collection of Aragonese sculptor Pablo Serrano with rotating exhibitions",
+      "distance": 3.5,
+      "URL": "https://www.muselopabloserrano.es"
     }
   ]
 }

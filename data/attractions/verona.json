@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Verona Arena",
-      "description": "Perfectly preserved Roman amphitheatre hosting world-class summer opera performances"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "Perfectly preserved Roman amphitheatre hosting world-class summer opera performances",
+      "distance": 0.3,
+      "URL": "https://www.arena.it"
     },
     {
       "rank": 2,
       "name": "Juliet's House (Casa di Giulietta)",
-      "description": "Medieval courtyard with balcony and bronze statue beloved by Romeo and Juliet fans"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "Medieval courtyard with balcony and bronze statue beloved by Romeo and Juliet fans",
+      "distance": 0.4,
+      "URL": "https://www.julietclub.com"
     },
     {
       "rank": 3,
       "name": "Piazza delle Erbe",
-      "description": "Colourful daily market in the former Roman forum with magnificent Baroque fountain"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "Colourful daily market in the former Roman forum with magnificent Baroque fountain",
+      "distance": 0.1,
+      "URL": "https://www.tourism.verona.it"
     },
     {
       "rank": 4,
       "name": "Castelvecchio",
-      "description": "Scaligeri castle converted to an outstanding art museum by Carlo Scarpa"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "Scaligeri castle converted to an outstanding art museum by Carlo Scarpa",
+      "distance": 0.7,
+      "URL": "https://www.castelvecchiomuseo.comune.verona.it"
     },
     {
       "rank": 5,
       "name": "Basilica di San Zeno",
-      "description": "Finest Romanesque church in Northern Italy with Mantegna's remarkable altarpiece"
+      "postcode": "37123",
+      "distanceKmFromAirport": 15,
+      "description": "Finest Romanesque church in Northern Italy with Mantegna's remarkable altarpiece",
+      "distance": 1.5,
+      "URL": "https://www.basilicasanzeno.it"
     },
     {
       "rank": 6,
       "name": "Roman Theatre",
-      "description": "1st-century BC theatre on the hill across the Adige with Archaeological Museum"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "1st-century BC theatre on the hill across the Adige with Archaeological Museum",
+      "distance": 0.8,
+      "URL": "https://www.tourism.verona.it"
     },
     {
       "rank": 7,
       "name": "Ponte Scaligero",
-      "description": "Striking 14th-century crenellated bridge with three arches over the Adige"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "Striking 14th-century crenellated bridge with three arches over the Adige",
+      "distance": 0.7,
+      "URL": "https://www.tourism.verona.it"
     },
     {
       "rank": 8,
       "name": "Torre dei Lamberti",
-      "description": "12th-century tower offering the best panoramic views over the city"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "12th-century tower offering the best panoramic views over the city",
+      "distance": 0.2,
+      "URL": "https://www.torredeilamberti.it"
     },
     {
       "rank": 9,
       "name": "Giardino Giusti",
-      "description": "Renaissance garden with cypress trees, labyrinth and views from the belvedere"
+      "postcode": "37129",
+      "distanceKmFromAirport": 14,
+      "description": "Renaissance garden with cypress trees, labyrinth and views from the belvedere",
+      "distance": 0.8,
+      "URL": "https://www.giardinogiusti.com"
     },
     {
       "rank": 10,
       "name": "Duomo di Verona",
-      "description": "Cathedral with a Romanesque porch and Titian's Assumption of the Virgin"
+      "postcode": "37121",
+      "distanceKmFromAirport": 14,
+      "description": "Cathedral with a Romanesque porch and Titian's Assumption of the Virgin",
+      "distance": 0.5,
+      "URL": "https://www.tourism.verona.it"
     }
   ]
 }

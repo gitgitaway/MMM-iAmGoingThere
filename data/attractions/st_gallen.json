@@ -1,0 +1,98 @@
+{
+  "city": "St. Gallen",
+  "country": "Switzerland",
+  "airportPostcode": "9015",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Abbey of Saint Gall (UNESCO)",
+      "postcode": "9004",
+      "distanceKmFromAirport": 7,
+      "description": "UNESCO World Heritage Carolingian monastery complex with one of Europe's greatest baroque cathedral churches, founded in the 7th century",
+      "distance": 0.8,
+      "URL": "https://www.stiftsbezirk.ch/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Abbey Library (Stiftsbibliothek)",
+      "postcode": "9004",
+      "distanceKmFromAirport": 7,
+      "description": "UNESCO-listed baroque library of 1767 housing over 170,000 volumes including 2,100 precious medieval manuscripts; one of the world's oldest",
+      "distance": 0.8,
+      "URL": "https://www.stiftsbibliothek.ch/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Old Town (Altstadt)",
+      "postcode": "9000",
+      "distanceKmFromAirport": 6,
+      "description": "Charming pedestrianised old town with 111 richly decorated oriel windows projecting from medieval merchant guild houses",
+      "distance": 0.5,
+      "URL": "https://www.st.gallen-bodensee.ch/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Kunst Halle Sankt Gallen",
+      "postcode": "9000",
+      "distanceKmFromAirport": 6,
+      "description": "Leading contemporary art institution presenting innovative exhibitions in a converted textile hall in the heart of the old town",
+      "distance": 0.5,
+      "URL": "https://k9000.ch/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Naturmuseum St. Gallen",
+      "postcode": "9000",
+      "distanceKmFromAirport": 6,
+      "description": "Natural history museum with extensive geological, zoological and mineralogical collections representing eastern Switzerland's rich landscapes",
+      "distance": 0.8,
+      "URL": "https://www.naturmuseumsg.ch/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Textile Museum",
+      "postcode": "9000",
+      "distanceKmFromAirport": 6,
+      "description": "Museum celebrating St. Gallen's world-famous embroidery and lace tradition, displayed in period rooms with intricate historic pieces",
+      "distance": 0.6,
+      "URL": "https://www.textilmuseum.ch/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Stadtpark",
+      "postcode": "9000",
+      "distanceKmFromAirport": 6,
+      "description": "Elegant Victorian city park with the Historical Museum, greenhouse and bandstand; the green heart of St. Gallen for weekend relaxation",
+      "distance": 1.0,
+      "URL": "https://www.st.gallen-bodensee.ch/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Peter and Paul Wildlife Park",
+      "postcode": "9016",
+      "distanceKmFromAirport": 8,
+      "description": "Free hilltop wildlife park above the city where Alpine animals including ibex, red deer and chamois roam in large natural enclosures",
+      "distance": 2.5,
+      "URL": "https://www.stadt.sg.ch/home/schule-bildung/freizeit-sport/wildpark-peter-und-paul.html"
+    },
+    {
+      "rank": 9,
+      "name": "Drei Weieren",
+      "postcode": "9010",
+      "distanceKmFromAirport": 8,
+      "description": "Three scenic ponds on the hillside above St. Gallen offering swimming, walking trails and panoramic views to Lake Constance and the Alps",
+      "distance": 2.0,
+      "URL": "https://www.st.gallen-bodensee.ch/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Kybunpark Stadium",
+      "postcode": "9016",
+      "distanceKmFromAirport": 8,
+      "description": "Home of FC St. Gallen, Switzerland's oldest football club founded in 1879, with a 20,000-capacity modern arena",
+      "distance": 3.0,
+      "URL": "https://www.fcsg.ch/en/"
+    }
+  ]
+}

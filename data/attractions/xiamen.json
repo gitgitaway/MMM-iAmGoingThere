@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Gulangyu Island",
-      "description": "UNESCO World Heritage car-free island with European and Chinese architecture and piano culture"
+      "postcode": "361005",
+      "distanceKmFromAirport": 17.5,
+      "description": "UNESCO World Heritage car-free island with European and Chinese architecture and piano culture",
+      "distance": 3.2,
+      "URL": "https://www.gulangyu.com.cn"
     },
     {
       "rank": 2,
       "name": "Nanputuo Temple",
-      "description": "Tang dynasty Buddhist temple on the mountain with a vegetarian restaurant"
+      "postcode": "361012",
+      "distanceKmFromAirport": 15.8,
+      "description": "Tang dynasty Buddhist temple on the mountain with a vegetarian restaurant",
+      "distance": 4.1,
+      "URL": "https://www.nanputuo.com"
     },
     {
       "rank": 3,
       "name": "Piano Museum on Gulangyu",
-      "description": "Collection of 100 pianos from around the world in a colonial villa"
+      "postcode": "361005",
+      "distanceKmFromAirport": 18.0,
+      "description": "Collection of 100 pianos from around the world in a colonial villa",
+      "distance": 3.5,
+      "URL": "https://www.gulangyu.com.cn"
     },
     {
       "rank": 4,
       "name": "Zhongshan Road Pedestrian Street",
-      "description": "Colonial-era covered arcade shopping street - China's finest 1920s commercial architecture"
+      "postcode": "361003",
+      "distanceKmFromAirport": 15.5,
+      "description": "Colonial-era covered arcade shopping street - China's finest 1920s commercial architecture",
+      "distance": 1.8,
+      "URL": "https://www.xiamentourism.com"
     },
     {
       "rank": 5,
       "name": "Xiamen University Campus",
-      "description": "One of China's most beautiful campuses with a colonial-influenced architecture"
+      "postcode": "361005",
+      "distanceKmFromAirport": 19.8,
+      "description": "One of China's most beautiful campuses with a colonial-influenced architecture",
+      "distance": 6.2,
+      "URL": "https://www.xmu.edu.cn"
     },
     {
       "rank": 6,
       "name": "Wanshi Botanical Garden",
-      "description": "Hilltop botanical garden with bamboo forest, exotic plants and lake views"
+      "postcode": "361009",
+      "distanceKmFromAirport": 14.2,
+      "description": "Hilltop botanical garden with bamboo forest, exotic plants and lake views",
+      "distance": 7.5,
+      "URL": "https://wanshi.xm.gov.cn"
     },
     {
       "rank": 7,
       "name": "Jimei School Village (Turtle Garden)",
-      "description": "Educational complex founded by overseas Chinese with a fascinating museum"
+      "postcode": "361021",
+      "distanceKmFromAirport": 22.5,
+      "description": "Educational complex founded by overseas Chinese with a fascinating museum",
+      "distance": 12.3,
+      "URL": "https://www.jimei.com.cn"
     },
     {
       "rank": 8,
       "name": "Quanzhou Day Trip",
-      "description": "UNESCO World Heritage Silk Road port with a mosque built by Arab merchants in 1009"
+      "postcode": "362000",
+      "distanceKmFromAirport": 58.2,
+      "description": "UNESCO World Heritage Silk Road port with a mosque built by Arab merchants in 1009",
+      "distance": 45.0,
+      "URL": "https://www.quanzhou.gov.cn"
     },
     {
       "rank": 9,
       "name": "Hulishan Fortress (Fort)",
-      "description": "1891 coastal fortress with the world's largest surviving coastal cannon"
+      "postcode": "361021",
+      "distanceKmFromAirport": 19.5,
+      "description": "1891 coastal fortress with the world's largest surviving coastal cannon",
+      "distance": 8.2,
+      "URL": "https://wfmuseum.xm.gov.cn"
     },
     {
       "rank": 10,
       "name": "Shacha Noodles",
-      "description": "Xiamen's unique noodle dish with satay-style seafood broth - local breakfast staple"
+      "postcode": "361003",
+      "distanceKmFromAirport": 15.8,
+      "description": "Xiamen's unique noodle dish with satay-style seafood broth - local breakfast staple",
+      "distance": 1.5,
+      "URL": "https://www.xiamentourism.com"
     }
   ]
 }

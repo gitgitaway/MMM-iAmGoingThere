@@ -2,57 +2,97 @@
   "city": "Stuttgart",
   "country": "Germany",
   "airportPostcode": "70629",
-  "airportDistanceKm": 14,
+  "airportDistanceKm": 15,
   "things": [
     {
       "rank": 1,
       "name": "Mercedes-Benz Museum",
-      "description": "Nine floors of automotive history in a stunning double-helix building"
+      "postcode": "70372",
+      "distanceKmFromAirport": 20,
+      "description": "Iconic nine-level museum tracing 130 years of automobile history with over 160 vehicles",
+      "distance": 4.5,
+      "URL": "https://www.mercedes-benz.com/en/mercedes-benz/classic/museum/"
     },
     {
       "rank": 2,
       "name": "Porsche Museum",
-      "description": "Sleek white museum showcasing the full history of the iconic sports car brand"
+      "postcode": "70435",
+      "distanceKmFromAirport": 24,
+      "description": "Floating white museum in Zuffenhausen with 80 legendary Porsche models and a factory tour",
+      "distance": 9.0,
+      "URL": "https://www.porsche.com/museum/"
     },
     {
       "rank": 3,
-      "name": "Staatsgalerie Stuttgart",
-      "description": "Outstanding art museum with James Stirling's postmodern extension and Dix masterpieces"
+      "name": "Stuttgart State Gallery (Staatsgalerie)",
+      "postcode": "70174",
+      "distanceKmFromAirport": 16,
+      "description": "One of Germany's most important art museums with Old Masters and a stellar Postmodern building",
+      "distance": 1.0,
+      "URL": "https://www.staatsgalerie.de/en/"
     },
     {
       "rank": 4,
       "name": "Wilhelma Zoo & Botanical Garden",
-      "description": "Germany's only combined zoological and botanical garden in Moorish Revival buildings"
+      "postcode": "70376",
+      "distanceKmFromAirport": 19,
+      "description": "Europe's only combined zoological and botanical garden in a Moorish 19th-century royal park",
+      "distance": 4.0,
+      "URL": "https://www.wilhelma.de/en/"
     },
     {
       "rank": 5,
-      "name": "Schlossplatz",
-      "description": "Central square with the New Palace, the Jubilee Column and surrounding green space"
+      "name": "Killesberg Park & Tower",
+      "postcode": "70192",
+      "distanceKmFromAirport": 18,
+      "description": "Beautifully landscaped park with a 40-metre observation tower and miniature railway",
+      "distance": 3.5,
+      "URL": "https://www.stuttgart.de/en/"
     },
     {
       "rank": 6,
-      "name": "Stuttgart Weissenhof Estate",
-      "description": "UNESCO World Heritage Modernist housing exhibition of 1927 by Mies van der Rohe and others"
+      "name": "Stuttgart Market Hall (Markthalle)",
+      "postcode": "70173",
+      "distanceKmFromAirport": 16,
+      "description": "Magnificent 1914 Art Nouveau hall packed with exotic produce, fine cheeses and Swabian delicacies",
+      "distance": 0.5,
+      "URL": "https://www.markthalle-stuttgart.de/"
     },
     {
       "rank": 7,
-      "name": "Fernsehturm Stuttgart",
-      "description": "World's first television tower in concrete, built 1956, with observation deck"
+      "name": "Schlossplatz & New Palace",
+      "postcode": "70173",
+      "distanceKmFromAirport": 15,
+      "description": "Stuttgart's magnificent baroque central square with the Baroque New Palace and fountains",
+      "distance": 0.3,
+      "URL": "https://www.stuttgart.de/en/"
     },
     {
       "rank": 8,
-      "name": "Altes Schloss",
-      "description": "Renaissance palace in the city centre housing the Wurttembergisches Landesmuseum"
+      "name": "Weissenhof Estate Museum",
+      "postcode": "70191",
+      "distanceKmFromAirport": 18,
+      "description": "UNESCO World Heritage 1927 Bauhaus exhibition estate with Mies van der Rohe and Le Corbusier villas",
+      "distance": 3.0,
+      "URL": "https://www.weissenhofmuseum.de/en/"
     },
     {
       "rank": 9,
-      "name": "Stuttgart Vineyards",
-      "description": "Terraced vineyard hillsides within the city limits producing excellent Trollinger wine"
+      "name": "Stuttgart Wine Region & Uhlbach",
+      "postcode": "70329",
+      "distanceKmFromAirport": 22,
+      "description": "Stuttgart is Germany's largest wine-producing city — visit terraced vineyards and wine estates",
+      "distance": 7.0,
+      "URL": "https://www.weinbauverband-wuerttemberg.de/"
     },
     {
       "rank": 10,
-      "name": "Stuttgarter Weindorf",
-      "description": "Famous annual wine festival with hundreds of Wurttemberg wines in the pedestrian zone"
+      "name": "TV Tower (Fernsehturm)",
+      "postcode": "70569",
+      "distanceKmFromAirport": 21,
+      "description": "The world's first reinforced concrete TV tower (1956) with a viewing platform over the Stuttgart valley",
+      "distance": 6.0,
+      "URL": "https://www.stuttgarter-fernsehturm.de/en/"
     }
   ]
 }

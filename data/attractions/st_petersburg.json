@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "The Hermitage Museum",
-      "description": "One of the world's greatest art museums in the Winter Palace with 3 million works across 1,000 rooms"
+      "postcode": "190000",
+      "distanceKmFromAirport": 24.0,
+      "description": "One of the world's greatest art museums in the Winter Palace with 3 million works across 1,000 rooms",
+      "distance": 0.5,
+      "URL": "https://www.hermitagemuseum.org"
     },
     {
       "rank": 2,
       "name": "Peterhof Palace & Grand Cascade",
-      "description": "The 'Russian Versailles' with 150 fountains and golden statues in gardens on the Gulf of Finland"
+      "postcode": "198904",
+      "distanceKmFromAirport": 31.0,
+      "description": "The 'Russian Versailles' with 150 fountains and golden statues in gardens on the Gulf of Finland",
+      "distance": 29.0,
+      "URL": "https://www.peterhofmuseum.ru"
     },
     {
       "rank": 3,
       "name": "Church of the Saviour on Spilled Blood",
-      "description": "Stunning 1883 Russian Revival church built on the spot where Tsar Alexander II was assassinated"
+      "postcode": "191186",
+      "distanceKmFromAirport": 24.5,
+      "description": "Stunning 1883 Russian Revival church built on the spot where Tsar Alexander II was assassinated",
+      "distance": 1.5,
+      "URL": "https://www.savioronblood.ru"
     },
     {
       "rank": 4,
       "name": "White Nights",
-      "description": "St Petersburg's magical midsummer phenomenon when the sun barely sets and bridges open at night"
+      "postcode": "191186",
+      "distanceKmFromAirport": 24.5,
+      "description": "St Petersburg's magical midsummer phenomenon when the sun barely sets and bridges open at night",
+      "distance": 1.5,
+      "URL": "https://www.spbmuseum.ru"
     },
     {
       "rank": 5,
       "name": "Peter and Paul Fortress",
-      "description": "1703 fortress housing the Cathedral where Russian tsars from Peter the Great are buried"
+      "postcode": "197046",
+      "distanceKmFromAirport": 24.0,
+      "description": "1703 fortress housing the Cathedral where Russian tsars from Peter the Great are buried",
+      "distance": 0.5,
+      "URL": "https://www.peterpaulffortress.ru"
     },
     {
       "rank": 6,
       "name": "Mariinsky Theatre",
-      "description": "Russia's most celebrated opera and ballet theatre - home of Nureyev, Pavlova and Baryshnikov"
+      "postcode": "190000",
+      "distanceKmFromAirport": 24.0,
+      "description": "Russia's most celebrated opera and ballet theatre - home of Nureyev, Pavlova and Baryshnikov",
+      "distance": 1.0,
+      "URL": "https://www.mariinsky.ru"
     },
     {
       "rank": 7,
       "name": "Catherine Palace & Amber Room",
-      "description": "Baroque palace at Tsarskoe Selo with the world-famous Amber Room and formal gardens"
+      "postcode": "196601",
+      "distanceKmFromAirport": 26.0,
+      "description": "Baroque palace at Tsarskoe Selo with the world-famous Amber Room and formal gardens",
+      "distance": 24.0,
+      "URL": "https://www.catherinepalace.org"
     },
     {
       "rank": 8,
       "name": "Nevsky Prospekt",
-      "description": "St Petersburg's grand main avenue with the Kazan Cathedral, Grand Hotel Europe and Palkin restaurant"
+      "postcode": "191186",
+      "distanceKmFromAirport": 24.0,
+      "description": "St Petersburg's grand main avenue with the Kazan Cathedral, Grand Hotel Europe and Palkin restaurant",
+      "distance": 1.5,
+      "URL": "https://www.nevskiyprospekt.ru"
     },
     {
       "rank": 9,
       "name": "Russian Museum",
-      "description": "World's largest collection of Russian art in the Mikhailovsky Palace"
+      "postcode": "191046",
+      "distanceKmFromAirport": 24.0,
+      "description": "World's largest collection of Russian art in the Mikhailovsky Palace",
+      "distance": 1.0,
+      "URL": "https://www.rusmuseum.ru"
     },
     {
       "rank": 10,
       "name": "Vasilyevsky Island",
-      "description": "Historic island district with the Rostral Columns, Exchange and the charming 18th Line cafes"
+      "postcode": "199034",
+      "distanceKmFromAirport": 24.5,
+      "description": "Historic island district with the Rostral Columns, Exchange and the charming 18th Line cafes",
+      "distance": 2.0,
+      "URL": "https://www.vasilevskiyisland.ru"
     }
   ]
 }

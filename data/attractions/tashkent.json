@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Khast Imam Complex (Hazrati Imam)",
-      "description": "Central Asia's most important Islamic complex with the world's oldest Quran"
+      "postcode": "100003",
+      "distanceKmFromAirport": 14.0,
+      "description": "Central Asia's most important Islamic complex with the world's oldest Quran",
+      "distance": 1.5,
+      "URL": "https://www.khastimam.uz"
     },
     {
       "rank": 2,
       "name": "Chorsu Bazaar",
-      "description": "Ancient domed market at the heart of the old town - one of Central Asia's great bazaars"
+      "postcode": "100003",
+      "distanceKmFromAirport": 14.5,
+      "description": "Ancient domed market at the heart of the old town - one of Central Asia's great bazaars",
+      "distance": 1.8,
+      "URL": "https://www.chorsurbazaar.uz"
     },
     {
       "rank": 3,
       "name": "Independence Square (Mustaqillik Maydoni)",
-      "description": "Soviet-era Friendship of Nations Square transformed into Uzbekistan's independence monument"
+      "postcode": "100029",
+      "distanceKmFromAirport": 13.5,
+      "description": "Soviet-era Friendship of Nations Square transformed into Uzbekistan's independence monument",
+      "distance": 1.0,
+      "URL": "https://www.uzbekistantourism.uz"
     },
     {
       "rank": 4,
       "name": "Museum of Applied Arts",
-      "description": "19th-century diplomat's house with exceptional collection of Uzbek crafts and decorative arts"
+      "postcode": "100003",
+      "distanceKmFromAirport": 14.0,
+      "description": "19th-century diplomat's house with exceptional collection of Uzbek crafts and decorative arts",
+      "distance": 1.5,
+      "URL": "https://www.artmuseum.uz"
     },
     {
       "rank": 5,
       "name": "Amir Timur Museum",
-      "description": "Blue-domed museum dedicated to Tamerlane with exhibits on the Timurid Empire"
+      "postcode": "100029",
+      "distanceKmFromAirport": 13.8,
+      "description": "Blue-domed museum dedicated to Tamerlane with exhibits on the Timurid Empire",
+      "distance": 1.2,
+      "URL": "https://www.amirtimurmuseum.uz"
     },
     {
       "rank": 6,
       "name": "Tashkent Metro",
-      "description": "Soviet-era metro with ornate stations decorated with marble, chandeliers and mosaics"
+      "postcode": "100001",
+      "distanceKmFromAirport": 13.2,
+      "description": "Soviet-era metro with ornate stations decorated with marble, chandeliers and mosaics",
+      "distance": 0.5,
+      "URL": "https://www.tashkentmetro.uz"
     },
     {
       "rank": 7,
       "name": "Old City (Eski Shahar)",
-      "description": "Historic quarter with narrow streets, mosques and the Juma (Friday) Mosque"
+      "postcode": "100003",
+      "distanceKmFromAirport": 14.2,
+      "description": "Historic quarter with narrow streets, mosques and the Juma (Friday) Mosque",
+      "distance": 1.8,
+      "URL": "https://www.uzbekistantourism.uz"
     },
     {
       "rank": 8,
       "name": "Samarkand Day Trip",
-      "description": "High-speed train to Samarkand - the ancient Silk Road city with Timur's monuments"
+      "postcode": "100001",
+      "distanceKmFromAirport": 13.0,
+      "description": "High-speed train to Samarkand - the ancient Silk Road city with Timur's monuments",
+      "distance": 0.3,
+      "URL": "https://www.samarkand.uz"
     },
     {
       "rank": 9,
       "name": "Alisher Navoi Opera Theatre",
-      "description": "Stunning 1947 opera house blending Uzbek architectural styles with Soviet classicism"
+      "postcode": "100029",
+      "distanceKmFromAirport": 13.5,
+      "description": "Stunning 1947 opera house blending Uzbek architectural styles with Soviet classicism",
+      "distance": 1.0,
+      "URL": "https://www.opera.uz"
     },
     {
       "rank": 10,
       "name": "Tashkentland Amusement Park",
-      "description": "Popular family entertainment park in the heart of the city"
+      "postcode": "100199",
+      "distanceKmFromAirport": 13.8,
+      "description": "Popular family entertainment park in the heart of the city",
+      "distance": 2.5,
+      "URL": "https://www.tashkentland.uz"
     }
   ]
 }

@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Krasnaya Polyana Ski Resort",
-      "description": "World-class mountain ski resort built for the 2014 Winter Olympics in the Caucasus Mountains"
+      "postcode": "354510",
+      "distanceKmFromAirport": 60,
+      "description": "World-class mountain ski resort built for the 2014 Winter Olympics in the Caucasus Mountains",
+      "distance": 50.0,
+      "URL": "https://www.sochi.com/"
     },
     {
       "rank": 2,
       "name": "Sochi Autodrom (F1 Circuit)",
-      "description": "Russian Grand Prix circuit built for Sochi 2014 Olympics in the Olympic Park"
+      "postcode": "354366",
+      "distanceKmFromAirport": 30,
+      "description": "Russian Grand Prix circuit built for Sochi 2014 Olympics in the Olympic Park",
+      "distance": 28.0,
+      "URL": "https://www.sochiautodrom.ru/"
     },
     {
       "rank": 3,
       "name": "Olympic Park",
-      "description": "2014 Winter Olympics venue with the Fisht Stadium, ice arenas and the Olympic flame cauldron"
+      "postcode": "354366",
+      "distanceKmFromAirport": 30,
+      "description": "2014 Winter Olympics venue with the Fisht Stadium, ice arenas and the Olympic flame cauldron",
+      "distance": 28.0,
+      "URL": "https://www.sochipark.ru/"
     },
     {
       "rank": 4,
       "name": "Sochi Arboretum",
-      "description": "150-year-old botanical garden on the Black Sea coast with exotic subtropical plants"
+      "postcode": "354200",
+      "distanceKmFromAirport": 5,
+      "description": "150-year-old botanical garden on the Black Sea coast with exotic subtropical plants",
+      "distance": 3.0,
+      "URL": "https://www.sochi.travel"
     },
     {
       "rank": 5,
       "name": "Agura Waterfalls & Eagle Rocks",
-      "description": "Series of waterfalls in the Agura canyon with the dramatic Eagle Rocks viewpoint"
+      "postcode": "354334",
+      "distanceKmFromAirport": 20,
+      "description": "Series of waterfalls in the Agura canyon with the dramatic Eagle Rocks viewpoint",
+      "distance": 12.0,
+      "URL": "https://www.sochi.travel"
     },
     {
       "rank": 6,
       "name": "Vorontsov Caves",
-      "description": "8km cave system - the longest cave-river system in Russia with stalactites and underground lakes"
+      "postcode": "354384",
+      "distanceKmFromAirport": 35,
+      "description": "8km cave system - the longest cave-river system in Russia with stalactites and underground lakes",
+      "distance": 22.0,
+      "URL": "https://www.krasnaya-polyana.ru"
     },
     {
       "rank": 7,
       "name": "Riviera Park",
-      "description": "Historic 19th-century seaside park with the Sochi State Philharmonia and rose garden"
+      "postcode": "354002",
+      "distanceKmFromAirport": 15,
+      "description": "Historic 19th-century seaside park with the Sochi State Philharmonia and rose garden",
+      "distance": 8.0,
+      "URL": "https://www.riviera-sochi.ru"
     },
     {
       "rank": 8,
       "name": "Mount Akhun Tower",
-      "description": "Stone tower on Akhun Mountain with panoramic views of the Caucasus and Black Sea"
+      "postcode": "354012",
+      "distanceKmFromAirport": 18,
+      "description": "Stone tower on Akhun Mountain with panoramic views of the Caucasus and Black Sea",
+      "distance": 10.0,
+      "URL": "https://www.sochi.travel"
     },
     {
       "rank": 9,
       "name": "Matsesta Sulfur Springs",
-      "description": "Natural sulfur baths used therapeutically since the 19th century - Stalin's favourite"
+      "postcode": "354055",
+      "distanceKmFromAirport": 25,
+      "description": "Natural sulfur baths used therapeutically since the 19th century - Stalin's favourite",
+      "distance": 15.0,
+      "URL": "https://www.skypark.ru"
     },
     {
       "rank": 10,
       "name": "Rosa Khutor Alpine Resort",
-      "description": "Picturesque alpine village below the Olympic downhill slopes with gondola rides year-round"
+      "postcode": "354510",
+      "distanceKmFromAirport": 65,
+      "description": "Picturesque alpine village below the Olympic downhill slopes with gondola rides year-round",
+      "distance": 55.0,
+      "URL": "https://www.rosa.kh/"
     }
   ]
 }

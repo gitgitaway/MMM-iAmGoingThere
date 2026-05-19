@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Senso-ji Temple",
-      "description": "Tokyo's oldest temple in Asakusa with the iconic Kaminarimon Thunder Gate"
+      "postcode": "111-0032",
+      "distanceKmFromAirport": 24,
+      "description": "Tokyo's oldest temple in Asakusa with the iconic Kaminarimon Thunder Gate",
+      "distance": 4.0,
+      "URL": "https://www.senso-ji.jp/"
     },
     {
       "rank": 2,
       "name": "Shibuya Crossing",
-      "description": "World's busiest pedestrian crossing with up to 3,000 people crossing at once"
+      "postcode": "150-0043",
+      "distanceKmFromAirport": 27,
+      "description": "World's busiest pedestrian crossing with up to 3,000 people crossing at once",
+      "distance": 7.0,
+      "URL": "https://www.gotokyo.org/en/spots/shibuya-crossing/index.html"
     },
     {
       "rank": 3,
       "name": "Tokyo Skytree",
-      "description": "World's tallest broadcasting tower at 634m with observation decks at 350m and 450m"
+      "postcode": "131-0045",
+      "distanceKmFromAirport": 24,
+      "description": "World's tallest broadcasting tower at 634m with observation decks at 350m and 450m",
+      "distance": 4.0,
+      "URL": "https://www.tokyo-skytree.jp/en/"
     },
     {
       "rank": 4,
       "name": "Meiji Shrine",
-      "description": "Serene forested Shinto shrine in the heart of Harajuku dedicated to Emperor Meiji"
+      "postcode": "151-8557",
+      "distanceKmFromAirport": 28,
+      "description": "Serene forested Shinto shrine in the heart of Harajuku dedicated to Emperor Meiji",
+      "distance": 7.5,
+      "URL": "https://www.meijijingu.or.jp/en/"
     },
     {
       "rank": 5,
       "name": "Shinjuku Gyoen",
-      "description": "Former imperial garden combining Japanese, French and English garden styles"
+      "postcode": "160-0014",
+      "distanceKmFromAirport": 26,
+      "description": "Former imperial garden combining Japanese, French and English garden styles",
+      "distance": 6.0,
+      "URL": "https://www.env.go.jp/garden/shinjukugyoen/english/"
     },
     {
       "rank": 6,
       "name": "TeamLab Borderless",
-      "description": "Immersive digital art museum where the artworks move through the entire building"
+      "postcode": "135-0064",
+      "distanceKmFromAirport": 23,
+      "description": "Immersive digital art museum where the artworks move through the entire building",
+      "distance": 3.0,
+      "URL": "https://www.teamlab.art/e/tokyo/"
     },
     {
       "rank": 7,
       "name": "Akihabara Electric Town",
-      "description": "Tokyo's tech and anime district with multi-storey electronics and manga shops"
+      "postcode": "101-0021",
+      "distanceKmFromAirport": 22,
+      "description": "Tokyo's tech and anime district with multi-storey electronics and manga shops",
+      "distance": 2.0,
+      "URL": "https://www.gotokyo.org/en/destinations/eastern-tokyo/akihabara/index.html"
     },
     {
       "rank": 8,
       "name": "Tsukiji Outer Market",
-      "description": "Fish market atmosphere with the world's finest sushi for breakfast"
+      "postcode": "104-0045",
+      "distanceKmFromAirport": 23,
+      "description": "Fish market atmosphere with the world's finest sushi for breakfast",
+      "distance": 3.0,
+      "URL": "https://www.tsukiji.or.jp/english/"
     },
     {
       "rank": 9,
       "name": "Imperial Palace East Gardens",
-      "description": "Former inner citadel of Edo Castle with traditional Japanese landscape garden"
+      "postcode": "100-8111",
+      "distanceKmFromAirport": 21,
+      "description": "Former inner citadel of Edo Castle with traditional Japanese landscape garden",
+      "distance": 1.0,
+      "URL": "https://www.env.go.jp/garden/kokyogaien/"
     },
     {
       "rank": 10,
       "name": "Harajuku & Takeshita Street",
-      "description": "Youth fashion capital and birthplace of Lolita and kawaii street style"
+      "postcode": "150-0001",
+      "distanceKmFromAirport": 27,
+      "description": "Youth fashion capital and birthplace of Lolita and kawaii street style",
+      "distance": 7.0,
+      "URL": "https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/index.html"
     }
   ]
 }

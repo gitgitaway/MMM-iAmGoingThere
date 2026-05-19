@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Command Ridge",
-      "description": "Highest point on the island with a WWII Japanese command post and radio station"
+      "postcode": "674",
+      "distanceKmFromAirport": 3.2,
+      "description": "Highest point on the island with a WWII Japanese command post and radio station",
+      "distance": 2.5,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 2,
       "name": "Phosphate Pinnacles (Topside)",
-      "description": "Vast moonscape of jagged white coral limestone pillars left by phosphate mining"
+      "postcode": "674",
+      "distanceKmFromAirport": 4.0,
+      "description": "Vast moonscape of jagged white coral limestone pillars left by phosphate mining",
+      "distance": 3.2,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 3,
       "name": "Anibare Bay",
-      "description": "Beautiful lagoon bay on the eastern side of the island - Nauru's best beach"
+      "postcode": "674",
+      "distanceKmFromAirport": 3.5,
+      "description": "Beautiful lagoon bay on the eastern side of the island - Nauru's best beach",
+      "distance": 2.8,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 4,
       "name": "Menen Hotel Area",
-      "description": "Main hotel area with the lagoon and swimming access"
+      "postcode": "674",
+      "distanceKmFromAirport": 2.2,
+      "description": "Main hotel area with the lagoon and swimming access",
+      "distance": 1.5,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 5,
       "name": "Nauru Parliament House",
-      "description": "Government of the world's smallest republic"
+      "postcode": "674",
+      "distanceKmFromAirport": 2.0,
+      "description": "Government of the world's smallest republic",
+      "distance": 1.2,
+      "URL": "https://www.parliament.nr"
     },
     {
       "rank": 6,
       "name": "Buada Lagoon",
-      "description": "Inland freshwater lagoon surrounded by trees - fishing and scenic walks"
+      "postcode": "674",
+      "distanceKmFromAirport": 3.0,
+      "description": "Inland freshwater lagoon surrounded by trees - fishing and scenic walks",
+      "distance": 2.0,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 7,
       "name": "Japanese WWII Guns (Boe Village)",
-      "description": "Coastal defense guns left by the Japanese occupiers"
+      "postcode": "674",
+      "distanceKmFromAirport": 4.2,
+      "description": "Coastal defense guns left by the Japanese occupiers",
+      "distance": 3.5,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 8,
       "name": "Nauru Central Hospital Historical Area",
-      "description": "Colonial-era buildings from the German, Australian and Japanese occupation periods"
+      "postcode": "674",
+      "distanceKmFromAirport": 2.8,
+      "description": "Colonial-era buildings from the German, Australian and Japanese occupation periods",
+      "distance": 1.8,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 9,
       "name": "Fishing for Milkfish",
-      "description": "Traditional Nauruan pond aquaculture of milkfish - a cultural practice for centuries"
+      "postcode": "674",
+      "distanceKmFromAirport": 3.0,
+      "description": "Traditional Nauruan pond aquaculture of milkfish - a cultural practice for centuries",
+      "distance": 2.2,
+      "URL": "https://www.naurugov.nr"
     },
     {
       "rank": 10,
       "name": "Nauru Rehabilitation (First Land)",
-      "description": "Unusual opportunity to see ecosystem restoration on the heavily mined interior"
+      "postcode": "674",
+      "distanceKmFromAirport": 4.8,
+      "description": "Unusual opportunity to see ecosystem restoration on the heavily mined interior",
+      "distance": 4.0,
+      "URL": "https://www.naurugov.nr"
     }
   ]
 }

@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Preikestolen (Pulpit Rock)",
-      "description": "Dramatic 604m cliff edge with vertiginous views over Lysefjord, one of Norway's iconic hikes"
+      "postcode": "4055",
+      "distanceKmFromAirport": 24.0,
+      "description": "Dramatic 604m cliff edge with vertiginous views over Lysefjord, one of Norway's iconic hikes",
+      "distance": 25.0,
+      "URL": "https://www.preikestolen.no"
     },
     {
       "rank": 2,
       "name": "Old Stavanger (Gamle Stavanger)",
-      "description": "Europe's best-preserved wooden house district with 173 whitewashed 18th-century homes"
+      "postcode": "4006",
+      "distanceKmFromAirport": 15.0,
+      "description": "Europe's best-preserved wooden house district with 173 whitewashed 18th-century homes",
+      "distance": 1.0,
+      "URL": "https://www.gamlestavanger.no"
     },
     {
       "rank": 3,
       "name": "Norwegian Petroleum Museum",
-      "description": "Fascinating insight into Norway's offshore oil industry on the Stavanger waterfront"
+      "postcode": "4010",
+      "distanceKmFromAirport": 14.5,
+      "description": "Fascinating insight into Norway's offshore oil industry on the Stavanger waterfront",
+      "distance": 0.5,
+      "URL": "https://www.norskolje.no"
     },
     {
       "rank": 4,
       "name": "Stavanger Cathedral",
-      "description": "Norway's oldest cathedral, a Romanesque masterpiece dating to around 1125"
+      "postcode": "4010",
+      "distanceKmFromAirport": 14.5,
+      "description": "Norway's oldest cathedral, a Romanesque masterpiece dating to around 1125",
+      "distance": 0.8,
+      "URL": "https://www.stavangerkatedralew.no"
     },
     {
       "rank": 5,
       "name": "Lysefjord Cruise",
-      "description": "Boat tour of the stunning Lyse fjord with views up to Preikestolen and Kjeragbolten"
+      "postcode": "4006",
+      "distanceKmFromAirport": 24.0,
+      "description": "Boat tour of the stunning Lyse fjord with views up to Preikestolen and Kjeragbolten",
+      "distance": 25.0,
+      "URL": "https://www.lysefjord-cruise.no"
     },
     {
       "rank": 6,
       "name": "Stavanger Museum",
-      "description": "Natural history and cultural history museum covering the region from prehistory"
+      "postcode": "4010",
+      "distanceKmFromAirport": 14.5,
+      "description": "Natural history and cultural history museum covering the region from prehistory",
+      "distance": 0.7,
+      "URL": "https://www.stavanger-museum.no"
     },
     {
       "rank": 7,
       "name": "Ledaal Manor",
-      "description": "18th-century manor house, royal residence and the setting for Alexander Kielland's novels"
+      "postcode": "4015",
+      "distanceKmFromAirport": 18.0,
+      "description": "18th-century manor house, royal residence and the setting for Alexander Kielland's novels",
+      "distance": 5.0,
+      "URL": "https://www.ledaal.no"
     },
     {
       "rank": 8,
       "name": "Swords in Rock Memorial",
-      "description": "Three giant swords commemorating the 872 Battle of Hafrsfjord planted on the shore"
+      "postcode": "4006",
+      "distanceKmFromAirport": 15.5,
+      "description": "Three giant swords commemorating the 872 Battle of Hafrsfjord planted on the shore",
+      "distance": 2.0,
+      "URL": "https://www.swords-stavanger.no"
     },
     {
       "rank": 9,
       "name": "Utstein Monastery",
-      "description": "Norway's best-preserved medieval monastery on an island in the Rennesoy archipelago"
+      "postcode": "4150",
+      "distanceKmFromAirport": 28.0,
+      "description": "Norway's best-preserved medieval monastery on an island in the Rennesoy archipelago",
+      "distance": 30.0,
+      "URL": "https://www.utstein.no"
     },
     {
       "rank": 10,
       "name": "Kjeragbolten Day Hike",
-      "description": "Epic hike to the legendary boulder wedged in a crevice 984m above the Lysefjord"
+      "postcode": "4006",
+      "distanceKmFromAirport": 26.0,
+      "description": "Epic hike to the legendary boulder wedged in a crevice 984m above the Lysefjord",
+      "distance": 28.0,
+      "URL": "https://www.kjeragbolten.no"
     }
   ]
 }

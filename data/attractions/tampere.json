@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Tampere Cathedral",
-      "description": "National Romantic masterpiece with Hugo Simberg's frescoes including The Wounded Angel"
+      "postcode": "33100",
+      "distanceKmFromAirport": 16.0,
+      "description": "National Romantic masterpiece with Hugo Simberg's frescoes including The Wounded Angel",
+      "distance": 0.5,
+      "URL": "https://tuomiokirkko.fi"
     },
     {
       "rank": 2,
       "name": "Vapriikki Museum Centre",
-      "description": "Excellent museum complex in a historic factory with natural history, ice hockey and more"
+      "postcode": "33100",
+      "distanceKmFromAirport": 16.5,
+      "description": "Excellent museum complex in a historic factory with natural history, ice hockey and more",
+      "distance": 1.0,
+      "URL": "https://www.vapriikki.fi"
     },
     {
       "rank": 3,
       "name": "Tampere Hall",
-      "description": "One of Northern Europe's largest and most acclaimed concert and conference venues"
+      "postcode": "33100",
+      "distanceKmFromAirport": 17.0,
+      "description": "One of Northern Europe's largest and most acclaimed concert and conference venues",
+      "distance": 1.2,
+      "URL": "https://www.tamperetalon.fi"
     },
     {
       "rank": 4,
       "name": "Nasinneula Observation Tower",
-      "description": "Finland's tallest building at 168m with a revolving restaurant and panoramic views"
+      "postcode": "33100",
+      "distanceKmFromAirport": 17.5,
+      "description": "Finland's tallest building at 168m with a revolving restaurant and panoramic views",
+      "distance": 2.0,
+      "URL": "https://www.nasinneula.fi"
     },
     {
       "rank": 5,
       "name": "Sarkanniemi Amusement Park",
-      "description": "Major theme park with dolphinarium, aquarium and Finland's highest observation tower"
+      "postcode": "33100",
+      "distanceKmFromAirport": 17.8,
+      "description": "Major theme park with dolphinarium, aquarium and Finland's highest observation tower",
+      "distance": 2.2,
+      "URL": "https://www.sarkanniemi.fi"
     },
     {
       "rank": 6,
       "name": "Pyynikki Ridge & Observation Tower",
-      "description": "Esker ridge between two lakes with Finland's oldest open-air theatre and renowned doughnuts"
+      "postcode": "33100",
+      "distanceKmFromAirport": 18.0,
+      "description": "Esker ridge between two lakes with Finland's oldest open-air theatre and renowned doughnuts",
+      "distance": 3.5,
+      "URL": "https://www.pyynikkiteatteri.fi"
     },
     {
       "rank": 7,
       "name": "Moomin Museum",
-      "description": "World's only Moomin museum with original illustrations by Tove Jansson"
+      "postcode": "33100",
+      "distanceKmFromAirport": 18.5,
+      "description": "World's only Moomin museum with original illustrations by Tove Jansson",
+      "distance": 4.0,
+      "URL": "https://www.moominmuseum.fi"
     },
     {
       "rank": 8,
       "name": "Lenin Museum",
-      "description": "Only Lenin museum in the world outside Russia in the building where Lenin met Stalin"
+      "postcode": "33100",
+      "distanceKmFromAirport": 17.2,
+      "description": "Only Lenin museum in the world outside Russia in the building where Lenin met Stalin",
+      "distance": 1.5,
+      "URL": "https://www.leninmuseum.fi"
     },
     {
       "rank": 9,
       "name": "Finlayson Factory Area",
-      "description": "Historic cotton mill complex reinvented as shops, restaurants and cinema"
+      "postcode": "33100",
+      "distanceKmFromAirport": 17.3,
+      "description": "Historic cotton mill complex reinvented as shops, restaurants and cinema",
+      "distance": 1.3,
+      "URL": "https://www.finlayson.fi"
     },
     {
       "rank": 10,
       "name": "Laukontori Harbour",
-      "description": "Beautiful lakeside square with summer market, outdoor dining and passenger boats"
+      "postcode": "33100",
+      "distanceKmFromAirport": 17.0,
+      "description": "Beautiful lakeside square with summer market, outdoor dining and passenger boats",
+      "distance": 1.0,
+      "URL": "https://www.laukontori.fi"
     }
   ]
 }

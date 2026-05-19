@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Market Square (Rynek)",
-      "description": "One of Central Europe's most beautiful Gothic town squares with the Old Town Hall"
+      "postcode": "50-101",
+      "distanceKmFromAirport": 13,
+      "description": "One of Central Europe's most beautiful Gothic town squares with the Old Town Hall",
+      "distance": 0.1,
+      "URL": "https://www.wroclaw.pl"
     },
     {
       "rank": 2,
       "name": "Centennial Hall",
-      "description": "UNESCO World Heritage early 20th-century reinforced concrete masterpiece by Max Berg"
+      "postcode": "51-618",
+      "distanceKmFromAirport": 17,
+      "description": "UNESCO World Heritage early 20th-century reinforced concrete masterpiece by Max Berg",
+      "distance": 4.0,
+      "URL": "https://www.halastulecia.pl"
     },
     {
       "rank": 3,
       "name": "Wroclaw Cathedral",
-      "description": "Gothic cathedral on Cathedral Island with twin towers and lift to panoramic views"
+      "postcode": "50-330",
+      "distanceKmFromAirport": 14,
+      "description": "Gothic cathedral on Cathedral Island with twin towers and lift to panoramic views",
+      "distance": 1.5,
+      "URL": "https://www.katedra.archidiecezja.wroc.pl"
     },
     {
       "rank": 4,
       "name": "Panorama of the Battle of Raclawice",
-      "description": "Immersive 1794 battle panorama, the only rotunda painting still in its original rotunda"
+      "postcode": "50-011",
+      "distanceKmFromAirport": 14,
+      "description": "Immersive 1794 battle panorama, the only rotunda painting still in its original rotunda",
+      "distance": 1.0,
+      "URL": "https://www.panoramaraclawicka.pl"
     },
     {
       "rank": 5,
       "name": "Wroclaw Dwarfs Trail",
-      "description": "Over 350 tiny bronze gnomes hidden across the city in a charming scavenger hunt"
+      "postcode": "50-101",
+      "distanceKmFromAirport": 13,
+      "description": "Over 350 tiny bronze gnomes hidden across the city in a charming scavenger hunt",
+      "distance": 0.5,
+      "URL": "https://www.krasnale.pl"
     },
     {
       "rank": 6,
       "name": "National Museum Wroclaw",
-      "description": "Outstanding art collection with the spectacular Panorama of Raclawice"
+      "postcode": "50-153",
+      "distanceKmFromAirport": 14,
+      "description": "Outstanding art collection with the spectacular Panorama of Raclawice",
+      "distance": 1.0,
+      "URL": "https://www.mnwr.pl"
     },
     {
       "rank": 7,
       "name": "Afrykarium",
-      "description": "World's only oceanarium dedicated exclusively to African aquatic ecosystems"
+      "postcode": "51-618",
+      "distanceKmFromAirport": 17,
+      "description": "World's only oceanarium dedicated exclusively to African aquatic ecosystems",
+      "distance": 4.0,
+      "URL": "https://www.zoo.wroclaw.pl"
     },
     {
       "rank": 8,
       "name": "Sand Island (Ostrow Tumski)",
-      "description": "Cathedral Island, the oldest part of Wroclaw with medieval churches and gas lamps"
+      "postcode": "50-329",
+      "distanceKmFromAirport": 14,
+      "description": "Cathedral Island, the oldest part of Wroclaw with medieval churches and gas lamps",
+      "distance": 1.5,
+      "URL": "https://www.wroclaw.pl"
     },
     {
       "rank": 9,
       "name": "Botanical Garden",
-      "description": "Beautiful 19th-century botanical garden with over 7,000 species"
+      "postcode": "50-328",
+      "distanceKmFromAirport": 14,
+      "description": "Beautiful 19th-century botanical garden with over 7,000 species",
+      "distance": 1.5,
+      "URL": "https://www.ogrodbotaniczny.uni.wroc.pl"
     },
     {
       "rank": 10,
       "name": "Old Town Hall",
-      "description": "Gothic masterpiece considered the most beautiful Gothic building in Silesia"
+      "postcode": "50-101",
+      "distanceKmFromAirport": 13,
+      "description": "Gothic masterpiece considered the most beautiful Gothic building in Silesia",
+      "distance": 0.1,
+      "URL": "https://www.wroclaw.pl"
     }
   ]
 }

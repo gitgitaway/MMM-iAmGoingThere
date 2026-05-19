@@ -1,0 +1,98 @@
+{
+  "city": "Tiraspol",
+  "country": "Moldova (Transnistria)",
+  "airportPostcode": "MD-3300",
+  "airportDistanceKm": 75,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kvint Brandy Factory",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "World-renowned brandy distillery founded in 1897 producing Transnistria's most famous export; tours of the cellars with over 2 million bottles aging",
+      "distance": 1.0,
+      "URL": "https://kvint.md/"
+    },
+    {
+      "rank": 2,
+      "name": "Soviet Street Art and Murals",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "Tiraspol is a living Soviet time capsule with Lenin statues, Soviet-era murals and Cold War architecture unique in 21st-century Europe",
+      "distance": 0.5,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Tiraspol History Museum",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "Regional museum with exhibits on the history of Transnistria, the 1992 war of independence and the cultural heritage of this unrecognised state",
+      "distance": 0.5,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Bender Fortress",
+      "postcode": "MD-3200",
+      "distanceKmFromAirport": 65,
+      "description": "Enormous 16th-century Ottoman fortress on the Dniester river in Bender, one of the best-preserved Ottoman military structures in Eastern Europe",
+      "distance": 12.0,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Central Park",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "Tiraspol's main Soviet-era park with a distinctive Ferris wheel, walking paths along the Dniester riverbank and public monuments of the Soviet period",
+      "distance": 0.8,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Supreme Soviet Building",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "The parliament building of Transnistria, still displaying the hammer and sickle, Soviet flag and a Lenin statue; a unique piece of living Cold War history",
+      "distance": 0.5,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Tiraspol Market",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "Bustling open-air market where locals shop for produce, Soviet memorabilia and Transnistrian goods; an authentic window into daily life in this enclave",
+      "distance": 1.0,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Dniester River Beach",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "Sandy beaches along the Dniester river where locals swim and relax in summer; a surprisingly pleasant natural escape from the Soviet urban landscape",
+      "distance": 2.0,
+      "URL": "https://www.discover-tiraspol.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Chisinau (Day Trip)",
+      "postcode": "MD-2001",
+      "distanceKmFromAirport": 75,
+      "description": "Moldova's capital, 75km from Tiraspol, offers a wider range of museums, restaurants and the famous National Wine Festival each October",
+      "distance": 70.0,
+      "URL": "https://www.turism.gov.md/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Sheriff Stadium",
+      "postcode": "MD-3300",
+      "distanceKmFromAirport": 76,
+      "description": "Home of FC Sheriff Tiraspol, backed by the powerful Sheriff conglomerate; memorably beat Real Madrid in the 2021 Champions League group stage",
+      "distance": 1.5,
+      "URL": "https://www.fc-sheriff.com/en/"
+    }
+  ]
+}

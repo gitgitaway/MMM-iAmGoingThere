@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "OCT Loft Creative Culture Park",
-      "description": "Former factory complex transformed into Shenzhen's coolest art and design district"
+      "postcode": "518054",
+      "distanceKmFromAirport": 22,
+      "description": "Former factory complex transformed into Shenzhen's coolest art and design district",
+      "distance": 12.0,
+      "URL": "https://www.octloft.cn/"
     },
     {
       "rank": 2,
       "name": "Window of the World Theme Park",
-      "description": "130 scale-model world landmarks including the Eiffel Tower and the Taj Mahal"
+      "postcode": "518054",
+      "distanceKmFromAirport": 21,
+      "description": "130 scale-model world landmarks including the Eiffel Tower and the Taj Mahal",
+      "distance": 13.0,
+      "URL": "https://www.szwow.com.cn/"
     },
     {
       "rank": 3,
       "name": "Dafen Oil Painting Village",
-      "description": "Village of 8,000 artists producing high-quality reproductions and original contemporary art"
+      "postcode": "518112",
+      "distanceKmFromAirport": 40,
+      "description": "Village of 8,000 artists producing high-quality reproductions and original contemporary art",
+      "distance": 15.0,
+      "URL": "https://www.dafenart.com/"
     },
     {
       "rank": 4,
       "name": "Huaqiangbei Electronics Market",
-      "description": "World's largest electronics market spanning multiple buildings with every component imaginable"
+      "postcode": "518000",
+      "distanceKmFromAirport": 31,
+      "description": "World's largest electronics market spanning multiple buildings with every component imaginable",
+      "distance": 1.0,
+      "URL": "https://www.szta.gov.cn"
     },
     {
       "rank": 5,
       "name": "Splendid China Folk Village",
-      "description": "Miniature replicas of China's famous sites alongside cultural performances"
+      "postcode": "518054",
+      "distanceKmFromAirport": 21,
+      "description": "Miniature replicas of China's famous sites alongside cultural performances",
+      "distance": 13.0,
+      "URL": "https://www.splendidchina.com/"
     },
     {
       "rank": 6,
       "name": "Shenzhen Bay Park",
-      "description": "13km coastal park with a cycling track, wetlands and views across to Hong Kong"
+      "postcode": "518054",
+      "distanceKmFromAirport": 23,
+      "description": "13km coastal park with a cycling track, wetlands and views across to Hong Kong",
+      "distance": 10.0,
+      "URL": "https://www.discoverhongkong.com"
     },
     {
       "rank": 7,
       "name": "Lianhua Mountain Park",
-      "description": "Hilltop park with Deng Xiaoping statue and panoramic views over modern Shenzhen"
+      "postcode": "518000",
+      "distanceKmFromAirport": 31,
+      "description": "Hilltop park with Deng Xiaoping statue and panoramic views over modern Shenzhen",
+      "distance": 2.0,
+      "URL": "https://www.szmuseum.com"
     },
     {
       "rank": 8,
       "name": "Happy Valley Theme Park",
-      "description": "Thrill rides and roller coasters in China's most popular amusement park chain"
+      "postcode": "518054",
+      "distanceKmFromAirport": 22,
+      "description": "Thrill rides and roller coasters in China's most popular amusement park chain",
+      "distance": 12.0,
+      "URL": "https://sz.happyvalley.cn/"
     },
     {
       "rank": 9,
       "name": "Dapeng Fortress",
-      "description": "Ming-dynasty coastal fortress town with well-preserved streets and ancestral halls"
+      "postcode": "518120",
+      "distanceKmFromAirport": 80,
+      "description": "Ming-dynasty coastal fortress town with well-preserved streets and ancestral halls",
+      "distance": 50.0,
+      "URL": "https://www.happyvalley.com.cn"
     },
     {
       "rank": 10,
       "name": "Shenzhen Museum of Contemporary Art",
-      "description": "World-class contemporary art space in the new Futian cultural district"
+      "postcode": "518000",
+      "distanceKmFromAirport": 32,
+      "description": "World-class contemporary art space in the new Futian cultural district",
+      "distance": 2.0,
+      "URL": "https://www.szmuseum.org/"
     }
   ]
 }

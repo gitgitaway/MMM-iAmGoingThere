@@ -1,0 +1,98 @@
+{
+  "city": "Vigo",
+  "country": "Spain",
+  "airportPostcode": "36318",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cies Islands",
+      "postcode": "36310",
+      "distanceKmFromAirport": 20,
+      "description": "National Park archipelago of three islands with crystal-clear turquoise waters, white sand beaches and abundant seabird colonies; boat trips from Vigo harbour",
+      "distance": 14.0,
+      "URL": "https://www.parqueislaslantidas.es/"
+    },
+    {
+      "rank": 2,
+      "name": "Vigo Old Town (Casco Vello)",
+      "postcode": "36202",
+      "distanceKmFromAirport": 13,
+      "description": "Vibrant old quarter of narrow cobbled lanes with the Reconquista Church, the market and tapas bars specialising in fresh Galician shellfish and octopus",
+      "distance": 1.0,
+      "URL": "https://www.turismodevigo.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Vigo Harbour and Estuary",
+      "postcode": "36201",
+      "distanceKmFromAirport": 13,
+      "description": "One of Europe's largest natural harbours backed by mountains; the working waterfront with fish auction, mussel rafts and ferries to the Cies Islands",
+      "distance": 0.5,
+      "URL": "https://www.turismodevigo.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Museo do Mar de Galicia",
+      "postcode": "36208",
+      "distanceKmFromAirport": 13,
+      "description": "Modern maritime museum on the seafront with outstanding exhibits on Galician fishing tradition, ocean science and the underwater archaeology of Vigo bay",
+      "distance": 2.5,
+      "URL": "https://www.museodomar.xunta.gal/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Monte del Castro Park",
+      "postcode": "36201",
+      "distanceKmFromAirport": 13,
+      "description": "Hilltop park with an 18th-century castle offering the finest panoramic views over the ria, islands and surrounding mountains; the green heart of Vigo",
+      "distance": 1.5,
+      "URL": "https://www.turismodevigo.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Mercado da Pedra (Oyster Market)",
+      "postcode": "36202",
+      "distanceKmFromAirport": 13,
+      "description": "Famous market where women shell oysters on the street and sell them with lemon; an authentic Galician tradition in the old town since the 17th century",
+      "distance": 1.0,
+      "URL": "https://www.turismodevigo.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Galician Contemporary Art Museum (MARCO)",
+      "postcode": "36202",
+      "distanceKmFromAirport": 13,
+      "description": "Contemporary art museum in a stunning converted old prison with changing exhibitions of Galician and international modern art",
+      "distance": 1.0,
+      "URL": "https://www.marcovigo.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Playa de Samil",
+      "postcode": "36213",
+      "distanceKmFromAirport": 14,
+      "description": "Vigo's largest urban beach stretching along the ria promenade with views to the Cies Islands; popular for swimming, cycling and sunset walks",
+      "distance": 4.0,
+      "URL": "https://www.turismodevigo.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Pazo de Castrelos Park",
+      "postcode": "36213",
+      "distanceKmFromAirport": 14,
+      "description": "Formal gardens and woodland surrounding an elegant 17th-century manor house housing the municipal museum of archaeology and fine arts",
+      "distance": 4.0,
+      "URL": "https://www.turismodevigo.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Abanca-Balaidos Stadium",
+      "postcode": "36213",
+      "distanceKmFromAirport": 14,
+      "description": "Home of RC Celta de Vigo with 29,000 capacity; Celta reached the UEFA Europa League semi-finals in 2016-17 and are a regular La Liga top-half side",
+      "distance": 3.5,
+      "URL": "https://www.celtavigo.net/en/"
+    }
+  ]
+}

@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Terracotta Army",
-      "description": "UNESCO World Heritage 8,000 life-sized clay soldiers guarding the tomb of Emperor Qin Shi Huang"
+      "postcode": "710600",
+      "distanceKmFromAirport": 16.8,
+      "description": "UNESCO World Heritage 8,000 life-sized clay soldiers guarding the tomb of Emperor Qin Shi Huang",
+      "distance": 34.5,
+      "URL": "https://www.bmy.com.cn"
     },
     {
       "rank": 2,
       "name": "City Wall (Ming City Walls)",
-      "description": "Best-preserved ancient city wall in China - cycle or walk the 14km circuit"
+      "postcode": "710001",
+      "distanceKmFromAirport": 49.5,
+      "description": "Best-preserved ancient city wall in China - cycle or walk the 14km circuit",
+      "distance": 1.0,
+      "URL": "https://www.xianwall.com"
     },
     {
       "rank": 3,
       "name": "Muslim Quarter (Huimin Jie)",
-      "description": "Ancient Hui Muslim street with lamb skewers, pomegranate juice and the Great Mosque"
+      "postcode": "710001",
+      "distanceKmFromAirport": 50.2,
+      "description": "Ancient Hui Muslim street with lamb skewers, pomegranate juice and the Great Mosque",
+      "distance": 2.1,
+      "URL": "https://www.xiantourism.cn"
     },
     {
       "rank": 4,
       "name": "Great Mosque of Xi'an",
-      "description": "14th-century mosque in the Muslim Quarter built in traditional Chinese architectural style"
+      "postcode": "710001",
+      "distanceKmFromAirport": 50.5,
+      "description": "14th-century mosque in the Muslim Quarter built in traditional Chinese architectural style",
+      "distance": 2.3,
+      "URL": "https://www.xiantourism.cn"
     },
     {
       "rank": 5,
       "name": "Big Wild Goose Pagoda",
-      "description": "Tang-dynasty 7th-century pagoda where monk Xuanzang translated Buddhist sutras from India"
+      "postcode": "710061",
+      "distanceKmFromAirport": 50.8,
+      "description": "Tang-dynasty 7th-century pagoda where monk Xuanzang translated Buddhist sutras from India",
+      "distance": 3.8,
+      "URL": "https://www.dygta.com"
     },
     {
       "rank": 6,
       "name": "Shaanxi History Museum",
-      "description": "China's finest provincial museum with 370,000 artefacts spanning 1.15 million years"
+      "postcode": "710061",
+      "distanceKmFromAirport": 51.0,
+      "description": "China's finest provincial museum with 370,000 artefacts spanning 1.15 million years",
+      "distance": 4.2,
+      "URL": "https://www.sxhm.com"
     },
     {
       "rank": 7,
       "name": "Bell Tower & Drum Tower",
-      "description": "Ming-dynasty towers at the heart of the city, drummed to mark dusk"
+      "postcode": "710001",
+      "distanceKmFromAirport": 49.2,
+      "description": "Ming-dynasty towers at the heart of the city, drummed to mark dusk",
+      "distance": 0.3,
+      "URL": "https://www.huashan.org.cn"
     },
     {
       "rank": 8,
       "name": "Huaqing Palace & Hot Springs",
-      "description": "Tang imperial resort where Empress Yang Guifei bathed - scene of an ancient love story"
+      "postcode": "710605",
+      "distanceKmFromAirport": 23.0,
+      "description": "Tang imperial resort where Empress Yang Guifei bathed - scene of an ancient love story",
+      "distance": 28.5,
+      "URL": "https://www.huaqingpool.com"
     },
     {
       "rank": 9,
       "name": "Silk Road starting point",
-      "description": "Xi'an was the eastern terminus of the ancient Silk Road - marked by the Silk Road monument"
+      "postcode": "710001",
+      "distanceKmFromAirport": 53.2,
+      "description": "Xi'an was the eastern terminus of the ancient Silk Road - marked by the Silk Road monument",
+      "distance": 5.0,
+      "URL": "https://www.tangparadise.cn"
     },
     {
       "rank": 10,
       "name": "Famen Temple",
-      "description": "Temple housing finger bone relics of the Buddha, 120km from Xi'an"
+      "postcode": "722600",
+      "distanceKmFromAirport": 168.5,
+      "description": "Temple housing finger bone relics of the Buddha, 120km from Xi'an",
+      "distance": 120.0,
+      "URL": "https://www.famensi.com"
     }
   ]
 }

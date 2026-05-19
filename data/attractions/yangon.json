@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Shwedagon Pagoda",
-      "description": "Possibly the world's most beautiful Buddhist stupa at 98m gold-covered and encrusted with diamonds"
+      "postcode": "11141",
+      "distanceKmFromAirport": 20.2,
+      "description": "Possibly the world's most beautiful Buddhist stupa at 98m gold-covered and encrusted with diamonds",
+      "distance": 3.5,
+      "URL": "https://www.shwedagonpagoda.com"
     },
     {
       "rank": 2,
       "name": "Bogyoke Aung San Market (Scott Market)",
-      "description": "1926 colonial market with jade, lacquerware, traditional fabrics and Burmese gems"
+      "postcode": "11111",
+      "distanceKmFromAirport": 19.5,
+      "description": "1926 colonial market with jade, lacquerware, traditional fabrics and Burmese gems",
+      "distance": 2.1,
+      "URL": "https://www.myanmartourism.org"
     },
     {
       "rank": 3,
       "name": "Sule Pagoda",
-      "description": "2,000-year-old octagonal pagoda at the centre of the British colonial grid plan"
+      "postcode": "11111",
+      "distanceKmFromAirport": 18.8,
+      "description": "2,000-year-old octagonal pagoda at the centre of the British colonial grid plan",
+      "distance": 0.8,
+      "URL": "https://www.myanmartourism.org"
     },
     {
       "rank": 4,
       "name": "Colonial Architecture Walk",
-      "description": "British colonial buildings from the 1890s-1920s along Pansodan and Strand streets"
+      "postcode": "11111",
+      "distanceKmFromAirport": 19.0,
+      "description": "British colonial buildings from the 1890s-1920s along Pansodan and Strand streets",
+      "distance": 1.2,
+      "URL": "https://www.myanmartourism.org"
     },
     {
       "rank": 5,
       "name": "Chaukhtatgyi Buddha Temple",
-      "description": "Reclining Buddha 66m long with beautifully painted eyes and an elaborate fishtail"
+      "postcode": "11101",
+      "distanceKmFromAirport": 20.5,
+      "description": "Reclining Buddha 66m long with beautifully painted eyes and an elaborate fishtail",
+      "distance": 2.8,
+      "URL": "https://www.myanmartourism.org"
     },
     {
       "rank": 6,
       "name": "National Museum of Myanmar",
-      "description": "Regalia of the last Burmese kings including the Lion Throne and royal ceremonial attire"
+      "postcode": "11111",
+      "distanceKmFromAirport": 19.2,
+      "description": "Regalia of the last Burmese kings including the Lion Throne and royal ceremonial attire",
+      "distance": 1.5,
+      "URL": "https://www.mnmuseum.org"
     },
     {
       "rank": 7,
       "name": "Strand Hotel",
-      "description": "1901 colonial landmark hotel on the riverfront - have tea or a Pegu Club cocktail"
+      "postcode": "11111",
+      "distanceKmFromAirport": 18.9,
+      "description": "1901 colonial landmark hotel on the riverfront - have tea or a Pegu Club cocktail",
+      "distance": 0.9,
+      "URL": "https://www.thestrand.com.mm"
     },
     {
       "rank": 8,
       "name": "Yangon Circular Train",
-      "description": "3-hour loop on the 1950s commuter train through Yangon's suburbs and countryside"
+      "postcode": "11111",
+      "distanceKmFromAirport": 18.5,
+      "description": "3-hour loop on the 1950s commuter train through Yangon's suburbs and countryside",
+      "distance": 0.5,
+      "URL": "https://www.myanmartourism.org"
     },
     {
       "rank": 9,
       "name": "Inya Lake",
-      "description": "Boat trip on the lake with the hillside Kaba Aye Pagoda and World Peace Pagoda"
+      "postcode": "11121",
+      "distanceKmFromAirport": 22.0,
+      "description": "Boat trip on the lake with the hillside Kaba Aye Pagoda and World Peace Pagoda",
+      "distance": 4.5,
+      "URL": "https://www.myanmartourism.org"
     },
     {
       "rank": 10,
       "name": "Bago Day Trip",
-      "description": "Ancient Mon capital 80km away with the world's largest reclining Buddha"
+      "postcode": "90000",
+      "distanceKmFromAirport": 95.2,
+      "description": "Ancient Mon capital 80km away with the world's largest reclining Buddha",
+      "distance": 80.0,
+      "URL": "https://www.myanmartourism.org"
     }
   ]
 }

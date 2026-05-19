@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "St John's Co-Cathedral",
-      "description": "Baroque masterpiece housing Caravaggio's largest painting, The Beheading of Saint John"
+      "postcode": "VLT 1156",
+      "distanceKmFromAirport": 8.5,
+      "description": "Baroque masterpiece housing Caravaggio's largest painting, The Beheading of Saint John",
+      "distance": 0.2,
+      "URL": "https://www.stjohnscocathedral.com"
     },
     {
       "rank": 2,
       "name": "Upper Barrakka Gardens",
-      "description": "Clifftop garden with cannon salute at noon and panoramic views of the Grand Harbour"
+      "postcode": "VLT 1000",
+      "distanceKmFromAirport": 8.6,
+      "description": "Clifftop garden with cannon salute at noon and panoramic views of the Grand Harbour",
+      "distance": 0.4,
+      "URL": "https://www.heritagemalta.mt"
     },
     {
       "rank": 3,
       "name": "Grand Harbour",
-      "description": "One of the world's finest natural harbours, scene of the Great Siege of 1565"
+      "postcode": "VLT 1000",
+      "distanceKmFromAirport": 8.7,
+      "description": "One of the world's finest natural harbours, scene of the Great Siege of 1565",
+      "distance": 0.5,
+      "URL": "https://www.visitmalta.com"
     },
     {
       "rank": 4,
       "name": "Mdina - The Silent City",
-      "description": "Medieval walled hilltop city, former capital of Malta with cathedral and noble palaces"
+      "postcode": "MD 1200",
+      "distanceKmFromAirport": 12.0,
+      "description": "Medieval walled hilltop city, former capital of Malta with cathedral and noble palaces",
+      "distance": 12.0,
+      "URL": "https://www.visitmalta.com/en/mdina"
     },
     {
       "rank": 5,
       "name": "Blue Grotto",
-      "description": "Sea caves near Zurrieq illuminated by vivid blue phosphorescence, accessible by boat"
+      "postcode": "ZP 1500",
+      "distanceKmFromAirport": 15.0,
+      "description": "Sea caves near Zurrieq illuminated by vivid blue phosphorescence, accessible by boat",
+      "distance": 18.0,
+      "URL": "https://www.visitmalta.com"
     },
     {
       "rank": 6,
       "name": "Three Cities (Vittoriosa, Senglea, Cospicua)",
-      "description": "Historic fortified cities across the Grand Harbour from Valletta"
+      "postcode": "VLS 1070",
+      "distanceKmFromAirport": 9.0,
+      "description": "Historic fortified cities across the Grand Harbour from Valletta",
+      "distance": 2.0,
+      "URL": "https://www.visitmalta.com"
     },
     {
       "rank": 7,
       "name": "Hagar Qim & Mnajdra Temples",
-      "description": "UNESCO World Heritage megalithic temples older than Stonehenge and the Pyramids"
+      "postcode": "QR 3700",
+      "distanceKmFromAirport": 13.0,
+      "description": "UNESCO World Heritage megalithic temples older than Stonehenge and the Pyramids",
+      "distance": 16.0,
+      "URL": "https://whc.unesco.org/en/list/132"
     },
     {
       "rank": 8,
       "name": "Republic Street",
-      "description": "Valletta's main pedestrian street lined with Baroque buildings, cafes and shops"
+      "postcode": "VLT 1000",
+      "distanceKmFromAirport": 8.6,
+      "description": "Valletta's main pedestrian street lined with Baroque buildings, cafes and shops",
+      "distance": 0.3,
+      "URL": "https://www.visitmalta.com"
     },
     {
       "rank": 9,
       "name": "National Museum of Archaeology",
-      "description": "Neolithic figurines including the famous Sleeping Lady from the Hal Saflieni Hypogeum"
+      "postcode": "VLT 1000",
+      "distanceKmFromAirport": 8.5,
+      "description": "Neolithic figurines including the famous Sleeping Lady from the Hal Saflieni Hypogeum",
+      "distance": 0.4,
+      "URL": "https://www.heritagemalta.org"
     },
     {
       "rank": 10,
       "name": "Gozo Island",
-      "description": "Ferry to the sister island with the Azure Window ruins, salt pans and Ggantija temples"
+      "postcode": "VLS 1070",
+      "distanceKmFromAirport": 22.0,
+      "description": "Ferry to the sister island with the Azure Window ruins, salt pans and Ggantija temples",
+      "distance": 20.0,
+      "URL": "https://www.visitmalta.com/en/gozo"
     }
   ]
 }

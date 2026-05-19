@@ -1,0 +1,98 @@
+{
+  "city": "Torshavn",
+  "country": "Faroe Islands",
+  "airportPostcode": "FO-370",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tinganes",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "One of Europe's oldest continuously used governmental sites; turf-roofed red and black wooden buildings on a rocky peninsula have housed Faroese government since Viking times",
+      "distance": 0.5,
+      "URL": "https://www.visitfaroeislands.com/en/see-do/tinganes/"
+    },
+    {
+      "rank": 2,
+      "name": "Torshavn Old Town (Gongin)",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "Charming historic quarter with grass-roofed wooden houses, cobbled lanes and the authentic character of a North Atlantic Viking settlement",
+      "distance": 0.5,
+      "URL": "https://www.visitfaroeislands.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "National Museum of the Faroe Islands",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "Comprehensive museum covering Faroese natural history, Viking heritage, traditional dress, boats and the unique cultural identity of the archipelago",
+      "distance": 0.8,
+      "URL": "https://www.natmus.fo/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Torshavn Cathedral",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "Simple but atmospheric wooden cathedral from 1788, one of the oldest churches in the Faroe Islands with a striking interior and peaceful graveyard",
+      "distance": 0.5,
+      "URL": "https://www.visitfaroeislands.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Skansin Fortress",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "Old fort at the harbour entrance built in 1580 to protect the city from pirates; British lighthouse keepers based here in WWII; now a historic park",
+      "distance": 1.0,
+      "URL": "https://www.visitfaroeislands.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Listasavn Foroya (National Art Gallery)",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "The Faroe Islands' principal art gallery with a strong collection of Faroese visual art from the 19th century to the present in a striking modern building",
+      "distance": 1.0,
+      "URL": "https://www.art.fo/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Torshavn Harbour",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "Working fishing harbour at the heart of the capital with colourful fishing boats, seafood restaurants and views across the fjord to the neighbouring islands",
+      "distance": 0.3,
+      "URL": "https://www.visitfaroeislands.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Kirkjubour Village",
+      "postcode": "FO-175",
+      "distanceKmFromAirport": 24,
+      "description": "Ancient bishopric seat 10km south of Torshavn with the 13th-century Magnus Cathedral ruins, the 11th-century St. Olav's Church and a farm museum",
+      "distance": 10.0,
+      "URL": "https://www.visitfaroeislands.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Nordic House Torshavn",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "Cultural centre designed by Finnish architect Alvar Aalto hosting art exhibitions, concerts and events celebrating Nordic and Faroese culture",
+      "distance": 1.5,
+      "URL": "https://www.nordichouse.fo/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Torsvollur National Stadium",
+      "postcode": "FO-100",
+      "distanceKmFromAirport": 16,
+      "description": "The Faroe Islands' national stadium, home ground for Vikingur Reykjavik's Faroese counterpart and international matches, with a capacity of 6,000",
+      "distance": 1.5,
+      "URL": "https://www.visitfaroeislands.com/en/"
+    }
+  ]
+}

@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Church on the Blood",
-      "description": "Cathedral built on the site where the Romanov royal family was executed in 1918"
+      "postcode": "620014",
+      "distanceKmFromAirport": 27.2,
+      "description": "Cathedral built on the site where the Romanov royal family was executed in 1918",
+      "distance": 2.5,
+      "URL": "https://www.crimea.church"
     },
     {
       "rank": 2,
       "name": "Ganina Yama Monastery",
-      "description": "Forest monastery 15km from the city at the mine where the Romanovs' bodies were thrown"
+      "postcode": "620025",
+      "distanceKmFromAirport": 10.5,
+      "description": "Forest monastery 15km from the city at the mine where the Romanovs' bodies were thrown",
+      "distance": 15.0,
+      "URL": "https://ganina-yama.com"
     },
     {
       "rank": 3,
       "name": "Yekaterinburg Museum of Fine Arts",
-      "description": "Impressive collection of Russian and European art plus the famous Kasli iron pavilion"
+      "postcode": "620075",
+      "distanceKmFromAirport": 28.0,
+      "description": "Impressive collection of Russian and European art plus the famous Kasli iron pavilion",
+      "distance": 3.2,
+      "URL": "https://www.emya.ru"
     },
     {
       "rank": 4,
       "name": "Europe-Asia Border Obelisk",
-      "description": "Monument on the Ural mountain divide marking the boundary between Europe and Asia"
+      "postcode": "620025",
+      "distanceKmFromAirport": 8.2,
+      "description": "Monument on the Ural mountain divide marking the boundary between Europe and Asia",
+      "distance": 18.5,
+      "URL": "https://www.ekaterinburg.com"
     },
     {
       "rank": 5,
       "name": "Boris Yeltsin Presidential Centre",
-      "description": "Interactive museum dedicated to Russia's first president and the transition to democracy"
+      "postcode": "620014",
+      "distanceKmFromAirport": 26.5,
+      "description": "Interactive museum dedicated to Russia's first president and the transition to democracy",
+      "distance": 1.8,
+      "URL": "https://www.yeltsin.ru"
     },
     {
       "rank": 6,
       "name": "Historical Museum of the Urals",
-      "description": "Comprehensive regional history museum in a 1900 building on Malyshev Street"
+      "postcode": "620014",
+      "distanceKmFromAirport": 26.0,
+      "description": "Comprehensive regional history museum in a 1900 building on Malyshev Street",
+      "distance": 1.2,
+      "URL": "https://www.histmuseum.ru"
     },
     {
       "rank": 7,
       "name": "Lenin Avenue & City Pond",
-      "description": "Historic iron-founder's pond at the heart of the city where it was founded in 1723"
+      "postcode": "620014",
+      "distanceKmFromAirport": 25.2,
+      "description": "Historic iron-founder's pond at the heart of the city where it was founded in 1723",
+      "distance": 0.5,
+      "URL": "https://www.ekaterinburg.com"
     },
     {
       "rank": 8,
       "name": "Shartash Lake",
-      "description": "Recreational lake on the city outskirts with a pebble beach, forest walks and bird watching"
+      "postcode": "620100",
+      "distanceKmFromAirport": 33.2,
+      "description": "Recreational lake on the city outskirts with a pebble beach, forest walks and bird watching",
+      "distance": 8.5,
+      "URL": "https://www.ekaterinburg.com"
     },
     {
       "rank": 9,
       "name": "Ural Gems Museum",
-      "description": "Collection of precious and semi-precious stones mined from the Ural Mountains"
+      "postcode": "620014",
+      "distanceKmFromAirport": 27.0,
+      "description": "Collection of precious and semi-precious stones mined from the Ural Mountains",
+      "distance": 2.0,
+      "URL": "https://www.ekaterinburg.com"
     },
     {
       "rank": 10,
       "name": "Nevyansk Leaning Tower",
-      "description": "Day trip to a mysterious 1725 leaning tower built by the Demidov industrial dynasty"
+      "postcode": "624400",
+      "distanceKmFromAirport": 105.5,
+      "description": "Day trip to a mysterious 1725 leaning tower built by the Demidov industrial dynasty",
+      "distance": 82.0,
+      "URL": "https://www.nevyansk.ru"
     }
   ]
 }

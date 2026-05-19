@@ -1,0 +1,98 @@
+{
+  "city": "Waterford",
+  "country": "Ireland",
+  "airportPostcode": "X91 EH96",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "House of Waterford Crystal",
+      "postcode": "X91 H1C7",
+      "distanceKmFromAirport": 10,
+      "description": "Flagship factory and showroom of the world's most famous crystal brand — watch master craftspeople cut, engrave and blow Waterford Crystal",
+      "distance": 2,
+      "URL": "https://www.waterfordvisitorcentre.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Reginald's Tower (Viking Museum)",
+      "postcode": "X91 YH17",
+      "distanceKmFromAirport": 9,
+      "description": "Ireland's oldest civic building (c. 1003) — the iconic Viking tower at the heart of Ireland's oldest city, now an excellent museum",
+      "distance": 1,
+      "URL": "https://www.waterfordtreasures.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Medieval Mile Museum",
+      "postcode": "X91 WD64",
+      "distanceKmFromAirport": 9,
+      "description": "Outstanding museum in a 13th-century church tracing 1,000 years of Waterford city life — Ireland's Museum of the Year",
+      "distance": 1,
+      "URL": "https://www.medievalmilemuseum.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "Bishop's Palace Museum",
+      "postcode": "X91 WT42",
+      "distanceKmFromAirport": 9,
+      "description": "Magnificent 18th-century palace housing the definitive collection of 18th and 19th-century Irish decorative arts",
+      "distance": 1,
+      "URL": "https://www.waterfordtreasures.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Waterford Greenway (Walking & Cycling)",
+      "postcode": "X91 EH96",
+      "distanceKmFromAirport": 8,
+      "description": "46km off-road greenway along a former railway line from Waterford city to Dungarvan — Ireland's longest off-road cycling trail",
+      "distance": 0.5,
+      "URL": "https://www.waterfordgreenway.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Tramore Beach & Amusements",
+      "postcode": "X91 AP77",
+      "distanceKmFromAirport": 18,
+      "description": "Waterford's family beach resort — 5km of sandy beach backed by dunes, amusement parks and the iconic Metal Man lighthouse pillars",
+      "distance": 10,
+      "URL": "https://www.discoverireland.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Rock of Cashel (Day Trip)",
+      "postcode": "E25 T397",
+      "distanceKmFromAirport": 60,
+      "description": "Dramatic limestone outcrop crowned by medieval cathedral, round tower and Cormac's Chapel — one of Ireland's most iconic sites",
+      "distance": 52,
+      "URL": "https://www.heritageireland.ie/"
+    },
+    {
+      "rank": 8,
+      "name": "Viking Triangle Walking Tour",
+      "postcode": "X91 WD64",
+      "distanceKmFromAirport": 9,
+      "description": "Self-guided or escorted tour of Ireland's oldest city — three museums, Viking walls, medieval lanes and 1,000 years of history in a compact area",
+      "distance": 1,
+      "URL": "https://www.waterfordtreasures.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Kilkenny (Day Trip)",
+      "postcode": "R95 N512",
+      "distanceKmFromAirport": 51,
+      "description": "Ireland's Medieval Capital — Kilkenny Castle, St Canice's Cathedral, the Medieval Mile Museum and a world-class craft heritage",
+      "distance": 43,
+      "URL": "https://www.visitkilkenny.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Dunmore East Fishing Village",
+      "postcode": "X91 KW54",
+      "distanceKmFromAirport": 22,
+      "description": "Picturesque thatched fishing village at the mouth of Waterford Harbour — dramatic cliffs, a working harbour and excellent seafood",
+      "distance": 14,
+      "URL": "https://www.discoverireland.ie/"
+    }
+  ]
+}

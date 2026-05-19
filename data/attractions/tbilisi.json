@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Old Town (Abanotubani Sulphur Baths)",
-      "description": "Historic Metekhi district with natural hot sulphur public baths used for 1,500 years"
+      "postcode": "0105",
+      "distanceKmFromAirport": 19.0,
+      "description": "Historic Metekhi district with natural hot sulphur public baths used for 1,500 years",
+      "distance": 1.0,
+      "URL": "https://www.abanotubanibaths.ge"
     },
     {
       "rank": 2,
       "name": "Narikala Fortress",
-      "description": "4th-century fortress above the city with a cable car and panoramic views of the Mtkvari River"
+      "postcode": "0105",
+      "distanceKmFromAirport": 19.2,
+      "description": "4th-century fortress above the city with a cable car and panoramic views of the Mtkvari River",
+      "distance": 1.2,
+      "URL": "https://www.narikala.ge"
     },
     {
       "rank": 3,
       "name": "Mtatsminda Park & Funicular",
-      "description": "Mountain park reached by funicular with an amusement park and spectacular city views"
+      "postcode": "0102",
+      "distanceKmFromAirport": 18.5,
+      "description": "Mountain park reached by funicular with an amusement park and spectacular city views",
+      "distance": 2.0,
+      "URL": "https://www.mtatsminda.ge"
     },
     {
       "rank": 4,
       "name": "Georgian National Museum",
-      "description": "Gold treasures, medieval art and Georgian history from Paleolithic to Soviet times"
+      "postcode": "0105",
+      "distanceKmFromAirport": 19.0,
+      "description": "Gold treasures, medieval art and Georgian history from Paleolithic to Soviet times",
+      "distance": 1.5,
+      "URL": "https://www.museum.ge"
     },
     {
       "rank": 5,
       "name": "Sioni Cathedral",
-      "description": "6th-century Georgian Orthodox cathedral housing the 4th-century Cross of St Nino"
+      "postcode": "0105",
+      "distanceKmFromAirport": 19.1,
+      "description": "6th-century Georgian Orthodox cathedral housing the 4th-century Cross of St Nino",
+      "distance": 1.1,
+      "URL": "https://www.sioni.ge"
     },
     {
       "rank": 6,
       "name": "Rustaveli Avenue",
-      "description": "Tbilisi's main boulevard with the Opera House, Parliament and Art Museum"
+      "postcode": "0108",
+      "distanceKmFromAirport": 18.0,
+      "description": "Tbilisi's main boulevard with the Opera House, Parliament and Art Museum",
+      "distance": 1.8,
+      "URL": "https://www.georgia.travel"
     },
     {
       "rank": 7,
       "name": "Kazbegi National Park Day Trip",
-      "description": "Gergeti Trinity Church on a cliff with Mount Kazbek (5047m) as a backdrop"
+      "postcode": "2103",
+      "distanceKmFromAirport": 95.0,
+      "description": "Gergeti Trinity Church on a cliff with Mount Kazbek (5047m) as a backdrop",
+      "distance": 110.0,
+      "URL": "https://www.kazbegi.ge"
     },
     {
       "rank": 8,
       "name": "Georgian Wine & Qvevri Wine Tourism",
-      "description": "Georgia's 8,000-year wine tradition using clay qvevri amphorae - world's oldest wine culture"
+      "postcode": "0105",
+      "distanceKmFromAirport": 19.0,
+      "description": "Georgia's 8,000-year wine tradition using clay qvevri amphorae - world's oldest wine culture",
+      "distance": 5.0,
+      "URL": "https://www.winegeorgia.ge"
     },
     {
       "rank": 9,
       "name": "Peace Bridge",
-      "description": "Striking 2010 pedestrian bridge over the Kura River designed by Italian architect Michele De Lucchi"
+      "postcode": "0160",
+      "distanceKmFromAirport": 18.2,
+      "description": "Striking 2010 pedestrian bridge over the Kura River designed by Italian architect Michele De Lucchi",
+      "distance": 2.5,
+      "URL": "https://www.peacebridge.ge"
     },
     {
       "rank": 10,
       "name": "Fabrika",
-      "description": "Soviet sewing factory converted into Tbilisi's hippest hostel, co-working and nightlife complex"
+      "postcode": "0102",
+      "distanceKmFromAirport": 18.5,
+      "description": "Soviet sewing factory converted into Tbilisi's hippest hostel, co-working and nightlife complex",
+      "distance": 3.0,
+      "URL": "https://www.fabrika.ge"
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "city": "Stirling",
+  "country": "Scotland",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 43,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Stirling Castle",
+      "postcode": "FK8 1EJ",
+      "distanceKmFromAirport": 43,
+      "description": "One of Scotland's grandest castles, former seat of the Stuart monarchs, with the spectacular Renaissance Royal Palace and Great Hall",
+      "distance": 0.5,
+      "URL": "https://www.stirlingcastle.scot/"
+    },
+    {
+      "rank": 2,
+      "name": "National Wallace Monument",
+      "postcode": "FK9 5LF",
+      "distanceKmFromAirport": 46,
+      "description": "Victorian tower on Abbey Craig commemorating William Wallace, hero of the Battle of Stirling Bridge — climb 246 steps for extraordinary views",
+      "distance": 3,
+      "URL": "https://www.nationalwallacemonument.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Bannockburn Heritage Centre (NTS)",
+      "postcode": "FK7 0LJ",
+      "distanceKmFromAirport": 43,
+      "description": "Immersive visitor centre marking the site of Robert the Bruce's victory over Edward II in 1314 — Scotland's most significant medieval battle",
+      "distance": 1,
+      "URL": "https://www.nts.org.uk/visit/places/bannockburn"
+    },
+    {
+      "rank": 4,
+      "name": "Old Town Jail",
+      "postcode": "FK8 1EJ",
+      "distanceKmFromAirport": 43,
+      "description": "Victorian prison brought back to life with live actor-guided tours through cells and the execution courtyard",
+      "distance": 0.5,
+      "URL": "https://www.oldtownjail.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Church of the Holy Rude",
+      "postcode": "FK8 1EJ",
+      "distanceKmFromAirport": 43,
+      "description": "Medieval church where the infant James VI was crowned and John Knox preached — the only church in Scotland besides Westminster Abbey with a royal coronation",
+      "distance": 0.5,
+      "URL": "https://www.holyrude.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Stirling Smith Art Gallery & Museum",
+      "postcode": "FK8 2RQ",
+      "distanceKmFromAirport": 44,
+      "description": "Stirling's main museum with extensive collections spanning local history, fine art and the world's oldest curling stone",
+      "distance": 1,
+      "URL": "https://www.smithartgalleryandmuseum.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Doune Castle",
+      "postcode": "FK16 6EA",
+      "distanceKmFromAirport": 53,
+      "description": "14th-century castle made famous as Monty Python's Castle Anthrax and a filming location for Outlander and Game of Thrones",
+      "distance": 11,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 8,
+      "name": "Cambuskenneth Abbey (ruins)",
+      "postcode": "FK9 5NE",
+      "distanceKmFromAirport": 45,
+      "description": "Riverside abbey ruins where James III and his queen are buried — an atmospheric walk from Stirling city centre",
+      "distance": 2,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 9,
+      "name": "The Trossachs & Loch Lomond (Day Trip)",
+      "postcode": "FK17 8HH",
+      "distanceKmFromAirport": 70,
+      "description": "Gateway to the beautiful Trossachs National Park — explore Loch Katrine, Ben Venue and the Rob Roy heritage country",
+      "distance": 28,
+      "URL": "https://www.lochlomond-trossachs.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Argyll's Lodging",
+      "postcode": "FK8 1EG",
+      "distanceKmFromAirport": 43,
+      "description": "Scotland's most complete surviving Renaissance town mansion, adjacent to Stirling Castle — now a luxury hostel",
+      "distance": 0.5,
+      "URL": "https://www.historicenvironment.scot/"
+    }
+  ]
+}

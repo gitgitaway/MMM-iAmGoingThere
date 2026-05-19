@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "National Museum of Cameroon",
-      "description": "Former presidential palace with extraordinary Bamileke, Fulani and Fang tribal art"
+      "postcode": "3520",
+      "distanceKmFromAirport": 24.2,
+      "description": "Former presidential palace with extraordinary Bamileke, Fulani and Fang tribal art",
+      "distance": 2.5,
+      "URL": "https://www.museeducameroun.org"
     },
     {
       "rank": 2,
       "name": "Mvog-Betsi Zoo & Botanical Garden",
-      "description": "Gorillas, chimpanzees and an impressive array of Cameroonian wildlife"
+      "postcode": "6745",
+      "distanceKmFromAirport": 25.0,
+      "description": "Gorillas, chimpanzees and an impressive array of Cameroonian wildlife",
+      "distance": 3.2,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 3,
       "name": "Bamileke Royal Palace (Bafoussam)",
-      "description": "Traditional Bamileke chiefly compound 4 hours west - extraordinary carved architecture"
+      "postcode": "5600",
+      "distanceKmFromAirport": 258.5,
+      "description": "Traditional Bamileke chiefly compound 4 hours west - extraordinary carved architecture",
+      "distance": 240.0,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 4,
       "name": "Cathedral Notre-Dame des Victoires",
-      "description": "French colonial cathedral on the Hill of Victory overlooking Yaounde"
+      "postcode": "1652",
+      "distanceKmFromAirport": 23.5,
+      "description": "French colonial cathedral on the Hill of Victory overlooking Yaounde",
+      "distance": 1.8,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 5,
       "name": "Artisanat Centre",
-      "description": "Craft market with Cameroonian masks, brass figures and woven cloth"
+      "postcode": "1234",
+      "distanceKmFromAirport": 24.0,
+      "description": "Craft market with Cameroonian masks, brass figures and woven cloth",
+      "distance": 2.0,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 6,
       "name": "African Union Museum",
-      "description": "History of Pan-Africanism and the Organisation of African Unity"
+      "postcode": "3520",
+      "distanceKmFromAirport": 25.0,
+      "description": "History of Pan-Africanism and the Organisation of African Unity",
+      "distance": 3.0,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 7,
       "name": "Mefou National Park (Ape Action Africa)",
-      "description": "Sanctuary for rescued chimps, gorillas and drills in a forest reserve"
+      "postcode": "5800",
+      "distanceKmFromAirport": 56.5,
+      "description": "Sanctuary for rescued chimps, gorillas and drills in a forest reserve",
+      "distance": 35.0,
+      "URL": "https://www.apeactionafrica.org"
     },
     {
       "rank": 8,
       "name": "Reunification Monument",
-      "description": "Monument marking the unification of French and British Cameroon in 1961"
+      "postcode": "1652",
+      "distanceKmFromAirport": 23.5,
+      "description": "Monument marking the unification of French and British Cameroon in 1961",
+      "distance": 1.5,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 9,
       "name": "Marche Central & Mvog-Mbi Market",
-      "description": "Yaounde's two main markets with the diversity of Cameroon on display"
+      "postcode": "1234",
+      "distanceKmFromAirport": 23.2,
+      "description": "Yaounde's two main markets with the diversity of Cameroon on display",
+      "distance": 1.2,
+      "URL": "https://www.tourismcameroon.com"
     },
     {
       "rank": 10,
       "name": "Okok na Nkola (Bitter Leaf with Crayfish)",
-      "description": "Yaounde specialty - bitter leaf and pumpkin seeds cooked with dried crayfish"
+      "postcode": "1234",
+      "distanceKmFromAirport": 23.0,
+      "description": "Yaounde specialty - bitter leaf and pumpkin seeds cooked with dried crayfish",
+      "distance": 1.0,
+      "URL": "https://www.tourismcameroon.com"
     }
   ]
 }

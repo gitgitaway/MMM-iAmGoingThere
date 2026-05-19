@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Victoria Falls Viewpoints",
-      "description": "UNESCO World Heritage world's largest waterfall - 16 viewpoints along the 1.7km Zimbabwe side"
+      "postcode": "0363",
+      "distanceKmFromAirport": 20,
+      "description": "UNESCO World Heritage world's largest waterfall - 16 viewpoints along the 1.7km Zimbabwe side",
+      "distance": 1.0,
+      "URL": "https://www.zimparks.org.zw"
     },
     {
       "rank": 2,
       "name": "Devil's Pool (Dry Season Swim)",
-      "description": "Swim in a natural pool at the very lip of the falls with a 100m drop below you"
+      "postcode": "0363",
+      "distanceKmFromAirport": 21,
+      "description": "Swim in a natural pool at the very lip of the falls with a 100m drop below you",
+      "distance": 2.0,
+      "URL": "https://www.tongabezi.com/devilspool"
     },
     {
       "rank": 3,
       "name": "White Water Rafting (Grade 5)",
-      "description": "Some of the world's best white water rafting through Batoka Gorge"
+      "postcode": "0363",
+      "distanceKmFromAirport": 21,
+      "description": "Some of the world's best white water rafting through Batoka Gorge",
+      "distance": 2.5,
+      "URL": "https://www.safpar.net"
     },
     {
       "rank": 4,
       "name": "Bungee Jumping from Victoria Falls Bridge",
-      "description": "111m bungee jump from the bridge between Zimbabwe and Zambia"
+      "postcode": "0363",
+      "distanceKmFromAirport": 21,
+      "description": "111m bungee jump from the bridge between Zimbabwe and Zambia",
+      "distance": 2.0,
+      "URL": "https://www.africaextreme.com"
     },
     {
       "rank": 5,
       "name": "Sunset Cruise on the Zambezi",
-      "description": "Hippos and crocodiles as the sun sets upstream from the falls"
+      "postcode": "0363",
+      "distanceKmFromAirport": 22,
+      "description": "Hippos and crocodiles as the sun sets upstream from the falls",
+      "distance": 4.0,
+      "URL": "https://www.wildhorisons.com"
     },
     {
       "rank": 6,
       "name": "Victoria Falls Walking Safari",
-      "description": "Walking safari through Zambezi National Park with white rhino and elephant"
+      "postcode": "0363",
+      "distanceKmFromAirport": 23,
+      "description": "Walking safari through Zambezi National Park with white rhino and elephant",
+      "distance": 5.0,
+      "URL": "https://www.zimparks.org.zw"
     },
     {
       "rank": 7,
       "name": "Microlight Flight over the Falls",
-      "description": "Ultralight aircraft flight over the waterfall and wildlife from above"
+      "postcode": "0363",
+      "distanceKmFromAirport": 21,
+      "description": "Ultralight aircraft flight over the waterfall and wildlife from above",
+      "distance": 2.0,
+      "URL": "https://www.ulatravels.com"
     },
     {
       "rank": 8,
       "name": "Elephant Interaction at Elephant Camp",
-      "description": "Walk with and feed trained African elephants in the bush"
+      "postcode": "0363",
+      "distanceKmFromAirport": 22,
+      "description": "Walk with and feed trained African elephants in the bush",
+      "distance": 3.0,
+      "URL": "https://www.theelephantcamp.com"
     },
     {
       "rank": 9,
       "name": "Victoria Falls Hotel Afternoon Tea",
-      "description": "Tea on the terrace of the 1904 colonial hotel with Falls spray on the horizon"
+      "postcode": "0363",
+      "distanceKmFromAirport": 20,
+      "description": "Tea on the terrace of the 1904 colonial hotel with Falls spray on the horizon",
+      "distance": 1.0,
+      "URL": "https://www.victoria-falls-hotel.com"
     },
     {
       "rank": 10,
       "name": "Victoria Falls Market",
-      "description": "Mbira thumb pianos, Shona stone carvings and hand-painted fabrics"
+      "postcode": "0363",
+      "distanceKmFromAirport": 19,
+      "description": "Mbira thumb pianos, Shona stone carvings and hand-painted fabrics",
+      "distance": 0.5,
+      "URL": "https://www.shearwateradventures.com"
     }
   ]
 }

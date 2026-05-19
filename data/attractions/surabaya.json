@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Mount Bromo Sunrise",
-      "description": "Pre-dawn jeep ride to the sea of sand and smoking crater - Java's most iconic view"
+      "postcode": "67304",
+      "distanceKmFromAirport": 40.0,
+      "description": "Pre-dawn jeep ride to the sea of sand and smoking crater - Java's most iconic view",
+      "distance": 65.0,
+      "URL": "https://www.mount-bromo.info"
     },
     {
       "rank": 2,
       "name": "Arab Quarter (Ampel District)",
-      "description": "Historic Islamic trading quarter with the tomb of Sunan Ampel - Java's Wali Songo"
+      "postcode": "60261",
+      "distanceKmFromAirport": 25.8,
+      "description": "Historic Islamic trading quarter with the tomb of Sunan Ampel - Java's Wali Songo",
+      "distance": 2.0,
+      "URL": "https://www.ampelquarter.id"
     },
     {
       "rank": 3,
       "name": "House of Sampoerna Tobacco Museum",
-      "description": "Dutch Art Nouveau building with the history of Sampoerna kretek clove cigarettes"
+      "postcode": "60261",
+      "distanceKmFromAirport": 25.8,
+      "description": "Dutch Art Nouveau building with the history of Sampoerna kretek clove cigarettes",
+      "distance": 2.5,
+      "URL": "https://www.houseofsampoerna.com"
     },
     {
       "rank": 4,
       "name": "Chinatown (Kembang Jepun)",
-      "description": "Chinese New Year celebrations and traditional shops in Surabaya's flower street"
+      "postcode": "60261",
+      "distanceKmFromAirport": 26.0,
+      "description": "Chinese New Year celebrations and traditional shops in Surabaya's flower street",
+      "distance": 1.5,
+      "URL": "https://www.chinatown-surabaya.id"
     },
     {
       "rank": 5,
       "name": "Submarine Monument (KRI Pasopati 410)",
-      "description": "Cold War-era Indonesian submarine moored as a museum"
+      "postcode": "60261",
+      "distanceKmFromAirport": 26.2,
+      "description": "Cold War-era Indonesian submarine moored as a museum",
+      "distance": 1.2,
+      "URL": "https://www.submarinemuseum.id"
     },
     {
       "rank": 6,
       "name": "Heroes Monument (Tugu Pahlawan)",
-      "description": "100m independence monument commemorating the Battle of Surabaya on 10 November 1945"
+      "postcode": "60261",
+      "distanceKmFromAirport": 26.0,
+      "description": "100m independence monument commemorating the Battle of Surabaya on 10 November 1945",
+      "distance": 0.8,
+      "URL": "https://www.heroesmonument.id"
     },
     {
       "rank": 7,
       "name": "Ijen Crater Blue Fire",
-      "description": "Night hike to the world's largest acid lake and eerie blue sulphuric flames"
+      "postcode": "68301",
+      "distanceKmFromAirport": 55.0,
+      "description": "Night hike to the world's largest acid lake and eerie blue sulphuric flames",
+      "distance": 48.0,
+      "URL": "https://www.ijencrate.id"
     },
     {
       "rank": 8,
       "name": "Tunjungan Plaza Mall",
-      "description": "Surabaya's iconic connected mall complex"
+      "postcode": "60261",
+      "distanceKmFromAirport": 26.0,
+      "description": "Surabaya's iconic connected mall complex",
+      "distance": 0.5,
+      "URL": "https://www.tunjunganplaza.com"
     },
     {
       "rank": 9,
       "name": "Kalimas Old Harbour",
-      "description": "Traditional wooden Phinisi schooners from Sulawesi moored at the old harbour"
+      "postcode": "60261",
+      "distanceKmFromAirport": 26.0,
+      "description": "Traditional wooden Phinisi schooners from Sulawesi moored at the old harbour",
+      "distance": 0.3,
+      "URL": "https://www.kalimas-harbour.id"
     },
     {
       "rank": 10,
       "name": "Rawon (Black Beef Soup)",
-      "description": "Surabaya's black keluak-nut beef soup - one of Indonesia's greatest dishes"
+      "postcode": "60261",
+      "distanceKmFromAirport": 26.0,
+      "description": "Surabaya's black keluak-nut beef soup - one of Indonesia's greatest dishes",
+      "distance": 0.5,
+      "URL": "https://www.surabaya.go.id"
     }
   ]
 }

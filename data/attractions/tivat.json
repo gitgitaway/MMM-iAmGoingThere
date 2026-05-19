@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Porto Montenegro",
-      "description": "Ultra-luxury superyacht marina and resort in the Bay of Kotor"
+      "postcode": "85320",
+      "distanceKmFromAirport": 3.5,
+      "description": "Ultra-luxury superyacht marina and resort in the Bay of Kotor",
+      "distance": 1.0,
+      "URL": "https://www.portomontenegro.com"
     },
     {
       "rank": 2,
       "name": "Bay of Kotor (Boka Kotorska)",
-      "description": "Europe's southernmost fjord-like bay surrounded by dramatic mountains and medieval towns"
+      "postcode": "85330",
+      "distanceKmFromAirport": 8.0,
+      "description": "Europe's southernmost fjord-like bay surrounded by dramatic mountains and medieval towns",
+      "distance": 5.0,
+      "URL": "https://www.bayofkotor.me"
     },
     {
       "rank": 3,
       "name": "Kotor Old Town",
-      "description": "UNESCO World Heritage medieval walled city just 10 minutes from Tivat airport"
+      "postcode": "85330",
+      "distanceKmFromAirport": 8.5,
+      "description": "UNESCO World Heritage medieval walled city just 10 minutes from Tivat airport",
+      "distance": 5.5,
+      "URL": "https://www.kotor.me"
     },
     {
       "rank": 4,
       "name": "Our Lady of the Rocks",
-      "description": "Artificial island church in the Bay of Kotor built on a submerged reef"
+      "postcode": "85335",
+      "distanceKmFromAirport": 10.0,
+      "description": "Artificial island church in the Bay of Kotor built on a submerged reef",
+      "distance": 7.0,
+      "URL": "https://www.ladyoftherocks.me"
     },
     {
       "rank": 5,
       "name": "Lustica Peninsula",
-      "description": "Wild unspoilt peninsula with olive groves, hidden coves and the developing Rose village"
+      "postcode": "85340",
+      "distanceKmFromAirport": 12.0,
+      "description": "Wild unspoilt peninsula with olive groves, hidden coves and the developing Rose village",
+      "distance": 10.0,
+      "URL": "https://www.lustica.me"
     },
     {
       "rank": 6,
       "name": "Buket Fortress",
-      "description": "Venetian-era fort above Tivat with views across the bay"
+      "postcode": "85320",
+      "distanceKmFromAirport": 4.0,
+      "description": "Venetian-era fort above Tivat with views across the bay",
+      "distance": 1.5,
+      "URL": "https://www.perast.com"
     },
     {
       "rank": 7,
       "name": "Perast",
-      "description": "Baroque lakeside village with 17 churches and 12 palaces in just one street"
+      "postcode": "85347",
+      "distanceKmFromAirport": 12.5,
+      "description": "Baroque lakeside village with 17 churches and 12 palaces in just one street",
+      "distance": 10.5,
+      "URL": "https://www.perast.me"
     },
     {
       "rank": 8,
       "name": "St George Island",
-      "description": "Cypress-covered island in the Bay of Kotor visible from Perast"
+      "postcode": "85347",
+      "distanceKmFromAirport": 13.0,
+      "description": "Cypress-covered island in the Bay of Kotor visible from Perast",
+      "distance": 11.0,
+      "URL": "https://www.tivat.travel"
     },
     {
       "rank": 9,
       "name": "Tivat Promenade & Beaches",
-      "description": "Seafront promenade and sandy beaches in the sheltered bay"
+      "postcode": "85320",
+      "distanceKmFromAirport": 3.5,
+      "description": "Seafront promenade and sandy beaches in the sheltered bay",
+      "distance": 0.8,
+      "URL": "https://www.visitdubrovnik.hr"
     },
     {
       "rank": 10,
       "name": "Kalimanj Cemetery",
-      "description": "Historic cemetery with Venetian-era tombstones and sea views"
+      "postcode": "85320",
+      "distanceKmFromAirport": 3.8,
+      "description": "Historic cemetery with Venetian-era tombstones and sea views",
+      "distance": 1.2,
+      "URL": "https://www.tivat.travel"
     }
   ]
 }

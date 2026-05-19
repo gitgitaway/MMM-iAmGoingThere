@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Turku Castle",
-      "description": "Finland's largest and oldest medieval castle dating to the 1280s at the mouth of the Aura river"
+      "postcode": "20100",
+      "distanceKmFromAirport": 9.5,
+      "description": "Finland's largest and oldest medieval castle dating to the 1280s at the mouth of the Aura river",
+      "distance": 0.5,
+      "URL": "https://en.visitturku.fi/kohdekortit/turku-castle"
     },
     {
       "rank": 2,
       "name": "Turku Cathedral",
-      "description": "Medieval Lutheran cathedral, the mother church of Finland, dating to the 13th century"
+      "postcode": "20500",
+      "distanceKmFromAirport": 9.2,
+      "description": "Medieval Lutheran cathedral, the mother church of Finland, dating to the 13th century",
+      "distance": 0.8,
+      "URL": "https://tuomiokirkko.fi"
     },
     {
       "rank": 3,
       "name": "Aboa Vetus & Ars Nova",
-      "description": "Unique museum where medieval ruins below meet modern art above"
+      "postcode": "20500",
+      "distanceKmFromAirport": 9.3,
+      "description": "Unique museum where medieval ruins below meet modern art above",
+      "distance": 0.9,
+      "URL": "https://www.aboavetus.fi"
     },
     {
       "rank": 4,
       "name": "Turku Art Museum",
-      "description": "Finland's oldest dedicated art museum with a landmark granite building on Puolalanmaki"
+      "postcode": "20100",
+      "distanceKmFromAirport": 9.0,
+      "description": "Finland's oldest dedicated art museum with a landmark granite building on Puolalanmaki",
+      "distance": 1.2,
+      "URL": "https://www.turuntaidemuseo.fi"
     },
     {
       "rank": 5,
       "name": "Forum Marinum",
-      "description": "Maritime museum on the Aura river with historic vessels including a full-rigged ship"
+      "postcode": "20100",
+      "distanceKmFromAirport": 9.1,
+      "description": "Maritime museum on the Aura river with historic vessels including a full-rigged ship",
+      "distance": 0.4,
+      "URL": "https://www.forummarinum.fi"
     },
     {
       "rank": 6,
       "name": "Luostarinmaki Handicrafts Museum",
-      "description": "Best-preserved 18th-century town block in Scandinavia with working craft workshops"
+      "postcode": "20100",
+      "distanceKmFromAirport": 9.3,
+      "description": "Best-preserved 18th-century town block in Scandinavia with working craft workshops",
+      "distance": 1.0,
+      "URL": "https://www.luostarinmaki.fi"
     },
     {
       "rank": 7,
       "name": "Turku Market Square",
-      "description": "Lively outdoor market with Finnish produce and the neoclassical market hall"
+      "postcode": "20100",
+      "distanceKmFromAirport": 9.2,
+      "description": "Lively outdoor market with Finnish produce and the neoclassical market hall",
+      "distance": 0.7,
+      "URL": "https://www.turkukeskus.fi"
     },
     {
       "rank": 8,
       "name": "Archipelago National Park",
-      "description": "World's largest archipelago with 50,000 islands accessible by ferry from Turku"
+      "postcode": "21100",
+      "distanceKmFromAirport": 20.0,
+      "description": "World's largest archipelago with 50,000 islands accessible by ferry from Turku",
+      "distance": 30.0,
+      "URL": "https://www.saaristo.net"
     },
     {
       "rank": 9,
       "name": "Old Great Square (Vanha Suurtori)",
-      "description": "Restored medieval heart of Turku with the Brinkkala mansion and Pharmacy Museum"
+      "postcode": "20500",
+      "distanceKmFromAirport": 9.4,
+      "description": "Restored medieval heart of Turku with the Brinkkala mansion and Pharmacy Museum",
+      "distance": 1.1,
+      "URL": "https://www.aboavetusarsnova.fi"
     },
     {
       "rank": 10,
       "name": "Ruissalo Island",
-      "description": "Green island villa district with oak forests, botanical garden and sandy beaches"
+      "postcode": "20100",
+      "distanceKmFromAirport": 12.0,
+      "description": "Green island villa district with oak forests, botanical garden and sandy beaches",
+      "distance": 5.0,
+      "URL": "https://www.ruissalo.fi"
     }
   ]
 }

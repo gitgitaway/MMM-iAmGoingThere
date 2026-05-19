@@ -1,0 +1,98 @@
+{
+  "city": "Utrecht",
+  "country": "Netherlands",
+  "airportPostcode": "3526",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Dom Tower (Domtoren)",
+      "postcode": "3512",
+      "distanceKmFromAirport": 36,
+      "description": "The tallest church tower in the Netherlands at 112 metres; climb 465 steps to panoramic views over Utrecht and the surrounding flatlands",
+      "distance": 0.3,
+      "URL": "https://www.domtoren.nl/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Canals and Wharves",
+      "postcode": "3511",
+      "distanceKmFromAirport": 36,
+      "description": "Utrecht's unique two-level canal system with 12th-century wharf cellars now housing restaurants and cafes; the most atmospheric waterway experience in the Netherlands",
+      "distance": 0.5,
+      "URL": "https://www.visit-utrecht.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Centraal Museum",
+      "postcode": "3512",
+      "distanceKmFromAirport": 36,
+      "description": "Oldest city museum in the Netherlands with art from the 17th century to the present; includes the world's largest collection of Rietveld furniture and Utrecht School paintings",
+      "distance": 1.0,
+      "URL": "https://www.centraalmuseum.nl/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Rietveld Schroder House (UNESCO)",
+      "postcode": "3508",
+      "distanceKmFromAirport": 37,
+      "description": "UNESCO World Heritage icon of De Stijl architecture designed by Gerrit Rietveld in 1924; a revolutionary home where every wall and floor can be repositioned",
+      "distance": 3.5,
+      "URL": "https://www.centraalmuseum.nl/en/collections/rietveld-schroder-house/"
+    },
+    {
+      "rank": 5,
+      "name": "Museum Speelklok",
+      "postcode": "3512",
+      "distanceKmFromAirport": 36,
+      "description": "Unique museum of self-playing musical instruments from street organs to fairground carousels; every 45 minutes instruments burst into life in a joyful demonstration",
+      "distance": 0.5,
+      "URL": "https://www.museumspeelklok.nl/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Miffy Museum (Nijntje Museum)",
+      "postcode": "3512",
+      "distanceKmFromAirport": 36,
+      "description": "Enchanting museum dedicated to Miffy, the beloved bunny character created by Dick Bruna who was born in Utrecht; a magical experience for young children",
+      "distance": 0.8,
+      "URL": "https://www.nijntjemuseum.nl/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Utrecht Old Town",
+      "postcode": "3511",
+      "distanceKmFromAirport": 36,
+      "description": "One of the Netherlands' best-preserved medieval city centres with the grand Oudegracht canal, Roman-era street plan and richly decorated guild houses",
+      "distance": 0.5,
+      "URL": "https://www.visit-utrecht.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Sonnenborgh Museum and Observatory",
+      "postcode": "3512",
+      "distanceKmFromAirport": 36,
+      "description": "19th-century observatory in a 16th-century bastion of the city fortifications; guides explain the history of astronomy and weather observation in the Netherlands",
+      "distance": 1.0,
+      "URL": "https://www.sonnenborgh.nl/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Griftpark",
+      "postcode": "3514",
+      "distanceKmFromAirport": 36,
+      "description": "Modern urban park on the former Grift industrial site with a canoe course, playground and outdoor events; a popular spot for Utrecht's young, vibrant population",
+      "distance": 2.0,
+      "URL": "https://www.visit-utrecht.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Galgenwaard Stadium",
+      "postcode": "3527",
+      "distanceKmFromAirport": 37,
+      "description": "Home of FC Utrecht with 24,000 capacity; the club competed in the UEFA Europa League group stage in 2017-18 and are a regular Dutch top-four side",
+      "distance": 3.0,
+      "URL": "https://www.fcutrecht.nl/en/"
+    }
+  ]
+}

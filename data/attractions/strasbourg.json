@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Strasbourg Cathedral",
-      "description": "Sandstone Gothic masterpiece with an astronomical clock and platform views over the city"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Sandstone Gothic masterpiece with an astronomical clock and platform views over the city",
+      "distance": 0.3,
+      "URL": "https://www.cathedrale-strasbourg.fr"
     },
     {
       "rank": 2,
       "name": "Petite France",
-      "description": "Enchanting medieval quarter with half-timbered houses reflected in the Ill canals"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Enchanting medieval quarter with half-timbered houses reflected in the Ill canals",
+      "distance": 0.5,
+      "URL": "https://www.petite-france-strasbourg.fr"
     },
     {
       "rank": 3,
       "name": "Palais Rohan",
-      "description": "Grand 18th-century bishop's palace housing three exceptional museums"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Grand 18th-century bishop's palace housing three exceptional museums",
+      "distance": 0.5,
+      "URL": "https://www.musees-strasbourg.org"
     },
     {
       "rank": 4,
       "name": "Barrage Vauban",
-      "description": "Huge defensive dam with roof terrace offering superb views of the old town"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Huge defensive dam with roof terrace offering superb views of the old town",
+      "distance": 0.7,
+      "URL": "https://www.barragevauban.fr"
     },
     {
       "rank": 5,
       "name": "European Parliament",
-      "description": "Official seat of the European Parliament with free guided tours when in session"
+      "postcode": "67070",
+      "distanceKmFromAirport": 18.0,
+      "description": "Official seat of the European Parliament with free guided tours when in session",
+      "distance": 5.0,
+      "URL": "https://www.europarl.europa.eu"
     },
     {
       "rank": 6,
       "name": "Musee d'Art Moderne et Contemporain",
-      "description": "Outstanding modern art collection in a glass-and-steel building on the banks of the Ill"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Outstanding modern art collection in a glass-and-steel building on the banks of the Ill",
+      "distance": 1.5,
+      "URL": "https://www.musees-strasbourg.org"
     },
     {
       "rank": 7,
       "name": "Neustadt",
-      "description": "UNESCO-listed German Imperial district with magnificent Belle Epoque architecture"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.8,
+      "description": "UNESCO-listed German Imperial district with magnificent Belle Epoque architecture",
+      "distance": 1.8,
+      "URL": "https://www.neustadt-strasbourg.fr"
     },
     {
       "rank": 8,
       "name": "Musee Alsacien",
-      "description": "Delightful museum of Alsatian folk art and traditions in interconnected historic houses"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Delightful museum of Alsatian folk art and traditions in interconnected historic houses",
+      "distance": 0.4,
+      "URL": "https://www.musees-strasbourg.org"
     },
     {
       "rank": 9,
       "name": "Christmas Market",
-      "description": "One of Europe's oldest Christmas markets, held annually since 1570 around the cathedral"
+      "postcode": "67000",
+      "distanceKmFromAirport": 15.5,
+      "description": "One of Europe's oldest Christmas markets, held annually since 1570 around the cathedral",
+      "distance": 0.3,
+      "URL": "https://www.noel-strasbourg.com"
     },
     {
       "rank": 10,
       "name": "Parc de l'Orangerie",
-      "description": "Elegant park with storks, pony rides and a boating lake near the European institutions"
+      "postcode": "67000",
+      "distanceKmFromAirport": 16.0,
+      "description": "Elegant park with storks, pony rides and a boating lake near the European institutions",
+      "distance": 2.5,
+      "URL": "https://www.parc-orangerie.com"
     }
   ]
 }

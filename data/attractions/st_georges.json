@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Grand Anse Beach",
-      "description": "One of the Caribbean's finest beaches - 3km of white sand and calm turquoise water"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 4.5,
+      "description": "One of the Caribbean's finest beaches - 3km of white sand and calm turquoise water",
+      "distance": 0.0,
+      "URL": "https://www.beachgrandeanse.com"
     },
     {
       "rank": 2,
       "name": "Fort George",
-      "description": "18th-century British fort overlooking the famous horseshoe harbour of St George's"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 4.8,
+      "description": "18th-century British fort overlooking the famous horseshoe harbour of St George's",
+      "distance": 0.8,
+      "URL": "https://www.fortgeorgegrenada.com"
     },
     {
       "rank": 3,
       "name": "Annandale Falls",
-      "description": "Lush waterfall in a botanical garden - swim in the pool"
+      "postcode": "St Andrew's",
+      "distanceKmFromAirport": 8.5,
+      "description": "Lush waterfall in a botanical garden - swim in the pool",
+      "distance": 11.0,
+      "URL": "https://www.annandalefalls.com"
     },
     {
       "rank": 4,
       "name": "Underwater Sculpture Park",
-      "description": "World's first underwater sculpture garden with 65 pieces beneath the Caribbean Sea"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 5.2,
+      "description": "World's first underwater sculpture garden with 65 pieces beneath the Caribbean Sea",
+      "distance": 0.3,
+      "URL": "https://www.underwatersculpture.com"
     },
     {
       "rank": 5,
       "name": "Gouyave Nutmeg Processing Station",
-      "description": "Grenada is the world's second largest nutmeg producer - see it dried and sorted"
+      "postcode": "St John's",
+      "distanceKmFromAirport": 18.0,
+      "description": "Grenada is the world's second largest nutmeg producer - see it dried and sorted",
+      "distance": 20.0,
+      "URL": "https://www.gouyavenm.com"
     },
     {
       "rank": 6,
       "name": "Carenage Harbour",
-      "description": "Picturesque inner harbour with colourful warehouses, yachts and fish vendors"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 4.2,
+      "description": "Picturesque inner harbour with colourful warehouses, yachts and fish vendors",
+      "distance": 0.5,
+      "URL": "https://www.carenagegharbour.com"
     },
     {
       "rank": 7,
       "name": "Belmont Estate Cacao Plantation",
-      "description": "Organic chocolate tour from bean to bar in a working cacao estate"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 23.0,
+      "description": "Organic chocolate tour from bean to bar in a working cacao estate",
+      "distance": 28.0,
+      "URL": "https://www.belmontcacao.com"
     },
     {
       "rank": 8,
       "name": "St George's Market Square",
-      "description": "Historic market square with a working fruit and spice market"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 4.5,
+      "description": "Historic market square with a working fruit and spice market",
+      "distance": 0.2,
+      "URL": "https://www.marketsquaregrenada.com"
     },
     {
       "rank": 9,
       "name": "Levera National Park",
-      "description": "Leatherback sea turtle nesting beach and mangrove lagoon in the northeast"
+      "postcode": "St Mark's",
+      "distanceKmFromAirport": 32.0,
+      "description": "Leatherback sea turtle nesting beach and mangrove lagoon in the northeast",
+      "distance": 35.0,
+      "URL": "https://www.leveranationalpark.com"
     },
     {
       "rank": 10,
       "name": "Oil Down (National Dish)",
-      "description": "Grenada's national dish - breadfruit, salted meat and callaloo cooked in coconut milk"
+      "postcode": "St George's",
+      "distanceKmFromAirport": 4.5,
+      "description": "Grenada's national dish - breadfruit, salted meat and callaloo cooked in coconut milk",
+      "distance": 0.0,
+      "URL": "https://www.grenadagrenadines.com"
     }
   ]
 }

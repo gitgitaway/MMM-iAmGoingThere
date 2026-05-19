@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Varadero Beach",
-      "description": "Cuba's finest beach - 20km of Caribbean white sand and warm turquoise water"
+      "postcode": "42200",
+      "distanceKmFromAirport": 21.0,
+      "description": "Cuba's finest beach - 20km of Caribbean white sand and warm turquoise water",
+      "distance": 0.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 2,
       "name": "Josone Park",
-      "description": "Former sugar baron's gardens with lagoons, restaurants and leisure activities"
+      "postcode": "42200",
+      "distanceKmFromAirport": 21.5,
+      "description": "Former sugar baron's gardens with lagoons, restaurants and leisure activities",
+      "distance": 2.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 3,
       "name": "Ambrosio Cave",
-      "description": "Cave with 72 pre-Columbian cave paintings - oldest in Cuba"
+      "postcode": "42200",
+      "distanceKmFromAirport": 22.0,
+      "description": "Cave with 72 pre-Columbian cave paintings - oldest in Cuba",
+      "distance": 3.5,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 4,
       "name": "Varadero Golf Club",
-      "description": "Cuba's only 18-hole golf course with ocean views"
+      "postcode": "42200",
+      "distanceKmFromAirport": 25.0,
+      "description": "Cuba's only 18-hole golf course with ocean views",
+      "distance": 8.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 5,
       "name": "Cayo Blanco Catamaran Day Trip",
-      "description": "Snorkelling on a pristine reef with lobster lunch on a deserted cay"
+      "postcode": "42200",
+      "distanceKmFromAirport": 30.0,
+      "description": "Snorkelling on a pristine reef with lobster lunch on a deserted cay",
+      "distance": 12.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 6,
       "name": "Havana Day Trip",
-      "description": "Colonial Havana is just 2.5 hours west - classic cars, rum and salsa"
+      "postcode": "10100",
+      "distanceKmFromAirport": 45.0,
+      "description": "Colonial Havana is just 2.5 hours west - classic cars, rum and salsa",
+      "distance": 140.0,
+      "URL": "https://www.havana.cu"
     },
     {
       "rank": 7,
       "name": "Saturno Cave (Cueva Saturno)",
-      "description": "Dive or snorkel in a freshwater cave pool just outside Varadero"
+      "postcode": "42200",
+      "distanceKmFromAirport": 22.5,
+      "description": "Dive or snorkel in a freshwater cave pool just outside Varadero",
+      "distance": 4.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 8,
       "name": "Mansion Xanadu",
-      "description": "1930s mansion of the Du Pont de Nemours family - now a luxury hotel and golf clubhouse"
+      "postcode": "42200",
+      "distanceKmFromAirport": 21.8,
+      "description": "1930s mansion of the Du Pont de Nemours family - now a luxury hotel and golf clubhouse",
+      "distance": 3.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 9,
       "name": "El Moro Restaurant",
-      "description": "Fresh lobster and seafood in a thatched beach hut"
+      "postcode": "42200",
+      "distanceKmFromAirport": 21.2,
+      "description": "Fresh lobster and seafood in a thatched beach hut",
+      "distance": 1.0,
+      "URL": "https://www.cubatravel.cu"
     },
     {
       "rank": 10,
       "name": "Cuba Libre (Rum & Coke)",
-      "description": "Havana Club rum and Coca-Cola - invented by US soldiers during the 1898 occupation"
+      "postcode": "42200",
+      "distanceKmFromAirport": 21.0,
+      "description": "Havana Club rum and Coca-Cola - invented by US soldiers during the 1898 occupation",
+      "distance": 0.5,
+      "URL": "https://www.cubatravel.cu"
     }
   ]
 }

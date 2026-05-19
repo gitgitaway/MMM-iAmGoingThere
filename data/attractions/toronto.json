@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "CN Tower",
-      "description": "Iconic 553m tower with glass floor, EdgeWalk and 360 Restaurant"
+      "postcode": "M5V 2T6",
+      "distanceKmFromAirport": 28,
+      "description": "Iconic 553m tower with glass floor, EdgeWalk and 360 Restaurant",
+      "distance": 1.5,
+      "URL": "https://www.cntower.ca/"
     },
     {
       "rank": 2,
       "name": "Royal Ontario Museum",
-      "description": "World cultures and natural history across 40 galleries"
+      "postcode": "M5S 2C6",
+      "distanceKmFromAirport": 30,
+      "description": "World cultures and natural history across 40 galleries",
+      "distance": 3.5,
+      "URL": "https://www.rom.on.ca/"
     },
     {
       "rank": 3,
       "name": "Ripley's Aquarium of Canada",
-      "description": "Stunning underwater tunnel and massive ray and shark exhibits"
+      "postcode": "M5J 2H4",
+      "distanceKmFromAirport": 28,
+      "description": "Stunning underwater tunnel and massive ray and shark exhibits",
+      "distance": 1.5,
+      "URL": "https://www.ripleyaquariums.com/canada/"
     },
     {
       "rank": 4,
       "name": "Distillery District",
-      "description": "Preserved Victorian industrial architecture turned arts village"
+      "postcode": "M5A 3C4",
+      "distanceKmFromAirport": 30,
+      "description": "Preserved Victorian industrial architecture turned arts village",
+      "distance": 3.0,
+      "URL": "https://www.thedistillerydistrict.com/"
     },
     {
       "rank": 5,
       "name": "Kensington Market",
-      "description": "Eclectic bohemian neighbourhood with global street food"
+      "postcode": "M6G 1T2",
+      "distanceKmFromAirport": 30,
+      "description": "Eclectic bohemian neighbourhood with global street food",
+      "distance": 3.0,
+      "URL": "https://kensingtonmarket.to/"
     },
     {
       "rank": 6,
       "name": "Toronto Islands",
-      "description": "Car-free island parks with city skyline views and beaches"
+      "postcode": "M5J 2H4",
+      "distanceKmFromAirport": 29,
+      "description": "Car-free island parks with city skyline views and beaches",
+      "distance": 2.0,
+      "URL": "https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/"
     },
     {
       "rank": 7,
       "name": "Art Gallery of Ontario (AGO)",
-      "description": "Frank Gehry-designed gallery with Canadian and international art"
+      "postcode": "M5T 1W1",
+      "distanceKmFromAirport": 30,
+      "description": "Frank Gehry-designed gallery with Canadian and international art",
+      "distance": 2.5,
+      "URL": "https://www.ago.ca/"
     },
     {
       "rank": 8,
       "name": "St. Lawrence Market",
-      "description": "Historic public market open since 1803, voted world's best"
+      "postcode": "M5E 1C3",
+      "distanceKmFromAirport": 29,
+      "description": "Historic public market open since 1803, voted world's best",
+      "distance": 2.0,
+      "URL": "https://www.stlawrencemarket.com/"
     },
     {
       "rank": 9,
       "name": "Casa Loma",
-      "description": "Stunning Gothic Revival castle and gardens above the city"
+      "postcode": "M5R 3C2",
+      "distanceKmFromAirport": 32,
+      "description": "Stunning Gothic Revival castle and gardens above the city",
+      "distance": 5.0,
+      "URL": "https://casaloma.ca/"
     },
     {
       "rank": 10,
       "name": "Scarborough Bluffs",
-      "description": "Dramatic white glacial clay cliffs rising 90m above Lake Ontario"
+      "postcode": "M1M 3W3",
+      "distanceKmFromAirport": 45,
+      "description": "Dramatic white glacial clay cliffs rising 90m above Lake Ontario",
+      "distance": 18.0,
+      "URL": "https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/"
     }
   ]
 }

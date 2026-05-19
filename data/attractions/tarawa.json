@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Battle of Tarawa WWII Sites",
-      "description": "1943 battle where 1,000 US Marines died in 76 hours - tanks and bunkers remain"
+      "postcode": "686",
+      "distanceKmFromAirport": 15.0,
+      "description": "1943 battle where 1,000 US Marines died in 76 hours - tanks and bunkers remain",
+      "distance": 12.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 2,
       "name": "Betio WWII Museum",
-      "description": "Japanese and American WWII artefacts from the bloodiest battle per hour in the Pacific"
+      "postcode": "686",
+      "distanceKmFromAirport": 20.0,
+      "description": "Japanese and American WWII artefacts from the bloodiest battle per hour in the Pacific",
+      "distance": 18.0,
+      "URL": "https://www.betiomuseum.ki"
     },
     {
       "rank": 3,
       "name": "Ambo Island Causeway Drive",
-      "description": "Drive the causeways connecting the islets of South Tarawa with ocean on both sides"
+      "postcode": "686",
+      "distanceKmFromAirport": 8.0,
+      "description": "Drive the causeways connecting the islets of South Tarawa with ocean on both sides",
+      "distance": 5.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 4,
       "name": "Traditional Maneaba Meeting House",
-      "description": "Oval thatch open-sided meeting hall - centre of I-Kiribati social and political life"
+      "postcode": "686",
+      "distanceKmFromAirport": 5.0,
+      "description": "Oval thatch open-sided meeting hall - centre of I-Kiribati social and political life",
+      "distance": 2.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 5,
       "name": "Lagoon Fishing",
-      "description": "Fish the pristine lagoon with local fishermen for yellowfin tuna and wahoo"
+      "postcode": "686",
+      "distanceKmFromAirport": 3.0,
+      "description": "Fish the pristine lagoon with local fishermen for yellowfin tuna and wahoo",
+      "distance": 1.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 6,
       "name": "Te Umanibong Museum",
-      "description": "I-Kiribati traditional culture, navigation and the WWII history of the Gilbert Islands"
+      "postcode": "686",
+      "distanceKmFromAirport": 5.0,
+      "description": "I-Kiribati traditional culture, navigation and the WWII history of the Gilbert Islands",
+      "distance": 2.5,
+      "URL": "https://www.kiribatimuseum.ki"
     },
     {
       "rank": 7,
       "name": "Bairiki National Stadium",
-      "description": "Watch I-Kiribati football or attend a national independence celebration"
+      "postcode": "686",
+      "distanceKmFromAirport": 4.0,
+      "description": "Watch I-Kiribati football or attend a national independence celebration",
+      "distance": 1.5,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 8,
       "name": "Buota Village Traditional Fishing",
-      "description": "Watch the remarkable traditional Kiribati fish-drive techniques in the lagoon"
+      "postcode": "686",
+      "distanceKmFromAirport": 10.0,
+      "description": "Watch the remarkable traditional Kiribati fish-drive techniques in the lagoon",
+      "distance": 8.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 9,
       "name": "Nanikai Beach",
-      "description": "Quiet white sand beach on the lagoon side - peaceful and unspoilt"
+      "postcode": "686",
+      "distanceKmFromAirport": 25.0,
+      "description": "Quiet white sand beach on the lagoon side - peaceful and unspoilt",
+      "distance": 23.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     },
     {
       "rank": 10,
       "name": "Toddy (Palm Wine) Tapping",
-      "description": "Watch toddy collectors climb coconut palms at dawn to collect fresh palm sap"
+      "postcode": "686",
+      "distanceKmFromAirport": 3.0,
+      "description": "Watch toddy collectors climb coconut palms at dawn to collect fresh palm sap",
+      "distance": 1.0,
+      "URL": "https://www.kiribatitourism.gov.ki"
     }
   ]
 }

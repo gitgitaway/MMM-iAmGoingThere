@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Angkor Wat",
-      "description": "UNESCO World Heritage world's largest religious monument - the greatest temple complex ever built"
+      "postcode": "170201",
+      "distanceKmFromAirport": 13,
+      "description": "UNESCO World Heritage world's largest religious monument - the greatest temple complex ever built",
+      "distance": 6.0,
+      "URL": "https://www.apsara.gov.kh/"
     },
     {
       "rank": 2,
       "name": "Bayon Temple (Angkor Thom)",
-      "description": "Khmer masterpiece with 216 serene stone faces gazing in all directions"
+      "postcode": "170201",
+      "distanceKmFromAirport": 16,
+      "description": "Khmer masterpiece with 216 serene stone faces gazing in all directions",
+      "distance": 9.0,
+      "URL": "https://www.apsara.gov.kh/"
     },
     {
       "rank": 3,
       "name": "Ta Prohm Temple",
-      "description": "Jungle-choked temple where giant strangler fig tree roots engulf the stone ruins"
+      "postcode": "170201",
+      "distanceKmFromAirport": 17,
+      "description": "Jungle-choked temple where giant strangler fig tree roots engulf the stone ruins",
+      "distance": 10.0,
+      "URL": "https://www.apsara.gov.kh/"
     },
     {
       "rank": 4,
       "name": "Sunrise at Angkor Wat",
-      "description": "The most iconic sunrise in Asia - Angkor's reflection in the moat at dawn"
+      "postcode": "170201",
+      "distanceKmFromAirport": 13,
+      "description": "The most iconic sunrise in Asia - Angkor's reflection in the moat at dawn",
+      "distance": 6.0,
+      "URL": "https://www.apsara.gov.kh/"
     },
     {
       "rank": 5,
       "name": "Banteay Srei",
-      "description": "10th-century temple of exquisitely detailed pink sandstone carvings - the jewel of Angkor"
+      "postcode": "170201",
+      "distanceKmFromAirport": 32,
+      "description": "10th-century temple of exquisitely detailed pink sandstone carvings - the jewel of Angkor",
+      "distance": 25.0,
+      "URL": "https://www.apsara.gov.kh/"
     },
     {
       "rank": 6,
       "name": "Pub Street & Night Market",
-      "description": "Siem Reap's lively night scene with street food, cocktails and Cambodian arts and crafts"
+      "postcode": "170201",
+      "distanceKmFromAirport": 9,
+      "description": "Siem Reap's lively night scene with street food, cocktails and Cambodian arts and crafts",
+      "distance": 0.0,
+      "URL": "https://www.angkorwat.org"
     },
     {
       "rank": 7,
       "name": "Tonle Sap Floating Villages",
-      "description": "Sunset boat trip to floating villages on Asia's largest freshwater lake"
+      "postcode": "170201",
+      "distanceKmFromAirport": 22,
+      "description": "Sunset boat trip to floating villages on Asia's largest freshwater lake",
+      "distance": 15.0,
+      "URL": "https://www.angkorwat.org"
     },
     {
       "rank": 8,
       "name": "Angkor National Museum",
-      "description": "8 galleries of Khmer history and art to understand Angkor Wat before you visit"
+      "postcode": "170201",
+      "distanceKmFromAirport": 10,
+      "description": "8 galleries of Khmer history and art to understand Angkor Wat before you visit",
+      "distance": 2.0,
+      "URL": "https://www.angkornationalmuseum.com/"
     },
     {
       "rank": 9,
       "name": "Phare Circus",
-      "description": "Extraordinary Cambodian circus using acrobatics to tell traditional stories"
+      "postcode": "170201",
+      "distanceKmFromAirport": 10,
+      "description": "Extraordinary Cambodian circus using acrobatics to tell traditional stories",
+      "distance": 2.0,
+      "URL": "https://pharecircus.org/"
     },
     {
       "rank": 10,
       "name": "Beng Mealea",
-      "description": "Remote jungle-engulfed temple 68km from Siem Reap - entirely unrestored and atmospheric"
+      "postcode": "170201",
+      "distanceKmFromAirport": 75,
+      "description": "Remote jungle-engulfed temple 68km from Siem Reap - entirely unrestored and atmospheric",
+      "distance": 68.0,
+      "URL": "https://www.apsara.gov.kh/"
     }
   ]
 }

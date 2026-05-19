@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Tel Aviv Beaches",
-      "description": "16km of sandy Mediterranean beaches with vibrant beach culture and watersports"
+      "postcode": "6343229",
+      "distanceKmFromAirport": 21,
+      "description": "16km of sandy Mediterranean beaches with vibrant beach culture and watersports",
+      "distance": 1.0,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 2,
       "name": "Old Jaffa (Yafo)",
-      "description": "Ancient port city with winding alleyways, art galleries and the famous Jaffa flea market"
+      "postcode": "6812200",
+      "distanceKmFromAirport": 25,
+      "description": "Ancient port city with winding alleyways, art galleries and the famous Jaffa flea market",
+      "distance": 5.0,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 3,
       "name": "Carmel Market (Shuk HaCarmel)",
-      "description": "Tel Aviv's most colourful market with street food, spices and Israeli produce"
+      "postcode": "6530818",
+      "distanceKmFromAirport": 22,
+      "description": "Tel Aviv's most colourful market with street food, spices and Israeli produce",
+      "distance": 2.5,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 4,
       "name": "White City Bauhaus Architecture",
-      "description": "UNESCO World Heritage largest concentration of Bauhaus buildings in the world"
+      "postcode": "6578011",
+      "distanceKmFromAirport": 22,
+      "description": "UNESCO World Heritage largest concentration of Bauhaus buildings in the world",
+      "distance": 2.0,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 5,
       "name": "Neve Tzedek",
-      "description": "Tel Aviv's first neighbourhood, now a bohemian district of boutiques and art galleries"
+      "postcode": "6612401",
+      "distanceKmFromAirport": 23,
+      "description": "Tel Aviv's first neighbourhood, now a bohemian district of boutiques and art galleries",
+      "distance": 3.0,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 6,
       "name": "Tel Aviv Museum of Art",
-      "description": "Leading museum with Israeli and international art including Impressionism and Abstract"
+      "postcode": "6423209",
+      "distanceKmFromAirport": 22,
+      "description": "Leading museum with Israeli and international art including Impressionism and Abstract",
+      "distance": 2.5,
+      "URL": "https://www.tamuseum.org.il/en/"
     },
     {
       "rank": 7,
       "name": "Rothschild Boulevard",
-      "description": "Tree-lined boulevard with Bauhaus architecture, cafes and the Declaration of Independence site"
+      "postcode": "6578011",
+      "distanceKmFromAirport": 22,
+      "description": "Tree-lined boulevard with Bauhaus architecture, cafes and the Declaration of Independence site",
+      "distance": 2.0,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 8,
       "name": "Sarona Market",
-      "description": "Upmarket food and lifestyle market in a restored German Templar colony"
+      "postcode": "6423001",
+      "distanceKmFromAirport": 22,
+      "description": "Upmarket food and lifestyle market in a restored German Templar colony",
+      "distance": 2.5,
+      "URL": "https://www.sarona.co.il/"
     },
     {
       "rank": 9,
       "name": "Independence Hall",
-      "description": "Where David Ben-Gurion declared the State of Israel in 1948"
+      "postcode": "6612401",
+      "distanceKmFromAirport": 23,
+      "description": "Where David Ben-Gurion declared the State of Israel in 1948",
+      "distance": 3.0,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     },
     {
       "rank": 10,
       "name": "Florentin",
-      "description": "Gritty street art neighbourhood with the city's most creative bars and galleries"
+      "postcode": "6619011",
+      "distanceKmFromAirport": 24,
+      "description": "Gritty street art neighbourhood with the city's most creative bars and galleries",
+      "distance": 3.5,
+      "URL": "https://www.tel-aviv.gov.il/en/"
     }
   ]
 }

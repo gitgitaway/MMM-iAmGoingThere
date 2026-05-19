@@ -1,0 +1,98 @@
+{
+  "city": "Turin",
+  "country": "Italy",
+  "airportPostcode": "10072",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Egyptian Museum",
+      "postcode": "10121",
+      "distanceKmFromAirport": 18,
+      "description": "The world's second-greatest Egyptian antiquities museum after Cairo, with 30,000 artefacts including complete royal mummies",
+      "distance": 1.5,
+      "URL": "https://www.museoegizio.it/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Mole Antonelliana",
+      "postcode": "10122",
+      "distanceKmFromAirport": 18,
+      "description": "Turin's iconic 167-metre tower housing the National Cinema Museum, with a glass panoramic lift ascending to stunning views",
+      "distance": 1.8,
+      "URL": "https://www.museocinema.it/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Palazzo Reale",
+      "postcode": "10122",
+      "distanceKmFromAirport": 18,
+      "description": "UNESCO World Heritage royal palace of the House of Savoy with lavish state apartments, armory and royal gardens",
+      "distance": 1.2,
+      "URL": "https://www.ilpalazzorealeditorino.beniculturali.it/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Piazza Castello",
+      "postcode": "10122",
+      "distanceKmFromAirport": 18,
+      "description": "Turin's magnificent central square dominated by Palazzo Madama and Palazzo Reale at the heart of the baroque capital",
+      "distance": 1.2,
+      "URL": "https://www.turismotorino.org/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Holy Shroud of Turin (Cathedral)",
+      "postcode": "10122",
+      "distanceKmFromAirport": 18,
+      "description": "The San Giovanni Battista Cathedral houses the famous Shroud of Turin, Christendom's most debated and venerated relic",
+      "distance": 1.2,
+      "URL": "https://www.sindone.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Juventus Stadium (Allianz Stadium)",
+      "postcode": "10151",
+      "distanceKmFromAirport": 20,
+      "description": "Home of Juventus FC with a 41,500-seat capacity; the club's museum displays 36 Serie A titles and 14 Coppa Italia trophies",
+      "distance": 4.5,
+      "URL": "https://www.juventus.com/en/stadium/"
+    },
+    {
+      "rank": 7,
+      "name": "National Automobile Museum (MAUTO)",
+      "postcode": "10133",
+      "distanceKmFromAirport": 20,
+      "description": "World-class automotive museum with 200 cars tracing 130 years of motoring history in Turin, birthplace of Fiat and Lancia",
+      "distance": 3.5,
+      "URL": "https://www.museoauto.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Porta Palazzo Market",
+      "postcode": "10152",
+      "distanceKmFromAirport": 18,
+      "description": "Europe's largest open-air market selling everything from fresh produce to antiques in Turin's most vibrant neighbourhood",
+      "distance": 1.0,
+      "URL": "https://www.portapalazzo.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Galleria Sabauda",
+      "postcode": "10122",
+      "distanceKmFromAirport": 18,
+      "description": "Royal picture gallery with Flemish, Dutch and Italian masterpieces including works by Van Eyck, Van Dyck and Mantegna",
+      "distance": 1.3,
+      "URL": "https://www.galleriasamauda.it/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Parco del Valentino",
+      "postcode": "10126",
+      "distanceKmFromAirport": 19,
+      "description": "Turin's grandest park along the Po with a French baroque castle, botanical gardens and a reconstructed medieval village",
+      "distance": 2.5,
+      "URL": "https://www.turismotorino.org/en/parco-del-valentino"
+    }
+  ]
+}

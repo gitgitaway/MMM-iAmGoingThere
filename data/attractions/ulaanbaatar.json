@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Gandantegchinlen Monastery",
-      "description": "Mongolia's most important Buddhist monastery with a 26.5m gold-plated Janraisig statue"
+      "postcode": "16040",
+      "distanceKmFromAirport": 20.0,
+      "description": "Mongolia's most important Buddhist monastery with a 26.5m gold-plated Janraisig statue",
+      "distance": 3.0,
+      "URL": "https://www.gandan.mn"
     },
     {
       "rank": 2,
       "name": "National Museum of Mongolia",
-      "description": "Mongolian history from the Stone Age through the Mongol Empire to Soviet era"
+      "postcode": "17020",
+      "distanceKmFromAirport": 18.5,
+      "description": "Mongolian history from the Stone Age through the Mongol Empire to Soviet era",
+      "distance": 1.5,
+      "URL": "https://www.nationalmuseum.mn"
     },
     {
       "rank": 3,
       "name": "Sukhbaatar Square",
-      "description": "Central square with the Parliament Building, Genghis Khan statue and independence monument"
+      "postcode": "17020",
+      "distanceKmFromAirport": 18.8,
+      "description": "Central square with the Parliament Building, Genghis Khan statue and independence monument",
+      "distance": 0.0,
+      "URL": "https://www.mongoliatourism.gov.mn"
     },
     {
       "rank": 4,
       "name": "Bogd Khan Palace Museum",
-      "description": "Winter palace of the last Bogd Khan with extraordinary Buddhist art collection"
+      "postcode": "17010",
+      "distanceKmFromAirport": 19.5,
+      "description": "Winter palace of the last Bogd Khan with extraordinary Buddhist art collection",
+      "distance": 2.5,
+      "URL": "https://www.bogdkhanmuseum.mn"
     },
     {
       "rank": 5,
       "name": "Terelj National Park",
-      "description": "60km from UB - dramatic granite landscapes, ger camps and Genghis Khan Equestrian Statue"
+      "postcode": "13400",
+      "distanceKmFromAirport": 40.0,
+      "description": "60km from UB - dramatic granite landscapes, ger camps and Genghis Khan Equestrian Statue",
+      "distance": 60.0,
+      "URL": "https://www.terelj.mn"
     },
     {
       "rank": 6,
       "name": "Genghis Khan Equestrian Statue",
-      "description": "World's largest equestrian statue - 40m stainless steel on the vast Mongolian steppe"
+      "postcode": "13400",
+      "distanceKmFromAirport": 45.0,
+      "description": "World's largest equestrian statue - 40m stainless steel on the vast Mongolian steppe",
+      "distance": 65.0,
+      "URL": "https://www.gkes.mn"
     },
     {
       "rank": 7,
       "name": "Choijin Lama Temple Museum",
-      "description": "Early 20th-century Buddhist temple complex with terrifying Tantric deity masks and art"
+      "postcode": "17020",
+      "distanceKmFromAirport": 18.9,
+      "description": "Early 20th-century Buddhist temple complex with terrifying Tantric deity masks and art",
+      "distance": 1.0,
+      "URL": "https://www.choijinlama.mn"
     },
     {
       "rank": 8,
       "name": "Naadam Festival",
-      "description": "Mongolia's greatest festival with the Three Manly Games: wrestling, archery and horse racing"
+      "postcode": "17020",
+      "distanceKmFromAirport": 19.0,
+      "description": "Mongolia's greatest festival with the Three Manly Games: wrestling, archery and horse racing",
+      "distance": 1.5,
+      "URL": "https://www.naadam.org"
     },
     {
       "rank": 9,
       "name": "Black Market (Narantuul Bazaar)",
-      "description": "Enormous outdoor market selling everything from deel robes to motorbike parts"
+      "postcode": "17020",
+      "distanceKmFromAirport": 19.2,
+      "description": "Enormous outdoor market selling everything from deel robes to motorbike parts",
+      "distance": 2.0,
+      "URL": "https://www.mongoliatourism.gov.mn"
     },
     {
       "rank": 10,
       "name": "Natural History Museum",
-      "description": "Dinosaur fossils from the Gobi Desert including Velociraptor and Protoceratops specimens"
+      "postcode": "17020",
+      "distanceKmFromAirport": 18.6,
+      "description": "Dinosaur fossils from the Gobi Desert including Velociraptor and Protoceratops specimens",
+      "distance": 1.2,
+      "URL": "https://www.naturalmuseum.mn"
     }
   ]
 }

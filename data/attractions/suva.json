@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Fiji Museum",
-      "description": "South Pacific's finest museum with the cannibal fork of Reverend Baker and traditional artifacts"
+      "postcode": "679",
+      "distanceKmFromAirport": 24.5,
+      "description": "South Pacific's finest museum with the cannibal fork of Reverend Baker and traditional artifacts",
+      "distance": 0.5,
+      "URL": "https://www.fijimuseum.org.fj"
     },
     {
       "rank": 2,
       "name": "Suva Municipal Market",
-      "description": "Bustling market with tropical produce, kava, spices and Fijian handicrafts"
+      "postcode": "679",
+      "distanceKmFromAirport": 24.5,
+      "description": "Bustling market with tropical produce, kava, spices and Fijian handicrafts",
+      "distance": 0.3,
+      "URL": "https://www.suvamunicipalmarket.fj"
     },
     {
       "rank": 3,
       "name": "Thurston Gardens",
-      "description": "Botanical gardens in the centre of Suva established in the 1880s with tropical plants"
+      "postcode": "679",
+      "distanceKmFromAirport": 24.5,
+      "description": "Botanical gardens in the centre of Suva established in the 1880s with tropical plants",
+      "distance": 1.0,
+      "URL": "https://www.thurston-gardens.fj"
     },
     {
       "rank": 4,
       "name": "Suva Harbour & Foreshore",
-      "description": "Waterfront promenade with views of the harbour and the cruise ship terminal"
+      "postcode": "679",
+      "distanceKmFromAirport": 24.5,
+      "description": "Waterfront promenade with views of the harbour and the cruise ship terminal",
+      "distance": 0.2,
+      "URL": "https://www.suva-foreshore.fj"
     },
     {
       "rank": 5,
       "name": "Colo-i-Suva Forest Park",
-      "description": "Tropical rainforest reserve with waterfalls and swimming holes just 11km from Suva"
+      "postcode": "679",
+      "distanceKmFromAirport": 26.0,
+      "description": "Tropical rainforest reserve with waterfalls and swimming holes just 11km from Suva",
+      "distance": 11.0,
+      "URL": "https://www.coloisuva.org.fj"
     },
     {
       "rank": 6,
       "name": "Government Buildings",
-      "description": "Grand colonial parliament complex built in 1939 in neoclassical style"
+      "postcode": "679",
+      "distanceKmFromAirport": 24.5,
+      "description": "Grand colonial parliament complex built in 1939 in neoclassical style",
+      "distance": 0.8,
+      "URL": "https://www.governmentbuildings.fj"
     },
     {
       "rank": 7,
       "name": "Holy Trinity Cathedral",
-      "description": "Anglican cathedral with a mosaic Christ window and a traditional Fijian feel"
+      "postcode": "679",
+      "distanceKmFromAirport": 24.5,
+      "description": "Anglican cathedral with a mosaic Christ window and a traditional Fijian feel",
+      "distance": 0.5,
+      "URL": "https://www.holytrinitycathedral.fj"
     },
     {
       "rank": 8,
       "name": "Levuka Historic Town",
-      "description": "Fiji's original capital and the South Pacific's first colonial town, a UNESCO Heritage Site"
+      "postcode": "360",
+      "distanceKmFromAirport": 60.0,
+      "description": "Fiji's original capital and the South Pacific's first colonial town, a UNESCO Heritage Site",
+      "distance": 50.0,
+      "URL": "https://www.levukatown.fj"
     },
     {
       "rank": 9,
       "name": "Pacific Harbour Arts Village",
-      "description": "World-class shark dive and traditional Fijian cultural village west of Suva"
+      "postcode": "679",
+      "distanceKmFromAirport": 35.0,
+      "description": "World-class shark dive and traditional Fijian cultural village west of Suva",
+      "distance": 40.0,
+      "URL": "https://www.pacificharbour-fiji.com"
     },
     {
       "rank": 10,
       "name": "Natadola Beach",
-      "description": "Fiji's finest white-sand beach on the Coral Coast, 60km from Suva"
+      "postcode": "679",
+      "distanceKmFromAirport": 50.0,
+      "description": "Fiji's finest white-sand beach on the Coral Coast, 60km from Suva",
+      "distance": 65.0,
+      "URL": "https://www.natalola-beach.fj"
     }
   ]
 }

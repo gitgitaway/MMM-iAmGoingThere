@@ -1,0 +1,98 @@
+{
+  "city": "Trnava",
+  "country": "Slovakia",
+  "airportPostcode": "82004",
+  "airportDistanceKm": 55,
+  "things": [
+    {
+      "rank": 1,
+      "name": "St. John the Baptist Cathedral",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Slovakia's most important baroque cathedral from 1637 with extraordinary stucco decoration, the relic of St. John the Almoner and a revered Black Madonna",
+      "distance": 0.5,
+      "URL": "https://www.trnava.sk/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town Walls",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Trnava is one of Slovakia's best preserved medieval walled towns; substantial stretches of 13th-century fortifications with towers remain standing",
+      "distance": 0.3,
+      "URL": "https://www.trnava.sk/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Trnava University",
+      "postcode": "91843",
+      "distanceKmFromAirport": 56,
+      "description": "Founded in 1635 by Cardinal Pazman, Trnava University was the first Hungarian university; the historic campus and church are central to the city's identity",
+      "distance": 0.5,
+      "URL": "https://www.truni.sk/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Main Square (Trojicne namestie)",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Trnava's elegant baroque central square with the Trinity Column, surrounding merchant houses and the lively daily life of this compact city",
+      "distance": 0.3,
+      "URL": "https://www.trnava.sk/en/"
+    },
+    {
+      "rank": 5,
+      "name": "West Slovak Museum",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Regional museum with rich collections on the archaeology, art and history of western Slovakia, housed in a baroque palace in the old town",
+      "distance": 0.4,
+      "URL": "https://www.mzm.sk/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Trnava City Tower",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Medieval tower that has stood as the symbol of Trnava since the 14th century, offering views over the terracotta rooftops of this Little Rome of Slovakia",
+      "distance": 0.4,
+      "URL": "https://www.trnava.sk/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Church of the Holy Trinity",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Spectacular late-baroque Jesuit church with a grand colonnade facade and sumptuous interior that forms the dramatic centerpiece of the main square",
+      "distance": 0.3,
+      "URL": "https://www.trnava.sk/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Trnava Gallery",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Municipal art gallery presenting works by Slovak artists with a particular emphasis on modern and contemporary Slovak visual art",
+      "distance": 0.5,
+      "URL": "https://www.galeriatrnava.sk/"
+    },
+    {
+      "rank": 9,
+      "name": "Trnava Cultural Summer Festival",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Annual summer festival filling the old town squares and courtyards with open-air concerts, theatre and cultural events from June to September",
+      "distance": 0.3,
+      "URL": "https://www.trnava.sk/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Anton Malatinsky Stadium",
+      "postcode": "91701",
+      "distanceKmFromAirport": 56,
+      "description": "Home of FC Spartak Trnava, Slovakia's most successful club with eight league titles and history as a European competitor in the 1960s and 1970s",
+      "distance": 1.5,
+      "URL": "https://www.spartaktrnava.sk/en/"
+    }
+  ]
+}

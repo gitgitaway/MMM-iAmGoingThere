@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Te Papa Museum",
-      "description": "New Zealand's national museum with extraordinary Maori collection and earthquake simulator"
+      "postcode": "6011",
+      "distanceKmFromAirport": 7,
+      "description": "New Zealand's national museum with extraordinary Maori collection and earthquake simulator",
+      "distance": 1.0,
+      "URL": "https://www.tepapa.govt.nz"
     },
     {
       "rank": 2,
       "name": "Wellington Cable Car",
-      "description": "Iconic red cable car from Lambton Quay to the Botanic Garden and observatory"
+      "postcode": "6011",
+      "distanceKmFromAirport": 8,
+      "description": "Iconic red cable car from Lambton Quay to the Botanic Garden and observatory",
+      "distance": 0.5,
+      "URL": "https://www.wellingtoncablecar.co.nz"
     },
     {
       "rank": 3,
       "name": "Weta Workshop",
-      "description": "Film props and special effects workshop behind Lord of the Rings, King Kong and Avatar"
+      "postcode": "6022",
+      "distanceKmFromAirport": 2,
+      "description": "Film props and special effects workshop behind Lord of the Rings, King Kong and Avatar",
+      "distance": 7.0,
+      "URL": "https://www.wetaworkshop.com"
     },
     {
       "rank": 4,
       "name": "Wellington Waterfront",
-      "description": "7km harbour walk with Frank Kitts Park, Frank the tin man sculpture and water taxis"
+      "postcode": "6011",
+      "distanceKmFromAirport": 7,
+      "description": "7km harbour walk with Frank Kitts Park, Frank the tin man sculpture and water taxis",
+      "distance": 0.5,
+      "URL": "https://www.wellingtonnz.com"
     },
     {
       "rank": 5,
       "name": "Mount Victoria Lookout",
-      "description": "Panoramic views of the harbour and beyond from the summit of Mount Victoria"
+      "postcode": "6011",
+      "distanceKmFromAirport": 7,
+      "description": "Panoramic views of the harbour and beyond from the summit of Mount Victoria",
+      "distance": 2.0,
+      "URL": "https://www.wellingtonnz.com"
     },
     {
       "rank": 6,
       "name": "Cuban Quarter (Cuba Street)",
-      "description": "Wellington's arts and culture hub with independent shops, cafes and street art"
+      "postcode": "6011",
+      "distanceKmFromAirport": 9,
+      "description": "Wellington's arts and culture hub with independent shops, cafes and street art",
+      "distance": 0.8,
+      "URL": "https://www.wellingtonnz.com"
     },
     {
       "rank": 7,
       "name": "Zealandia Ecosanctuary",
-      "description": "Urban eco-sanctuary with tuatara, kaka and rare birds in a valley 2km from the CBD"
+      "postcode": "6012",
+      "distanceKmFromAirport": 11,
+      "description": "Urban eco-sanctuary with tuatara, kaka and rare birds in a valley 2km from the CBD",
+      "distance": 3.0,
+      "URL": "https://www.visitzealandia.com"
     },
     {
       "rank": 8,
       "name": "Martinborough Wine Village",
-      "description": "Day trip to charming wine village with Pinot Noir vineyards on the Wairarapa plains"
+      "postcode": "5771",
+      "distanceKmFromAirport": 80,
+      "description": "Day trip to charming wine village with Pinot Noir vineyards on the Wairarapa plains",
+      "distance": 75.0,
+      "URL": "https://www.wairarapatourism.co.nz"
     },
     {
       "rank": 9,
       "name": "New Zealand Parliament (Beehive)",
-      "description": "Tours of the distinctive 1977 circular Executive Wing and historic Parliament Buildings"
+      "postcode": "6160",
+      "distanceKmFromAirport": 8,
+      "description": "Tours of the distinctive 1977 circular Executive Wing and historic Parliament Buildings",
+      "distance": 0.5,
+      "URL": "https://www.parliament.nz"
     },
     {
       "rank": 10,
       "name": "Wellington Zoo",
-      "description": "New Zealand's oldest zoo with nocturnal kiwi house and tuatara enclosure"
+      "postcode": "6021",
+      "distanceKmFromAirport": 5,
+      "description": "New Zealand's oldest zoo with nocturnal kiwi house and tuatara enclosure",
+      "distance": 3.0,
+      "URL": "https://www.wellingtonzoo.com"
     }
   ]
 }

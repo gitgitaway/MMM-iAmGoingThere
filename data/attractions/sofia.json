@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Alexander Nevsky Cathedral",
-      "description": "One of the largest Eastern Orthodox cathedrals in the world with golden domes"
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "One of the largest Eastern Orthodox cathedrals in the world with golden domes",
+      "distance": 1.0,
+      "URL": "https://www.visitsofia.bg"
     },
     {
       "rank": 2,
       "name": "Vitosha Mountain",
-      "description": "National park on the city's doorstep with hiking, skiing and stunning summit views"
+      "postcode": "1680",
+      "distanceKmFromAirport": 20,
+      "description": "National park on the city's doorstep with hiking, skiing and stunning summit views",
+      "distance": 8.0,
+      "URL": "https://www.historymuseum.org"
     },
     {
       "rank": 3,
       "name": "Boyana Church",
-      "description": "UNESCO World Heritage 13th-century church with exceptional medieval frescoes"
+      "postcode": "1618",
+      "distanceKmFromAirport": 25,
+      "description": "UNESCO World Heritage 13th-century church with exceptional medieval frescoes",
+      "distance": 12.0,
+      "URL": "https://www.visitsofia.bg"
     },
     {
       "rank": 4,
       "name": "Rotunda of St George",
-      "description": "Sofia's oldest building, a 4th-century Roman rotunda with medieval frescoes"
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "Sofia's oldest building, a 4th-century Roman rotunda with medieval frescoes",
+      "distance": 0.5,
+      "URL": "https://www.boyanachurch.org"
     },
     {
       "rank": 5,
       "name": "National Palace of Culture",
-      "description": "Brutalist 1981 concert complex with panoramic city views from the exterior"
+      "postcode": "1165",
+      "distanceKmFromAirport": 16,
+      "description": "Brutalist 1981 concert complex with panoramic city views from the exterior",
+      "distance": 3.0,
+      "URL": "https://www.visitsofia.bg"
     },
     {
       "rank": 6,
       "name": "Ivan Vazov National Theatre",
-      "description": "Splendid neoclassical theatre, the oldest and most prestigious in Bulgaria"
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "Splendid neoclassical theatre, the oldest and most prestigious in Bulgaria",
+      "distance": 0.5,
+      "URL": "https://www.visitsofia.bg"
     },
     {
       "rank": 7,
       "name": "National History Museum",
-      "description": "Bulgaria's largest museum with Thracian gold treasures and medieval jewellery"
+      "postcode": "1122",
+      "distanceKmFromAirport": 20,
+      "description": "Bulgaria's largest museum with Thracian gold treasures and medieval jewellery",
+      "distance": 8.0,
+      "URL": "https://www.visitsofia.bg"
     },
     {
       "rank": 8,
       "name": "Sofia Synagogue",
-      "description": "One of the largest synagogues in Europe with a 2,000 kg chandelier"
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "One of the largest synagogues in Europe with a 2,000 kg chandelier",
+      "distance": 0.5,
+      "URL": "https://www.sofiafreetour.com"
     },
     {
       "rank": 9,
       "name": "Archaeological Museum",
-      "description": "Outstanding collection of Thracian and Roman artefacts in a converted mosque"
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "Outstanding collection of Thracian and Roman artefacts in a converted mosque",
+      "distance": 0.5,
+      "URL": "https://www.visitsofia.bg"
     },
     {
       "rank": 10,
       "name": "Central Sofia Market Hall",
-      "description": "Art Nouveau covered market with local produce and traditional Bulgarian food"
+      "postcode": "1000",
+      "distanceKmFromAirport": 13,
+      "description": "Art Nouveau covered market with local produce and traditional Bulgarian food",
+      "distance": 0.5,
+      "URL": "https://www.visitsofia.bg"
     }
   ]
 }

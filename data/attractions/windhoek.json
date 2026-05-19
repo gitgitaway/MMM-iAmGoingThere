@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Sossusvlei Red Sand Dunes",
-      "description": "World's highest sand dunes in the Namib Desert with Dead Vlei salt pan and dead trees"
+      "postcode": "15001",
+      "distanceKmFromAirport": 385,
+      "description": "World's highest sand dunes in the Namib Desert with Dead Vlei salt pan and dead trees",
+      "distance": 350.0,
+      "URL": "https://www.nwr.com.na"
     },
     {
       "rank": 2,
       "name": "Etosha National Park Safari",
-      "description": "Floodlit waterholes attract lions, elephants and rhinos at night"
+      "postcode": "31001",
+      "distanceKmFromAirport": 472,
+      "description": "Floodlit waterholes attract lions, elephants and rhinos at night",
+      "distance": 435.0,
+      "URL": "https://www.namibiawildlife.org"
     },
     {
       "rank": 3,
       "name": "Fish River Canyon",
-      "description": "World's second largest canyon after the Grand Canyon - 160km long and 550m deep"
+      "postcode": "2812",
+      "distanceKmFromAirport": 576,
+      "description": "World's second largest canyon after the Grand Canyon - 160km long and 550m deep",
+      "distance": 540.0,
+      "URL": "https://www.namibiatourism.com.na"
     },
     {
       "rank": 4,
       "name": "Christuskirche (Christ Church)",
-      "description": "1907 German Lutheran church - Windhoek's most iconic building"
+      "postcode": "10005",
+      "distanceKmFromAirport": 42,
+      "description": "1907 German Lutheran church - Windhoek's most iconic building",
+      "distance": 0.5,
+      "URL": "https://www.namibiatourism.com.na"
     },
     {
       "rank": 5,
       "name": "National Museum of Namibia",
-      "description": "Namibian natural history and the Alte Feste (Old Fort) colonial history"
+      "postcode": "10005",
+      "distanceKmFromAirport": 42,
+      "description": "Namibian natural history and the Alte Feste (Old Fort) colonial history",
+      "distance": 0.3,
+      "URL": "https://www.namibiatourism.com.na"
     },
     {
       "rank": 6,
       "name": "Katutura Township Tour",
-      "description": "Tour of the apartheid-era township with its vibrant street food and cuca shops"
+      "postcode": "10003",
+      "distanceKmFromAirport": 46,
+      "description": "Tour of the apartheid-era township with its vibrant street food and cuca shops",
+      "distance": 4.0,
+      "URL": "https://www.namibiatourism.com.na"
     },
     {
       "rank": 7,
       "name": "Namibian Craft Centre",
-      "description": "Namibia's finest crafts - San bushman jewelry, weaving, Himba dolls"
+      "postcode": "10005",
+      "distanceKmFromAirport": 42,
+      "description": "Namibia's finest crafts - San bushman jewelry, weaving, Himba dolls",
+      "distance": 0.5,
+      "URL": "https://www.namibiatourism.com.na"
     },
     {
       "rank": 8,
       "name": "Swakopmund & Skeleton Coast",
-      "description": "German colonial seaside town with quad biking on desert dunes meeting the cold Atlantic"
+      "postcode": "22000",
+      "distanceKmFromAirport": 393,
+      "description": "German colonial seaside town with quad biking on desert dunes meeting the cold Atlantic",
+      "distance": 360.0,
+      "URL": "https://www.namibiatourism.com.na"
     },
     {
       "rank": 9,
       "name": "Namibia Cheetah Conservation Fund",
-      "description": "World's leading cheetah research facility with up-close encounters"
+      "postcode": "10000",
+      "distanceKmFromAirport": 8,
+      "description": "World's leading cheetah research facility with up-close encounters",
+      "distance": 35.0,
+      "URL": "https://www.cheetah.org"
     },
     {
       "rank": 10,
       "name": "Oryx Steak & Kapana Street Grills",
-      "description": "Namibian oryx or kudu steak and kapana grilled meat at Katutura market"
+      "postcode": "10003",
+      "distanceKmFromAirport": 46,
+      "description": "Namibian oryx or kudu steak and kapana grilled meat at Katutura market",
+      "distance": 4.0,
+      "URL": "https://www.namibiatourism.com.na"
     }
   ]
 }

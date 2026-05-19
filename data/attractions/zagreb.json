@@ -1,0 +1,98 @@
+{
+  "city": "Zagreb",
+  "country": "Croatia",
+  "airportPostcode": "10410",
+  "airportDistanceKm": 17,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Upper Town (Gornji Grad)",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Zagreb's medieval hilltop old town with St Mark's Church, Lotrscak Tower and funicular ride",
+      "distance": 0.8,
+      "URL": "https://www.infozagreb.hr/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Museum of Broken Relationships",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Quirky award-winning museum of personal objects donated after failed relationships — uniquely moving",
+      "distance": 0.8,
+      "URL": "https://brokenships.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Dolac Market",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Zagreb's vibrant open-air farmers market operating since 1930 — fresh produce, flowers and local food",
+      "distance": 0.5,
+      "URL": "https://www.infozagreb.hr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Zagreb Cathedral",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Croatia's tallest building (108m) — Gothic cathedral with the tomb of Cardinal Stepinac",
+      "distance": 0.8,
+      "URL": "https://www.infozagreb.hr/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Mirogoj Cemetery",
+      "postcode": "10000",
+      "distanceKmFromAirport": 20,
+      "description": "One of Europe's most beautiful cemeteries — monumental arcaded cemetery park from 1876",
+      "distance": 3.0,
+      "URL": "https://www.infozagreb.hr/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Ban Jelacic Square",
+      "postcode": "10000",
+      "distanceKmFromAirport": 17,
+      "description": "Zagreb's main square with the equestrian statue of Ban Jelacic — the city's social hub",
+      "distance": 0.3,
+      "URL": "https://www.infozagreb.hr/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Tkalciceva Street",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Pedestrianised bar and cafe street in the old town — Zagreb's liveliest street for terrace drinking",
+      "distance": 0.5,
+      "URL": "https://www.infozagreb.hr/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Art Pavilion",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Beautiful yellow Art Nouveau exhibition pavilion (1898) in King Tomislav Square",
+      "distance": 1.5,
+      "URL": "https://www.umjetnicki-paviljon.hr/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Plitvice Lakes National Park",
+      "postcode": "53231",
+      "distanceKmFromAirport": 157,
+      "description": "UNESCO World Heritage cascading turquoise lakes and waterfalls in the Croatian mountains — 140 km away",
+      "distance": 140.0,
+      "URL": "https://www.np-plitvicka-jezera.hr/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Zagreb Craft Beer Scene",
+      "postcode": "10000",
+      "distanceKmFromAirport": 18,
+      "description": "Croatia's thriving craft beer culture — visit taprooms in the Lower Town and the Craft Beer Festival",
+      "distance": 1.0,
+      "URL": "https://www.infozagreb.hr/en/"
+    }
+  ]
+}

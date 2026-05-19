@@ -6,53 +6,93 @@
   "things": [
     {
       "rank": 1,
-      "name": "Tallinn Old Town",
-      "description": "UNESCO World Heritage medieval Hanseatic old town, one of the best-preserved in Europe"
+      "name": "Tallinn Old Town (Vanalinn)",
+      "postcode": "10146",
+      "distanceKmFromAirport": 4,
+      "description": "UNESCO World Heritage perfectly preserved medieval city — one of the best in northern Europe",
+      "distance": 0.5,
+      "URL": "https://www.visittallinn.ee/eng/"
     },
     {
       "rank": 2,
       "name": "Toompea Castle & Alexander Nevsky Cathedral",
-      "description": "Parliament hill with an onion-domed Russian Orthodox cathedral and city views"
+      "postcode": "15048",
+      "distanceKmFromAirport": 5,
+      "description": "Upper town with the Estonian Parliament building and the onion-domed Russian Orthodox cathedral",
+      "distance": 0.8,
+      "URL": "https://www.visittallinn.ee/eng/"
     },
     {
       "rank": 3,
-      "name": "Town Hall Square (Raekoja plats)",
-      "description": "Gothic town hall and medieval square surrounded by merchant houses and cafes"
+      "name": "Town Hall Square (Raekoja Plats)",
+      "postcode": "10146",
+      "distanceKmFromAirport": 4,
+      "description": "Medieval heart of the city with the 15th-century Town Hall and surrounding merchants' guild houses",
+      "distance": 0.3,
+      "URL": "https://www.visittallinn.ee/eng/"
     },
     {
       "rank": 4,
       "name": "Kumu Art Museum",
-      "description": "Estonia's largest museum of Estonian and world art in a striking contemporary building"
+      "postcode": "10137",
+      "distanceKmFromAirport": 7,
+      "description": "Estonia's largest art museum in a dramatic limestone building with Soviet-era and contemporary Estonian art",
+      "distance": 3.0,
+      "URL": "https://kumu.ekm.ee/en/"
     },
     {
       "rank": 5,
       "name": "Kadriorg Palace & Park",
-      "description": "Baroque palace built by Peter the Great with a Russian-influenced formal garden"
+      "postcode": "10145",
+      "distanceKmFromAirport": 7,
+      "description": "Peter the Great's Baroque palace in a beautiful park with rose gardens and swans",
+      "distance": 3.0,
+      "URL": "https://www.kadriorupark.ee/en/"
     },
     {
       "rank": 6,
-      "name": "Seaplane Harbour Museum",
-      "description": "Outstanding maritime museum in a restored seaplane hangar with a Soviet submarine"
+      "name": "Patarei Prison Sea Fortress",
+      "postcode": "10412",
+      "distanceKmFromAirport": 6,
+      "description": "Eerie Soviet-era prison on the waterfront — preserved in a state of decay as a memorial to totalitarianism",
+      "distance": 2.0,
+      "URL": "https://www.patarei.org/en/"
     },
     {
       "rank": 7,
-      "name": "Great Guild Hall",
-      "description": "15th-century merchant hall housing the Estonian History Museum"
+      "name": "Telliskivi Creative City",
+      "postcode": "10412",
+      "distanceKmFromAirport": 6,
+      "description": "Trendy repurposed factory complex with flea markets, restaurants, street art and creative studios",
+      "distance": 2.5,
+      "URL": "https://www.telliskivi.cc/en/"
     },
     {
       "rank": 8,
-      "name": "Tallinn Song Festival Grounds",
-      "description": "Massive outdoor amphitheatre for the UNESCO Estonian Song Festival tradition"
+      "name": "Viru Gate & Medieval Wall Towers",
+      "postcode": "10146",
+      "distanceKmFromAirport": 4,
+      "description": "Tallinn's most photographed medieval gate towers — walk along surviving sections of the 14th-century walls",
+      "distance": 0.5,
+      "URL": "https://www.visittallinn.ee/eng/"
     },
     {
       "rank": 9,
-      "name": "Pirita Convent Ruins",
-      "description": "Haunting 15th-century ruins of the largest convent in medieval Livonia"
+      "name": "Estonian Open Air Museum",
+      "postcode": "13522",
+      "distanceKmFromAirport": 14,
+      "description": "Huge rural heritage museum with 72 historic farmsteads, windmills and cottages from the 18th-20th centuries",
+      "distance": 10.0,
+      "URL": "https://www.evm.ee/eng/"
     },
     {
       "rank": 10,
-      "name": "Lennusadam Seaplane Harbour",
-      "description": "World's largest and best-preserved triploid concrete seaplane hangars"
+      "name": "Helsinki Day Trip by Ferry",
+      "postcode": "00170",
+      "distanceKmFromAirport": 94,
+      "description": "2-hour ferry across the Gulf of Finland to Helsinki — a popular day trip for both cities' visitors",
+      "distance": 90.0,
+      "URL": "https://www.eckeroline.com/en/"
     }
   ]
 }

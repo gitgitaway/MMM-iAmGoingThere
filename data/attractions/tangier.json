@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Kasbah Museum (Dar al Makhzen)",
-      "description": "Former sultan's palace with Moorish architecture and Moroccan antiquities"
+      "postcode": "90000",
+      "distanceKmFromAirport": 15.5,
+      "description": "Former sultan's palace with Moorish architecture and Moroccan antiquities",
+      "distance": 1.0,
+      "URL": "https://www.kasbahmuseum.ma"
     },
     {
       "rank": 2,
       "name": "Cap Spartel & Hercules Cave",
-      "description": "Tip of Africa where Atlantic meets Mediterranean - cave shaped like Africa's outline"
+      "postcode": "90000",
+      "distanceKmFromAirport": 18.0,
+      "description": "Tip of Africa where Atlantic meets Mediterranean - cave shaped like Africa's outline",
+      "distance": 14.0,
+      "URL": "https://www.capespartel.com"
     },
     {
       "rank": 3,
       "name": "Grand Socco & Petit Socco",
-      "description": "The grand and little market squares at the heart of the medina"
+      "postcode": "90000",
+      "distanceKmFromAirport": 15.8,
+      "description": "The grand and little market squares at the heart of the medina",
+      "distance": 1.5,
+      "URL": "https://www.visitmorocco.com"
     },
     {
       "rank": 4,
       "name": "Medina Walking Tour",
-      "description": "Labyrinthine medina where the Beat generation writers - Bowles, Kerouac, Burroughs - lived"
+      "postcode": "90000",
+      "distanceKmFromAirport": 16.0,
+      "description": "Labyrinthine medina where the Beat generation writers - Bowles, Kerouac, Burroughs - lived",
+      "distance": 1.2,
+      "URL": "https://www.visitmorocco.com"
     },
     {
       "rank": 5,
       "name": "American Legation Museum",
-      "description": "US National Historic Landmark - first American public building outside the US"
+      "postcode": "90000",
+      "distanceKmFromAirport": 16.0,
+      "description": "US National Historic Landmark - first American public building outside the US",
+      "distance": 1.0,
+      "URL": "https://www.americanlegation.org"
     },
     {
       "rank": 6,
       "name": "Cafe Hafa (1921)",
-      "description": "Iconic clifftop cafe with mint tea and ocean views - where the Rolling Stones smoked kif"
+      "postcode": "90000",
+      "distanceKmFromAirport": 16.0,
+      "description": "Iconic clifftop cafe with mint tea and ocean views - where the Rolling Stones smoked kif",
+      "distance": 1.8,
+      "URL": "https://www.cafehafa.com"
     },
     {
       "rank": 7,
       "name": "Museum of Contemporary Art of Tangier",
-      "description": "Tangier's vibrant contemporary Moroccan art scene"
+      "postcode": "90000",
+      "distanceKmFromAirport": 15.8,
+      "description": "Tangier's vibrant contemporary Moroccan art scene",
+      "distance": 1.3,
+      "URL": "https://www.matangier.com"
     },
     {
       "rank": 8,
       "name": "Ferry to Spain (Algeciras/Tarifa)",
-      "description": "Cross the Strait of Gibraltar in 35 minutes - amazing views of two continents"
+      "postcode": "90000",
+      "distanceKmFromAirport": 16.5,
+      "description": "Cross the Strait of Gibraltar in 35 minutes - amazing views of two continents",
+      "distance": 2.0,
+      "URL": "https://www.tarryaferry.com"
     },
     {
       "rank": 9,
       "name": "Chefchaouen Day Trip",
-      "description": "Blue-painted mountain town 3 hours south - Morocco's most photogenic city"
+      "postcode": "14000",
+      "distanceKmFromAirport": 95.0,
+      "description": "Blue-painted mountain town 3 hours south - Morocco's most photogenic city",
+      "distance": 120.0,
+      "URL": "https://www.chefchaoun.com"
     },
     {
       "rank": 10,
       "name": "Tagine at Dar Nour",
-      "description": "Roof terrace tagine overlooking the bay"
+      "postcode": "90000",
+      "distanceKmFromAirport": 16.0,
+      "description": "Roof terrace tagine overlooking the bay",
+      "distance": 1.2,
+      "URL": "https://www.darnour.com"
     }
   ]
 }

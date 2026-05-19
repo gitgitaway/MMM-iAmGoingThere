@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Vilnius Old Town",
-      "description": "UNESCO World Heritage Baroque old town, the largest in Eastern Europe"
+      "postcode": "LT-01100",
+      "distanceKmFromAirport": 6,
+      "description": "UNESCO World Heritage Baroque old town, the largest in Eastern Europe",
+      "distance": 0.3,
+      "URL": "https://www.vilnius-tourism.lt"
     },
     {
       "rank": 2,
       "name": "Gediminas Castle Tower",
-      "description": "14th-century hilltop tower with panoramic views over the city and museum of city history"
+      "postcode": "LT-01108",
+      "distanceKmFromAirport": 6,
+      "description": "14th-century hilltop tower with panoramic views over the city and museum of city history",
+      "distance": 0.5,
+      "URL": "https://www.lnm.lt/en/gediminas-tower"
     },
     {
       "rank": 3,
       "name": "Cathedral Square",
-      "description": "Neo-classical Cathedral and its separate bell tower at the heart of historic Vilnius"
+      "postcode": "LT-01143",
+      "distanceKmFromAirport": 6,
+      "description": "Neo-classical Cathedral and its separate bell tower at the heart of historic Vilnius",
+      "distance": 0.2,
+      "URL": "https://www.vilnius-tourism.lt"
     },
     {
       "rank": 4,
       "name": "Uzupis Republic",
-      "description": "Bohemian artists' district that declared itself an independent republic in 1997"
+      "postcode": "LT-01202",
+      "distanceKmFromAirport": 7,
+      "description": "Bohemian artists' district that declared itself an independent republic in 1997",
+      "distance": 1.0,
+      "URL": "https://www.uzupis.lt"
     },
     {
       "rank": 5,
       "name": "Gates of Dawn (Ausros Vartai)",
-      "description": "Only surviving gate of the medieval city walls with a miraculous icon of the Virgin Mary"
+      "postcode": "LT-01135",
+      "distanceKmFromAirport": 6,
+      "description": "Only surviving gate of the medieval city walls with a miraculous icon of the Virgin Mary",
+      "distance": 0.8,
+      "URL": "https://www.ausrosvartai.lt"
     },
     {
       "rank": 6,
       "name": "Vilnius University",
-      "description": "One of Europe's oldest universities with 13 courtyards and remarkable library frescoes"
+      "postcode": "LT-01122",
+      "distanceKmFromAirport": 6,
+      "description": "One of Europe's oldest universities with 13 courtyards and remarkable library frescoes",
+      "distance": 0.4,
+      "URL": "https://www.vu.lt"
     },
     {
       "rank": 7,
       "name": "Museum of Occupations & Resistance",
-      "description": "Sobering museum in the former KGB headquarters with preserved interrogation cells"
+      "postcode": "LT-01100",
+      "distanceKmFromAirport": 7,
+      "description": "Sobering museum in the former KGB headquarters with preserved interrogation cells",
+      "distance": 0.7,
+      "URL": "https://www.genocid.lt/muziejus"
     },
     {
       "rank": 8,
       "name": "Church of St Anne",
-      "description": "Exquisite Flamboyant Gothic brick church that Napoleon wanted to take back to Paris"
+      "postcode": "LT-01109",
+      "distanceKmFromAirport": 6,
+      "description": "Exquisite Flamboyant Gothic brick church that Napoleon wanted to take back to Paris",
+      "distance": 0.6,
+      "URL": "https://www.vilnius-tourism.lt"
     },
     {
       "rank": 9,
       "name": "Trakai Castle",
-      "description": "Remarkable island castle in a lake 28km from Vilnius, once capital of the Grand Duchy"
+      "postcode": "LT-21101",
+      "distanceKmFromAirport": 32,
+      "description": "Remarkable island castle in a lake 28km from Vilnius, once capital of the Grand Duchy",
+      "distance": 28.0,
+      "URL": "https://www.trakaimuziejus.lt"
     },
     {
       "rank": 10,
       "name": "Bernardine Garden",
-      "description": "Historic park below the castle hill with sculptures and summer concerts"
+      "postcode": "LT-01124",
+      "distanceKmFromAirport": 6,
+      "description": "Historic park below the castle hill with sculptures and summer concerts",
+      "distance": 0.5,
+      "URL": "https://www.vilnius-tourism.lt"
     }
   ]
 }

@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "White Tower",
-      "description": "Iconic 15th-century Ottoman tower and symbol of Thessaloniki on the seafront promenade"
+      "postcode": "546 21",
+      "distanceKmFromAirport": 16,
+      "description": "Iconic 15th-century Ottoman tower and symbol of Thessaloniki on the seafront promenade",
+      "distance": 1.5,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 2,
       "name": "Archaeological Museum",
-      "description": "Outstanding collection of Macedonian gold including the treasures of Philip II of Macedon"
+      "postcode": "546 21",
+      "distanceKmFromAirport": 17,
+      "description": "Outstanding collection of Macedonian gold including the treasures of Philip II of Macedon",
+      "distance": 2.0,
+      "URL": "https://www.amth.gr/en"
     },
     {
       "rank": 3,
       "name": "Ano Poli (Upper Town)",
-      "description": "Byzantine walled upper town with timber-framed houses and the Eptapyrgio fortress"
+      "postcode": "546 34",
+      "distanceKmFromAirport": 18,
+      "description": "Byzantine walled upper town with timber-framed houses and the Eptapyrgio fortress",
+      "distance": 3.5,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 4,
       "name": "Rotunda",
-      "description": "Magnificent 4th-century Roman mausoleum converted to a church with extraordinary mosaics"
+      "postcode": "546 21",
+      "distanceKmFromAirport": 16,
+      "description": "Magnificent 4th-century Roman mausoleum converted to a church with extraordinary mosaics",
+      "distance": 1.5,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 5,
       "name": "Byzantine Museum",
-      "description": "Exceptional collection of Byzantine icons, relics and ecclesiastical treasures"
+      "postcode": "546 21",
+      "distanceKmFromAirport": 17,
+      "description": "Exceptional collection of Byzantine icons, relics and ecclesiastical treasures",
+      "distance": 2.0,
+      "URL": "https://www.mbp.gr/en/"
     },
     {
       "rank": 6,
       "name": "Aristotelous Square",
-      "description": "Grand colonnaded seafront square and the social heart of the city"
+      "postcode": "546 24",
+      "distanceKmFromAirport": 16,
+      "description": "Grand colonnaded seafront square and the social heart of the city",
+      "distance": 1.0,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 7,
       "name": "Roman Forum (Ancient Agora)",
-      "description": "Excavated Roman forum with the remains of baths and an odeon in the city centre"
+      "postcode": "546 35",
+      "distanceKmFromAirport": 16,
+      "description": "Excavated Roman forum with the remains of baths and an odeon in the city centre",
+      "distance": 1.2,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 8,
       "name": "Modiano & Kapani Markets",
-      "description": "Historic covered markets brimming with spices, olives, fish and Thessaloniki's food culture"
+      "postcode": "546 24",
+      "distanceKmFromAirport": 16,
+      "description": "Historic covered markets brimming with spices, olives, fish and Thessaloniki's food culture",
+      "distance": 1.0,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 9,
       "name": "Thessaloniki Waterfront",
-      "description": "Elegant 3km seafront promenade with sculptures, cafes and sunset views"
+      "postcode": "546 21",
+      "distanceKmFromAirport": 16,
+      "description": "Elegant 3km seafront promenade with sculptures, cafes and sunset views",
+      "distance": 1.5,
+      "URL": "https://www.thessaloniki.travel/en/"
     },
     {
       "rank": 10,
       "name": "Ladadika",
-      "description": "Former Jewish commercial district now a lively neighbourhood of tavernas and music venues"
+      "postcode": "546 26",
+      "distanceKmFromAirport": 16,
+      "description": "Former Jewish commercial district now a lively neighbourhood of tavernas and music venues",
+      "distance": 1.5,
+      "URL": "https://www.thessaloniki.travel/en/"
     }
   ]
 }

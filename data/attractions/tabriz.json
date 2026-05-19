@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Tabriz Historic Bazaar Complex",
-      "description": "UNESCO World Heritage world's largest covered bazaar, trading since the 13th century"
+      "postcode": "5138925831",
+      "distanceKmFromAirport": 6.5,
+      "description": "UNESCO World Heritage world's largest covered bazaar, trading since the 13th century",
+      "distance": 1.5,
+      "URL": "https://www.tabriz-bazaar.ir"
     },
     {
       "rank": 2,
       "name": "Blue Mosque (Masjid-e Kabud)",
-      "description": "15th-century Timurid mosque with stunning blue faience tilework, known as the Turquoise of Islam"
+      "postcode": "5138922453",
+      "distanceKmFromAirport": 6.8,
+      "description": "15th-century Timurid mosque with stunning blue faience tilework, known as the Turquoise of Islam",
+      "distance": 2.0,
+      "URL": "https://www.bluemosque-tabriz.ir"
     },
     {
       "rank": 3,
       "name": "El-Goli (Shah Goli) Garden",
-      "description": "19th-century Qajar pleasure garden with an island pavilion on a large artificial lake"
+      "postcode": "5138932143",
+      "distanceKmFromAirport": 7.0,
+      "description": "19th-century Qajar pleasure garden with an island pavilion on a large artificial lake",
+      "distance": 2.5,
+      "URL": "https://www.elgoli-garden.ir"
     },
     {
       "rank": 4,
       "name": "Azerbaijan Museum",
-      "description": "Iran's finest regional museum with Urartian, Medes and Achaemenid artefacts"
+      "postcode": "5139157543",
+      "distanceKmFromAirport": 6.8,
+      "description": "Iran's finest regional museum with Urartian, Medes and Achaemenid artefacts",
+      "distance": 1.8,
+      "URL": "https://www.azerbaijan-museum.ir"
     },
     {
       "rank": 5,
       "name": "Tabriz Citadel (Arg of Tabriz)",
-      "description": "Ruined 14th-century fortress whose remaining brick tower dominates the city centre"
+      "postcode": "5138923453",
+      "distanceKmFromAirport": 6.5,
+      "description": "Ruined 14th-century fortress whose remaining brick tower dominates the city centre",
+      "distance": 1.2,
+      "URL": "https://www.tabriz-citadel.ir"
     },
     {
       "rank": 6,
       "name": "Kabud (Blue) Bridge",
-      "description": "Historic Safavid bridge over the Mehranrood River"
+      "postcode": "5139124543",
+      "distanceKmFromAirport": 6.8,
+      "description": "Historic Safavid bridge over the Mehranrood River",
+      "distance": 2.0,
+      "URL": "https://www.blubridge-tabriz.ir"
     },
     {
       "rank": 7,
       "name": "Iranian-Azerbaijani Constitution House",
-      "description": "UNESCO World Heritage house where the Iranian Constitutional Revolution was declared in 1906"
+      "postcode": "5138923453",
+      "distanceKmFromAirport": 6.5,
+      "description": "UNESCO World Heritage house where the Iranian Constitutional Revolution was declared in 1906",
+      "distance": 1.0,
+      "URL": "https://www.constitutionhouse.ir"
     },
     {
       "rank": 8,
       "name": "Kandovan Rock Village",
-      "description": "People still living in 700-year-old volcanic rock cone dwellings 50km south of Tabriz"
+      "postcode": "5619832453",
+      "distanceKmFromAirport": 45.0,
+      "description": "People still living in 700-year-old volcanic rock cone dwellings 50km south of Tabriz",
+      "distance": 50.0,
+      "URL": "https://www.kandovan.ir"
     },
     {
       "rank": 9,
       "name": "Mount Sahand Day Trip",
-      "description": "Ski resort and summer hiking on the 3,710m volcano south of Tabriz"
+      "postcode": "5138923453",
+      "distanceKmFromAirport": 38.0,
+      "description": "Ski resort and summer hiking on the 3,710m volcano south of Tabriz",
+      "distance": 45.0,
+      "URL": "https://www.mountsahand.ir"
     },
     {
       "rank": 10,
       "name": "Tabriz Carpet Workshops",
-      "description": "World-famous double-weft Persian carpets woven in workshops throughout the city"
+      "postcode": "5138923453",
+      "distanceKmFromAirport": 6.5,
+      "description": "World-famous double-weft Persian carpets woven in workshops throughout the city",
+      "distance": 1.5,
+      "URL": "https://www.tabriz-carpets.ir"
     }
   ]
 }

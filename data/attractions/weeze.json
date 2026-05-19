@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Xanten Archaeological Park",
-      "description": "Reconstructed Roman city of Colonia Ulpia Traiana with amphitheatre and temples"
+      "postcode": "46509",
+      "distanceKmFromAirport": 22,
+      "description": "Reconstructed Roman city of Colonia Ulpia Traiana with amphitheatre and temples",
+      "distance": 20.0,
+      "URL": "https://www.apx.de"
     },
     {
       "rank": 2,
       "name": "Wunderland Kalkar",
-      "description": "Unique amusement park built inside an unfinished nuclear power station"
+      "postcode": "47546",
+      "distanceKmFromAirport": 12,
+      "description": "Unique amusement park built inside an unfinished nuclear power station",
+      "distance": 10.0,
+      "URL": "https://www.wunderlandkalkar.eu"
     },
     {
       "rank": 3,
       "name": "Kevelaer Pilgrimage Town",
-      "description": "Important Marian pilgrimage site with Kapellenplatz and the Candle Chapel"
+      "postcode": "47623",
+      "distanceKmFromAirport": 10,
+      "description": "Important Marian pilgrimage site with Kapellenplatz and the Candle Chapel",
+      "distance": 8.0,
+      "URL": "https://www.kevelaer.de"
     },
     {
       "rank": 4,
       "name": "Goch Old Town",
-      "description": "Charming small town with medieval towers, Steintor gateway and the Grosse Kirche"
+      "postcode": "47574",
+      "distanceKmFromAirport": 11,
+      "description": "Charming small town with medieval towers, Steintor gateway and the Grosse Kirche",
+      "distance": 9.0,
+      "URL": "https://www.goch.de"
     },
     {
       "rank": 5,
       "name": "Rhine Meadows",
-      "description": "Scenic Lower Rhine landscape with cycle paths, nature reserves and dyke walks"
+      "postcode": "47652",
+      "distanceKmFromAirport": 9,
+      "description": "Scenic Lower Rhine landscape with cycle paths, nature reserves and dyke walks",
+      "distance": 8.0,
+      "URL": "https://www.mgladbach.de"
     },
     {
       "rank": 6,
       "name": "Geldern Market Square",
-      "description": "Attractive town with Linner Tor gate and the baroque St Mary's church"
+      "postcode": "47608",
+      "distanceKmFromAirport": 15,
+      "description": "Attractive town with Linner Tor gate and the baroque St Mary's church",
+      "distance": 13.0,
+      "URL": "https://www.geldern.de"
     },
     {
       "rank": 7,
       "name": "Museum Goch",
-      "description": "Regional art and history museum in a former Franciscan monastery"
+      "postcode": "47574",
+      "distanceKmFromAirport": 11,
+      "description": "Regional art and history museum in a former Franciscan monastery",
+      "distance": 9.0,
+      "URL": "https://www.museumgoch.de"
     },
     {
       "rank": 8,
       "name": "Niers River Nature Reserve",
-      "description": "Tranquil riverside cycling and walking through Lower Rhine countryside"
+      "postcode": "47652",
+      "distanceKmFromAirport": 7,
+      "description": "Tranquil riverside cycling and walking through Lower Rhine countryside",
+      "distance": 5.0,
+      "URL": "https://www.straelen.de"
     },
     {
       "rank": 9,
       "name": "Asperden Forest",
-      "description": "Peaceful woodland with marked trails and the medieval monastery ruins"
+      "postcode": "47574",
+      "distanceKmFromAirport": 8,
+      "description": "Peaceful woodland with marked trails and the medieval monastery ruins",
+      "distance": 6.0,
+      "URL": "https://www.venlo.nl"
     },
     {
       "rank": 10,
       "name": "Kervenheim Mill",
-      "description": "Historic smock windmill in the picturesque lower Rhine landscape"
+      "postcode": "47647",
+      "distanceKmFromAirport": 5,
+      "description": "Historic smock windmill in the picturesque lower Rhine landscape",
+      "distance": 3.0,
+      "URL": "https://www.goch.de"
     }
   ]
 }

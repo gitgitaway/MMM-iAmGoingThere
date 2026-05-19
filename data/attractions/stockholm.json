@@ -1,58 +1,98 @@
 {
   "city": "Stockholm",
   "country": "Sweden",
-  "airportPostcode": "190 90",
-  "airportDistanceKm": 40,
+  "airportPostcode": "190 45",
+  "airportDistanceKm": 42,
   "things": [
     {
       "rank": 1,
       "name": "Vasa Museum",
-      "description": "Extraordinary 17th-century warship preserved almost intact, the world's most visited museum ship"
+      "postcode": "115 21",
+      "distanceKmFromAirport": 46,
+      "description": "The extraordinary 17th-century warship Vasa, salvaged after 333 years at the bottom of Stockholm harbour",
+      "distance": 4.0,
+      "URL": "https://www.vasamuseet.se/en"
     },
     {
       "rank": 2,
       "name": "Gamla Stan (Old Town)",
-      "description": "Medieval island city with cobbled streets, the Royal Palace and Nobel Prize Museum"
+      "postcode": "111 29",
+      "distanceKmFromAirport": 42,
+      "description": "One of Europe's best-preserved medieval city centres on an island — colourful houses and Nobel Museum",
+      "distance": 0.5,
+      "URL": "https://www.visitstockholm.com/see-do/attractions/gamla-stan/"
     },
     {
       "rank": 3,
       "name": "ABBA Museum",
-      "description": "Interactive museum celebrating ABBA with costumes, instruments and recording studios"
+      "postcode": "115 21",
+      "distanceKmFromAirport": 46,
+      "description": "Interactive museum dedicated to Sweden's most iconic pop group with holograms, costumes and recording booths",
+      "distance": 4.0,
+      "URL": "https://www.abbathemuseum.com/en/"
     },
     {
       "rank": 4,
-      "name": "Djurgarden Island",
-      "description": "Green museum island with Skansen, Vasa, ABBA and Tivoli Grona Lund"
+      "name": "Royal Palace (Kungliga Slottet)",
+      "postcode": "107 70",
+      "distanceKmFromAirport": 43,
+      "description": "One of the world's largest royal palaces — the official residence of the Swedish royal family",
+      "distance": 0.8,
+      "URL": "https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html"
     },
     {
       "rank": 5,
       "name": "Skansen Open Air Museum",
-      "description": "World's first open-air museum with 150 historic buildings and Sweden's oldest zoo"
+      "postcode": "115 21",
+      "distanceKmFromAirport": 46,
+      "description": "The world's oldest open air museum (1891) with 150 historic buildings and Nordic wildlife",
+      "distance": 4.5,
+      "URL": "https://www.skansen.se/en/"
     },
     {
       "rank": 6,
-      "name": "Royal Palace (Kungliga Slottet)",
-      "description": "One of Europe's largest palaces still in official use with treasury and royal apartments"
+      "name": "Fotografiska Photography Museum",
+      "postcode": "116 46",
+      "distanceKmFromAirport": 44,
+      "description": "World-class photography museum in a converted Art Nouveau customs house with a rooftop restaurant",
+      "distance": 2.0,
+      "URL": "https://www.fotografiska.com/sto/"
     },
     {
       "rank": 7,
-      "name": "Fotografiska",
-      "description": "World-leading photography museum with rotating major exhibitions and rooftop views"
+      "name": "Djurgarden Island",
+      "postcode": "115 21",
+      "distanceKmFromAirport": 46,
+      "description": "Royal national city park island housing the Vasa, Skansen, ABBA Museum and Nordic Museum",
+      "distance": 4.0,
+      "URL": "https://www.visitstockholm.com/see-do/attractions/djurgarden/"
     },
     {
       "rank": 8,
-      "name": "Moderna Museet",
-      "description": "Outstanding collection of 20th and 21st century art on Skeppsholmen island"
+      "name": "Stockholm City Hall (Stadshuset)",
+      "postcode": "111 20",
+      "distanceKmFromAirport": 44,
+      "description": "The 1923 landmark where the Nobel Prize banquet is held — climb the tower for panoramic views",
+      "distance": 1.5,
+      "URL": "https://stadshuset.stockholm/en/"
     },
     {
       "rank": 9,
-      "name": "Drottningholm Palace",
-      "description": "UNESCO World Heritage royal palace on Lake Malaren with a preserved 18th-century theatre"
+      "name": "Sodermalm District",
+      "postcode": "116 30",
+      "distanceKmFromAirport": 44,
+      "description": "Stockholm's coolest neighbourhood on a rocky island — vintage shops, indie cafes and Stieg Larsson country",
+      "distance": 2.0,
+      "URL": "https://www.visitstockholm.com/"
     },
     {
       "rank": 10,
-      "name": "Stockholm Archipelago",
-      "description": "30,000 islands within easy reach by ferry for a classic Swedish summer experience"
+      "name": "Stockholm Archipelago Boat Trip",
+      "postcode": "111 20",
+      "distanceKmFromAirport": 44,
+      "description": "30,000 islands — day cruises through the archipelago from Stromkajen pier are a quintessential Stockholm experience",
+      "distance": 2.0,
+      "URL": "https://www.stromma.com/en-se/stockholm/"
     }
   ]
 }

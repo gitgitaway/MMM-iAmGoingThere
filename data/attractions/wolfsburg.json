@@ -1,0 +1,98 @@
+{
+  "city": "Wolfsburg",
+  "country": "Germany",
+  "airportPostcode": "38108",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Autostadt",
+      "postcode": "38440",
+      "distanceKmFromAirport": 19,
+      "description": "Volkswagen's extraordinary 25-hectare automotive theme park next to the VW factory with 12 pavilions, glass car towers and immersive interactive exhibits",
+      "distance": 1.0,
+      "URL": "https://www.autostadt.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "VW Factory Tour",
+      "postcode": "38436",
+      "distanceKmFromAirport": 18,
+      "description": "Guided tours of the legendary Volkswagen Transparent Factory and main Wolfsburg production lines; see how Golf and Polo cars are built live",
+      "distance": 1.5,
+      "URL": "https://www.volkswagen-newsroom.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Phaeno Science Centre",
+      "postcode": "38440",
+      "distanceKmFromAirport": 19,
+      "description": "Zaha Hadid-designed science museum with over 250 hands-on experiments in a dramatic concrete building; one of Europe's most innovative science centres",
+      "distance": 1.0,
+      "URL": "https://www.phaeno.de/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Kunstmuseum Wolfsburg",
+      "postcode": "38440",
+      "distanceKmFromAirport": 19,
+      "description": "Leading contemporary art museum with major changing exhibitions and an outstanding collection of international modern and contemporary art",
+      "distance": 1.5,
+      "URL": "https://www.kunstmuseum-wolfsburg.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Wolfsburg Castle",
+      "postcode": "38448",
+      "distanceKmFromAirport": 21,
+      "description": "14th-century moated castle that gave the city its name, set in parkland on the Aller river north of the city centre with a charming restaurant",
+      "distance": 5.0,
+      "URL": "https://www.wolfsburg.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Allerpark",
+      "postcode": "38446",
+      "distanceKmFromAirport": 20,
+      "description": "Large urban recreation park on the Aller river with a lake, beach, water sports, cycling paths and Wolfsburg's main outdoor leisure area",
+      "distance": 3.0,
+      "URL": "https://www.wolfsburg.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Stadt Gallery",
+      "postcode": "38440",
+      "distanceKmFromAirport": 19,
+      "description": "Municipal art gallery presenting temporary exhibitions of modern and contemporary art in the heart of the purpose-built city centre",
+      "distance": 1.0,
+      "URL": "https://www.wolfsburg.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Autostadt Car Towers",
+      "postcode": "38440",
+      "distanceKmFromAirport": 19,
+      "description": "The iconic twin glass cylindrical towers at Autostadt store 800 new Volkswagen vehicles each and have become Wolfsburg's most recognisable landmark",
+      "distance": 1.0,
+      "URL": "https://www.autostadt.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Wolfsburg City Library (Stadtbibliothek)",
+      "postcode": "38440",
+      "distanceKmFromAirport": 19,
+      "description": "Award-winning modern library in the city centre hub, reflecting Wolfsburg's ambition as a model planned city of cultural and intellectual resources",
+      "distance": 1.0,
+      "URL": "https://www.wolfsburg.de/"
+    },
+    {
+      "rank": 10,
+      "name": "Volkswagen Arena",
+      "postcode": "38446",
+      "distanceKmFromAirport": 20,
+      "description": "Home of VfL Wolfsburg with a 30,000-seat capacity; the club won the 2009 Bundesliga and the 2015 DFB-Pokal and has competed in the Champions League",
+      "distance": 3.5,
+      "URL": "https://www.vfl-wolfsburg.de/en/"
+    }
+  ]
+}

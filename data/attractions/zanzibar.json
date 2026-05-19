@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Stone Town",
-      "description": "UNESCO World Heritage Swahili trading city with carved Arab doors, mosques and the slave market"
+      "postcode": "97100",
+      "distanceKmFromAirport": 9.0,
+      "description": "UNESCO World Heritage Swahili trading city with carved Arab doors, mosques and the slave market",
+      "distance": 4.0,
+      "URL": "https://www.stonetown.info"
     },
     {
       "rank": 2,
       "name": "Nungwi Beach",
-      "description": "Powder-white sand and turquoise water at Zanzibar's most beautiful north coast beach"
+      "postcode": "97075",
+      "distanceKmFromAirport": 52.5,
+      "description": "Powder-white sand and turquoise water at Zanzibar's most beautiful north coast beach",
+      "distance": 48.0,
+      "URL": "https://www.zanzibartourism.net"
     },
     {
       "rank": 3,
       "name": "Prison Island (Changuu)",
-      "description": "Giant Aldabra tortoises and clear water snorkelling on the former slave-holding island"
+      "postcode": "97100",
+      "distanceKmFromAirport": 10.2,
+      "description": "Giant Aldabra tortoises and clear water snorkelling on the former slave-holding island",
+      "distance": 5.5,
+      "URL": "https://www.prison-island.com"
     },
     {
       "rank": 4,
       "name": "Spice Tour",
-      "description": "Half-day tour of clove, vanilla, cardamom, cinnamon and black pepper farms"
+      "postcode": "97200",
+      "distanceKmFromAirport": 29.5,
+      "description": "Half-day tour of clove, vanilla, cardamom, cinnamon and black pepper farms",
+      "distance": 25.0,
+      "URL": "https://www.zanzibartourism.net"
     },
     {
       "rank": 5,
       "name": "Jozani Forest (Red Colobus Monkeys)",
-      "description": "Only remaining forest on Zanzibar with the unique endangered Kirk's red colobus monkey"
+      "postcode": "97200",
+      "distanceKmFromAirport": 36.5,
+      "description": "Only remaining forest on Zanzibar with the unique endangered Kirk's red colobus monkey",
+      "distance": 32.0,
+      "URL": "https://www.jozaniforest.com"
     },
     {
       "rank": 6,
       "name": "Dhow Sunset Cruise",
-      "description": "Sailing on a traditional wooden dhow at sunset with dolphins frequent"
+      "postcode": "97100",
+      "distanceKmFromAirport": 9.2,
+      "description": "Sailing on a traditional wooden dhow at sunset with dolphins frequent",
+      "distance": 4.5,
+      "URL": "https://www.zanzibartourism.net"
     },
     {
       "rank": 7,
       "name": "Freddie Mercury's Birthplace",
-      "description": "Birthplace of Queen frontman Freddie Mercury in the old Stone Town"
+      "postcode": "97100",
+      "distanceKmFromAirport": 9.0,
+      "description": "Birthplace of Queen frontman Freddie Mercury in the old Stone Town",
+      "distance": 4.2,
+      "URL": "https://www.zanzibartourism.net"
     },
     {
       "rank": 8,
       "name": "Forodhani Gardens Night Market",
-      "description": "Seafront evening market with Zanzibar pizza, fresh lobster and sugar cane juice"
+      "postcode": "97100",
+      "distanceKmFromAirport": 8.8,
+      "description": "Seafront evening market with Zanzibar pizza, fresh lobster and sugar cane juice",
+      "distance": 4.0,
+      "URL": "https://www.zanzibartourism.net"
     },
     {
       "rank": 9,
       "name": "Pemba Island Diving",
-      "description": "World-class wall diving on Zanzibar's pristine sister island with strong currents"
+      "postcode": "97100",
+      "distanceKmFromAirport": 64.5,
+      "description": "World-class wall diving on Zanzibar's pristine sister island with strong currents",
+      "distance": 60.0,
+      "URL": "https://www.zanzibartourism.net"
     },
     {
       "rank": 10,
       "name": "Zanzibari Biryani",
-      "description": "Spiced Zanzibar biryani with Indian Ocean seafood - the island's signature dish"
+      "postcode": "97100",
+      "distanceKmFromAirport": 8.8,
+      "description": "Spiced Zanzibar biryani with Indian Ocean seafood - the island's signature dish",
+      "distance": 4.0,
+      "URL": "https://www.zanzibartourism.net"
     }
   ]
 }

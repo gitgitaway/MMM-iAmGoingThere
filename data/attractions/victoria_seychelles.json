@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Vallee de Mai Nature Reserve",
-      "description": "UNESCO World Heritage prehistoric forest on Praslin with the coco de mer palm"
+      "postcode": "Praslin",
+      "distanceKmFromAirport": 50,
+      "description": "UNESCO World Heritage prehistoric forest on Praslin with the coco de mer palm",
+      "distance": 45.0,
+      "URL": "https://www.sif.sc/vallee-de-mai"
     },
     {
       "rank": 2,
       "name": "Anse Source d'Argent, La Digue",
-      "description": "World's most photographed beach with granite boulders and crystal water"
+      "postcode": "La Digue",
+      "distanceKmFromAirport": 65,
+      "description": "World's most photographed beach with granite boulders and crystal water",
+      "distance": 60.0,
+      "URL": "https://www.seychelles.travel"
     },
     {
       "rank": 3,
       "name": "Aldabra Atoll",
-      "description": "UNESCO World Heritage world's second largest coral atoll with giant Aldabra tortoises"
+      "postcode": "Aldabra",
+      "distanceKmFromAirport": 1155,
+      "description": "UNESCO World Heritage world's second largest coral atoll with giant Aldabra tortoises",
+      "distance": 1150.0,
+      "URL": "https://www.sif.sc/aldabra"
     },
     {
       "rank": 4,
       "name": "Victoria Sir Selwyn Selwyn-Clarke Market",
-      "description": "Local market with coco de mer, vanilla, cinnamon, fresh fish and fresh coconut"
+      "postcode": "Victoria",
+      "distanceKmFromAirport": 11,
+      "description": "Local market with coco de mer, vanilla, cinnamon, fresh fish and fresh coconut",
+      "distance": 0.3,
+      "URL": "https://www.seychelles.travel"
     },
     {
       "rank": 5,
       "name": "Mahe Beaches - Beau Vallon",
-      "description": "Mahe's main beach with watersports, snorkelling and a Saturday night market"
+      "postcode": "Beau Vallon",
+      "distanceKmFromAirport": 6,
+      "description": "Mahe's main beach with watersports, snorkelling and a Saturday night market",
+      "distance": 8.0,
+      "URL": "https://www.seychelles.travel"
     },
     {
       "rank": 6,
       "name": "Natural History Museum",
-      "description": "Giant Aldabra tortoise skeleton and the natural history of the Seychelles islands"
+      "postcode": "Victoria",
+      "distanceKmFromAirport": 11,
+      "description": "Giant Aldabra tortoise skeleton and the natural history of the Seychelles islands",
+      "distance": 0.3,
+      "URL": "https://www.seychelles.travel"
     },
     {
       "rank": 7,
       "name": "Morne Seychellois National Park",
-      "description": "Hiking through cinnamon and takamaka forest on the highest peak in the Seychelles"
+      "postcode": "Mahé",
+      "distanceKmFromAirport": 14,
+      "description": "Hiking through cinnamon and takamaka forest on the highest peak in the Seychelles",
+      "distance": 5.0,
+      "URL": "https://www.seychelles.travel"
     },
     {
       "rank": 8,
       "name": "Island Hopping (Praslin, La Digue)",
-      "description": "Ferry to Praslin for the Vallee de Mai, then bicycle around car-free La Digue"
+      "postcode": "Praslin",
+      "distanceKmFromAirport": 50,
+      "description": "Ferry to Praslin for the Vallee de Mai, then bicycle around car-free La Digue",
+      "distance": 45.0,
+      "URL": "https://www.seychelles.travel"
     },
     {
       "rank": 9,
       "name": "Hindu Temple (Sri Navasakthi Vinayagar)",
-      "description": "Colourful South Indian Hindu temple in the heart of Victoria"
+      "postcode": "Victoria",
+      "distanceKmFromAirport": 11,
+      "description": "Colourful South Indian Hindu temple in the heart of Victoria",
+      "distance": 0.2,
+      "URL": "https://www.jardinduiroi.com"
     },
     {
       "rank": 10,
       "name": "Creole Festival (October)",
-      "description": "Festival Kreol celebrating Seychellois Creole music, food and cultural traditions"
+      "postcode": "Victoria",
+      "distanceKmFromAirport": 11,
+      "description": "Festival Kreol celebrating Seychellois Creole music, food and cultural traditions",
+      "distance": 0.5,
+      "URL": "https://www.creolefestival.com"
     }
   ]
 }

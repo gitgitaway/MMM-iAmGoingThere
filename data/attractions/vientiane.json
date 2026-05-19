@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Pha That Luang",
-      "description": "Laos's national symbol - a 45m gold-covered stupa said to contain a relic of the Buddha"
+      "postcode": "0100",
+      "distanceKmFromAirport": 8,
+      "description": "Laos's national symbol - a 45m gold-covered stupa said to contain a relic of the Buddha",
+      "distance": 4.0,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 2,
       "name": "Patuxai (Victory Gate)",
-      "description": "Laotian Arc de Triomphe built with US-donated concrete, with city views from the top"
+      "postcode": "0100",
+      "distanceKmFromAirport": 6,
+      "description": "Laotian Arc de Triomphe built with US-donated concrete, with city views from the top",
+      "distance": 2.0,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 3,
       "name": "Buddha Park (Xieng Khuan)",
-      "description": "Surreal park 25km from the city with 200 Buddhist and Hindu sculptures"
+      "postcode": "0100",
+      "distanceKmFromAirport": 27,
+      "description": "Surreal park 25km from the city with 200 Buddhist and Hindu sculptures",
+      "distance": 25.0,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 4,
       "name": "Wat Si Saket",
-      "description": "Vientiane's oldest surviving temple with 6,840 miniature Buddha images in the cloister walls"
+      "postcode": "0100",
+      "distanceKmFromAirport": 5,
+      "description": "Vientiane's oldest surviving temple with 6,840 miniature Buddha images in the cloister walls",
+      "distance": 1.5,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 5,
       "name": "Haw Pha Kaew",
-      "description": "Former royal temple housing the Emerald Buddha before it was taken to Thailand"
+      "postcode": "0100",
+      "distanceKmFromAirport": 5,
+      "description": "Former royal temple housing the Emerald Buddha before it was taken to Thailand",
+      "distance": 1.5,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 6,
       "name": "Mekong Riverside at Sunset",
-      "description": "Sunset drinks on the Mekong River bank with views across to Thailand"
+      "postcode": "0100",
+      "distanceKmFromAirport": 5,
+      "description": "Sunset drinks on the Mekong River bank with views across to Thailand",
+      "distance": 1.0,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 7,
       "name": "Morning Market (Talat Sao)",
-      "description": "Multi-storey market with Laotian textiles, silver jewellery and electronics"
+      "postcode": "0100",
+      "distanceKmFromAirport": 5,
+      "description": "Multi-storey market with Laotian textiles, silver jewellery and electronics",
+      "distance": 1.0,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 8,
       "name": "Vang Vieng Day Trip",
-      "description": "Kayaking, tubing and caving in the dramatic karst landscape 150km north"
+      "postcode": "0600",
+      "distanceKmFromAirport": 153,
+      "description": "Kayaking, tubing and caving in the dramatic karst landscape 150km north",
+      "distance": 150.0,
+      "URL": "https://www.tourismlaos.org"
     },
     {
       "rank": 9,
       "name": "Cope Visitor Centre",
-      "description": "Moving exhibition on unexploded ordnance remaining from the Secret War in Laos"
+      "postcode": "0100",
+      "distanceKmFromAirport": 6,
+      "description": "Moving exhibition on unexploded ordnance remaining from the Secret War in Laos",
+      "distance": 2.0,
+      "URL": "https://www.copelaos.org"
     },
     {
       "rank": 10,
       "name": "Lao National Museum",
-      "description": "Laotian history from prehistoric times through French colonialism and the Pathet Lao revolution"
+      "postcode": "0100",
+      "distanceKmFromAirport": 5,
+      "description": "Laotian history from prehistoric times through French colonialism and the Pathet Lao revolution",
+      "distance": 1.0,
+      "URL": "https://www.tourismlaos.org"
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "city": "Villarreal",
+  "country": "Spain",
+  "airportPostcode": "46940",
+  "airportDistanceKm": 65,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Estadio de la Cerámica",
+      "postcode": "12540",
+      "distanceKmFromAirport": 65,
+      "description": "Compact and atmospheric 23,500-capacity home of Villarreal CF, the Yellow Submarine, one of Spain's most charming grounds",
+      "distance": 0.5,
+      "URL": "https://www.villarrealcf.es/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Villarreal City Centre",
+      "postcode": "12540",
+      "distanceKmFromAirport": 65,
+      "description": "Compact Valencian city with a pleasant town hall square, local tapas bars and the civic pride of a great footballing town",
+      "distance": 0.3,
+      "URL": "https://www.turismovillarreal.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Basílica de la Virgen de Gracia",
+      "postcode": "12540",
+      "distanceKmFromAirport": 65,
+      "description": "Neoclassical basilica housing the beloved patroness of Villarreal, the focus of the city's most important annual festival",
+      "distance": 0.4,
+      "URL": "https://www.turismovillarreal.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Museu de la Rajoleria",
+      "postcode": "12540",
+      "distanceKmFromAirport": 65,
+      "description": "Fascinating ceramic tile museum celebrating Villarreal's historic tile-making industry that gave the stadium its name",
+      "distance": 0.6,
+      "URL": "https://www.turismovillarreal.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Castellón Old Town",
+      "postcode": "12001",
+      "distanceKmFromAirport": 70,
+      "description": "The regional capital Castellón, just 8km from Villarreal, with a Gothic cathedral, medieval old quarter and vibrant tapas scene",
+      "distance": 8.0,
+      "URL": "https://www.castellonturismo.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Planetari de Castelló",
+      "postcode": "12006",
+      "distanceKmFromAirport": 70,
+      "description": "Modern planetarium in Castellón with full-dome astronomical shows and exhibitions on the universe and space exploration",
+      "distance": 8.5,
+      "URL": "https://www.planetaricastello.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Playa de Almassora",
+      "postcode": "12550",
+      "distanceKmFromAirport": 70,
+      "description": "Long sandy Mediterranean beach with calm waters just a short drive from Villarreal, perfect for a pre or post-match swim",
+      "distance": 6.0,
+      "URL": "https://www.turismovillarreal.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Parque de la Ciudad",
+      "postcode": "12540",
+      "distanceKmFromAirport": 65,
+      "description": "The main public park of Villarreal with gardens, a lake, children's play areas and a pleasant café terrace",
+      "distance": 0.8,
+      "URL": "https://www.turismovillarreal.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Peñíscola Castle",
+      "postcode": "12598",
+      "distanceKmFromAirport": 90,
+      "description": "Dramatic Templar castle on a rock jutting into the Mediterranean, the fortress of antipope Benedict XIII, known as the City in the Sea",
+      "distance": 40.0,
+      "URL": "https://www.peniscola.es/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Museu de Belles Arts de Castelló",
+      "postcode": "12001",
+      "distanceKmFromAirport": 70,
+      "description": "Provincial fine arts museum in Castellón with prehistoric, archaeological and painting collections spanning the region's history",
+      "distance": 8.5,
+      "URL": "https://www.museubellesartscastello.es/"
+    }
+  ]
+}

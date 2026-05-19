@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Ganga Aarti Ceremony (Dashashwamedh Ghat)",
-      "description": "Nightly fire ceremony on the banks of the Ganges - the most spiritually powerful ritual in Hinduism"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.5,
+      "description": "Nightly fire ceremony on the banks of the Ganges - the most spiritually powerful ritual in Hinduism",
+      "distance": 0.0,
+      "URL": "https://www.uptourism.gov.in"
     },
     {
       "rank": 2,
       "name": "Dawn Boat Ride on the Ganges",
-      "description": "Rowing past the 87 ghats at sunrise as priests pray and bodies are cremated"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.6,
+      "description": "Rowing past the 87 ghats at sunrise as priests pray and bodies are cremated",
+      "distance": 0.2,
+      "URL": "https://www.shrikashivishwanath.org"
     },
     {
       "rank": 3,
       "name": "Manikarnika Ghat (Burning Ghat)",
-      "description": "Varanasi's main cremation ghat burning 24 hours a day - Hindus believe dying here grants moksha"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.8,
+      "description": "Varanasi's main cremation ghat burning 24 hours a day - Hindus believe dying here grants moksha",
+      "distance": 0.6,
+      "URL": "https://www.uptourism.gov.in"
     },
     {
       "rank": 4,
       "name": "Kashi Vishwanath Temple",
-      "description": "Hinduism's most sacred temple dedicated to Lord Shiva with gold-plated spires"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.7,
+      "description": "Hinduism's most sacred temple dedicated to Lord Shiva with gold-plated spires",
+      "distance": 0.4,
+      "URL": "https://www.kashivishwanath.org"
     },
     {
       "rank": 5,
       "name": "Old City & Labyrinthine Lanes",
-      "description": "Getting lost in the ancient cow-filled alleyways between the ghats and the temples"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.5,
+      "description": "Getting lost in the ancient cow-filled alleyways between the ghats and the temples",
+      "distance": 0.3,
+      "URL": "https://www.bhu.ac.in"
     },
     {
       "rank": 6,
       "name": "Sarnath",
-      "description": "10km away - the deer park where the Buddha gave his first sermon after enlightenment"
+      "postcode": "221007",
+      "distanceKmFromAirport": 32.0,
+      "description": "10km away - the deer park where the Buddha gave his first sermon after enlightenment",
+      "distance": 10.0,
+      "URL": "https://www.sarnath.gov.in"
     },
     {
       "rank": 7,
       "name": "Durga Temple (Monkey Temple)",
-      "description": "18th-century temple to Durga with resident rhesus monkeys"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.9,
+      "description": "18th-century temple to Durga with resident rhesus monkeys",
+      "distance": 0.8,
+      "URL": "https://www.uptourism.gov.in"
     },
     {
       "rank": 8,
       "name": "Silk Weaving Workshops",
-      "description": "Varanasi's famous brocade silk sarees woven on handlooms in family workshops"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.6,
+      "description": "Varanasi's famous brocade silk sarees woven on handlooms in family workshops",
+      "distance": 0.5,
+      "URL": "https://www.uptourism.gov.in"
     },
     {
       "rank": 9,
       "name": "Bharat Mata Temple",
-      "description": "Unique temple with a marble relief map of undivided India instead of a deity"
+      "postcode": "221001",
+      "distanceKmFromAirport": 25.0,
+      "description": "Unique temple with a marble relief map of undivided India instead of a deity",
+      "distance": 1.2,
+      "URL": "https://www.uptourism.gov.in"
     },
     {
       "rank": 10,
       "name": "Lassi at Blue Lassi Shop",
-      "description": "Legendary yogurt drink shop serving since 1925 with 20 flavours including bhang lassi"
+      "postcode": "221001",
+      "distanceKmFromAirport": 24.5,
+      "description": "Legendary yogurt drink shop serving since 1925 with 20 flavours including bhang lassi",
+      "distance": 0.1,
+      "URL": "https://www.uptourism.gov.in"
     }
   ]
 }

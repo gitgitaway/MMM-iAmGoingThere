@@ -1,0 +1,98 @@
+{
+  "city": "Shannon",
+  "country": "Ireland",
+  "airportPostcode": "V14 FY66",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bunratty Castle & Folk Park",
+      "postcode": "V95 E276",
+      "distanceKmFromAirport": 14,
+      "description": "Restored 15th-century tower castle with medieval banquets and a 26-acre open-air folk museum depicting rural Irish life",
+      "distance": 13,
+      "URL": "https://www.shannonheritage.com/bunratty-castle-folk-park/"
+    },
+    {
+      "rank": 2,
+      "name": "Dromoland Castle",
+      "postcode": "V95 XY42",
+      "distanceKmFromAirport": 9,
+      "description": "Magnificent 16th-century castle of the O'Brien clan, now a five-star hotel set in 450 acres of parkland on Lough Dromoland",
+      "distance": 8,
+      "URL": "https://www.dromoland.ie/"
+    },
+    {
+      "rank": 3,
+      "name": "Cliffs of Moher",
+      "postcode": "V95 X6K6",
+      "distanceKmFromAirport": 47,
+      "description": "Ireland's most visited natural attraction — dramatic sea cliffs rising 214 m above the Atlantic, part of the Burren & Cliffs of Moher UNESCO Geopark",
+      "distance": 46,
+      "URL": "https://www.cliffsofmoher.ie/"
+    },
+    {
+      "rank": 4,
+      "name": "King John's Castle",
+      "postcode": "V94 NR07",
+      "distanceKmFromAirport": 25,
+      "description": "Landmark 13th-century Anglo-Norman fortress on King's Island in Limerick city, with interactive exhibits on medieval life",
+      "distance": 23,
+      "URL": "https://kingjohnscastle.com/"
+    },
+    {
+      "rank": 5,
+      "name": "The Burren",
+      "postcode": "H91 V070",
+      "distanceKmFromAirport": 53,
+      "description": "Vast limestone karst landscape of unparalleled natural beauty — unique wildflowers, ancient dolmens and Ailwee Cave nestled in the UNESCO Geopark",
+      "distance": 52,
+      "URL": "https://www.burrengeopark.ie/"
+    },
+    {
+      "rank": 6,
+      "name": "Ennis Friary",
+      "postcode": "V95 HN85",
+      "distanceKmFromAirport": 22,
+      "description": "Remarkably well-preserved 13th-century Franciscan friary in the heart of Ennis, the county town of Clare, with intricate medieval carvings",
+      "distance": 20,
+      "URL": "https://www.heritageireland.ie/places-to-visit/ennis-friary/"
+    },
+    {
+      "rank": 7,
+      "name": "Craggaunowen — The Living Past",
+      "postcode": "V95 HW54",
+      "distanceKmFromAirport": 20,
+      "description": "Open-air museum bringing prehistoric Ireland to life with a reconstructed crannog, ring fort and Tim Severin's replica Atlantic currach",
+      "distance": 18,
+      "URL": "https://www.shannonheritage.com/craggaunowen/"
+    },
+    {
+      "rank": 8,
+      "name": "Quin Abbey",
+      "postcode": "V95 C529",
+      "distanceKmFromAirport": 20,
+      "description": "One of Ireland's best-preserved Franciscan friaries (1433), built over a Norman castle with a tranquil cloister and tower to climb",
+      "distance": 18,
+      "URL": "https://www.heritageireland.ie/places-to-visit/quin-abbey/"
+    },
+    {
+      "rank": 9,
+      "name": "Loop Head Peninsula",
+      "postcode": "V15 VP26",
+      "distanceKmFromAirport": 66,
+      "description": "Wild Atlantic Way headland at Ireland's south-western tip — Loop Head Lighthouse, sea stacks, dolphin watching and spectacular cliff walks",
+      "distance": 65,
+      "URL": "https://www.loophead.ie/"
+    },
+    {
+      "rank": 10,
+      "name": "Killaloe & Brian Boru Heritage Centre",
+      "postcode": "V12 E4F5",
+      "distanceKmFromAirport": 34,
+      "description": "Charming heritage village on the shores of Lough Derg, birthplace of High King Brian Boru, with a 12th-century cathedral and vibrant waterside village",
+      "distance": 32,
+      "URL": "https://www.killaloe.ie/"
+    }
+  ]
+}

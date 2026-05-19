@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "Skanderbeg Square",
-      "description": "Central plaza honouring the Albanian national hero with an equestrian statue"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24.5,
+      "description": "Central plaza honouring the Albanian national hero with an equestrian statue",
+      "distance": 0.2,
+      "URL": "https://www.albania.al"
     },
     {
       "rank": 2,
       "name": "National History Museum",
-      "description": "Albania's largest museum with a remarkable mosaic facade and Albanian history"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24.6,
+      "description": "Albania's largest museum with a remarkable mosaic facade and Albanian history",
+      "distance": 0.3,
+      "URL": "https://www.nmuseum.gov.al"
     },
     {
       "rank": 3,
       "name": "Bunk'Art 2",
-      "description": "Cold War nuclear bunker under the Interior Ministry converted to a dark history museum"
+      "postcode": "1001",
+      "distanceKmFromAirport": 24.0,
+      "description": "Cold War nuclear bunker under the Interior Ministry converted to a dark history museum",
+      "distance": 1.5,
+      "URL": "https://www.bunka2.com"
     },
     {
       "rank": 4,
       "name": "Et'hem Bey Mosque",
-      "description": "Early 19th-century mosque with remarkable frescoes of trees and waterfalls"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24.5,
+      "description": "Early 19th-century mosque with remarkable frescoes of trees and waterfalls",
+      "distance": 0.2,
+      "URL": "https://www.ethembey.org"
     },
     {
       "rank": 5,
       "name": "Pazari i Ri (New Bazaar)",
-      "description": "Revitalised Ottoman market with colourful produce stalls and craft workshops"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24.6,
+      "description": "Revitalised Ottoman market with colourful produce stalls and craft workshops",
+      "distance": 0.4,
+      "URL": "https://www.albania.al"
     },
     {
       "rank": 6,
       "name": "Pyramid of Tirana",
-      "description": "Hoxha-era communist mausoleum now a youth cultural centre and concert venue"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24.8,
+      "description": "Hoxha-era communist mausoleum now a youth cultural centre and concert venue",
+      "distance": 1.0,
+      "URL": "https://www.albania.al"
     },
     {
       "rank": 7,
       "name": "Dajti Mountain & Cable Car",
-      "description": "Dajti Ekspres cable car to a forested mountain park above the city"
+      "postcode": "1009",
+      "distanceKmFromAirport": 26.0,
+      "description": "Dajti Ekspres cable car to a forested mountain park above the city",
+      "distance": 3.0,
+      "URL": "https://www.dajtiexpres.com"
     },
     {
       "rank": 8,
       "name": "National Art Gallery",
-      "description": "Socialist Realist art and 20th-century Albanian paintings in a neoclassical building"
+      "postcode": "1000",
+      "distanceKmFromAirport": 24.5,
+      "description": "Socialist Realist art and 20th-century Albanian paintings in a neoclassical building",
+      "distance": 0.5,
+      "URL": "https://www.nationalgallery.al"
     },
     {
       "rank": 9,
       "name": "Artificial Lake Park (Parku i Liqenit)",
-      "description": "Large park and lake on the edge of the city, popular for evening walks"
+      "postcode": "1019",
+      "distanceKmFromAirport": 27.0,
+      "description": "Large park and lake on the edge of the city, popular for evening walks",
+      "distance": 4.0,
+      "URL": "https://www.albania.al"
     },
     {
       "rank": 10,
       "name": "Bunk'Art 1",
-      "description": "Enormous 5-storey communist nuclear bunker converted to an art and history space"
+      "postcode": "1010",
+      "distanceKmFromAirport": 25.5,
+      "description": "Enormous 5-storey communist nuclear bunker converted to an art and history space",
+      "distance": 2.0,
+      "URL": "https://www.bunka1.com"
     }
   ]
 }

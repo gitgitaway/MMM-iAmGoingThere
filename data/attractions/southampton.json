@@ -7,52 +7,92 @@
     {
       "rank": 1,
       "name": "SeaCity Museum",
-      "description": "Award-winning museum telling the stories of Southampton and its maritime heritage including the Titanic"
+      "postcode": "SO14 3PA",
+      "distanceKmFromAirport": 10,
+      "description": "Award-winning museum telling the stories of Southampton and its maritime heritage including the Titanic",
+      "distance": 4.0,
+      "URL": "https://www.seacitymuseum.co.uk/"
     },
     {
       "rank": 2,
       "name": "Titanic Memorials",
-      "description": "Moving memorials throughout the city to the engineers, musicians and crew who perished"
+      "postcode": "SO14 3PA",
+      "distanceKmFromAirport": 10,
+      "description": "Moving memorials throughout the city to the engineers, musicians and crew who perished",
+      "distance": 4.0,
+      "URL": "https://www.southampton.gov.uk"
     },
     {
       "rank": 3,
       "name": "Medieval Walls",
-      "description": "Best-preserved medieval city walls in England stretching over a mile"
+      "postcode": "SO14 2FF",
+      "distanceKmFromAirport": 10,
+      "description": "Best-preserved medieval city walls in England stretching over a mile",
+      "distance": 4.0,
+      "URL": "https://www.visitsouthampton.co.uk"
     },
     {
       "rank": 4,
       "name": "Tudor House and Garden",
-      "description": "Beautifully restored Tudor merchant's house with medieval garden"
+      "postcode": "SO14 2AD",
+      "distanceKmFromAirport": 10,
+      "description": "Beautifully restored Tudor merchant's house with medieval garden",
+      "distance": 4.0,
+      "URL": "https://www.visitsouthampton.co.uk"
     },
     {
       "rank": 5,
       "name": "Solent Sky Museum",
-      "description": "Aviation museum celebrating the Supermarine Spitfire, designed and built in Southampton"
+      "postcode": "SO18 1HA",
+      "distanceKmFromAirport": 8,
+      "description": "Aviation museum celebrating the Supermarine Spitfire, designed and built in Southampton",
+      "distance": 2.0,
+      "URL": "https://www.solentskymuseum.org.uk/"
     },
     {
       "rank": 6,
       "name": "New Forest National Park",
-      "description": "Ancient forest with free-roaming ponies just 15 minutes from the city centre"
+      "postcode": "SO43 7NH",
+      "distanceKmFromAirport": 35,
+      "description": "Ancient forest with free-roaming ponies just 15 minutes from the city centre",
+      "distance": 25.0,
+      "URL": "https://www.newforestnpa.gov.uk/"
     },
     {
       "rank": 7,
       "name": "Ocean Village Marina",
-      "description": "Lively waterfront development with restaurants, cinema and boat tours"
+      "postcode": "SO14 3TL",
+      "distanceKmFromAirport": 12,
+      "description": "Lively waterfront development with restaurants, cinema and boat tours",
+      "distance": 5.0,
+      "URL": "https://www.paultonspark.co.uk"
     },
     {
       "rank": 8,
       "name": "Mayflower Park",
-      "description": "Waterfront park where the Pilgrim Fathers set sail for America in 1620"
+      "postcode": "SO14 3UA",
+      "distanceKmFromAirport": 10,
+      "description": "Waterfront park where the Pilgrim Fathers set sail for America in 1620",
+      "distance": 4.0,
+      "URL": "https://www.tudorhouseandgarden.com"
     },
     {
       "rank": 9,
       "name": "Southampton City Art Gallery",
-      "description": "Impressive collection of British art from the 19th century to the present"
+      "postcode": "SO14 3SA",
+      "distanceKmFromAirport": 10,
+      "description": "Impressive collection of British art from the 19th century to the present",
+      "distance": 4.0,
+      "URL": "https://www.southamptonfc.com"
     },
     {
       "rank": 10,
       "name": "Paultons Park",
-      "description": "Peppa Pig World and family theme park in the New Forest"
+      "postcode": "SO51 6AL",
+      "distanceKmFromAirport": 45,
+      "description": "Peppa Pig World and family theme park in the New Forest",
+      "distance": 35.0,
+      "URL": "https://www.paultons.co.uk/"
     }
   ]
 }

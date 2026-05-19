@@ -2,57 +2,97 @@
   "city": "Warsaw",
   "country": "Poland",
   "airportPostcode": "00-906",
-  "airportDistanceKm": 14,
+  "airportDistanceKm": 10,
   "things": [
     {
       "rank": 1,
-      "name": "Warsaw Old Town",
-      "description": "UNESCO World Heritage meticulously reconstructed medieval old town destroyed in WWII"
+      "name": "Warsaw Old Town (Stare Miasto)",
+      "postcode": "00-272",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO World Heritage completely rebuilt medieval old town — reconstructed brick by brick after WWII",
+      "distance": 1.5,
+      "URL": "https://www.warsawtour.pl/en/"
     },
     {
       "rank": 2,
-      "name": "Warsaw Rising Museum",
-      "description": "Powerful tribute to the 1944 Warsaw Uprising against Nazi occupation"
+      "name": "POLIN Museum of the History of Polish Jews",
+      "postcode": "00-157",
+      "distanceKmFromAirport": 12,
+      "description": "Award-winning museum of 1,000 years of Jewish life in Poland — Europe's most important Jewish museum",
+      "distance": 2.5,
+      "URL": "https://www.polin.pl/en"
     },
     {
       "rank": 3,
-      "name": "Royal Castle",
-      "description": "Reconstructed royal residence housing Poland's finest art and the Polish Crown Jewels"
+      "name": "Palace of Culture and Science",
+      "postcode": "00-901",
+      "distanceKmFromAirport": 10,
+      "description": "Stalin's 1955 gift to Poland — observation deck on the 30th floor with panoramic views of the city",
+      "distance": 0.5,
+      "URL": "https://www.pkin.pl/en/"
     },
     {
       "rank": 4,
-      "name": "POLIN Museum of Polish Jews",
-      "description": "Award-winning museum telling 1,000 years of Jewish life in Poland"
+      "name": "Warsaw Rising Museum",
+      "postcode": "01-539",
+      "distanceKmFromAirport": 14,
+      "description": "Powerful multi-media museum commemorating the 1944 Warsaw Uprising against German occupation",
+      "distance": 4.0,
+      "URL": "https://www.1944.pl/en"
     },
     {
       "rank": 5,
-      "name": "Wilanow Palace",
-      "description": "Polish Versailles - Baroque royal palace with formal gardens in the city's south"
+      "name": "Royal Castle",
+      "postcode": "00-277",
+      "distanceKmFromAirport": 12,
+      "description": "Former residence of Polish kings and presidents — rebuilt after WWII destruction, now a national museum",
+      "distance": 1.5,
+      "URL": "https://www.zamek-krolewski.pl/en/"
     },
     {
       "rank": 6,
-      "name": "Lazienki Park & Palace",
-      "description": "Romantic 18th-century park with Palace on the Isle and Chopin concerts on summer Sundays"
+      "name": "Lazienki Royal Baths Park",
+      "postcode": "00-460",
+      "distanceKmFromAirport": 14,
+      "description": "Beautiful 18th-century park with the Palace on the Isle and free Chopin concerts in summer",
+      "distance": 4.0,
+      "URL": "https://www.lazienki-krolewskie.pl/en/"
     },
     {
       "rank": 7,
-      "name": "Palace of Culture & Science",
-      "description": "Stalinist skyscraper gift from the Soviet Union, now Warsaw's iconic observation point"
+      "name": "Chopin Museum",
+      "postcode": "00-560",
+      "distanceKmFromAirport": 12,
+      "description": "Interactive museum in the Ostrogski Palace devoted to Poland's most beloved composer",
+      "distance": 2.0,
+      "URL": "https://chopin.museum/en"
     },
     {
       "rank": 8,
-      "name": "Chopin Museum",
-      "description": "Interactive museum in a Baroque palace dedicated to Warsaw's most famous son"
+      "name": "Wilanow Palace",
+      "postcode": "02-958",
+      "distanceKmFromAirport": 22,
+      "description": "The Polish Versailles — magnificent baroque royal residence with formal gardens and a museum of posters",
+      "distance": 12.0,
+      "URL": "https://www.wilanow-palac.pl/en/"
     },
     {
       "rank": 9,
-      "name": "National Museum Warsaw",
-      "description": "Largest art museum in Poland with ancient, medieval and contemporary Polish art"
+      "name": "Praga District",
+      "postcode": "03-301",
+      "distanceKmFromAirport": 13,
+      "description": "Warsaw's raw, arty east bank district with street art, vodka bars, vintage markets and Soviet architecture",
+      "distance": 3.0,
+      "URL": "https://www.warsawtour.pl/en/"
     },
     {
       "rank": 10,
-      "name": "Krakowskie Przedmiescie",
-      "description": "Royal Road of Baroque and neoclassical palaces linking the old town to Wilanow"
+      "name": "National Museum",
+      "postcode": "00-495",
+      "distanceKmFromAirport": 12,
+      "description": "Poland's largest art museum with ancient, medieval and Polish art including the famous Faras Gallery",
+      "distance": 1.5,
+      "URL": "https://www.mnw.art.pl/en/"
     }
   ]
 }

@@ -6,53 +6,93 @@
   "things": [
     {
       "rank": 1,
-      "name": "St Stephen's Cathedral",
-      "description": "Gothic masterpiece and heart of Vienna with the iconic mosaic tile roof"
+      "name": "Schonbrunn Palace & Gardens",
+      "postcode": "1130",
+      "distanceKmFromAirport": 25,
+      "description": "UNESCO World Heritage Habsburg imperial summer palace with 1,441 rooms and formal gardens",
+      "distance": 6.0,
+      "URL": "https://www.schoenbrunn.at/en/"
     },
     {
       "rank": 2,
-      "name": "Schonbrunn Palace & Gardens",
-      "description": "Habsburg summer palace with 1,441 rooms, formal gardens and the Gloriette"
+      "name": "Kunsthistorisches Museum",
+      "postcode": "1010",
+      "distanceKmFromAirport": 20,
+      "description": "One of the world's greatest art museums — the Habsburg imperial collection with Bruegel, Vermeer and Raphael",
+      "distance": 1.5,
+      "URL": "https://www.khm.at/en/"
     },
     {
       "rank": 3,
-      "name": "Vienna State Opera",
-      "description": "One of the world's leading opera houses with lavish tours and standing-room tickets"
+      "name": "Belvedere Palace & Gardens",
+      "postcode": "1030",
+      "distanceKmFromAirport": 22,
+      "description": "Baroque palace complex housing Klimt's The Kiss — the most visited artwork in Austria",
+      "distance": 2.5,
+      "URL": "https://www.belvedere.at/en"
     },
     {
       "rank": 4,
-      "name": "Belvedere Palace",
-      "description": "Baroque palace complex housing Klimt's The Kiss and Austrian art from the Middle Ages"
+      "name": "St Stephen's Cathedral",
+      "postcode": "1010",
+      "distanceKmFromAirport": 19,
+      "description": "Vienna's Gothic heart — climb the South Tower for views or descend to the Habsburg catacombs",
+      "distance": 0.3,
+      "URL": "https://www.stephanskirche.at/en/"
     },
     {
       "rank": 5,
-      "name": "Hofburg Palace",
-      "description": "Former imperial residence of the Habsburg dynasty with Sisi Museum and Spanish Riding School"
+      "name": "Vienna State Opera",
+      "postcode": "1010",
+      "distanceKmFromAirport": 20,
+      "description": "One of the world's leading opera houses — backstage tours daily and standing tickets available cheaply",
+      "distance": 1.0,
+      "URL": "https://www.wiener-staatsoper.at/en/"
     },
     {
       "rank": 6,
-      "name": "Kunsthistorisches Museum",
-      "description": "Art History Museum with one of the world's finest collections of Old Masters"
+      "name": "Naschmarkt Open Air Market",
+      "postcode": "1060",
+      "distanceKmFromAirport": 21,
+      "description": "Vienna's most famous market — 120 stalls of international food, spices, wine and Viennese coffee culture",
+      "distance": 2.0,
+      "URL": "https://www.wien.info/en/sightseeing/sights/naschmarkt"
     },
     {
       "rank": 7,
-      "name": "Prater & Riesenrad",
-      "description": "Historic amusement park with the 1897 giant Ferris wheel offering city panoramas"
+      "name": "Prater & Giant Ferris Wheel",
+      "postcode": "1020",
+      "distanceKmFromAirport": 22,
+      "description": "Historic amusement park with the 1897 Riesenrad wheel offering panoramic views of Vienna",
+      "distance": 3.0,
+      "URL": "https://www.wienerriesenrad.com/en/"
     },
     {
       "rank": 8,
-      "name": "Naschmarkt",
-      "description": "Vienna's most popular open-air market with over 120 stalls of produce and restaurants"
+      "name": "Hofburg Imperial Palace",
+      "postcode": "1010",
+      "distanceKmFromAirport": 20,
+      "description": "The Habsburg's winter residence — visit the Imperial Apartments, Sisi Museum and Imperial Silver Collection",
+      "distance": 1.0,
+      "URL": "https://www.hofburg-wien.at/en.html"
     },
     {
       "rank": 9,
-      "name": "Ringstrasse",
-      "description": "Emperor Franz Joseph's magnificent 19th-century boulevard lined with monumental buildings"
+      "name": "Sigmund Freud Museum",
+      "postcode": "1090",
+      "distanceKmFromAirport": 22,
+      "description": "Freud's actual apartment and consulting rooms where psychoanalysis was born — the famous couch replica",
+      "distance": 2.5,
+      "URL": "https://www.freud-museum.at/en/"
     },
     {
       "rank": 10,
-      "name": "Vienna Coffee Houses",
-      "description": "UNESCO-listed Viennese coffeehouse culture at historic Café Central, Landtmann or Schwarzenberg"
+      "name": "Viennese Coffee House Culture",
+      "postcode": "1010",
+      "distanceKmFromAirport": 20,
+      "description": "UNESCO Intangible Heritage — linger for hours in a grand 19th-century Kaffeehaus like Cafe Central",
+      "distance": 0.8,
+      "URL": "https://www.cafecentralvienna.at/en/"
     }
   ]
 }
