@@ -1,0 +1,98 @@
+{
+  "city": "Leverkusen",
+  "country": "Germany",
+  "airportPostcode": "51147",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "BayArena",
+      "postcode": "51373",
+      "distanceKmFromAirport": 30,
+      "description": "Home of Bayer 04 Leverkusen, the Bundesliga champions of 2024 who went an entire domestic season unbeaten",
+      "distance": 1.5,
+      "URL": "https://www.bayer04.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Schloss Morsbroich",
+      "postcode": "51375",
+      "distanceKmFromAirport": 31,
+      "description": "Eighteenth-century baroque castle set in a landscaped park, now housing Leverkusen's contemporary art museum",
+      "distance": 3.5,
+      "URL": "https://www.museum-morsbroich.de/"
+    },
+    {
+      "rank": 3,
+      "name": "Bayer Cultural Park",
+      "postcode": "51373",
+      "distanceKmFromAirport": 30,
+      "description": "Expansive green park created by the pharmaceutical giant Bayer with sports facilities, gardens and open-air events",
+      "distance": 1.0,
+      "URL": "https://www.bayer.com/en/leverkusen"
+    },
+    {
+      "rank": 4,
+      "name": "Cologne Cathedral",
+      "postcode": "50667",
+      "distanceKmFromAirport": 35,
+      "description": "UNESCO World Heritage Gothic masterpiece and Germany's most visited monument, just 20 minutes from Leverkusen by train",
+      "distance": 20.0,
+      "URL": "https://www.koelner-dom.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Rheinpark Leverkusen",
+      "postcode": "51371",
+      "distanceKmFromAirport": 30,
+      "description": "Riverside park along the Rhine with walking paths, cycling routes and views across to Cologne's skyline",
+      "distance": 2.0,
+      "URL": "https://www.leverkusen.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Chempark Leverkusen",
+      "postcode": "51368",
+      "distanceKmFromAirport": 30,
+      "description": "One of Europe's largest chemical parks, the industrial heartland where Bayer was founded and aspirin invented in 1897",
+      "distance": 1.5,
+      "URL": "https://www.chempark.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Old Market Leverkusen",
+      "postcode": "51379",
+      "distanceKmFromAirport": 32,
+      "description": "Central marketplace of the Opladen district with weekly markets, cafes and the historic heart of old Leverkusen",
+      "distance": 5.0,
+      "URL": "https://www.leverkusen.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Museum Kunstpalast Düsseldorf",
+      "postcode": "40479",
+      "distanceKmFromAirport": 43,
+      "description": "Major art museum with 100,000 works spanning antiquity to the present in Düsseldorf's elegant Ehrenhof park, easily reachable by train",
+      "distance": 28.0,
+      "URL": "https://www.kunstpalast.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Gut Neuenhof",
+      "postcode": "51377",
+      "distanceKmFromAirport": 31,
+      "description": "Historic country estate and equestrian centre in the Leverkusen countryside offering guided tours of the baroque manor house",
+      "distance": 4.0,
+      "URL": "https://www.leverkusen.de/"
+    },
+    {
+      "rank": 10,
+      "name": "Altenberg Cathedral",
+      "postcode": "51519",
+      "distanceKmFromAirport": 38,
+      "description": "Extraordinary Cistercian Gothic cathedral in the Bergisches Land hills, with Europe's largest stained-glass window",
+      "distance": 10.0,
+      "URL": "https://www.altenberger-dom.de/"
+    }
+  ]
+}

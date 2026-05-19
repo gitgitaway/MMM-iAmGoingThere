@@ -1,0 +1,98 @@
+{
+  "city": "Maribor",
+  "country": "Slovenia",
+  "airportPostcode": "2316",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Vine (Stara Trta)",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "The world's oldest vine, over 450 years old, still producing wine on the Lent waterfront; Maribor gives a bottle of its wine to heads of state as an official gift",
+      "distance": 0.8,
+      "URL": "https://www.stara-trta.si/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Maribor Castle",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "15th-century castle in the old town housing the Regional Museum with collections on the history, art and culture of the Styria region of Slovenia",
+      "distance": 0.5,
+      "URL": "https://www.pmpo.si/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Lent (Old Waterfront District)",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "Maribor's medieval waterfront of wine cellars, galleries and restaurants along the Drava river; venue of the famous Lent International Summer Festival",
+      "distance": 0.5,
+      "URL": "https://www.maribor.si/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Maribor Cathedral",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "Gothic cathedral from the 13th century with a Romanesque baptistery, notable sculptures and the nearby plague column in the main square",
+      "distance": 0.5,
+      "URL": "https://www.maribor.si/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Pohorje Mountain Resort",
+      "postcode": "2208",
+      "distanceKmFromAirport": 20,
+      "description": "Forested mountain massif above Maribor with skiing in winter and hiking, cycling and spa resorts in summer; accessible by cable car from the city",
+      "distance": 8.0,
+      "URL": "https://www.pohorje.org/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Main Square (Glavni Trg)",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "Maribor's grand central square with the 18th-century Plague Column, the Baroque Town Hall and surrounding coffee houses in the pedestrianised heart",
+      "distance": 0.3,
+      "URL": "https://www.maribor.si/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Aquapark Terme Maribor",
+      "postcode": "2000",
+      "distanceKmFromAirport": 14,
+      "description": "Thermal spa and waterpark complex with indoor and outdoor pools, water slides and wellness facilities popular with visitors from across the region",
+      "distance": 3.0,
+      "URL": "https://www.thermana.si/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Jewish Tower (Judentum)",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "14th-century tower from the medieval city walls adjoining Maribor's Jewish quarter; the oldest preserved Jewish settlement in Slovenia",
+      "distance": 0.5,
+      "URL": "https://www.maribor.si/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Dravograd Gorge",
+      "postcode": "2370",
+      "distanceKmFromAirport": 40,
+      "description": "Scenic gorge carved by the Drava river upstream from Maribor; a nature corridor popular for kayaking, cycling the Drava cycling route and forest walking",
+      "distance": 35.0,
+      "URL": "https://www.maribor.si/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Ljudski Vrt Stadium",
+      "postcode": "2000",
+      "distanceKmFromAirport": 13,
+      "description": "Home of NK Maribor, Slovenia's most successful club; reached the Champions League group stage in 2011-12 and 2014-15 and are serial Slovenian champions",
+      "distance": 2.0,
+      "URL": "https://www.nkmaribor.com/en/"
+    }
+  ]
+}

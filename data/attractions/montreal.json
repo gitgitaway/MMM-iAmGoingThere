@@ -1,0 +1,98 @@
+{
+  "city": "Montreal",
+  "country": "Canada",
+  "airportPostcode": "H4Y 1H1",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Montreal (Vieux-Montréal)",
+      "postcode": "H2Y 1C6",
+      "distanceKmFromAirport": 26,
+      "description": "17th-century cobblestoned historic district with Notre-Dame Basilica, the Old Port and horse-drawn calèches",
+      "distance": 4.0,
+      "URL": "https://www.mtl.org/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Notre-Dame Basilica",
+      "postcode": "H2Y 1E1",
+      "distanceKmFromAirport": 26,
+      "description": "Gothic Revival masterpiece illuminated by the AURA light show — the most visited attraction in Quebec",
+      "distance": 4.0,
+      "URL": "https://www.basiliquenotredame.ca/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Mount Royal Park",
+      "postcode": "H3H 1A1",
+      "distanceKmFromAirport": 26,
+      "description": "Frederick Law Olmsted's 1876 park at the summit of the city — Chalet lookout panorama in summer and winter",
+      "distance": 4.0,
+      "URL": "https://www.lemontroyal.qc.ca/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Plateau Mont-Royal",
+      "postcode": "H2J 1R5",
+      "distanceKmFromAirport": 27,
+      "description": "Montreal's most characterful neighbourhood — spiral staircases, colourful duplexes, bagel bakeries and jazz bars",
+      "distance": 5.0,
+      "URL": "https://www.mtl.org/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Montreal Biodome & Biosphere",
+      "postcode": "H1V 1B3",
+      "distanceKmFromAirport": 30,
+      "description": "Living ecosystems from the Americas under one roof — tropical forest, Laurentian maple forest and sub-Antarctic rocks",
+      "distance": 8.0,
+      "URL": "https://www.espacepourlavie.ca/en/biodome"
+    },
+    {
+      "rank": 6,
+      "name": "Jean-Talon Market",
+      "postcode": "H2R 1X3",
+      "distanceKmFromAirport": 28,
+      "description": "The largest open-air market in North America — Quebec cheeses, maple syrup, artisan charcuterie and cider",
+      "distance": 6.0,
+      "URL": "https://www.marchespublics-mtl.com/en/marches/jean-talon/"
+    },
+    {
+      "rank": 7,
+      "name": "Underground City (RÉSO)",
+      "postcode": "H5A 1B1",
+      "distanceKmFromAirport": 24,
+      "description": "32-km network of underground pedestrian tunnels linking malls, metro and hotels — essential in January",
+      "distance": 1.5,
+      "URL": "https://www.mtl.org/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Montreal International Jazz Festival",
+      "postcode": "H2Z 1R7",
+      "distanceKmFromAirport": 24,
+      "description": "The world's largest jazz festival (late June) — 500+ concerts many of them free in the Quartier des Spectacles",
+      "distance": 2.0,
+      "URL": "https://www.montrealjazzfest.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Schwartz's Deli",
+      "postcode": "H2W 1X9",
+      "distanceKmFromAirport": 27,
+      "description": "Montreal's most legendary smoked meat deli (1928) — the queue is worth every minute",
+      "distance": 5.0,
+      "URL": "https://schwartzsdeli.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Quebec City Day Trip",
+      "postcode": "G1R 4S9",
+      "distanceKmFromAirport": 292,
+      "description": "North America's most European city — walled Old Quebec, Château Frontenac and the Plains of Abraham, 3 hours east",
+      "distance": 270.0,
+      "URL": "https://www.quebec-cite.com/en/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Makassar",
+  "country": "Indonesia",
+  "airportPostcode": "90553",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fort Rotterdam",
+      "postcode": "90111",
+      "distanceKmFromAirport": 19,
+      "description": "1607 Dutch colonial fort with two museums of South Sulawesi history and ethnography",
+      "distance": 0.5,
+      "URL": "https://makassar.go.id/"
+    },
+    {
+      "rank": 2,
+      "name": "Tana Toraja Funeral Ceremonies",
+      "postcode": "91811",
+      "distanceKmFromAirport": 338,
+      "description": "8-hour drive to Tana Toraja - extraordinary cliff graves and elaborate funeral rites",
+      "distance": 320.0,
+      "URL": "https://www.indonesia.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Losari Beach Sunset",
+      "postcode": "90114",
+      "distanceKmFromAirport": 20,
+      "description": "Iconic sunset promenade with the floating mosque and traditional Makassar seafood",
+      "distance": 1.5,
+      "URL": "https://makassar.go.id/"
+    },
+    {
+      "rank": 4,
+      "name": "Bugis Schooner Port (Pelabuhan Paotere)",
+      "postcode": "90131",
+      "distanceKmFromAirport": 20,
+      "description": "Traditional wooden Bugis Phinisi ships - the world's last working wooden cargo fleet",
+      "distance": 2.0,
+      "URL": "https://makassar.go.id/"
+    },
+    {
+      "rank": 5,
+      "name": "Sulawesi Exhibition at Balla Lompoa Palace",
+      "postcode": "92111",
+      "distanceKmFromAirport": 26,
+      "description": "Gowa Kingdom royal regalia including the magnificent royal crown",
+      "distance": 8.0,
+      "URL": "https://makassar.go.id/"
+    },
+    {
+      "rank": 6,
+      "name": "Bantimurung Waterfall",
+      "postcode": "90561",
+      "distanceKmFromAirport": 60,
+      "description": "Karst limestone waterfall park where Alfred Russel Wallace collected butterflies",
+      "distance": 42.0,
+      "URL": "https://www.indonesia.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Samalona Island Day Trip",
+      "postcode": "90000",
+      "distanceKmFromAirport": 28,
+      "description": "Snorkelling on the coral reef 10km offshore",
+      "distance": 10.0,
+      "URL": "https://makassar.go.id/"
+    },
+    {
+      "rank": 8,
+      "name": "Leang-Leang Cave Paintings",
+      "postcode": "90561",
+      "distanceKmFromAirport": 58,
+      "description": "35,000-year-old cave paintings - possibly the world's oldest figurative art",
+      "distance": 40.0,
+      "URL": "https://www.indonesia.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Karebosi Square",
+      "postcode": "90111",
+      "distanceKmFromAirport": 18,
+      "description": "Central public square with views of the Makassar cityscape",
+      "distance": 0.3,
+      "URL": "https://makassar.go.id/"
+    },
+    {
+      "rank": 10,
+      "name": "Coto Makassar (Beef Offal Soup)",
+      "postcode": "90111",
+      "distanceKmFromAirport": 19,
+      "description": "Makassar's famous spiced offal soup eaten with ketupat rice cake",
+      "distance": 1.0,
+      "URL": "https://makassar.go.id/"
+    }
+  ]
+}

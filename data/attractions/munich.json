@@ -1,0 +1,98 @@
+{
+  "city": "Munich",
+  "country": "Germany",
+  "airportPostcode": "85356",
+  "airportDistanceKm": 37,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Marienplatz & Glockenspiel",
+      "postcode": "80331",
+      "distanceKmFromAirport": 37,
+      "description": "Munich's central square with the New Town Hall's famous Glockenspiel carillon show daily at 11am",
+      "distance": 0.2,
+      "URL": "https://www.muenchen.de/en/sights/marienplatz"
+    },
+    {
+      "rank": 2,
+      "name": "Deutsches Museum",
+      "postcode": "80538",
+      "distanceKmFromAirport": 39,
+      "description": "The world's largest science and technology museum on a Isar island — 73,000 exhibits across 80 departments",
+      "distance": 2.0,
+      "URL": "https://www.deutsches-museum.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "English Garden (Englischer Garten)",
+      "postcode": "80538",
+      "distanceKmFromAirport": 40,
+      "description": "One of the world's largest urban parks — bigger than Central Park, with the famous river surfers",
+      "distance": 2.5,
+      "URL": "https://www.muenchen.de/en/parks/englischer-garten"
+    },
+    {
+      "rank": 4,
+      "name": "Nymphenburg Palace",
+      "postcode": "80638",
+      "distanceKmFromAirport": 44,
+      "description": "Magnificent Baroque summer palace with formal gardens, carriage museum and the Porcelain Museum",
+      "distance": 7.0,
+      "URL": "https://www.schloss-nymphenburg.de/englisch/palace/"
+    },
+    {
+      "rank": 5,
+      "name": "Oktoberfest at Theresienwiese",
+      "postcode": "80339",
+      "distanceKmFromAirport": 38,
+      "description": "The world's largest folk festival with 14 giant beer tents — held annually in late September",
+      "distance": 1.5,
+      "URL": "https://www.oktoberfest.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Alte Pinakothek",
+      "postcode": "80333",
+      "distanceKmFromAirport": 38,
+      "description": "World-class collection of European Old Masters from Raphael, Rubens and Dürer in a grand 1836 building",
+      "distance": 1.5,
+      "URL": "https://www.pinakothek.de/en/alte-pinakothek"
+    },
+    {
+      "rank": 7,
+      "name": "BMW World & Museum",
+      "postcode": "80809",
+      "distanceKmFromAirport": 42,
+      "description": "Spectacular futuristic showroom and museum celebrating BMW's history alongside the Olympic Park",
+      "distance": 5.0,
+      "URL": "https://www.bmw-welt.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Dachau Concentration Camp Memorial",
+      "postcode": "85221",
+      "distanceKmFromAirport": 57,
+      "description": "The first Nazi concentration camp, now a sobering memorial and educational site northwest of Munich",
+      "distance": 20.0,
+      "URL": "https://www.kz-gedenkstaette-dachau.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Viktualienmarkt",
+      "postcode": "80331",
+      "distanceKmFromAirport": 38,
+      "description": "Munich's famous daily food market with Bavarian specialities, beer garden and flower stalls",
+      "distance": 0.5,
+      "URL": "https://www.viktualienmarkt-muenchen.de/"
+    },
+    {
+      "rank": 10,
+      "name": "Neuschwanstein Castle Day Trip",
+      "postcode": "87645",
+      "distanceKmFromAirport": 167,
+      "description": "The fairy-tale castle that inspired Disney — 2 hours from Munich by train in the Bavarian Alps",
+      "distance": 130.0,
+      "URL": "https://www.neuschwanstein.de/englisch/palace/"
+    }
+  ]
+}

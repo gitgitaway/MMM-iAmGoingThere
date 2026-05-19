@@ -1,0 +1,98 @@
+{
+  "city": "Mombasa",
+  "country": "Kenya",
+  "airportPostcode": "80100",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fort Jesus",
+      "postcode": "80100",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO World Heritage 16th-century Portuguese fort guarding the entrance to Mombasa harbour",
+      "distance": 2,
+      "URL": "https://www.museums.or.ke/"
+    },
+    {
+      "rank": 2,
+      "name": "Diani Beach",
+      "postcode": "80401",
+      "distanceKmFromAirport": 45,
+      "description": "One of Africa's finest beaches - white coral sand and turquoise Indian Ocean 35km south",
+      "distance": 35,
+      "URL": "https://www.dianibeach.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Old Town Mombasa",
+      "postcode": "80100",
+      "distanceKmFromAirport": 12,
+      "description": "Arab and Swahili old town with carved doors, mosques and the spice market",
+      "distance": 2,
+      "URL": "https://www.magicalkenya.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Watamu Marine National Park",
+      "postcode": "80202",
+      "distanceKmFromAirport": 120,
+      "description": "UNESCO World Heritage marine reserve with sea turtles and whale sharks",
+      "distance": 110,
+      "URL": "https://www.kws.go.ke/"
+    },
+    {
+      "rank": 5,
+      "name": "Tsavo East & West National Parks",
+      "postcode": "90100",
+      "distanceKmFromAirport": 150,
+      "description": "Kenya's largest national park with red elephants, 500 bird species and Mzima Springs",
+      "distance": 140,
+      "URL": "https://www.kws.go.ke/"
+    },
+    {
+      "rank": 6,
+      "name": "Haller Park",
+      "postcode": "80107",
+      "distanceKmFromAirport": 20,
+      "description": "Former cement quarry restored to a wildlife sanctuary with hippos and giraffes",
+      "distance": 10,
+      "URL": "https://www.lafargeholcim.co.ke/"
+    },
+    {
+      "rank": 7,
+      "name": "Shimba Hills National Reserve",
+      "postcode": "80304",
+      "distanceKmFromAirport": 65,
+      "description": "Home of the sable antelope - only remaining population in Kenya",
+      "distance": 55,
+      "URL": "https://www.kws.go.ke/"
+    },
+    {
+      "rank": 8,
+      "name": "Nyali & Bamburi Beaches",
+      "postcode": "80112",
+      "distanceKmFromAirport": 18,
+      "description": "North Mombasa's resort beaches with watersports and beach bars",
+      "distance": 8,
+      "URL": "https://www.magicalkenya.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Swahili Cultural Dhow Cruise",
+      "postcode": "80100",
+      "distanceKmFromAirport": 12,
+      "description": "Traditional dhow sailing with Swahili food and taarab music at sunset",
+      "distance": 2,
+      "URL": "https://www.magicalkenya.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Biryani at Swahili Plate",
+      "postcode": "80100",
+      "distanceKmFromAirport": 12,
+      "description": "Mombasa's famous Swahili coconut rice biryani with pilipili chilli",
+      "distance": 2,
+      "URL": "https://www.magicalkenya.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Lome",
+  "country": "Togo",
+  "airportPostcode": "BP 1",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Akodessewa Fetish Market",
+      "postcode": "BP 874",
+      "distanceKmFromAirport": 8,
+      "description": "The world's largest voodoo market with animal skulls, dried herbs and potions",
+      "distance": 4,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Marche des Femmes",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 5,
+      "description": "Lome's main market run entirely by women - fabrics, food and crafts",
+      "distance": 1,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Lome Cathedral",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 4,
+      "description": "Sacred Heart Cathedral - a striking German colonial Gothic church",
+      "distance": 0.5,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Kpalime",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 124,
+      "description": "Craft centre in a lush mountain setting with butterfly sanctuary and waterfalls",
+      "distance": 120,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Atlantic Beach Promenade",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 5,
+      "description": "Lome's seaside promenade stretching along the Gulf of Guinea",
+      "distance": 1,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 6,
+      "name": "National Museum of Togo",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 5,
+      "description": "Traditional Togolese artefacts, crafts and ethnographic collections",
+      "distance": 1,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 7,
+      "name": "German Colonial Architecture",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 4,
+      "description": "Walking tour of Lome's colonial-era buildings - the only West African capital bordering the sea",
+      "distance": 0.5,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Togoville",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 39,
+      "description": "Village on Lake Togo where Germany signed its colonial treaty - papal visit site",
+      "distance": 35,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Atakpame",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 164,
+      "description": "Colonial hill town with the Agou mountain views and waterfalls",
+      "distance": 160,
+      "URL": "https://www.togo-tourisme.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Palimé Craft Village",
+      "postcode": "BP 1",
+      "distanceKmFromAirport": 124,
+      "description": "Traditional batik fabric dyeing, wood carving and local artisans at work",
+      "distance": 120,
+      "URL": "https://www.togo-tourisme.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Mataram",
+  "country": "Indonesia",
+  "airportPostcode": "83652",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mount Rinjani National Park",
+      "postcode": "83355",
+      "distanceKmFromAirport": 22.0,
+      "description": "Indonesia's second highest volcano (3,726m) with a crater lake - epic 3-day summit trek",
+      "distance": 14.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 2,
+      "name": "Senggigi Beach",
+      "postcode": "83352",
+      "distanceKmFromAirport": 40.0,
+      "description": "Lombok's main resort beach with views of Bali's Agung volcano across the Lombok Strait",
+      "distance": 35.0,
+      "URL": "https://www.gili-paradise.com"
+    },
+    {
+      "rank": 3,
+      "name": "Gili Islands (Trawangan, Meno, Air)",
+      "postcode": "83114",
+      "distanceKmFromAirport": 9.0,
+      "description": "Three car-free coral islands with the best snorkelling and diving in Indonesia",
+      "distance": 1.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 4,
+      "name": "Pura Meru Temple",
+      "postcode": "83115",
+      "distanceKmFromAirport": 9.0,
+      "description": "Lombok's largest Hindu temple built in 1720 with three multi-tiered shrines",
+      "distance": 1.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 5,
+      "name": "Sasak Village Sade",
+      "postcode": "83361",
+      "distanceKmFromAirport": 14.0,
+      "description": "Traditional Sasak village where women weave ikat cloth in 600-year-old bamboo huts",
+      "distance": 8.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 6,
+      "name": "Mayura Water Palace",
+      "postcode": "83662",
+      "distanceKmFromAirport": 55.0,
+      "description": "1744 Hindu royal water palace with floating pavilion",
+      "distance": 50.0,
+      "URL": "https://www.rinjaninationalpark.com"
+    },
+    {
+      "rank": 7,
+      "name": "Kuta Lombok Beach",
+      "postcode": "83371",
+      "distanceKmFromAirport": 18.0,
+      "description": "Pristine bay with pink sand and turquoise water - the island's most beautiful beach",
+      "distance": 12.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 8,
+      "name": "Sukarara Weaving Village",
+      "postcode": "83651",
+      "distanceKmFromAirport": 30.0,
+      "description": "Traditional Sasak women weaving songket (silver-thread) cloth using back-strap looms",
+      "distance": 25.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 9,
+      "name": "Segara Anak Crater Lake",
+      "postcode": "83573",
+      "distanceKmFromAirport": 65.0,
+      "description": "Blue lake inside Rinjani's caldera at 2,000m with hot springs",
+      "distance": 60.0,
+      "URL": "https://www.indonesia.travel"
+    },
+    {
+      "rank": 10,
+      "name": "Ayam Taliwang",
+      "postcode": "83114",
+      "distanceKmFromAirport": 8.5,
+      "description": "Lombok's signature dish - half a chicken grilled with ferociously hot shrimp paste sauce",
+      "distance": 0.5,
+      "URL": "https://www.indonesia.travel"
+    }
+  ]
+}

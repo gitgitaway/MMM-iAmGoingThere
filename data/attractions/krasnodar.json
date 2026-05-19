@@ -1,0 +1,98 @@
+{
+  "city": "Krasnodar",
+  "country": "Russia",
+  "airportPostcode": "350912",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Krasnodar City Park",
+      "postcode": "350062",
+      "distanceKmFromAirport": 12,
+      "description": "Galitsky Park, Russia's most spectacular privately-funded urban park opened in 2017; 23 hectares of stunning landscape architecture, sculptures, amphitheatre and tropical greenhouse",
+      "distance": 3.0,
+      "URL": "https://galpark.ru/"
+    },
+    {
+      "rank": 2,
+      "name": "Krasnodar Regional Museum",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "Major museum of Kuban history and culture with rich collections on the Cossack heritage, Black Sea antiquities, WWII and the natural history of the region",
+      "distance": 1.5,
+      "URL": "https://www.krasnodarmuseum.ru/"
+    },
+    {
+      "rank": 3,
+      "name": "Krasnodar Art Museum",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "Regional art gallery with impressive collections of Russian art from the 18th century to the present, including the remarkable bequest of collector Fyodor Kovalenko",
+      "distance": 1.5,
+      "URL": "https://www.artmuseumkrd.ru/"
+    },
+    {
+      "rank": 4,
+      "name": "Red Street (Krasnaya Street)",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "Krasnodar's elegant main pedestrian boulevard with 19th-century merchant buildings, pavement cafes and boutiques; the social spine of the city known as the Krasnodar Arbat",
+      "distance": 1.0,
+      "URL": "https://www.krasnodar.ru/"
+    },
+    {
+      "rank": 5,
+      "name": "Krasnodar Zoo",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "One of Russia's best zoological parks with over 4,200 animals; the big cat collection and African savanna exhibit are highlights of this well-maintained city zoo",
+      "distance": 2.0,
+      "URL": "https://www.zookrd.ru/"
+    },
+    {
+      "rank": 6,
+      "name": "Cathedral of the Holy Trinity",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "Krasnodar's principal Russian Orthodox cathedral with gleaming white walls and blue-gold domes; rebuilt after Soviet-era demolition and consecrated in 2006",
+      "distance": 1.0,
+      "URL": "https://www.krasnodar.ru/"
+    },
+    {
+      "rank": 7,
+      "name": "Kuban Cossack Quarter",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "Historic heart of the former Cossack stanitsa (village) with traditional architecture, the Kuban Cossack Army Museum and cultural centres preserving Cossack traditions",
+      "distance": 2.0,
+      "URL": "https://www.krasnodar.ru/"
+    },
+    {
+      "rank": 8,
+      "name": "Abrau-Durso Winery (day trip)",
+      "postcode": "353405",
+      "distanceKmFromAirport": 130,
+      "description": "Russia's oldest and most prestigious sparkling wine producer established in 1870; cellar tours, tastings and boat trips on the stunning crater lake in the Caucasus foothills",
+      "distance": 130.0,
+      "URL": "https://abraudurso.ru/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Theatre Square",
+      "postcode": "350000",
+      "distanceKmFromAirport": 12,
+      "description": "Krasnodar's grand civic square with the Drama Theatre, Philharmonic Hall and fountains; the ceremonial centre of city life hosting festivals and seasonal events",
+      "distance": 1.0,
+      "URL": "https://www.krasnodar.ru/"
+    },
+    {
+      "rank": 10,
+      "name": "Krasnodar Stadium",
+      "postcode": "350901",
+      "distanceKmFromAirport": 12,
+      "description": "Modern 35,074-seat stadium opened in 2016 with a unique circular design; home of FK Krasnodar, billionaire-backed club who reached the UEFA Champions League group stage in 2020-21",
+      "distance": 3.5,
+      "URL": "https://fckrasnodar.ru/en/"
+    }
+  ]
+}

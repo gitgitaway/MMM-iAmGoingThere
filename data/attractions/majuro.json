@@ -1,0 +1,98 @@
+{
+  "city": "Majuro",
+  "country": "Marshall Islands",
+  "airportPostcode": "96960",
+  "airportDistanceKm": 3,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bikini Atoll Day Trip",
+      "postcode": "96940",
+      "distanceKmFromAirport": 1500,
+      "description": "UNESCO World Heritage nuclear test site - extraordinary diving on sunken US and Japanese warships",
+      "distance": 1500.0,
+      "URL": "https://whc.unesco.org/en/list/1339"
+    },
+    {
+      "rank": 2,
+      "name": "Alele Museum & Public Library",
+      "postcode": "96960",
+      "distanceKmFromAirport": 4,
+      "description": "Marshallese history, navigation stick charts and WWII and nuclear test era",
+      "distance": 1.0,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 3,
+      "name": "WWII Relics (Eniwetok)",
+      "postcode": "96940",
+      "distanceKmFromAirport": 1200,
+      "description": "Remains of WWII battles and nuclear test infrastructure",
+      "distance": 1200.0,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Majuro Atoll Lagoon Sailing",
+      "postcode": "96960",
+      "distanceKmFromAirport": 4,
+      "description": "Sail a traditional outrigger canoe on the world's largest atoll lagoon",
+      "distance": 0.5,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Traditional Navigation Stick Charts",
+      "postcode": "96960",
+      "distanceKmFromAirport": 4,
+      "description": "Learn to read the traditional Marshallese wave and island navigation charts",
+      "distance": 1.0,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Laura Beach",
+      "postcode": "96960",
+      "distanceKmFromAirport": 37,
+      "description": "Finest beach on Majuro at the far western end of the atoll",
+      "distance": 34.0,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Marshallese Canoe Building",
+      "postcode": "96960",
+      "distanceKmFromAirport": 4,
+      "description": "Traditional outrigger canoe construction using traditional methods",
+      "distance": 1.0,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Sunrise Market",
+      "postcode": "96960",
+      "distanceKmFromAirport": 4,
+      "description": "Fresh fish, breadfruit, pandanus and local produce at the main market",
+      "distance": 0.5,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Giant Clam Research Farm",
+      "postcode": "96960",
+      "distanceKmFromAirport": 8,
+      "description": "Visit the MIMRA Giant Clam Research Facility restocking reefs",
+      "distance": 5.0,
+      "URL": "https://www.visitmajuro.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Pandanus Weaving",
+      "postcode": "96960",
+      "distanceKmFromAirport": 4,
+      "description": "Watch and learn traditional Marshallese pandanus leaf weaving",
+      "distance": 1.0,
+      "URL": "https://www.visitmajuro.com/"
+    }
+  ]
+}

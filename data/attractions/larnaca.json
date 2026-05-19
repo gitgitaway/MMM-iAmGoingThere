@@ -1,0 +1,98 @@
+{
+  "city": "Larnaca",
+  "country": "Cyprus",
+  "airportPostcode": "6028",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Church of Saint Lazarus",
+      "postcode": "6018",
+      "distanceKmFromAirport": 6,
+      "description": "9th-century Byzantine church housing the tomb of Lazarus, raised from the dead by Jesus",
+      "distance": 0.5,
+      "URL": "http://www.agioslazaros.com.cy/"
+    },
+    {
+      "rank": 2,
+      "name": "Larnaca Salt Lake",
+      "postcode": "6060",
+      "distanceKmFromAirport": 10,
+      "description": "Flamingo habitat in winter, the second largest salt lake in Cyprus and a protected wetland",
+      "distance": 5,
+      "URL": "https://www.visitcyprus.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Hala Sultan Tekke",
+      "postcode": "7060",
+      "distanceKmFromAirport": 11,
+      "description": "One of Islam's most sacred mosques beside the salt lake, built over the tomb of the Prophet's aunt",
+      "distance": 6,
+      "URL": "https://www.mcw.gov.cy/"
+    },
+    {
+      "rank": 4,
+      "name": "Larnaca Fort & Medieval Museum",
+      "postcode": "6301",
+      "distanceKmFromAirport": 6,
+      "description": "14th-century fort with Byzantine, medieval and Ottoman exhibits on the seafront",
+      "distance": 0.5,
+      "URL": "https://www.visitcyprus.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Finikoudes Promenade",
+      "postcode": "6023",
+      "distanceKmFromAirport": 5,
+      "description": "Palm-lined seafront promenade with cafes, tavernas and the city's main beach",
+      "distance": 0.3,
+      "URL": "https://www.visitlarnaca.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Choirokoitia Neolithic Settlement",
+      "postcode": "7743",
+      "distanceKmFromAirport": 40,
+      "description": "UNESCO World Heritage 7,000 year old Neolithic village with reconstructed circular dwellings",
+      "distance": 35,
+      "URL": "https://www.mcw.gov.cy/"
+    },
+    {
+      "rank": 7,
+      "name": "Kiti Angeloktisti Church",
+      "postcode": "7550",
+      "distanceKmFromAirport": 17,
+      "description": "One of the oldest churches in Cyprus with a rare 5th-century Byzantine mosaic of the Virgin",
+      "distance": 12,
+      "URL": "https://www.visitcyprus.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Cape Kiti & Mackenzie Beach",
+      "postcode": "7750",
+      "distanceKmFromAirport": 10,
+      "description": "Larnaca's best sandy beach below the airport flight path - perfect for plane spotters",
+      "distance": 5,
+      "URL": "https://www.visitlarnaca.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Zenon of Citium Statue",
+      "postcode": "6023",
+      "distanceKmFromAirport": 5,
+      "description": "Monument to Stoic philosopher Zenon, born in ancient Citium (Larnaca) in 334 BC",
+      "distance": 0.3,
+      "URL": "https://www.visitlarnaca.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Lefkara Village",
+      "postcode": "7751",
+      "distanceKmFromAirport": 43,
+      "description": "Day trip to UNESCO-listed lace and silver filigree village in the Troodos foothills",
+      "distance": 38,
+      "URL": "https://www.lefkara.org.cy/"
+    }
+  ]
+}

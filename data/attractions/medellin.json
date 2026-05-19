@@ -1,0 +1,98 @@
+{
+  "city": "Medellin",
+  "country": "Colombia",
+  "airportPostcode": "050031",
+  "airportDistanceKm": 36,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Parque Arvi Cable Car",
+      "postcode": "050001",
+      "distanceKmFromAirport": 43,
+      "description": "Metro cable car over the comunas hillside neighbourhoods to the Arvi forest park",
+      "distance": 8,
+      "URL": "https://www.metrodellin.gov.co"
+    },
+    {
+      "rank": 2,
+      "name": "Pablo Escobar Tours",
+      "postcode": "050001",
+      "distanceKmFromAirport": 38,
+      "description": "Responsible tours of the narco history including La Catedral prison and Monaco building",
+      "distance": 3,
+      "URL": "https://www.medellintoursescobar.com"
+    },
+    {
+      "rank": 3,
+      "name": "Plaza Botero",
+      "postcode": "050001",
+      "distanceKmFromAirport": 38,
+      "description": "Fernando Botero's 23 bronze voluptuous sculptures in the open air beside the Museum of Antioquia",
+      "distance": 3,
+      "URL": "https://www.museodeantioquia.org"
+    },
+    {
+      "rank": 4,
+      "name": "El Poblado & Parque Lleras",
+      "postcode": "050001",
+      "distanceKmFromAirport": 40,
+      "description": "Medellin's upscale neighbourhood with the best restaurants, bars and boutique hotels",
+      "distance": 5,
+      "URL": "https://www.medellin.gov.co"
+    },
+    {
+      "rank": 5,
+      "name": "Guatape & El Penol Rock",
+      "postcode": "055360",
+      "distanceKmFromAirport": 82,
+      "description": "740 steps to the top of a colossal granite monolith with views over reservoir islands",
+      "distance": 50,
+      "URL": "https://www.guatapaytours.com"
+    },
+    {
+      "rank": 6,
+      "name": "Metrocable & Communas Tour",
+      "postcode": "050001",
+      "distanceKmFromAirport": 40,
+      "description": "Outdoor escalators and cable cars serving hillside comunas transformed by urban renewal",
+      "distance": 5,
+      "URL": "https://www.metrodellin.gov.co"
+    },
+    {
+      "rank": 7,
+      "name": "Jardin Botanical Garden",
+      "postcode": "050030",
+      "distanceKmFromAirport": 38,
+      "description": "Beautiful urban garden with orchids - Colombia's national flower - and a butterfly house",
+      "distance": 3,
+      "URL": "https://www.jaulardinbotanico.org"
+    },
+    {
+      "rank": 8,
+      "name": "Santa Fe de Antioquia",
+      "postcode": "051200",
+      "distanceKmFromAirport": 110,
+      "description": "Perfectly preserved colonial town 80km north - cobblestone streets and whitewashed churches",
+      "distance": 82,
+      "URL": "https://www.santafedeantioquia.gov.co"
+    },
+    {
+      "rank": 9,
+      "name": "Feria de las Flores (Flower Festival)",
+      "postcode": "050001",
+      "distanceKmFromAirport": 38,
+      "description": "August festival with the world's finest flower parade - silleteros carry flower displays",
+      "distance": 3,
+      "URL": "https://www.ferialasflores.gov.co"
+    },
+    {
+      "rank": 10,
+      "name": "Mondongo Paisa at a Fonda Antioquena",
+      "postcode": "050001",
+      "distanceKmFromAirport": 39,
+      "description": "Medellin's hearty tripe and vegetable stew in a traditional farmhouse restaurant",
+      "distance": 4,
+      "URL": "https://www.medellin.gov.co/gastronomy"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Leipzig",
+  "country": "Germany",
+  "airportPostcode": "04435",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "St Thomas Church (Thomaskirche)",
+      "postcode": "04109",
+      "distanceKmFromAirport": 18,
+      "description": "Gothic church where Bach worked for 27 years — the Bach Archive and Museum are next door",
+      "distance": 0.5,
+      "URL": "https://www.thomaskirche.org/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Leipzig Zoo",
+      "postcode": "04105",
+      "distanceKmFromAirport": 20,
+      "description": "One of Europe's oldest and most acclaimed zoos with the spectacular Gondwanaland tropical hall",
+      "distance": 1.5,
+      "URL": "https://www.zoo-leipzig.de/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Monument to the Battle of the Nations",
+      "postcode": "04299",
+      "distanceKmFromAirport": 22,
+      "description": "Colossal 91-metre monument commemorating Napoleon's 1813 defeat — one of Europe's largest",
+      "distance": 4.5,
+      "URL": "https://www.stadtgeschichtliches-museum-leipzig.de/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Augustusplatz",
+      "postcode": "04109",
+      "distanceKmFromAirport": 18,
+      "description": "Leipzig's main square flanked by the Opera House, Gewandhaus concert hall and university tower",
+      "distance": 0.5,
+      "URL": "https://www.leipzig.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Mädler Passage",
+      "postcode": "04109",
+      "distanceKmFromAirport": 18,
+      "description": "Stunning Art Nouveau shopping arcade with Auerbachs Keller restaurant where Goethe set Faust",
+      "distance": 0.3,
+      "URL": "https://www.maedlerpassage.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Museum of Fine Arts Leipzig",
+      "postcode": "04109",
+      "distanceKmFromAirport": 18,
+      "description": "One of Germany's most important art museums with German Romantic and Old Masters collections",
+      "distance": 0.5,
+      "URL": "https://www.mdbk.de/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Spinnerei Cotton Mill Arts Complex",
+      "postcode": "04179",
+      "distanceKmFromAirport": 22,
+      "description": "Former cotton mill transformed into Europe's largest artist studios complex with galleries and cafes",
+      "distance": 3.5,
+      "URL": "https://www.spinnerei.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Clara-Zetkin-Park",
+      "postcode": "04107",
+      "distanceKmFromAirport": 20,
+      "description": "Vast riverside park popular for walking, cycling and weekend festivals",
+      "distance": 2.0,
+      "URL": "https://www.leipzig.de/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Volkerschlachtdenkmal Museum",
+      "postcode": "04299",
+      "distanceKmFromAirport": 22,
+      "description": "Forum of Contemporary History museum in the GDR-era building beside the giant memorial",
+      "distance": 4.5,
+      "URL": "https://www.zeitgeschichtliches-forum.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Karl-Liebknecht-Strasse (Karli)",
+      "postcode": "04107",
+      "distanceKmFromAirport": 20,
+      "description": "Leipzig's trendiest street packed with independent cafes, vintage shops and weekend markets",
+      "distance": 2.5,
+      "URL": "https://www.leipzig.de/en/"
+    }
+  ]
+}

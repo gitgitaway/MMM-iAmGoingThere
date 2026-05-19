@@ -1,0 +1,98 @@
+{
+  "city": "Nantes",
+  "country": "France",
+  "airportPostcode": "44346",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Les Machines de l'Ile",
+      "postcode": "44200",
+      "distanceKmFromAirport": 12,
+      "description": "Jules Verne-inspired mechanical art installation with a giant elephant you can ride",
+      "distance": 2,
+      "URL": "https://www.lesmachines-nantes.fr/"
+    },
+    {
+      "rank": 2,
+      "name": "Chateau des Ducs de Bretagne",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "15th-century castle and moat that was the seat of the Dukes of Brittany - free to enter",
+      "distance": 0.5,
+      "URL": "https://www.chateaunantes.fr/"
+    },
+    {
+      "rank": 3,
+      "name": "Passage Pommeraye",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "Magnificent 1843 three-level shopping arcade - the finest example of its era in France",
+      "distance": 0.3,
+      "URL": "https://www.passagepommeraye.fr/"
+    },
+    {
+      "rank": 4,
+      "name": "Musee d'Arts de Nantes",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "Excellent fine arts museum housed in a stunning neoclassical palace with a modern extension",
+      "distance": 0.5,
+      "URL": "https://www.museedartsdenantes.nantesmetropole.fr/"
+    },
+    {
+      "rank": 5,
+      "name": "Cathedral Saint-Pierre-et-Saint-Paul",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "Magnificent Gothic cathedral with Flemish Renaissance tomb of Francis II",
+      "distance": 0.3,
+      "URL": "https://www.diocese-nantes.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Ile de Nantes",
+      "postcode": "44200",
+      "distanceKmFromAirport": 12,
+      "description": "Former shipyard island transformed into a creative district with art, restaurants and riverside walks",
+      "distance": 2,
+      "URL": "https://www.levoyageanantes.fr/"
+    },
+    {
+      "rank": 7,
+      "name": "Le Voyage a Nantes Art Trail",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "Permanent outdoor art trail with a green line on the pavement connecting 30+ works",
+      "distance": 0,
+      "URL": "https://www.levoyageanantes.fr/"
+    },
+    {
+      "rank": 8,
+      "name": "Natural History Museum",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "Natural history museum in a neoclassical palace with a famous collection of 750,000 specimens",
+      "distance": 0.5,
+      "URL": "https://www.museum.nantesmetropole.fr/"
+    },
+    {
+      "rank": 9,
+      "name": "Jardin des Plantes",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "One of France's finest botanical gardens with exotic plants and artistic topiary",
+      "distance": 0.5,
+      "URL": "https://www.nantes.fr/"
+    },
+    {
+      "rank": 10,
+      "name": "Lieu Unique",
+      "postcode": "44000",
+      "distanceKmFromAirport": 10,
+      "description": "LU biscuit factory converted into Nantes' national arts centre with bar, hammam and terrace",
+      "distance": 0.5,
+      "URL": "https://www.lelieuunique.com/"
+    }
+  ]
+}

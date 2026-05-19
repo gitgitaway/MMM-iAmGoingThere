@@ -1,0 +1,98 @@
+{
+  "city": "Kuwait City",
+  "country": "Kuwait",
+  "airportPostcode": "13104",
+  "airportDistanceKm": 16,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kuwait Towers",
+      "postcode": "13096",
+      "distanceKmFromAirport": 19,
+      "description": "Iconic 1977 trio of water towers - symbols of Kuwait with viewing sphere and restaurant",
+      "distance": 3,
+      "URL": "https://www.kuwaittowers.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Mosque (Masjid Al Kabeer)",
+      "postcode": "13001",
+      "distanceKmFromAirport": 17,
+      "description": "Kuwait's largest mosque with a capacity of 10,000 and a beautiful 43m dome",
+      "distance": 1,
+      "URL": "https://www.mra.gov.kw/"
+    },
+    {
+      "rank": 3,
+      "name": "Souq Mubarakiya",
+      "postcode": "13035",
+      "distanceKmFromAirport": 16,
+      "description": "Kuwait's oldest traditional market with spices, gold, perfumes and Kuwaiti street food",
+      "distance": 0.5,
+      "URL": "https://www.visitkuwait.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Kuwait National Museum",
+      "postcode": "13050",
+      "distanceKmFromAirport": 18,
+      "description": "Kuwait's history from Neolithic Failaka Island to independence and the Gulf War",
+      "distance": 2,
+      "URL": "https://www.natmus.gov.kw/"
+    },
+    {
+      "rank": 5,
+      "name": "National Assembly Building",
+      "postcode": "13001",
+      "distanceKmFromAirport": 17,
+      "description": "Jorn Utzon's striking 1972 parliament building - one of the architect's finest works",
+      "distance": 1,
+      "URL": "https://www.kna.kw/"
+    },
+    {
+      "rank": 6,
+      "name": "Failaka Island",
+      "postcode": "13001",
+      "distanceKmFromAirport": 66,
+      "description": "Island with Bronze Age ruins, a Greek colony and a memorial to the Iraqi occupation",
+      "distance": 50,
+      "URL": "https://www.visitkuwait.com/"
+    },
+    {
+      "rank": 7,
+      "name": "The Avenues Mall",
+      "postcode": "47305",
+      "distanceKmFromAirport": 28,
+      "description": "One of the largest shopping malls in the Middle East with 1,500 shops",
+      "distance": 12,
+      "URL": "https://theavenueskuwait.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Scientific Center Kuwait",
+      "postcode": "22011",
+      "distanceKmFromAirport": 20,
+      "description": "Marine and natural history museum with an IMAX cinema and the largest aquarium in the Gulf",
+      "distance": 4,
+      "URL": "https://www.thescientificcenter.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Liberation Tower",
+      "postcode": "13015",
+      "distanceKmFromAirport": 17,
+      "description": "372m telecom tower built after liberation from Iraqi occupation with a rotating restaurant",
+      "distance": 1,
+      "URL": "https://www.visitkuwait.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Seif Palace Waterfront",
+      "postcode": "13001",
+      "distanceKmFromAirport": 17,
+      "description": "Government palace on the waterfront with traditional Arabic-Islamic architecture",
+      "distance": 1,
+      "URL": "https://www.visitkuwait.com/"
+    }
+  ]
+}

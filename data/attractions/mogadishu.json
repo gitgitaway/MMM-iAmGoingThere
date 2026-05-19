@@ -1,0 +1,98 @@
+{
+  "city": "Mogadishu",
+  "country": "Somalia",
+  "airportPostcode": "252",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Liido Beach",
+      "postcode": "252",
+      "distanceKmFromAirport": 10,
+      "description": "Mogadishu's most popular beach - a 10km stretch of Indian Ocean coastline",
+      "distance": 5,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Arba Rucun Mosque",
+      "postcode": "252",
+      "distanceKmFromAirport": 6,
+      "description": "Ancient Mosque of the 40 Pillars - one of the oldest mosques in East Africa",
+      "distance": 1,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Hamarweyne Old Town",
+      "postcode": "252",
+      "distanceKmFromAirport": 6,
+      "description": "Historic Swahili quarter with medieval buildings, bazaars and coastal architecture",
+      "distance": 1,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Bakara Market",
+      "postcode": "252",
+      "distanceKmFromAirport": 7,
+      "description": "The largest market in Somalia - vibrant trade hub for electronics, food and currency",
+      "distance": 2,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 5,
+      "name": "National Theatre of Somalia",
+      "postcode": "252",
+      "distanceKmFromAirport": 6,
+      "description": "Restored cultural landmark - Somalia's premier performing arts venue",
+      "distance": 0.5,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Cathedral Ruins",
+      "postcode": "252",
+      "distanceKmFromAirport": 6,
+      "description": "Ruins of the 1928 Italian colonial Cathedral of the Apostle Peter - now a skeletal frame",
+      "distance": 1,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Mogadishu Lighthouse",
+      "postcode": "252",
+      "distanceKmFromAirport": 7,
+      "description": "Historic colonial lighthouse on the tip of the Mogadishu peninsula",
+      "distance": 2,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Villa Somalia",
+      "postcode": "252",
+      "distanceKmFromAirport": 7,
+      "description": "The presidential palace complex and seat of the Somali government",
+      "distance": 2,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Gezira Beach",
+      "postcode": "252",
+      "distanceKmFromAirport": 13,
+      "description": "Quieter beach north of the city popular with locals for swimming and football",
+      "distance": 8,
+      "URL": "https://www.visitsomalia.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Lafoole Waterfalls",
+      "postcode": "252",
+      "distanceKmFromAirport": 40,
+      "description": "Scenic waterfalls 35km west of Mogadishu on the Shabeelle River",
+      "distance": 35,
+      "URL": "https://www.visitsomalia.com/"
+    }
+  ]
+}

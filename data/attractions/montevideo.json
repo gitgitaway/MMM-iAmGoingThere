@@ -1,0 +1,98 @@
+{
+  "city": "Montevideo",
+  "country": "Uruguay",
+  "airportPostcode": "15001",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ciudad Vieja (Old City)",
+      "postcode": "11000",
+      "distanceKmFromAirport": 22,
+      "description": "Portuguese colonial old quarter on a promontory with the Plaza Independencia and Solis Theatre",
+      "distance": 3,
+      "URL": "https://www.montevideo.gub.uy"
+    },
+    {
+      "rank": 2,
+      "name": "Mercado del Puerto",
+      "postcode": "11000",
+      "distanceKmFromAirport": 23,
+      "description": "19th-century iron market with parrillas grilling the world's finest beef over wood embers",
+      "distance": 3,
+      "URL": "https://www.mercadodelpuerto.com.uy"
+    },
+    {
+      "rank": 3,
+      "name": "Rambla (Promenade)",
+      "postcode": "11100",
+      "distanceKmFromAirport": 28,
+      "description": "World's longest seafront promenade at 22km - Montevidean life unfolds along the Rio de la Plata",
+      "distance": 8,
+      "URL": "https://www.montevideo.gub.uy/rambla"
+    },
+    {
+      "rank": 4,
+      "name": "Carnival Museum (Museo del Carnaval)",
+      "postcode": "11000",
+      "distanceKmFromAirport": 24,
+      "description": "South America's longest carnival - 40 days with Candombe drummers and comparsas",
+      "distance": 4,
+      "URL": "https://www.carnaval.org.uy"
+    },
+    {
+      "rank": 5,
+      "name": "Palacio Legislativo",
+      "postcode": "11100",
+      "distanceKmFromAirport": 26,
+      "description": "Parliament building of marble from 54 countries - open for free tours",
+      "distance": 7,
+      "URL": "https://www.parlamento.gub.uy"
+    },
+    {
+      "rank": 6,
+      "name": "Colonia del Sacramento Day Trip",
+      "postcode": "70000",
+      "distanceKmFromAirport": 65,
+      "description": "UNESCO World Heritage Portuguese colonial town a 1-hour ferry across the Rio de la Plata",
+      "distance": 48,
+      "URL": "https://www.coloniadelsacramento.gub.uy"
+    },
+    {
+      "rank": 7,
+      "name": "Museo Nacional de Artes Visuales",
+      "postcode": "11300",
+      "distanceKmFromAirport": 30,
+      "description": "Uruguay's national art museum in Parque Rodo with its famous collection of Torres Garcia",
+      "distance": 10,
+      "URL": "https://www.mnav.gub.uy"
+    },
+    {
+      "rank": 8,
+      "name": "Feria Tristan Narvaja Sunday Market",
+      "postcode": "11200",
+      "distanceKmFromAirport": 25,
+      "description": "Uruguay's largest Sunday flea market stretching several blocks with antiques and books",
+      "distance": 6,
+      "URL": "https://www.feriatristannarvaja.com.uy"
+    },
+    {
+      "rank": 9,
+      "name": "Punta del Este Day Trip",
+      "postcode": "20100",
+      "distanceKmFromAirport": 152,
+      "description": "South America's most glamorous beach resort 130km east",
+      "distance": 135,
+      "URL": "https://www.puntadeleste.gub.uy"
+    },
+    {
+      "rank": 10,
+      "name": "Mate at a Montevidean Cafe",
+      "postcode": "11000",
+      "distanceKmFromAirport": 22,
+      "description": "Uruguay is the world's largest per-capita mate drinker - everyone walks with a thermos",
+      "distance": 2,
+      "URL": "https://www.montevideo.gub.uy"
+    }
+  ]
+}

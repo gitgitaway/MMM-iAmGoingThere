@@ -1,0 +1,98 @@
+{
+  "city": "Medan",
+  "country": "Indonesia",
+  "airportPostcode": "20155",
+  "airportDistanceKm": 39,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lake Toba & Samosir Island",
+      "postcode": "22391",
+      "distanceKmFromAirport": 176,
+      "description": "World's largest volcanic lake - 30km wide caldera with the Batak island culture within",
+      "distance": 137,
+      "URL": "https://www.indonesia.travel/gb/en/post/lake-toba"
+    },
+    {
+      "rank": 2,
+      "name": "Maimoon Palace",
+      "postcode": "20219",
+      "distanceKmFromAirport": 45,
+      "description": "1888 Sultanate of Deli palace with a blend of Moorish and Italian architectural styles",
+      "distance": 8,
+      "URL": "https://www.palaismaimon.com"
+    },
+    {
+      "rank": 3,
+      "name": "Great Mosque of Medan (Al Mashun Mosque)",
+      "postcode": "20219",
+      "distanceKmFromAirport": 46,
+      "description": "1906 Ottoman-Mughal mosque built by the Sultan of Deli with Italian marble domes",
+      "distance": 9,
+      "URL": "https://www.indonesia.travel/gb/en/post/Al-Mashun-Mosque"
+    },
+    {
+      "rank": 4,
+      "name": "Bukit Lawang Orangutan Rehabilitation Centre",
+      "postcode": "20192",
+      "distanceKmFromAirport": 69,
+      "description": "Trek through Leuser rainforest for close encounters with wild Sumatran orangutans",
+      "distance": 50,
+      "URL": "https://www.orangutantrekking.org"
+    },
+    {
+      "rank": 5,
+      "name": "Tjong A Fie Mansion",
+      "postcode": "20212",
+      "distanceKmFromAirport": 44,
+      "description": "1900 Chinese merchant mansion of the most powerful businessman in colonial Sumatra",
+      "distance": 5,
+      "URL": "https://www.tjongafiemansion.com"
+    },
+    {
+      "rank": 6,
+      "name": "Traditional Batak Village (Simanindo)",
+      "postcode": "22393",
+      "distanceKmFromAirport": 178,
+      "description": "Batak king's palace, traditional stone tombs and Tor-Tor dance performances",
+      "distance": 139,
+      "URL": "https://www.indonesia.travel/gb/en/post/simanindo-village"
+    },
+    {
+      "rank": 7,
+      "name": "Berastagi Fruit & Flower Market",
+      "postcode": "22156",
+      "distanceKmFromAirport": 108,
+      "description": "Mountain market with passion fruit, markisa and flowers at the cool highland resort",
+      "distance": 71,
+      "URL": "https://www.berastagi.id"
+    },
+    {
+      "rank": 8,
+      "name": "Gunung Sinabung Volcano",
+      "postcode": "22157",
+      "distanceKmFromAirport": 112,
+      "description": "Active stratovolcano above Berastagi with dramatic eruption clouds",
+      "distance": 75,
+      "URL": "https://www.indonesia.travel/gb/en/post/mount-sinabung"
+    },
+    {
+      "rank": 9,
+      "name": "Kabanjahe Market",
+      "postcode": "22164",
+      "distanceKmFromAirport": 102,
+      "description": "Karo Batak highland market with jungle herbs, shallots and local produce",
+      "distance": 65,
+      "URL": "https://www.indonesia.travel/gb/en/post/kabanjahe-market"
+    },
+    {
+      "rank": 10,
+      "name": "Bika Ambon (Medan Sponge Cake)",
+      "postcode": "20235",
+      "distanceKmFromAirport": 42,
+      "description": "Medan's most famous export - honeycomb sponge cake from Jalan Mojopahit",
+      "distance": 4,
+      "URL": "https://www.bikaambon.id"
+    }
+  ]
+}

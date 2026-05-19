@@ -1,0 +1,98 @@
+{
+  "city": "Nanning",
+  "country": "China",
+  "airportPostcode": "530000",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Detian Waterfall",
+      "postcode": "532600",
+      "distanceKmFromAirport": 235,
+      "description": "Asia's largest transnational waterfall on the China-Vietnam border",
+      "distance": 200,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 2,
+      "name": "Guilin & Li River",
+      "postcode": "541002",
+      "distanceKmFromAirport": 215,
+      "description": "Day trip to the iconic karst limestone scenery immortalised on the 20 yuan note",
+      "distance": 180,
+      "URL": "https://www.guilintourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Guangxi Museum",
+      "postcode": "530022",
+      "distanceKmFromAirport": 38,
+      "description": "Excellent museum of Zhuang and Guangxi ethnic minority culture with fine bronzes",
+      "distance": 3,
+      "URL": "https://www.gxmuseum.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Qingxiu Mountain Scenic Area",
+      "postcode": "530031",
+      "distanceKmFromAirport": 40,
+      "description": "Forested mountain park with Buddhist temples and views over Nanning",
+      "distance": 5,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 5,
+      "name": "Zhongshan Road Night Market",
+      "postcode": "530012",
+      "distanceKmFromAirport": 36,
+      "description": "Nanning's famous snack street with Zhuang specialties like zongzi and luosifen",
+      "distance": 1,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 6,
+      "name": "Beihai Silver Beach",
+      "postcode": "536000",
+      "distanceKmFromAirport": 235,
+      "description": "One of China's finest white sand beaches on the Gulf of Tonkin",
+      "distance": 200,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Guangxi Science and Technology Museum",
+      "postcode": "530022",
+      "distanceKmFromAirport": 38,
+      "description": "Modern interactive science museum popular with families",
+      "distance": 3,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 8,
+      "name": "Longevity Valley (Mashan)",
+      "postcode": "530600",
+      "distanceKmFromAirport": 135,
+      "description": "A valley famous for longevity where centenarians are common in Zhuang villages",
+      "distance": 100,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 9,
+      "name": "Xixiang Tang Wetland Park",
+      "postcode": "530028",
+      "distanceKmFromAirport": 41,
+      "description": "Urban wetland park with mangroves, bird watching and lake views",
+      "distance": 6,
+      "URL": "https://www.gxta.gov.cn/"
+    },
+    {
+      "rank": 10,
+      "name": "Vietnam Border Crossing (Friendship Pass)",
+      "postcode": "532100",
+      "distanceKmFromAirport": 255,
+      "description": "Historic Youyi Guan border pass with a monumental gateway to Vietnam",
+      "distance": 220,
+      "URL": "https://www.gxta.gov.cn/"
+    }
+  ]
+}

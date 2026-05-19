@@ -1,0 +1,98 @@
+{
+  "city": "Montego Bay",
+  "country": "Jamaica",
+  "airportPostcode": "JMAKN02",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Doctor's Cave Beach",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 8,
+      "description": "Jamaica's most famous bathing beach with crystal-clear turquoise water in the bay",
+      "distance": 2,
+      "URL": "https://www.doctorscavebeach.com"
+    },
+    {
+      "rank": 2,
+      "name": "Rose Hall Great House",
+      "postcode": "JMAKN05",
+      "distanceKmFromAirport": 20,
+      "description": "Plantation great house haunted by the White Witch - Annie Palmer who murdered three husbands",
+      "distance": 15,
+      "URL": "https://www.rosehallgreatthouse.com"
+    },
+    {
+      "rank": 3,
+      "name": "Hip Strip (Gloucester Avenue)",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 8,
+      "description": "Montego Bay's main tourist strip with beach bars, restaurants and craft markets",
+      "distance": 2,
+      "URL": "https://www.montegobay.gov.jm"
+    },
+    {
+      "rank": 4,
+      "name": "Dunn's River Falls Climb",
+      "postcode": "JMAKN06",
+      "distanceKmFromAirport": 42,
+      "description": "Climb the famous terraced waterfall in a human chain - Jamaica's signature experience",
+      "distance": 37,
+      "URL": "https://www.dunnsriverfallsja.com"
+    },
+    {
+      "rank": 5,
+      "name": "Chukka Caribbean Adventures",
+      "postcode": "JMAKN04",
+      "distanceKmFromAirport": 28,
+      "description": "Zip-lines, ATV tours, horseback riding and river tubing in the Jamaican hills",
+      "distance": 23,
+      "URL": "https://www.chukkacaribbean.com"
+    },
+    {
+      "rank": 6,
+      "name": "Sam Sharpe Square",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 8,
+      "description": "Named after the National Hero who led the Christmas Rebellion of 1831",
+      "distance": 2,
+      "URL": "https://www.montegobay.gov.jm"
+    },
+    {
+      "rank": 7,
+      "name": "Pelican Bar (offshore)",
+      "postcode": "JMAKN02",
+      "distanceKmFromAirport": 10,
+      "description": "Bar built on stilts in the sea 1km offshore accessible only by boat",
+      "distance": 5,
+      "URL": "https://www.pelicanbarjamaica.com"
+    },
+    {
+      "rank": 8,
+      "name": "Negril Cliffs & Rick's Cafe",
+      "postcode": "JMAKN07",
+      "distanceKmFromAirport": 98,
+      "description": "35m cliff diving at sunset at the legendary Rick's Cafe in Negril",
+      "distance": 93,
+      "URL": "https://www.rickscafenegril.com"
+    },
+    {
+      "rank": 9,
+      "name": "Scotchies Jerk Centre",
+      "postcode": "JMAKN01",
+      "distanceKmFromAirport": 12,
+      "description": "The best jerk pork and chicken on the island - cooked over pimento wood",
+      "distance": 6,
+      "URL": "https://www.scotchies.com"
+    },
+    {
+      "rank": 10,
+      "name": "Blue Mountain Coffee Experience",
+      "postcode": "JMAKN08",
+      "distanceKmFromAirport": 84,
+      "description": "Tour and tasting of the world's finest coffee on the slopes of the Blue Mountains",
+      "distance": 79,
+      "URL": "https://www.bluemountaincoffee.com"
+    }
+  ]
+}

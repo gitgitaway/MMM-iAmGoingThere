@@ -1,0 +1,98 @@
+{
+  "city": "Milan",
+  "country": "Italy",
+  "airportPostcode": "20045",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Milan Cathedral (Duomo) & Rooftop",
+      "postcode": "20122",
+      "distanceKmFromAirport": 50,
+      "description": "The world's largest Gothic cathedral — walk among its 135 spires on the extraordinary rooftop terrace",
+      "distance": 0.3,
+      "URL": "https://www.duomomilano.it/en/"
+    },
+    {
+      "rank": 2,
+      "name": "The Last Supper (Santa Maria delle Grazie)",
+      "postcode": "20123",
+      "distanceKmFromAirport": 52,
+      "description": "Leonardo da Vinci's 1495 masterpiece mural — book months ahead for the strictly timed visit",
+      "distance": 2.5,
+      "URL": "https://cenacolovinciano.org/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Galleria Vittorio Emanuele II",
+      "postcode": "20121",
+      "distanceKmFromAirport": 50,
+      "description": "Italy's oldest and most beautiful shopping gallery (1877) — the Milan equivalent of Harrods",
+      "distance": 0.3,
+      "URL": "https://www.galleriamiamo.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Pinacoteca di Brera",
+      "postcode": "20121",
+      "distanceKmFromAirport": 52,
+      "description": "One of Italy's finest art collections in an 18th-century palazzo — Raphael, Caravaggio and Mantegna",
+      "distance": 1.5,
+      "URL": "https://pinacotecabrera.org/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Quadrilatero della Moda",
+      "postcode": "20121",
+      "distanceKmFromAirport": 52,
+      "description": "The Fashion Quadrilateral — Via della Spiga, Via Montenapoleone and the global fashion capitals",
+      "distance": 1.5,
+      "URL": "https://www.montenapoleone.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Navigli Canals District",
+      "postcode": "20144",
+      "distanceKmFromAirport": 52,
+      "description": "Leonardo da Vinci's 15th-century canal network — now lined with vintage bars and aperitivo restaurants",
+      "distance": 2.5,
+      "URL": "https://www.naviglilombardi.it/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Castello Sforzesco",
+      "postcode": "20121",
+      "distanceKmFromAirport": 52,
+      "description": "Vast 15th-century Sforza fortress with Michelangelo's last sculpture, the Rondanini Pieta",
+      "distance": 1.5,
+      "URL": "https://www.milanocastello.it/en/"
+    },
+    {
+      "rank": 8,
+      "name": "MUDEC Museum of Cultures",
+      "postcode": "20143",
+      "distanceKmFromAirport": 53,
+      "description": "World cultures museum in a striking contemporary building with rotating blockbuster exhibitions",
+      "distance": 3.0,
+      "URL": "https://www.mudec.it/eng/"
+    },
+    {
+      "rank": 9,
+      "name": "AC Milan / Inter Milan Stadium Tour (San Siro)",
+      "postcode": "20151",
+      "distanceKmFromAirport": 57,
+      "description": "The legendary double-ringed San Siro — museum and ground tour of one of football's greatest cathedrals",
+      "distance": 7.0,
+      "URL": "https://www.sansiro.net/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Lake Como Day Trip",
+      "postcode": "22100",
+      "distanceKmFromAirport": 100,
+      "description": "The world's most glamorous lake 50 km north — George Clooney's villa, Bellagio and ferry tours",
+      "distance": 50.0,
+      "URL": "https://www.lakecomo.is/"
+    }
+  ]
+}

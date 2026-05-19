@@ -1,0 +1,98 @@
+{
+  "city": "Leeds",
+  "country": "United Kingdom",
+  "airportPostcode": "LS19 7TU",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Royal Armouries Museum",
+      "postcode": "LS10 1LT",
+      "distanceKmFromAirport": 15,
+      "description": "National museum of arms and armour with live jousting and demonstrations",
+      "distance": 1,
+      "URL": "https://royalarmouries.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Harewood House",
+      "postcode": "LS17 9LQ",
+      "distanceKmFromAirport": 26,
+      "description": "Stunning 18th-century country house with gardens, bird garden and art collection",
+      "distance": 12,
+      "URL": "https://www.harewood.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Leeds Art Gallery",
+      "postcode": "LS1 3AA",
+      "distanceKmFromAirport": 14,
+      "description": "Victorian gallery with an outstanding collection of British 20th-century art",
+      "distance": 0.3,
+      "URL": "https://www.museumsandgalleries.leeds.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Roundhay Park",
+      "postcode": "LS8 1JR",
+      "distanceKmFromAirport": 19,
+      "description": "700-acre park with lakes, gardens and the Tropical World exotic butterfly house",
+      "distance": 5,
+      "URL": "https://www.roundhaypark.org.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Kirkstall Abbey",
+      "postcode": "LS5 3EH",
+      "distanceKmFromAirport": 19,
+      "description": "Remarkably preserved 12th-century Cistercian abbey on the banks of the Aire",
+      "distance": 5,
+      "URL": "https://www.museumsandgalleries.leeds.gov.uk/kirkstall-abbey/"
+    },
+    {
+      "rank": 6,
+      "name": "Leeds Corn Exchange",
+      "postcode": "LS1 7BR",
+      "distanceKmFromAirport": 14,
+      "description": "Stunning Victorian domed building now housing independent boutiques and eateries",
+      "distance": 0.3,
+      "URL": "https://www.leedscornexchange.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Thackray Medical Museum",
+      "postcode": "LS9 7LN",
+      "distanceKmFromAirport": 16,
+      "description": "Fascinating story of medicine, health and the human body",
+      "distance": 2,
+      "URL": "https://www.thackraymedicalmuseum.co.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Elland Road Stadium",
+      "postcode": "LS11 0ES",
+      "distanceKmFromAirport": 17,
+      "description": "Home of Leeds United FC with stadium tours and club museum",
+      "distance": 3,
+      "URL": "https://www.leedsunited.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Henry Moore Institute",
+      "postcode": "LS1 3AA",
+      "distanceKmFromAirport": 14,
+      "description": "World-leading centre for the study and display of sculpture",
+      "distance": 0.3,
+      "URL": "https://www.henry-moore.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Victoria Quarter",
+      "postcode": "LS1 6BL",
+      "distanceKmFromAirport": 14,
+      "description": "Spectacular Victorian shopping arcades with stained-glass roof and designer stores",
+      "distance": 0.2,
+      "URL": "https://www.victorialeeds.co.uk/"
+    }
+  ]
+}

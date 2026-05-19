@@ -1,0 +1,98 @@
+{
+  "city": "Mlada Boleslav",
+  "country": "Czech Republic",
+  "airportPostcode": "16000",
+  "airportDistanceKm": 60,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Skoda Museum",
+      "postcode": "29360",
+      "distanceKmFromAirport": 62,
+      "description": "The official museum of Skoda Auto, founded in 1895 in Mlada Boleslav; over 350 historic vehicles spanning 120 years of Czech automotive history",
+      "distance": 1.2,
+      "URL": "https://www.skoda-storyboard.com/en/skoda-museum/"
+    },
+    {
+      "rank": 2,
+      "name": "Mlada Boleslav Castle",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Renaissance castle complex housing the Regional Museum with collections on local history, archaeology and the Skoda factory's early days",
+      "distance": 0.5,
+      "URL": "https://www.muzeummb.cz/"
+    },
+    {
+      "rank": 3,
+      "name": "Church of the Assumption of the Virgin Mary",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Impressive Gothic church in the old town centre dating from the 15th century, with a beautifully preserved baroque interior and tower views",
+      "distance": 0.3,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 4,
+      "name": "Stare Namesti (Old Town Square)",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Historic market square at the heart of the old town surrounded by Renaissance burghers' houses and the early Gothic Town Hall",
+      "distance": 0.3,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 5,
+      "name": "Kakadu Park",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Popular riverside recreation area along the Jizera river offering walking trails, sports facilities and picnic areas for families",
+      "distance": 1.5,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 6,
+      "name": "Mlada Boleslav Synagogue",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "19th-century neo-Romanesque synagogue; one of Bohemia's best-preserved Jewish heritage buildings, now used as a cultural space",
+      "distance": 0.4,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 7,
+      "name": "City Gallery Navrátil",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Municipal art gallery presenting changing exhibitions of Czech contemporary art in a historic building in the town centre",
+      "distance": 0.4,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 8,
+      "name": "Jizera River Walk",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Scenic riverside promenade along the Jizera offering cycling and walking paths through green meadows surrounding the historic town",
+      "distance": 1.0,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 9,
+      "name": "Boleslav Fortress Remains",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Preserved remnants of the medieval city fortifications including towers and walls that once surrounded the historic Boleslavian settlement",
+      "distance": 0.6,
+      "URL": "https://www.mlada-boleslav.cz/"
+    },
+    {
+      "rank": 10,
+      "name": "Stadion Skoda Mlada Boleslav",
+      "postcode": "29360",
+      "distanceKmFromAirport": 61,
+      "description": "Home of FK Mlada Boleslav with an 8,000-seat capacity; the club has competed in UEFA Europa and Conference League qualifying rounds",
+      "distance": 1.5,
+      "URL": "https://www.fkmb.cz/en/"
+    }
+  ]
+}

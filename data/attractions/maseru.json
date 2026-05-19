@@ -1,0 +1,98 @@
+{
+  "city": "Maseru",
+  "country": "Lesotho",
+  "airportPostcode": "100",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sani Pass & Top of the Lesotho Highlands",
+      "postcode": "100",
+      "distanceKmFromAirport": 25.0,
+      "description": "One of Africa's most dramatic mountain passes reaching 2,874m on the border with South Africa",
+      "distance": 21.0,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 2,
+      "name": "Maluti Mountains Pony Trek",
+      "postcode": "700",
+      "distanceKmFromAirport": 95.0,
+      "description": "Ride Basotho ponies through mountain villages - the traditional transport of the Kingdom in the Sky",
+      "distance": 91.0,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 3,
+      "name": "Thaba Bosiu National Monument",
+      "postcode": "100",
+      "distanceKmFromAirport": 5.0,
+      "description": "Sacred mountain fortress where King Moshoeshoe I united the Basotho nation in 1824",
+      "distance": 1.0,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 4,
+      "name": "Katse Dam",
+      "postcode": "700",
+      "distanceKmFromAirport": 95.0,
+      "description": "Africa's second largest dam wall - spectacular arched dam in a sheer mountain gorge",
+      "distance": 91.0,
+      "URL": "https://www.semonkong.co.ls"
+    },
+    {
+      "rank": 5,
+      "name": "Sehlabathebe National Park",
+      "postcode": "100",
+      "distanceKmFromAirport": 4.0,
+      "description": "Remote highland park with ancient rock art and the rare spiral aloe",
+      "distance": 0.5,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 6,
+      "name": "Lesotho Highlands Water Project",
+      "postcode": "0",
+      "distanceKmFromAirport": 85.0,
+      "description": "One of the world's great engineering feats - tunnels carry water from Lesotho to South Africa",
+      "distance": 81.0,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 7,
+      "name": "Basotho Cultural Village",
+      "postcode": "100",
+      "distanceKmFromAirport": 4.0,
+      "description": "Reconstructed traditional village showing the evolution of Basotho architecture",
+      "distance": 0.5,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 8,
+      "name": "Maletsunyane Falls",
+      "postcode": "190",
+      "distanceKmFromAirport": 45.0,
+      "description": "Sub-Saharan Africa's highest single-drop waterfall at 192m near Semonkong",
+      "distance": 41.0,
+      "URL": "https://www.morija.co.ls"
+    },
+    {
+      "rank": 9,
+      "name": "Maseru Craft Centre",
+      "postcode": "180",
+      "distanceKmFromAirport": 38.0,
+      "description": "Woven tapestries and mohair products - the finest arts of the Basotho people",
+      "distance": 34.0,
+      "URL": "https://www.visitlesotho.travel"
+    },
+    {
+      "rank": 10,
+      "name": "Papa (Maize Porridge) with Moroho",
+      "postcode": "0",
+      "distanceKmFromAirport": 155.0,
+      "description": "Lesotho staple - stiff maize meal porridge with wild spinach and fermented sour milk",
+      "distance": 151.0,
+      "URL": "https://www.visitlesotho.travel"
+    }
+  ]
+}

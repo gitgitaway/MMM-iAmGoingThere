@@ -1,0 +1,98 @@
+{
+  "city": "Muscat",
+  "country": "Oman",
+  "airportPostcode": "121",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sultan Qaboos Grand Mosque",
+      "postcode": "113",
+      "distanceKmFromAirport": 38,
+      "description": "Oman's most impressive mosque with the world's second largest hand-woven carpet and chandelier",
+      "distance": 4,
+      "URL": "https://www.divinemuscat.com"
+    },
+    {
+      "rank": 2,
+      "name": "Mutrah Souq",
+      "postcode": "100",
+      "distanceKmFromAirport": 36,
+      "description": "One of the oldest souqs in Arabia, famous for frankincense, khanjar daggers and silver jewellery",
+      "distance": 2,
+      "URL": "https://www.mutrahsouq.com"
+    },
+    {
+      "rank": 3,
+      "name": "Mutrah Corniche",
+      "postcode": "100",
+      "distanceKmFromAirport": 36,
+      "description": "Scenic waterfront promenade beside the natural harbour with Mutrah Fort above",
+      "distance": 2,
+      "URL": "https://www.muscat.gov.om"
+    },
+    {
+      "rank": 4,
+      "name": "Royal Opera House Muscat",
+      "postcode": "114",
+      "distanceKmFromAirport": 39,
+      "description": "Oman's cultural jewel - a stunning neo-Islamic opera house opened in 2011",
+      "distance": 5,
+      "URL": "https://www.rohmuscat.org.om"
+    },
+    {
+      "rank": 5,
+      "name": "Al Alam Palace",
+      "postcode": "100",
+      "distanceKmFromAirport": 36,
+      "description": "Colourful ceremonial palace of Sultan Qaboos flanked by two Portuguese forts",
+      "distance": 2,
+      "URL": "https://www.muscat.gov.om"
+    },
+    {
+      "rank": 6,
+      "name": "Wahiba Sands Desert Safari",
+      "postcode": "339",
+      "distanceKmFromAirport": 140,
+      "description": "Overnight camping in the vast Wahiba Sands dune sea with stargazing and camel riding",
+      "distance": 107,
+      "URL": "https://www.wahibasands.com"
+    },
+    {
+      "rank": 7,
+      "name": "Wadi Shab",
+      "postcode": "320",
+      "distanceKmFromAirport": 110,
+      "description": "Spectacular gorge with turquoise pools, waterfalls and a cave you swim into",
+      "distance": 77,
+      "URL": "https://www.wadishab.com"
+    },
+    {
+      "rank": 8,
+      "name": "Bimmah Sinkhole (Hawiyat Najm)",
+      "postcode": "312",
+      "distanceKmFromAirport": 135,
+      "description": "Crystal-clear natural sinkhole perfect for swimming 90km from Muscat",
+      "distance": 102,
+      "URL": "https://www.bimmahsinkhole.com"
+    },
+    {
+      "rank": 9,
+      "name": "Nizwa Fort & Souq",
+      "postcode": "611",
+      "distanceKmFromAirport": 146,
+      "description": "Oman's cultural heartland - a 17th-century fort with a famous Friday goat market",
+      "distance": 113,
+      "URL": "https://www.nizwafort.com"
+    },
+    {
+      "rank": 10,
+      "name": "National Museum of Oman",
+      "postcode": "100",
+      "distanceKmFromAirport": 37,
+      "description": "Oman's heritage across 14 galleries covering land, sea, trade routes and the sultanate",
+      "distance": 3,
+      "URL": "https://www.nmoom.om"
+    }
+  ]
+}

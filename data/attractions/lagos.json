@@ -1,0 +1,98 @@
+{
+  "city": "Lagos",
+  "country": "Nigeria",
+  "airportPostcode": "100001",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Nike Art Gallery",
+      "postcode": "106104",
+      "distanceKmFromAirport": 42,
+      "description": "Africa's largest private art gallery with 7 floors of contemporary Nigerian art",
+      "distance": 20,
+      "URL": "https://www.nikeartgallery.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Lekki Conservation Centre",
+      "postcode": "105102",
+      "distanceKmFromAirport": 39,
+      "description": "Africa's longest canopy walkway through the Lagos urban mangrove forest",
+      "distance": 17,
+      "URL": "https://www.ncf-nigeria.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Freedom Park",
+      "postcode": "101001",
+      "distanceKmFromAirport": 23,
+      "description": "Former colonial prison transformed into a concert and cultural events venue",
+      "distance": 1,
+      "URL": "https://www.freedomparklagos.com/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum Lagos",
+      "postcode": "101001",
+      "distanceKmFromAirport": 24,
+      "description": "Benin bronzes, traditional costumes and Nok terracotta sculptures",
+      "distance": 2,
+      "URL": "https://www.nationalmuseumlagos.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Elegushi Beach (Lekki Beach)",
+      "postcode": "105102",
+      "distanceKmFromAirport": 42,
+      "description": "Most popular beach in Lagos with beach bars, music and Atlantic Ocean waves",
+      "distance": 20,
+      "URL": "https://www.elegushibeach.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Terra Kulture Arts Centre",
+      "postcode": "101233",
+      "distanceKmFromAirport": 30,
+      "description": "Visual and performing arts centre celebrating Nigerian culture",
+      "distance": 8,
+      "URL": "https://www.terrakulture.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Balogun Market",
+      "postcode": "102273",
+      "distanceKmFromAirport": 23,
+      "description": "Lagos Island's chaotic, colour-filled fabric and fashion market",
+      "distance": 1,
+      "URL": "https://www.lagosstate.gov.ng/"
+    },
+    {
+      "rank": 8,
+      "name": "Ikoyi & Banana Island",
+      "postcode": "101233",
+      "distanceKmFromAirport": 32,
+      "description": "Lagos's most exclusive neighbourhood with restaurants, bars and a yacht club",
+      "distance": 10,
+      "URL": "https://www.lagosstate.gov.ng/"
+    },
+    {
+      "rank": 9,
+      "name": "Afrobeats Concert Scene",
+      "postcode": "101001",
+      "distanceKmFromAirport": 27,
+      "description": "Lagos is Africa's music capital - Burna Boy, Wizkid and Davido are from here",
+      "distance": 5,
+      "URL": "https://www.visitlagos.ng/"
+    },
+    {
+      "rank": 10,
+      "name": "Suya at Night Market",
+      "postcode": "101001",
+      "distanceKmFromAirport": 23,
+      "description": "Spicy grilled skewered meat seasoned with yaji - Nigeria's greatest street food",
+      "distance": 1,
+      "URL": "https://www.visitlagos.ng/"
+    }
+  ]
+}

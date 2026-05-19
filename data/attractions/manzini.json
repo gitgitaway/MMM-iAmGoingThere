@@ -1,0 +1,98 @@
+{
+  "city": "Manzini",
+  "country": "Eswatini",
+  "airportPostcode": "M114",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mlilwane Wildlife Sanctuary",
+      "postcode": "H114",
+      "distanceKmFromAirport": 25,
+      "description": "Eswatini's oldest and most accessible reserve - walk among zebra, hippos and warthogs",
+      "distance": 20.0,
+      "URL": "https://www.biggameparks.org/mlilwane/"
+    },
+    {
+      "rank": 2,
+      "name": "Hlane Royal National Park",
+      "postcode": "H322",
+      "distanceKmFromAirport": 65,
+      "description": "White rhino, elephant and lion in Eswatini's largest protected area",
+      "distance": 60.0,
+      "URL": "https://www.biggameparks.org/hlane/"
+    },
+    {
+      "rank": 3,
+      "name": "Ngwenya Glass Factory",
+      "postcode": "H101",
+      "distanceKmFromAirport": 37,
+      "description": "World-famous recycled glass artworks - watch craftspeople blow glass into animals and vases",
+      "distance": 32.0,
+      "URL": "https://www.ngwenyaglass.co.sz/"
+    },
+    {
+      "rank": 4,
+      "name": "Manzini Market",
+      "postcode": "M202",
+      "distanceKmFromAirport": 5,
+      "description": "The busiest market in Eswatini with Swazi candles, hand-printed fabrics and crafts",
+      "distance": 0.3,
+      "URL": "https://www.biggameparks.org"
+    },
+    {
+      "rank": 5,
+      "name": "Lobamba Royal Village & Parliament",
+      "postcode": "H116",
+      "distanceKmFromAirport": 25,
+      "description": "Traditional royal village seat of the Swazi monarchy with the royal cattle byre",
+      "distance": 20.0,
+      "URL": "https://www.thekingdomofeswatini.com"
+    },
+    {
+      "rank": 6,
+      "name": "Swazi Cultural Village (Mantenga)",
+      "postcode": "H116",
+      "distanceKmFromAirport": 25,
+      "description": "Living museum of traditional Swazi beehive huts, dancing and craft",
+      "distance": 20.0,
+      "URL": "https://www.swazi-cultural-village.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Incwala Ceremony (First Fruits Festival)",
+      "postcode": "H116",
+      "distanceKmFromAirport": 25,
+      "description": "The most sacred Swazi ceremony - the king's ritual dance with national warriors in full regalia",
+      "distance": 20.0,
+      "URL": "https://www.thekingdomofeswatini.com"
+    },
+    {
+      "rank": 8,
+      "name": "Sibebe Rock",
+      "postcode": "H101",
+      "distanceKmFromAirport": 40,
+      "description": "World's second largest exposed granite dome - a challenging but rewarding scramble",
+      "distance": 35.0,
+      "URL": "https://www.thekingdomofeswatini.com"
+    },
+    {
+      "rank": 9,
+      "name": "Phophonyane Nature Reserve",
+      "postcode": "H302",
+      "distanceKmFromAirport": 67,
+      "description": "Swimming in waterfalls on the Phophonyane River gorge",
+      "distance": 62.0,
+      "URL": "https://www.thekingdomofeswatini.com"
+    },
+    {
+      "rank": 10,
+      "name": "Tinkhwa (Swazi Bread)",
+      "postcode": "M202",
+      "distanceKmFromAirport": 5,
+      "description": "Sweet steamed bread eaten with sishwala - maize porridge with soured milk and spinach",
+      "distance": 0.3,
+      "URL": "https://www.mountaininn.co.sz"
+    }
+  ]
+}

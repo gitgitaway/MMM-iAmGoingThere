@@ -1,0 +1,98 @@
+{
+  "city": "Monchengladbach",
+  "country": "Germany",
+  "airportPostcode": "40474",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Abteiberg Museum",
+      "postcode": "41061",
+      "distanceKmFromAirport": 26,
+      "description": "Hans Hollein-designed postmodern museum (1982) housing an outstanding collection of Fluxus art, Zero movement works and international contemporary art",
+      "distance": 0.5,
+      "URL": "https://www.museum-abteiberg.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Alter Markt",
+      "postcode": "41061",
+      "distanceKmFromAirport": 26,
+      "description": "The historic market square in the old town with the Romanesque Minster of St. Vitus, dating from the 10th century, and a lively weekend market",
+      "distance": 0.3,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 3,
+      "name": "Munster Church of St. Vitus",
+      "postcode": "41061",
+      "distanceKmFromAirport": 26,
+      "description": "Impressive Romanesque minster rising above the old town with a notable crypt, treasury of medieval relics and the town's skyline-defining towers",
+      "distance": 0.3,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 4,
+      "name": "Schloss Rheydt",
+      "postcode": "41236",
+      "distanceKmFromAirport": 28,
+      "description": "One of the finest Renaissance moated castles in the Rhineland (1558), housing the city's municipal museum with period interiors and art collections",
+      "distance": 4.0,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 5,
+      "name": "Bunter Garten",
+      "postcode": "41065",
+      "distanceKmFromAirport": 28,
+      "description": "Public park in the eastern part of the city with botanical gardens, a children's farm and walking paths around the Bunter Garten lake",
+      "distance": 3.5,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 6,
+      "name": "Stadt Museum Monchengladbach",
+      "postcode": "41061",
+      "distanceKmFromAirport": 26,
+      "description": "Municipal history museum tracing the city's development from Roman times through the medieval textile trade to its modern identity",
+      "distance": 0.5,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 7,
+      "name": "Schloss Myllendonk",
+      "postcode": "41352",
+      "distanceKmFromAirport": 30,
+      "description": "Medieval moated castle north of Monchengladbach in the Korschenbroich area; a scenic historic landmark surrounded by a working farm estate",
+      "distance": 8.0,
+      "URL": "https://www.korschenbroich.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Heyderhof Nature Reserve",
+      "postcode": "41179",
+      "distanceKmFromAirport": 27,
+      "description": "Natural forest and heathland reserve on the city's southern edge with walking and cycling trails through typical Lower Rhine landscape",
+      "distance": 5.0,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 9,
+      "name": "Kaiser Friedrich Halle",
+      "postcode": "41061",
+      "distanceKmFromAirport": 26,
+      "description": "Historic concert and events hall at the heart of the city, hosting major performances and civic events throughout the year",
+      "distance": 0.5,
+      "URL": "https://www.mg.de/"
+    },
+    {
+      "rank": 10,
+      "name": "BORUSSIA-PARK",
+      "postcode": "41179",
+      "distanceKmFromAirport": 27,
+      "description": "Home of Borussia Monchengladbach with 54,010 capacity; the club has won five Bundesliga titles, two UEFA Cups and reached the CL 2020-21 knockout rounds",
+      "distance": 5.0,
+      "URL": "https://www.borussia.de/en/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Molde",
+  "country": "Norway",
+  "airportPostcode": "6415",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Romsdal Museum",
+      "postcode": "6413",
+      "distanceKmFromAirport": 5,
+      "description": "Open-air folk museum with over 50 historic buildings relocated from around the Romsdal region, including farmhouses, a stave church and maritime exhibits",
+      "distance": 2.0,
+      "URL": "https://www.romsdalmusea.no/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Varden viewpoint",
+      "postcode": "6413",
+      "distanceKmFromAirport": 6,
+      "description": "Iconic hilltop panorama 407m above Molde offering the legendary view of 87 snowcapped peaks across the fjord on clear days",
+      "distance": 3.0,
+      "URL": "https://www.visitnorway.com/listings/varden-viewpoint/183394/"
+    },
+    {
+      "rank": 3,
+      "name": "Molde Cathedral",
+      "postcode": "6413",
+      "distanceKmFromAirport": 5,
+      "description": "Norway's smallest cathedral from 1957, built to replace the original destroyed in WWII bombing, with fine stained glass and a peaceful memorial garden",
+      "distance": 0.8,
+      "URL": "https://www.kirken.no/"
+    },
+    {
+      "rank": 4,
+      "name": "Romsdalseggen Ridge",
+      "postcode": "6300",
+      "distanceKmFromAirport": 50,
+      "description": "Norway's most famous ridge hike offering extraordinary views across the Romsdal valley from a jagged 10km route above Andalsnes",
+      "distance": 45.0,
+      "URL": "https://www.visitnorway.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Molde Harbour",
+      "postcode": "6413",
+      "distanceKmFromAirport": 5,
+      "description": "Picturesque harbour with fish restaurants, the coastal express Hurtigruten dock and views across Moldefjord to the snow-capped mountains",
+      "distance": 0.5,
+      "URL": "https://www.visitmolde.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Bjornsonhuset",
+      "postcode": "6413",
+      "distanceKmFromAirport": 5,
+      "description": "Cultural centre dedicated to Nobel laureate Bjornstjerne Bjornson, Norway's national poet, who spent significant time in the Romsdal region",
+      "distance": 1.0,
+      "URL": "https://www.visitmolde.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Molde Jazz Festival",
+      "postcode": "6413",
+      "distanceKmFromAirport": 5,
+      "description": "Scandinavia's oldest jazz festival held annually in July since 1961; Miles Davis performed here in 1964, and it remains a world-class event",
+      "distance": 0.5,
+      "URL": "https://www.moldejazz.no/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Trollstigen Mountain Road",
+      "postcode": "6300",
+      "distanceKmFromAirport": 85,
+      "description": "Norway's most dramatic mountain road with 11 hairpin bends climbing a 1:12 gradient; a National Scenic Route with waterfalls alongside",
+      "distance": 80.0,
+      "URL": "https://www.visitnorway.com/listings/trollstigen/183417/"
+    },
+    {
+      "rank": 9,
+      "name": "Hjertoya Island",
+      "postcode": "6413",
+      "distanceKmFromAirport": 7,
+      "description": "Small island a short ferry ride from central Molde with a maritime museum, beaches and walking paths through an idyllic car-free environment",
+      "distance": 3.0,
+      "URL": "https://www.visitmolde.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Aker Stadion",
+      "postcode": "6413",
+      "distanceKmFromAirport": 5,
+      "description": "Home of Molde FK with a 11,800-seat capacity; one of Norway's most successful clubs and regular Europa League participants",
+      "distance": 1.5,
+      "URL": "https://www.moldefk.no/en/"
+    }
+  ]
+}

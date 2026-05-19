@@ -1,0 +1,98 @@
+{
+  "city": "Liege",
+  "country": "Belgium",
+  "airportPostcode": "4460",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Montagne de Bueren Staircase",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "374 steps climbing steeply above the city to the Citadel; a famous Liege landmark offering stunning rooftop views over the Meuse valley",
+      "distance": 0.8,
+      "URL": "https://www.liege.be/"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Curtius Museum",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "Magnificent museum in six linked historic mansions on the Meuse with encyclopedic collections of Mosan art, arms, glass, archaeology and religious art",
+      "distance": 0.8,
+      "URL": "https://www.grandcurtius.be/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Saint-Lambert Square",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "Liege's central square where the prince-bishops' palace faces a modern square built above the excavated ruins of the medieval Cathedral of St. Lambert",
+      "distance": 0.3,
+      "URL": "https://www.liege.be/"
+    },
+    {
+      "rank": 4,
+      "name": "Liege-Guillemins Station",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "Santiago Calatrava's breathtaking glass and steel railway station from 2009; one of Europe's most spectacular pieces of contemporary architecture",
+      "distance": 1.5,
+      "URL": "https://www.liege.be/"
+    },
+    {
+      "rank": 5,
+      "name": "En Feronstrée Sunday Market",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "One of Belgium's most famous markets held along the Meuse quays every Sunday with antiques, bric-a-brac and local produce in a lively outdoor setting",
+      "distance": 0.5,
+      "URL": "https://www.liege.be/"
+    },
+    {
+      "rank": 6,
+      "name": "Museum of Walloon Life",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "Ethnographic museum in a 17th-century Franciscan convent celebrating Walloon culture, craft traditions and the regional identity of French-speaking Belgium",
+      "distance": 0.5,
+      "URL": "https://www.viewallonie.be/"
+    },
+    {
+      "rank": 7,
+      "name": "Prince-Bishop's Palace",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "Magnificent Renaissance palace of 1508 with three superb inner courtyards; once the residence of Liege's powerful prince-bishops, now the Palace of Justice",
+      "distance": 0.3,
+      "URL": "https://www.liege.be/"
+    },
+    {
+      "rank": 8,
+      "name": "Liege Christmas Market",
+      "postcode": "4000",
+      "distanceKmFromAirport": 11,
+      "description": "One of Belgium's most beloved Christmas markets, Liege en Fetes fills the city centre with wooden chalets, mulled wine and traditional Walloon treats each December",
+      "distance": 0.5,
+      "URL": "https://www.liegeenfetes.be/"
+    },
+    {
+      "rank": 9,
+      "name": "Outremeuse District",
+      "postcode": "4020",
+      "distanceKmFromAirport": 12,
+      "description": "Liege's bohemian island neighbourhood on the right bank of the Meuse; birthplace of Georges Simenon, creator of Maigret, with colourful bars and the August Folklore festival",
+      "distance": 2.0,
+      "URL": "https://www.liege.be/"
+    },
+    {
+      "rank": 10,
+      "name": "Stade de Sclessin",
+      "postcode": "4000",
+      "distanceKmFromAirport": 12,
+      "description": "Home of Standard de Liege with 27,670 capacity; one of Belgium's great clubs with 10 league titles and multiple Europa League group stage appearances",
+      "distance": 3.5,
+      "URL": "https://www.standard.be/en/"
+    }
+  ]
+}

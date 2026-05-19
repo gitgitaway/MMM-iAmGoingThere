@@ -1,0 +1,98 @@
+{
+  "city": "Kumasi",
+  "country": "Ghana",
+  "airportPostcode": "00233",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ashanti Cultural Centre & Museum",
+      "postcode": "00233",
+      "distanceKmFromAirport": 12,
+      "description": "Ashanti Kingdom art, gold regalia and traditional crafts",
+      "distance": 2,
+      "URL": "https://www.ghanaculture.gov.gh/"
+    },
+    {
+      "rank": 2,
+      "name": "Manhyia Palace Museum",
+      "postcode": "00233",
+      "distanceKmFromAirport": 13,
+      "description": "Palace of the Asantehene - the Ashanti King - with royal throne and regalia",
+      "distance": 3,
+      "URL": "https://manhyiapalace.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Kumasi Kejetia Market",
+      "postcode": "00233",
+      "distanceKmFromAirport": 10,
+      "description": "West Africa's largest open market - 12,000 stalls with everything imaginable",
+      "distance": 0.5,
+      "URL": "https://www.ghanavisit.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Kumasi Fort & Military Museum",
+      "postcode": "00233",
+      "distanceKmFromAirport": 10,
+      "description": "British fort housing the history of the Anglo-Ashanti Wars",
+      "distance": 0.5,
+      "URL": "https://www.ghanamuseums.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Bonwire Kente Weaving Village",
+      "postcode": "00233",
+      "distanceKmFromAirport": 25,
+      "description": "Village where Ghana's royal Kente cloth has been woven for 400 years",
+      "distance": 15,
+      "URL": "https://www.ghanavisit.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Lake Bosumtwi",
+      "postcode": "00233",
+      "distanceKmFromAirport": 40,
+      "description": "Sacred crater lake where the Ashanti believe the souls of the dead go",
+      "distance": 30,
+      "URL": "https://www.ghanavisit.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Adanwomase Kente & Adinkra Villages",
+      "postcode": "00233",
+      "distanceKmFromAirport": 26,
+      "description": "See Adinkra cloth printing using carved calabash stamps",
+      "distance": 16,
+      "URL": "https://www.ghanavisit.com/"
+    },
+    {
+      "rank": 8,
+      "name": "National Cultural Centre Grounds",
+      "postcode": "00233",
+      "distanceKmFromAirport": 11,
+      "description": "Craft workshops, pottery and weaving with the finest Ghanaian artisans",
+      "distance": 1,
+      "URL": "https://www.ghanaculture.gov.gh/"
+    },
+    {
+      "rank": 9,
+      "name": "KNUST Botanical Garden",
+      "postcode": "00233",
+      "distanceKmFromAirport": 13,
+      "description": "University botanical garden with forest trails and medicinal plants",
+      "distance": 3,
+      "URL": "https://www.knust.edu.gh/"
+    },
+    {
+      "rank": 10,
+      "name": "Fufu with Light Soup",
+      "postcode": "00233",
+      "distanceKmFromAirport": 10,
+      "description": "Kumasi's favourite - pounded yam and plantain fufu with spicy goat light soup",
+      "distance": 0.5,
+      "URL": "https://www.ghanavisit.com/"
+    }
+  ]
+}

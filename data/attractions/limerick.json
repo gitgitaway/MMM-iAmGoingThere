@@ -1,0 +1,98 @@
+{
+  "city": "Limerick",
+  "country": "Ireland",
+  "airportPostcode": "V14 FW00",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "King John's Castle",
+      "postcode": "V94 NR07",
+      "distanceKmFromAirport": 24,
+      "description": "Impressive 13th-century Anglo-Norman castle on King's Island in the heart of the city",
+      "distance": 0.5,
+      "URL": "https://kingjohnscastle.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Bunratty Castle & Folk Park",
+      "postcode": "V95 E276",
+      "distanceKmFromAirport": 37,
+      "description": "Restored 15th-century castle with medieval banquets and open-air folk museum",
+      "distance": 13,
+      "URL": "https://www.shannonheritage.com/bunratty-castle-folk-park/"
+    },
+    {
+      "rank": 3,
+      "name": "Hunt Museum",
+      "postcode": "V94 R9C7",
+      "distanceKmFromAirport": 24,
+      "description": "Remarkable private collection including works by Picasso, Renoir and da Vinci",
+      "distance": 0.5,
+      "URL": "https://huntmuseum.com/"
+    },
+    {
+      "rank": 4,
+      "name": "St Mary's Cathedral",
+      "postcode": "V94 NR07",
+      "distanceKmFromAirport": 24,
+      "description": "Romanesque cathedral dating to 1168, the oldest building still in use in Limerick",
+      "distance": 0.5,
+      "URL": "https://www.cathedral.limerick.anglican.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Adare Village",
+      "postcode": "V94 TK18",
+      "distanceKmFromAirport": 40,
+      "description": "One of Ireland's prettiest villages with thatched cottages and medieval priories",
+      "distance": 16,
+      "URL": "https://www.adare.ie/"
+    },
+    {
+      "rank": 6,
+      "name": "Milk Market",
+      "postcode": "V94 W254",
+      "distanceKmFromAirport": 24,
+      "description": "Vibrant weekend market in a Victorian building with local produce and crafts",
+      "distance": 0.3,
+      "URL": "https://www.milkmarketlimerick.ie/"
+    },
+    {
+      "rank": 7,
+      "name": "Lough Gur",
+      "postcode": "V35 V9W8",
+      "distanceKmFromAirport": 44,
+      "description": "Mysterious horseshoe-shaped lake with one of the finest Neolithic stone circles in Ireland",
+      "distance": 20,
+      "URL": "https://www.loughgur.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Limerick City Gallery of Art",
+      "postcode": "V94 W254",
+      "distanceKmFromAirport": 24,
+      "description": "Permanent collection of Irish art from 1800 to the present day",
+      "distance": 0.3,
+      "URL": "https://www.limerickcitygallery.ie/"
+    },
+    {
+      "rank": 9,
+      "name": "Foynes Flying Boat Museum",
+      "postcode": "V94 HY65",
+      "distanceKmFromAirport": 59,
+      "description": "Birthplace of Irish coffee and the golden age of transatlantic flight",
+      "distance": 35,
+      "URL": "https://www.flyingboatmuseum.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Curraghchase Forest Park",
+      "postcode": "V94 H27E",
+      "distanceKmFromAirport": 48,
+      "description": "Tranquil forest park with arboretum and the ruins of the de Vere estate",
+      "distance": 24,
+      "URL": "https://www.coillte.ie/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Lilongwe",
+  "country": "Malawi",
+  "airportPostcode": "265",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lake Malawi National Park (Cape Maclear)",
+      "postcode": "265",
+      "distanceKmFromAirport": 306,
+      "description": "UNESCO World Heritage freshwater lake with crystal-clear water and 800+ cichlid fish species",
+      "distance": 280,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Lilongwe Wildlife Centre",
+      "postcode": "265",
+      "distanceKmFromAirport": 28,
+      "description": "Rescued pangolins, lions and other Malawian wildlife in a 180-hectare urban sanctuary",
+      "distance": 2,
+      "URL": "https://www.lilongwewildlife.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Nyika National Park",
+      "postcode": "265",
+      "distanceKmFromAirport": 376,
+      "description": "Africa's highest plateau - rolling montane grasslands with roan antelope and leopard",
+      "distance": 350,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Old Town Market",
+      "postcode": "265",
+      "distanceKmFromAirport": 29,
+      "description": "Malawi's oldest market with beautiful hand-woven textiles and carved wooden crafts",
+      "distance": 3,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Kamuzu Mausoleum",
+      "postcode": "265",
+      "distanceKmFromAirport": 29,
+      "description": "Mausoleum of Malawi's first president - Life President Hastings Banda",
+      "distance": 3,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Liwonde National Park",
+      "postcode": "265",
+      "distanceKmFromAirport": 276,
+      "description": "Excellent wildlife park on the Shire River with hippos, elephants and black rhino",
+      "distance": 250,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Nkhotakota Pottery",
+      "postcode": "265",
+      "distanceKmFromAirport": 201,
+      "description": "Malawi's best pottery tradition - see bowls, pots and decorative ware being made",
+      "distance": 175,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Blantyre & Zomba Day Trip",
+      "postcode": "265",
+      "distanceKmFromAirport": 376,
+      "description": "Malawi's commercial capital and former capital with colonial architecture",
+      "distance": 350,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Dedza Pottery & Forest Reserve",
+      "postcode": "265",
+      "distanceKmFromAirport": 111,
+      "description": "Studio pottery and pine forest at 1,500m",
+      "distance": 85,
+      "URL": "https://www.malawitourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Chambo Fish (Tilapia)",
+      "postcode": "265",
+      "distanceKmFromAirport": 27,
+      "description": "Malawi's national dish - Chambo tilapia from Lake Malawi, grilled or fried with nsima porridge",
+      "distance": 1,
+      "URL": "https://www.malawitourism.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Mostar",
+  "country": "Bosnia and Herzegovina",
+  "airportPostcode": "88000",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Stari Most (Old Bridge)",
+      "postcode": "88000",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO World Heritage 16th-century Ottoman bridge rebuilt after its 1993 destruction - symbol of reconciliation",
+      "distance": 0.3,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Town (Stari Grad)",
+      "postcode": "88000",
+      "distanceKmFromAirport": 8,
+      "description": "Cobblestone Ottoman bazaar with coppersmith workshops, jewellers and traditional coffee houses",
+      "distance": 0.3,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 3,
+      "name": "Koski Mehmed Pasha Mosque",
+      "postcode": "88000",
+      "distanceKmFromAirport": 8,
+      "description": "Ottoman mosque with a minaret you can climb for the best views of Stari Most",
+      "distance": 0.3,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 4,
+      "name": "Muslibegovic House",
+      "postcode": "88000",
+      "distanceKmFromAirport": 8,
+      "description": "18th-century Ottoman house museum and the finest surviving example of Ottoman domestic architecture",
+      "distance": 0.5,
+      "URL": "https://www.muslibegovichouse.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Blagaj Tekke & Spring",
+      "postcode": "88220",
+      "distanceKmFromAirport": 20,
+      "description": "Sufi monastery built into a cliff at the source of the Buna River - a magical setting",
+      "distance": 12,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 6,
+      "name": "Kravice Waterfalls",
+      "postcode": "88260",
+      "distanceKmFromAirport": 43,
+      "description": "Bosnia's miniature Niagara - a 25m high circular waterfall on the Trebizat River",
+      "distance": 35,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 7,
+      "name": "War Photo Museum",
+      "postcode": "88000",
+      "distanceKmFromAirport": 8,
+      "description": "Harrowing and essential museum documenting the 1992-95 siege of Mostar",
+      "distance": 0.5,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 8,
+      "name": "Partisans' Cemetery",
+      "postcode": "88000",
+      "distanceKmFromAirport": 10,
+      "description": "Monumental 1965 Bogdan Bogdanovic design - a secular WWII cemetery in stunning marble",
+      "distance": 2,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 9,
+      "name": "Spanish Square",
+      "postcode": "88000",
+      "distanceKmFromAirport": 9,
+      "description": "West Mostar's social hub with cafes and a symbolic meeting point between communities",
+      "distance": 1,
+      "URL": "https://www.mostar.ba/"
+    },
+    {
+      "rank": 10,
+      "name": "Bridge Diving Show",
+      "postcode": "88000",
+      "distanceKmFromAirport": 8,
+      "description": "Local divers plunge 21m from Stari Most - a tradition going back to the 17th century",
+      "distance": 0.3,
+      "URL": "https://www.mostar.ba/"
+    }
+  ]
+}

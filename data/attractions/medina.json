@@ -1,0 +1,98 @@
+{
+  "city": "Medina",
+  "country": "Saudi Arabia",
+  "airportPostcode": "41311",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Al-Masjid an-Nabawi (Prophet's Mosque)",
+      "postcode": "42311",
+      "distanceKmFromAirport": 18,
+      "description": "Islam's second holiest mosque, built by the Prophet Muhammad containing his tomb - Muslims only",
+      "distance": 4,
+      "URL": "https://www.al-masjid-an-nabawi.com"
+    },
+    {
+      "rank": 2,
+      "name": "Quba Mosque",
+      "postcode": "42341",
+      "distanceKmFromAirport": 20,
+      "description": "The first mosque ever built, constructed by the Prophet Muhammad in 622 CE",
+      "distance": 6,
+      "URL": "https://www.qubamasjid.com"
+    },
+    {
+      "rank": 3,
+      "name": "Masjid al-Qiblatayn (Two Qiblas Mosque)",
+      "postcode": "42321",
+      "distanceKmFromAirport": 19,
+      "description": "Mosque where the direction of prayer was changed from Jerusalem to Mecca during prayer",
+      "distance": 5,
+      "URL": "https://www.medina-tourism.com"
+    },
+    {
+      "rank": 4,
+      "name": "Al-Baqi Cemetery (Jannat al-Baqi)",
+      "postcode": "42311",
+      "distanceKmFromAirport": 16,
+      "description": "Ancient Islamic cemetery with the graves of the Prophet's family and companions",
+      "distance": 2,
+      "URL": "https://www.medina-tourism.com/baqi"
+    },
+    {
+      "rank": 5,
+      "name": "Uhud Mountain & Battle Site",
+      "postcode": "42351",
+      "distanceKmFromAirport": 26,
+      "description": "Site of the 625 CE Battle of Uhud with the graves of the 70 martyrs who fell there",
+      "distance": 11,
+      "URL": "https://www.medina-tourism.com/uhud"
+    },
+    {
+      "rank": 6,
+      "name": "Madain Saleh (Al-Hijr)",
+      "postcode": "48932",
+      "distanceKmFromAirport": 407,
+      "description": "UNESCO World Heritage Nabataean ruins 400km north - the first UNESCO site in Saudi Arabia",
+      "distance": 395,
+      "URL": "https://whc.unesco.org/en/list/1197/"
+    },
+    {
+      "rank": 7,
+      "name": "Medina Museum (Dar Al Madinah)",
+      "postcode": "42311",
+      "distanceKmFromAirport": 17,
+      "description": "History of the holy city from Islamic times to the present with interactive exhibits",
+      "distance": 3,
+      "URL": "https://www.al-madina-museum.com"
+    },
+    {
+      "rank": 8,
+      "name": "Al-Noor Mall & Medina Souqs",
+      "postcode": "42321",
+      "distanceKmFromAirport": 18,
+      "description": "Traditional markets selling dates, prayer beads, perfumes and Islamic artefacts",
+      "distance": 4,
+      "URL": "https://www.al-noor-mall.com"
+    },
+    {
+      "rank": 9,
+      "name": "Masjid al-Ghamama",
+      "postcode": "42341",
+      "distanceKmFromAirport": 22,
+      "description": "Historic 7th-century mosque where the Prophet performed Eid prayers",
+      "distance": 8,
+      "URL": "https://www.medina-tourism.com"
+    },
+    {
+      "rank": 10,
+      "name": "Hejaz Railway Museum",
+      "postcode": "42321",
+      "distanceKmFromAirport": 17,
+      "description": "Museum in the original Ottoman Hejaz railway station with restored locomotives",
+      "distance": 3,
+      "URL": "https://www.hejazrailway.com"
+    }
+  ]
+}

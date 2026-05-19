@@ -1,0 +1,98 @@
+{
+  "city": "Mainz",
+  "country": "Germany",
+  "airportPostcode": "60547",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gutenberg Museum",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "World museum of printing dedicated to Johannes Gutenberg, who invented movable type in Mainz circa 1450; includes two original Gutenberg Bibles",
+      "distance": 0.3,
+      "URL": "https://www.gutenberg-museum.de/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Mainz Cathedral (Dom)",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "Magnificent Romanesque cathedral dating from 975 AD with six towers dominating the skyline; one of the most important ecclesiastical buildings in Germany",
+      "distance": 0.3,
+      "URL": "https://www.bistum-mainz.de/dom/"
+    },
+    {
+      "rank": 3,
+      "name": "Marktplatz",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "Charming market square with a colourful Renaissance fountain and half-timbered houses; Mainz's social heart with its famous weekly farmers market",
+      "distance": 0.3,
+      "URL": "https://www.mainz.de/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Landesmuseum Mainz",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "State museum with outstanding art from Roman antiquity through the Middle Ages to Art Nouveau and Expressionism; one of Germany's oldest museums",
+      "distance": 0.5,
+      "URL": "https://www.landesmuseum-mainz.de/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Electoral Palace (Kurfurstliches Schloss)",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "Stunning Renaissance palace on the Rhine riverfront, former residence of the Archbishop-Electors of Mainz; now hosting exhibitions and cultural events",
+      "distance": 0.5,
+      "URL": "https://www.mainz.de/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Rhine Promenade",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "Scenic riverside promenade along the Rhine with views across to Wiesbaden; a beloved walkway passing the old city walls and the Iron Tower",
+      "distance": 0.5,
+      "URL": "https://www.mainz.de/en/"
+    },
+    {
+      "rank": 7,
+      "name": "St. Stephan's Church (Chagall Windows)",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "Gothic church featuring nine extraordinary blue stained-glass windows created by Marc Chagall from 1978-85; among his greatest works outside France",
+      "distance": 0.5,
+      "URL": "https://www.st-stephan-mainz.de/"
+    },
+    {
+      "rank": 8,
+      "name": "Mainz Carnival",
+      "postcode": "55116",
+      "distanceKmFromAirport": 36,
+      "description": "One of Germany's three great carnivals alongside Cologne and Dusseldorf; the political Rose Monday parade through Mainz is broadcast nationally every year",
+      "distance": 0.5,
+      "URL": "https://www.mainzer-karneval.de/"
+    },
+    {
+      "rank": 9,
+      "name": "Zitadelle Mainz",
+      "postcode": "55131",
+      "distanceKmFromAirport": 37,
+      "description": "16th-century Renaissance citadel on the hilltop above Mainz with a remarkable medieval well, baroque buildings and sweeping views over the Rhine valley",
+      "distance": 2.0,
+      "URL": "https://www.mainz.de/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Mewa Arena",
+      "postcode": "55128",
+      "distanceKmFromAirport": 37,
+      "description": "Home of 1. FSV Mainz 05 with a 33,305 capacity; the club has competed in the Europa League and reached the knockout rounds as consistent Bundesliga performers",
+      "distance": 4.0,
+      "URL": "https://www.mainz05.de/en/"
+    }
+  ]
+}

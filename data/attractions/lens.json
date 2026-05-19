@@ -1,0 +1,98 @@
+{
+  "city": "Lens",
+  "country": "France",
+  "airportPostcode": "59810",
+  "airportDistanceKm": 38,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Louvre-Lens Museum",
+      "postcode": "62300",
+      "distanceKmFromAirport": 38,
+      "description": "Satellite of the Paris Louvre built on a former coal mine, presenting world-class art in a stunning contemporary glass pavilion",
+      "distance": 1.5,
+      "URL": "https://www.louvrelens.fr/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Galerie du Temps",
+      "postcode": "62300",
+      "distanceKmFromAirport": 38,
+      "description": "Panoramic timeline gallery within Louvre-Lens displaying 205 masterworks from antiquity to the 19th century in a single breathtaking hall",
+      "distance": 1.5,
+      "URL": "https://www.louvrelens.fr/en/permanent-collections/"
+    },
+    {
+      "rank": 3,
+      "name": "Parc de la Gloire",
+      "postcode": "62300",
+      "distanceKmFromAirport": 38,
+      "description": "Green park surrounding the Louvre-Lens museum built on rehabilitated colliery land, with a lake and outdoor sculpture",
+      "distance": 1.5,
+      "URL": "https://www.louvrelens.fr/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Notre-Dame de Lorette Basilica",
+      "postcode": "62153",
+      "distanceKmFromAirport": 42,
+      "description": "Towering WWI memorial basilica on Lorette Ridge overlooking 40,000 French graves, with a solemn lantern tower visible for miles",
+      "distance": 6.0,
+      "URL": "https://www.notre-dame-de-lorette.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Anneau de la Mémoire",
+      "postcode": "62153",
+      "distanceKmFromAirport": 42,
+      "description": "Haunting circular memorial ring at Notre-Dame de Lorette inscribed with 580,000 names of WWI soldiers from all nations, without hierarchy",
+      "distance": 6.0,
+      "URL": "https://www.anneau-de-memoire.fr/en"
+    },
+    {
+      "rank": 6,
+      "name": "Maison du Mineur",
+      "postcode": "62300",
+      "distanceKmFromAirport": 38,
+      "description": "Restored miners' cottage museum depicting the daily life of a coal mining family in the early twentieth century",
+      "distance": 1.0,
+      "URL": "https://www.lenspasdelais.fr/"
+    },
+    {
+      "rank": 7,
+      "name": "Stade Bollaert-Delelis",
+      "postcode": "62300",
+      "distanceKmFromAirport": 38,
+      "description": "Iconic 38,000-capacity stadium of RC Lens, one of France's most atmospheric grounds surrounded by the working-class Bollaert district",
+      "distance": 0.8,
+      "URL": "https://www.rclens.fr/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Vimy Ridge Canadian National Memorial",
+      "postcode": "62580",
+      "distanceKmFromAirport": 42,
+      "description": "Canada's most important WWI memorial preserving preserved trenches and tunnels where Canadians captured Vimy Ridge in April 1917",
+      "distance": 8.0,
+      "URL": "https://www.veterans.gc.ca/eng/remembrance/memorials/overseas/first-world-war/france/vimy"
+    },
+    {
+      "rank": 9,
+      "name": "Musée des Traditions Locales",
+      "postcode": "62300",
+      "distanceKmFromAirport": 39,
+      "description": "Local heritage museum chronicling the coal-mining era that shaped the culture, communities and architecture of Lens",
+      "distance": 2.0,
+      "URL": "https://www.lenspasdelais.fr/"
+    },
+    {
+      "rank": 10,
+      "name": "Place Jean Jaurès",
+      "postcode": "62300",
+      "distanceKmFromAirport": 38,
+      "description": "Central square of Lens with the Hotel de Ville, market days and the local brasseries beloved by RC Lens supporters",
+      "distance": 0.3,
+      "URL": "https://www.tourisme-lenslievin.fr/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Nadi",
+  "country": "Fiji",
+  "airportPostcode": "685",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mamanuca Islands",
+      "postcode": "685",
+      "distanceKmFromAirport": 22,
+      "description": "Picture-perfect island archipelago off Nadi with white sand, coral reefs and resorts",
+      "distance": 20.0,
+      "URL": "https://www.fiji.travel/place/mamanuca-islands"
+    },
+    {
+      "rank": 2,
+      "name": "Sri Siva Subramaniya Temple",
+      "postcode": "680",
+      "distanceKmFromAirport": 3,
+      "description": "South Pacific's largest Hindu temple with vivid Dravidian-style painted gopuram",
+      "distance": 0.5,
+      "URL": "https://www.srisiva.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Garden of the Sleeping Giant",
+      "postcode": "680",
+      "distanceKmFromAirport": 7,
+      "description": "Orchid gardens established by Raymond Burr with hundreds of exotic orchid varieties",
+      "distance": 5.0,
+      "URL": "https://www.gardensleepinggiant.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Yasawa Islands",
+      "postcode": "679",
+      "distanceKmFromAirport": 122,
+      "description": "Remote volcanic island chain with crystal water, caves and the Blue Lagoon",
+      "distance": 120.0,
+      "URL": "https://www.fiji.travel/place/yasawa-islands"
+    },
+    {
+      "rank": 5,
+      "name": "Nadi Municipal Market",
+      "postcode": "680",
+      "distanceKmFromAirport": 3,
+      "description": "Colourful local market with tropical fruits, kava root, spices and Fijian produce",
+      "distance": 0.5,
+      "URL": "https://www.fiji.travel"
+    },
+    {
+      "rank": 6,
+      "name": "Sawa-i-Lau Limestone Caves",
+      "postcode": "679",
+      "distanceKmFromAirport": 162,
+      "description": "Sacred limestone sea caves in the Yasawas with an inner swimming chamber",
+      "distance": 160.0,
+      "URL": "https://www.fiji.travel/place/sawa-i-lau-caves"
+    },
+    {
+      "rank": 7,
+      "name": "Zip Fiji Canopy Tour",
+      "postcode": "680",
+      "distanceKmFromAirport": 10,
+      "description": "Ziplining through tropical rainforest in the Sabeto Mountains above Nadi",
+      "distance": 8.0,
+      "URL": "https://www.zipfiji.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Sabeto Hot Springs & Mud Pool",
+      "postcode": "680",
+      "distanceKmFromAirport": 11,
+      "description": "Natural volcanic mud pools and hot spring pools at the foot of the Sabeto Mountains",
+      "distance": 9.0,
+      "URL": "https://www.sabetohotsprings.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Port Denarau Marina",
+      "postcode": "675",
+      "distanceKmFromAirport": 7,
+      "description": "Hub for island cruises, sunset sails and ferries to the Mamanuca and Yasawa islands",
+      "distance": 5.0,
+      "URL": "https://www.portdenarau.com.fj/"
+    },
+    {
+      "rank": 10,
+      "name": "Sigatoka Sand Dunes National Park",
+      "postcode": "670",
+      "distanceKmFromAirport": 62,
+      "description": "Fiji's first national park with 60m Pacific sand dunes and archaeological finds",
+      "distance": 60.0,
+      "URL": "https://fijiparks.org.fj/"
+    }
+  ]
+}

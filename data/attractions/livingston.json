@@ -1,0 +1,98 @@
+{
+  "city": "Livingston",
+  "country": "Scotland",
+  "airportPostcode": "EH12 9DN",
+  "airportDistanceKm": 22,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Linlithgow Palace & Loch (UNESCO Tentative)",
+      "postcode": "EH49 7AL",
+      "distanceKmFromAirport": 18,
+      "description": "Magnificent ruined royal palace — birthplace of Mary Queen of Scots and James V — beside the beautiful Linlithgow Loch",
+      "distance": 6,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 2,
+      "name": "Almondell & Calderwood Country Park",
+      "postcode": "EH52 5PE",
+      "distanceKmFromAirport": 17,
+      "description": "Beautiful riverside park in the Almond valley with woodland walks, a visitor centre and the historic Almondell Bridge",
+      "distance": 7,
+      "URL": "https://www.westlothian.gov.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Livingston Designer Outlet",
+      "postcode": "EH54 6QX",
+      "distanceKmFromAirport": 22,
+      "description": "Scotland's largest outlet shopping centre with over 70 designer brands at discounted prices — a major retail destination",
+      "distance": 0.5,
+      "URL": "https://www.mcarthurglen.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Cairnpapple Hill (Prehistoric Site)",
+      "postcode": "EH48 4DP",
+      "distanceKmFromAirport": 24,
+      "description": "Commanding hilltop site with one of Scotland's most significant Neolithic and Bronze Age ceremonial monuments, with views to both firths",
+      "distance": 4,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 5,
+      "name": "Five Sisters Bings (Shale Heritage)",
+      "postcode": "EH47 0EL",
+      "distanceKmFromAirport": 28,
+      "description": "West Lothian's iconic shale oil waste bings — now a striking industrial heritage landscape and a site for walking and nature",
+      "distance": 8,
+      "URL": "https://www.westlothian.gov.uk/"
+    },
+    {
+      "rank": 6,
+      "name": "Hopetoun House",
+      "postcode": "EH30 9SL",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's finest Adam mansion house on the Firth of Forth shore — magnificent state rooms, art collection and 100 acres of parkland",
+      "distance": 10,
+      "URL": "https://www.hopetoun.co.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "Beecraigs Country Park",
+      "postcode": "EH49 6PL",
+      "distanceKmFromAirport": 24,
+      "description": "Popular country park above Linlithgow with a loch for fishing and watersports, deer farm, archery range and camping",
+      "distance": 6,
+      "URL": "https://www.westlothian.gov.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Edinburgh (Day Trip)",
+      "postcode": "EH1 2NG",
+      "distanceKmFromAirport": 25,
+      "description": "Scotland's capital just 30 minutes by train — Edinburgh Castle, Royal Mile, Holyrood Palace and the National Museum of Scotland",
+      "distance": 15,
+      "URL": "https://www.visitscotland.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Almond Valley Heritage Centre",
+      "postcode": "EH54 7AR",
+      "distanceKmFromAirport": 22,
+      "description": "Award-winning family museum in a working farm — the story of West Lothian's shale oil industry, vintage farm machinery and animals",
+      "distance": 0.5,
+      "URL": "https://www.almondvalley.co.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Bathgate Hills & Hillend Reservoir",
+      "postcode": "EH48 4UB",
+      "distanceKmFromAirport": 24,
+      "description": "Popular walking country above Livingston with Cairnpapple Hill, Knock Hill viewpoints and peaceful reservoir walks",
+      "distance": 4,
+      "URL": "https://www.westlothian.gov.uk/"
+    }
+  ]
+}

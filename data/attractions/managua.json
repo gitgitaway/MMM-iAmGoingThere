@@ -1,0 +1,98 @@
+{
+  "city": "Managua",
+  "country": "Nicaragua",
+  "airportPostcode": "11502",
+  "airportDistanceKm": 11,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ometepe Island",
+      "postcode": "47000",
+      "distanceKmFromAirport": 86,
+      "description": "Twin volcano island in Lake Nicaragua - the world's only island formed by two volcanoes",
+      "distance": 75.0,
+      "URL": "https://www.isladeometepe.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Leon Cathedral",
+      "postcode": "21000",
+      "distanceKmFromAirport": 101,
+      "description": "UNESCO World Heritage largest cathedral in Central America - walk the white rooftops",
+      "distance": 90.0,
+      "URL": "https://catedraldeleon.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Revolutionary Murals of Leon",
+      "postcode": "21000",
+      "distanceKmFromAirport": 101,
+      "description": "Sandinista revolutionary murals covering buildings - finest street art in Latin America",
+      "distance": 90.0,
+      "URL": "https://www.visitnicaragua.com"
+    },
+    {
+      "rank": 4,
+      "name": "Masaya Volcano National Park",
+      "postcode": "52100",
+      "distanceKmFromAirport": 39,
+      "description": "Active lava lake visible from the crater rim - one of the most accessible in the world",
+      "distance": 28.0,
+      "URL": "https://www.marena.gob.ni/"
+    },
+    {
+      "rank": 5,
+      "name": "National Palace of Culture",
+      "postcode": "11001",
+      "distanceKmFromAirport": 12,
+      "description": "1935 neoclassical palace where the Sandinistas took hostages in 1978 - now a museum",
+      "distance": 0.5,
+      "URL": "https://www.visitnicaragua.com"
+    },
+    {
+      "rank": 6,
+      "name": "Mercado Roberto Huembes",
+      "postcode": "11001",
+      "distanceKmFromAirport": 14,
+      "description": "Nicaragua's finest craft market with mahogany furniture, hammocks and colonial pottery",
+      "distance": 3.0,
+      "URL": "https://www.visitnicaragua.com"
+    },
+    {
+      "rank": 7,
+      "name": "Granada Colonial City",
+      "postcode": "10001",
+      "distanceKmFromAirport": 58,
+      "description": "Spain's oldest city in the Americas on Lake Nicaragua with horse-drawn carriages",
+      "distance": 47.0,
+      "URL": "https://www.visitnicaragua.com"
+    },
+    {
+      "rank": 8,
+      "name": "Laguna de Apoyo",
+      "postcode": "11000",
+      "distanceKmFromAirport": 63,
+      "description": "Volcanic crater lake with clear water for swimming 30km from Managua",
+      "distance": 52.0,
+      "URL": "https://www.visitnicaragua.com"
+    },
+    {
+      "rank": 9,
+      "name": "Tiscapa Lagoon Natural Reserve",
+      "postcode": "11001",
+      "distanceKmFromAirport": 13,
+      "description": "Lagoon in an old volcanic crater with the silhouette of Sandino's hat",
+      "distance": 2.0,
+      "URL": "https://www.visitnicaragua.com"
+    },
+    {
+      "rank": 10,
+      "name": "Vigorón",
+      "postcode": "10001",
+      "distanceKmFromAirport": 58,
+      "description": "Nicaragua's famous street dish - yuca with chicharrón pork rinds and vinegary cabbage slaw",
+      "distance": 47.0,
+      "URL": "https://www.visitnicaragua.com"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Las Vegas",
+  "country": "USA",
+  "airportPostcode": "89119",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "The Las Vegas Strip",
+      "postcode": "89109",
+      "distanceKmFromAirport": 13,
+      "description": "4.2-mile boulevard of the world's most spectacular hotels — free street entertainment from the Bellagio fountains to the Venetian",
+      "distance": 6.0,
+      "URL": "https://www.lasvegasnevada.gov/"
+    },
+    {
+      "rank": 2,
+      "name": "Bellagio Fountains & Conservatory",
+      "postcode": "89109",
+      "distanceKmFromAirport": 13,
+      "description": "Free water ballet choreographed to music every 15-30 minutes — the conservatory changes display seasonally",
+      "distance": 6.0,
+      "URL": "https://www.bellagio.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Grand Canyon South Rim Day Trip",
+      "postcode": "86023",
+      "distanceKmFromAirport": 447,
+      "description": "One of the Seven Natural Wonders — helicopter or coach trip to the most visited viewpoints of the Colorado River",
+      "distance": 440.0,
+      "URL": "https://www.nps.gov/grca/"
+    },
+    {
+      "rank": 4,
+      "name": "High Roller Observation Wheel",
+      "postcode": "89109",
+      "distanceKmFromAirport": 12,
+      "description": "The world's tallest observation wheel at 167 m — 30-minute revolution with open bar cabins at night",
+      "distance": 5.5,
+      "URL": "https://www.caesars.com/linq/things-to-do/attractions/high-roller"
+    },
+    {
+      "rank": 5,
+      "name": "Cirque du Soleil O",
+      "postcode": "89109",
+      "distanceKmFromAirport": 13,
+      "description": "The aquatic Cirque masterpiece performed in and above a 1.5-million-gallon pool at the Bellagio",
+      "distance": 6.0,
+      "URL": "https://www.cirquedusoleil.com/en/shows/o"
+    },
+    {
+      "rank": 6,
+      "name": "Fremont Street Experience",
+      "postcode": "89101",
+      "distanceKmFromAirport": 10,
+      "description": "Downtown Las Vegas covered pedestrian mall with a 1,500-ft LED ceiling canopy and free live concerts",
+      "distance": 3.0,
+      "URL": "https://vegasexperience.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Hoover Dam",
+      "postcode": "89005",
+      "distanceKmFromAirport": 57,
+      "description": "One of the world's engineering marvels — 726-foot dam tours with views of Lake Mead, 50 km from the Strip",
+      "distance": 50.0,
+      "URL": "https://www.usbr.gov/lc/hooverdam/"
+    },
+    {
+      "rank": 8,
+      "name": "Zion National Park",
+      "postcode": "84767",
+      "distanceKmFromAirport": 267,
+      "description": "Red rock canyon hiking 2.5 hours north — Angels Landing and The Narrows slot canyon are world-class",
+      "distance": 260.0,
+      "URL": "https://www.nps.gov/zion/"
+    },
+    {
+      "rank": 9,
+      "name": "Vegas Indoor Skydiving (iFLY)",
+      "postcode": "89109",
+      "distanceKmFromAirport": 13,
+      "description": "Experience freefall in a vertical wind tunnel — no experience needed for the 2-minute flight",
+      "distance": 6.0,
+      "URL": "https://www.ifly.com/las-vegas-indoor-skydiving"
+    },
+    {
+      "rank": 10,
+      "name": "Buffet at The Cosmopolitan",
+      "postcode": "89109",
+      "distanceKmFromAirport": 13,
+      "description": "The Wicked Spoon Buffet — Las Vegas finest, with live cooking stations, lobster and dessert theatre",
+      "distance": 6.0,
+      "URL": "https://www.cosmopolitanlasvegas.com/"
+    }
+  ]
+}

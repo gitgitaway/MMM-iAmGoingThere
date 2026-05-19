@@ -1,0 +1,98 @@
+{
+  "city": "Motherwell",
+  "country": "Scotland",
+  "airportPostcode": "PA3 2ST",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Strathclyde Country Park",
+      "postcode": "ML1 3ED",
+      "distanceKmFromAirport": 20,
+      "description": "Scotland's busiest country park with a water sports loch, theme park, Roman bathhouse and year-round events",
+      "distance": 0.5,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 2,
+      "name": "Baron's Haugh RSPB Nature Reserve",
+      "postcode": "ML1 3BN",
+      "distanceKmFromAirport": 20,
+      "description": "Mosaic of marsh, woodland and meadow beside the River Clyde — an oasis for kingfishers, otters and wintering wildfowl",
+      "distance": 0.5,
+      "URL": "https://www.rspb.org.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Motherwell Heritage Centre",
+      "postcode": "ML1 1BN",
+      "distanceKmFromAirport": 20,
+      "description": "Free museum telling the remarkable story of Motherwell's steel and coal heritage, from ironworks to the present day",
+      "distance": 0.5,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "Dalzell Estate & Country Park",
+      "postcode": "ML1 5NE",
+      "distanceKmFromAirport": 22,
+      "description": "Scenic estate with woodland walks, a walled garden and the striking baronial Dalzell House overlooking the River Clyde",
+      "distance": 2,
+      "URL": "https://www.northlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 5,
+      "name": "Bothwell Castle",
+      "postcode": "G71 8BR",
+      "distanceKmFromAirport": 18,
+      "description": "Finest surviving example of 13th-century Scottish castle architecture — a massive sandstone fortress above the River Clyde",
+      "distance": 5,
+      "URL": "https://www.historicenvironment.scot/"
+    },
+    {
+      "rank": 6,
+      "name": "Chatelherault Country Park",
+      "postcode": "ML3 7UE",
+      "distanceKmFromAirport": 26,
+      "description": "Duke of Hamilton's grand 18th-century hunting lodge by William Adam set in a country park above the Avon gorge, with white Cadzow cattle",
+      "distance": 6,
+      "URL": "https://www.southlanarkshire.gov.uk/"
+    },
+    {
+      "rank": 7,
+      "name": "New Lanark World Heritage Site (Day Trip)",
+      "postcode": "ML11 9DB",
+      "distanceKmFromAirport": 48,
+      "description": "UNESCO-listed 18th-century cotton mill village founded by Robert Owen — a visionary community with a working mill and excellent visitor centre",
+      "distance": 28,
+      "URL": "https://www.newlanark.org/"
+    },
+    {
+      "rank": 8,
+      "name": "David Livingstone Centre (Blantyre)",
+      "postcode": "G72 9BT",
+      "distanceKmFromAirport": 18,
+      "description": "Birthplace museum of the Victorian explorer and missionary David Livingstone — charting his epic journeys across Africa",
+      "distance": 5,
+      "URL": "https://www.nts.org.uk/visit/places/david-livingstone-birthplace"
+    },
+    {
+      "rank": 9,
+      "name": "Fir Park Stadium (Motherwell FC)",
+      "postcode": "ML1 2QN",
+      "distanceKmFromAirport": 20,
+      "description": "Home of Motherwell FC — one of Scotland's oldest football clubs, founded 1886, with stadium tours available",
+      "distance": 0.5,
+      "URL": "https://www.motherwellfc.co.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Glasgow (Day Trip)",
+      "postcode": "G1 1DT",
+      "distanceKmFromAirport": 25,
+      "description": "Scotland's largest city just 20 minutes by train — world-class museums, the Burrell Collection and a superb food and drink scene",
+      "distance": 12,
+      "URL": "https://www.visitglasgow.com/"
+    }
+  ]
+}

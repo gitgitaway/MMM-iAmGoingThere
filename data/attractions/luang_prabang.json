@@ -1,0 +1,98 @@
+{
+  "city": "Luang Prabang",
+  "country": "Laos",
+  "airportPostcode": "0600",
+  "airportDistanceKm": 4,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Tak Bat (Almsgiving Ceremony)",
+      "postcode": "06000",
+      "distanceKmFromAirport": 5,
+      "description": "Dawn procession of orange-robed monks collecting alms - deeply spiritual and moving",
+      "distance": 0.5,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Kuang Si Waterfalls",
+      "postcode": "06270",
+      "distanceKmFromAirport": 33,
+      "description": "Turquoise travertine pools and a 50m main waterfall with a bear rescue sanctuary",
+      "distance": 29.0,
+      "URL": "https://www.kuangsifalls.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Royal Palace Museum",
+      "postcode": "06000",
+      "distanceKmFromAirport": 4,
+      "description": "Last royal palace of the Kingdom of Laos with the sacred Pha Bang gold Buddha",
+      "distance": 0.2,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Xieng Thong",
+      "postcode": "06000",
+      "distanceKmFromAirport": 5,
+      "description": "Finest temple in Laos with a sweeping multi-tiered roof and mosaics of the tree of life",
+      "distance": 0.8,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Mount Phousi",
+      "postcode": "06000",
+      "distanceKmFromAirport": 4,
+      "description": "Hilltop stupa with 360-degree sunset views over the Mekong and Nam Khan rivers",
+      "distance": 0.3,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Mekong River Slow Boat",
+      "postcode": "06000",
+      "distanceKmFromAirport": 5,
+      "description": "Two-day slow boat journey down the Mekong through spectacular jungle scenery",
+      "distance": 0.5,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Night Market",
+      "postcode": "06000",
+      "distanceKmFromAirport": 4,
+      "description": "Nightly textile market with indigo-dyed fabrics, silver jewellery and local handicrafts",
+      "distance": 0.3,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Old Town Walking Tour",
+      "postcode": "06000",
+      "distanceKmFromAirport": 4,
+      "description": "UNESCO World Heritage peninsula with 33 temples between the Mekong and Nam Khan",
+      "distance": 0.3,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Pak Ou Caves",
+      "postcode": "06270",
+      "distanceKmFromAirport": 21,
+      "description": "River-mouth caves crammed with thousands of Buddha images - accessible by boat",
+      "distance": 25.0,
+      "URL": "https://www.tourismlaos.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Tad Sae Waterfall",
+      "postcode": "06270",
+      "distanceKmFromAirport": 19,
+      "description": "Accessible by boat and elephant - beautiful tiered waterfall for swimming",
+      "distance": 15.0,
+      "URL": "https://www.tourismlaos.org/"
+    }
+  ]
+}

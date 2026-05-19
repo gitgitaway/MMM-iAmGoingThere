@@ -1,0 +1,98 @@
+{
+  "city": "Mandalay",
+  "country": "Myanmar",
+  "airportPostcode": "05032",
+  "airportDistanceKm": 38,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bagan Ancient Temples",
+      "postcode": "05251",
+      "distanceKmFromAirport": 198,
+      "description": "Over 2,000 Buddhist temples and pagodas on the plains - one of Asia's most extraordinary sights",
+      "distance": 160.0,
+      "URL": "https://www.baganmyanmar.net/"
+    },
+    {
+      "rank": 2,
+      "name": "Mandalay Hill",
+      "postcode": "05012",
+      "distanceKmFromAirport": 40,
+      "description": "Hilltop complex of pagodas with a panoramic view at sunset over the Irrawaddy River",
+      "distance": 2.0,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 3,
+      "name": "Shwenandaw Monastery",
+      "postcode": "05011",
+      "distanceKmFromAirport": 40,
+      "description": "19th-century teak monastery with the finest woodcarving in Myanmar",
+      "distance": 1.5,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 4,
+      "name": "U Bein Bridge",
+      "postcode": "05041",
+      "distanceKmFromAirport": 49,
+      "description": "World's longest teak bridge at 1.2km - sublime at sunset with monks and fishermen",
+      "distance": 11.0,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 5,
+      "name": "Mahamuni Pagoda",
+      "postcode": "05032",
+      "distanceKmFromAirport": 41,
+      "description": "One of Myanmar's holiest sites with a gold-plastered Buddha covered in 15cm of devotional gold leaf",
+      "distance": 2.5,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 6,
+      "name": "Kuthodaw Pagoda (World's Largest Book)",
+      "postcode": "05012",
+      "distanceKmFromAirport": 40,
+      "description": "729 marble slabs inscribed with the entire Pali Buddhist scriptures",
+      "distance": 1.5,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 7,
+      "name": "Mandalay Palace",
+      "postcode": "05012",
+      "distanceKmFromAirport": 39,
+      "description": "1859 royal palace of the last Burmese kingdom - moated complex with teakwood buildings",
+      "distance": 1.0,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 8,
+      "name": "Gold Leaf Workshops",
+      "postcode": "05012",
+      "distanceKmFromAirport": 40,
+      "description": "Watch artisans hand-beat gold into wafer-thin gold leaf sheets in the traditional quarter",
+      "distance": 1.5,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 9,
+      "name": "Inwa (Ava)",
+      "postcode": "05060",
+      "distanceKmFromAirport": 58,
+      "description": "Former Burmese capital accessible by ferry with ruins, horse carts and a leaning minaret",
+      "distance": 20.0,
+      "URL": "https://www.myanmartourism.org"
+    },
+    {
+      "rank": 10,
+      "name": "Sagaing Hill",
+      "postcode": "05051",
+      "distanceKmFromAirport": 58,
+      "description": "Sacred hill with hundreds of white pagodas and monasteries across the river",
+      "distance": 20.0,
+      "URL": "https://www.myanmartourism.org"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Lisbon",
+  "country": "Portugal",
+  "airportPostcode": "1700-008",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Belem Tower & Jeronimos Monastery",
+      "postcode": "1400-206",
+      "distanceKmFromAirport": 15,
+      "description": "Twin UNESCO World Heritage Manueline masterpieces on the Tagus — monuments to the Age of Discovery",
+      "distance": 7.0,
+      "URL": "https://www.mosteirojeronimos.gov.pt/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Alfama & Sao Jorge Castle",
+      "postcode": "1100-129",
+      "distanceKmFromAirport": 10,
+      "description": "Lisbon's oldest neighbourhood — Moorish castle, labyrinthine lanes and the sound of fado at night",
+      "distance": 1.5,
+      "URL": "https://castelodesaojorge.pt/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Tram 28 Ride",
+      "postcode": "1200-109",
+      "distanceKmFromAirport": 8,
+      "description": "Iconic yellow tram rattling through the narrow streets of Alfama, Graca and the historic districts",
+      "distance": 0.5,
+      "URL": "https://www.carris.pt/en/"
+    },
+    {
+      "rank": 4,
+      "name": "MAAT Museum of Art, Architecture & Technology",
+      "postcode": "1300-598",
+      "distanceKmFromAirport": 14,
+      "description": "Striking riverside contemporary art museum in a wave-shaped building at Belem",
+      "distance": 6.5,
+      "URL": "https://www.maat.pt/en"
+    },
+    {
+      "rank": 5,
+      "name": "Sintra Day Trip",
+      "postcode": "2710-616",
+      "distanceKmFromAirport": 48,
+      "description": "UNESCO World Heritage town with fairy-tale palaces in the mountains — Pena, Quinta da Regaleira",
+      "distance": 40.0,
+      "URL": "https://www.visitsintra.travel/en"
+    },
+    {
+      "rank": 6,
+      "name": "Time Out Market",
+      "postcode": "1200-109",
+      "distanceKmFromAirport": 10,
+      "description": "Lisbon's most exciting food hall in the 1892 Mercado da Ribeira — 35 restaurants under one roof",
+      "distance": 2.5,
+      "URL": "https://www.timeoutmarket.com/lisboa/en/"
+    },
+    {
+      "rank": 7,
+      "name": "National Tile Museum (Azulejo)",
+      "postcode": "1900-316",
+      "distanceKmFromAirport": 10,
+      "description": "Unique museum in a 16th-century convent dedicated to Portugal's beloved painted ceramic tile tradition",
+      "distance": 2.5,
+      "URL": "https://www.museudoazulejo.gov.pt/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Bairro Alto & Chiado",
+      "postcode": "1200-108",
+      "distanceKmFromAirport": 10,
+      "description": "Bohemian hilltop quarter with independent bookshops, fado houses, street art and sunset bars",
+      "distance": 1.5,
+      "URL": "https://www.visitlisboa.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Gulbenkian Museum",
+      "postcode": "1067-001",
+      "distanceKmFromAirport": 12,
+      "description": "One of Europe's finest private art collections — Egyptian, Islamic and Impressionist masterpieces",
+      "distance": 3.5,
+      "URL": "https://gulbenkian.pt/museu/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Pasteis de Belem",
+      "postcode": "1300-085",
+      "distanceKmFromAirport": 15,
+      "description": "The original 1837 pastry shop making the world-famous pastel de nata custard tarts using a secret recipe",
+      "distance": 7.0,
+      "URL": "https://www.pasteisdebelem.pt/en/"
+    }
+  ]
+}

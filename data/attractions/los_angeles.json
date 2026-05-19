@@ -1,0 +1,98 @@
+{
+  "city": "Los Angeles",
+  "country": "USA",
+  "airportPostcode": "90045",
+  "airportDistanceKm": 27,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Hollywood Walk of Fame",
+      "postcode": "90028",
+      "distanceKmFromAirport": 41,
+      "description": "Iconic 1.3-mile stretch of stars honouring over 2,700 entertainment legends",
+      "distance": 14.0,
+      "URL": "https://www.walkoffame.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Getty Center",
+      "postcode": "90049",
+      "distanceKmFromAirport": 43,
+      "description": "Magnificent hilltop museum with European paintings, sculptures and panoramic city views",
+      "distance": 16.0,
+      "URL": "https://www.getty.edu/"
+    },
+    {
+      "rank": 3,
+      "name": "Griffith Observatory",
+      "postcode": "90027",
+      "distanceKmFromAirport": 39,
+      "description": "Landmark observatory on the slopes of Griffith Park with sweeping views of the city and Hollywood Sign",
+      "distance": 12.0,
+      "URL": "https://griffithobservatory.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Santa Monica Pier",
+      "postcode": "90401",
+      "distanceKmFromAirport": 49,
+      "description": "Historic 1909 pier with Pacific Park amusement park, Ferris wheel and the Route 66 end point",
+      "distance": 22.0,
+      "URL": "https://santamonicapier.org/"
+    },
+    {
+      "rank": 5,
+      "name": "LACMA",
+      "postcode": "90036",
+      "distanceKmFromAirport": 36,
+      "description": "Los Angeles County Museum of Art — the largest art museum in the western USA",
+      "distance": 9.0,
+      "URL": "https://www.lacma.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Universal Studios Hollywood",
+      "postcode": "91608",
+      "distanceKmFromAirport": 44,
+      "description": "World-famous movie theme park with studio tours and immersive rides based on blockbusters",
+      "distance": 17.0,
+      "URL": "https://www.universalstudioshollywood.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Venice Beach Boardwalk",
+      "postcode": "90291",
+      "distanceKmFromAirport": 47,
+      "description": "Colourful oceanfront promenade with street performers, muscle beach and Abbot Kinney boutiques",
+      "distance": 20.0,
+      "URL": "https://www.venicebeach.com/"
+    },
+    {
+      "rank": 8,
+      "name": "The Broad Museum",
+      "postcode": "90012",
+      "distanceKmFromAirport": 28,
+      "description": "Free contemporary art museum in downtown LA housing works by Koons, Basquiat and Hirst",
+      "distance": 1.5,
+      "URL": "https://www.thebroad.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Disneyland Resort",
+      "postcode": "92802",
+      "distanceKmFromAirport": 72,
+      "description": "Walt Disney's original Magic Kingdom in Anaheim, the happiest place on earth since 1955",
+      "distance": 45.0,
+      "URL": "https://disneyland.disney.go.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Hollywood Sign Hike",
+      "postcode": "90068",
+      "distanceKmFromAirport": 40,
+      "description": "Iconic 137-ft letters on Mount Lee — hike Griffith Park trails for the ultimate photo opportunity",
+      "distance": 13.0,
+      "URL": "https://hollywoodsign.org/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Mt Hagen",
+  "country": "Papua New Guinea",
+  "airportPostcode": "281",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Mt Hagen Cultural Show",
+      "postcode": "281",
+      "distanceKmFromAirport": 12,
+      "description": "Annual tribal gathering with thousands of warriors in traditional bilas dress from the highlands",
+      "distance": 5,
+      "URL": "https://www.mthagencultureshow.org"
+    },
+    {
+      "rank": 2,
+      "name": "Tari Highlands Huli Wigmen",
+      "postcode": "491",
+      "distanceKmFromAirport": 62,
+      "description": "Huli wigmen in wigs of their own hair decorated with birds of paradise feathers",
+      "distance": 56,
+      "URL": "https://www.hulitourism.org"
+    },
+    {
+      "rank": 3,
+      "name": "Birds of Paradise Watching",
+      "postcode": "280",
+      "distanceKmFromAirport": 18,
+      "description": "Princess Stephanie's, King of Saxony and Ribbon-tailed Astrapia in the Highland forests",
+      "distance": 12,
+      "URL": "https://www.birdofparadise.org"
+    },
+    {
+      "rank": 4,
+      "name": "Wahgi Valley Coffee Plantations",
+      "postcode": "282",
+      "distanceKmFromAirport": 15,
+      "description": "Highlands coffee growing region producing some of the world's finest Arabica coffee",
+      "distance": 9,
+      "URL": "https://www.wahgicoffee.org"
+    },
+    {
+      "rank": 5,
+      "name": "Minj Markets",
+      "postcode": "283",
+      "distanceKmFromAirport": 35,
+      "description": "Traditional highland market with sweet potatoes, pig exchanges and bilum string bags",
+      "distance": 30,
+      "URL": "https://www.minjmarket.org"
+    },
+    {
+      "rank": 6,
+      "name": "Baiyer River Wildlife Sanctuary",
+      "postcode": "281",
+      "distanceKmFromAirport": 25,
+      "description": "Birds of paradise, tree kangaroos and cassowaries in a highland valley",
+      "distance": 20,
+      "URL": "https://www.baiyerwildlife.org"
+    },
+    {
+      "rank": 7,
+      "name": "Traditional Sing-Sing Performance",
+      "postcode": "281",
+      "distanceKmFromAirport": 12,
+      "description": "Witness authentic tribal sing-sing dance ceremonies with body paint and feather headdresses",
+      "distance": 5,
+      "URL": "https://www.singsing.org"
+    },
+    {
+      "rank": 8,
+      "name": "Mt Wilhelm Trek",
+      "postcode": "351",
+      "distanceKmFromAirport": 72,
+      "description": "Papua New Guinea's highest peak at 4,509m accessible from the Highlands",
+      "distance": 67,
+      "URL": "https://www.mtwilhelmtrek.org"
+    },
+    {
+      "rank": 9,
+      "name": "Kuk Early Agricultural Site",
+      "postcode": "282",
+      "distanceKmFromAirport": 20,
+      "description": "UNESCO World Heritage where agriculture was independently invented 10,000 years ago",
+      "distance": 14,
+      "URL": "https://whc.unesco.org/en/list/1195/"
+    },
+    {
+      "rank": 10,
+      "name": "Mumu Earth Oven Feast",
+      "postcode": "281",
+      "distanceKmFromAirport": 12,
+      "description": "Traditional feast cooked in a stone oven pit - pork, kaukau and greens wrapped in leaves",
+      "distance": 5,
+      "URL": "https://www.mumufeast.org"
+    }
+  ]
+}

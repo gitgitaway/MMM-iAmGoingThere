@@ -1,0 +1,98 @@
+{
+  "city": "Malabo",
+  "country": "Equatorial Guinea",
+  "airportPostcode": "BP 745",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Catedral de Santa Isabel",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 7,
+      "description": "Neo-Gothic Spanish colonial cathedral from 1916 - the most striking landmark in Malabo",
+      "distance": 0.2,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Plaza de la Independencia",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 7,
+      "description": "Central colonial square surrounded by government buildings and the Presidential Palace",
+      "distance": 0.1,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Malabo National Park",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 10,
+      "description": "Tropical forest surrounding the city with drill monkeys and forest elephants",
+      "distance": 3.0,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Market & Artisans District",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 8,
+      "description": "Local crafts and Fang and Bubi tribal art",
+      "distance": 0.5,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Pico Basile National Park",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 19,
+      "description": "Hike to the 3,011m summit - the highest point in Equatorial Guinea",
+      "distance": 12.0,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Bioko Island Beaches",
+      "postcode": "GQ-BS",
+      "distanceKmFromAirport": 39,
+      "description": "Turtle nesting beaches at Arena Blanca on one of Africa's most unspoilt islands",
+      "distance": 32.0,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Waterfall at Ureka",
+      "postcode": "GQ-KS",
+      "distanceKmFromAirport": 67,
+      "description": "Dramatic rainforest waterfall in the wet southern tip of Bioko Island",
+      "distance": 60.0,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Luba Gorilla Sanctuary",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 49,
+      "description": "Rescued western lowland gorillas",
+      "distance": 42.0,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Malabo Port",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 8,
+      "description": "Historic port where Spanish colonial trade and the modern oil industry converge",
+      "distance": 0.5,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Sopa de Poyo (Chicken Soup)",
+      "postcode": "GQ-LB",
+      "distanceKmFromAirport": 8,
+      "description": "Equatorial Guinean specialty - chicken and vegetable soup with plantains",
+      "distance": 0.5,
+      "URL": "https://www.equatorial-guinea-tourism.com/"
+    }
+  ]
+}

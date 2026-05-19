@@ -1,0 +1,98 @@
+{
+  "city": "Mexico City",
+  "country": "Mexico",
+  "airportPostcode": "15620",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Teotihuacan Pyramids",
+      "postcode": "55800",
+      "distanceKmFromAirport": 56,
+      "description": "Ancient Mesoamerican city with the colossal Pyramid of the Sun and Pyramid of the Moon",
+      "distance": 50.0,
+      "URL": "https://www.inah.gob.mx/zonas/11-zona-arqueologica-de-teotihuacan"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Anthropology",
+      "postcode": "11560",
+      "distanceKmFromAirport": 10,
+      "description": "World-class museum with the Aztec Sun Stone and greatest collection of Mesoamerican artefacts",
+      "distance": 4.5,
+      "URL": "https://www.mna.inah.gob.mx/"
+    },
+    {
+      "rank": 3,
+      "name": "Historic Centre & Zocalo",
+      "postcode": "06020",
+      "distanceKmFromAirport": 6,
+      "description": "Vast main square flanked by the Metropolitan Cathedral and National Palace murals by Diego Rivera",
+      "distance": 0.5,
+      "URL": "https://www.visitmexico.com/ciudad-de-mexico"
+    },
+    {
+      "rank": 4,
+      "name": "Frida Kahlo Museum (Casa Azul)",
+      "postcode": "04000",
+      "distanceKmFromAirport": 18,
+      "description": "The iconic Blue House in Coyoacan where Frida Kahlo was born, lived and died",
+      "distance": 12.0,
+      "URL": "https://www.museofridakahlo.org.mx/en"
+    },
+    {
+      "rank": 5,
+      "name": "Chapultepec Castle & Park",
+      "postcode": "11580",
+      "distanceKmFromAirport": 11,
+      "description": "Former imperial palace atop a hill in the world's largest urban park, with sweeping city views",
+      "distance": 5.0,
+      "URL": "https://www.mnh.inah.gob.mx/"
+    },
+    {
+      "rank": 6,
+      "name": "Xochimilco Floating Gardens",
+      "postcode": "16050",
+      "distanceKmFromAirport": 31,
+      "description": "UNESCO-listed network of canals with colourful trajinera boats, mariachi and local food",
+      "distance": 25.0,
+      "URL": "https://www.xochimilco.cdmx.gob.mx/"
+    },
+    {
+      "rank": 7,
+      "name": "Palacio de Bellas Artes",
+      "postcode": "06050",
+      "distanceKmFromAirport": 7,
+      "description": "Magnificent Art Nouveau and Art Deco palace housing murals by Rivera, Orozco and Siqueiros",
+      "distance": 1.0,
+      "URL": "https://www.inba.gob.mx/recinto/3"
+    },
+    {
+      "rank": 8,
+      "name": "UNAM Campus & Museo Universitario Arte Contemporaneo",
+      "postcode": "04510",
+      "distanceKmFromAirport": 21,
+      "description": "UNESCO World Heritage campus with volcanic stone architecture and Diego Rivera's stadium mosaic",
+      "distance": 15.0,
+      "URL": "https://www.unam.mx/"
+    },
+    {
+      "rank": 9,
+      "name": "Templo Mayor",
+      "postcode": "06060",
+      "distanceKmFromAirport": 6,
+      "description": "Excavated Aztec twin temple in the heart of the historic centre with an excellent on-site museum",
+      "distance": 0.5,
+      "URL": "https://www.templomayor.inah.gob.mx/"
+    },
+    {
+      "rank": 10,
+      "name": "Mercado de La Merced",
+      "postcode": "06200",
+      "distanceKmFromAirport": 8,
+      "description": "One of the largest and most vibrant traditional markets in the Americas with thousands of stalls",
+      "distance": 2.0,
+      "URL": "https://www.visitmexico.com/ciudad-de-mexico"
+    }
+  ]
+}

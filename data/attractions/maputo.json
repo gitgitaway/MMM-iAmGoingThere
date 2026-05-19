@@ -1,0 +1,98 @@
+{
+  "city": "Maputo",
+  "country": "Mozambique",
+  "airportPostcode": "1101",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bazaruto Archipelago Diving",
+      "postcode": "1100",
+      "distanceKmFromAirport": 10.0,
+      "description": "UNESCO Marine Park with dugongs, manta rays and whale sharks",
+      "distance": 2.0,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 2,
+      "name": "CFM Railway Station",
+      "postcode": "1101",
+      "distanceKmFromAirport": 9.0,
+      "description": "Gustave Eiffel-designed 1910 colonial railway station - Maputo's architectural icon",
+      "distance": 1.0,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 3,
+      "name": "Natural History Museum",
+      "postcode": "1000",
+      "distanceKmFromAirport": 9.0,
+      "description": "Collection of Mozambique wildlife including a display of elephant foetuses",
+      "distance": 1.0,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 4,
+      "name": "Maputo Fortress (Fortaleza)",
+      "postcode": "1101",
+      "distanceKmFromAirport": 9.0,
+      "description": "Portuguese fortress from 1781 housing a military history museum",
+      "distance": 1.0,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 5,
+      "name": "Casa de Ferro (Iron House)",
+      "postcode": "1202",
+      "distanceKmFromAirport": 14.0,
+      "description": "Prefabricated iron house by Gustave Eiffel assembled in 1892",
+      "distance": 6.0,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 6,
+      "name": "Mercado Central",
+      "postcode": "1200",
+      "distanceKmFromAirport": 48.0,
+      "description": "Maputo's main market with cashews, prawns, capulana fabrics and drums",
+      "distance": 40.0,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 7,
+      "name": "Ponta do Ouro Dolphin Swim",
+      "postcode": "1100",
+      "distanceKmFromAirport": 9.5,
+      "description": "Swim with wild resident dolphins in the warm Indian Ocean near the South Africa border",
+      "distance": 1.5,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 8,
+      "name": "Polana Neighbourhood Art Galleries",
+      "postcode": "1100",
+      "distanceKmFromAirport": 9.5,
+      "description": "Maputo's thriving contemporary Mozambican art scene",
+      "distance": 1.5,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 9,
+      "name": "Municipal Market (Mercado Municipal)",
+      "postcode": "1100",
+      "distanceKmFromAirport": 9.5,
+      "description": "Restored 1901 market hall with fresh produce and traditional crafts",
+      "distance": 1.5,
+      "URL": "https://www.visitmozambique.net"
+    },
+    {
+      "rank": 10,
+      "name": "Piri-Piri Prawns",
+      "postcode": "0",
+      "distanceKmFromAirport": 60.0,
+      "description": "Mozambique's famous flame-grilled prawns with piri-piri chilli sauce and bread",
+      "distance": 52.0,
+      "URL": "https://www.visitmozambique.net"
+    }
+  ]
+}

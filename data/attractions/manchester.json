@@ -1,0 +1,98 @@
+{
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "airportPostcode": "M90 1QX",
+  "airportDistanceKm": 14,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Trafford",
+      "postcode": "M16 0RA",
+      "distanceKmFromAirport": 17,
+      "description": "Iconic home of Manchester United FC, the Theatre of Dreams",
+      "distance": 3,
+      "URL": "https://www.manutd.com/en/visit-old-trafford"
+    },
+    {
+      "rank": 2,
+      "name": "Science and Industry Museum",
+      "postcode": "M3 4FP",
+      "distanceKmFromAirport": 15,
+      "description": "Fascinating museum on the site of the world's oldest passenger railway station",
+      "distance": 1,
+      "URL": "https://www.scienceandindustrymuseum.org.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Manchester Art Gallery",
+      "postcode": "M2 3JL",
+      "distanceKmFromAirport": 14,
+      "description": "Outstanding collection of fine and decorative art in a stunning neoclassical building",
+      "distance": 0.3,
+      "URL": "https://manchesterartgallery.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Northern Quarter",
+      "postcode": "M4 1HN",
+      "distanceKmFromAirport": 14,
+      "description": "Bohemian neighbourhood packed with independent shops, bars and street art",
+      "distance": 0.5,
+      "URL": "https://www.visitmanchester.com/"
+    },
+    {
+      "rank": 5,
+      "name": "John Rylands Library",
+      "postcode": "M3 3EH",
+      "distanceKmFromAirport": 14,
+      "description": "Victorian neo-Gothic library housing a world-class collection of rare books and manuscripts",
+      "distance": 0.5,
+      "URL": "https://www.library.manchester.ac.uk/rylands/"
+    },
+    {
+      "rank": 6,
+      "name": "Castlefield",
+      "postcode": "M15 4QJ",
+      "distanceKmFromAirport": 15,
+      "description": "Urban heritage park with Roman fort remains, canals and Victorian warehouses",
+      "distance": 1,
+      "URL": "https://www.visitmanchester.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Manchester Cathedral",
+      "postcode": "M3 1SX",
+      "distanceKmFromAirport": 14,
+      "description": "Medieval cathedral in the city centre with remarkable choir stalls and angel sculptures",
+      "distance": 0.5,
+      "URL": "https://www.manchestercathedral.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Etihad Stadium",
+      "postcode": "M11 3FF",
+      "distanceKmFromAirport": 17,
+      "description": "Home of Manchester City FC with guided stadium and trophy room tours",
+      "distance": 3,
+      "URL": "https://www.mancity.com/etihad-stadium"
+    },
+    {
+      "rank": 9,
+      "name": "The Whitworth",
+      "postcode": "M15 6ER",
+      "distanceKmFromAirport": 16,
+      "description": "Award-winning art gallery in Whitworth Park blending art, landscape and community",
+      "distance": 2,
+      "URL": "https://www.whitworth.manchester.ac.uk/"
+    },
+    {
+      "rank": 10,
+      "name": "Museum of Science & Industry",
+      "postcode": "M3 4FP",
+      "distanceKmFromAirport": 15,
+      "description": "Celebrating Manchester's pivotal role in the Industrial Revolution",
+      "distance": 1,
+      "URL": "https://www.scienceandindustrymuseum.org.uk/"
+    }
+  ]
+}

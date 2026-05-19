@@ -1,0 +1,98 @@
+{
+  "city": "Luton",
+  "country": "United Kingdom",
+  "airportPostcode": "LU2 9LY",
+  "airportDistanceKm": 50,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Whipsnade Zoo",
+      "postcode": "LU6 2LF",
+      "distanceKmFromAirport": 10,
+      "description": "Europe's largest zoo covering 600 acres with over 3,600 animals",
+      "distance": 8.0,
+      "URL": "https://www.zsl.org/whipsnade-zoo"
+    },
+    {
+      "rank": 2,
+      "name": "Woburn Abbey & Safari Park",
+      "postcode": "MK17 9WA",
+      "distanceKmFromAirport": 20,
+      "description": "Ancestral home of the Dukes of Bedford with a renowned drive-through safari park",
+      "distance": 18.0,
+      "URL": "https://www.woburnabbey.co.uk/"
+    },
+    {
+      "rank": 3,
+      "name": "Luton Hoo Estate",
+      "postcode": "LU1 3TQ",
+      "distanceKmFromAirport": 5,
+      "description": "Grand country house in a Capability Brown landscape with luxury hotel",
+      "distance": 3.0,
+      "URL": "https://www.lutonhoo.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Dunstable Downs",
+      "postcode": "LU6 2GY",
+      "distanceKmFromAirport": 12,
+      "description": "Chalk escarpment popular for kite flying with stunning views over the vale",
+      "distance": 10.0,
+      "URL": "https://www.nationaltrust.org.uk/dunstable-downs-and-whipsnade-estate"
+    },
+    {
+      "rank": 5,
+      "name": "Stockwood Discovery Centre",
+      "postcode": "LU1 4LX",
+      "distanceKmFromAirport": 5,
+      "description": "Museum of local history with period gardens and craft museum",
+      "distance": 3.5,
+      "URL": "https://www.lutonculture.com/stockwood/"
+    },
+    {
+      "rank": 6,
+      "name": "Wardown Museum",
+      "postcode": "LU2 7HA",
+      "distanceKmFromAirport": 4,
+      "description": "Victorian park museum with local lace collection and social history",
+      "distance": 1.5,
+      "URL": "https://www.lutonculture.com/wardown/"
+    },
+    {
+      "rank": 7,
+      "name": "Dunstable Priory",
+      "postcode": "LU5 4RS",
+      "distanceKmFromAirport": 11,
+      "description": "Historic 12th-century Augustinian priory where Henry VIII's marriage to Catherine was annulled",
+      "distance": 9.0,
+      "URL": "https://www.historicengland.org.uk/"
+    },
+    {
+      "rank": 8,
+      "name": "Chiltern Hills AONB",
+      "postcode": "HP4 1NX",
+      "distanceKmFromAirport": 15,
+      "description": "Beautiful chalk hills with villages, ancient woodland and the Ridgeway path",
+      "distance": 15.0,
+      "URL": "https://www.chilternsaonb.org/"
+    },
+    {
+      "rank": 9,
+      "name": "Knebworth House",
+      "postcode": "SG3 6PY",
+      "distanceKmFromAirport": 30,
+      "description": "Gothic stately home with gardens, maze and legendary open-air concert venue",
+      "distance": 28.0,
+      "URL": "https://www.knebworthhouse.com/"
+    },
+    {
+      "rank": 10,
+      "name": "De Havilland Aircraft Museum",
+      "postcode": "AL2 1EX",
+      "distanceKmFromAirport": 24,
+      "description": "Britain's oldest aircraft museum housing the world's only surviving Mosquito prototype",
+      "distance": 24.0,
+      "URL": "https://www.dehavillandmuseum.co.uk/"
+    }
+  ]
+}

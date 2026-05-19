@@ -1,0 +1,98 @@
+{
+  "city": "Langkawi",
+  "country": "Malaysia",
+  "airportPostcode": "07000",
+  "airportDistanceKm": 20,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Cable Car & SkyBridge",
+      "postcode": "07000",
+      "distanceKmFromAirport": 35,
+      "description": "Cable car to 708m Gunung Mat Cincang with a curved pedestrian sky bridge",
+      "distance": 15,
+      "URL": "https://www.panoramalangkawi.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Pantai Cenang Beach",
+      "postcode": "07000",
+      "distanceKmFromAirport": 40,
+      "description": "Langkawi's main beach strip with beach bars, parasailing and watersports",
+      "distance": 20,
+      "URL": "https://www.langkawi-info.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Kilim Karst Geoforest Park",
+      "postcode": "07000",
+      "distanceKmFromAirport": 45,
+      "description": "UNESCO World Geopark mangrove kayaking with eagles, monkeys and cave bats",
+      "distance": 25,
+      "URL": "https://www.langkawigeogallery.com.my/"
+    },
+    {
+      "rank": 4,
+      "name": "Duty Free Shopping",
+      "postcode": "07000",
+      "distanceKmFromAirport": 20,
+      "description": "Langkawi's tax-free status makes it the best shopping in Malaysia",
+      "distance": 0.5,
+      "URL": "https://www.langkawidc.com.my/"
+    },
+    {
+      "rank": 5,
+      "name": "Beras Basah Island",
+      "postcode": "07000",
+      "distanceKmFromAirport": 40,
+      "description": "Uninhabited island with the clearest water and best snorkelling in Langkawi",
+      "distance": 20,
+      "URL": "https://www.langkawi-info.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Telaga Tujuh (Seven Wells Waterfall)",
+      "postcode": "07000",
+      "distanceKmFromAirport": 37,
+      "description": "Seven waterfalls descending through a gorge to a swimming pool",
+      "distance": 17,
+      "URL": "https://www.langkawi-info.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Crocodile Adventureland",
+      "postcode": "07000",
+      "distanceKmFromAirport": 40,
+      "description": "Crocodile farm with various show performances and a freshwater aquarium",
+      "distance": 20,
+      "URL": "https://www.crocodileadventureland.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Dayang Bunting (Pregnant Maiden Lake)",
+      "postcode": "07000",
+      "distanceKmFromAirport": 32,
+      "description": "Freshwater lake inside an island accessible by boat - swimming with monkeys",
+      "distance": 12,
+      "URL": "https://www.langkawi-info.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Art in Paradise 3D Museum",
+      "postcode": "07000",
+      "distanceKmFromAirport": 40,
+      "description": "Interactive 3D art installations for social media photographs",
+      "distance": 20,
+      "URL": "https://www.artinparadiselangkawi.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Nasi Campur at Warung Tepi Laut",
+      "postcode": "07000",
+      "distanceKmFromAirport": 40,
+      "description": "Malaysian mixed rice with fresh grilled squid at a seaside open-air stall",
+      "distance": 20,
+      "URL": "https://www.langkawi-info.com/"
+    }
+  ]
+}

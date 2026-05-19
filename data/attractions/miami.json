@@ -1,0 +1,98 @@
+{
+  "city": "Miami",
+  "country": "USA",
+  "airportPostcode": "33126",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "South Beach (SoBe)",
+      "postcode": "33139",
+      "distanceKmFromAirport": 10,
+      "description": "Art Deco architecture and beautiful beaches on Ocean Drive",
+      "distance": 7.0,
+      "URL": "https://www.miamiandbeaches.com/places-to-go/miami-beach/south-beach"
+    },
+    {
+      "rank": 2,
+      "name": "Wynwood Walls",
+      "postcode": "33127",
+      "distanceKmFromAirport": 9,
+      "description": "World-famous outdoor street art museum in the Wynwood Arts District",
+      "distance": 4.5,
+      "URL": "https://www.thewynwoodwalls.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Everglades National Park",
+      "postcode": "33034",
+      "distanceKmFromAirport": 58,
+      "description": "Airboat tours through the unique subtropical wilderness",
+      "distance": 57.0,
+      "URL": "https://www.nps.gov/ever/index.htm"
+    },
+    {
+      "rank": 4,
+      "name": "Vizcaya Museum and Gardens",
+      "postcode": "33133",
+      "distanceKmFromAirport": 11,
+      "description": "Stunning 1916 Italian Renaissance-style villa and formal gardens",
+      "distance": 6.0,
+      "URL": "https://vizcaya.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Little Havana",
+      "postcode": "33135",
+      "distanceKmFromAirport": 8,
+      "description": "Authentic Cuban culture, cigars, dominoes and cuisine",
+      "distance": 3.5,
+      "URL": "https://www.miamiandbeaches.com/places-to-go/miami/little-havana"
+    },
+    {
+      "rank": 6,
+      "name": "Art Deco Historic District Walk",
+      "postcode": "33139",
+      "distanceKmFromAirport": 10,
+      "description": "Over 800 preserved Art Deco buildings from the 1920s-1940s",
+      "distance": 7.0,
+      "URL": "https://www.mdpl.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Perez Art Museum Miami (PAMM)",
+      "postcode": "33132",
+      "distanceKmFromAirport": 8,
+      "description": "Contemporary art museum with stunning Biscayne Bay waterfront views",
+      "distance": 1.5,
+      "URL": "https://www.pamm.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Bayside Marketplace",
+      "postcode": "33132",
+      "distanceKmFromAirport": 8,
+      "description": "Waterfront open-air shopping and entertainment complex",
+      "distance": 1.0,
+      "URL": "https://www.baysidemarketplace.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Key Biscayne & Bill Baggs State Park",
+      "postcode": "33149",
+      "distanceKmFromAirport": 16,
+      "description": "Pristine beaches and a historic 1825 lighthouse",
+      "distance": 11.0,
+      "URL": "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park"
+    },
+    {
+      "rank": 10,
+      "name": "Zoo Miami",
+      "postcode": "33177",
+      "distanceKmFromAirport": 22,
+      "description": "Largest zoo in the southeastern US with over 3,000 animals",
+      "distance": 24.0,
+      "URL": "https://www.zoomiami.org/"
+    }
+  ]
+}

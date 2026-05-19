@@ -1,0 +1,98 @@
+{
+  "city": "Lyon",
+  "country": "France",
+  "airportPostcode": "69125",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vieux Lyon",
+      "postcode": "69005",
+      "distanceKmFromAirport": 27,
+      "description": "UNESCO World Heritage Renaissance old town with traboules and Florentine architecture",
+      "distance": 1,
+      "URL": "https://www.lyon-france.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Basilique de Fourviere",
+      "postcode": "69005",
+      "distanceKmFromAirport": 28,
+      "description": "Stunning white basilica dominating the city from the hill, with panoramic views",
+      "distance": 2,
+      "URL": "https://www.fourviere.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Musee des Confluences",
+      "postcode": "69002",
+      "distanceKmFromAirport": 29,
+      "description": "Spectacular deconstructivist science and society museum at the confluence of two rivers",
+      "distance": 3,
+      "URL": "https://www.museedesconfluences.fr/"
+    },
+    {
+      "rank": 4,
+      "name": "Traboules",
+      "postcode": "69005",
+      "distanceKmFromAirport": 27,
+      "description": "Secret network of Renaissance passageways connecting streets through private courtyards",
+      "distance": 1,
+      "URL": "https://www.lyon-france.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Parc de la Tete d'Or",
+      "postcode": "69006",
+      "distanceKmFromAirport": 29,
+      "description": "117-hectare urban park with a lake, botanical garden, zoo and rose garden",
+      "distance": 3,
+      "URL": "https://www.lyon.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Institut Lumiere",
+      "postcode": "69008",
+      "distanceKmFromAirport": 29,
+      "description": "Museum in the villa of the Lumiere brothers, inventors of cinema",
+      "distance": 3,
+      "URL": "https://www.institut-lumiere.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Musee des Beaux-Arts",
+      "postcode": "69001",
+      "distanceKmFromAirport": 26,
+      "description": "One of France's largest fine arts museums housed in a 17th-century Benedictine abbey",
+      "distance": 0.5,
+      "URL": "https://www.mba-lyon.fr/"
+    },
+    {
+      "rank": 8,
+      "name": "Croix-Rousse",
+      "postcode": "69004",
+      "distanceKmFromAirport": 28,
+      "description": "Historic silk-weaving district with bohemian cafes, markets and traboules",
+      "distance": 2,
+      "URL": "https://www.lyon-france.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Roman Amphitheatres",
+      "postcode": "69005",
+      "distanceKmFromAirport": 28,
+      "description": "Ancient Gallo-Roman theatres on Fourviere Hill hosting summer performances",
+      "distance": 2,
+      "URL": "https://www.lugdunum.grandlyon.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Presqu'ile",
+      "postcode": "69002",
+      "distanceKmFromAirport": 26,
+      "description": "Peninsula between the Rhone and Saone rivers with elegant squares and Haussmann architecture",
+      "distance": 0,
+      "URL": "https://www.lyon-france.com/"
+    }
+  ]
+}

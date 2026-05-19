@@ -1,0 +1,98 @@
+{
+  "city": "Nanjing",
+  "country": "China",
+  "airportPostcode": "211131",
+  "airportDistanceKm": 37,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sun Yat-sen Mausoleum",
+      "postcode": "210014",
+      "distanceKmFromAirport": 42,
+      "description": "Imposing hilltop mausoleum of the Father of Modern China with 392-step climb",
+      "distance": 5.0,
+      "URL": "http://www.zschina.org.cn/"
+    },
+    {
+      "rank": 2,
+      "name": "Nanjing Massacre Memorial",
+      "postcode": "210007",
+      "distanceKmFromAirport": 41,
+      "description": "Sobering memorial to the 300,000 killed by Japanese troops in December 1937",
+      "distance": 4.0,
+      "URL": "https://www.nj1937.org/"
+    },
+    {
+      "rank": 3,
+      "name": "Ming Xiaoling Mausoleum",
+      "postcode": "210014",
+      "distanceKmFromAirport": 43,
+      "description": "UNESCO World Heritage tomb of the first Ming Emperor in a magnificent sacred way",
+      "distance": 6.0,
+      "URL": "https://www.mingling.org.cn/"
+    },
+    {
+      "rank": 4,
+      "name": "Confucius Temple (Fuzimiao)",
+      "postcode": "210001",
+      "distanceKmFromAirport": 39,
+      "description": "Qinhuai River waterfront with a lively night market of Nanjing's famous snacks",
+      "distance": 2.0,
+      "URL": "https://www.njfzmq.com/"
+    },
+    {
+      "rank": 5,
+      "name": "City Wall",
+      "postcode": "210001",
+      "distanceKmFromAirport": 38,
+      "description": "Best-preserved city wall in China at 35km - cycle the top with mountain views",
+      "distance": 1.0,
+      "URL": "https://www.njcitywall.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Presidential Palace (Zongtongfu)",
+      "postcode": "210018",
+      "distanceKmFromAirport": 39,
+      "description": "Former seat of the Chinese republican government with extensive museum",
+      "distance": 2.0,
+      "URL": "https://www.njztf.cn/"
+    },
+    {
+      "rank": 7,
+      "name": "Purple Mountain Scenic Area",
+      "postcode": "210014",
+      "distanceKmFromAirport": 42,
+      "description": "Cable car to Zijin Mountain with ancient tombs, temples and walking trails",
+      "distance": 5.0,
+      "URL": "https://www.zijinshan.org/"
+    },
+    {
+      "rank": 8,
+      "name": "Zhongshan Botanical Garden",
+      "postcode": "210014",
+      "distanceKmFromAirport": 43,
+      "description": "China's most comprehensive botanical garden on the slopes of Purple Mountain",
+      "distance": 6.0,
+      "URL": "https://www.cnbg.net/"
+    },
+    {
+      "rank": 9,
+      "name": "Nanjing Museum",
+      "postcode": "210014",
+      "distanceKmFromAirport": 41,
+      "description": "China's second largest museum with imperial bronzes and porcelain",
+      "distance": 4.0,
+      "URL": "https://www.njmuseum.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Nanjing Salted Duck (Yan Shui Ya)",
+      "postcode": "210001",
+      "distanceKmFromAirport": 38,
+      "description": "Nanjing's most famous dish - osmanthus-cured salted duck with aromatic spices",
+      "distance": 1.0,
+      "URL": "https://www.njmuseum.com"
+    }
+  ]
+}

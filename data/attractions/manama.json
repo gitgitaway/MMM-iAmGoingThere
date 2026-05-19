@@ -1,0 +1,98 @@
+{
+  "city": "Manama",
+  "country": "Bahrain",
+  "airportPostcode": "1063",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Qal'at al-Bahrain (Bahrain Fort)",
+      "postcode": "614",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO World Heritage archaeological site with 4,000 years of civilisation, once capital of Dilmun",
+      "distance": 5.0,
+      "URL": "https://www.qalatalbahrainsite.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Bahrain National Museum",
+      "postcode": "193",
+      "distanceKmFromAirport": 9,
+      "description": "Dilmun civilisation artefacts and Bahraini culture spanning 6,000 years of history",
+      "distance": 1.5,
+      "URL": "https://www.bahrainmuseum.gov.bh/"
+    },
+    {
+      "rank": 3,
+      "name": "Al-Fateh Grand Mosque",
+      "postcode": "1038",
+      "distanceKmFromAirport": 10,
+      "description": "One of the world's largest mosques with a fibreglass dome and guided tours for non-Muslims",
+      "distance": 3.0,
+      "URL": "https://www.alfateh-mosque.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Manama Souq & Gold Souq",
+      "postcode": "306",
+      "distanceKmFromAirport": 8,
+      "description": "Traditional market with gold, pearls, spices and the famous Bab Al-Bahrain gateway",
+      "distance": 0.5,
+      "URL": "https://www.bahrain.com"
+    },
+    {
+      "rank": 5,
+      "name": "Bahrain International Circuit",
+      "postcode": "1062",
+      "distanceKmFromAirport": 39,
+      "description": "Formula 1 Grand Prix circuit with museum, track tours and night race",
+      "distance": 32.0,
+      "URL": "https://www.bahraingp.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Tree of Life",
+      "postcode": "917",
+      "distanceKmFromAirport": 47,
+      "description": "400-year-old mesquite tree miraculously alive in the desert with no apparent water source",
+      "distance": 40.0,
+      "URL": "https://www.bahrainwtc.com"
+    },
+    {
+      "rank": 7,
+      "name": "Bahrain Pearl Trail",
+      "postcode": "319",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO World Heritage pearling sites including the sea route and merchant palaces",
+      "distance": 5.0,
+      "URL": "https://whc.unesco.org/en/list/1364"
+    },
+    {
+      "rank": 8,
+      "name": "Adhari Park",
+      "postcode": "905",
+      "distanceKmFromAirport": 22,
+      "description": "Bahrain's first theme park with rides, a falconry centre and natural freshwater spring",
+      "distance": 15.0,
+      "URL": "https://www.bahrain.com"
+    },
+    {
+      "rank": 9,
+      "name": "Muharraq Old Town",
+      "postcode": "200",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO-listed pearl merchant's houses with wind towers and the Shaikh Isa bin Ali House",
+      "distance": 5.0,
+      "URL": "https://www.bahraingp.com"
+    },
+    {
+      "rank": 10,
+      "name": "Lost Paradise of Dilmun Water Park",
+      "postcode": "1061",
+      "distanceKmFromAirport": 13,
+      "description": "Largest water park in the Gulf with wave pools, lazy river and family attractions",
+      "distance": 6.0,
+      "URL": "https://www.lostparadise.com.bh"
+    }
+  ]
+}

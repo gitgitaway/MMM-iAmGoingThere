@@ -1,0 +1,98 @@
+{
+  "city": "Linz",
+  "country": "Austria",
+  "airportPostcode": "4063",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lentos Art Museum",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "Spectacular glass and steel museum on the Danube riverbank with an outstanding collection of modern and contemporary Austrian art",
+      "distance": 1.0,
+      "URL": "https://www.lentos.at/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Ars Electronica Center",
+      "postcode": "4040",
+      "distanceKmFromAirport": 13,
+      "description": "Pioneering museum of the future exploring digital art, science and technology; Linz's glowing blue landmark on the Danube",
+      "distance": 1.2,
+      "URL": "https://ars.electronica.art/center/"
+    },
+    {
+      "rank": 3,
+      "name": "Hauptplatz",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "One of Central Europe's largest baroque market squares, dominated by the 1723 Trinity Column and lined with elegant facades",
+      "distance": 0.5,
+      "URL": "https://www.linztourismus.at/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Linz Cathedral (New Cathedral)",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "Austria's largest church with a soaring 134-metre neo-Gothic spire and extraordinary stained-glass windows depicting Linz's history",
+      "distance": 0.8,
+      "URL": "https://www.mariendom.at/"
+    },
+    {
+      "rank": 5,
+      "name": "Postlingberg Pilgrimage Church",
+      "postcode": "4040",
+      "distanceKmFromAirport": 14,
+      "description": "Twin-towered baroque pilgrimage church perched on a hilltop above the Danube, reached by one of Europe's steepest rack railways",
+      "distance": 5.0,
+      "URL": "https://www.linztourismus.at/en/see-and-do/sights-and-attractions/postlingberg/"
+    },
+    {
+      "rank": 6,
+      "name": "Linz Castle",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "Medieval fortress atop the castle hill houses the Upper Austrian Provincial Museum, with sweeping views over the Danube and city",
+      "distance": 0.6,
+      "URL": "https://www.ooegeschichte.at/en/"
+    },
+    {
+      "rank": 7,
+      "name": "OK Contemporary Arts Center",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "Leading contemporary arts venue in the historic Ursulinenhof presenting cutting-edge international exhibitions and performances",
+      "distance": 0.7,
+      "URL": "https://www.ok-centrum.at/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Bruckner Orchestra Concert",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "Linz's celebrated orchestra named after composer Anton Bruckner; performances at the Brucknerhaus concert hall on the Danube",
+      "distance": 1.0,
+      "URL": "https://www.brucknerhaus.at/"
+    },
+    {
+      "rank": 9,
+      "name": "Danube Riverfront Promenade",
+      "postcode": "4020",
+      "distanceKmFromAirport": 13,
+      "description": "Vibrant riverside walk linking the Lentos and Ars Electronica buildings, popular for cycling, dining and watching the river traffic",
+      "distance": 1.0,
+      "URL": "https://www.linztourismus.at/en/"
+    },
+    {
+      "rank": 10,
+      "name": "RAIFFEISEN ARENA",
+      "postcode": "4030",
+      "distanceKmFromAirport": 15,
+      "description": "Home of LASK Linz with a 19,080-seat capacity; Linz's modern football stadium in the southern suburb of Pichling",
+      "distance": 5.5,
+      "URL": "https://www.lask.at/en/"
+    }
+  ]
+}

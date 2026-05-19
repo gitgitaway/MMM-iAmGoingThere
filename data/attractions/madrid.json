@@ -1,0 +1,98 @@
+{
+  "city": "Madrid",
+  "country": "Spain",
+  "airportPostcode": "28042",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Museo del Prado",
+      "postcode": "28014",
+      "distanceKmFromAirport": 14,
+      "description": "Spain's national art museum — one of the world's finest with Velazquez, Goya and El Greco",
+      "distance": 1.5,
+      "URL": "https://www.museodelprado.es/en"
+    },
+    {
+      "rank": 2,
+      "name": "Royal Palace of Madrid",
+      "postcode": "28071",
+      "distanceKmFromAirport": 14,
+      "description": "Europe's largest royal palace with 3,418 rooms, the official residence of the Spanish royal family",
+      "distance": 2.0,
+      "URL": "https://www.patrimonionacional.es/visita/palacio-real-de-madrid"
+    },
+    {
+      "rank": 3,
+      "name": "Museo Reina Sofia",
+      "postcode": "28012",
+      "distanceKmFromAirport": 14,
+      "description": "Spain's national museum of 20th-century art, home to Picasso's Guernica",
+      "distance": 1.5,
+      "URL": "https://www.museoreinasofia.es/en"
+    },
+    {
+      "rank": 4,
+      "name": "Retiro Park",
+      "postcode": "28009",
+      "distanceKmFromAirport": 14,
+      "description": "Magnificent 350-acre royal park with the Crystal Palace, rowing lake and Sunday concerts",
+      "distance": 1.8,
+      "URL": "https://www.esmadrid.com/en/tourist-information/retiro-park"
+    },
+    {
+      "rank": 5,
+      "name": "Puerta del Sol",
+      "postcode": "28013",
+      "distanceKmFromAirport": 12,
+      "description": "Madrid's central square — the heart of the city and Km 0 of all Spanish roads",
+      "distance": 0.2,
+      "URL": "https://www.esmadrid.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Mercado de San Miguel",
+      "postcode": "28005",
+      "distanceKmFromAirport": 13,
+      "description": "Elegant 1916 iron-and-glass market with gourmet tapas, fresh produce and Spanish wines",
+      "distance": 0.8,
+      "URL": "https://www.mercadodesanmiguel.es/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Santiago Bernabeu Stadium",
+      "postcode": "28046",
+      "distanceKmFromAirport": 18,
+      "description": "Real Madrid's iconic stadium — recently refurbished with a retractable roof and world-class tour",
+      "distance": 6.0,
+      "URL": "https://www.realmadrid.com/en/fans/bernabeu-stadium"
+    },
+    {
+      "rank": 8,
+      "name": "Toledo Day Trip",
+      "postcode": "45001",
+      "distanceKmFromAirport": 87,
+      "description": "UNESCO World Heritage medieval city 75 km south — the City of Three Cultures with stunning cathedral",
+      "distance": 75.0,
+      "URL": "https://www.toledo-turismo.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Thyssen-Bornemisza Museum",
+      "postcode": "28014",
+      "distanceKmFromAirport": 14,
+      "description": "Outstanding private art collection spanning 700 years from medieval to Pop Art",
+      "distance": 1.5,
+      "URL": "https://www.museothyssen.org/en"
+    },
+    {
+      "rank": 10,
+      "name": "Gran Via",
+      "postcode": "28013",
+      "distanceKmFromAirport": 13,
+      "description": "Madrid's Broadway — a grand early-20th-century boulevard of theatres, cinemas and architecture",
+      "distance": 0.8,
+      "URL": "https://www.esmadrid.com/en/"
+    }
+  ]
+}

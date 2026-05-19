@@ -1,0 +1,98 @@
+{
+  "city": "Lima",
+  "country": "Peru",
+  "airportPostcode": "15027",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Machu Picchu",
+      "postcode": "08680",
+      "distanceKmFromAirport": 1112,
+      "description": "The Inca citadel in the clouds — 1-hour flight to Cusco then bus and train to the most iconic ruin on Earth",
+      "distance": 1100.0,
+      "URL": "https://www.machupicchu.gob.pe/"
+    },
+    {
+      "rank": 2,
+      "name": "Huaca Pucllana Ruins",
+      "postcode": "15074",
+      "distanceKmFromAirport": 19,
+      "description": "Adobe pyramid rising from the middle of Miraflores — active archaeological site with nightly dinner service beside it",
+      "distance": 7.0,
+      "URL": "https://visitlima.pe/"
+    },
+    {
+      "rank": 3,
+      "name": "Miraflores Clifftop Walk",
+      "postcode": "15074",
+      "distanceKmFromAirport": 19,
+      "description": "Stroll the El Malecón clifftop promenade above the Pacific — paragliders launch here at sunset",
+      "distance": 7.0,
+      "URL": "https://visitlima.pe/"
+    },
+    {
+      "rank": 4,
+      "name": "Central Restaurant",
+      "postcode": "15074",
+      "distanceKmFromAirport": 19,
+      "description": "World's #1 restaurant (2023) — Virgilio Martínez's tasting menu explores every ecosystem of Peru by altitude",
+      "distance": 7.0,
+      "URL": "https://centralrestaurante.com.pe/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Larco Museum",
+      "postcode": "15082",
+      "distanceKmFromAirport": 20,
+      "description": "Outstanding pre-Columbian collection in a colonial mansion — the famous erotic pottery gallery included",
+      "distance": 8.0,
+      "URL": "https://www.larcomuseum.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Barranco Bohemian District",
+      "postcode": "15063",
+      "distanceKmFromAirport": 23,
+      "description": "Lima's most charming neighbourhood — Bridge of Sighs, seafront cliffs, craft bars and the best ceviche",
+      "distance": 11.0,
+      "URL": "https://visitlima.pe/"
+    },
+    {
+      "rank": 7,
+      "name": "Ceviche Food Tour",
+      "postcode": "15074",
+      "distanceKmFromAirport": 19,
+      "description": "Peru invented ceviche — the National Ceviche Day (June 28) sees free helpings across the city",
+      "distance": 7.0,
+      "URL": "https://visitlima.pe/"
+    },
+    {
+      "rank": 8,
+      "name": "Lima Historic Centre",
+      "postcode": "15001",
+      "distanceKmFromAirport": 15,
+      "description": "UNESCO World Heritage Spanish colonial downtown — Plaza Mayor, catacombs of San Francisco and the Palace of Justice",
+      "distance": 3.0,
+      "URL": "https://visitlima.pe/"
+    },
+    {
+      "rank": 9,
+      "name": "Paragliding over Miraflores",
+      "postcode": "15074",
+      "distanceKmFromAirport": 19,
+      "description": "Tandem paragliding from the cliffs of Miraflores — fly over the Pacific with the city skyline behind you",
+      "distance": 7.0,
+      "URL": "https://visitlima.pe/"
+    },
+    {
+      "rank": 10,
+      "name": "Pachacamac Sanctuary Day Trip",
+      "postcode": "15823",
+      "distanceKmFromAirport": 52,
+      "description": "40-km drive to a vast pre-Inca oracle temple complex overlooking the Pacific — 5 separate pyramids",
+      "distance": 40.0,
+      "URL": "https://visitlima.pe/"
+    }
+  ]
+}

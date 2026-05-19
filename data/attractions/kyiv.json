@@ -1,0 +1,98 @@
+{
+  "city": "Kyiv",
+  "country": "Ukraine",
+  "airportPostcode": "08307",
+  "airportDistanceKm": 35,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Kyiv Pechersk Lavra (Monastery of the Caves)",
+      "postcode": "01015",
+      "distanceKmFromAirport": 39,
+      "description": "UNESCO World Heritage monastery complex with an underground labyrinth of cave monks' tombs",
+      "distance": 4,
+      "URL": "https://lavra.ua/"
+    },
+    {
+      "rank": 2,
+      "name": "St Sophia Cathedral",
+      "postcode": "01004",
+      "distanceKmFromAirport": 36,
+      "description": "UNESCO World Heritage 11th-century Byzantine cathedral with original mosaics and frescoes",
+      "distance": 1,
+      "URL": "https://sophiakiev.com.ua/"
+    },
+    {
+      "rank": 3,
+      "name": "St Michael's Golden-Domed Monastery",
+      "postcode": "01025",
+      "distanceKmFromAirport": 36,
+      "description": "Brilliant blue and gold 12th-century monastery overlooking the Dnieper river",
+      "distance": 1,
+      "URL": "https://www.mykhailivsky.org.ua/"
+    },
+    {
+      "rank": 4,
+      "name": "Maidan Nezalezhnosti (Independence Square)",
+      "postcode": "01001",
+      "distanceKmFromAirport": 35,
+      "description": "Ukraine's central square, site of the 2004 Orange Revolution and 2014 Euromaidan uprising",
+      "distance": 0,
+      "URL": "https://www.kyiv.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Golden Gate (Zoloti Vorota)",
+      "postcode": "01030",
+      "distanceKmFromAirport": 36,
+      "description": "Reconstructed 11th-century fortified gate of ancient Kyiv with a museum inside",
+      "distance": 1,
+      "URL": "https://www.kyiv.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Motherland Monument",
+      "postcode": "01015",
+      "distanceKmFromAirport": 39,
+      "description": "62m stainless steel Soviet-era statue of the Motherland holding a sword and shield",
+      "distance": 4,
+      "URL": "https://www.warmuseum.kiev.ua/"
+    },
+    {
+      "rank": 7,
+      "name": "Andriyivsky Uzviz (Andrew's Descent)",
+      "postcode": "04070",
+      "distanceKmFromAirport": 37,
+      "description": "Cobblestoned artists' street lined with galleries, antique shops and cafes",
+      "distance": 2,
+      "URL": "https://www.kyiv.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "National Museum of the History of Ukraine",
+      "postcode": "01025",
+      "distanceKmFromAirport": 36,
+      "description": "400,000 artefacts spanning Scythian gold, Cossack culture and modern Ukraine",
+      "distance": 1,
+      "URL": "https://www.nmiu.com.ua/"
+    },
+    {
+      "rank": 9,
+      "name": "Podil Neighbourhood",
+      "postcode": "04070",
+      "distanceKmFromAirport": 37,
+      "description": "Historic merchant district with colourful architecture, street art and the Kontraktova Square",
+      "distance": 2,
+      "URL": "https://www.kyiv.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Chernobyl Day Trip",
+      "postcode": "07270",
+      "distanceKmFromAirport": 165,
+      "description": "Guided tour to the Chernobyl Exclusion Zone - the 1986 nuclear disaster site",
+      "distance": 130,
+      "URL": "https://www.chornobyl.gov.ua/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "airportPostcode": "64000",
+  "airportDistanceKm": 55,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Petronas Twin Towers",
+      "postcode": "50088",
+      "distanceKmFromAirport": 58,
+      "description": "The world's tallest twin towers (452m) with a sky bridge on the 41st floor and KLCC shopping below",
+      "distance": 3.0,
+      "URL": "https://www.petronastwintowers.com.my/"
+    },
+    {
+      "rank": 2,
+      "name": "Batu Caves",
+      "postcode": "68100",
+      "distanceKmFromAirport": 68,
+      "description": "Dramatic limestone hill with a 43-metre golden Lord Murugan statue and sacred Hindu temple caves",
+      "distance": 13.0,
+      "URL": "https://www.visitmalaysia.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Merdeka Square & Sultan Abdul Samad Building",
+      "postcode": "50050",
+      "distanceKmFromAirport": 56,
+      "description": "The vast square where Malaysia declared independence in 1957, flanked by Moorish colonial architecture",
+      "distance": 1.5,
+      "URL": "https://www.visitkl.gov.my/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Jalan Alor Night Food Street",
+      "postcode": "50200",
+      "distanceKmFromAirport": 59,
+      "description": "KL's most famous street food strip — dozens of open-air restaurants serving hawker food until 2am",
+      "distance": 4.0,
+      "URL": "https://www.visitkl.gov.my/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Islamic Arts Museum",
+      "postcode": "50480",
+      "distanceKmFromAirport": 60,
+      "description": "Southeast Asia's largest Islamic arts museum with architectural models, textiles and stunning domes",
+      "distance": 4.5,
+      "URL": "https://www.iamm.org.my/"
+    },
+    {
+      "rank": 6,
+      "name": "KL Tower (Menara KL)",
+      "postcode": "50480",
+      "distanceKmFromAirport": 59,
+      "description": "The world's seventh tallest telecommunications tower with observation decks and an open-air Sky Deck",
+      "distance": 4.0,
+      "URL": "https://www.menarakl.com.my/"
+    },
+    {
+      "rank": 7,
+      "name": "Chinatown (Petaling Street)",
+      "postcode": "50000",
+      "distanceKmFromAirport": 56,
+      "description": "Colourful night market with replica goods, dim sum and the atmospheric Chan See Shu Yuen Temple",
+      "distance": 1.5,
+      "URL": "https://www.visitkl.gov.my/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Little India (Brickfields)",
+      "postcode": "50470",
+      "distanceKmFromAirport": 59,
+      "description": "KL's colourful Indian district with garland shops, curry houses, sari shops and vibrant street art",
+      "distance": 4.0,
+      "URL": "https://www.visitkl.gov.my/en/"
+    },
+    {
+      "rank": 9,
+      "name": "KLCC Park & Skyline Walk",
+      "postcode": "50450",
+      "distanceKmFromAirport": 58,
+      "description": "Beautifully landscaped park beneath the Twin Towers with pools, waterfall and reflection views at night",
+      "distance": 3.0,
+      "URL": "https://www.klcc.com.my/"
+    },
+    {
+      "rank": 10,
+      "name": "Genting Highlands Day Trip",
+      "postcode": "69000",
+      "distanceKmFromAirport": 100,
+      "description": "Malaysia's cool-weather mountain resort 45 km from KL with the Chin Swee Caves Temple and theme park",
+      "distance": 45.0,
+      "URL": "https://www.rwgenting.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Moroni",
+  "country": "Comoros",
+  "airportPostcode": "BP 51",
+  "airportDistanceKm": 15,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Old Medina & Friday Mosque",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 16,
+      "description": "Ancient Arab-influenced medina with the 11th-century Friday Mosque and its distinctive minaret",
+      "distance": 0.5,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Karthala Volcano",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 40,
+      "description": "One of the world's largest active calderas at 2361m - challenging hike through cloud forest",
+      "distance": 25,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Chindini Beach",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 45,
+      "description": "Pristine black volcanic sand beach on the west coast with turtle nesting",
+      "distance": 30,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Chomoni Beach",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 35,
+      "description": "Beautiful cove with crystal-clear water and healthy coral reef - excellent snorkeling",
+      "distance": 20,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Itsandra Village & Palace Ruins",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 20,
+      "description": "Ancient royal village with the ruins of a Sultan's palace and traditional dhow building",
+      "distance": 5,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Anjouan Island",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 85,
+      "description": "Fragrant spice island with the old Arab town of Mutsamudu and ylang-ylang plantations",
+      "distance": 70,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Ylang-Ylang Distillery Tour",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 30,
+      "description": "Comoros produces most of the world's ylang-ylang essence for Chanel No.5",
+      "distance": 15,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 8,
+      "name": "National Museum of Comoros",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 16,
+      "description": "Traditional island artefacts, historical photographs and sultan memorabilia",
+      "distance": 0.5,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Coelacanth Dive Sites",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 25,
+      "description": "Dive to find the living fossil coelacanth fish in the Comoros Marine Park",
+      "distance": 10,
+      "URL": "https://www.tourisme-comores.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Moroni Market (Volovolo)",
+      "postcode": "BP 51",
+      "distanceKmFromAirport": 15,
+      "description": "Morning market where traders sell spices, vanilla, coconuts and crafts",
+      "distance": 0.3,
+      "URL": "https://www.tourisme-comores.com/"
+    }
+  ]
+}

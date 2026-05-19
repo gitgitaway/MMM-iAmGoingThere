@@ -1,0 +1,98 @@
+{
+  "city": "Luanda",
+  "country": "Angola",
+  "airportPostcode": "CP 2482",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Fortaleza de Sao Miguel",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 7,
+      "description": "16th-century Portuguese fortress overlooking Luanda Bay - now the Armed Forces Museum",
+      "distance": 1,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Ilha do Cabo",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 14,
+      "description": "Sandy peninsula with beaches, seafood restaurants and views of the Luanda skyline",
+      "distance": 8,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Museu Nacional de Antropologia",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 7,
+      "description": "Angola's leading museum of traditional culture, masks and tribal artefacts",
+      "distance": 1,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Mercado do Kinaxixi",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 9,
+      "description": "Bustling circular market for fresh produce, crafts and everyday life in Luanda",
+      "distance": 3,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Kalandula Falls",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 406,
+      "description": "One of Africa's largest waterfalls - a 105m curtain of water in the jungle",
+      "distance": 400,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Quicama National Park",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 76,
+      "description": "Angola's premier safari park recovering after civil war with elephants and lions",
+      "distance": 70,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Muxima Church & Quanza River",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 146,
+      "description": "16th-century Portuguese church on a dramatic cliff overlooking the Quanza River",
+      "distance": 140,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Marginal Waterfront Promenade",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 7,
+      "description": "Luanda's renovated palm-lined bay promenade with views of the South Atlantic",
+      "distance": 1,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Luanda Cathedral",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 7,
+      "description": "17th-century Portuguese colonial cathedral - the oldest Catholic church in Angola",
+      "distance": 1,
+      "URL": "https://www.angola.travel/"
+    },
+    {
+      "rank": 10,
+      "name": "Futungo de Belas Beach",
+      "postcode": "CP 2482",
+      "distanceKmFromAirport": 26,
+      "description": "South Luanda beach with calmer Atlantic waters and local beach life",
+      "distance": 20,
+      "URL": "https://www.angola.travel/"
+    }
+  ]
+}

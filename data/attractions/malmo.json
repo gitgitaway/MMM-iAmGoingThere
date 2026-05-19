@@ -1,0 +1,98 @@
+{
+  "city": "Malmo",
+  "country": "Sweden",
+  "airportPostcode": "230 32",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Turning Torso",
+      "postcode": "211 15",
+      "distanceKmFromAirport": 32,
+      "description": "Scandinavia's tallest building, Santiago Calatrava's iconic twisted skyscraper",
+      "distance": 1.5,
+      "URL": "https://www.hsvab.se/en/turning-torso/"
+    },
+    {
+      "rank": 2,
+      "name": "Western Harbour (Vastra Hamnen)",
+      "postcode": "211 19",
+      "distanceKmFromAirport": 32,
+      "description": "Sustainable urban development showcase with striking modern architecture",
+      "distance": 1.5,
+      "URL": "https://malmo.se/"
+    },
+    {
+      "rank": 3,
+      "name": "Malmo Castle (Malmohus)",
+      "postcode": "211 18",
+      "distanceKmFromAirport": 31,
+      "description": "15th-century castle housing history, art and natural history museums",
+      "distance": 1.0,
+      "URL": "https://malmo.se/Uppleva-och-gora/Museer-och-utstallningar/Malmo-Museum.html"
+    },
+    {
+      "rank": 4,
+      "name": "Old Town (Gamla Staden)",
+      "postcode": "211 22",
+      "distanceKmFromAirport": 31,
+      "description": "Charming medieval core with Stortorget square and the beautifully preserved Lilla Torg",
+      "distance": 0.5,
+      "URL": "https://malmo.se/"
+    },
+    {
+      "rank": 5,
+      "name": "Oresund Bridge",
+      "postcode": "230 32",
+      "distanceKmFromAirport": 24,
+      "description": "Iconic 8km bridge-tunnel connecting Malmo to Copenhagen over the Oresund strait",
+      "distance": 6.0,
+      "URL": "https://www.oresundsbron.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Moderna Museet Malmo",
+      "postcode": "211 24",
+      "distanceKmFromAirport": 31,
+      "description": "Satellite of Stockholm's Moderna Museet in a renovated power station",
+      "distance": 1.0,
+      "URL": "https://www.modernamuseet.se/malmo/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Stortorget",
+      "postcode": "211 22",
+      "distanceKmFromAirport": 30,
+      "description": "Vast market square with the statue of King Karl X Gustav and City Hall",
+      "distance": 0.3,
+      "URL": "https://malmo.se/"
+    },
+    {
+      "rank": 8,
+      "name": "Pildammsparken",
+      "postcode": "214 21",
+      "distanceKmFromAirport": 32,
+      "description": "Large city park with a theatre, sculpture garden and lake",
+      "distance": 2.0,
+      "URL": "https://malmo.se/"
+    },
+    {
+      "rank": 9,
+      "name": "St Peter's Church",
+      "postcode": "211 34",
+      "distanceKmFromAirport": 30,
+      "description": "Magnificent 14th-century brick Gothic church with medieval frescoes",
+      "distance": 0.3,
+      "URL": "https://petrikyrkan.se/"
+    },
+    {
+      "rank": 10,
+      "name": "Malmo Food Hall (Saluhallen)",
+      "postcode": "211 24",
+      "distanceKmFromAirport": 31,
+      "description": "Historic covered market with the best of Swedish and Mediterranean produce",
+      "distance": 1.0,
+      "URL": "https://malmo.se/"
+    }
+  ]
+}

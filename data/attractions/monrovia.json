@@ -1,0 +1,98 @@
+{
+  "city": "Monrovia",
+  "country": "Liberia",
+  "airportPostcode": "1000",
+  "airportDistanceKm": 56,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Sapo National Park",
+      "postcode": "4000",
+      "distanceKmFromAirport": 180,
+      "description": "West Africa's second largest rainforest with pygmy hippos and chimpanzees",
+      "distance": 125,
+      "URL": "https://www.saponationalpark.lr"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of Liberia",
+      "postcode": "1000",
+      "distanceKmFromAirport": 58,
+      "description": "Liberian history from founding by freed American slaves to modern times",
+      "distance": 3,
+      "URL": "https://www.nationalmuseumofLiberia.org"
+    },
+    {
+      "rank": 3,
+      "name": "Providence Island",
+      "postcode": "1000",
+      "distanceKmFromAirport": 57,
+      "description": "Island in the Mesurado River where the first freed American slaves landed in 1820",
+      "distance": 2,
+      "URL": "https://www.monrovia.gov.lr"
+    },
+    {
+      "rank": 4,
+      "name": "Barnersville Beach",
+      "postcode": "1001",
+      "distanceKmFromAirport": 72,
+      "description": "Atlantic beach north of Monrovia with beach bars and surfing",
+      "distance": 18,
+      "URL": "https://www.barnersvillebeach.lr"
+    },
+    {
+      "rank": 5,
+      "name": "Ducor Hotel Ruins",
+      "postcode": "1000",
+      "distanceKmFromAirport": 59,
+      "description": "Hilltop Intercontinental Hotel ruins with panoramic views - symbol of Liberia's civil wars",
+      "distance": 4,
+      "URL": "https://www.monrovia.gov.lr"
+    },
+    {
+      "rank": 6,
+      "name": "Old Capitol Building",
+      "postcode": "1000",
+      "distanceKmFromAirport": 58,
+      "description": "American-inspired antebellum architecture from Liberia's founding era",
+      "distance": 3,
+      "URL": "https://www.monrovia.gov.lr/capitol"
+    },
+    {
+      "rank": 7,
+      "name": "Waterside Market",
+      "postcode": "1000",
+      "distanceKmFromAirport": 57,
+      "description": "Main market in downtown Monrovia",
+      "distance": 2,
+      "URL": "https://www.monrovia.gov.lr/market"
+    },
+    {
+      "rank": 8,
+      "name": "Kendeja Resort & Waterpark",
+      "postcode": "1002",
+      "distanceKmFromAirport": 75,
+      "description": "Beach resort south of the city with Atlantic swimming",
+      "distance": 20,
+      "URL": "https://www.kendeja.com.lr"
+    },
+    {
+      "rank": 9,
+      "name": "Elwa Beach",
+      "postcode": "1001",
+      "distanceKmFromAirport": 68,
+      "description": "Long Atlantic beach accessible from the city",
+      "distance": 14,
+      "URL": "https://www.elwabeach.lr"
+    },
+    {
+      "rank": 10,
+      "name": "Palm Butter Soup with Rice",
+      "postcode": "1000",
+      "distanceKmFromAirport": 58,
+      "description": "Liberia's national dish - palm nut broth with chicken, fish and bitter balls",
+      "distance": 3,
+      "URL": "https://www.liberia.gov.lr/cuisine"
+    }
+  ]
+}

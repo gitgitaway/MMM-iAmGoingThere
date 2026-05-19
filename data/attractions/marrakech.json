@@ -1,0 +1,98 @@
+{
+  "city": "Marrakech",
+  "country": "Morocco",
+  "airportPostcode": "40000",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Djemaa el-Fna Square",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO Living Heritage - the world's greatest spectacle at sunset with snake charmers, musicians and food stalls",
+      "distance": 1.5,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Souks of Marrakech",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "Labyrinthine souks of the medina - leather tanners, spice sellers, carpet weavers and silversmiths",
+      "distance": 1.5,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Bahia Palace",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "Late 19th-century palace with carved plasterwork, mosaic floors and cedarwood ceilings",
+      "distance": 1.8,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Majorelle Garden (Yves Saint Laurent)",
+      "postcode": "40090",
+      "distanceKmFromAirport": 10,
+      "description": "Cobalt blue garden designed by painter Jacques Majorelle, owned by Yves Saint Laurent",
+      "distance": 3.5,
+      "URL": "https://www.jardinmajorelle.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Koutoubia Mosque",
+      "postcode": "40000",
+      "distanceKmFromAirport": 7,
+      "description": "Marrakech's most important mosque with a 70m minaret visible across the city",
+      "distance": 1.2,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Ben Youssef Medersa",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "14th-century Quranic school with the most beautiful Islamic architecture in Marrakech",
+      "distance": 2.0,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Saadian Tombs",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "16th-century royal necropolis sealed by Sultan Moulay Ismail and rediscovered in 1917",
+      "distance": 2.0,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Hammam Experience",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "Traditional Moroccan steam bath with a kessa exfoliation and argan oil massage",
+      "distance": 1.5,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Atlas Mountains Day Trip",
+      "postcode": "42000",
+      "distanceKmFromAirport": 81,
+      "description": "Berber villages, cedar forests and mountain hiking 1 hour from Marrakech",
+      "distance": 75.0,
+      "URL": "https://www.visitmorocco.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Riad Dinner",
+      "postcode": "40000",
+      "distanceKmFromAirport": 8,
+      "description": "Dinner in a traditional Moroccan courtyard house with tagine, bastilla and mint tea",
+      "distance": 1.5,
+      "URL": "https://www.visitmorocco.com/en/"
+    }
+  ]
+}

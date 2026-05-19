@@ -1,0 +1,98 @@
+{
+  "city": "Male",
+  "country": "Maldives",
+  "airportPostcode": "20076",
+  "airportDistanceKm": 2,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Overwater Bungalow Resort Stay",
+      "postcode": "20026",
+      "distanceKmFromAirport": 22,
+      "description": "Stay in a glass-floor overwater villa above the turquoise Indian Ocean lagoon",
+      "distance": 20.0,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Manta Ray & Whale Shark Snorkelling",
+      "postcode": "07020",
+      "distanceKmFromAirport": 122,
+      "description": "Hanifaru Bay UNESCO Biosphere Reserve - snorkel with hundreds of manta rays feeding",
+      "distance": 120.0,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Coral Reef Diving & Snorkelling",
+      "postcode": "20026",
+      "distanceKmFromAirport": 12,
+      "description": "UNESCO-protected reefs with sea turtles, reef sharks, napoleonfish and hard corals",
+      "distance": 10.0,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Male Friday Mosque (Hukuru Miskiy)",
+      "postcode": "20026",
+      "distanceKmFromAirport": 2,
+      "description": "17th-century coral stone mosque with intricate Arabic calligraphy and lacquer carvings",
+      "distance": 0.2,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Maldives",
+      "postcode": "20375",
+      "distanceKmFromAirport": 2,
+      "description": "Pre-Islamic artefacts, royal regalia and Buddhist coral stone sculptures",
+      "distance": 0.3,
+      "URL": "https://museum.gov.mv/"
+    },
+    {
+      "rank": 6,
+      "name": "Malé Fish Market (Local Market)",
+      "postcode": "20026",
+      "distanceKmFromAirport": 2,
+      "description": "Dawn tuna market where fishermen bring in their catch - the heartbeat of Maldivian life",
+      "distance": 0.3,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Bioluminescent Beach",
+      "postcode": "20026",
+      "distanceKmFromAirport": 52,
+      "description": "Night swimming where plankton light up the water with electric blue bioluminescence",
+      "distance": 50.0,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Sandbank Picnic",
+      "postcode": "20026",
+      "distanceKmFromAirport": 17,
+      "description": "Uninhabited sandbanks only centimetres above sea level - ultimate isolation",
+      "distance": 15.0,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Sunset Dolphin Cruise",
+      "postcode": "20026",
+      "distanceKmFromAirport": 3,
+      "description": "Spinner dolphins somersault beside the boat as the sun sets over the Indian Ocean",
+      "distance": 0.5,
+      "URL": "https://www.visitmaldives.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Mas Huni (Tuna & Coconut Breakfast)",
+      "postcode": "20026",
+      "distanceKmFromAirport": 2,
+      "description": "Traditional Maldivian breakfast - shredded tuna with coconut, onion and chilli on flatbread",
+      "distance": 0.3,
+      "URL": "https://www.visitmaldives.com/"
+    }
+  ]
+}

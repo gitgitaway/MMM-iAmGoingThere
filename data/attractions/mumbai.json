@@ -1,0 +1,98 @@
+{
+  "city": "Mumbai",
+  "country": "India",
+  "airportPostcode": "400099",
+  "airportDistanceKm": 30,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Gateway of India",
+      "postcode": "400001",
+      "distanceKmFromAirport": 35,
+      "description": "1924 triumphal arch on the waterfront where the last British troops sailed away in 1948",
+      "distance": 5,
+      "URL": "https://www.maharashtratourism.gov.in/"
+    },
+    {
+      "rank": 2,
+      "name": "Elephanta Caves",
+      "postcode": "400094",
+      "distanceKmFromAirport": 42,
+      "description": "UNESCO World Heritage 5th-century cave temples to Shiva on an island in Mumbai harbour",
+      "distance": 12,
+      "URL": "https://www.asi.nic.in/"
+    },
+    {
+      "rank": 3,
+      "name": "Chhatrapati Shivaji Maharaj Terminus (CST)",
+      "postcode": "400001",
+      "distanceKmFromAirport": 35,
+      "description": "UNESCO World Heritage Victorian Gothic railway station - a masterpiece of colonial architecture",
+      "distance": 5,
+      "URL": "https://www.maharashtratourism.gov.in/"
+    },
+    {
+      "rank": 4,
+      "name": "Dharavi Slum Tour",
+      "postcode": "400017",
+      "distanceKmFromAirport": 38,
+      "description": "Reality Tours explores Asia's largest slum - 1 million people in 2.1sq km",
+      "distance": 8,
+      "URL": "https://www.realitytoursandtravel.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Colaba Causeway & Bollywood Mumbai",
+      "postcode": "400005",
+      "distanceKmFromAirport": 35,
+      "description": "Colonial shopping street and film studio tour - Bollywood produces 1,000 films per year",
+      "distance": 5,
+      "URL": "https://www.filmcityindia.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Marine Drive (Queen's Necklace)",
+      "postcode": "400020",
+      "distanceKmFromAirport": 35,
+      "description": "Art Deco promenade around Back Bay - glittering at night like a string of pearls",
+      "distance": 5,
+      "URL": "https://www.maharashtratourism.gov.in/"
+    },
+    {
+      "rank": 7,
+      "name": "Dabbawala Lunchbox Delivery",
+      "postcode": "400023",
+      "distanceKmFromAirport": 35,
+      "description": "200,000 lunches delivered daily by 5,000 dabbawalas with near-perfect accuracy",
+      "distance": 5,
+      "URL": "https://www.mydabbawala.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Juhu Beach & Chowpatty Beach",
+      "postcode": "400049",
+      "distanceKmFromAirport": 45,
+      "description": "Mumbai's beaches at sunset with bhel puri, pani puri and masala corn street food",
+      "distance": 15,
+      "URL": "https://www.maharashtratourism.gov.in/"
+    },
+    {
+      "rank": 9,
+      "name": "Taj Mahal Palace Hotel",
+      "postcode": "400001",
+      "distanceKmFromAirport": 35,
+      "description": "1903 iconic hotel - have Masala Chai in the Sea Lounge overlooking the Gateway of India",
+      "distance": 5,
+      "URL": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
+    },
+    {
+      "rank": 10,
+      "name": "Sanjay Gandhi National Park",
+      "postcode": "400066",
+      "distanceKmFromAirport": 55,
+      "description": "Urban national park with leopards, ancient Buddhist caves and the Kanheri Caves",
+      "distance": 25,
+      "URL": "https://www.sanjaygandhipark.com/"
+    }
+  ]
+}

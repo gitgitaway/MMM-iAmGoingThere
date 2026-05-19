@@ -1,0 +1,98 @@
+{
+  "city": "Lviv",
+  "country": "Ukraine",
+  "airportPostcode": "79019",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Lviv Historic Centre",
+      "postcode": "79000",
+      "distanceKmFromAirport": 8,
+      "description": "UNESCO World Heritage old town with Renaissance, Baroque and Gothic architecture",
+      "distance": 0.5,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "High Castle Hill (Vysokyi Zamok)",
+      "postcode": "79008",
+      "distanceKmFromAirport": 8,
+      "description": "Hilltop park with panoramic views over the old town and Lviv's rooftops",
+      "distance": 1.2,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 3,
+      "name": "Rynok Square (Market Square)",
+      "postcode": "79000",
+      "distanceKmFromAirport": 7,
+      "description": "Historic market square surrounded by colourful merchant houses and the 16th-century Town Hall",
+      "distance": 0.2,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Lviv Coffee Culture",
+      "postcode": "79000",
+      "distanceKmFromAirport": 7,
+      "description": "Lviv claims to have introduced coffee to Europe - explore the coffee mine and themed cafes",
+      "distance": 0.3,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 5,
+      "name": "Dormition Church (Uspenska)",
+      "postcode": "79000",
+      "distanceKmFromAirport": 7,
+      "description": "Renaissance ensemble with a three-apse church, the Korniakt Tower and the Chapel of the Three Saints",
+      "distance": 0.4,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 6,
+      "name": "Lychakiv Cemetery",
+      "postcode": "79010",
+      "distanceKmFromAirport": 10,
+      "description": "Romantic 19th-century cemetery with elaborate sculptures and the graves of Ukrainian heroes",
+      "distance": 2.5,
+      "URL": "https://lychakiv.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Armenian Cathedral of the Assumption",
+      "postcode": "79000",
+      "distanceKmFromAirport": 7,
+      "description": "14th-century Armenian cathedral with unique courtyard and 17th-century frescoes",
+      "distance": 0.4,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 8,
+      "name": "Pharmacy Museum",
+      "postcode": "79000",
+      "distanceKmFromAirport": 7,
+      "description": "19th-century pharmacy with original fittings, the oldest operating pharmacy in Ukraine",
+      "distance": 0.3,
+      "URL": "https://lviv.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Shevchenkivskyi Hai Open-Air Museum",
+      "postcode": "79013",
+      "distanceKmFromAirport": 10,
+      "description": "Folk architecture park with 120 original wooden buildings from the Carpathian region",
+      "distance": 3.0,
+      "URL": "https://skansen.lviv.ua/"
+    },
+    {
+      "rank": 10,
+      "name": "Lviv Chocolate Workshop",
+      "postcode": "79000",
+      "distanceKmFromAirport": 7,
+      "description": "Famous chocolate workshops making the city's renowned handmade truffles and pralines",
+      "distance": 0.3,
+      "URL": "https://chocolate.lviv.ua/"
+    }
+  ]
+}

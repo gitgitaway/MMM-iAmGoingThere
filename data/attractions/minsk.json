@@ -1,0 +1,98 @@
+{
+  "city": "Minsk",
+  "country": "Belarus",
+  "airportPostcode": "211670",
+  "airportDistanceKm": 42,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Independence Avenue (Praspiekt Niezaliezhnasci)",
+      "postcode": "220012",
+      "distanceKmFromAirport": 48,
+      "description": "Grand Soviet-era boulevard with Stalinist architecture stretching 15km through the city",
+      "distance": 8,
+      "URL": "https://www.minsk.gov.by"
+    },
+    {
+      "rank": 2,
+      "name": "Independence Square",
+      "postcode": "220012",
+      "distanceKmFromAirport": 48,
+      "description": "Vast central square dominated by the House of Government and the KGB headquarters",
+      "distance": 8,
+      "URL": "https://www.minsk.gov.by"
+    },
+    {
+      "rank": 3,
+      "name": "Mir Castle",
+      "postcode": "222233",
+      "distanceKmFromAirport": 142,
+      "description": "UNESCO World Heritage 16th-century Gothic-Renaissance castle 100km from Minsk",
+      "distance": 100,
+      "URL": "https://mircastle.by"
+    },
+    {
+      "rank": 4,
+      "name": "Nesvizh Castle",
+      "postcode": "222502",
+      "distanceKmFromAirport": 130,
+      "description": "UNESCO World Heritage Radziwill family palace with formal gardens and frescoes",
+      "distance": 90,
+      "URL": "https://nesvizh.by"
+    },
+    {
+      "rank": 5,
+      "name": "Great Patriotic War Museum",
+      "postcode": "220039",
+      "distanceKmFromAirport": 52,
+      "description": "Belarus's largest museum commemorating WWII, with a remarkable star-shaped building",
+      "distance": 12,
+      "URL": "https://wwii.by"
+    },
+    {
+      "rank": 6,
+      "name": "Trinity Suburb (Traetskae Pradmestse)",
+      "postcode": "220029",
+      "distanceKmFromAirport": 46,
+      "description": "Minsk's restored 19th-century old town along the Svislach river",
+      "distance": 5,
+      "URL": "https://www.minsk.gov.by"
+    },
+    {
+      "rank": 7,
+      "name": "Island of Tears Memorial",
+      "postcode": "220030",
+      "distanceKmFromAirport": 45,
+      "description": "Haunting memorial on a small island to soldiers who died in the Soviet-Afghan War",
+      "distance": 4,
+      "URL": "https://www.minsk.gov.by"
+    },
+    {
+      "rank": 8,
+      "name": "Minsk Metro Art",
+      "postcode": "220030",
+      "distanceKmFromAirport": 46,
+      "description": "Soviet-era metro stations with elaborate mosaics, stained glass and socialist murals",
+      "distance": 5,
+      "URL": "https://www.minskmetro.by"
+    },
+    {
+      "rank": 9,
+      "name": "National Art Museum of Belarus",
+      "postcode": "220012",
+      "distanceKmFromAirport": 48,
+      "description": "Largest art museum in Belarus with 27,000 works including Belarusian and Russian masters",
+      "distance": 8,
+      "URL": "https://artmuseum.by"
+    },
+    {
+      "rank": 10,
+      "name": "Brest Fortress",
+      "postcode": "224020",
+      "distanceKmFromAirport": 352,
+      "description": "WWII fortress where Soviet soldiers held out against Nazi attack - a moving memorial",
+      "distance": 310,
+      "URL": "https://brest-fortress.by"
+    }
+  ]
+}

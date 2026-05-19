@@ -1,0 +1,98 @@
+{
+  "city": "Malaga",
+  "country": "Spain",
+  "airportPostcode": "29004",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Picasso Museum Malaga",
+      "postcode": "29015",
+      "distanceKmFromAirport": 9,
+      "description": "Birthplace museum of Pablo Picasso with over 200 of his works in a Renaissance palace",
+      "distance": 1.0,
+      "URL": "https://www.museopicassomalaga.org/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Alcazaba",
+      "postcode": "29012",
+      "distanceKmFromAirport": 9,
+      "description": "Magnificent 11th-century Moorish palace-fortress overlooking the city and harbour",
+      "distance": 1.2,
+      "URL": "https://www.malagaturismo.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Malaga Cathedral",
+      "postcode": "29015",
+      "distanceKmFromAirport": 9,
+      "description": "Renaissance cathedral nicknamed La Manquita for its unfinished second tower",
+      "distance": 0.8,
+      "URL": "https://www.malagaturismo.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Muelle Uno",
+      "postcode": "29001",
+      "distanceKmFromAirport": 10,
+      "description": "Stylish harbour promenade with boutiques, restaurants and views of the Alcazaba",
+      "distance": 1.5,
+      "URL": "https://www.muelleuno.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Centre Pompidou Malaga",
+      "postcode": "29016",
+      "distanceKmFromAirport": 10,
+      "description": "Satellite of the Paris Centre Pompidou in a striking glass cube on the waterfront",
+      "distance": 1.5,
+      "URL": "https://www.centrepompidou-malaga.eu/"
+    },
+    {
+      "rank": 6,
+      "name": "Gibralfaro Castle",
+      "postcode": "29016",
+      "distanceKmFromAirport": 10,
+      "description": "14th-century Moorish castle connected to the Alcazaba with superb city panoramas",
+      "distance": 2.0,
+      "URL": "https://www.malagaturismo.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Roman Theatre",
+      "postcode": "29012",
+      "distanceKmFromAirport": 9,
+      "description": "1st-century BC Roman theatre discovered beneath the city, now an open-air museum",
+      "distance": 1.2,
+      "URL": "https://www.malagaturismo.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Caminito del Rey",
+      "postcode": "29552",
+      "distanceKmFromAirport": 68,
+      "description": "Thrilling 7.7km walkway pinned to vertical gorge walls near El Chorro",
+      "distance": 60.0,
+      "URL": "https://www.caminitodelrey.info/"
+    },
+    {
+      "rank": 9,
+      "name": "La Malagueta Beach",
+      "postcode": "29016",
+      "distanceKmFromAirport": 10,
+      "description": "Urban beach with fine sand just a short walk from the city centre",
+      "distance": 2.0,
+      "URL": "https://www.malagaturismo.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Atarazanas Market",
+      "postcode": "29005",
+      "distanceKmFromAirport": 9,
+      "description": "19th-century iron market hall incorporating a magnificent 14th-century Moorish arch",
+      "distance": 0.8,
+      "URL": "https://www.malagaturismo.com/"
+    }
+  ]
+}

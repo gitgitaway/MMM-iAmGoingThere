@@ -1,0 +1,98 @@
+{
+  "city": "Memmingen",
+  "country": "Germany",
+  "airportPostcode": "87766",
+  "airportDistanceKm": 5,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Memmingen Old Town",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Beautifully preserved medieval town centre with walls, towers and merchant houses",
+      "distance": 1,
+      "URL": "https://www.memmingen.de"
+    },
+    {
+      "rank": 2,
+      "name": "Martin Luther Square",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Main market square with the elegant Renaissance town hall and surrounding architecture",
+      "distance": 1,
+      "URL": "https://www.memmingen.de/marktplatz"
+    },
+    {
+      "rank": 3,
+      "name": "Church of Our Lady",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Late Gothic hall church with original frescoes and remarkable carved altarpiece",
+      "distance": 1,
+      "URL": "https://www.liebfrauenkirche-memmingen.de"
+    },
+    {
+      "rank": 4,
+      "name": "Memmingen Museum",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Regional history museum in the Antonierhaus with art and local history collections",
+      "distance": 0.8,
+      "URL": "https://www.memmingen.de/museum"
+    },
+    {
+      "rank": 5,
+      "name": "Medieval Town Walls",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Well-preserved ring of walls and towers encircling the old town",
+      "distance": 1.5,
+      "URL": "https://www.memmingen.de/stadmauer"
+    },
+    {
+      "rank": 6,
+      "name": "Sieben-Kindl Fountain",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Charming fountain depicting the Seven Children legend central to Memmingen folklore",
+      "distance": 0.5,
+      "URL": "https://www.memmingen.de/fountains"
+    },
+    {
+      "rank": 7,
+      "name": "Fischermarkt",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Annual fishermen's festival where fishing rights to the Stadtbach stream are auctioned",
+      "distance": 1,
+      "URL": "https://www.fischermarkt.de"
+    },
+    {
+      "rank": 8,
+      "name": "Schloss Kronburg",
+      "postcode": "87744",
+      "distanceKmFromAirport": 13,
+      "description": "Medieval hilltop castle with a restaurant and commanding views over the Iller valley",
+      "distance": 9,
+      "URL": "https://www.schloss-kronburg.de"
+    },
+    {
+      "rank": 9,
+      "name": "Staudacher Weiher",
+      "postcode": "87766",
+      "distanceKmFromAirport": 8,
+      "description": "Local nature reserve and swimming lake popular with cyclists and walkers",
+      "distance": 4,
+      "URL": "https://www.memmingen.de/natur"
+    },
+    {
+      "rank": 10,
+      "name": "Memmingen Fuggerbau",
+      "postcode": "87700",
+      "distanceKmFromAirport": 6,
+      "description": "Renaissance palace built by the powerful Fugger banking family",
+      "distance": 1.2,
+      "URL": "https://www.memmingen.de/fuggerbau"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Limassol",
+  "country": "Cyprus",
+  "airportPostcode": "4608",
+  "airportDistanceKm": 40,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Limassol Castle and Medieval Museum",
+      "postcode": "3601",
+      "distanceKmFromAirport": 41,
+      "description": "Medieval Byzantine castle where Richard the Lionheart married Berengaria in 1191; today houses an excellent medieval museum with armour and artefacts",
+      "distance": 0.5,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Old Port and Marina",
+      "postcode": "3601",
+      "distanceKmFromAirport": 41,
+      "description": "Limassol's atmospheric old harbour with fishing boats, traditional cafes and the new luxury marina; starting point for coastal boat trips",
+      "distance": 0.8,
+      "URL": "https://www.visitlimassol.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Limassol Municipal Gardens and Zoo",
+      "postcode": "3036",
+      "distanceKmFromAirport": 41,
+      "description": "Attractive public gardens with a small zoo, an open-air theatre hosting the annual Limassol Festival and a shaded promenade along the seafront",
+      "distance": 1.0,
+      "URL": "https://www.visitlimassol.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Kolossi Castle",
+      "postcode": "4640",
+      "distanceKmFromAirport": 30,
+      "description": "Beautifully preserved 15th-century Crusader castle, headquarters of the Knights of St. John; surrounded by vineyards producing Commandaria wine",
+      "distance": 15.0,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Kourion Archaeological Site",
+      "postcode": "4560",
+      "distanceKmFromAirport": 25,
+      "description": "Spectacular clifftop Greco-Roman city with a restored 2nd-century amphitheatre still used for concerts, stunning mosaics and sea views over the bay",
+      "distance": 20.0,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Limassol Seafront Promenade",
+      "postcode": "3025",
+      "distanceKmFromAirport": 41,
+      "description": "11km coastal walkway stretching from the old port to the tourist beaches, perfect for cycling and walking with cafes, playgrounds and sea views",
+      "distance": 1.0,
+      "URL": "https://www.visitlimassol.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Cyprus Wine Museum",
+      "postcode": "4512",
+      "distanceKmFromAirport": 30,
+      "description": "Museum in Erimi village tracing 5,500 years of Cypriot wine history including the world's oldest named wine Commandaria and traditional wine-making methods",
+      "distance": 15.0,
+      "URL": "https://www.cypruswinemuseum.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Akrotiri Salt Lake",
+      "postcode": "4560",
+      "distanceKmFromAirport": 35,
+      "description": "Important wetland and flamingo habitat on the Akrotiri Peninsula; thousands of pink flamingos winter here from October making a spectacular sight",
+      "distance": 18.0,
+      "URL": "https://www.visitcyprus.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Old Town Market (Agora)",
+      "postcode": "3601",
+      "distanceKmFromAirport": 41,
+      "description": "Restored Victorian-era covered market and surrounding lanes full of local cheeses, halloumi, olives and Cypriot delicacies in the heart of the old town",
+      "distance": 0.5,
+      "URL": "https://www.visitlimassol.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Limassol Football Stadiums",
+      "postcode": "3020",
+      "distanceKmFromAirport": 42,
+      "description": "Limassol hosts both Pafos FC (UEFA Conference League 2024-25) and Aris Limassol (UEFA Europa League 2023-24) with modern stadiums in the city",
+      "distance": 3.0,
+      "URL": "https://www.visitlimassol.com/"
+    }
+  ]
+}

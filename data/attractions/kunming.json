@@ -1,0 +1,98 @@
+{
+  "city": "Kunming",
+  "country": "China",
+  "airportPostcode": "651209",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Stone Forest (Shilin)",
+      "postcode": "652201",
+      "distanceKmFromAirport": 111,
+      "description": "UNESCO World Heritage karst limestone formations soaring 30m like a petrified forest",
+      "distance": 85,
+      "URL": "https://www.shilintourism.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Dianchi Lake & Western Hills",
+      "postcode": "650011",
+      "distanceKmFromAirport": 40,
+      "description": "Yunnan's largest lake with the Dragon Gate grottoes carved into the Western Hills",
+      "distance": 14,
+      "URL": "https://www.go-kunming.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Yuantong Temple",
+      "postcode": "650031",
+      "distanceKmFromAirport": 28,
+      "description": "1,200-year-old Buddhist temple complex with gardens, ponds and a Tang-dynasty pagoda",
+      "distance": 2,
+      "URL": "https://www.go-kunming.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Yunnan Provincial Museum",
+      "postcode": "650034",
+      "distanceKmFromAirport": 31,
+      "description": "Bronze Age Dian Kingdom bronzes, minority culture and Yunnan's extraordinary biodiversity",
+      "distance": 5,
+      "URL": "http://www.ynmuseum.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Green Lake Park (Cuihu)",
+      "postcode": "650031",
+      "distanceKmFromAirport": 28,
+      "description": "Beloved city park with red-billed gulls from Siberia October-March and lakeside cafes",
+      "distance": 2,
+      "URL": "https://www.go-kunming.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Lijiang Old Town Day Trip",
+      "postcode": "674100",
+      "distanceKmFromAirport": 306,
+      "description": "UNESCO World Heritage Naxi minority old town with cobblestone streets 3 hours away",
+      "distance": 280,
+      "URL": "https://www.lijiangtourism.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Mushroom Hot Pot",
+      "postcode": "650011",
+      "distanceKmFromAirport": 29,
+      "description": "Yunnan's famous wild mushroom hotpot - an extraordinary variety unique to the province",
+      "distance": 3,
+      "URL": "https://www.go-kunming.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Dali Ancient City Day Trip",
+      "postcode": "671000",
+      "distanceKmFromAirport": 406,
+      "description": "Bai minority old town on Erhai Lake with a Buddhist pagoda and markets",
+      "distance": 380,
+      "URL": "https://www.dali.gov.cn/"
+    },
+    {
+      "rank": 9,
+      "name": "Kunming World Horticultural Expo Garden",
+      "postcode": "650100",
+      "distanceKmFromAirport": 31,
+      "description": "1999 Expo site with 92 national and international gardens",
+      "distance": 5,
+      "URL": "https://www.expo99.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Bamboo Temple (Qiongzhu Si)",
+      "postcode": "650109",
+      "distanceKmFromAirport": 38,
+      "description": "Buddhist temple with 500 extraordinary larger-than-life clay Arhat figures",
+      "distance": 12,
+      "URL": "https://www.go-kunming.com/"
+    }
+  ]
+}

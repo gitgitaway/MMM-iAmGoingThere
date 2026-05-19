@@ -1,0 +1,98 @@
+{
+  "city": "Lille",
+  "country": "France",
+  "airportPostcode": "59810",
+  "airportDistanceKm": 10,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vieux-Lille",
+      "postcode": "59800",
+      "distanceKmFromAirport": 11,
+      "description": "Charming old town of flamand baroque architecture with cobbled streets, trendy boutiques and outstanding restaurants",
+      "distance": 1.5,
+      "URL": "https://www.lilletourism.com/discover-lille/old-lille.html"
+    },
+    {
+      "rank": 2,
+      "name": "Palais des Beaux-Arts",
+      "postcode": "59000",
+      "distanceKmFromAirport": 10,
+      "description": "France's second-greatest fine arts museum after the Louvre, with masterworks by Rubens, Van Dyck, Goya and Donatello",
+      "distance": 0.8,
+      "URL": "https://www.pba-lille.fr/en"
+    },
+    {
+      "rank": 3,
+      "name": "Grand Place (Place du Général de Gaulle)",
+      "postcode": "59000",
+      "distanceKmFromAirport": 10,
+      "description": "Lille's magnificent central square dominated by the Goddess Column and surrounded by baroque Flemish-style buildings",
+      "distance": 0.5,
+      "URL": "https://www.lilletourism.com/discover-lille/grand-place.html"
+    },
+    {
+      "rank": 4,
+      "name": "Citadelle de Lille",
+      "postcode": "59000",
+      "distanceKmFromAirport": 11,
+      "description": "Vauban's masterpiece star-shaped fortress of 1670, still in military use, surrounded by a moat and tree-lined boulevards",
+      "distance": 1.8,
+      "URL": "https://www.lilletourism.com/discover-lille/vauban-citadel.html"
+    },
+    {
+      "rank": 5,
+      "name": "Musée de l'Hospice Comtesse",
+      "postcode": "59800",
+      "distanceKmFromAirport": 11,
+      "description": "Beautifully preserved medieval hospital founded in 1237 now exhibiting Flemish furniture, paintings and devotional art",
+      "distance": 1.5,
+      "URL": "https://musee-hospice-comtesse.lille.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Euralille Shopping Centre",
+      "postcode": "59777",
+      "distanceKmFromAirport": 10,
+      "description": "Vast futuristic shopping complex designed by Rem Koolhaas next to Lille-Europe station at the heart of the Eurostar hub",
+      "distance": 0.6,
+      "URL": "https://www.euralille.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Place du Lion d'Or",
+      "postcode": "59800",
+      "distanceKmFromAirport": 11,
+      "description": "Lively square in the heart of Vieux-Lille lined with terrace cafes ideal for watching city life over a Belgian beer",
+      "distance": 1.2,
+      "URL": "https://www.lilletourism.com/"
+    },
+    {
+      "rank": 8,
+      "name": "La Piscine Museum of Art and Industry",
+      "postcode": "59100",
+      "distanceKmFromAirport": 13,
+      "description": "Extraordinary art deco swimming pool transformed into a museum of fine and applied arts in nearby Roubaix",
+      "distance": 11.0,
+      "URL": "https://www.roubaix-lapiscine.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Wazemmes Market",
+      "postcode": "59000",
+      "distanceKmFromAirport": 11,
+      "description": "Huge, vibrant Sunday market in Lille's most multicultural neighbourhood, bursting with world foods and street music",
+      "distance": 1.5,
+      "URL": "https://www.lilletourism.com/shopping/marche-de-wazemmes.html"
+    },
+    {
+      "rank": 10,
+      "name": "Cathédrale Notre-Dame de la Treille",
+      "postcode": "59800",
+      "distanceKmFromAirport": 11,
+      "description": "Unusual neo-Gothic cathedral with a stunning modern marble facade completed in 1999, glowing translucent gold at sunset",
+      "distance": 1.4,
+      "URL": "https://cathedrale-lille.fr/"
+    }
+  ]
+}

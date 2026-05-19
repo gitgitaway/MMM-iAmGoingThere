@@ -1,0 +1,98 @@
+{
+  "city": "Luxembourg City",
+  "country": "Luxembourg",
+  "airportPostcode": "2987",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bock Casemates",
+      "postcode": "L-1468",
+      "distanceKmFromAirport": 7,
+      "description": "UNESCO World Heritage 17km network of underground tunnels carved into the rock over 400 years",
+      "distance": 0.5,
+      "URL": "https://www.luxembourg-city.com/en/place/bock-casemates"
+    },
+    {
+      "rank": 2,
+      "name": "Grand Ducal Palace",
+      "postcode": "L-1017",
+      "distanceKmFromAirport": 6,
+      "description": "Late Renaissance palace in the heart of the old town, official residence of the Grand Duke",
+      "distance": 0.2,
+      "URL": "https://monarchie.lu/"
+    },
+    {
+      "rank": 3,
+      "name": "Notre-Dame Cathedral",
+      "postcode": "L-2240",
+      "distanceKmFromAirport": 6,
+      "description": "Early Baroque cathedral with the revered Our Lady of Luxembourg statue",
+      "distance": 0.3,
+      "URL": "https://www.cathol.lu/"
+    },
+    {
+      "rank": 4,
+      "name": "Adolphe Bridge",
+      "postcode": "L-1114",
+      "distanceKmFromAirport": 7,
+      "description": "Elegant 1903 arch bridge spanning the Petrusse valley with views of the old town",
+      "distance": 0.8,
+      "URL": "https://www.luxembourg-city.com/"
+    },
+    {
+      "rank": 5,
+      "name": "MUDAM Luxembourg",
+      "postcode": "L-2090",
+      "distanceKmFromAirport": 8,
+      "description": "Grand Duke Jean Museum of Modern Art in a striking I.M. Pei building",
+      "distance": 1.5,
+      "URL": "https://www.mudam.com/"
+    },
+    {
+      "rank": 6,
+      "name": "Chemin de la Corniche",
+      "postcode": "L-1344",
+      "distanceKmFromAirport": 7,
+      "description": "Panoramic clifftop promenade dubbed 'Europe's most beautiful balcony'",
+      "distance": 0.5,
+      "URL": "https://www.luxembourg-city.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Pfaffenthal Elevator",
+      "postcode": "L-1629",
+      "distanceKmFromAirport": 7,
+      "description": "Free public panoramic elevator connecting the upper and lower city",
+      "distance": 0.7,
+      "URL": "https://www.luxembourg-city.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Grund District",
+      "postcode": "L-1645",
+      "distanceKmFromAirport": 7,
+      "description": "Picturesque lower town along the Alzette river with bars and riverside walks",
+      "distance": 1.0,
+      "URL": "https://www.luxembourg-city.com/"
+    },
+    {
+      "rank": 9,
+      "name": "National Museum of History and Art",
+      "postcode": "L-1468",
+      "distanceKmFromAirport": 6,
+      "description": "Archaeology, decorative arts and fine art from Gallo-Roman times to today",
+      "distance": 0.3,
+      "URL": "https://mnha.lu/"
+    },
+    {
+      "rank": 10,
+      "name": "Vianden Castle",
+      "postcode": "L-9408",
+      "distanceKmFromAirport": 46,
+      "description": "Day trip to one of Europe's finest Gothic-Romanesque castles above the Our river",
+      "distance": 40.0,
+      "URL": "https://www.vianden-castle.lu/"
+    }
+  ]
+}

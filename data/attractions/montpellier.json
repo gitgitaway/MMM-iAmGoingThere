@@ -1,0 +1,98 @@
+{
+  "city": "Montpellier",
+  "country": "France",
+  "airportPostcode": "34130",
+  "airportDistanceKm": 8,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Place de la Comedie",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "Montpellier's grand egg-shaped central square with the Three Graces fountain",
+      "distance": 0,
+      "URL": "https://www.montpellier-tourisme.fr/"
+    },
+    {
+      "rank": 2,
+      "name": "Musee Fabre",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "One of France's finest provincial art museums with European masters and French paintings",
+      "distance": 0.3,
+      "URL": "https://www.museefabre.fr/"
+    },
+    {
+      "rank": 3,
+      "name": "Promenade du Peyrou",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "Royal esplanade with a triumphal arch, aqueduct and the best views in the city",
+      "distance": 0.5,
+      "URL": "https://www.montpellier-tourisme.fr/"
+    },
+    {
+      "rank": 4,
+      "name": "Jardin des Plantes",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "France's oldest botanical garden founded in 1593 for the medical faculty",
+      "distance": 0.5,
+      "URL": "https://www.montpellier-tourisme.fr/"
+    },
+    {
+      "rank": 5,
+      "name": "Antigone District",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "Ricardo Bofill's vast postmodern neoclassical housing district - extraordinary architecture",
+      "distance": 0.5,
+      "URL": "https://www.montpellier-tourisme.fr/"
+    },
+    {
+      "rank": 6,
+      "name": "Cathedral Saint-Pierre",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "Gothic cathedral with 15th-century porch canopy - the only medieval monument in Montpellier",
+      "distance": 0.5,
+      "URL": "https://www.montpellier-tourisme.fr/"
+    },
+    {
+      "rank": 7,
+      "name": "Palavas-les-Flots Beach",
+      "postcode": "34250",
+      "distanceKmFromAirport": 20,
+      "description": "Lively seaside resort 12km from the city centre with Mediterranean beaches",
+      "distance": 12,
+      "URL": "https://www.palavaslesflots.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Quartier Ecusson",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "Montpellier's medieval old town with winding lanes and Baroque mansions",
+      "distance": 0.3,
+      "URL": "https://www.montpellier-tourisme.fr/"
+    },
+    {
+      "rank": 9,
+      "name": "MO.CO. Contemporary Art Centre",
+      "postcode": "34000",
+      "distanceKmFromAirport": 8,
+      "description": "Cutting-edge contemporary art exhibitions in the Hotel de Montcalm",
+      "distance": 0.3,
+      "URL": "https://www.moco.art/"
+    },
+    {
+      "rank": 10,
+      "name": "Nimes Day Trip",
+      "postcode": "30000",
+      "distanceKmFromAirport": 63,
+      "description": "The world's best preserved Roman city - the Maison Carree, Arena and the Pont du Gard",
+      "distance": 55,
+      "URL": "https://www.tourisme-nimes.fr/"
+    }
+  ]
+}

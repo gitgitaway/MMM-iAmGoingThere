@@ -1,0 +1,98 @@
+{
+  "city": "Monterrey",
+  "country": "Mexico",
+  "airportPostcode": "66600",
+  "airportDistanceKm": 24,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Parque Fundidora",
+      "postcode": "64010",
+      "distanceKmFromAirport": 26,
+      "description": "Vast urban park in a converted 19th-century steel foundry with museums, gardens and a skating rink",
+      "distance": 2.5,
+      "URL": "https://www.parquefundidora.org/"
+    },
+    {
+      "rank": 2,
+      "name": "Cerro de la Silla",
+      "postcode": "67250",
+      "distanceKmFromAirport": 36,
+      "description": "Iconic saddle-shaped mountain, symbol of Monterrey — hike to the summit for panoramic views",
+      "distance": 12.0,
+      "URL": "https://www.visitmonterrey.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Macroplaza & Faro del Comercio",
+      "postcode": "64000",
+      "distanceKmFromAirport": 24,
+      "description": "One of the world's largest public squares with the laser-projecting Faro del Comercio tower",
+      "distance": 0.5,
+      "URL": "https://www.visitmonterrey.com/"
+    },
+    {
+      "rank": 4,
+      "name": "Grutas de Garcia",
+      "postcode": "65550",
+      "distanceKmFromAirport": 69,
+      "description": "Ancient cave system in the Sierra Madre with impressive stalactites, reached by cable car",
+      "distance": 45.0,
+      "URL": "https://www.visitmonterrey.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Museo de Arte Contemporaneo (MARCO)",
+      "postcode": "64000",
+      "distanceKmFromAirport": 25,
+      "description": "Contemporary art museum with a bronze dove sculpture by Juan Soriano at its entrance",
+      "distance": 0.8,
+      "URL": "https://www.marco.org.mx/"
+    },
+    {
+      "rank": 6,
+      "name": "Barrio Antiguo",
+      "postcode": "64000",
+      "distanceKmFromAirport": 25,
+      "description": "Historic neighbourhood with colonial architecture, galleries and the liveliest nightlife in the city",
+      "distance": 1.0,
+      "URL": "https://www.visitmonterrey.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Cascada Cola de Caballo",
+      "postcode": "67400",
+      "distanceKmFromAirport": 64,
+      "description": "Stunning 35-metre Horsetail Falls in the El Cielo biosphere reserve south of the city",
+      "distance": 40.0,
+      "URL": "https://www.visitmonterrey.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Museo del Noreste (MUNE)",
+      "postcode": "64010",
+      "distanceKmFromAirport": 26,
+      "description": "Excellent history museum inside Parque Fundidora covering northeast Mexico across five centuries",
+      "distance": 2.5,
+      "URL": "https://www.parquefundidora.org/mune/"
+    },
+    {
+      "rank": 9,
+      "name": "Mercado Juarez",
+      "postcode": "64000",
+      "distanceKmFromAirport": 24,
+      "description": "Traditional market with regional Norteño food, handcrafts and the famous Mexican burritos",
+      "distance": 0.5,
+      "URL": "https://www.visitmonterrey.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Presa Rodrigo Gomez (La Boca)",
+      "postcode": "67300",
+      "distanceKmFromAirport": 59,
+      "description": "Scenic reservoir in the mountains ideal for kayaking, zip-lining and waterside dining",
+      "distance": 35.0,
+      "URL": "https://www.visitmonterrey.com/"
+    }
+  ]
+}

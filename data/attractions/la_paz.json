@@ -1,0 +1,98 @@
+{
+  "city": "La Paz",
+  "country": "Bolivia",
+  "airportPostcode": "0201",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Salar de Uyuni",
+      "postcode": "5980",
+      "distanceKmFromAirport": 362,
+      "description": "World's largest salt flat at 3,656m - mirror effect in the wet season is extraordinary",
+      "distance": 350,
+      "URL": "https://www.bolivia.travel/"
+    },
+    {
+      "rank": 2,
+      "name": "Teleferico Cable Car System",
+      "postcode": "0201",
+      "distanceKmFromAirport": 13,
+      "description": "World's highest cable car network - 10 lines across La Paz at 3,650m altitude",
+      "distance": 1,
+      "URL": "https://www.miteleferico.bo/"
+    },
+    {
+      "rank": 3,
+      "name": "Witches' Market (Mercado de las Brujas)",
+      "postcode": "0201",
+      "distanceKmFromAirport": 12,
+      "description": "Aymara market selling llama foetuses, coca leaves and potions for Pachamama rituals",
+      "distance": 0.5,
+      "URL": "https://www.bolivia.travel/"
+    },
+    {
+      "rank": 4,
+      "name": "Death Road Mountain Biking",
+      "postcode": "0209",
+      "distanceKmFromAirport": 72,
+      "description": "60km downhill from 4,700m to 1,200m on the world's most dangerous road",
+      "distance": 60,
+      "URL": "https://www.gravity-bolivia.com/"
+    },
+    {
+      "rank": 5,
+      "name": "Tiwanaku Archaeological Site",
+      "postcode": "0202",
+      "distanceKmFromAirport": 84,
+      "description": "UNESCO World Heritage 1,500-year-old pre-Inca civilization site 70km from La Paz",
+      "distance": 72,
+      "URL": "https://www.tiwanaku.bo/"
+    },
+    {
+      "rank": 6,
+      "name": "Plaza Murillo & Cathedral",
+      "postcode": "0201",
+      "distanceKmFromAirport": 12,
+      "description": "Government square with Bolivia's parliament, cathedral and the presidential palace",
+      "distance": 0,
+      "URL": "https://www.bolivia.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Cholita Wrestling",
+      "postcode": "0201",
+      "distanceKmFromAirport": 13,
+      "description": "Bolivian female indigenous wrestlers fighting in traditional pollera skirts and bowler hats",
+      "distance": 1,
+      "URL": "https://www.cholitaluchalibre.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Valle de la Luna (Moon Valley)",
+      "postcode": "0201",
+      "distanceKmFromAirport": 22,
+      "description": "Eerie eroded clay pinnacle landscape 10km from the centre",
+      "distance": 10,
+      "URL": "https://www.bolivia.travel/"
+    },
+    {
+      "rank": 9,
+      "name": "Lake Titicaca Day Trip",
+      "postcode": "0209",
+      "distanceKmFromAirport": 112,
+      "description": "World's highest navigable lake - Taquile Island and the reed islands of the Uros",
+      "distance": 100,
+      "URL": "https://www.titicacabolivia.com/"
+    },
+    {
+      "rank": 10,
+      "name": "Salteña at Mercado Rodriguez",
+      "postcode": "0201",
+      "distanceKmFromAirport": 12,
+      "description": "Bolivia's favourite breakfast - a baked pastry stuffed with spiced meat and boiled egg",
+      "distance": 0.5,
+      "URL": "https://www.bolivia.travel/"
+    }
+  ]
+}

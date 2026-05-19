@@ -1,0 +1,99 @@
+{
+  "city": "Leicester",
+  "country": "England",
+  "airportPostcode": "LE3 8RF",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "King Richard III Visitor Centre",
+      "postcode": "LE1 5PZ",
+      "distanceKmFromAirport": 7,
+      "description": "World-class museum built over the car park where Richard III's skeleton was found in 2012; tells the story of his life, death and extraordinary rediscovery",
+      "distance": 1.5,
+      "URL": "https://kriii.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Leicester Cathedral",
+      "postcode": "LE1 5PZ",
+      "distanceKmFromAirport": 7,
+      "description": "Medieval cathedral housing the newly interred tomb of King Richard III, who died at Bosworth Field in 1485; the final resting place of England's last Plantagenet king",
+      "distance": 1.5,
+      "URL": "https://www.leicestercathedral.org/"
+    },
+    {
+      "rank": 3,
+      "name": "National Space Centre",
+      "postcode": "LE4 5NS",
+      "distanceKmFromAirport": 8,
+      "description": "UK's largest space attraction with six interactive galleries, real rockets, a planetarium and exhibits on the history of space exploration",
+      "distance": 3.5,
+      "URL": "https://www.spacecentre.co.uk/"
+    },
+    {
+      "rank": 4,
+      "name": "New Walk Museum and Art Gallery",
+      "postcode": "LE1 7EA",
+      "distanceKmFromAirport": 7,
+      "description": "Free museum on Leicester's beautiful Georgian pedestrian boulevard with collections of Ancient Egyptian artefacts, Dinosaur Gallery and Picasso ceramics",
+      "distance": 1.5,
+      "URL": "https://www.leicestermuseums.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Leicester Market",
+      "postcode": "LE1 5GG",
+      "distanceKmFromAirport": 7,
+      "description": "Europe's largest open-air covered market dating from the 13th century; a vibrant multicultural bazaar reflecting Leicester's remarkable diversity",
+      "distance": 1.0,
+      "URL": "https://www.leicester.gov.uk/"
+    },
+    {
+      "rank": 6,
+      "name": "Jewry Wall Museum",
+      "postcode": "LE1 4LB",
+      "distanceKmFromAirport": 7,
+      "description": "One of Britain's largest surviving Roman structures; the 2nd-century Jewry Wall stands 9 metres tall beside a museum of Roman Ratae Corieltauvorum",
+      "distance": 1.5,
+      "URL": "https://www.leicestermuseums.org/"
+    },
+    {
+      "rank": 7,
+      "name": "Golden Mile (Belgrave Road)",
+      "postcode": "LE4 5GJ",
+      "distanceKmFromAirport": 8,
+      "description": "Leicester's vibrant South Asian quarter with over 100 Indian restaurants, sweet shops and textile stores; the heart of one of England's most celebrated curry scenes",
+      "distance": 3.0,
+      "URL": "https://www.visitleicester.info/"
+      
+    },
+    {
+      "rank": 8,
+      "name": "Bosworth Battlefield Heritage Centre",
+      "postcode": "CV13 0AD",
+      "distanceKmFromAirport": 25,
+      "description": "Site of the 1485 Battle of Bosworth where Richard III fell; an interactive heritage centre interpreting this pivotal moment in English history",
+      "distance": 20.0,
+      "URL": "https://www.bosworthbattlefield.org.uk/"
+    },
+    {
+      "rank": 9,
+      "name": "Bradgate Park",
+      "postcode": "LE6 0HB",
+      "distanceKmFromAirport": 14,
+      "description": "Ancient deer park of 850 acres north of Leicester with the ruins of Bradgate House, birthplace of Lady Jane Grey, and a herd of free-roaming red deer",
+      "distance": 10.0,
+      "URL": "https://www.bradgatepark.org/"
+    },
+    {
+      "rank": 10,
+      "name": "King Power Stadium",
+      "postcode": "LE2 7FL",
+      "distanceKmFromAirport": 7,
+      "description": "Home of Leicester City with 32,261 capacity; the Foxes' miraculous 2015-16 Premier League title led to a Champions League quarter-final run in 2016-17",
+      "distance": 2.0,
+      "URL": "https://www.lcfc.com/"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "city": "Marseille",
+  "country": "France",
+  "airportPostcode": "13727",
+  "airportDistanceKm": 28,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Vieux-Port",
+      "postcode": "13001",
+      "distanceKmFromAirport": 30.0,
+      "description": "Ancient harbour at the heart of city life with daily fish market and ferries to islands",
+      "distance": 2.0,
+      "URL": "https://www.marseille-tourisme.com"
+    },
+    {
+      "rank": 2,
+      "name": "MuCEM",
+      "postcode": "13002",
+      "distanceKmFromAirport": 30.0,
+      "description": "Museum of European and Mediterranean Civilisations in a striking contemporary building",
+      "distance": 2.0,
+      "URL": "https://www.mucem.org"
+    },
+    {
+      "rank": 3,
+      "name": "Notre-Dame de la Garde",
+      "postcode": "13006",
+      "distanceKmFromAirport": 31.0,
+      "description": "Marseille's beloved hilltop basilica visible from across the city and sea",
+      "distance": 3.0,
+      "URL": "https://www.notredamedelagarde.com"
+    },
+    {
+      "rank": 4,
+      "name": "Calanques National Park",
+      "postcode": "13009",
+      "distanceKmFromAirport": 38.0,
+      "description": "Dramatic limestone inlets with turquoise water perfect for hiking, swimming and kayaking",
+      "distance": 10.0,
+      "URL": "https://www.calanques-parcnational.fr"
+    },
+    {
+      "rank": 5,
+      "name": "Chateau d'If",
+      "postcode": "13007",
+      "distanceKmFromAirport": 33.0,
+      "description": "Island fortress immortalised by Dumas in The Count of Monte Cristo, reachable by ferry",
+      "distance": 5.0,
+      "URL": "https://www.chateaudif.fr"
+    },
+    {
+      "rank": 6,
+      "name": "Le Panier",
+      "postcode": "13002",
+      "distanceKmFromAirport": 30.0,
+      "description": "Oldest district in the city with colourful streets, artisan shops and street art",
+      "distance": 2.0,
+      "URL": "https://www.marseille-tourisme.com"
+    },
+    {
+      "rank": 7,
+      "name": "Palais Longchamp",
+      "postcode": "13004",
+      "distanceKmFromAirport": 31.0,
+      "description": "Monumental 19th-century palace housing the Fine Arts and Natural History museums",
+      "distance": 3.0,
+      "URL": "https://www.marseille.fr"
+    },
+    {
+      "rank": 8,
+      "name": "Frioul Islands",
+      "postcode": "13007",
+      "distanceKmFromAirport": 36.0,
+      "description": "Archipelago of four islands with beaches, hiking and rare flora accessible by ferry",
+      "distance": 8.0,
+      "URL": "https://www.marseille-tourisme.com"
+    },
+    {
+      "rank": 9,
+      "name": "Abbaye Saint-Victor",
+      "postcode": "13007",
+      "distanceKmFromAirport": 30.0,
+      "description": "One of France's oldest churches with 4th-century catacombs and remarkable carved sarcophagi",
+      "distance": 2.0,
+      "URL": "https://www.saintvictor.net"
+    },
+    {
+      "rank": 10,
+      "name": "Cours Julien",
+      "postcode": "13006",
+      "distanceKmFromAirport": 30.5,
+      "description": "Vibrant neighbourhood with street art, independent music venues and eclectic restaurants",
+      "distance": 2.5,
+      "URL": "https://www.marseille-tourisme.com"
+    }
+  ]
+}

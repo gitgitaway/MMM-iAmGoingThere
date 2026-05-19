@@ -1,0 +1,98 @@
+{
+  "city": "Lucknow",
+  "country": "India",
+  "airportPostcode": "226021",
+  "airportDistanceKm": 18,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Bara Imambara",
+      "postcode": "226003",
+      "distanceKmFromAirport": 19,
+      "description": "1784 Nawabi complex with the remarkable Bhulbhuliya labyrinth maze of passages",
+      "distance": 1.0,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 2,
+      "name": "Chota Imambara (Husainabad)",
+      "postcode": "226003",
+      "distanceKmFromAirport": 19,
+      "description": "Nawab Muhammad Ali Shah's 1838 imambara with chandeliers and gilded interior",
+      "distance": 1.2,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 3,
+      "name": "Rumi Darwaza",
+      "postcode": "226003",
+      "distanceKmFromAirport": 19,
+      "description": "Imposing 18m gateway built in 1784 modelled after a gate in Constantinople",
+      "distance": 1.0,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 4,
+      "name": "British Residency",
+      "postcode": "226001",
+      "distanceKmFromAirport": 20,
+      "description": "Ruins of the British Residency besieged for 87 days during the 1857 Uprising",
+      "distance": 1.5,
+      "URL": "https://asi.nic.in/"
+    },
+    {
+      "rank": 5,
+      "name": "Chattar Manzil (Umbrella Palace)",
+      "postcode": "226001",
+      "distanceKmFromAirport": 19,
+      "description": "Nawabi palace on the Gomti riverbank now housing research institutes",
+      "distance": 1.0,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 6,
+      "name": "Chowk Heritage Walk",
+      "postcode": "226003",
+      "distanceKmFromAirport": 20,
+      "description": "Old city market streets with Lucknawi chikankari embroidery workshops",
+      "distance": 1.5,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 7,
+      "name": "Lucknow Zoo & Safari",
+      "postcode": "226001",
+      "distanceKmFromAirport": 22,
+      "description": "One of India's finest zoos featuring tigers, white tigers and gharial crocodiles",
+      "distance": 3.5,
+      "URL": "https://www.lucknowzoo.com/"
+    },
+    {
+      "rank": 8,
+      "name": "Nawab Wajid Ali Shah Planetarium",
+      "postcode": "226001",
+      "distanceKmFromAirport": 21,
+      "description": "Cultural centre celebrating the last Nawab of Awadh's arts and culture",
+      "distance": 3.0,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 9,
+      "name": "Chikankari Embroidery Shopping",
+      "postcode": "226003",
+      "distanceKmFromAirport": 19,
+      "description": "Lucknow's delicate white-on-white needlework embroidery - India's most refined craft",
+      "distance": 1.0,
+      "URL": "https://uptourism.gov.in/"
+    },
+    {
+      "rank": 10,
+      "name": "Tunday Kebabi Restaurant (1905)",
+      "postcode": "226003",
+      "distanceKmFromAirport": 20,
+      "description": "The world's finest kebabs - galouti kebab so soft it melts on your tongue",
+      "distance": 1.5,
+      "URL": "https://uptourism.gov.in/"
+    }
+  ]
+}

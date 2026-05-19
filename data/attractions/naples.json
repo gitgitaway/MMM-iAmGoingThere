@@ -1,0 +1,98 @@
+{
+  "city": "Naples",
+  "country": "Italy",
+  "airportPostcode": "80144",
+  "airportDistanceKm": 6,
+  "things": [
+    {
+      "rank": 1,
+      "name": "National Archaeological Museum",
+      "postcode": "80135",
+      "distanceKmFromAirport": 8,
+      "description": "The world's finest collection of ancient Greek and Roman artefacts including the Farnese Hercules",
+      "distance": 1.5,
+      "URL": "https://mann-napoli.it/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Pompeii Day Trip",
+      "postcode": "80045",
+      "distanceKmFromAirport": 31,
+      "description": "The Roman city preserved in volcanic ash from the 79 AD eruption of Vesuvius — 30 minutes from Naples",
+      "distance": 25.0,
+      "URL": "https://pompeiisites.org/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Mount Vesuvius",
+      "postcode": "80040",
+      "distanceKmFromAirport": 26,
+      "description": "Hike the rim of Europe's only active mainland volcano — one of the world's most famous craters",
+      "distance": 20.0,
+      "URL": "https://www.vesuviopark.it/en/"
+    },
+    {
+      "rank": 4,
+      "name": "Spaccanapoli & Historic Centre",
+      "postcode": "80134",
+      "distanceKmFromAirport": 7,
+      "description": "The arrow-straight Roman decumanus cutting through the UNESCO World Heritage old city of Naples",
+      "distance": 0.8,
+      "URL": "https://www.naples.it/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Naples Pizza Trail",
+      "postcode": "80139",
+      "distanceKmFromAirport": 7,
+      "description": "The birthplace of pizza — visit Gino Sorbillo, Di Matteo and L'Antica Pizzeria da Michele since 1870",
+      "distance": 0.8,
+      "URL": "https://www.accademiadellapizza.it/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Certosa di San Martino",
+      "postcode": "80129",
+      "distanceKmFromAirport": 9,
+      "description": "Stunning Baroque charterhouse and museum atop the Vomero hill with panoramic bay views",
+      "distance": 3.0,
+      "URL": "https://www.polomusealecampania.beniculturali.it/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Amalfi Coast Day Trip",
+      "postcode": "84011",
+      "distanceKmFromAirport": 76,
+      "description": "One of the world's most scenic coastal drives — Positano, Ravello and Amalfi village, 70 km south",
+      "distance": 70.0,
+      "URL": "https://www.amalficoast.it/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Underground Naples (Napoli Sotterranea)",
+      "postcode": "80138",
+      "distanceKmFromAirport": 6,
+      "description": "Labyrinthine Greek aqueducts and WWII bunkers beneath the city streets — fascinating guided tours",
+      "distance": 0.5,
+      "URL": "https://www.napolisotterranea.org/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Castel dell'Ovo",
+      "postcode": "80132",
+      "distanceKmFromAirport": 8,
+      "description": "Naples' oldest castle on a tiny island in the bay — free entry and unbeatable views of Vesuvius",
+      "distance": 2.0,
+      "URL": "https://www.naples.it/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Herculaneum (Ercolano)",
+      "postcode": "80056",
+      "distanceKmFromAirport": 26,
+      "description": "Pompeii's smaller sister town — better preserved wooden structures and mosaics, 20 km from Naples",
+      "distance": 20.0,
+      "URL": "https://ercolano.beniculturali.it/en/"
+    }
+  ]
+}

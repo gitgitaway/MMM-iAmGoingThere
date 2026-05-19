@@ -1,0 +1,98 @@
+{
+  "city": "Lusaka",
+  "country": "Zambia",
+  "airportPostcode": "10101",
+  "airportDistanceKm": 25,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Victoria Falls (Livingstone)",
+      "postcode": "10101",
+      "distanceKmFromAirport": 500,
+      "description": "UNESCO World Heritage world's largest waterfall - 1.7km wide and 108m high",
+      "distance": 475,
+      "URL": "https://www.victoriafalls.net/"
+    },
+    {
+      "rank": 2,
+      "name": "South Luangwa National Park Safari",
+      "postcode": "10101",
+      "distanceKmFromAirport": 625,
+      "description": "Africa's finest walking safari in the wildlife-dense Luangwa Valley",
+      "distance": 600,
+      "URL": "https://www.southluangwa.com/"
+    },
+    {
+      "rank": 3,
+      "name": "Kafue National Park",
+      "postcode": "10101",
+      "distanceKmFromAirport": 175,
+      "description": "Africa's second largest national park with diverse habitats and rare antelope",
+      "distance": 150,
+      "URL": "https://www.kafuenationalpark.com/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Zambia",
+      "postcode": "10101",
+      "distanceKmFromAirport": 28,
+      "description": "Zambian history, traditional arts and the David Livingstone exhibition",
+      "distance": 3,
+      "URL": "https://www.museums.zm/"
+    },
+    {
+      "rank": 5,
+      "name": "Munda Wanga Environmental Park",
+      "postcode": "10101",
+      "distanceKmFromAirport": 40,
+      "description": "Sanctuary for rescued wild animals including lions and leopards near Lusaka",
+      "distance": 15,
+      "URL": "https://www.mundawanga.org/"
+    },
+    {
+      "rank": 6,
+      "name": "Kabwata Cultural Village",
+      "postcode": "10101",
+      "distanceKmFromAirport": 30,
+      "description": "Traditional village within the city demonstrating arts, crafts and dances of Zambia's 73 tribes",
+      "distance": 5,
+      "URL": "https://www.zambia.travel/"
+    },
+    {
+      "rank": 7,
+      "name": "Lusaka National Museum",
+      "postcode": "10101",
+      "distanceKmFromAirport": 28,
+      "description": "Zambian history from prehistoric times to independence",
+      "distance": 3,
+      "URL": "https://www.museums.zm/"
+    },
+    {
+      "rank": 8,
+      "name": "Lower Zambezi National Park",
+      "postcode": "10101",
+      "distanceKmFromAirport": 145,
+      "description": "Canoe safari on the Zambezi with elephants crossing the river",
+      "distance": 120,
+      "URL": "https://www.lowerzambezipark.com/"
+    },
+    {
+      "rank": 9,
+      "name": "Lilayi Elephant Nursery",
+      "postcode": "10101",
+      "distanceKmFromAirport": 40,
+      "description": "Orphaned elephant nursery caring for baby elephants rescued from the bush",
+      "distance": 15,
+      "URL": "https://www.game-rangers.org/"
+    },
+    {
+      "rank": 10,
+      "name": "Nshima with Relishes",
+      "postcode": "10101",
+      "distanceKmFromAirport": 26,
+      "description": "Zambia's staple food - stiff white maize porridge with dried fish, rape leaves and groundnuts",
+      "distance": 1,
+      "URL": "https://www.zambia.travel/"
+    }
+  ]
+}

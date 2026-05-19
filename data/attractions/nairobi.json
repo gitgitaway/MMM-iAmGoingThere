@@ -1,0 +1,98 @@
+{
+  "city": "Nairobi",
+  "country": "Kenya",
+  "airportPostcode": "00501",
+  "airportDistanceKm": 19,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Masai Mara Safari",
+      "postcode": "20500",
+      "distanceKmFromAirport": 289,
+      "description": "World's greatest wildlife reserve - the Great Migration of 1.5 million wildebeest",
+      "distance": 270.0,
+      "URL": "https://www.maasaimara.com/"
+    },
+    {
+      "rank": 2,
+      "name": "Nairobi National Park",
+      "postcode": "00100",
+      "distanceKmFromAirport": 27,
+      "description": "Lions and rhinos with the Nairobi skyline backdrop - unique urban national park",
+      "distance": 8.0,
+      "URL": "https://www.kws.go.ke/nairobi-national-park"
+    },
+    {
+      "rank": 3,
+      "name": "David Sheldrick Elephant Orphanage",
+      "postcode": "00100",
+      "distanceKmFromAirport": 27,
+      "description": "Meet baby elephants rescued from poachers during the 11am feeding and mud bath",
+      "distance": 8.0,
+      "URL": "https://www.sheldrickwildlifetrust.org/"
+    },
+    {
+      "rank": 4,
+      "name": "Giraffe Centre",
+      "postcode": "00502",
+      "distanceKmFromAirport": 37,
+      "description": "Endangered Rothschild giraffes that you can feed and interact with at eye level",
+      "distance": 18.0,
+      "URL": "https://www.giraffecentre.org/"
+    },
+    {
+      "rank": 5,
+      "name": "Karen Blixen Museum",
+      "postcode": "00502",
+      "distanceKmFromAirport": 37,
+      "description": "Out of Africa author's farm house perfectly preserved as she left it in 1931",
+      "distance": 18.0,
+      "URL": "https://www.museums.or.ke/karen-blixen-museum/"
+    },
+    {
+      "rank": 6,
+      "name": "Bomas of Kenya",
+      "postcode": "00100",
+      "distanceKmFromAirport": 28,
+      "description": "Traditional homesteads of 42 Kenyan tribes with evening cultural performances",
+      "distance": 9.0,
+      "URL": "https://www.bomasofkenya.co.ke/"
+    },
+    {
+      "rank": 7,
+      "name": "National Museum of Kenya",
+      "postcode": "00100",
+      "distanceKmFromAirport": 22,
+      "description": "East Africa's finest museum with human evolution fossils from the Great Rift Valley",
+      "distance": 3.5,
+      "URL": "https://www.museums.or.ke/nairobi-national-museum/"
+    },
+    {
+      "rank": 8,
+      "name": "Nairobi Railway Museum",
+      "postcode": "00100",
+      "distanceKmFromAirport": 22,
+      "description": "Locomotives from the 1890s Uganda Railway - the Lunatic Line that built East Africa",
+      "distance": 3.0,
+      "URL": "https://www.museums.or.ke/"
+    },
+    {
+      "rank": 9,
+      "name": "Carnivore Restaurant",
+      "postcode": "00100",
+      "distanceKmFromAirport": 29,
+      "description": "Legendary restaurant serving game meats - ostrich, zebra and kudu on a Maasai sword",
+      "distance": 10.0,
+      "URL": "https://tamarind.co.ke/carnivore/"
+    },
+    {
+      "rank": 10,
+      "name": "Maasai Market",
+      "postcode": "00100",
+      "distanceKmFromAirport": 23,
+      "description": "Roaming craft market selling authentic Maasai beadwork, soapstone and woodcarvings",
+      "distance": 4.0,
+      "URL": "https://www.magicalkenya.com/"
+    }
+  ]
+}

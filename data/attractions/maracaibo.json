@@ -1,0 +1,98 @@
+{
+  "city": "Maracaibo",
+  "country": "Venezuela",
+  "airportPostcode": "4001",
+  "airportDistanceKm": 12,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Catatumbo Lightning",
+      "postcode": "4001",
+      "distanceKmFromAirport": 112,
+      "description": "World's most electrified place - up to 280 lightning strikes per hour over Lake Maracaibo",
+      "distance": 100,
+      "URL": "https://www.catatumbolightning.com/"
+    },
+    {
+      "rank": 2,
+      "name": "General Rafael Urdaneta Bridge",
+      "postcode": "4001",
+      "distanceKmFromAirport": 27,
+      "description": "8.7km bridge crossing Lake Maracaibo - one of the longest pre-stressed bridges in the world",
+      "distance": 15,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 3,
+      "name": "Basilica of Our Lady of Chiquinquira",
+      "postcode": "4001",
+      "distanceKmFromAirport": 13,
+      "description": "Patron saint of Venezuela - massive basilica and site of national pilgrimage",
+      "distance": 1,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 4,
+      "name": "Maracaibo Cathedral",
+      "postcode": "4001",
+      "distanceKmFromAirport": 12,
+      "description": "18th-century colonial cathedral on the Bolivar Plaza in the historic centre",
+      "distance": 0.5,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 5,
+      "name": "Lake Maracaibo Boat Tour",
+      "postcode": "4001",
+      "distanceKmFromAirport": 14,
+      "description": "Boat tour of the oil-rich lake with fishing villages and oil platform views",
+      "distance": 2,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 6,
+      "name": "Vereda del Lago Park",
+      "postcode": "4001",
+      "distanceKmFromAirport": 15,
+      "description": "Lakeside promenade with fountains, gardens and views of the bridge",
+      "distance": 3,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 7,
+      "name": "Santa Barbara Castle (Maracaibo Fort)",
+      "postcode": "4001",
+      "distanceKmFromAirport": 17,
+      "description": "17th-century Spanish fort on the lake shore with a small history museum",
+      "distance": 5,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 8,
+      "name": "Historic Old Town",
+      "postcode": "4001",
+      "distanceKmFromAirport": 12,
+      "description": "Colonial quarter with Casa de los Capitanes and traditional Marabino architecture",
+      "distance": 0.5,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 9,
+      "name": "Los Puertos de Altagracia",
+      "postcode": "4001",
+      "distanceKmFromAirport": 42,
+      "description": "Colonial riverside town across the lake - birthplace of Venezuelan independence heroes",
+      "distance": 30,
+      "URL": "https://www.maracaibo.gob.ve/"
+    },
+    {
+      "rank": 10,
+      "name": "Rafael Urdaneta University Museum",
+      "postcode": "4001",
+      "distanceKmFromAirport": 15,
+      "description": "History and art museum of western Venezuela with pre-Columbian collections",
+      "distance": 3,
+      "URL": "https://www.maracaibo.gob.ve/"
+    }
+  ]
+}

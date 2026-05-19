@@ -1,0 +1,98 @@
+{
+  "city": "Manila",
+  "country": "Philippines",
+  "airportPostcode": "1301",
+  "airportDistanceKm": 7,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Intramuros (Walled City)",
+      "postcode": "1002",
+      "distanceKmFromAirport": 10,
+      "description": "16th-century Spanish colonial walled city with Fort Santiago and San Agustin Church",
+      "distance": 3.0,
+      "URL": "https://www.intramuros.gov.ph/"
+    },
+    {
+      "rank": 2,
+      "name": "Rizal Park (Luneta)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 10,
+      "description": "National park where national hero Jose Rizal was executed in 1896 - cultural focal point",
+      "distance": 2.5,
+      "URL": "https://rizalpark.gov.ph/"
+    },
+    {
+      "rank": 3,
+      "name": "San Agustin Church",
+      "postcode": "1002",
+      "distanceKmFromAirport": 10,
+      "description": "UNESCO World Heritage oldest stone building in the Philippines, built by Augustine friars in 1607",
+      "distance": 3.0,
+      "URL": "https://www.sanagustinchurch.org.ph/"
+    },
+    {
+      "rank": 4,
+      "name": "Binondo Chinatown",
+      "postcode": "1006",
+      "distanceKmFromAirport": 11,
+      "description": "World's oldest Chinatown (1594) with excellent Chinese Filipino food and colonial churches",
+      "distance": 3.5,
+      "URL": "https://www.intramuros.gov.ph"
+    },
+    {
+      "rank": 5,
+      "name": "National Museum of Fine Arts",
+      "postcode": "1000",
+      "distanceKmFromAirport": 10,
+      "description": "Philippines' finest art collection in the neoclassical old Congress building",
+      "distance": 2.5,
+      "URL": "https://www.nationalmuseum.gov.ph/"
+    },
+    {
+      "rank": 6,
+      "name": "BGC (Bonifacio Global City)",
+      "postcode": "1634",
+      "distanceKmFromAirport": 14,
+      "description": "Manila's ultra-modern district with contemporary art, craft beer and food parks",
+      "distance": 7.0,
+      "URL": "https://www.bgcbonifacioglobalcity.com/"
+    },
+    {
+      "rank": 7,
+      "name": "Corregidor Island",
+      "postcode": "1201",
+      "distanceKmFromAirport": 55,
+      "description": "WWII battleground island at the entrance to Manila Bay with preserved ruins and war memorials",
+      "distance": 48.0,
+      "URL": "https://www.sanagustinchurch.org"
+    },
+    {
+      "rank": 8,
+      "name": "Quiapo Church & Market",
+      "postcode": "1001",
+      "distanceKmFromAirport": 10,
+      "description": "Minor basilica housing the Black Nazarene - patron of Manila's Catholic faithful",
+      "distance": 2.5,
+      "URL": "https://www.bgc.com.ph"
+    },
+    {
+      "rank": 9,
+      "name": "Malacanang Palace",
+      "postcode": "1005",
+      "distanceKmFromAirport": 10,
+      "description": "Official residence of Philippine presidents with museum tours on certain days",
+      "distance": 3.0,
+      "URL": "https://www.malacanang.gov.ph/"
+    },
+    {
+      "rank": 10,
+      "name": "Night Life at Poblacion",
+      "postcode": "1210",
+      "distanceKmFromAirport": 11,
+      "description": "Manila's hippest neighbourhood with speakeasies, craft bars and street food",
+      "distance": 4.0,
+      "URL": "https://www.smmallofasia.com"
+    }
+  ]
+}

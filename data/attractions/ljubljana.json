@@ -1,0 +1,98 @@
+{
+  "city": "Ljubljana",
+  "country": "Slovenia",
+  "airportPostcode": "1210",
+  "airportDistanceKm": 26,
+  "things": [
+    {
+      "rank": 1,
+      "name": "Ljubljana Castle",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Medieval hilltop fortress dominating the city skyline with panoramic views, a funicular railway, museums and open-air events in the castle courtyard",
+      "distance": 0.8,
+      "URL": "https://www.ljubljanskigrad.si/en/"
+    },
+    {
+      "rank": 2,
+      "name": "Triple Bridge (Tromostovje)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Joze Plecnik's iconic pedestrian bridge complex of three parallel bridges over the Ljubljanica river, the symbol of Ljubljana's elegant civic design",
+      "distance": 0.3,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 3,
+      "name": "Old Town (Staro Mesto)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Charming baroque and Art Nouveau old town along the Ljubljanica riverbanks, with outdoor cafes, the Dragon Bridge and the vibrant Central Market",
+      "distance": 0.5,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 4,
+      "name": "National Museum of Slovenia",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Slovenia's oldest museum with impressive collections of archaeology, natural history and the famous Vace situla from 500 BC",
+      "distance": 0.8,
+      "URL": "https://www.nms.si/en/"
+    },
+    {
+      "rank": 5,
+      "name": "Metelkova City",
+      "postcode": "1000",
+      "distanceKmFromAirport": 28,
+      "description": "Vibrant autonomous cultural centre in a converted army barracks with galleries, clubs, alternative art spaces and Ljubljana's most eclectic nightlife",
+      "distance": 1.5,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 6,
+      "name": "Dragon Bridge",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Art Nouveau bridge from 1901 adorned with four bronze dragon statues; the dragon is Ljubljana's heraldic symbol, featured on the city's coat of arms",
+      "distance": 0.5,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 7,
+      "name": "Tivoli Park",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Ljubljana's largest park with tree-lined promenades, the International Centre of Graphic Arts and the Tivoli Mansion surrounded by mature woodland",
+      "distance": 1.5,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 8,
+      "name": "Ljubljana Cathedral (St. Nicholas)",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Baroque cathedral from 1708 with a striking green dome and elaborate trompe l'oeil ceiling frescoes by Giulio Quaglio",
+      "distance": 0.4,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 9,
+      "name": "Central Market and Fish Market",
+      "postcode": "1000",
+      "distanceKmFromAirport": 27,
+      "description": "Plecnik-designed covered market along the Ljubljanica selling fresh Slovenian produce, artisan foods and flowers; the daily hub of local life",
+      "distance": 0.4,
+      "URL": "https://www.visitljubljana.com/en/"
+    },
+    {
+      "rank": 10,
+      "name": "Stozice Stadium",
+      "postcode": "1000",
+      "distanceKmFromAirport": 28,
+      "description": "Home of NK Olimpija Ljubljana with a 16,000-seat capacity and also the national stadium of Slovenia; a modern arena north of the city centre",
+      "distance": 4.0,
+      "URL": "https://www.nkolimpija.si/en/"
+    }
+  ]
+}
